@@ -15,7 +15,7 @@ const Select = ({ label, options, value, onChange, className, ...props }: Props)
       <select
         id="location"
         name="location"
-        className="block w-full rounded-md border-0 py-1.5 pl-2 pr-10 text-gray-900 ring-1 ring-inset ring-gray-300"
+        className="block w-full rounded-md border-0 py-1.5 pl-2 pr-10 ring-1 ring-inset ring-gray3"
         value={value}
         onChange={(e) => {
           onChange(e.target.value);

@@ -94,7 +94,7 @@ const MainPage = () => {
 
   return (
     <div>
-      <div className="px-4 py-2 flex items-center justify-between border-b border-gray5 bg-light-gray3">
+      <div className="px-4 py-2 flex items-center justify-between border-b border-gray3 bg-light-gray3">
         <h1 className="font-bold text-lg text-gray-500">Learn English</h1>
         <div className="flex space-x-4">
           <Select

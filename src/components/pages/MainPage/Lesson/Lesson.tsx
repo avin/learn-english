@@ -82,7 +82,7 @@ const Lesson = ({ course, lesson }: Props) => {
               return (
                 <tr
                   key={`${course}_${lesson}_${idx}`}
-                  className="divide-x divide-gray3 bg-white w-[50%]"
+                  className="divide-x divide-gray3 bg-white w-[50%] hover:bg-light-gray5"
                 >
                   <td className="p-4 align-top text-right">{ru}</td>
                   <td

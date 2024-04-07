@@ -15,7 +15,7 @@ export const localStorageGetItem = (key: string) => {
 export const localStorageRemoveItemsByPrefix = (prefix: string) => {
   const fullPrefix = prepareKey(prefix);
   const keys = Object.keys(localStorage);
-  keys.forEach(key => {
+  keys.forEach((key) => {
     if (key.startsWith(fullPrefix)) {
       localStorage.removeItem(key);
     }

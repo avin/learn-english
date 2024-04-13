@@ -10,6 +10,7 @@ import {
   localStorageSetItem,
   saveFavoriteTranslations,
 } from '@/utils/localStorage.ts';
+import {shuffle} from 'lodash-es'
 
 const getLastOpenSentences = (course: Course, lesson: string): number[] => {
   const lastOpenSentences = localStorageGetItem(`lastOpenSentences_${course}_${lesson}`);
@@ -26,6 +27,7 @@ interface Props {
 
 const Lesson = ({ course, lesson }: Props) => {
   const [translations, setTranslations] = useState<Translation | null>(null);
+  const [order, setOrder] = useState<number[]>([]);
   const [openSentences, setOpenSentences] = useState<number[]>(
     getLastOpenSentences(course, lesson),
   );
@@ -64,6 +66,7 @@ const Lesson = ({ course, lesson }: Props) => {
         }
       })();
       setTranslations(newTranslations);
+      setOrder(new Array(newTranslations.length).fill(0).map((_, idx) => idx));
 
       setOpenSentences(getLastOpenSentences(course, lesson));
     })();
@@ -88,12 +91,19 @@ const Lesson = ({ course, lesson }: Props) => {
     setOpenSentences(new Array(translations?.length).fill(0).map((_, idx) => idx));
   };
 
+  const handleClickShuffle = () => {
+    setOrder(v => shuffle(v))
+  };
+
   if (!translations || !translations.length) {
     return null;
   }
 
   const controls = (
     <div className="flex justify-center space-x-2">
+      <Button onClick={handleClickShuffle} intent="warning">
+        Перемешать
+      </Button>
       <Button onClick={handleClickOpenAll} intent="primary">
         Открыть все
       </Button>
@@ -107,9 +117,11 @@ const Lesson = ({ course, lesson }: Props) => {
     <div className="fade-in">
       {controls}
       <div className="mx-auto max-w-[800px] border border-gray3 rounded-lg overflow-hidden my-8">
-        <table className="w-full divide-y divide-gray3 ">
-          <tbody className="divide-y divide-gray3 bg-white">
-            {translations.map(([ru, en], idx) => {
+        <table className="w-full">
+          <tbody className="divide-y divide-gray5 bg-white">
+            {order.map((idx) => {
+              const [ru, en] = translations[idx];
+
               const isOpen = openSentences.includes(idx);
               const isFavorite = favoriteTranslations.find((i) => i[0] === ru && i[1] === en);
               return (

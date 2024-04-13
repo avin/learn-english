@@ -2,7 +2,7 @@ import React from 'react';
 import cn from 'clsx';
 
 interface Props extends React.ComponentPropsWithoutRef<'button'> {
-  intent: 'danger' | 'primary';
+  intent: 'danger' | 'primary' | 'warning';
 }
 
 const Button = ({ className, intent, ...props }: Props) => {
@@ -13,6 +13,7 @@ const Button = ({ className, intent, ...props }: Props) => {
         {
           'bg-blue2 hover:bg-blue3': intent === 'primary',
           'bg-red2 hover:bg-red3': intent === 'danger',
+          'bg-orange2 hover:bg-orange3': intent === 'warning',
         },
         className,
       )}

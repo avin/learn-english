@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import MainPage from '@/components/pages/MainPage/MainPage.tsx';
-import './styles.css';
 import betterFocus from '@/utils/betterFocus.ts';
+import './styles.css';
 
 // Делаем фокус только по табу
 const focusEngine = betterFocus(document.documentElement, 'focus-disabled');

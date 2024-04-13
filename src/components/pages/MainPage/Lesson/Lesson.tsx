@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { HiOutlineStar, HiStar } from 'react-icons/hi';
 import { usePrevious } from 'react-use';
 import cn from 'clsx';
+import { shuffle } from 'lodash-es';
 import Button from '@/components/common/Button/Button.tsx';
 import { Course, Translation } from '@/types';
 import {
@@ -10,7 +11,6 @@ import {
   localStorageSetItem,
   saveFavoriteTranslations,
 } from '@/utils/localStorage.ts';
-import {shuffle} from 'lodash-es'
 
 const getLastOpenSentences = (course: Course, lesson: string): number[] => {
   const lastOpenSentences = localStorageGetItem(`lastOpenSentences_${course}_${lesson}`);
@@ -92,7 +92,7 @@ const Lesson = ({ course, lesson }: Props) => {
   };
 
   const handleClickShuffle = () => {
-    setOrder(v => shuffle(v))
+    setOrder((v) => shuffle(v));
   };
 
   if (!translations || !translations.length) {
@@ -116,7 +116,7 @@ const Lesson = ({ course, lesson }: Props) => {
   return (
     <div className="fade-in">
       {controls}
-      <div className="mx-auto max-w-[800px] border border-gray3 rounded-lg overflow-hidden my-8">
+      <div className="mx-auto my-8 max-w-[800px] overflow-hidden rounded-lg border border-gray3">
         <table className="w-full">
           <tbody className="divide-y divide-gray5 bg-white">
             {order.map((idx) => {
@@ -127,10 +127,10 @@ const Lesson = ({ course, lesson }: Props) => {
               return (
                 <tr
                   key={`${course}_${lesson}_${idx}`}
-                  className="bg-white w-[50%] hover:bg-light-gray5"
+                  className="w-[50%] bg-white hover:bg-light-gray5"
                 >
                   <td
-                    className="px-2 cursor-pointer w-[1px]"
+                    className="w-[1px] cursor-pointer px-2"
                     onClick={() => {
                       addRemoveFromFavoriteTranslations([ru, en]);
                     }}
@@ -141,9 +141,9 @@ const Lesson = ({ course, lesson }: Props) => {
                       <HiOutlineStar size={24} className="text-light-gray3" />
                     )}
                   </td>
-                  <td className="p-4 align-top text-right">{ru}</td>
+                  <td className="p-4 text-right align-top">{ru}</td>
                   <td
-                    className={cn('p-4 align-top w-[50%]', {
+                    className={cn('w-[50%] p-4 align-top', {
                       'cursor-pointer': !isOpen,
                     })}
                     onClick={handleClickEnSentence}
@@ -151,7 +151,7 @@ const Lesson = ({ course, lesson }: Props) => {
                   >
                     <div
                       className={cn('transition-all', {
-                        'text-left text-gray5 bg-gray5 w-full h-full': !isOpen,
+                        'h-full w-full bg-gray5 text-left text-gray5': !isOpen,
                         'text-blue1': isOpen,
                       })}
                     >

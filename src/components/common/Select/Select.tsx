@@ -40,11 +40,11 @@ const Select = ({
   return (
     <div className={cn('flex items-center', className)} {...props}>
       <div className="mr-2">{label}:</div>
-      <div className="flex w-full rounded-md border-0 ring-1 ring-inset ring-gray3 bg-white h-[32px]">
+      <div className="flex h-[32px] w-full rounded-md border-0 bg-white ring-1 ring-inset ring-gray3">
         <button
           type="button"
           onClick={() => handleClickSwitch(-1)}
-          className="h-full text-gray1 px-1 disabled:opacity-50"
+          className="h-full px-1 text-gray1 disabled:opacity-50"
           disabled={!canSelectLeft || disabled}
         >
           <HiChevronLeft size={24} />
@@ -53,7 +53,7 @@ const Select = ({
         <select
           id="location"
           name="location"
-          className="block w-full border-0 ring-1 ring-inset ring-gray3 px-2 text-center"
+          className="block w-full border-0 px-2 text-center ring-1 ring-inset ring-gray3"
           value={value}
           onChange={(e) => {
             onChange(e.target.value);
@@ -70,7 +70,7 @@ const Select = ({
         <button
           type="button"
           onClick={() => handleClickSwitch(+1)}
-          className="h-full text-gray1 px-1 disabled:opacity-50"
+          className="h-full px-1 text-gray1 disabled:opacity-50"
           disabled={!canSelectRight || disabled}
         >
           <HiChevronRight size={24} />

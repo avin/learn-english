@@ -1,4 +1,5 @@
 import React, { useLayoutEffect, useMemo, useState } from 'react';
+import { HiArrowUp } from 'react-icons/hi';
 import Select from '@/components/common/Select/Select.tsx';
 import Lesson from '@/components/pages/MainPage/Lesson/Lesson.tsx';
 import { Course } from '@/types';
@@ -122,6 +123,16 @@ const MainPage = () => {
       <div className="p-8">
         <Lesson course={course} lesson={lesson} />
       </div>
+
+      <button
+        type="button"
+        className="group fixed bottom-0 right-0 z-10 block p-4"
+        onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+      >
+        <div className="rounded-full border border-gray5 p-2 text-gray3 transition group-hover:border-dark-gray1 group-hover:text-dark-gray1">
+          <HiArrowUp size={24} />
+        </div>
+      </button>
     </div>
   );
 };

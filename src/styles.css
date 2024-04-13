@@ -19,3 +19,18 @@ body {
 .fade-in {
   animation: fadeIn 0.15s cubic-bezier(0.4, 0, 0.2, 1) forwards;
 }
+
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  text-indent: 1px;
+  text-overflow: '';
+}
+
+.focus-disabled :focus {
+  outline: none !important;
+
+  ~ .control-indicator {
+    outline: none !important;
+  }
+}

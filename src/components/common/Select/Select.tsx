@@ -1,33 +1,82 @@
-import React from 'react';
+import React, { useMemo } from 'react';
+import { HiChevronLeft, HiChevronRight } from 'react-icons/hi';
 import cn from 'clsx';
 
-interface Props extends Omit<React.ComponentPropsWithoutRef<'label'>, 'onChange'> {
+interface Props extends Omit<React.ComponentPropsWithoutRef<'div'>, 'onChange'> {
   label: React.ReactNode;
   options: { label: string; value: string }[];
   onChange: (v: string) => void;
   value?: string;
+  selectMinWidth?: string;
+  disabled?: boolean;
 }
 
-const Select = ({ label, options, value, onChange, className, ...props }: Props) => {
+const Select = ({
+  label,
+  options,
+  value,
+  onChange,
+  className,
+  selectMinWidth,
+  disabled,
+  ...props
+}: Props) => {
+  const handleClickSwitch = (direction: number) => {
+    const activeOptionIndex = options.findIndex((i) => i.value === value);
+    const nextOption = options[activeOptionIndex + direction];
+    if (nextOption) {
+      onChange(nextOption.value);
+    }
+  };
+
+  const [canSelectLeft, canSelectRight] = useMemo(() => {
+    const activeOptionIndex = options.findIndex((i) => i.value === value);
+    const nextOption = options[activeOptionIndex + 1];
+    const prevOption = options[activeOptionIndex - 1];
+
+    return [!!prevOption, !!nextOption];
+  }, [options, value]);
+
   return (
-    <label className={cn('flex items-center space-x-2', className)} {...props}>
-      <span>{label}:</span>
-      <select
-        id="location"
-        name="location"
-        className="block w-full rounded-md border-0 py-1.5 pl-2 pr-10 ring-1 ring-inset ring-gray3"
-        value={value}
-        onChange={(e) => {
-          onChange(e.target.value);
-        }}
-      >
-        {options.map(({ label, value }) => (
-          <option value={value} key={value}>
-            {label}
-          </option>
-        ))}
-      </select>
-    </label>
+    <div className={cn('flex items-center', className)} {...props}>
+      <div className="mr-2">{label}:</div>
+      <div className="flex w-full rounded-md border-0 ring-1 ring-inset ring-gray3 bg-white h-[32px]">
+        <button
+          type="button"
+          onClick={() => handleClickSwitch(-1)}
+          className="h-full text-gray1 px-1 disabled:opacity-50"
+          disabled={!canSelectLeft || disabled}
+        >
+          <HiChevronLeft size={24} />
+        </button>
+
+        <select
+          id="location"
+          name="location"
+          className="block w-full border-0 ring-1 ring-inset ring-gray3 px-2 text-center"
+          value={value}
+          onChange={(e) => {
+            onChange(e.target.value);
+          }}
+          style={{ minWidth: selectMinWidth }}
+          disabled={disabled}
+        >
+          {options.map(({ label, value }) => (
+            <option value={value} key={value}>
+              {label}
+            </option>
+          ))}
+        </select>
+        <button
+          type="button"
+          onClick={() => handleClickSwitch(+1)}
+          className="h-full text-gray1 px-1 disabled:opacity-50"
+          disabled={!canSelectRight || disabled}
+        >
+          <HiChevronRight size={24} />
+        </button>
+      </div>
+    </div>
   );
 };
 

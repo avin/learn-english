@@ -1,3 +1,5 @@
+import { Translation } from '@/types';
+
 const prepareKey = (key: string) => `learn_english:${key}`;
 
 export const localStorageSetItem = (key: string, value: string): void => {
@@ -20,4 +22,18 @@ export const localStorageRemoveItemsByPrefix = (prefix: string) => {
       localStorage.removeItem(key);
     }
   });
+};
+
+export const loadFavoriteTranslations = (): Translation[] => {
+  const content = localStorageGetItem('favoriteTranslations') || '';
+  try {
+    const result = JSON.parse(content);
+    return result;
+  } catch (e) {
+    return [];
+  }
+};
+
+export const saveFavoriteTranslations = (translations: Translation[]) => {
+  localStorageSetItem('favoriteTranslations', JSON.stringify(translations));
 };

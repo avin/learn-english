@@ -46,6 +46,7 @@ const expressLessonOptions = ((): Options => {
 const defaultLessons: Record<Course, string> = {
   titan: titanLessonOptions[0].value,
   express: expressLessonOptions[0].value,
+  favorites: '',
 };
 
 const getInitialCourse = () => {
@@ -104,6 +105,7 @@ const MainPage = () => {
             options={[
               { label: 'Titan', value: 'titan' },
               { label: 'Express', value: 'express' },
+              { label: 'Favorites', value: 'favorites' },
             ]}
           />
 
@@ -112,6 +114,8 @@ const MainPage = () => {
             value={lesson}
             onChange={handleChangeLesson}
             options={lessonOptions}
+            selectMinWidth="120px"
+            disabled={course === 'favorites'}
           />
         </div>
       </div>

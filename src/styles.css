@@ -7,6 +7,10 @@ body {
   overflow-y: scroll;
 }
 
+html, body, #root{
+  height: 100%;
+}
+
 @keyframes fadeIn {
   from {
     opacity: 0;

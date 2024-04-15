@@ -1,9 +1,11 @@
-import React, { useLayoutEffect, useMemo, useState } from 'react';
+import React, { useEffect, useLayoutEffect, useMemo, useState } from 'react';
 import { HiArrowUp } from 'react-icons/hi';
 import Select from '@/components/common/Select/Select.tsx';
+import UserButton from '@/components/common/UserButton/UserButton.tsx';
 import Lesson from '@/components/pages/MainPage/Lesson/Lesson.tsx';
 import { Course } from '@/types';
-import { localStorageGetItem, localStorageSetItem } from '@/utils/localStorage.ts';
+import { loadLastCourse, loadLastLesson, saveLastCourse, saveLastLesson } from '@/utils/storage.ts';
+import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner.tsx';
 
 type Options = { label: string; value: string }[];
 
@@ -44,23 +46,9 @@ const expressLessonOptions = ((): Options => {
   return result;
 })();
 
-const defaultLessons: Record<Course, string> = {
-  titan: titanLessonOptions[0].value,
-  express: expressLessonOptions[0].value,
-  favorites: '',
-};
-
-const getInitialCourse = () => {
-  return (localStorageGetItem('lastCourse') || 'titan') as Course;
-};
-
-const getInitialLesson = (course: Course) => {
-  return localStorageGetItem(`lastLesson_${course}`) || defaultLessons[course];
-};
-
 const MainPage = () => {
-  const [course, setCourse] = useState<Course>(getInitialCourse());
-  const [lesson, setLesson] = useState<string>(getInitialLesson(course));
+  const [course, setCourse] = useState<Course | null>(null);
+  const [lesson, setLesson] = useState<string | null>(null);
 
   const lessonOptions = useMemo(() => {
     if (course === 'titan') {
@@ -72,33 +60,45 @@ const MainPage = () => {
     return [];
   }, [course]);
 
-  useLayoutEffect(() => {
-    if (course === 'titan') {
-      setLesson(localStorageGetItem('lastLesson_titan') || lessonOptions[0].value);
-    } else if (course === 'express') {
-      setLesson(localStorageGetItem('lastLesson_express') || lessonOptions[0].value);
+  useEffect(() => {
+    if (course === null) {
+      void loadLastCourse().then((course) => setCourse(course));
     }
-  }, [course, lessonOptions]);
+
+    if (course && !lesson) {
+      void loadLastLesson(course).then((lesson) => {
+        if (lesson) {
+          setLesson(lesson);
+        } else {
+          setLesson(lessonOptions[0].value || '');
+        }
+      });
+    }
+  }, [course, lesson, lessonOptions]);
 
   const handleChangeCourse = (val: string) => {
     const course = val as Course;
     setCourse(course);
-    setLesson(getInitialLesson(course));
+    setLesson(null);
 
-    localStorageSetItem('lastCourse', course);
+    void saveLastCourse(course);
   };
 
   const handleChangeLesson = (val: string) => {
     setLesson(val);
 
-    localStorageSetItem(`lastLesson_${course}`, val);
+    void saveLastLesson(course!, val);
   };
+
+  if (!course || !lesson) {
+    return <FullPageSpinner />;
+  }
 
   return (
     <div>
       <div className="flex items-center justify-between border-b border-gray3 bg-light-gray3 px-4 py-2">
         <h1 className="text-gray-500 text-lg font-bold">Learn English</h1>
-        <div className="flex space-x-4">
+        <div className="flex items-center space-x-4">
           <Select
             label="Курс"
             value={course}
@@ -118,6 +118,8 @@ const MainPage = () => {
             selectMinWidth="120px"
             disabled={course === 'favorites'}
           />
+
+          <UserButton />
         </div>
       </div>
       <div className="p-8">

@@ -7,18 +7,11 @@ import Button from '@/components/common/Button/Button.tsx';
 import { Course, Translation } from '@/types';
 import {
   loadFavoriteTranslations,
-  localStorageGetItem,
-  localStorageSetItem,
+  loadLastOpenSentences,
   saveFavoriteTranslations,
-} from '@/utils/localStorage.ts';
-
-const getLastOpenSentences = (course: Course, lesson: string): number[] => {
-  const lastOpenSentences = localStorageGetItem(`lastOpenSentences_${course}_${lesson}`);
-  if (lastOpenSentences) {
-    return JSON.parse(lastOpenSentences);
-  }
-  return [];
-};
+  saveLastOpenSentences,
+} from '@/utils/storage.ts';
+import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner.tsx';
 
 interface Props {
   course: Course;
@@ -28,18 +21,28 @@ interface Props {
 const Lesson = ({ course, lesson }: Props) => {
   const [translations, setTranslations] = useState<Translation | null>(null);
   const [order, setOrder] = useState<number[]>([]);
-  const [openSentences, setOpenSentences] = useState<number[]>(
-    getLastOpenSentences(course, lesson),
-  );
+  const [openSentences, setOpenSentences] = useState<number[] | null>(null);
   const prevOpenSentences = usePrevious(openSentences);
-  const [favoriteTranslations, setFavoriteTranslations] = useState<Translation[]>([]);
+  const [favoriteTranslations, setFavoriteTranslations] = useState<Translation[] | null>(null);
 
   useEffect(() => {
-    setFavoriteTranslations(loadFavoriteTranslations());
+    setOpenSentences(null);
+    void loadLastOpenSentences(course, lesson).then((sentences) => {
+      setOpenSentences(sentences);
+    });
+  }, [course, lesson]);
+
+  useEffect(() => {
+    void loadFavoriteTranslations().then((favoriteTranslations) => {
+      setFavoriteTranslations(favoriteTranslations);
+    });
   }, []);
 
   const addRemoveFromFavoriteTranslations = (translation: Translation) => {
     setFavoriteTranslations((v) => {
+      if (!v) {
+        return v;
+      }
       const result = (() => {
         const existingItem = v.find((i) => i[0] === translation[0] && i[1] === translation[1]);
         if (existingItem) {
@@ -49,7 +52,7 @@ const Lesson = ({ course, lesson }: Props) => {
         }
       })();
 
-      saveFavoriteTranslations(result);
+      void saveFavoriteTranslations(result);
       return result;
     });
   };
@@ -67,19 +70,27 @@ const Lesson = ({ course, lesson }: Props) => {
       })();
       setTranslations(newTranslations);
       setOrder(new Array(newTranslations.length).fill(0).map((_, idx) => idx));
-
-      setOpenSentences(getLastOpenSentences(course, lesson));
     })();
   }, [course, lesson]);
 
   const handleClickEnSentence = (e: React.MouseEvent<HTMLTableCellElement>) => {
     const idx = Number(e.currentTarget.dataset.idx);
-    setOpenSentences((v) => (v.includes(idx) ? v : [...v, idx]));
+    setOpenSentences((v) => {
+      if (!v) {
+        return v;
+      }
+      return v.includes(idx) ? v : [...v, idx];
+    });
   };
 
   useEffect(() => {
-    if (openSentences !== prevOpenSentences && course !== 'favorites') {
-      localStorageSetItem(`lastOpenSentences_${course}_${lesson}`, JSON.stringify(openSentences));
+    if (
+      openSentences &&
+      prevOpenSentences &&
+      openSentences !== prevOpenSentences &&
+      course !== 'favorites'
+    ) {
+      void saveLastOpenSentences(course, lesson, openSentences);
     }
   }, [course, lesson, openSentences, prevOpenSentences]);
 
@@ -95,8 +106,8 @@ const Lesson = ({ course, lesson }: Props) => {
     setOrder((v) => shuffle(v));
   };
 
-  if (!translations || !translations.length) {
-    return null;
+  if (!translations?.length || !openSentences || !favoriteTranslations) {
+    return <FullPageSpinner />;
   }
 
   const controls = (

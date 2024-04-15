@@ -90,7 +90,7 @@ export const loadLastOpenSentences = async (course: Course, lesson: string): Pro
     lastOpenSentences: Record<Course, Record<string, number[]>>;
   }>();
   if (data && data.lastOpenSentences) {
-    return data.lastOpenSentences[course][lesson] || [];
+    return data.lastOpenSentences[course]?.[lesson] || [];
   }
   return [];
 };

@@ -4,6 +4,7 @@ import { usePrevious } from 'react-use';
 import cn from 'clsx';
 import { shuffle } from 'lodash-es';
 import Button from '@/components/common/Button/Button.tsx';
+import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner.tsx';
 import { Course, Translation } from '@/types';
 import {
   loadFavoriteTranslations,
@@ -11,7 +12,6 @@ import {
   saveFavoriteTranslations,
   saveLastOpenSentences,
 } from '@/utils/storage.ts';
-import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner.tsx';
 
 interface Props {
   course: Course;
@@ -106,8 +106,12 @@ const Lesson = ({ course, lesson }: Props) => {
     setOrder((v) => shuffle(v));
   };
 
-  if (!translations?.length || !openSentences || !favoriteTranslations) {
+  if (!translations || !openSentences || !favoriteTranslations) {
     return <FullPageSpinner />;
+  }
+
+  if (!translations.length) {
+    return null;
   }
 
   const controls = (

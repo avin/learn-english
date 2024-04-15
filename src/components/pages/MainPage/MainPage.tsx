@@ -1,11 +1,11 @@
 import React, { useEffect, useLayoutEffect, useMemo, useState } from 'react';
 import { HiArrowUp } from 'react-icons/hi';
+import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner.tsx';
 import Select from '@/components/common/Select/Select.tsx';
 import UserButton from '@/components/common/UserButton/UserButton.tsx';
 import Lesson from '@/components/pages/MainPage/Lesson/Lesson.tsx';
 import { Course } from '@/types';
 import { loadLastCourse, loadLastLesson, saveLastCourse, saveLastLesson } from '@/utils/storage.ts';
-import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner.tsx';
 
 type Options = { label: string; value: string }[];
 
@@ -70,7 +70,7 @@ const MainPage = () => {
         if (lesson) {
           setLesson(lesson);
         } else {
-          setLesson(lessonOptions[0].value || '');
+          setLesson(lessonOptions[0]?.value || '');
         }
       });
     }
@@ -90,7 +90,7 @@ const MainPage = () => {
     void saveLastLesson(course!, val);
   };
 
-  if (!course || !lesson) {
+  if (!course) {
     return <FullPageSpinner />;
   }
 
@@ -112,9 +112,9 @@ const MainPage = () => {
 
           <Select
             label="Урок"
-            value={lesson}
+            value={lesson || ''}
             onChange={handleChangeLesson}
-            options={lessonOptions}
+            options={lesson ? lessonOptions : []}
             selectMinWidth="120px"
             disabled={course === 'favorites'}
           />
@@ -123,7 +123,7 @@ const MainPage = () => {
         </div>
       </div>
       <div className="p-8">
-        <Lesson course={course} lesson={lesson} />
+        {(course && lesson !== null) ? <Lesson course={course} lesson={lesson} /> : <FullPageSpinner />}
       </div>
 
       <button
@@ -131,7 +131,7 @@ const MainPage = () => {
         className="group fixed bottom-0 right-0 z-10 block p-4"
         onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
       >
-        <div className="rounded-full border border-gray5 p-2 text-gray3 transition group-hover:border-dark-gray1 group-hover:text-dark-gray1">
+        <div className="rounded-full border border-gray5 p-2 text-gray3 transition group-hover:border-dark-gray1 group-hover:text-dark-gray1 bg-light-gray5">
           <HiArrowUp size={24} />
         </div>
       </button>

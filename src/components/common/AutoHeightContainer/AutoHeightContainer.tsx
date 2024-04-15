@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import React, {useLayoutEffect, useRef} from 'react';
 import { useEffectOnce } from 'react-use';
 import cn from 'clsx';
 
@@ -10,7 +10,7 @@ function AutoHeightContainer({ className, style, bottomSpace = 20, children, ...
   const elementRef = useRef<HTMLDivElement>(null);
   const prevClientHeightRef = useRef(0);
 
-  useEffectOnce(() => {
+  useLayoutEffect(() => {
     const element = elementRef.current!;
 
     const updateHeight = () => {
@@ -56,7 +56,8 @@ function AutoHeightContainer({ className, style, bottomSpace = 20, children, ...
       element.removeEventListener('scroll', checkScrollState);
       observer.disconnect();
     };
-  });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   return (
     <div className={cn(className)} ref={elementRef} {...props} style={{ ...style }}>

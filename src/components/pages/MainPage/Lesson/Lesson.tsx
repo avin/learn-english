@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { HiOutlineStar, HiStar } from 'react-icons/hi';
 import { usePrevious } from 'react-use';
 import cn from 'clsx';
@@ -18,12 +18,43 @@ interface Props {
   lesson: string;
 }
 
+const audioFiles = import.meta.glob<string>('/src/assets/translations/*/*/audio/*.m4a', {
+  eager: true,
+  query: '?url',
+  import: 'default',
+});
+
 const Lesson = ({ course, lesson }: Props) => {
   const [translations, setTranslations] = useState<Translation[] | null>(null);
   const [order, setOrder] = useState<number[]>([]);
   const [openSentences, setOpenSentences] = useState<number[] | null>(null);
   const prevOpenSentences = usePrevious(openSentences);
   const [favoriteTranslations, setFavoriteTranslations] = useState<Translation[] | null>(null);
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+
+  useEffect(() => {
+    return () => {
+      audioRef.current?.pause();
+      audioRef.current = null;
+    };
+  }, [course, lesson]);
+
+  const playAudio = (path: string) => {
+    const url = audioFiles[path];
+    if (!url) {
+      return;
+    }
+
+    audioRef.current?.pause();
+    const audio = new Audio(url);
+    audioRef.current = audio;
+    void audio.play().catch((error: unknown) => {
+      if (error instanceof DOMException && error.name === 'AbortError') {
+        return;
+      }
+      console.error('Error playing phrase audio:', error);
+    });
+  };
 
   useEffect(() => {
     setOpenSentences(null);
@@ -68,7 +99,17 @@ const Lesson = ({ course, lesson }: Props) => {
           const tasks: TranslationTask[] = (
             await import(`../../../../assets/translations/${course}/${lesson}/tasks.json`)
           ).default;
-          return tasks.map(({ ru, en }) => ({ ru: ru.text, en: en.text }));
+          return tasks.map(({ id, ru, en }) => {
+            const audio: Translation['audio'] = {};
+            const audioPath = `/src/assets/translations/${course}/${lesson}/audio/${String(id).padStart(3, '0')}`;
+            if (ru.audio) {
+              audio.ru = `${audioPath}_ru.m4a`;
+            }
+            if (en.audio) {
+              audio.en = `${audioPath}_en.m4a`;
+            }
+            return { ru: ru.text, en: en.text, audio };
+          });
         }
       })();
       setTranslations(newTranslations);
@@ -138,7 +179,10 @@ const Lesson = ({ course, lesson }: Props) => {
         <table className="w-full">
           <tbody className="divide-y divide-gray5 bg-white">
             {order.map((idx) => {
-              const { ru, en } = translations[idx];
+              const translation = translations[idx];
+              const { ru, en, audio } = translation;
+              const ruAudio = audio?.ru;
+              const enAudio = audio?.en;
 
               const isOpen = openSentences.includes(idx);
               const isFavorite = favoriteTranslations.find((i) => i.ru === ru && i.en === en);
@@ -150,7 +194,7 @@ const Lesson = ({ course, lesson }: Props) => {
                   <td
                     className="w-[1px] cursor-pointer px-2"
                     onClick={() => {
-                      addRemoveFromFavoriteTranslations({ ru, en });
+                      addRemoveFromFavoriteTranslations(translation);
                     }}
                   >
                     {isFavorite ? (
@@ -159,7 +203,20 @@ const Lesson = ({ course, lesson }: Props) => {
                       <HiOutlineStar size={24} className="text-light-gray3" />
                     )}
                   </td>
-                  <td className="p-4 text-right align-top">{ru}</td>
+                  <td className="p-4 text-right align-top">
+                    {ruAudio ? (
+                      <button
+                        type="button"
+                        className="text-right underline decoration-gray5 decoration-dashed underline-offset-4"
+                        onClick={() => playAudio(ruAudio)}
+                        title="Озвучить фразу"
+                      >
+                        {ru}
+                      </button>
+                    ) : (
+                      ru
+                    )}
+                  </td>
                   <td
                     className={cn('w-[50%] p-4 align-top', {
                       'cursor-pointer': !isOpen,
@@ -173,7 +230,21 @@ const Lesson = ({ course, lesson }: Props) => {
                         'text-blue1': isOpen,
                       })}
                     >
-                      {en}
+                      {enAudio ? (
+                        <button
+                          type="button"
+                          className={cn('text-left', {
+                            'underline decoration-gray5 decoration-dashed underline-offset-4':
+                              isOpen,
+                          })}
+                          onClick={() => playAudio(enAudio)}
+                          title="Озвучить фразу"
+                        >
+                          {en}
+                        </button>
+                      ) : (
+                        en
+                      )}
                     </div>
                   </td>
                 </tr>

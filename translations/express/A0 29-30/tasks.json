@@ -1,0 +1,486 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Она училась в другой стране",
+      "audio": true
+    },
+    "en": {
+      "text": "She studied in another country",
+      "audio": true
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я начал этот курс на прошлой неделе",
+      "audio": true
+    },
+    "en": {
+      "text": "I started this course last week",
+      "audio": true
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я хотел найти хорошую работу",
+      "audio": true
+    },
+    "en": {
+      "text": "I wanted to find a good job",
+      "audio": true
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я часто пользовался интернетом",
+      "audio": true
+    },
+    "en": {
+      "text": "I often used the Internet",
+      "audio": true
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я задал ей некоторые вопросы",
+      "audio": true
+    },
+    "en": {
+      "text": "I asked her some questions",
+      "audio": true
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Он учился там",
+      "audio": true
+    },
+    "en": {
+      "text": "He studied there",
+      "audio": true
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Мне понравилось это место",
+      "audio": true
+    },
+    "en": {
+      "text": "I liked this place",
+      "audio": true
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я часто пользовался этой услугой",
+      "audio": true
+    },
+    "en": {
+      "text": "I often used this service",
+      "audio": true
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я жил в этом месте",
+      "audio": true
+    },
+    "en": {
+      "text": "I lived in this place",
+      "audio": true
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Это происшествие случилось вчера",
+      "audio": true
+    },
+    "en": {
+      "text": "This accident happened yesterday",
+      "audio": true
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я хотел улучшить свой английский",
+      "audio": true
+    },
+    "en": {
+      "text": "I wanted to improve my English",
+      "audio": true
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я хотел посетить это место",
+      "audio": true
+    },
+    "en": {
+      "text": "I wanted to visit this place",
+      "audio": true
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Я играл в разные игры",
+      "audio": true
+    },
+    "en": {
+      "text": "I played different games",
+      "audio": true
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я посмотрел этот фильм",
+      "audio": true
+    },
+    "en": {
+      "text": "I watched this movie",
+      "audio": true
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Он ответил на этот вопрос",
+      "audio": true
+    },
+    "en": {
+      "text": "He answered this question",
+      "audio": true
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я посмотрел это видео",
+      "audio": true
+    },
+    "en": {
+      "text": "I watched this video",
+      "audio": true
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я жил в этом районе",
+      "audio": true
+    },
+    "en": {
+      "text": "I lived in this area",
+      "audio": true
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Это случилось три часа назад",
+      "audio": true
+    },
+    "en": {
+      "text": "It happened three hours ago",
+      "audio": true
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Ты помог мне так сильно",
+      "audio": true
+    },
+    "en": {
+      "text": "You helped me so much",
+      "audio": true
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Он навестил нас позавчера",
+      "audio": true
+    },
+    "en": {
+      "text": "He visited us the day before yesterday",
+      "audio": true
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Она звонила мне два часа назад",
+      "audio": true
+    },
+    "en": {
+      "text": "She called me two hours ago",
+      "audio": true
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Я хотел выбрать лучший отель",
+      "audio": true
+    },
+    "en": {
+      "text": "I wanted to choose the best hotel",
+      "audio": true
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Я смотрел эту программу вчера",
+      "audio": true
+    },
+    "en": {
+      "text": "I watched this program yesterday",
+      "audio": true
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Я учился здесь",
+      "audio": true
+    },
+    "en": {
+      "text": "I studied here",
+      "audio": true
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Ты действительно помог мне",
+      "audio": true
+    },
+    "en": {
+      "text": "You really helped me",
+      "audio": true
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я ответил на это письмо",
+      "audio": true
+    },
+    "en": {
+      "text": "I answered this letter",
+      "audio": true
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Они прибыли час назад",
+      "audio": true
+    },
+    "en": {
+      "text": "They arrived an hour ago",
+      "audio": true
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Он хотел найти хорошую работу",
+      "audio": true
+    },
+    "en": {
+      "text": "He wanted to find a good job",
+      "audio": true
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Я хотел улучшить свою грамматику",
+      "audio": true
+    },
+    "en": {
+      "text": "I wanted to improve my grammar",
+      "audio": true
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Мы говорили о разных вещах",
+      "audio": true
+    },
+    "en": {
+      "text": "We talked about different things",
+      "audio": true
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Я закончил свою работу",
+      "audio": true
+    },
+    "en": {
+      "text": "I finished my work",
+      "audio": true
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я задал ему вопрос",
+      "audio": true
+    },
+    "en": {
+      "text": "I asked him a question",
+      "audio": true
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я работал так много",
+      "audio": true
+    },
+    "en": {
+      "text": "I worked so much",
+      "audio": true
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я звонил ей вчера",
+      "audio": true
+    },
+    "en": {
+      "text": "I called her yesterday",
+      "audio": true
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Мне очень понравилось это видео",
+      "audio": true
+    },
+    "en": {
+      "text": "I really liked this video",
+      "audio": true
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Мне нужна была твоя помощь",
+      "audio": true
+    },
+    "en": {
+      "text": "I needed your help",
+      "audio": true
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Мы играли в футбол вместе",
+      "audio": true
+    },
+    "en": {
+      "text": "We played football together",
+      "audio": true
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Она посмотрела на него",
+      "audio": true
+    },
+    "en": {
+      "text": "She looked at him",
+      "audio": true
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Мне очень понравился этот курс",
+      "audio": true
+    },
+    "en": {
+      "text": "I really liked this course",
+      "audio": true
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Мне нужны были эти деньги",
+      "audio": true
+    },
+    "en": {
+      "text": "I needed this money",
+      "audio": true
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я начал этот курс",
+      "audio": true
+    },
+    "en": {
+      "text": "I started this course",
+      "audio": true
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Он посмотрел на нее",
+      "audio": true
+    },
+    "en": {
+      "text": "He looked at her",
+      "audio": true
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Мы часто говорили об этом",
+      "audio": true
+    },
+    "en": {
+      "text": "We often talked about it",
+      "audio": true
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Он учился за границей",
+      "audio": true
+    },
+    "en": {
+      "text": "He studied abroad",
+      "audio": true
+    }
+  }
+]

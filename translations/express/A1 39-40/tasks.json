@@ -1,0 +1,365 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Кого ты ждешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who are you waiting for?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Куда ты идешь сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where are you going now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Что он слушает?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is he listening to?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Сейчас идет дождь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it raining now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Ты сейчас отдыхаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you having a rest now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Что он делает сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is he doing now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Какую книгу ты сейчас читаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What book are you reading now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "В какую игру ты сейчас играешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What game are you playing now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Кого он ждет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is he waiting for?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Что ты сейчас пишешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you writing now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Что ты читаешь сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you reading now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Сейчас идет снег?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it snowing now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "О чем они говорят?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are they talking about?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Он ждет меня?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he waiting for me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Она готовит сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she cooking now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Ты ждешь кого-то?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you waiting for someone?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Что она говорит ему сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is she telling him now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Она ждет нас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she waiting for us?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Что ты сейчас делаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you doing now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "На каком языке они говорят сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "What language are they speaking now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Кого она ждет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is she waiting for?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Чего они ждут?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are they waiting for?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Ты ждешь этого сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you waiting for it now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Во что ты сейчас играешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you playing now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Ты думаешь об этом сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you thinking about it now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "О чем вы говорите?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you talking about?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Что она сейчас говорит?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is she saying now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Ты сегодня работаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you working today?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Что ты сейчас ешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you eating now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Что он сейчас говорит?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is he saying now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Что ты слушаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you listening to?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Что ты пьешь сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you drinking now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Чего ты ждешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you waiting for?",
+      "audio": false
+    }
+  }
+]

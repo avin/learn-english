@@ -1,0 +1,981 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Я ждал его с нетерпением",
+      "audio": false
+    },
+    "en": {
+      "text": "I was waiting for him with impatience",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Они лежали на пляже",
+      "audio": false
+    },
+    "en": {
+      "text": "They were lying on the beach",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Когда я смотрел это видео, он позвонил мне",
+      "audio": false
+    },
+    "en": {
+      "text": "When I was watching this video, he called me",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Снег шел весь день",
+      "audio": false
+    },
+    "en": {
+      "text": "It was snowing all day",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я читал статьи на разные темы",
+      "audio": false
+    },
+    "en": {
+      "text": "I was reading articles on different topics",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Она не спала, когда он вернулся домой",
+      "audio": false
+    },
+    "en": {
+      "text": "She wasn't sleeping when he came back home",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Когда она позвонила ему, он вел машину",
+      "audio": false
+    },
+    "en": {
+      "text": "When she called him, he was driving a car",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я встретил ее, в то время как я учился в университете",
+      "audio": false
+    },
+    "en": {
+      "text": "I met her while I was studying at university",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Он позвонил мне, когда мы ужинали",
+      "audio": false
+    },
+    "en": {
+      "text": "He called me while we were having dinner",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Когда учитель прибыл, он писал конспект",
+      "audio": false
+    },
+    "en": {
+      "text": "When the teacher arrived, he was writing a summary",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я ждала твоего ответа",
+      "audio": false
+    },
+    "en": {
+      "text": "I was waiting for your answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Они пили чай, когда я прибыл",
+      "audio": false
+    },
+    "en": {
+      "text": "They were drinking tea when I arrived",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Я весь день готовился к экзамену",
+      "audio": false
+    },
+    "en": {
+      "text": "I was preparing for the exam all day",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я разговаривал с моим боссом вчера в четыре часа",
+      "audio": false
+    },
+    "en": {
+      "text": "I was talking to my boss yesterday at four o'clock",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Когда я встал, светило солнце",
+      "audio": false
+    },
+    "en": {
+      "text": "When I got up the sun was shining",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Становилось действительно темно",
+      "audio": false
+    },
+    "en": {
+      "text": "It was getting really dark",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я читал одну очень интересную книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "I was reading one very interesting book",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я весь день учил английский язык",
+      "audio": false
+    },
+    "en": {
+      "text": "I was learning English all day",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Становилось поздно",
+      "audio": false
+    },
+    "en": {
+      "text": "It was getting late",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я все еще думал об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I was still thinking about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Солнце светило очень ярко",
+      "audio": false
+    },
+    "en": {
+      "text": "The sun was shining very brightly",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Я весь день ждал ее звонка",
+      "audio": false
+    },
+    "en": {
+      "text": "I was waiting for her call all day",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Пока я читал книгу, она смотрела фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "While I was reading a book, she was watching a movie",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Когда я ее увидел, она пересказывала ту историю",
+      "audio": false
+    },
+    "en": {
+      "text": "When I saw her, she was retelling that story",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Они спорили, когда я вошел в комнату",
+      "audio": false
+    },
+    "en": {
+      "text": "They were arguing when I entered the room",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я ждал твоего звонка",
+      "audio": false
+    },
+    "en": {
+      "text": "I was waiting for your call",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Мой английский становился все лучше и лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "My English was getting better and better",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Она вчера находилась дома весь день",
+      "audio": false
+    },
+    "en": {
+      "text": "She was staying at home all day yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Я разговаривал с ней, когда она увидела меня",
+      "audio": false
+    },
+    "en": {
+      "text": "I was talking to her when she saw me",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Вчера в 7 утра шел дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "It was raining at 7 a.m. yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Он шел домой, когда произошла авария",
+      "audio": false
+    },
+    "en": {
+      "text": "He was walking home when the accident happened",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я все еще рассматривал ту возможность",
+      "audio": false
+    },
+    "en": {
+      "text": "I was still considering that opportunity",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я не спал, когда она позвонила тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't sleeping when she called you",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Солнце светило и птицы пели",
+      "audio": false
+    },
+    "en": {
+      "text": "The sun was shining and the birds were singing",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я вчера весь день учил английский",
+      "audio": false
+    },
+    "en": {
+      "text": "I was learning English all day yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Становилось все темнее и темнее",
+      "audio": false
+    },
+    "en": {
+      "text": "It was getting darker and darker",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Снег шел вчера в 8 вечера",
+      "audio": false
+    },
+    "en": {
+      "text": "It was snowing at 8 p.m. yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Я ждал твоего сообщения",
+      "audio": false
+    },
+    "en": {
+      "text": "I was waiting for your message",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Что ты делал вчера весь день?",
+      "audio": false
+    },
+    "en": {
+      "text": "What were you doing all day yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Солнце светило очень ярко, когда я проснулся",
+      "audio": false
+    },
+    "en": {
+      "text": "The sun was shining very brightly when I woke up",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я готовился к тесту весь вечер",
+      "audio": false
+    },
+    "en": {
+      "text": "I was preparing for the test all evening",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Пока я находился дома, я услышал странный шум",
+      "audio": false
+    },
+    "en": {
+      "text": "While I was staying at home, I heard a strange noise",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Он повредил ногу, пока катался на роликах",
+      "audio": false
+    },
+    "en": {
+      "text": "He hurt his leg while he was rollerblading",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Вчера весь день шел сильный снег",
+      "audio": false
+    },
+    "en": {
+      "text": "It was snowing heavily all day yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Когда она лежала в кровати, она уснула",
+      "audio": false
+    },
+    "en": {
+      "text": "When she was lying in bed, she fell asleep",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Что ты делал вчера в 8 часов?",
+      "audio": false
+    },
+    "en": {
+      "text": "What were you doing yesterday at 8 o'clock?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я заснул, когда читал книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "I fell asleep when I was reading a book",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Пока он бегал трусцой, начался дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "While he was jogging, it started raining",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Он упал, пока катался на сноуборде",
+      "audio": false
+    },
+    "en": {
+      "text": "He fell while he was snowboarding",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Вчера весь день шел дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "It was raining all day yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Сейчас идет дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "It is raining now",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Вчера весь день шел снег",
+      "audio": false
+    },
+    "en": {
+      "text": "It was snowing all day yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Когда мы катались на велосипеде, начался дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "When we were cycling, it started raining",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Когда мы бегали трусцой, пошел снег",
+      "audio": false
+    },
+    "en": {
+      "text": "When we were jogging, it started snowing",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Пока мы катались на велосипеде, пошел дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "While we were cycling, it started raining",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Его жена ждала его, когда он вышел из самолета",
+      "audio": false
+    },
+    "en": {
+      "text": "His wife was waiting for him when he got off the plane",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Его жена ждала его, когда его самолет приземлился",
+      "audio": false
+    },
+    "en": {
+      "text": "His wife was waiting for him when his plane landed",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я ждал тебя, когда ты сошел с самолета",
+      "audio": false
+    },
+    "en": {
+      "text": "I was waiting for you when you got off the plane",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Что ты делал вчера в 5 часов?",
+      "audio": false
+    },
+    "en": {
+      "text": "What were you doing yesterday at 5 o'clock?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Что ты сейчас делаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you doing now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Что он делал вчера в 6 часов?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was he doing yesterday at 6 o'clock?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я катался на роликах в парке с моим другом",
+      "audio": false
+    },
+    "en": {
+      "text": "I was rollerblading in the park with my friend",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я гулял в парке с моим другом",
+      "audio": false
+    },
+    "en": {
+      "text": "I was walking in the park with my friend",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я разговаривал с моим другом в парке",
+      "audio": false
+    },
+    "en": {
+      "text": "I was talking to my friend in the park",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я лежал в постели вчера с трех до пяти",
+      "audio": false
+    },
+    "en": {
+      "text": "I was lying in bed yesterday from three to five",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Дети играли на улице весь день",
+      "audio": false
+    },
+    "en": {
+      "text": "The children were playing in the street all day",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Дети играют на улице в данный момент",
+      "audio": false
+    },
+    "en": {
+      "text": "The children are playing in the street at the moment",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Дети играли дома весь день",
+      "audio": false
+    },
+    "en": {
+      "text": "The children were playing at home all day",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Ты обедал, когда он пришел к тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you having dinner when he came to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Ты обедаешь сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you having dinner now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Ты принимал ванну, когда она пришла к тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you taking a bath when she came to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Сейчас идет снег",
+      "audio": false
+    },
+    "en": {
+      "text": "It is snowing now",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Что ты делал, когда она тебе позвонила?",
+      "audio": false
+    },
+    "en": {
+      "text": "What were you doing when she called you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Что ты делаешь сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you doing at the moment?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Что ты делал, когда она пришла к тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "What were you doing when she came to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Вчера весь день шел сильный дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "It was raining heavily all day yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Он сломал свою лодыжку, пока катался на сноуборде",
+      "audio": false
+    },
+    "en": {
+      "text": "He broke his ankle while he was snowboarding",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Мой друг ждал меня, когда я вышел из поезда",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend was waiting for me when I got off the train",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Его голова болела, потому что все кричали",
+      "audio": false
+    },
+    "en": {
+      "text": "His head was aching because everyone was shouting",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Когда она объясняла, никто не слушал ее",
+      "audio": false
+    },
+    "en": {
+      "text": "When she was explaining, no one was listening to her",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Что ты делал, когда он вошел в комнату?",
+      "audio": false
+    },
+    "en": {
+      "text": "What were you doing when he entered the room?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я пошел домой раньше, потому что шел дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "I went home earlier because it was raining",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Что ты делал, когда она пришла домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "What were you doing when she came home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я с нетерпением ждал следующих уроков",
+      "audio": false
+    },
+    "en": {
+      "text": "I was waiting for the next lessons with impatience",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Что он делал вчера в 3 часа?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was he doing yesterday at 3 o'clock?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Начался дождь, когда я гулял в парке",
+      "audio": false
+    },
+    "en": {
+      "text": "It started raining when I was walking in the park",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Когда он говорил это, никто не слушал его",
+      "audio": false
+    },
+    "en": {
+      "text": "When he was saying it, no one was listening to him",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Я читал книгу на английском, пока она готовила",
+      "audio": false
+    },
+    "en": {
+      "text": "I was reading a book in English while she was cooking",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Он сломал ногу, пока катался на лыжах",
+      "audio": false
+    },
+    "en": {
+      "text": "He broke his leg while he was skiing",
+      "audio": false
+    }
+  }
+]

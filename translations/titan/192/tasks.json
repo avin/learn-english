@@ -1,0 +1,904 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Ты недостаточно внимателен",
+      "audio": false
+    },
+    "en": {
+      "text": "You aren't attentive enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "У этой девочки такая приятная улыбка",
+      "audio": false
+    },
+    "en": {
+      "text": "This girl has such a pleasant smile",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Извини за мой плохой английский!",
+      "audio": false
+    },
+    "en": {
+      "text": "Sorry for my poor English!",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Он очень нервничает по поводу этого собеседования на работу",
+      "audio": false
+    },
+    "en": {
+      "text": "He is very nervous about this job interview",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Она чувствовала себя так неловко из-за этого",
+      "audio": false
+    },
+    "en": {
+      "text": "She felt so embarrassed because of it",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Эта услуга в данный момент недоступна",
+      "audio": false
+    },
+    "en": {
+      "text": "This service isn't available at the moment",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Большинство моих коллег очень общительны",
+      "audio": false
+    },
+    "en": {
+      "text": "Most of my colleagues are very sociable",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "У мальчика есть некоторые психологические проблемы",
+      "audio": false
+    },
+    "en": {
+      "text": "The boy has some psychological problems",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Он невероятно талантливый музыкант",
+      "audio": false
+    },
+    "en": {
+      "text": "He is an incredibly talented musician",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Она купила большой деревянный стол для своего дома",
+      "audio": false
+    },
+    "en": {
+      "text": "She bought a large wooden table for her house",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Это самый быстрый способ добраться туда",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the quickest way to get there",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я обычно чрезвычайно занят по вечерам",
+      "audio": false
+    },
+    "en": {
+      "text": "I am usually extremely busy in the evenings",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Ты пользуешься общественным транспортом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you use public transport?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "В комнате очень светло",
+      "audio": false
+    },
+    "en": {
+      "text": "It is very light in the room",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Ты будешь доступен завтра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you be available tomorrow?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Она очень застенчивая девушка",
+      "audio": false
+    },
+    "en": {
+      "text": "She is a very shy girl",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Какая замечательная идея!",
+      "audio": false
+    },
+    "en": {
+      "text": "What a great idea!",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "У него темные волосы",
+      "audio": false
+    },
+    "en": {
+      "text": "He has dark hair",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "У тебя очень оригинальная идея",
+      "audio": false
+    },
+    "en": {
+      "text": "You have a very original idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Отчет был неполным",
+      "audio": false
+    },
+    "en": {
+      "text": "The report wasn't complete",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Он предпочитает индивидуальный подход",
+      "audio": false
+    },
+    "en": {
+      "text": "He prefers an individual approach",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это был большой сюрприз для всех нас",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a great surprise for all of us",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "У нее очень красивые зеленые глаза",
+      "audio": false
+    },
+    "en": {
+      "text": "She has very beautiful green eyes",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Это очень густой лес",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a very thick forest",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Я живу рядом с моим другом",
+      "audio": false
+    },
+    "en": {
+      "text": "I live close to my friend",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Это в основном психологическая проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "It is mostly a psychological problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Это типичная ситуация в этой стране",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a typical situation in this country",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Она очень компетентна в этой работе",
+      "audio": false
+    },
+    "en": {
+      "text": "She is very competent in this work",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Они очень амбициозные студенты",
+      "audio": false
+    },
+    "en": {
+      "text": "They are very ambitious students",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Еда имеет очень сладкий вкус",
+      "audio": false
+    },
+    "en": {
+      "text": "The food has a very sweet taste",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Новости были действительно ужасные",
+      "audio": false
+    },
+    "en": {
+      "text": "The news was really terrible",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Он очень уверенный в себе молодой человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a very self-confident young man",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Он знал, что это было незаконно",
+      "audio": false
+    },
+    "en": {
+      "text": "He knew that it was illegal",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "У тебя есть с собой твой мобильный телефон?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have your mobile phone with you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Чай слишком сладкий для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "The tea is too sweet for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Он всегда такой нервный",
+      "audio": false
+    },
+    "en": {
+      "text": "He is always so nervous",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "У меня обычно очень плотный график",
+      "audio": false
+    },
+    "en": {
+      "text": "I usually have a very busy schedule",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Она выглядит немного смущенной",
+      "audio": false
+    },
+    "en": {
+      "text": "She looks a little embarrassed",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Он чрезвычайно талантливый писатель",
+      "audio": false
+    },
+    "en": {
+      "text": "He is an extremely talented writer",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я хочу быть откровенным с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to be frank with you",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Такая ошибка очень характерна для начинающих",
+      "audio": false
+    },
+    "en": {
+      "text": "Such a mistake is very typical of beginners",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я уверен, что это пустая трата времени",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure that it's a complete waste of time",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Это главная проблема для меня на данный момент",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the main problem for me at the moment",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Ты очень широко мыслящий человек",
+      "audio": false
+    },
+    "en": {
+      "text": "You are a very broad-minded person",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Они решили построить деревянный забор",
+      "audio": false
+    },
+    "en": {
+      "text": "They decided to build a wooden fence",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Они построили деревянный дом",
+      "audio": false
+    },
+    "en": {
+      "text": "They built a wooden house",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Они предпочитают жить в деревянном доме",
+      "audio": false
+    },
+    "en": {
+      "text": "They prefer to live in a wooden house",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Ты читаешь английские книги в оригинале?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you read English books in the original?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Ты читаешь книги на английском?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you read books in English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Ты смотришь английские фильмы в оригинале?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you watch English movies in the original?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Это проверяется на регулярной основе",
+      "audio": false
+    },
+    "en": {
+      "text": "It is checked on a regular basis",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я делаю это на регулярной основе",
+      "audio": false
+    },
+    "en": {
+      "text": "I do it on a regular basis",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Это регулярно проверяется",
+      "audio": false
+    },
+    "en": {
+      "text": "It is regularly checked",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Он был слишком беден, чтобы позволить себе сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "He was too poor to afford to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Они были слишком бедны, чтобы позволить себе купить это",
+      "audio": false
+    },
+    "en": {
+      "text": "They were too poor to afford to buy it",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Он был слишком беден, чтобы позволить себе жить там",
+      "audio": false
+    },
+    "en": {
+      "text": "He was too poor to afford to live there",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я знаком с этим человеком",
+      "audio": false
+    },
+    "en": {
+      "text": "I am familiar with this person",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я не знаком с ним",
+      "audio": false
+    },
+    "en": {
+      "text": "I am not familiar with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Ты знаком с этим человеком?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you familiar with this person?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Это действительно безумная идея",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a really crazy idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Это очень плохая идея",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a very bad idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Это действительно отличная идея",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a really excellent idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Его мнение схоже с моим",
+      "audio": false
+    },
+    "en": {
+      "text": "His opinion is similar to mine",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Его точка зрения схожа с моей",
+      "audio": false
+    },
+    "en": {
+      "text": "His point of view is similar to mine",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Мои идеи схожи с ее",
+      "audio": false
+    },
+    "en": {
+      "text": "My ideas are similar to hers",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Чего он боится?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is he scared of?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Он боится этого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he scared of it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Кого они боятся?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who are they scared of?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "В чем он виновен?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is he guilty of?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Он виновен в этом преступлении?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he guilty of this crime?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Они виновны в этой аварии",
+      "audio": false
+    },
+    "en": {
+      "text": "They are guilty of this accident",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Она говорит, что он очень умный молодой человек",
+      "audio": false
+    },
+    "en": {
+      "text": "She says that he is a very smart young man",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Они говорят, что она очень добрая девушка",
+      "audio": false
+    },
+    "en": {
+      "text": "They say that she is a very kind girl",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Какая была главная причина для того, чтобы сделать это?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was the main reason for doing it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я вижу, у тебя очень амбициозные планы на будущее",
+      "audio": false
+    },
+    "en": {
+      "text": "I see you have very ambitious plans for the future",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я не могу сказать, что я очень общительный человек",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't say that I am a very sociable person",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Говорят, что будут приняты более решительные меры",
+      "audio": false
+    },
+    "en": {
+      "text": "It is said that more decisive measures will be taken",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "В этой области много нелегальных иммигрантов",
+      "audio": false
+    },
+    "en": {
+      "text": "There are many illegal immigrants in this area",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Это наименее важная вещь для нас сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the least important thing for us now",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Этот голос мне знаком",
+      "audio": false
+    },
+    "en": {
+      "text": "This voice is familiar to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Он считается очень широко мыслящим человеком",
+      "audio": false
+    },
+    "en": {
+      "text": "He is considered to be a very broad-minded person",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Это упражнение не такое сложное, как то",
+      "audio": false
+    },
+    "en": {
+      "text": "This exercise isn't as difficult as that one",
+      "audio": false
+    }
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Я сделал это сразу же",
+      "audio": true
+    },
+    "en": {
+      "text": "I did it immediately",
+      "audio": true
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я сделал эту работу",
+      "audio": true
+    },
+    "en": {
+      "text": "I did this work",
+      "audio": true
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Она купила дом",
+      "audio": true
+    },
+    "en": {
+      "text": "She bought a house",
+      "audio": true
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я понял это сразу",
+      "audio": true
+    },
+    "en": {
+      "text": "I understood it immediately",
+      "audio": true
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я вернулся",
+      "audio": true
+    },
+    "en": {
+      "text": "I came back",
+      "audio": true
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я прочитал эту историю",
+      "audio": true
+    },
+    "en": {
+      "text": "I read this story",
+      "audio": true
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Я прочитал эту книгу",
+      "audio": true
+    },
+    "en": {
+      "text": "I read this book",
+      "audio": true
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я взял это с собой",
+      "audio": true
+    },
+    "en": {
+      "text": "I took it with me",
+      "audio": true
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Ты сделал это очень хорошо",
+      "audio": true
+    },
+    "en": {
+      "text": "You did it very well",
+      "audio": true
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я сделал это для тебя",
+      "audio": true
+    },
+    "en": {
+      "text": "I did it for you",
+      "audio": true
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я получил письмо от него",
+      "audio": true
+    },
+    "en": {
+      "text": "I got a letter from him",
+      "audio": true
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я написал ей сообщение",
+      "audio": true
+    },
+    "en": {
+      "text": "I wrote her a message",
+      "audio": true
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Я написал им письмо",
+      "audio": true
+    },
+    "en": {
+      "text": "I wrote them a letter",
+      "audio": true
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Он сделал ошибку",
+      "audio": true
+    },
+    "en": {
+      "text": "He made a mistake",
+      "audio": true
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я знал это",
+      "audio": true
+    },
+    "en": {
+      "text": "I knew it",
+      "audio": true
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я знал ответ",
+      "audio": true
+    },
+    "en": {
+      "text": "I knew the answer",
+      "audio": true
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я пошел домой",
+      "audio": true
+    },
+    "en": {
+      "text": "I went home",
+      "audio": true
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я вернулся два часа назад",
+      "audio": true
+    },
+    "en": {
+      "text": "I came back two hours ago",
+      "audio": true
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я понял это только позже",
+      "audio": true
+    },
+    "en": {
+      "text": "I understood it only later",
+      "audio": true
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я прочитал эту статью",
+      "audio": true
+    },
+    "en": {
+      "text": "I read this article",
+      "audio": true
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Я знал это очень хорошо",
+      "audio": true
+    },
+    "en": {
+      "text": "I knew it very well",
+      "audio": true
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Она сказала это так громко",
+      "audio": true
+    },
+    "en": {
+      "text": "She said it so loudly",
+      "audio": true
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Я понял это наконец",
+      "audio": true
+    },
+    "en": {
+      "text": "I understood it at last",
+      "audio": true
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Она сказала это очень громко",
+      "audio": true
+    },
+    "en": {
+      "text": "She said it very loudly",
+      "audio": true
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Он сказал это слишком тихо",
+      "audio": true
+    },
+    "en": {
+      "text": "He said it too quietly",
+      "audio": true
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я купил тебе подарок",
+      "audio": true
+    },
+    "en": {
+      "text": "I bought you a present",
+      "audio": true
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я получил сообщение от нее",
+      "audio": true
+    },
+    "en": {
+      "text": "I got a message from her",
+      "audio": true
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Он сказал это снова",
+      "audio": true
+    },
+    "en": {
+      "text": "He said it again",
+      "audio": true
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Он рассказал мне эту историю",
+      "audio": true
+    },
+    "en": {
+      "text": "He told me this story",
+      "audio": true
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я принял это предложение",
+      "audio": true
+    },
+    "en": {
+      "text": "I took this offer",
+      "audio": true
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Я купил два билета",
+      "audio": true
+    },
+    "en": {
+      "text": "I bought two tickets",
+      "audio": true
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я понял эту речь",
+      "audio": true
+    },
+    "en": {
+      "text": "I understood this speech",
+      "audio": true
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я понял тебя",
+      "audio": true
+    },
+    "en": {
+      "text": "I understood you",
+      "audio": true
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он сказал это очень тихо",
+      "audio": true
+    },
+    "en": {
+      "text": "He said it very quietly",
+      "audio": true
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я ходил на работу вчера",
+      "audio": true
+    },
+    "en": {
+      "text": "I went to work yesterday",
+      "audio": true
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я получил твое сообщение",
+      "audio": true
+    },
+    "en": {
+      "text": "I got your message",
+      "audio": true
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Он взял эти деньги",
+      "audio": true
+    },
+    "en": {
+      "text": "He took this money",
+      "audio": true
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Я думаю, я сделал ошибку",
+      "audio": true
+    },
+    "en": {
+      "text": "I think I made a mistake",
+      "audio": true
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я купил подарок для тебя",
+      "audio": true
+    },
+    "en": {
+      "text": "I bought a present for you",
+      "audio": true
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я прочитал это онлайн",
+      "audio": true
+    },
+    "en": {
+      "text": "I read it online",
+      "audio": true
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я написал письмо",
+      "audio": true
+    },
+    "en": {
+      "text": "I wrote a letter",
+      "audio": true
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Он купил машину",
+      "audio": true
+    },
+    "en": {
+      "text": "He bought a car",
+      "audio": true
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я получил твое письмо",
+      "audio": true
+    },
+    "en": {
+      "text": "I got your letter",
+      "audio": true
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я пошел домой после работы",
+      "audio": true
+    },
+    "en": {
+      "text": "I went home after work",
+      "audio": true
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я написал сообщение",
+      "audio": true
+    },
+    "en": {
+      "text": "I wrote a message",
+      "audio": true
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я видел его позавчера",
+      "audio": true
+    },
+    "en": {
+      "text": "I saw him the day before yesterday",
+      "audio": true
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Она купила квартиру",
+      "audio": true
+    },
+    "en": {
+      "text": "She bought an apartment",
+      "audio": true
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я вернулся час назад",
+      "audio": true
+    },
+    "en": {
+      "text": "I came back an hour ago",
+      "audio": true
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я купил подарок",
+      "audio": true
+    },
+    "en": {
+      "text": "I bought a present",
+      "audio": true
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я видел ее вчера",
+      "audio": true
+    },
+    "en": {
+      "text": "I saw her yesterday",
+      "audio": true
+    }
+  }
+]

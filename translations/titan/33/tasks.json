@@ -1,0 +1,937 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Что ты видел там?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you see there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Как ты выучил английский?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you learn English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Когда ты вернулся домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you return home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Что ты ел на ужин?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you eat for dinner?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Что ты сказал?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you say?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Когда ты вернулся домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you return home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Что вы обсуждали?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you discuss?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Когда ты закончил свою работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you finish your work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Почему ты пришел домой так поздно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you come home so late?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Как ты понял это?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you understand it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Где ты работал раньше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did you work earlier?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Почему ты пошел в то место?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you go to that place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Как ты выучил английский?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you learn English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Что ты видел там?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you see there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Ты видел своих друзей вчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you see your friends yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Когда это началось?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did it start?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Где ты жил раньше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did you live earlier?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Кого ты видел там?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who did you see there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Что ты делал вчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you do yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Что они тебя спросили?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did they ask you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Как ты улучшил свою речь?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you improve your speaking?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Что ты делал прошлым летом?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you do last summer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Почему ты сделал это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Ты посетил Италию в прошлом году?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you visit Italy last year?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Почему ты купил этот свитер?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you buy this sweater?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Что ты купил?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you buy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Когда он вернулся домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did he come back home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Что ты оставил дома?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you leave at home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Где ты играл?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did you play?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Как это началось?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did it begin?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Что она ответила?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did she answer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Что ты делал прошлой зимой?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you do last winter?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Что он ответил тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did he answer you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Что ты выбрал?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you choose?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Что он сказал тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did he tell you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Когда ты последний раз его видел?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you see him last time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Почему ты поверил этому?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you believe it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Как она себя чувствовала?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did she feel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Когда ты получил это письмо?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you get this letter?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Где вы встретились?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did you meet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Почему это стало так популярно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did it become so popular?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Где ты нашел эту информацию?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did you find this information?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Когда ты получил этот ответ?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you get this answer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Что ей было нужно?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did she need?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Когда ты прибыл домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you arrive home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Что ты делал на выходных?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you do at the weekend?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Сколько денег это им принесло?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much money did it bring them?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Во сколько ты проснулся?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time did you wake up?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "В какие игры ты играл?",
+      "audio": false
+    },
+    "en": {
+      "text": "What games did you play?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Что у тебя было на ужин?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you have for dinner?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Ты получил это письмо или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you get this letter or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Что ты делал на прошлых выходных?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you do last weekend?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Что тебе нужно было сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you need to do?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Какой отель ты выбрал?",
+      "audio": false
+    },
+    "en": {
+      "text": "What hotel did you choose?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Как часто ты тренировался?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often did you train?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Как регулярно она тренировалась?",
+      "audio": false
+    },
+    "en": {
+      "text": "How regularly did she train?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Сколько он заплатил?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much did he pay?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Сколько она заплатила за это?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much did she pay for it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Сколько ты заплатил?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much did you pay?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Что он ел на обед?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did he eat for lunch?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Что он ел на завтрак?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did he eat for breakfast?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Что ты ел на ужин?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you eat for dinner?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Сколько у тебя было денег?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much money did you have?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Сколько у тебя было времени?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much time did you have?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Когда ты ходил в спортивный зал?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you go to the gym?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Во сколько ты пришел на работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time did you come to work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Когда ты пришел на работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you come to work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Что ты ел на завтрак?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you eat for breakfast?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Как ты ответил на этот вопрос?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you answer this question?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Что ты решил делать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you decide to do?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Что он решил делать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did he decide to do?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Что ты решил купить?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you decide to buy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Как часто ты играл в футбол?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often did you play football?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Как ты сюда добрался?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you get here?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Почему ты решил остаться дома?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you decide to stay at home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Сколько ошибок он сделал?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many mistakes did he make?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Сколько ты заплатил за это?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much did you pay for it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Во сколько ты пришел домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time did you come home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Сколько ты работал?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much did you work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Что ты хотел сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you want to do?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Какую книгу ты прочитал?",
+      "audio": false
+    },
+    "en": {
+      "text": "What book did you read?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Сколько ошибок ты сделал?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many mistakes did you make?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Как ты жил на эти деньги?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you live on this money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Сколько это стоило?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much did it cost?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Во сколько ты пришел домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time did you come home?",
+      "audio": false
+    }
+  }
+]

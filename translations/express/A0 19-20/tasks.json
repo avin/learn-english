@@ -1,0 +1,585 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Сколько стоит платье?",
+      "audio": true
+    },
+    "en": {
+      "text": "How much is the dress?",
+      "audio": true
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Что находится в коробке?",
+      "audio": true
+    },
+    "en": {
+      "text": "What's in the box?",
+      "audio": true
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Где находится супермаркет?",
+      "audio": true
+    },
+    "en": {
+      "text": "Where is the supermarket?",
+      "audio": true
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Что находится на полу?",
+      "audio": true
+    },
+    "en": {
+      "text": "What's on the floor?",
+      "audio": true
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Как его зовут?",
+      "audio": true
+    },
+    "en": {
+      "text": "What's his name?",
+      "audio": true
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Откуда ты? Я из России",
+      "audio": true
+    },
+    "en": {
+      "text": "Where are you from? I'm from Russia",
+      "audio": true
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Как у нее дела? (Как она?)",
+      "audio": true
+    },
+    "en": {
+      "text": "How is she?",
+      "audio": true
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Где этот магазин?",
+      "audio": true
+    },
+    "en": {
+      "text": "Where is this shop?",
+      "audio": true
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Где ты сейчас?",
+      "audio": true
+    },
+    "en": {
+      "text": "Where are you now?",
+      "audio": true
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Что находится на этом столе?",
+      "audio": true
+    },
+    "en": {
+      "text": "What's on this table?",
+      "audio": true
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Откуда ты? Я из Бразилии",
+      "audio": true
+    },
+    "en": {
+      "text": "Where are you from? I'm from Brazil",
+      "audio": true
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Когда ты на работе?",
+      "audio": true
+    },
+    "en": {
+      "text": "When are you at work?",
+      "audio": true
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Кем она работает?",
+      "audio": true
+    },
+    "en": {
+      "text": "What's her job?",
+      "audio": true
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Как у него дела? (Как он?)",
+      "audio": true
+    },
+    "en": {
+      "text": "How is he?",
+      "audio": true
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Где это место?",
+      "audio": true
+    },
+    "en": {
+      "text": "Where is this place?",
+      "audio": true
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Когда ты свободен?",
+      "audio": true
+    },
+    "en": {
+      "text": "When are you free?",
+      "audio": true
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Где это?",
+      "audio": true
+    },
+    "en": {
+      "text": "Where is it?",
+      "audio": true
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Где находится ближайший банк?",
+      "audio": true
+    },
+    "en": {
+      "text": "Where is the nearest bank?",
+      "audio": true
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Как у них дела (Как они?)",
+      "audio": true
+    },
+    "en": {
+      "text": "How are they?",
+      "audio": true
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Что находится на столе?",
+      "audio": true
+    },
+    "en": {
+      "text": "What's on the table?",
+      "audio": true
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Кем он работает?",
+      "audio": true
+    },
+    "en": {
+      "text": "What's his job?",
+      "audio": true
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Почему это так важно?",
+      "audio": true
+    },
+    "en": {
+      "text": "Why is it so important?",
+      "audio": true
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Где банк?",
+      "audio": true
+    },
+    "en": {
+      "text": "Where is the bank?",
+      "audio": true
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Где находится этот отель?",
+      "audio": true
+    },
+    "en": {
+      "text": "Where is this hotel?",
+      "audio": true
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Где находится ближайший магазин?",
+      "audio": true
+    },
+    "en": {
+      "text": "Where is the nearest shop?",
+      "audio": true
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Откуда она? Она из Германии",
+      "audio": true
+    },
+    "en": {
+      "text": "Where is she from? She's from Germany",
+      "audio": true
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Сколько стоит это платье?",
+      "audio": true
+    },
+    "en": {
+      "text": "How much is this dress?",
+      "audio": true
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Сколько это стоит?",
+      "audio": true
+    },
+    "en": {
+      "text": "How much is it?",
+      "audio": true
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Сколько ей лет?",
+      "audio": true
+    },
+    "en": {
+      "text": "How old is she?",
+      "audio": true
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Что здесь?",
+      "audio": true
+    },
+    "en": {
+      "text": "What's here?",
+      "audio": true
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Где она?",
+      "audio": true
+    },
+    "en": {
+      "text": "Where is she?",
+      "audio": true
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Где аэропорт?",
+      "audio": true
+    },
+    "en": {
+      "text": "Where is the airport?",
+      "audio": true
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Кем ты работаешь?",
+      "audio": true
+    },
+    "en": {
+      "text": "What's your job?",
+      "audio": true
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Сколько тебе лет?",
+      "audio": true
+    },
+    "en": {
+      "text": "How old are you?",
+      "audio": true
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Сколько ему лет?",
+      "audio": true
+    },
+    "en": {
+      "text": "How old is he?",
+      "audio": true
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Где он?",
+      "audio": true
+    },
+    "en": {
+      "text": "Where is he?",
+      "audio": true
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Как дела? (Как ты?)",
+      "audio": true
+    },
+    "en": {
+      "text": "How are you?",
+      "audio": true
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Как ее зовут?",
+      "audio": true
+    },
+    "en": {
+      "text": "What's her name?",
+      "audio": true
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Почему это так дорого?",
+      "audio": true
+    },
+    "en": {
+      "text": "Why is it so expensive?",
+      "audio": true
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Где ты?",
+      "audio": true
+    },
+    "en": {
+      "text": "Where are you?",
+      "audio": true
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Откуда ты? Я из Англии",
+      "audio": true
+    },
+    "en": {
+      "text": "Where are you from? I'm from England",
+      "audio": true
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Где этот банк?",
+      "audio": true
+    },
+    "en": {
+      "text": "Where is this bank?",
+      "audio": true
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Откуда ты?",
+      "audio": true
+    },
+    "en": {
+      "text": "Where are you from?",
+      "audio": true
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Кто он?",
+      "audio": true
+    },
+    "en": {
+      "text": "Who is he?",
+      "audio": true
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Что находится в этой коробке?",
+      "audio": true
+    },
+    "en": {
+      "text": "What's in this box?",
+      "audio": true
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Что там?",
+      "audio": true
+    },
+    "en": {
+      "text": "What's there?",
+      "audio": true
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Кто прав?",
+      "audio": true
+    },
+    "en": {
+      "text": "Who is right?",
+      "audio": true
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Как тебя зовут?",
+      "audio": true
+    },
+    "en": {
+      "text": "What's your name?",
+      "audio": true
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Кто она?",
+      "audio": true
+    },
+    "en": {
+      "text": "Who is she?",
+      "audio": true
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Сколько стоит сумка",
+      "audio": true
+    },
+    "en": {
+      "text": "How much is the bag?",
+      "audio": true
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Сколько стоит билет?",
+      "audio": true
+    },
+    "en": {
+      "text": "How much is the ticket?",
+      "audio": true
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Сколько стоит эта суика?",
+      "audio": true
+    },
+    "en": {
+      "text": "How much is this bag?",
+      "audio": true
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Сколько стоит этот билет?",
+      "audio": true
+    },
+    "en": {
+      "text": "How much is this ticket?",
+      "audio": true
+    }
+  }
+]

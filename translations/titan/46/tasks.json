@@ -1,0 +1,783 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Я буду готов",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll be ready",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Он не будет курить",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't smoke",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я расскажу тебе одну историю",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll tell you one story",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Это стоит намного меньше сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "It costs much less now",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Он не хотел курить",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't want to smoke",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Давай поговорим о той вещи!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let's talk about that thing!",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Когда вы будете готовы к этому?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you be ready for it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Иногда он говорит слишком много",
+      "audio": false
+    },
+    "en": {
+      "text": "Sometimes he talks too much",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Мне нужно подумать об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to think about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Наш учитель говорил очень громко",
+      "audio": false
+    },
+    "en": {
+      "text": "Our teacher spoke very loudly",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Тебе следует подумать об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "You should think about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Мы можем обсудить все",
+      "audio": false
+    },
+    "en": {
+      "text": "We can discuss everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Подумай об этом!",
+      "audio": false
+    },
+    "en": {
+      "text": "Think about it!",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Носители языка говорят очень быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "Native speakers speak very fast",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я навещу ее на следующей неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll visit her next week",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Мне не понравился этот отель",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't like this hotel",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Какое видео тебе нравится больше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Which video do you like more?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Его машина часто ломается",
+      "audio": false
+    },
+    "en": {
+      "text": "His car often breaks down",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он не курит",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't smoke",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я стоял за ней",
+      "audio": false
+    },
+    "en": {
+      "text": "I stood behind her",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Это стоит пятьдесят евро",
+      "audio": false
+    },
+    "en": {
+      "text": "It costs fifty euros",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Я отправлю тебе сообщение",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll send you a message",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Как ты готовился к этому тесту?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you prepare for this test?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Они прислали мне эту информацию",
+      "audio": false
+    },
+    "en": {
+      "text": "They sent me this information",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Она встала",
+      "audio": false
+    },
+    "en": {
+      "text": "She stood up",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я хочу сказать тебе одну вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to tell you one thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Говори медленно, пожалуйста!",
+      "audio": false
+    },
+    "en": {
+      "text": "Speak slowly, please!",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Эта машина так часто ломается",
+      "audio": false
+    },
+    "en": {
+      "text": "This car breaks down so often",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Что тебе больше всего нравилось?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you like most of all?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я часто думал об этой вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "I often thought about this thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Она все мне рассказала",
+      "audio": false
+    },
+    "en": {
+      "text": "She told me everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Ты можешь встать сейчас!",
+      "audio": false
+    },
+    "en": {
+      "text": "You can stand up now!",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Они сломали окно",
+      "audio": false
+    },
+    "en": {
+      "text": "They broke the window",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я очень легко выучил все те слова",
+      "audio": false
+    },
+    "en": {
+      "text": "I learnt all those words very easily",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Ты можешь повернуть налево сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "You can turn left now",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я думаю, ему следует сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he should do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Поверните направо!",
+      "audio": false
+    },
+    "en": {
+      "text": "Turn right!",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Тебе нужно повернуть прямо сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to turn right now",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я тебе перезвоню",
+      "audio": false
+    },
+    "en": {
+      "text": "I will call you back",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Это зависит от меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It depends on me",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Он не может водить машину",
+      "audio": false
+    },
+    "en": {
+      "text": "He can't drive a car",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Это зависело от разных факторов",
+      "audio": false
+    },
+    "en": {
+      "text": "It depended on different factors",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Она водила машину",
+      "audio": false
+    },
+    "en": {
+      "text": "She drove a car",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я делаю домашнее задание днем",
+      "audio": false
+    },
+    "en": {
+      "text": "I do homework in the afternoon",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Он поехал домой",
+      "audio": false
+    },
+    "en": {
+      "text": "He drove home",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Поверни налево сейчас!",
+      "audio": false
+    },
+    "en": {
+      "text": "Turn left now!",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Поверни назад!",
+      "audio": false
+    },
+    "en": {
+      "text": "Turn back!",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Где ты остановишься?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where will you stay?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Где они остановятся?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where will they stay?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Когда ты остановишься там?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you stay there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Ему нравится водить",
+      "audio": false
+    },
+    "en": {
+      "text": "He likes driving",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Ей нравится водить",
+      "audio": false
+    },
+    "en": {
+      "text": "She likes driving",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Мне нравится водить",
+      "audio": false
+    },
+    "en": {
+      "text": "I like driving",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я остановился недалеко от того места",
+      "audio": false
+    },
+    "en": {
+      "text": "I stopped not far from that place",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я остановился далеко от этого места",
+      "audio": false
+    },
+    "en": {
+      "text": "I stopped far from this place",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я остановился возле того места",
+      "audio": false
+    },
+    "en": {
+      "text": "I stopped near that place",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Это будет зависеть от разных вещей",
+      "audio": false
+    },
+    "en": {
+      "text": "It will depend on different things",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Это будет зависеть от многих вещей",
+      "audio": false
+    },
+    "en": {
+      "text": "It will depend on many things",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Это будет зависеть от тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "It will depend on you",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Он сказал это еще один раз",
+      "audio": false
+    },
+    "en": {
+      "text": "He said it one more time",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Они говорили это снова и снова",
+      "audio": false
+    },
+    "en": {
+      "text": "They said it again and again",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я не был готов услышать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't ready to hear it",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я не готов к этим изменениям",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not ready for these changes",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он хочет перестать курить",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to stop smoking",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Мы не были готовы узнать это",
+      "audio": false
+    },
+    "en": {
+      "text": "We weren't ready to know it",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Он перестал курить",
+      "audio": false
+    },
+    "en": {
+      "text": "He stopped smoking",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Перезвони мне, пожалуйста!",
+      "audio": false
+    },
+    "en": {
+      "text": "Call me back, please!",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я не знаю, почему она это сказала",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know why she said it",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я хочу обсудить эту тему с вами",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to discuss this topic with you",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Мы остались в том месте",
+      "audio": false
+    },
+    "en": {
+      "text": "We stayed in that place",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Те мужчины говорили очень тихо",
+      "audio": false
+    },
+    "en": {
+      "text": "Those men spoke very quietly",
+      "audio": false
+    }
+  }
+]

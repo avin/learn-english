@@ -1,0 +1,871 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Я много учился",
+      "audio": false
+    },
+    "en": {
+      "text": "I studied a lot",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я закончил свою работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I finished my work",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я закрыл дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "I closed the door",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я много учился",
+      "audio": false
+    },
+    "en": {
+      "text": "I studied a lot",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Она училась очень мало",
+      "audio": false
+    },
+    "en": {
+      "text": "She studied very little",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я сравнил эти цены",
+      "audio": false
+    },
+    "en": {
+      "text": "I compared these prices",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Я остановился возле того окна",
+      "audio": false
+    },
+    "en": {
+      "text": "I stopped near that window",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Он действительно любил ее",
+      "audio": false
+    },
+    "en": {
+      "text": "He really loved her",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Она закончила работу очень рано",
+      "audio": false
+    },
+    "en": {
+      "text": "She finished work very early",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я согласился с этим",
+      "audio": false
+    },
+    "en": {
+      "text": "I agreed with it",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Тебе понравилась эта идея?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like this idea?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Тебе понравилось его предложение?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like his offer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Мы остановились там",
+      "audio": false
+    },
+    "en": {
+      "text": "We stopped there",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я учился очень усердно",
+      "audio": false
+    },
+    "en": {
+      "text": "I studied very hard",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я сдал тот тест",
+      "audio": false
+    },
+    "en": {
+      "text": "I passed that test",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Все хотели продолжить",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone wanted to continue",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Он так много учился",
+      "audio": false
+    },
+    "en": {
+      "text": "He studied so much",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Она любила танцевать",
+      "audio": false
+    },
+    "en": {
+      "text": "She loved dancing",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Ты закрыл окно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you close the window?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Мы продолжили",
+      "audio": false
+    },
+    "en": {
+      "text": "We continued",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Что тебе понравилось больше?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you like more?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Ты открыл этот сайт?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you open this website?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Это действительно мотивировало меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It really motivated me",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Когда ты закончил свою работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you finish your work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Он умер очень старым",
+      "audio": false
+    },
+    "en": {
+      "text": "He died very old",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я сдал этот экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "I passed this exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Он рекомендовал тот отель",
+      "audio": false
+    },
+    "en": {
+      "text": "He recommended that hotel",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Он прыгнул так высоко",
+      "audio": false
+    },
+    "en": {
+      "text": "He jumped so high",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Он часто пользовался интернетом",
+      "audio": false
+    },
+    "en": {
+      "text": "He often used the Internet",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Эта машина остановилась здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "This car stopped here",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Я также хотел продолжить",
+      "audio": false
+    },
+    "en": {
+      "text": "I also wanted to continue",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Мне нужно было больше практики",
+      "audio": false
+    },
+    "en": {
+      "text": "I needed more practice",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Он закончил свою работу очень поздно",
+      "audio": false
+    },
+    "en": {
+      "text": "He finished his work very late",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я открыл дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "I opened the door",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Он не хотел прыгать",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't want to jump",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Она умерла четыре месяца назад",
+      "audio": false
+    },
+    "en": {
+      "text": "She died four months ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я действительно ненавидел это",
+      "audio": false
+    },
+    "en": {
+      "text": "I really hated it",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Мы сравнили те курсы",
+      "audio": false
+    },
+    "en": {
+      "text": "We compared those courses",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я всегда верил ей",
+      "audio": false
+    },
+    "en": {
+      "text": "I always believed her",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Как ты скачал это?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you download it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Он пытался найти работу",
+      "audio": false
+    },
+    "en": {
+      "text": "He tried to find a job",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Как долго один урок длился?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long did one lesson last?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я использовал тот сервис ранее",
+      "audio": false
+    },
+    "en": {
+      "text": "I used that service earlier",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я скачал эти файлы",
+      "audio": false
+    },
+    "en": {
+      "text": "I downloaded these files",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я пытался понять это",
+      "audio": false
+    },
+    "en": {
+      "text": "I tried to understand it",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Она вернулась раньше",
+      "audio": false
+    },
+    "en": {
+      "text": "She returned earlier",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я решил использовать этот сервис",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to use this service",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Ты исправил эти ошибки?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you correct these mistakes?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я хотел достичь этой цели",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to achieve this aim",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я не отмечал этот праздник",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't celebrate this holiday",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Что ты ел в этом ресторане?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you eat in this restaurant?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Что ты заказал в этом магазине?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you order in this shop?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я вернулся домой позже",
+      "audio": false
+    },
+    "en": {
+      "text": "I returned home later",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Он вернулся в школу позже",
+      "audio": false
+    },
+    "en": {
+      "text": "He returned to school later",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Они вернулись туда позже",
+      "audio": false
+    },
+    "en": {
+      "text": "They returned there later",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я не думаю, что это помогло мне",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that it helped me",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Ты добился своей цели?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you achieve your aim?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Ты добился этой цели?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you achieve this aim?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Она добилась своей цели?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did she achieve her aim?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я скачал все вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I downloaded everything yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я скачал все",
+      "audio": false
+    },
+    "en": {
+      "text": "I downloaded everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я скачал это",
+      "audio": false
+    },
+    "en": {
+      "text": "I downloaded it",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Мы всегда помогали друг другу",
+      "audio": false
+    },
+    "en": {
+      "text": "We always helped each other",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Они всегда помогали друг другу",
+      "audio": false
+    },
+    "en": {
+      "text": "They always helped each other",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Они всегда помогали нам",
+      "audio": false
+    },
+    "en": {
+      "text": "They always helped us",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Это случилось со мной",
+      "audio": false
+    },
+    "en": {
+      "text": "It happened to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Это случилось со мной однажды",
+      "audio": false
+    },
+    "en": {
+      "text": "It happened to me one day",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Это случилось со мной вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "It happened to me yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я исправил свои ошибки",
+      "audio": false
+    },
+    "en": {
+      "text": "I corrected my mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я изучал английский в школе",
+      "audio": false
+    },
+    "en": {
+      "text": "I studied English at school",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Ты согласился или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you agree or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я достиг своей цели",
+      "audio": false
+    },
+    "en": {
+      "text": "I achieved my aim",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Этот урок длился дольше",
+      "audio": false
+    },
+    "en": {
+      "text": "This lesson lasted longer",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Как ты отметил этот праздник?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you celebrate this holiday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я все исправил",
+      "audio": false
+    },
+    "en": {
+      "text": "I corrected everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Ты согласился сделать это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you agree to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Мне нужно было сделать это срочно",
+      "audio": false
+    },
+    "en": {
+      "text": "I needed to do it urgently",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Ты скачал эту программу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you download this program?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Он согласился помочь тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did he agree to help you?",
+      "audio": false
+    }
+  }
+]

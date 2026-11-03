@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Она врач?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is she a doctor?",
+      "audio": true
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Ты из Англии?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are you from England?",
+      "audio": true
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Он бизнесмен?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is he a businessman?",
+      "audio": true
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Они менеджеры?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are they managers?",
+      "audio": true
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Это популярно сейчас?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it popular now?",
+      "audio": true
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Ты на кухне?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are you in the kitchen?",
+      "audio": true
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Они врачи?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are they doctors?",
+      "audio": true
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Ты в комнате?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are you in the room?",
+      "audio": true
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Это легко?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it easy?",
+      "audio": true
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Ты занят?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are you busy?",
+      "audio": true
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Они в отъезде?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are they away?",
+      "audio": true
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Он менеджер?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is he a manager?",
+      "audio": true
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он твой друг?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is he your friend?",
+      "audio": true
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Ты онлайн?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are you online?",
+      "audio": true
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Он в отъезде?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is he away?",
+      "audio": true
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Ты в парке?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are you in the park?",
+      "audio": true
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Это популярно?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it popular?",
+      "audio": true
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Ты рядом?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are you near?",
+      "audio": true
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Она медсестра?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is she a nurse?",
+      "audio": true
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Ты со своими друзьями сейчас?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are you with you friends now?",
+      "audio": true
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Это действительно так важно?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it really so important?",
+      "audio": true
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это действительно важно?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it really important?",
+      "audio": true
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Это интересно тебе?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it interesting for you?",
+      "audio": true
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Он из Соединенных Штатов?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is he from the United States?",
+      "audio": true
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Ты дома?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are you at home?",
+      "audio": true
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Это плохо?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it bad?",
+      "audio": true
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Это хорошо?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it good?",
+      "audio": true
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Ты в своей комнате?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are you in your room?",
+      "audio": true
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Ты сейчас на работе?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are you at work now?",
+      "audio": true
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Это полезно или нет?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it useful or not?",
+      "audio": true
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Она с тобой?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is she with you?",
+      "audio": true
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Это легко или нет?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it easy or not?",
+      "audio": true
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Это важно?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it important?",
+      "audio": true
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Мы в правильном месте?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are we in the right place?",
+      "audio": true
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Ты в этом городе?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are you in this city?",
+      "audio": true
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Они счастливы?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are they happy?",
+      "audio": true
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Это дорого?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it expensive?",
+      "audio": true
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Это важно или нет?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it important or not?",
+      "audio": true
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Она из Италии?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is she from Italy?",
+      "audio": true
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Ты один?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are you alone?",
+      "audio": true
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Это ошибка?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it a mistake?",
+      "audio": true
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Вы из России?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are you from Russia?",
+      "audio": true
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Ты свободен?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are you free?",
+      "audio": true
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Это хорошо или нет?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it good or not?",
+      "audio": true
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Это далеко?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it far?",
+      "audio": true
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Мы правы?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are we right?",
+      "audio": true
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Ты в городе?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are you in the city?",
+      "audio": true
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Они рядом?",
+      "audio": true
+    },
+    "en": {
+      "text": "Are they near?",
+      "audio": true
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Это трудно?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it difficult?",
+      "audio": true
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Это полезно?",
+      "audio": true
+    },
+    "en": {
+      "text": "Is it useful?",
+      "audio": true
+    }
+  }
+]

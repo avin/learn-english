@@ -1,0 +1,475 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Это так легко для меня",
+      "audio": true
+    },
+    "en": {
+      "text": "It's so easy for me",
+      "audio": true
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я сейчас не занят. Я свободен",
+      "audio": true
+    },
+    "en": {
+      "text": "I'm not busy now. I'm free",
+      "audio": true
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Это место такое красивое",
+      "audio": true
+    },
+    "en": {
+      "text": "This place is so beautiful",
+      "audio": true
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я сейчас не на работе. Я дома",
+      "audio": true
+    },
+    "en": {
+      "text": "I'm not at work now. I'm at home",
+      "audio": true
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Это не проблема для меня",
+      "audio": true
+    },
+    "en": {
+      "text": "It isn't a problem for me",
+      "audio": true
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Мы не заняты",
+      "audio": true
+    },
+    "en": {
+      "text": "We aren't busy",
+      "audio": true
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Я женат",
+      "audio": true
+    },
+    "en": {
+      "text": "I'm married",
+      "audio": true
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Это не интересно мне",
+      "audio": true
+    },
+    "en": {
+      "text": "It isn't interesting for me",
+      "audio": true
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я вижу, что ты не уверен",
+      "audio": true
+    },
+    "en": {
+      "text": "I see that you aren't sure",
+      "audio": true
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Он не врач. Он учитель",
+      "audio": true
+    },
+    "en": {
+      "text": "He isn't a doctor. He's a teacher",
+      "audio": true
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Этот урок очень полезный",
+      "audio": true
+    },
+    "en": {
+      "text": "This lesson is very useful",
+      "audio": true
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Он не прав",
+      "audio": true
+    },
+    "en": {
+      "text": "He isn't right",
+      "audio": true
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Моя мама - врач",
+      "audio": true
+    },
+    "en": {
+      "text": "My mother is a doctor",
+      "audio": true
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я думаю, что ты не прав",
+      "audio": true
+    },
+    "en": {
+      "text": "I think that you aren't right",
+      "audio": true
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Они не бедные. Они очень богатые",
+      "audio": true
+    },
+    "en": {
+      "text": "They aren't poor. They're very rich",
+      "audio": true
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Это не интересно",
+      "audio": true
+    },
+    "en": {
+      "text": "It isn't interesting",
+      "audio": true
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я не женат",
+      "audio": true
+    },
+    "en": {
+      "text": "Я не замужем",
+      "audio": true
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Мой отец - менеджер",
+      "audio": true
+    },
+    "en": {
+      "text": "My father is a manager",
+      "audio": true
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Этот отель очень хороший",
+      "audio": true
+    },
+    "en": {
+      "text": "This hotel is very good",
+      "audio": true
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Это не интересно. Это так скучно",
+      "audio": true
+    },
+    "en": {
+      "text": "It isn't interesting. It's so boring",
+      "audio": true
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Это не плохо",
+      "audio": true
+    },
+    "en": {
+      "text": "It isn't bad",
+      "audio": true
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это не ошибка",
+      "audio": true
+    },
+    "en": {
+      "text": "It isn't a mistake",
+      "audio": true
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Это не дорого. Это очень дешево",
+      "audio": true
+    },
+    "en": {
+      "text": "It isn't expensive. It's very cheap",
+      "audio": true
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Это действительно сложно",
+      "audio": true
+    },
+    "en": {
+      "text": "It's really difficult",
+      "audio": true
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Они сейчас не вместе",
+      "audio": true
+    },
+    "en": {
+      "text": "They aren't together now",
+      "audio": true
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Это не легко. Это очень трудно",
+      "audio": true
+    },
+    "en": {
+      "text": "It isn't easy. It's very difficult",
+      "audio": true
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Он не бедный. Он очень богатый",
+      "audio": true
+    },
+    "en": {
+      "text": "He isn't poor. He's very rich",
+      "audio": true
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Это слишком сложно для меня",
+      "audio": true
+    },
+    "en": {
+      "text": "It's too difficult for me",
+      "audio": true
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Мой брат - студент",
+      "audio": true
+    },
+    "en": {
+      "text": "My brother is a student",
+      "audio": true
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я холост",
+      "audio": true
+    },
+    "en": {
+      "text": "I'm single",
+      "audio": true
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Она не дизайнер. Она медсестра",
+      "audio": true
+    },
+    "en": {
+      "text": "She isn't a designer. She's a nurse",
+      "audio": true
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Это не важно",
+      "audio": true
+    },
+    "en": {
+      "text": "It isn't important",
+      "audio": true
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Они не в городе",
+      "audio": true
+    },
+    "en": {
+      "text": "They aren't in the city",
+      "audio": true
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Это не сложно. Это очень просто",
+      "audio": true
+    },
+    "en": {
+      "text": "It isn't difficult. It's so easy",
+      "audio": true
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Это не интересно. Это очень скучно",
+      "audio": true
+    },
+    "en": {
+      "text": "It isn't interesting. It's very boring",
+      "audio": true
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Он не старый. Он очень молод",
+      "audio": true
+    },
+    "en": {
+      "text": "He isn't old. He's very young",
+      "audio": true
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Мы не в парке сейчас",
+      "audio": true
+    },
+    "en": {
+      "text": "We aren't in the park now",
+      "audio": true
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Он не женат. Он холост",
+      "audio": true
+    },
+    "en": {
+      "text": "He isn't married. He's single",
+      "audio": true
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Она не уверена в этом",
+      "audio": true
+    },
+    "en": {
+      "text": "She isn't sure about it",
+      "audio": true
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я не дома",
+      "audio": true
+    },
+    "en": {
+      "text": "I'm not at home",
+      "audio": true
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я не уверен в этом",
+      "audio": true
+    },
+    "en": {
+      "text": "I'm not sure about it",
+      "audio": true
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Это видео очень смешное",
+      "audio": true
+    },
+    "en": {
+      "text": "This video is very funny",
+      "audio": true
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я замужем",
+      "audio": true
+    },
+    "en": {
+      "text": "I'm married",
+      "audio": true
+    }
+  }
+]

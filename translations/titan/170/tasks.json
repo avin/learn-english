@@ -1,0 +1,805 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Если мы замораживаем воду, она превращается в лед",
+      "audio": false
+    },
+    "en": {
+      "text": "If we freeze water, it turns into ice",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Когда ты нагреваешь снег, он тает",
+      "audio": false
+    },
+    "en": {
+      "text": "When you heat snow, it melts",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Когда мой брат вернется домой, я скажу тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "When my brother comes back home, I will tell you",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я пойду туда с тобой, если ты попросишь меня",
+      "audio": false
+    },
+    "en": {
+      "text": "I will go there with you if you ask me",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Если сегодня будет холодно, я надену более теплое пальто",
+      "audio": false
+    },
+    "en": {
+      "text": "If it is cold today, I will put on a warmer coat",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Что ты будешь делать, если эта вещь случится?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you do if this thing happens?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Дай мне знать, когда ты освободишься",
+      "audio": false
+    },
+    "en": {
+      "text": "Let me know when you get free",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я позвоню тебе, когда закончу работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I will call you when I finish work",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Вода закипает, когда она достигает ста градусов",
+      "audio": false
+    },
+    "en": {
+      "text": "Water boils when it reaches one hundred degrees",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Ты можешь попасть в беду, если продолжишь это делать",
+      "audio": false
+    },
+    "en": {
+      "text": "You can get into trouble if you continue doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "У нее болит голова, когда она слышит громкую музыку",
+      "audio": false
+    },
+    "en": {
+      "text": "She has a headache when she hears loud music",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Если человек ест слишком мало, он теряет вес",
+      "audio": false
+    },
+    "en": {
+      "text": "If a person eats too little, he loses weight",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Если будет солнечно, я пойду в парк",
+      "audio": false
+    },
+    "en": {
+      "text": "If it's sunny, I'll go to the park",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Если я встречу ее, я расскажу ей всю правду",
+      "audio": false
+    },
+    "en": {
+      "text": "If I meet her, I will tell her the whole truth",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Тебе нужно поторопиться, если ты не хочешь опоздать",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to hurry up if you don't want to be late",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Если пойдет дождь, мы останемся в помещении",
+      "audio": false
+    },
+    "en": {
+      "text": "If it rains, we will stay indoors",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я пойду к нему после того, как он позвонит мне",
+      "audio": false
+    },
+    "en": {
+      "text": "I will go to him after he calls me",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я буду очень разочарован, если этого не произойдет",
+      "audio": false
+    },
+    "en": {
+      "text": "I will be very disappointed if it doesn't happen",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я буду очень рад, если ты пригласишь меня",
+      "audio": false
+    },
+    "en": {
+      "text": "I will be very happy if you invite me",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Если я устаю, то рано ложусь спать",
+      "audio": false
+    },
+    "en": {
+      "text": "If I am tired, I go to bed early",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Мы промокнем, если пойдет дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "We will get soaked if it rains",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Если ты будешь усердно учиться, ты сдашь экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "If you study hard, you will pass the exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Если мы замораживаем воду, она превращается в лед",
+      "audio": false
+    },
+    "en": {
+      "text": "If we freeze water, it turns into ice",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Если ты нажмешь кнопку, компьютер включится",
+      "audio": false
+    },
+    "en": {
+      "text": "If you press the button, the computer turns on",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Если она не поторопится, мы опоздаем на автобус",
+      "audio": false
+    },
+    "en": {
+      "text": "If she doesn't hurry up, we will miss the bus",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я обычно устаю, если слишком много работаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I usually get tired if I work too much",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Позвони мне, как только ты освободишься",
+      "audio": false
+    },
+    "en": {
+      "text": "Call me as soon as you get free",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Если мы едим слишком много, мы прибавляем в весе",
+      "audio": false
+    },
+    "en": {
+      "text": "If we eat too much, we put on weight",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Дай мне знать, если тебе понадобится моя помощь",
+      "audio": false
+    },
+    "en": {
+      "text": "Let me know if you need my help",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Что случиться, если он провалит экзамен?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will happen if he fails the exam?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Если я проснусь поздно, я опоздаю на автобус",
+      "audio": false
+    },
+    "en": {
+      "text": "If I wake up late, I will miss the bus",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Если ты будешь свободен позже, дай мне знать",
+      "audio": false
+    },
+    "en": {
+      "text": "If you are free later, let me know",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Снег тает, если температура выше нуля",
+      "audio": false
+    },
+    "en": {
+      "text": "Snow melts if the temperature is above zero",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он заработает много денег, если он получит эту работу",
+      "audio": false
+    },
+    "en": {
+      "text": "He will earn lots of money if he gets this job",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я приду, если я закончу свою работу раньше",
+      "audio": false
+    },
+    "en": {
+      "text": "I will come if I finish my work earlier",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я уйду, как только она прибудет",
+      "audio": false
+    },
+    "en": {
+      "text": "I will leave as soon as she arrives",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я сделаю это, если у меня будет время",
+      "audio": false
+    },
+    "en": {
+      "text": "I will do it if I have time",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Мы пойдем туда после того, как игра закончится",
+      "audio": false
+    },
+    "en": {
+      "text": "We will go there after the game is over",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Он получит деньги после того, как закончит этот проект",
+      "audio": false
+    },
+    "en": {
+      "text": "He will get money after he finishes this project",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я не смогу этого сделать, если ты мне не поможешь",
+      "audio": false
+    },
+    "en": {
+      "text": "I will be unable to do it unless you help me",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Расскажи ему об этом, как только сможешь",
+      "audio": false
+    },
+    "en": {
+      "text": "Tell him about it as soon as you can",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Если у меня будет много денег, я смогу это сделать",
+      "audio": false
+    },
+    "en": {
+      "text": "If I have plenty of money, I will be able to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Если у меня будет достаточно денег, я куплю эту вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "If I have enough money, I will buy this thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Если у меня не будет денег, я не смогу это сделать",
+      "audio": false
+    },
+    "en": {
+      "text": "If I have no money, I won't be able to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я позвоню тебе после того, как поговорю с ним",
+      "audio": false
+    },
+    "en": {
+      "text": "I will call you after I talk to him",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я скажу тебе эту вещь после того, как позвоню ему",
+      "audio": false
+    },
+    "en": {
+      "text": "I will tell you this thing after I call him",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я позвоню ему после того, как сделаю это",
+      "audio": false
+    },
+    "en": {
+      "text": "I will call him after I do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Он не сделает этого, пока мы не попросим его об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't do it until we ask him about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Он сделает это, если мы попросим его об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "He will do it if we ask him about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он не пойдет туда, пока мы не попросим его об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't go there until we ask him about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я останусь здесь, пока она не придет",
+      "audio": false
+    },
+    "en": {
+      "text": "I will stay here until she comes",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я останусь там, пока она не вернется",
+      "audio": false
+    },
+    "en": {
+      "text": "I will stay there until she returns",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я останусь дома, если пойдет дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "I will stay home if it rains",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я позвоню тебе, в случае, если мне понадобится твоя помощь",
+      "audio": false
+    },
+    "en": {
+      "text": "I will call you in case I need your help",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я позвоню ему, если мне понадобится его поддержка",
+      "audio": false
+    },
+    "en": {
+      "text": "I will call him in case I need his support",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я сделаю это, если мне это будет нужно",
+      "audio": false
+    },
+    "en": {
+      "text": "I will do it in case I need it",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Он постарается сделать это, если ему кто-нибудь поможет",
+      "audio": false
+    },
+    "en": {
+      "text": "He will try to do it if someone helps him",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я дам ему знать об этом, как только смогу",
+      "audio": false
+    },
+    "en": {
+      "text": "I will let him know about it as soon as I can",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я расскажу тебе об этом, как только смогу",
+      "audio": false
+    },
+    "en": {
+      "text": "I will tell you about it as soon as I can",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я помогу ему, как только смогу",
+      "audio": false
+    },
+    "en": {
+      "text": "I will help him as soon as I can",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он говорит, что если пойдет дождь, он останется дома",
+      "audio": false
+    },
+    "en": {
+      "text": "He says that if it rains, he will stay at home",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Он говорит, что если пойдет снег, он не пойдет на улицу",
+      "audio": false
+    },
+    "en": {
+      "text": "He says that if it snows, he won't go outside",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Он будет ужасно зол, когда узнает об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "He will be terribly angry when he knows about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он будет очень зол, когда услышит это",
+      "audio": false
+    },
+    "en": {
+      "text": "He will be very angry when he hears it",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Он будет очень удивлен, когда узнает эту новость",
+      "audio": false
+    },
+    "en": {
+      "text": "He will be very surprised when he knows this news",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Дети сделают это до того, как учитель придет",
+      "audio": false
+    },
+    "en": {
+      "text": "The children will do it before the teacher comes",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Он никогда не поймет этого, пока не будет жить здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "He will never understand it until he lives here",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я собираюсь купить торт на случай, если кто-то придет",
+      "audio": false
+    },
+    "en": {
+      "text": "I am going to buy a cake in case someone comes",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Мне придется сделать это, если ситуация не изменится",
+      "audio": false
+    },
+    "en": {
+      "text": "I will have to do it if the situation doesn't change",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Мы пойдем на прогулку, когда дождь прекратится",
+      "audio": false
+    },
+    "en": {
+      "text": "We will go for a walk when it stops raining",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я собираюсь прочитать эту книгу, пока я в отпуске",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm going to read this book while I'm on holiday",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я куплю эту футболку, когда цена станет ниже",
+      "audio": false
+    },
+    "en": {
+      "text": "I will buy this T-shirt when the price gets lower",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Выключи компьютер, когда пойдешь спать",
+      "audio": false
+    },
+    "en": {
+      "text": "Turn off the computer when you get to bed",
+      "audio": false
+    }
+  }
+]

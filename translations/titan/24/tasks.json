@@ -1,0 +1,926 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Посмотри на это!",
+      "audio": false
+    },
+    "en": {
+      "text": "Look at it!",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я люблю такого рода еду",
+      "audio": false
+    },
+    "en": {
+      "text": "I love this kind of food",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Подожди меня!",
+      "audio": false
+    },
+    "en": {
+      "text": "Wait for me!",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Он работает мало",
+      "audio": false
+    },
+    "en": {
+      "text": "He works little",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я хочу обсудить это с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to discuss it with you",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Он бегает очень быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "He runs very fast",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Что тебе нравится больше?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do you like more?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Она хочет продать свою квартиру",
+      "audio": false
+    },
+    "en": {
+      "text": "She wants to sell her apartment",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Они продают это очень дешево",
+      "audio": false
+    },
+    "en": {
+      "text": "They sell it very cheaply",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Она не танцует профессионально",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't dance professionally",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Встань, пожалуйста!",
+      "audio": false
+    },
+    "en": {
+      "text": "Stand up, please!",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Он бегает быстрее",
+      "audio": false
+    },
+    "en": {
+      "text": "He runs faster",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Я могу позвонить тебе сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I can call you now",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Посмотри на это!",
+      "audio": false
+    },
+    "en": {
+      "text": "Look at it!",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Они строят дома",
+      "audio": false
+    },
+    "en": {
+      "text": "They build houses",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Ей нравится ее новое платье?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she like her new dress?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Он действительно ненавидит это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he really hate it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Мы можем обсудить это прямо сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "We can discuss it right now",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Это может начаться скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "It can begin soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Мне нужно позвонить ему сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to call him now",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Ты можешь посмотреть на это",
+      "audio": false
+    },
+    "en": {
+      "text": "You can look at it",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Посмотри на этот слайд!",
+      "audio": false
+    },
+    "en": {
+      "text": "Look at this slide!",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Встань!",
+      "audio": false
+    },
+    "en": {
+      "text": "Stand up!",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Посмотри на него!",
+      "audio": false
+    },
+    "en": {
+      "text": "Look at him!",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Он строит очень хорошие дома",
+      "audio": false
+    },
+    "en": {
+      "text": "He builds very good houses",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Смотри на меня!",
+      "audio": false
+    },
+    "en": {
+      "text": "Look at me!",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Тебе нравится эта музыка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like this music?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Он продает это очень дорого",
+      "audio": false
+    },
+    "en": {
+      "text": "He sells it very expensively",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Я хочу встать",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to stand up",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я могу бежать очень быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "I can run very fast",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Что ты думаешь об этой идее?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do you think about this idea?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я часто пользуюсь этой услугой",
+      "audio": false
+    },
+    "en": {
+      "text": "I often use this service",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Смотри!",
+      "audio": false
+    },
+    "en": {
+      "text": "Look!",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я действительно ненавижу эту вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "I really hate this thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Мне не нравится танцевать",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't like dancing",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я часто пользуюсь интернетом",
+      "audio": false
+    },
+    "en": {
+      "text": "I often use the Internet",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Ты можешь встать здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "You can stand here",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Ей нравится танцевать",
+      "audio": false
+    },
+    "en": {
+      "text": "She likes dancing",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Не беспокойся об этом!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't worry about it!",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я пишу по-английски очень редко",
+      "audio": false
+    },
+    "en": {
+      "text": "I write in English very rarely",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я хочу улучшить свою речь",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to improve my speaking",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Когда ты просыпаешься?",
+      "audio": false
+    },
+    "en": {
+      "text": "When do you wake up?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я делаю это очень редко",
+      "audio": false
+    },
+    "en": {
+      "text": "I do it very rarely",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Мне нужно запомнить эти правила",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to remember these rules",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я хотел бы улучшить свою речь",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to improve my speaking",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Ему нужно запомнить это",
+      "audio": false
+    },
+    "en": {
+      "text": "He needs to remember it",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я думаю, мы можем ждать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I think we can wait for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Как ты находишь эту идею?",
+      "audio": false
+    },
+    "en": {
+      "text": "How do you find this idea?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я часто гуляю в парке",
+      "audio": false
+    },
+    "en": {
+      "text": "I often walk in the park",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я хочу улучшить свое аудирование",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to improve my listening",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я хочу выпить чашку чая",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to drink a cup of tea",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я не беспокоюсь об этих вещах",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't worry about these things",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я предпочитаю изучать русский здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "I prefer to learn Russian here",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я хотел бы выпить немного воды",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to drink some water",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Он хотел бы выпить немного чая",
+      "audio": false
+    },
+    "en": {
+      "text": "He'd like to drink some tea",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я хотел бы выпить чашку кофе",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to drink a cup of coffee",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "В какое время он встаёт?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time does he get up?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "В какое время ты встаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time do you get up?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Когда она просыпается?",
+      "audio": false
+    },
+    "en": {
+      "text": "When does she wake up?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я хотел бы выпить стакан сока",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to drink a glass of juice",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я хотел бы выпить стакан воды",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to drink a glass of water",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Он хотел бы выпить чашку чая",
+      "audio": false
+    },
+    "en": {
+      "text": "He'd like to drink a cup of tea",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я не знаю, где я могу найти это",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know where I can find it",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я пытаюсь запомнить это правило",
+      "audio": false
+    },
+    "en": {
+      "text": "I try to remember this rule",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Он пытается запомнить эти правила",
+      "audio": false
+    },
+    "en": {
+      "text": "He tries to remember these rules",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я могу найти это очень легко",
+      "audio": false
+    },
+    "en": {
+      "text": "I can find it very easily",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Ты можешь найти это очень легко",
+      "audio": false
+    },
+    "en": {
+      "text": "You can find it very easily",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Он не может найти это сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "He can't find it now",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Не беспокойся!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't worry!",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Не пей это!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't drink it!",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Подожди меня!",
+      "audio": false
+    },
+    "en": {
+      "text": "Wait for me!",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Как часто ты гуляешь в парке?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often do you walk in the park?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Как часто она гуляет в парке?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often does she walk in the park?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Когда ты гуляешь в парке?",
+      "audio": false
+    },
+    "en": {
+      "text": "When do you walk in the park?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Они действительно любят друг друга",
+      "audio": false
+    },
+    "en": {
+      "text": "They really love each other",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я люблю такого рода фильмы",
+      "audio": false
+    },
+    "en": {
+      "text": "I love this kind of movies",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Подожди этого!",
+      "audio": false
+    },
+    "en": {
+      "text": "Wait for it!",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я не хочу ждать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't want to wait for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Я люблю такого рода музыку",
+      "audio": false
+    },
+    "en": {
+      "text": "I love this kind of music",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я хотел бы улучшить свое аудирование",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to improve my listening",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я хочу улучшить свой английский",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to improve my English",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я люблю такую еду",
+      "audio": false
+    },
+    "en": {
+      "text": "I love this kind of food",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Она хочет выпить чашку кофе",
+      "audio": false
+    },
+    "en": {
+      "text": "She wants to drink a cup of coffee",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Когда ты обычно встаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "When do you usually get up?",
+      "audio": false
+    }
+  }
+]

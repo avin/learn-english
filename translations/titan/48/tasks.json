@@ -1,0 +1,805 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Это может изменить твою жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "It can change your life",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Почему это происходит со мной?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why does it happen to me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Одна авария произошла вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "One accident happened yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "У него не будет этого шанса",
+      "audio": false
+    },
+    "en": {
+      "text": "He will not have this chance",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я действительно поверил ему",
+      "audio": false
+    },
+    "en": {
+      "text": "I really believed him",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Она не пьет пиво",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't drink beer",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Как он преподавал английский?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did he teach English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Они не хотели его убивать",
+      "audio": false
+    },
+    "en": {
+      "text": "They didn't want to kill him",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Посмотри на эту фотографию!",
+      "audio": false
+    },
+    "en": {
+      "text": "Look at this photo!",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "У них так много вопросов",
+      "audio": false
+    },
+    "en": {
+      "text": "They have so many questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Он рекомендовал несколько книг",
+      "audio": false
+    },
+    "en": {
+      "text": "He recommended some books",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Мы продолжаем этот курс",
+      "audio": false
+    },
+    "en": {
+      "text": "We continue this course",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Этот преступник не убивал их",
+      "audio": false
+    },
+    "en": {
+      "text": "This criminal didn't kill them",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Не потеряй это!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't lose it!",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Тебе нужно подумать об этом снова",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to think about it again",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Он может потерять это очень легко",
+      "audio": false
+    },
+    "en": {
+      "text": "He can lose it very easily",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Он преподаст нам урок",
+      "audio": false
+    },
+    "en": {
+      "text": "He will teach us a lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "У тебя будет шанс",
+      "audio": false
+    },
+    "en": {
+      "text": "You will have a chance",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Когда ты встретил ее?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you meet her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я не пил алкоголь",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't drink alcohol",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Она спела свою любимую песню",
+      "audio": false
+    },
+    "en": {
+      "text": "She sang her favourite song",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Ты исправил все эти ошибки?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you correct all these mistakes?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Где мы встретимся?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where will we meet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Когда мы продолжим?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will we continue?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Наш учитель поправил меня",
+      "audio": false
+    },
+    "en": {
+      "text": "Our teacher corrected me",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я исправлю эту ошибку",
+      "audio": false
+    },
+    "en": {
+      "text": "I will correct this mistake",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Мы встретились в кафе",
+      "audio": false
+    },
+    "en": {
+      "text": "We met in a cafe",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Они сравнили свои результаты",
+      "audio": false
+    },
+    "en": {
+      "text": "They compared their results",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Эти вещи меняются очень быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "These things change very quickly",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Не переживай об этом так сильно!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't worry about it so much!",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Она так красиво поет",
+      "audio": false
+    },
+    "en": {
+      "text": "She sings so beautifully",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Она потеряла это в лесу",
+      "audio": false
+    },
+    "en": {
+      "text": "She lost it in the forest",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я не рекомендую этот отель",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't recommend this hotel",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Не смейся!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't laugh!",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Это случилось с ним",
+      "audio": false
+    },
+    "en": {
+      "text": "It happened to him",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Он рекомендовал этот сайт?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did he recommend this website?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Ему нужно продолжить",
+      "audio": false
+    },
+    "en": {
+      "text": "He needs to continue",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Она сохранила этот секрет",
+      "audio": false
+    },
+    "en": {
+      "text": "She kept this secret",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я хочу подвинуть этот стол",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to move this table",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Те парни смеялись над ней",
+      "audio": false
+    },
+    "en": {
+      "text": "Those boys laughed at her",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я решил сделать это чуть позже",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to do it a bit later",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Они двигаются очень быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "They move very quickly",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Мой друг переехал в США",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend moved to the U.S.",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Эта цена включает в себя эти услуги",
+      "audio": false
+    },
+    "en": {
+      "text": "This price includes these services",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Мне нужно решить это сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to decide it now",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Ему нужно решить это сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "He needs to decide it now",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Мне нужно сказать это завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to say it tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я не смеюсь над этим",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't laugh at it",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Мы не смеемся над ним",
+      "audio": false
+    },
+    "en": {
+      "text": "We don't laugh at him",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Она не смеется",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't laugh",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я видел, что они жили так счастливо",
+      "audio": false
+    },
+    "en": {
+      "text": "I saw that they lived so happily",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Он видел, что они жили так счастливо",
+      "audio": false
+    },
+    "en": {
+      "text": "He saw that they lived so happily",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Они скоро переедут в США",
+      "audio": false
+    },
+    "en": {
+      "text": "They will move to the USA soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Она скоро переедет в Англию",
+      "audio": false
+    },
+    "en": {
+      "text": "She will move to England soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Он не переедет в эту страну",
+      "audio": false
+    },
+    "en": {
+      "text": "He will not move to this country",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Он держит свои деньги в банке",
+      "audio": false
+    },
+    "en": {
+      "text": "He keeps his money in a bank",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Она держит свои деньги дома",
+      "audio": false
+    },
+    "en": {
+      "text": "She keeps her money at home",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Он не держит свои деньги в банке",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't keep his money in a bank",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Ты можешь сравнить эти цены",
+      "audio": false
+    },
+    "en": {
+      "text": "You can compare these prices",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Мы можем сравнить эти товары",
+      "audio": false
+    },
+    "en": {
+      "text": "We can compare these goods",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он может сравнить эти цены",
+      "audio": false
+    },
+    "en": {
+      "text": "He can compare these prices",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Они включат это в счет",
+      "audio": false
+    },
+    "en": {
+      "text": "They will include it in the bill",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Мы включим это в счет",
+      "audio": false
+    },
+    "en": {
+      "text": "We will include it in the bill",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он не включит это в твой счет",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't include it in your bill",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Они включат это в цену",
+      "audio": false
+    },
+    "en": {
+      "text": "They'll include it in the price",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я хочу сравнить эти два приложения",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to compare these two apps",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Ему нужно быть осторожнее",
+      "audio": false
+    },
+    "en": {
+      "text": "He needs to be more careful",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Мы решили остаться дома",
+      "audio": false
+    },
+    "en": {
+      "text": "We decided to stay at home",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Она понимает это лучше, чем я",
+      "audio": false
+    },
+    "en": {
+      "text": "She understands it better than me",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Не смейся над ним!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't laugh at him!",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Ты жил в США?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you live in the U.S.?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я посмотрел на экран",
+      "audio": false
+    },
+    "en": {
+      "text": "I looked at the screen",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Посмотри на экран!",
+      "audio": false
+    },
+    "en": {
+      "text": "Look at the screen!",
+      "audio": false
+    }
+  }
+]

@@ -1,0 +1,915 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Он надел очень теплое пальто",
+      "audio": false
+    },
+    "en": {
+      "text": "He put on a very warm coat",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я подумаю над вопросом",
+      "audio": false
+    },
+    "en": {
+      "text": "I will think over the matter",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Когда самолет взлетит?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will the plane take off?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Как долго отсутствовали твои родители?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long were your parents away?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Мы отложили обсуждение этих проблем",
+      "audio": false
+    },
+    "en": {
+      "text": "We put off discussing these problems",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я занимаюсь разными видами спорта",
+      "audio": false
+    },
+    "en": {
+      "text": "I go in for different kinds of sport",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Еда может испортиться",
+      "audio": false
+    },
+    "en": {
+      "text": "The food can go off",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Довольно легко обойти этот город",
+      "audio": false
+    },
+    "en": {
+      "text": "It's pretty easy to get round this town",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Цена упала довольно неожиданно",
+      "audio": false
+    },
+    "en": {
+      "text": "The price went down quite unexpectedly",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Он отложил поход в спортзал",
+      "audio": false
+    },
+    "en": {
+      "text": "He put off going to the gym",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я знаю, что он никогда нас не подведет",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that he will never let us down",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Его родители отсутствовали на прошлой неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "His parents were away last week",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Ты уже повесил это на стену?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you already put it up on the wall?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я тебя не подведу",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't let you down",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Мы отложили обсуждение тех вещей",
+      "audio": false
+    },
+    "en": {
+      "text": "We put off discussing those things",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я хотел бы обойти город",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to get around the city",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Он бросил колледж",
+      "audio": false
+    },
+    "en": {
+      "text": "He dropped out of college",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Его младший брат занимается футболом",
+      "audio": false
+    },
+    "en": {
+      "text": "His younger brother goes in for football",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "В конце концов, он выбыл из гонки",
+      "audio": false
+    },
+    "en": {
+      "text": "He dropped out of the race in the end",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Он хочет продвинуться в своей карьере",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to get ahead in his career",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Она спустилась по лестнице",
+      "audio": false
+    },
+    "en": {
+      "text": "She went down the stairs",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Самолет взлетит через час",
+      "audio": false
+    },
+    "en": {
+      "text": "The plane will take off in an hour",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он занимается боксом",
+      "audio": false
+    },
+    "en": {
+      "text": "He goes in for boxing",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Когда ты хотел бы обсудить это?",
+      "audio": false
+    },
+    "en": {
+      "text": "When would you like to talk it over?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Вся еда испортилась",
+      "audio": false
+    },
+    "en": {
+      "text": "All the food went off",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Цена поднялась к нашему удивлению",
+      "audio": false
+    },
+    "en": {
+      "text": "The price went up to our surprise",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Она больше не может с этим мириться",
+      "audio": false
+    },
+    "en": {
+      "text": "She can't put up with it anymore",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Она бросила школу",
+      "audio": false
+    },
+    "en": {
+      "text": "She dropped out of school",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Прежде всего я хотел бы побывать здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to get around here first of all",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Он не может мириться с этой несправедливостью",
+      "audio": false
+    },
+    "en": {
+      "text": "He can't put up with this injustice",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Я боюсь, что он так сильно подвел нас",
+      "audio": false
+    },
+    "en": {
+      "text": "I am afraid that he let us down so badly",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я больше не могу откладывать поездку туда",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't put off going there any longer",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Он надел пальто и вышел на улицу",
+      "audio": false
+    },
+    "en": {
+      "text": "He put on his coat and went out",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он повесил этот плакат на стену",
+      "audio": false
+    },
+    "en": {
+      "text": "He put up this poster on the wall",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Как ты собираешься мириться с этой несправедливостью?",
+      "audio": false
+    },
+    "en": {
+      "text": "How are you going to put up with this injustice?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Ему нужно немного времени, чтобы это обдумать",
+      "audio": false
+    },
+    "en": {
+      "text": "He needs some time to think it over",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Время летит так быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "Time goes by so fast",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Ее доходы упали на двадцать процентов",
+      "audio": false
+    },
+    "en": {
+      "text": "Her income went down by twenty per cent",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я занимаюсь спортом",
+      "audio": false
+    },
+    "en": {
+      "text": "I go in for sports",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Она отложила поход к зубному врачу",
+      "audio": false
+    },
+    "en": {
+      "text": "She put off going to the dentist",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "В этой отрасли не так-то просто продвинуться вперед",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't so easy to get ahead in this industry",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Отмечалось, что никто не был виноват",
+      "audio": false
+    },
+    "en": {
+      "text": "It was pointed out that it was no one's fault",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Это хорошо известный факт, что время летит так быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a well-known fact that time goes by so fast",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Не пей это молоко, потому что оно испортилось!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't drink this milk because it's gone off!",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Он сказал, что никогда меня не подведет",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he would never let me down",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Позволь мне отметить, что я думаю обо всем этом!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let me point out what I think about all this!",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я просто хотел бы отметить, что это была моя идея",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd just like to point out that it was my idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Он отметил, что это была отличная идея",
+      "audio": false
+    },
+    "en": {
+      "text": "He pointed out that it was a great idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Встреча была отложена на две недели",
+      "audio": false
+    },
+    "en": {
+      "text": "The meeting was put off for two weeks",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Игра откладывается на два дня",
+      "audio": false
+    },
+    "en": {
+      "text": "The game is put off for two days",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Нам следует отложить нашу встречу на некоторое время",
+      "audio": false
+    },
+    "en": {
+      "text": "We should put off our meeting for some time",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Мы не хотели, чтобы она нас подвела",
+      "audio": false
+    },
+    "en": {
+      "text": "We didn't want her to let us down",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я не хочу, чтобы она меня подвела",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't want her to let me down",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Она сказала, что он никогда не подведет тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that he would never let you down",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Электричество было отключено на прошлой неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "The electricity was cut off last week",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Электричество отключено?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the electricity cut off?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Поставка газа в эту страну прекращена",
+      "audio": false
+    },
+    "en": {
+      "text": "The gas supply to this country is cut off",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Они решили не поднимать цену",
+      "audio": false
+    },
+    "en": {
+      "text": "They decided not to put up the price",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Они решили поднять цены",
+      "audio": false
+    },
+    "en": {
+      "text": "They decided to put up the prices",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Они не стали снижать цену",
+      "audio": false
+    },
+    "en": {
+      "text": "They didn't put down the price",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Самолет еще не взлетел",
+      "audio": false
+    },
+    "en": {
+      "text": "The plane hasn't taken off yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Самолет уже взлетел",
+      "audio": false
+    },
+    "en": {
+      "text": "The plane has already taken off",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я не хочу, чтобы он меня подвел",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't want him to let me down",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я думаю, что он может меня подвести",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he can let me down",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Мы не хотели, чтобы он нас подвел",
+      "audio": false
+    },
+    "en": {
+      "text": "We didn't want him to let us down",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Не ешь эту пищу, потому что она испортилась",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't eat this food because it has gone off",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Не пей этот сок, потому что он испортился!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't drink this juice because it's gone off!",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Вся эта еда испортилась",
+      "audio": false
+    },
+    "en": {
+      "text": "All this food went off",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я занимаюсь спортом, потому что хочу быть здоровым",
+      "audio": false
+    },
+    "en": {
+      "text": "I go in for sports because I want to be healthy",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Она занимается боксом",
+      "audio": false
+    },
+    "en": {
+      "text": "She goes in for boxing",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Мы все видим, что цена на нефть падает",
+      "audio": false
+    },
+    "en": {
+      "text": "We all see that the price of oil is going down",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Мы все видим, что цена поднимается",
+      "audio": false
+    },
+    "en": {
+      "text": "We all see that the price is going up",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Когда цена снизится?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will the price go down?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Компания была вынуждена поднять цену",
+      "audio": false
+    },
+    "en": {
+      "text": "The company was forced to put up the price",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Он был отрезан от других людей",
+      "audio": false
+    },
+    "en": {
+      "text": "He was cut off from other people",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я просто хотел бы отметить, что это была не моя идея",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd just like to point out that it wasn't my idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Чем больше мы живем, тем быстрее летит время",
+      "audio": false
+    },
+    "en": {
+      "text": "The more we live, the faster time goes by",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Время шло так медленно, пока мы ждали этого",
+      "audio": false
+    },
+    "en": {
+      "text": "Time was going by so slowly while we were waiting for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Гораздо сложнее обойти город без машины",
+      "audio": false
+    },
+    "en": {
+      "text": "It's more difficult to get around the city without a car",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я думаю, что это так, если моя память меня не подводит",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it is so if my memory doesn't let me down",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Поставка газа в эту страну была прекращена",
+      "audio": false
+    },
+    "en": {
+      "text": "The gas supply to that country was cut off",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Их разъединили во время разговора",
+      "audio": false
+    },
+    "en": {
+      "text": "They were cut off during the conversation",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Фабрика была вынуждена поднять свою цену",
+      "audio": false
+    },
+    "en": {
+      "text": "The factory was forced to put up its price",
+      "audio": false
+    }
+  }
+]

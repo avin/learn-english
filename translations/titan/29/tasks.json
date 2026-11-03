@@ -1,0 +1,970 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Я приду туда вовремя",
+      "audio": false
+    },
+    "en": {
+      "text": "I will come there on time",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Ты будешь готовиться к этому экзамену?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you prepare for this exam?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Когда ты пойдешь гулять?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you go for a walk?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Ты сделаешь это еще раз?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you do it one more time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Мы пойдем на пикник",
+      "audio": false
+    },
+    "en": {
+      "text": "We'll go on a picnic",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Когда ты вернешься?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you return?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Я приду вовремя",
+      "audio": false
+    },
+    "en": {
+      "text": "I will come on time",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Эти вещи будут дороже",
+      "audio": false
+    },
+    "en": {
+      "text": "These things will be more expensive",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я думаю, он победит",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he will win",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Как это поможет мне?",
+      "audio": false
+    },
+    "en": {
+      "text": "How will it help me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Ты позвонишь ей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you call her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Это не удивит его",
+      "audio": false
+    },
+    "en": {
+      "text": "It won't surprise him",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Я позвоню ей сегодня вечером",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll call her tonight",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Они будут танцевать вместе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will they dance together?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Он купит машину в этом году",
+      "audio": false
+    },
+    "en": {
+      "text": "He will buy a car this year",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Ты придешь туда вовремя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you come there on time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я вернусь скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll be back soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Когда он вернется?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will he be back?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Ей понравится это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will she like it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Эта вещь не удивит ее",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing will not surprise her",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Я скоро вернусь",
+      "audio": false
+    },
+    "en": {
+      "text": "I will come back soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Ты будешь жить за границей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you live abroad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Кто тебе поможет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will help you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Это будет проблемой для него?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be a problem for him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Я сделаю другое упражнение",
+      "audio": false
+    },
+    "en": {
+      "text": "I will do another exercise",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Он не будет делать эти упражнения",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't do these exercises",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Когда ты вернешься?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you come back?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Она будет учиться в этом месте?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will she study in this place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Это не будет менее дорого",
+      "audio": false
+    },
+    "en": {
+      "text": "It won't be less expensive",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Это действительно удивит ее?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it really surprise her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Ему действительно понравится это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he really like it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Это будет менее дорого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be less expensive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я не буду звонить ей",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't call her",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Это будет намного дороже?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be much more expensive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Ты будешь делать другие упражнения?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you do other exercises?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я думаю, она с тобой согласится",
+      "audio": false
+    },
+    "en": {
+      "text": "I think she will agree with you",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я думаю, мы не узнаем этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I think we won't know it",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Мы не встретимся завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "We won't meet tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Ты будешь тренироваться каждый день?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you train every day?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Эта вещь не будет дешевле",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing won't be cheaper",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Ты будешь дома завтра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you be at home tomorrow?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я вернусь домой позже",
+      "audio": false
+    },
+    "en": {
+      "text": "I will return home later",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Это удивит его?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it surprise him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я сделаю это еще один раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll do it one more time",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Ты пойдешь гулять с нами?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you go for a walk with us?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я посмотрю на это фото",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll look at this photo",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Когда ты пойдешь гулять?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you go for a walk?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Ты сделаешь это еще раз?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you do it one more time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Это будет менее эффективно",
+      "audio": false
+    },
+    "en": {
+      "text": "It'll be less effective",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он одолжит ей немного денег",
+      "audio": false
+    },
+    "en": {
+      "text": "He will lend her some money",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Он пойдет с тобой в зоопарк?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he go to the zoo with you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Это не будет так легко для них",
+      "audio": false
+    },
+    "en": {
+      "text": "It won't be so easy for them",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Кого ты пригласишь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will you invite?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Мы пойдем на пикник",
+      "audio": false
+    },
+    "en": {
+      "text": "We'll go on a picnic",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я приглашу своих друзей",
+      "audio": false
+    },
+    "en": {
+      "text": "I will invite my friends",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Она пойдет на прогулку прямо сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "She will go for a walk right now",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Они не пойдут домой прямо сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "They won't go home right now",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "У него не будет этой возможности",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't have this opportunity",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "У нее не будет той возможности",
+      "audio": false
+    },
+    "en": {
+      "text": "She won't have that opportunity",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я пойду в зоопарк на этих выходных",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll go to the zoo this weekend",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Мы пойдем в зоопарк сегодня",
+      "audio": false
+    },
+    "en": {
+      "text": "We'll go to the zoo today",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я пойду в зоопарк на этой неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll go to the zoo this week",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Это будет легко для нас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be easy for us?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Это будет просто для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be easy for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Это будет трудно для меня?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be difficult for me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я уверен, это поможет тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure it will help you",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я уверен, это поможет мне",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure it will help me",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я уверен, это не поможет мне",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure it won't help me",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "У меня будет эта возможность",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll have this opportunity",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "У нее будет эта возможность",
+      "audio": false
+    },
+    "en": {
+      "text": "She'll have this opportunity",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "У меня тоже будет эта возможность",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll also have this opportunity",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Это не будет слишком легко для них",
+      "audio": false
+    },
+    "en": {
+      "text": "It won't be too easy for them",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Это не будет так просто для тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "It won't be so easy for you",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Это не будет слишком легко для нас",
+      "audio": false
+    },
+    "en": {
+      "text": "It won't be too easy for us",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Когда ты пойдешь на пикник?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you go on a picnic?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Когда мы пойдем на пикник?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will we go on a picnic?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я хочу пойти на пикник",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to go on a picnic",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "У тебя будет эта возможность?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you have this opportunity?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Это не будет так эффективно",
+      "audio": false
+    },
+    "en": {
+      "text": "It will not be so effective",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Мы пойдем на пикник с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "We'll go on a picnic with you",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Он не поедет в Японию в этом году",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't go to Japan this year",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Ты закроешь дверь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you close the door?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я буду готовиться к тому тесту",
+      "audio": false
+    },
+    "en": {
+      "text": "I will prepare for that test",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я открою окно",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll open the window",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Он думает, они проиграют",
+      "audio": false
+    },
+    "en": {
+      "text": "He thinks they will lose",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Я пойду гулять",
+      "audio": false
+    },
+    "en": {
+      "text": "I will go for a walk",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Что изменится?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will change?",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Я не сделаю это снова",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't do it again",
+      "audio": false
+    }
+  }
+]

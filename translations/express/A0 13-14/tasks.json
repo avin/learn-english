@@ -1,0 +1,574 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Я сейчас в этом городе",
+      "audio": true
+    },
+    "en": {
+      "text": "I'm in this city now",
+      "audio": true
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Это очень дорого",
+      "audio": true
+    },
+    "en": {
+      "text": "It's very expensive",
+      "audio": true
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Он мой друг",
+      "audio": true
+    },
+    "en": {
+      "text": "He’s my friend",
+      "audio": true
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Она учитель",
+      "audio": true
+    },
+    "en": {
+      "text": "She's a teacher",
+      "audio": true
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Она моя сестра",
+      "audio": true
+    },
+    "en": {
+      "text": "She's my sister",
+      "audio": true
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Это очень плохо",
+      "audio": true
+    },
+    "en": {
+      "text": "It's very bad",
+      "audio": true
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Это важно",
+      "audio": true
+    },
+    "en": {
+      "text": "It's important",
+      "audio": true
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Они друзья",
+      "audio": true
+    },
+    "en": {
+      "text": "They're friends",
+      "audio": true
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Это так дешево",
+      "audio": true
+    },
+    "en": {
+      "text": "It's so cheap",
+      "audio": true
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Это плохо",
+      "audio": true
+    },
+    "en": {
+      "text": "It's bad",
+      "audio": true
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Это хорошо",
+      "audio": true
+    },
+    "en": {
+      "text": "It's good",
+      "audio": true
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Меня зовут Алекс",
+      "audio": true
+    },
+    "en": {
+      "text": "My name's Alex",
+      "audio": true
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Это действительно плохо",
+      "audio": true
+    },
+    "en": {
+      "text": "It's really bad",
+      "audio": true
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Это очень дешево",
+      "audio": true
+    },
+    "en": {
+      "text": "It's very cheap",
+      "audio": true
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Он здесь",
+      "audio": true
+    },
+    "en": {
+      "text": "He's here",
+      "audio": true
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Это интересно",
+      "audio": true
+    },
+    "en": {
+      "text": "It's interesting",
+      "audio": true
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Она мой учитель",
+      "audio": true
+    },
+    "en": {
+      "text": "She's my teacher",
+      "audio": true
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Они очень богатые",
+      "audio": true
+    },
+    "en": {
+      "text": "They're very rich",
+      "audio": true
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Они студенты",
+      "audio": true
+    },
+    "en": {
+      "text": "They're students",
+      "audio": true
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Мы в парке",
+      "audio": true
+    },
+    "en": {
+      "text": "We're in the park",
+      "audio": true
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Он мой брат",
+      "audio": true
+    },
+    "en": {
+      "text": "He's my brother",
+      "audio": true
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Он наш учитель",
+      "audio": true
+    },
+    "en": {
+      "text": "He's our teacher",
+      "audio": true
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он учитель",
+      "audio": true
+    },
+    "en": {
+      "text": "He's a teacher",
+      "audio": true
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Мы друзья",
+      "audio": true
+    },
+    "en": {
+      "text": "We're friends",
+      "audio": true
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Мы в Англии",
+      "audio": true
+    },
+    "en": {
+      "text": "We're in England",
+      "audio": true
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Меня зовут Кейт",
+      "audio": true
+    },
+    "en": {
+      "text": "My name's Kate",
+      "audio": true
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я на работе",
+      "audio": true
+    },
+    "en": {
+      "text": "I'm at work",
+      "audio": true
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Я студент",
+      "audio": true
+    },
+    "en": {
+      "text": "I'm a student",
+      "audio": true
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Это так важно",
+      "audio": true
+    },
+    "en": {
+      "text": "It's so important",
+      "audio": true
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Это слишком дорого",
+      "audio": true
+    },
+    "en": {
+      "text": "It's too expensive",
+      "audio": true
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Мне пятьдесят лет",
+      "audio": true
+    },
+    "en": {
+      "text": "I'm fifty years old",
+      "audio": true
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Это действительно интересно",
+      "audio": true
+    },
+    "en": {
+      "text": "It's really interesting",
+      "audio": true
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Они здесь",
+      "audio": true
+    },
+    "en": {
+      "text": "They're here",
+      "audio": true
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он очень бедный",
+      "audio": true
+    },
+    "en": {
+      "text": "He's very poor",
+      "audio": true
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Мне пятьдесят",
+      "audio": true
+    },
+    "en": {
+      "text": "I'm fifty",
+      "audio": true
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Это так хорошо",
+      "audio": true
+    },
+    "en": {
+      "text": "It's so good",
+      "audio": true
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Он дизайнер",
+      "audio": true
+    },
+    "en": {
+      "text": "He's a designer",
+      "audio": true
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Это действительно важно",
+      "audio": true
+    },
+    "en": {
+      "text": "It's really important",
+      "audio": true
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я сейчас очень занят",
+      "audio": true
+    },
+    "en": {
+      "text": "I'm very busy now",
+      "audio": true
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Это очень важно",
+      "audio": true
+    },
+    "en": {
+      "text": "It's very important",
+      "audio": true
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Она там",
+      "audio": true
+    },
+    "en": {
+      "text": "She's there",
+      "audio": true
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Это действительно хорошо",
+      "audio": true
+    },
+    "en": {
+      "text": "It's really good",
+      "audio": true
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Это очень интересно",
+      "audio": true
+    },
+    "en": {
+      "text": "It's very interesting",
+      "audio": true
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Он врач",
+      "audio": true
+    },
+    "en": {
+      "text": "He's a doctor",
+      "audio": true
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Он мой папа",
+      "audio": true
+    },
+    "en": {
+      "text": "He’s my father",
+      "audio": true
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я так счастлив",
+      "audio": true
+    },
+    "en": {
+      "text": "I'm so happy",
+      "audio": true
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Это очень хорошо",
+      "audio": true
+    },
+    "en": {
+      "text": "It's very good",
+      "audio": true
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Ему пятнадцать",
+      "audio": true
+    },
+    "en": {
+      "text": "He's fifteen",
+      "audio": true
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Это так интересно",
+      "audio": true
+    },
+    "en": {
+      "text": "It's so interesting",
+      "audio": true
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Она моя мама",
+      "audio": true
+    },
+    "en": {
+      "text": "She’s my mother",
+      "audio": true
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я дома",
+      "audio": true
+    },
+    "en": {
+      "text": "I'm at home",
+      "audio": true
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Ты прав",
+      "audio": true
+    },
+    "en": {
+      "text": "You're right",
+      "audio": true
+    }
+  }
+]

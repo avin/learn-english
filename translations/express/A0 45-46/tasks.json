@@ -1,0 +1,563 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Она болела на прошлой неделе",
+      "audio": true
+    },
+    "en": {
+      "text": "She was ill last week",
+      "audio": true
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я был на работе",
+      "audio": true
+    },
+    "en": {
+      "text": "I was at work",
+      "audio": true
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Он был болен",
+      "audio": true
+    },
+    "en": {
+      "text": "He was ill",
+      "audio": true
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Она была так счастлива",
+      "audio": true
+    },
+    "en": {
+      "text": "She was so happy",
+      "audio": true
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Она была действительно рассержена",
+      "audio": true
+    },
+    "en": {
+      "text": "She was really angry",
+      "audio": true
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я был в парке",
+      "audio": true
+    },
+    "en": {
+      "text": "I was in the park",
+      "audio": true
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Я был действительно удивлен",
+      "audio": true
+    },
+    "en": {
+      "text": "I was really surprised",
+      "audio": true
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Он был на работе",
+      "audio": true
+    },
+    "en": {
+      "text": "He was at work",
+      "audio": true
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я был очень удивлен",
+      "audio": true
+    },
+    "en": {
+      "text": "I was very surprised",
+      "audio": true
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Он был очень удивлен",
+      "audio": true
+    },
+    "en": {
+      "text": "He was very surprised",
+      "audio": true
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Он был очень грустный",
+      "audio": true
+    },
+    "en": {
+      "text": "He was very sad",
+      "audio": true
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Он был очень зол",
+      "audio": true
+    },
+    "en": {
+      "text": "He was very angry",
+      "audio": true
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Это было очень сложно",
+      "audio": true
+    },
+    "en": {
+      "text": "It was very difficult",
+      "audio": true
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Это был лучший результат",
+      "audio": true
+    },
+    "en": {
+      "text": "It was the best result",
+      "audio": true
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я очень устал",
+      "audio": true
+    },
+    "en": {
+      "text": "I was very tired",
+      "audio": true
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Это было действительно странно",
+      "audio": true
+    },
+    "en": {
+      "text": "It was really strange",
+      "audio": true
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Это было важно",
+      "audio": true
+    },
+    "en": {
+      "text": "It was important",
+      "audio": true
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Этот урок был очень полезным",
+      "audio": true
+    },
+    "en": {
+      "text": "This lesson was very useful",
+      "audio": true
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Она была грустная",
+      "audio": true
+    },
+    "en": {
+      "text": "She was sad",
+      "audio": true
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я очень устал вчера",
+      "audio": true
+    },
+    "en": {
+      "text": "I was very tired yesterday",
+      "audio": true
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Они были в городе",
+      "audio": true
+    },
+    "en": {
+      "text": "They were in the city",
+      "audio": true
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это было очень важно",
+      "audio": true
+    },
+    "en": {
+      "text": "It was very important",
+      "audio": true
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Это было так необычно",
+      "audio": true
+    },
+    "en": {
+      "text": "It was so unusual",
+      "audio": true
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Мы были в городе",
+      "audio": true
+    },
+    "en": {
+      "text": "We were in the city",
+      "audio": true
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Это было очень легко",
+      "audio": true
+    },
+    "en": {
+      "text": "It was very easy",
+      "audio": true
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Эта еда была очень дешевой",
+      "audio": true
+    },
+    "en": {
+      "text": "This food was very cheap",
+      "audio": true
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Эта идея была очень интересная",
+      "audio": true
+    },
+    "en": {
+      "text": "This idea was very interesting",
+      "audio": true
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Это было лучшее решение",
+      "audio": true
+    },
+    "en": {
+      "text": "It was the best decision",
+      "audio": true
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Это было действительно важно",
+      "audio": true
+    },
+    "en": {
+      "text": "It was really important",
+      "audio": true
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Это был лучший выбор",
+      "audio": true
+    },
+    "en": {
+      "text": "It was the best choice",
+      "audio": true
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Ты был совершенно прав",
+      "audio": true
+    },
+    "en": {
+      "text": "You were absolutely right",
+      "audio": true
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Это было легко",
+      "audio": true
+    },
+    "en": {
+      "text": "It was easy",
+      "audio": true
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я был очень занят",
+      "audio": true
+    },
+    "en": {
+      "text": "I was very busy",
+      "audio": true
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Они были в другом городе",
+      "audio": true
+    },
+    "en": {
+      "text": "They were in another city",
+      "audio": true
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я очень устал после работы",
+      "audio": true
+    },
+    "en": {
+      "text": "I was very tired after work",
+      "audio": true
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Он был очень счастлив",
+      "audio": true
+    },
+    "en": {
+      "text": "He was very happy",
+      "audio": true
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я был очень занят весь день",
+      "audio": true
+    },
+    "en": {
+      "text": "I was very busy all day",
+      "audio": true
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Это был мой лучший результат",
+      "audio": true
+    },
+    "en": {
+      "text": "It was my best result",
+      "audio": true
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Мы были вместе",
+      "audio": true
+    },
+    "en": {
+      "text": "We were together",
+      "audio": true
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Он был в школе",
+      "audio": true
+    },
+    "en": {
+      "text": "He was at school",
+      "audio": true
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Это было так легко",
+      "audio": true
+    },
+    "en": {
+      "text": "It was so easy",
+      "audio": true
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Ты был прав",
+      "audio": true
+    },
+    "en": {
+      "text": "You were right",
+      "audio": true
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Это платье было очень дорогое",
+      "audio": true
+    },
+    "en": {
+      "text": "This dress was very expensive",
+      "audio": true
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я был очень счастлив",
+      "audio": true
+    },
+    "en": {
+      "text": "I was very happy",
+      "audio": true
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Это было действительно интересно",
+      "audio": true
+    },
+    "en": {
+      "text": "It was really interesting",
+      "audio": true
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Эти уроки были очень полезные",
+      "audio": true
+    },
+    "en": {
+      "text": "These lessons were very useful",
+      "audio": true
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Этот билет был таким дорогим",
+      "audio": true
+    },
+    "en": {
+      "text": "This ticket was so expensive",
+      "audio": true
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Это было слишком сложно",
+      "audio": true
+    },
+    "en": {
+      "text": "It was too difficult",
+      "audio": true
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Это было сложно",
+      "audio": true
+    },
+    "en": {
+      "text": "It was difficult",
+      "audio": true
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Мы были в парке",
+      "audio": true
+    },
+    "en": {
+      "text": "We were in the park",
+      "audio": true
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Эти билеты были очень дорогими",
+      "audio": true
+    },
+    "en": {
+      "text": "These tickets were very expensive",
+      "audio": true
+    }
+  }
+]

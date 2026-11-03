@@ -1,0 +1,519 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Тебе понравилась экскурсия?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you like the excursion?",
+      "audio": true
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Он сделал ошибку?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did he make a mistake?",
+      "audio": true
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Тебе понравился этот урок?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you like this lesson?",
+      "audio": true
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Тебе понравилась эта экскурсия?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you like this excursion?",
+      "audio": true
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Тебе понравилось это видео?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you like this video?",
+      "audio": true
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Ты решил эти проблемы?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you solve these problems?",
+      "audio": true
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Тебе понравилась книга?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you like the book?",
+      "audio": true
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я правильно написал это?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did I write it correctly?",
+      "audio": true
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Ты понял это?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you understand it?",
+      "audio": true
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Тебе понравился этот фильм?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you like this movie?",
+      "audio": true
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Они приехали туда?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did they come there?",
+      "audio": true
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Ты сдал тот экзамен?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you pass that exam?",
+      "audio": true
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Тебе понравилась эта программа?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you like this program?",
+      "audio": true
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Ты прошел тест?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you pass the test?",
+      "audio": true
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Ты показал лучший результат?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you show the best result?",
+      "audio": true
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Тебе понравилась эта книга?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you like this book?",
+      "audio": true
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Это действительно помогло тебе?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did it really help you?",
+      "audio": true
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Тебе понравился этот матч?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you like this match?",
+      "audio": true
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он решил те проблемы?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did he solve those problems?",
+      "audio": true
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Ему понравилась та экскурсия?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did he like that excursion?",
+      "audio": true
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Тебе понравилась игра?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you like the game?",
+      "audio": true
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Ты сдал экзамен?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you pass the exam?",
+      "audio": true
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Она знала это?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did she know it?",
+      "audio": true
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Это случилось вчера?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did it happen yesterday?",
+      "audio": true
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Ты решил эту проблему?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you solve this problem?",
+      "audio": true
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Он купил машину?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did he buy a car?",
+      "audio": true
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Тебе понравилась эта игра?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you like this game?",
+      "audio": true
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Мы ответили на это правильно?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did we answer it correctly?",
+      "audio": true
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Он решил ту проблему?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did he solve that problem?",
+      "audio": true
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Он действительно помог тебе?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did he really help you?",
+      "audio": true
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Ты вчера ходил на работу?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you go to work yesterday?",
+      "audio": true
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Ты заплатил за это?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you pay for it?",
+      "audio": true
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Тебе понравилась поездка?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you like the trip?",
+      "audio": true
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Мы правильно сказали это?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did we say it correctly?",
+      "audio": true
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Ты заказал это онлайн?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you order it online?",
+      "audio": true
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Тебе понравилась эта идея?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you like this idea?",
+      "audio": true
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Ты купил это онлайн?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you buy it online?",
+      "audio": true
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Я сделал какие-либо ошибки?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did I make any mistakes?",
+      "audio": true
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Ты решил те проблемы?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you solve those problems?",
+      "audio": true
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Ты сделал свое домашнее задание?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you do your homework?",
+      "audio": true
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Ты ходил туда?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you go there?",
+      "audio": true
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Тебе понравился урок?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you like the lesson?",
+      "audio": true
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Тебе понравилась эта поездка?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you like this trip?",
+      "audio": true
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Это помогло тебе?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did it help you?",
+      "audio": true
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я правильно сказал это?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did I say it correctly?",
+      "audio": true
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Он работал с тобой?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did he work with you?",
+      "audio": true
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Ты сдал этот тест?",
+      "audio": true
+    },
+    "en": {
+      "text": "Did you pass this test?",
+      "audio": true
+    }
+  }
+]

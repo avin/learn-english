@@ -1,0 +1,497 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Я хочу сказать тебе одну вещь",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to tell you one thing",
+      "audio": true
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я хочу сказать одну вещь",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to say one thing",
+      "audio": true
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я часто хожу гулять",
+      "audio": true
+    },
+    "en": {
+      "text": "I often go for a walk",
+      "audio": true
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Мы ходим в университет",
+      "audio": true
+    },
+    "en": {
+      "text": "We go to university",
+      "audio": true
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я бы хотел посетить эту страну",
+      "audio": true
+    },
+    "en": {
+      "text": "I'd like to visit this country",
+      "audio": true
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я бы хотел примерить эти джинсы",
+      "audio": true
+    },
+    "en": {
+      "text": "I'd like to try on these jeans",
+      "audio": true
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Я бы хотел пойти погулять сейчас",
+      "audio": true
+    },
+    "en": {
+      "text": "I'd like to go for a walk now",
+      "audio": true
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я хочу заказать эти билеты онлайн",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to order these tickets online",
+      "audio": true
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я бы хотел примерить эту обувь",
+      "audio": true
+    },
+    "en": {
+      "text": "I'd like to try on these shoes",
+      "audio": true
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я хочу заказать эту еду онлайн",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to order this food online",
+      "audio": true
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я хочу позвонить тебе сейчас",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to call you now",
+      "audio": true
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Мне нужно сделать это сейчас",
+      "audio": true
+    },
+    "en": {
+      "text": "I need to do it now",
+      "audio": true
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Я хочу купить этот билет",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to buy this ticket",
+      "audio": true
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я хочу заказать это онлайн",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to order it online",
+      "audio": true
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я хотел бы попить чаю",
+      "audio": true
+    },
+    "en": {
+      "text": "I'd like to drink tea",
+      "audio": true
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я хочу пойти в этот ресторан",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to go to this restaurant",
+      "audio": true
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я бы хотел поехать в Америку",
+      "audio": true
+    },
+    "en": {
+      "text": "I'd like to go to America",
+      "audio": true
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я бы хотела примерить это платье",
+      "audio": true
+    },
+    "en": {
+      "text": "I’d like to try on this dress",
+      "audio": true
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я хотел бы выпить кофе",
+      "audio": true
+    },
+    "en": {
+      "text": "I'd like to drink coffee",
+      "audio": true
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я хочу пойти погулять",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to go for a walk",
+      "audio": true
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Я хочу пойти туда с тобой",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to go there with you",
+      "audio": true
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Я хочу пойти в этот магазин",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to go to this shop",
+      "audio": true
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Я бы хотел посетить этот город",
+      "audio": true
+    },
+    "en": {
+      "text": "I'd like to visit this city",
+      "audio": true
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Я хочу купить эти билеты",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to buy these tickets",
+      "audio": true
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Я бы хотел примерить этот свитер",
+      "audio": true
+    },
+    "en": {
+      "text": "I'd like to try on this sweater",
+      "audio": true
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я хочу купить это",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to buy it",
+      "audio": true
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я часто хожу туда",
+      "audio": true
+    },
+    "en": {
+      "text": "I often go there",
+      "audio": true
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Я хочу поехать в Англию",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to go to England",
+      "audio": true
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Мне нужно идти домой",
+      "audio": true
+    },
+    "en": {
+      "text": "I need to go home",
+      "audio": true
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я хочу посетить Англию",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to visit England",
+      "audio": true
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Мне нужно идти на работу",
+      "audio": true
+    },
+    "en": {
+      "text": "I need to go to work",
+      "audio": true
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я бы хотел пойти в это место",
+      "audio": true
+    },
+    "en": {
+      "text": "I'd like to go to that place",
+      "audio": true
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я хочу посетить Испанию",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to visit Spain",
+      "audio": true
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Мне нужно сделать это",
+      "audio": true
+    },
+    "en": {
+      "text": "I need to do it",
+      "audio": true
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я хожу на работу",
+      "audio": true
+    },
+    "en": {
+      "text": "I go to work",
+      "audio": true
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Они ходят в школу",
+      "audio": true
+    },
+    "en": {
+      "text": "They go to school",
+      "audio": true
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Мне нужно быть там скоро",
+      "audio": true
+    },
+    "en": {
+      "text": "I need to be there soon",
+      "audio": true
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Я бы хотел поговорить об этом сейчас",
+      "audio": true
+    },
+    "en": {
+      "text": "I'd like to talk about it now",
+      "audio": true
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я хочу выучить английский",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to learn English",
+      "audio": true
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я бы хотел пойти в парк с тобой",
+      "audio": true
+    },
+    "en": {
+      "text": "I'd like to go to the park with you",
+      "audio": true
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я бы хотел пойти домой",
+      "audio": true
+    },
+    "en": {
+      "text": "I'd like to go home",
+      "audio": true
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я хочу поехать в Соединенные Штаты",
+      "audio": true
+    },
+    "en": {
+      "text": "I want to go to the United States",
+      "audio": true
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "I'd like to try on these trousers",
+      "audio": true
+    },
+    "en": {
+      "text": "Я бы хотел примерить эти брюки",
+      "audio": true
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "I want to talk about it",
+      "audio": true
+    },
+    "en": {
+      "text": "Я хочу поговорить об этом",
+      "audio": true
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "I want to go to the park",
+      "audio": true
+    },
+    "en": {
+      "text": "Я хочу пойти в парк",
+      "audio": true
+    }
+  }
+]

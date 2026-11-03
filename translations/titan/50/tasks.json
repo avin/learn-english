@@ -1,0 +1,882 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Я часто жду его",
+      "audio": false
+    },
+    "en": {
+      "text": "I often wait for him",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я посмотрю тот видео урок завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll watch that video lesson tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Они не объясняют этого",
+      "audio": false
+    },
+    "en": {
+      "text": "They don't explain it",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я покажу тебе эту вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll show you this thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Ты будешь ждать этого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you wait for it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я напишу ему письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I will write him a letter",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Я могу пойти туда с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "I can go there with you",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я написал сообщение",
+      "audio": false
+    },
+    "en": {
+      "text": "I wrote a message",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Следуй за мной!",
+      "audio": false
+    },
+    "en": {
+      "text": "Follow me!",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Два яблока упали с дерева",
+      "audio": false
+    },
+    "en": {
+      "text": "Two apples fell from a tree",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Она хочет танцевать сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "She wants to dance now",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Мне нужно тренироваться намного больше",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to train much more",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он построил дом",
+      "audio": false
+    },
+    "en": {
+      "text": "He built a house",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Это может упасть",
+      "audio": false
+    },
+    "en": {
+      "text": "It can fall",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я могу забыть это очень легко",
+      "audio": false
+    },
+    "en": {
+      "text": "I can forget it very easily",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Он часто улыбается",
+      "audio": false
+    },
+    "en": {
+      "text": "He often smiles",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я могу все объяснить",
+      "audio": false
+    },
+    "en": {
+      "text": "I can explain everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Он дал мне этот совет",
+      "audio": false
+    },
+    "en": {
+      "text": "He gave me this advice",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я в основном использовал тот словарь",
+      "audio": false
+    },
+    "en": {
+      "text": "I mostly used that dictionary",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Как ты тренировался?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you train?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Давай пойдем в другое место",
+      "audio": false
+    },
+    "en": {
+      "text": "Let's go to another place",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Я хочу посмотреть этот фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to watch this movie",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Она танцевала профессионально",
+      "audio": false
+    },
+    "en": {
+      "text": "She danced professionally",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Она часто пользуется этим сервисом",
+      "audio": false
+    },
+    "en": {
+      "text": "She often uses this service",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Я смотрел это видео прошлой ночью",
+      "audio": false
+    },
+    "en": {
+      "text": "I watched this video last night",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Он пошел в цирк",
+      "audio": false
+    },
+    "en": {
+      "text": "He went to the circus",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Ей нужно идти домой",
+      "audio": false
+    },
+    "en": {
+      "text": "She needs to go home",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Ты можешь улыбнуться",
+      "audio": false
+    },
+    "en": {
+      "text": "You can smile",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Что ты выберешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you choose?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я часто пользуюсь этим словарем",
+      "audio": false
+    },
+    "en": {
+      "text": "I often use this dictionary",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Она не хотела ждать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "She didn't want to wait for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Ты дашь ему эти деньги?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you give him this money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Мы скоро пойдем на пикник",
+      "audio": false
+    },
+    "en": {
+      "text": "We'll go on a picnic soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Давай пойдем туда вместе!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let's go there together!",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я все забыл",
+      "audio": false
+    },
+    "en": {
+      "text": "I forgot everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Этот мальчик внезапно упал",
+      "audio": false
+    },
+    "en": {
+      "text": "This boy fell suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Как она готовит?",
+      "audio": false
+    },
+    "en": {
+      "text": "How does she cook?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Она не может понять этого",
+      "audio": false
+    },
+    "en": {
+      "text": "She can't understand it",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Этот урок продлится сорок минут",
+      "audio": false
+    },
+    "en": {
+      "text": "This lesson will last forty minutes",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я не могу объяснить эту вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't explain this thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Как долго это длилось?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long did it last?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Наш урок длился очень долго",
+      "audio": false
+    },
+    "en": {
+      "text": "Our lesson lasted very long",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я правильно это написал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did I write it correctly?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я не мог понять эту речь",
+      "audio": false
+    },
+    "en": {
+      "text": "I couldn't understand this speech",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Он не умеет говорить по-английски",
+      "audio": false
+    },
+    "en": {
+      "text": "He can't speak English",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Когда они поженятся?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will they get married?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Они показали это по телевизору",
+      "audio": false
+    },
+    "en": {
+      "text": "They showed it on TV",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Время проходило так медленно",
+      "audio": false
+    },
+    "en": {
+      "text": "Time passed so slowly",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я мог учить английский часами",
+      "audio": false
+    },
+    "en": {
+      "text": "I could learn English for hours",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он мог учить русский часами",
+      "audio": false
+    },
+    "en": {
+      "text": "He could learn Russian for hours",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я правильно это сказал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did I say it correctly?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Ты нашел это легко?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you find it easily?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я делаю это правильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do I do it correctly?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Он не может объяснить это",
+      "audio": false
+    },
+    "en": {
+      "text": "He can't explain it",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я не могу объяснить это",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't explain it",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Она выбрала первый ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "She chose the first answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Он выбрал второй ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "He chose the second answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я выбрал третий ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I chose the third answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Ты будешь танцевать или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you dance or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Она будет петь или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will she sing or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Они строят очень модный дом",
+      "audio": false
+    },
+    "en": {
+      "text": "They build a very fashionable house",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Он строит очень модные дома",
+      "audio": false
+    },
+    "en": {
+      "text": "He builds very fashionable houses",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я выбрал второй ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I chose the second answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Ты сказал это правильно",
+      "audio": false
+    },
+    "en": {
+      "text": "You said it correctly",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я не думаю, что цена упадет",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that the price will fall",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я не думаю, что эти цены упадут",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that these prices will fall",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я не думаю, что эта цена упадет",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that this price will fall",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Время проходит очень быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "Time passes very quickly",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Они хотят пожениться",
+      "audio": false
+    },
+    "en": {
+      "text": "They want to get married",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Он женился на ней в прошлом году",
+      "audio": false
+    },
+    "en": {
+      "text": "He married her last year",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Как она танцевала?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did she dance?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Она готовит вкусную еду",
+      "audio": false
+    },
+    "en": {
+      "text": "She cooks delicious food",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я постараюсь сдать этот экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try to pass this exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Тот урок длился час",
+      "audio": false
+    },
+    "en": {
+      "text": "That lesson lasted an hour",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я думаю, я последую твоему совету",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I will follow your advice",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Просто следуй за мной!",
+      "audio": false
+    },
+    "en": {
+      "text": "Just follow me!",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Ты написал все правильно",
+      "audio": false
+    },
+    "en": {
+      "text": "You wrote everything correctly",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Что ты будешь готовить на ужин?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you cook for dinner?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Она улыбнулась мне",
+      "audio": false
+    },
+    "en": {
+      "text": "She smiled at me",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я часто пишу по-английски",
+      "audio": false
+    },
+    "en": {
+      "text": "I often write in English",
+      "audio": false
+    }
+  }
+]

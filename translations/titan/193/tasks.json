@@ -1,0 +1,948 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Она делает свою домашнюю работу каждый день",
+      "audio": false
+    },
+    "en": {
+      "text": "She does her homework every day",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я готовлю обед сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I am making lunch",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я могу приготовить тебе чашку чая",
+      "audio": false
+    },
+    "en": {
+      "text": "I can make you a cup of tea",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Он готовит завтрак",
+      "audio": false
+    },
+    "en": {
+      "text": "He is making breakfast",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Ты можешь сделать мне чашку чая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you make me a cup of tea?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Ты все сделал правильно",
+      "audio": false
+    },
+    "en": {
+      "text": "You did everything right",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Он действительно плохо сдал экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "He did really badly in the exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Нам нужно что-то сделать, чтобы изменить ситуацию",
+      "audio": false
+    },
+    "en": {
+      "text": "We need to do something to change the situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Мне нужно помыть посуду прямо сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to do the dishes now",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Ей приходится заниматься глажкой",
+      "audio": false
+    },
+    "en": {
+      "text": "She has to do the ironing",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Он постелил себе постель",
+      "audio": false
+    },
+    "en": {
+      "text": "He made his bed",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Ты сделал правильную вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "You did the right thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он плохо сдал экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "He did badly in the exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я делаю там курс английского языка",
+      "audio": false
+    },
+    "en": {
+      "text": "I am doing an English course there",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Ты проделал отличную работу!",
+      "audio": false
+    },
+    "en": {
+      "text": "You did an excellent job!",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я сделал правильный выбор",
+      "audio": false
+    },
+    "en": {
+      "text": "I made the right choice",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я сделал два бутерброда на завтрак",
+      "audio": false
+    },
+    "en": {
+      "text": "I made two sandwiches for breakfast",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Ей нужно сделать прическу",
+      "audio": false
+    },
+    "en": {
+      "text": "She needs to do her hair",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Ты можешь сделать мне сэндвич?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you make me a sandwich?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я делаю ужин",
+      "audio": false
+    },
+    "en": {
+      "text": "I am making dinner",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Она делает себе маникюр",
+      "audio": false
+    },
+    "en": {
+      "text": "She is doing her nails",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Ты все сделал должным образом",
+      "audio": false
+    },
+    "en": {
+      "text": "You did everything properly",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Она постирала белье",
+      "audio": false
+    },
+    "en": {
+      "text": "She did the laundry",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Ты хорошо справился с собеседованием",
+      "audio": false
+    },
+    "en": {
+      "text": "You did well in the interview",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Ты приготовил очень вкусный салат",
+      "audio": false
+    },
+    "en": {
+      "text": "You made a very tasty salad",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Кто обычно делает покупки в твоей семье?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who usually does the shopping in your family?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Он проделал хорошую работу!",
+      "audio": false
+    },
+    "en": {
+      "text": "He did a good job!",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Она обычно гладит белье",
+      "audio": false
+    },
+    "en": {
+      "text": "She usually does the ironing",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Я сделал эту работу вовремя",
+      "audio": false
+    },
+    "en": {
+      "text": "I did this work on time",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Ты проделал хорошую работу!",
+      "audio": false
+    },
+    "en": {
+      "text": "You did a good job!",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Я готовлю обед",
+      "audio": false
+    },
+    "en": {
+      "text": "I am making lunch",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я сделал бутерброд для него",
+      "audio": false
+    },
+    "en": {
+      "text": "I made a sandwich for him",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Ты можешь сделать мне одолжение?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you do me a favour?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Она очень плохо сделала тест",
+      "audio": false
+    },
+    "en": {
+      "text": "She did very badly in the test",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Он проходят бизнес-курс в этом университете",
+      "audio": false
+    },
+    "en": {
+      "text": "He is doing a business course at this university",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Его жена любит делать покупки",
+      "audio": false
+    },
+    "en": {
+      "text": "His wife likes doing the shopping",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Он сделает для нас исключение",
+      "audio": false
+    },
+    "en": {
+      "text": "He will make an exception for us",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Ты мог бы сделать мне одолжение?",
+      "audio": false
+    },
+    "en": {
+      "text": "Could you do me a favour?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Она обычно занимается домашним хозяйством",
+      "audio": false
+    },
+    "en": {
+      "text": "She usually does housework",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я уже зарезервировал столик в этом ресторане",
+      "audio": false
+    },
+    "en": {
+      "text": "I have already made a reservation at this restaurant",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Это ее обязанность - стирать белье",
+      "audio": false
+    },
+    "en": {
+      "text": "It is her duty to do the laundry",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Это может нанести вред нашей окружающей среде",
+      "audio": false
+    },
+    "en": {
+      "text": "It can do harm to our environment",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "К сожалению, мы ничего не можем с этим поделать",
+      "audio": false
+    },
+    "en": {
+      "text": "Unfortunately, we can't do anything about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я думаю, я принял правильное решение",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I made the right decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я склонен думать, что это ничего не изменит",
+      "audio": false
+    },
+    "en": {
+      "text": "I tend to think that it won't make a difference",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Ты думаешь, ты принял правильное решение?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you think you made the right decision?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я не думаю, что это сделает какую-либо большую разницу",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that it will make any big difference",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Занимаясь этим бизнесом, он разбогател",
+      "audio": false
+    },
+    "en": {
+      "text": "Doing this business he made a fortune",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Продавая эти товары, он разбогател",
+      "audio": false
+    },
+    "en": {
+      "text": "Selling these goods he made a fortune",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Занимаясь таким бизнесом, она разбогатела",
+      "audio": false
+    },
+    "en": {
+      "text": "Doing such business she made a fortune",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я думаю, что был сделан правильный выбор",
+      "audio": false
+    },
+    "en": {
+      "text": "I think the right choice was made",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я думаю, правильный ответ был найден",
+      "audio": false
+    },
+    "en": {
+      "text": "I think the right answer was found",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я полагаю, правильный выбор был сделан",
+      "audio": false
+    },
+    "en": {
+      "text": "I suppose the right choice was made",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я сделаю все возможное, чтобы достичь этой цели",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll do my best to achieve this aim",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я сделаю все возможное, чтобы получить эту работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll do my best to get this job",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я сделаю все возможное, чтобы заработать эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll do my best to earn this money",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Это наносит вред нашей окружающей среде",
+      "audio": false
+    },
+    "en": {
+      "text": "It does harm to our environment",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Это наносит вред нашему здоровью",
+      "audio": false
+    },
+    "en": {
+      "text": "It does harm to our health",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я только что постелил себе постель",
+      "audio": false
+    },
+    "en": {
+      "text": "I have just made my bed",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я только что сделал домашнее задание",
+      "audio": false
+    },
+    "en": {
+      "text": "I have just done my homework",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я только что приготовил обед",
+      "audio": false
+    },
+    "en": {
+      "text": "I have just made lunch",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Она только что сделала себе маникюр",
+      "audio": false
+    },
+    "en": {
+      "text": "She has just done her nails",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я только что сделала себе маникюр",
+      "audio": false
+    },
+    "en": {
+      "text": "I have just done my nails",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Когда ты будешь делать себе маникюр?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you do your nails?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "К сожалению, мы ничего не можем с этим поделать",
+      "audio": false
+    },
+    "en": {
+      "text": "Unfortunately, we can do nothing about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я думаю, что мы можем что-то сделать с этим",
+      "audio": false
+    },
+    "en": {
+      "text": "I think we can do something about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Все было сделано правильно",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything was done rightly",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Все было сделано должным образом",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything was done properly",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Все было сделано вовремя",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything was done on time",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Она приготовила салат для всей семьи",
+      "audio": false
+    },
+    "en": {
+      "text": "She made a salad for the whole family",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Она сделала завтрак для всей семьи",
+      "audio": false
+    },
+    "en": {
+      "text": "She made breakfast for the whole family",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Она сделала мне два бутерброда",
+      "audio": false
+    },
+    "en": {
+      "text": "She made two sandwiches for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Никто не помогает ей делать ее домашнее задание",
+      "audio": false
+    },
+    "en": {
+      "text": "No one helps her do her homework",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Ее мама помогает ему делать его домашнее задание",
+      "audio": false
+    },
+    "en": {
+      "text": "Her mother helps him do his homework",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Кто помогает тебе делать твое домашнее задание?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who helps you do your homework?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я сделаю все возможное, чтобы не разочаровать тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I will do my best not to disappoint you",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я уверен, что было принято правильное решение",
+      "audio": false
+    },
+    "en": {
+      "text": "I am sure that the right decision was made",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я сделаю все возможное, чтобы не упустить этот шанс",
+      "audio": false
+    },
+    "en": {
+      "text": "I will do my best not to miss this chance",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Нам придется сделать выбор",
+      "audio": false
+    },
+    "en": {
+      "text": "We will have to make a choice",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я уверен, что ты поступил правильно",
+      "audio": false
+    },
+    "en": {
+      "text": "I am sure that you did the right thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Нам придется сделать специальные приготовления",
+      "audio": false
+    },
+    "en": {
+      "text": "We will have to make special arrangements",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я хочу сказать, что ты проделал отличную работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to say that you did a great job",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Он помогает сестре мыть посуду",
+      "audio": false
+    },
+    "en": {
+      "text": "He helps his sister do the dishes",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я думаю, что ты действительно хорошо справился с интервью",
+      "audio": false
+    },
+    "en": {
+      "text": "I think you did really well in the interview",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я сделаю тебе чашку кофе, если ты не возражаешь",
+      "audio": false
+    },
+    "en": {
+      "text": "I will make you a cup of coffee if you don't mind",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Когда я встал, она готовила завтрак",
+      "audio": false
+    },
+    "en": {
+      "text": "When I got up, she was making breakfast",
+      "audio": false
+    }
+  }
+]

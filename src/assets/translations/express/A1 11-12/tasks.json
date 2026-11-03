@@ -1,202 +1,252 @@
 [
-  [
-    "Сколько стоит свитер?",
-    "How much does the sweater cost?"
-  ],
-  [
-    "Кем работает твоя мама? Она доктор",
-    "What's your mother's job? She's a doctor"
-  ],
-  [
-    "Кем ты работаешь?",
-    "What's your job?"
-  ],
-  [
-    "Кем она работает? Она продавец",
-    "What's her job? She's a shop assistant"
-  ],
-  [
-    "Сколько стоит эта пара брюк?",
-    "How much does this pair of trousers cost?"
-  ],
-  [
-    "Сколько стоят эти джинсы?",
-    "How much do these jeans cost?"
-  ],
-  [
-    "Сколько стоят эти брюки?",
-    "How much do these trousers cost?"
-  ],
-  [
-    "Где работает твоя мама?",
-    "Where does your mother work?"
-  ],
-  [
-    "Это видео кажется таким смешным?",
-    "Does this video seem so funny?"
-  ],
-  [
-    "Сколько стоят эти джинсы?",
-    "How much are these jeans?"
-  ],
-  [
-    "Сколько стоит эта модель?",
-    "How much is this model?"
-  ],
-  [
-    "Сколько стоит эта пара джинсов?",
-    "How much does this pair of jeans cost?"
-  ],
-  [
-    "Почему этот отель такой дорогой?",
-    "Why is this hotel so expensive?"
-  ],
-  [
-    "Сколько стоит эта пара обуви?",
-    "How much does this pair of shoes cost?"
-  ],
-  [
-    "Почему эти вещи кажутся такими важным?",
-    "Why do these things seem so important?"
-  ],
-  [
-    "Это легко или нет?",
-    "Is this easy or not?"
-  ],
-  [
-    "Почему эти вещи такие важные?",
-    "Why are these things so important?"
-  ],
-  [
-    "Твой друг советует это?",
-    "Does you friend advise it?"
-  ],
-  [
-    "Что рекомендует ваш учитель?",
-    "What does your teacher recommend?"
-  ],
-  [
-    "Почему этот билет стоит так дорого?",
-    "Why does this ticket cost so much?"
-  ],
-  [
-    "Сколько стоит платье?",
-    "How much is the dress?"
-  ],
-  [
-    "Это предложение интересует тебя?",
-    "Does this offer interest you?"
-  ],
-  [
-    "Кем работает твой отец?",
-    "What's your father's job?"
-  ],
-  [
-    "Где живет твой друг?",
-    "Where does your friend live?"
-  ],
-  [
-    "Эта вещь действительно важна?",
-    "Is this thing really important?"
-  ],
-  [
-    "Где вы работаете?",
-    "Where do you work?"
-  ],
-  [
-    "Это предложение действительно интересует тебя?",
-    "Does this offer really interest you?"
-  ],
-  [
-    "Это видео действительно такое смешное?",
-    "Is this video really so funny?"
-  ],
-  [
-    "Сколько стоит этот сувенир?",
-    "How much does this souvenir cost?"
-  ],
-  [
-    "Кем работает твой отец? Он менеджер по продажам",
-    "What's your father's job? He's a sales manager"
-  ],
-  [
-    "Почему этот отель такой дешевый?",
-    "Why is this hotel so cheap?"
-  ],
-  [
-    "Дети дома?",
-    "Are the children at home?"
-  ],
-  [
-    "Это предложение интересно тебе?",
-    "Is this offer interesting for you?"
-  ],
-  [
-    "Почему этот билет стоит так дешево?",
-    "Why does this ticket cost so little?"
-  ],
-  [
-    "Что советует твой друг?",
-    "What does your friend advise?"
-  ],
-  [
-    "Эта вещь важная или нет?",
-    "Is this thing important or not?"
-  ],
-  [
-    "Сколько стоят эти туфли?",
-    "How much do these shoes cost?"
-  ],
-  [
-    "Сколько стоит эта модель?",
-    "How much does this model cost?"
-  ],
-  [
-    "Где работает твой отец?",
-    "Where does your father work?"
-  ],
-  [
-    "Сколько стоят эти брюки?",
-    "How much are these trousers?"
-  ],
-  [
-    "Твой учитель рекомендует это?",
-    "Does your teacher recommend it?"
-  ],
-  [
-    "Эта вещь действительно кажется такой важной?",
-    "Does this thing really seem so important?"
-  ],
-  [
-    "Этот курс действительно кажется таким эффективным?",
-    "Does this course really seem so effective?"
-  ],
-  [
-    "Кем он работает? Он юрист",
-    "What's his job? He's a lawyer"
-  ],
-  [
-    "Это предложение действительно интересно тебе?",
-    "Is this offer really interesting for you?"
-  ],
-  [
-    "Этот курс эффективный?",
-    "Is this course effective?"
-  ],
-  [
-    "Кем работает твоя мама?",
-    "What's your mother's job?"
-  ],
-  [
-    "Сколько стоят джинсы?",
-    "How much do the jeans cost?"
-  ],
-  [
-    "Твой друг советует это?",
-    "Do your friend advise it?"
-  ],
-  [
-    "Сколько стоит эта пара джинсов?",
-    "How much is this pair of jeans?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Сколько стоит свитер?",
+    "en": "How much does the sweater cost?"
+  },
+  {
+    "_id": 2,
+    "ru": "Кем работает твоя мама? Она доктор",
+    "en": "What's your mother's job? She's a doctor"
+  },
+  {
+    "_id": 3,
+    "ru": "Кем ты работаешь?",
+    "en": "What's your job?"
+  },
+  {
+    "_id": 4,
+    "ru": "Кем она работает? Она продавец",
+    "en": "What's her job? She's a shop assistant"
+  },
+  {
+    "_id": 5,
+    "ru": "Сколько стоит эта пара брюк?",
+    "en": "How much does this pair of trousers cost?"
+  },
+  {
+    "_id": 6,
+    "ru": "Сколько стоят эти джинсы?",
+    "en": "How much do these jeans cost?"
+  },
+  {
+    "_id": 7,
+    "ru": "Сколько стоят эти брюки?",
+    "en": "How much do these trousers cost?"
+  },
+  {
+    "_id": 8,
+    "ru": "Где работает твоя мама?",
+    "en": "Where does your mother work?"
+  },
+  {
+    "_id": 9,
+    "ru": "Это видео кажется таким смешным?",
+    "en": "Does this video seem so funny?"
+  },
+  {
+    "_id": 10,
+    "ru": "Сколько стоят эти джинсы?",
+    "en": "How much are these jeans?"
+  },
+  {
+    "_id": 11,
+    "ru": "Сколько стоит эта модель?",
+    "en": "How much is this model?"
+  },
+  {
+    "_id": 12,
+    "ru": "Сколько стоит эта пара джинсов?",
+    "en": "How much does this pair of jeans cost?"
+  },
+  {
+    "_id": 13,
+    "ru": "Почему этот отель такой дорогой?",
+    "en": "Why is this hotel so expensive?"
+  },
+  {
+    "_id": 14,
+    "ru": "Сколько стоит эта пара обуви?",
+    "en": "How much does this pair of shoes cost?"
+  },
+  {
+    "_id": 15,
+    "ru": "Почему эти вещи кажутся такими важным?",
+    "en": "Why do these things seem so important?"
+  },
+  {
+    "_id": 16,
+    "ru": "Это легко или нет?",
+    "en": "Is this easy or not?"
+  },
+  {
+    "_id": 17,
+    "ru": "Почему эти вещи такие важные?",
+    "en": "Why are these things so important?"
+  },
+  {
+    "_id": 18,
+    "ru": "Твой друг советует это?",
+    "en": "Does you friend advise it?"
+  },
+  {
+    "_id": 19,
+    "ru": "Что рекомендует ваш учитель?",
+    "en": "What does your teacher recommend?"
+  },
+  {
+    "_id": 20,
+    "ru": "Почему этот билет стоит так дорого?",
+    "en": "Why does this ticket cost so much?"
+  },
+  {
+    "_id": 21,
+    "ru": "Сколько стоит платье?",
+    "en": "How much is the dress?"
+  },
+  {
+    "_id": 22,
+    "ru": "Это предложение интересует тебя?",
+    "en": "Does this offer interest you?"
+  },
+  {
+    "_id": 23,
+    "ru": "Кем работает твой отец?",
+    "en": "What's your father's job?"
+  },
+  {
+    "_id": 24,
+    "ru": "Где живет твой друг?",
+    "en": "Where does your friend live?"
+  },
+  {
+    "_id": 25,
+    "ru": "Эта вещь действительно важна?",
+    "en": "Is this thing really important?"
+  },
+  {
+    "_id": 26,
+    "ru": "Где вы работаете?",
+    "en": "Where do you work?"
+  },
+  {
+    "_id": 27,
+    "ru": "Это предложение действительно интересует тебя?",
+    "en": "Does this offer really interest you?"
+  },
+  {
+    "_id": 28,
+    "ru": "Это видео действительно такое смешное?",
+    "en": "Is this video really so funny?"
+  },
+  {
+    "_id": 29,
+    "ru": "Сколько стоит этот сувенир?",
+    "en": "How much does this souvenir cost?"
+  },
+  {
+    "_id": 30,
+    "ru": "Кем работает твой отец? Он менеджер по продажам",
+    "en": "What's your father's job? He's a sales manager"
+  },
+  {
+    "_id": 31,
+    "ru": "Почему этот отель такой дешевый?",
+    "en": "Why is this hotel so cheap?"
+  },
+  {
+    "_id": 32,
+    "ru": "Дети дома?",
+    "en": "Are the children at home?"
+  },
+  {
+    "_id": 33,
+    "ru": "Это предложение интересно тебе?",
+    "en": "Is this offer interesting for you?"
+  },
+  {
+    "_id": 34,
+    "ru": "Почему этот билет стоит так дешево?",
+    "en": "Why does this ticket cost so little?"
+  },
+  {
+    "_id": 35,
+    "ru": "Что советует твой друг?",
+    "en": "What does your friend advise?"
+  },
+  {
+    "_id": 36,
+    "ru": "Эта вещь важная или нет?",
+    "en": "Is this thing important or not?"
+  },
+  {
+    "_id": 37,
+    "ru": "Сколько стоят эти туфли?",
+    "en": "How much do these shoes cost?"
+  },
+  {
+    "_id": 38,
+    "ru": "Сколько стоит эта модель?",
+    "en": "How much does this model cost?"
+  },
+  {
+    "_id": 39,
+    "ru": "Где работает твой отец?",
+    "en": "Where does your father work?"
+  },
+  {
+    "_id": 40,
+    "ru": "Сколько стоят эти брюки?",
+    "en": "How much are these trousers?"
+  },
+  {
+    "_id": 41,
+    "ru": "Твой учитель рекомендует это?",
+    "en": "Does your teacher recommend it?"
+  },
+  {
+    "_id": 42,
+    "ru": "Эта вещь действительно кажется такой важной?",
+    "en": "Does this thing really seem so important?"
+  },
+  {
+    "_id": 43,
+    "ru": "Этот курс действительно кажется таким эффективным?",
+    "en": "Does this course really seem so effective?"
+  },
+  {
+    "_id": 44,
+    "ru": "Кем он работает? Он юрист",
+    "en": "What's his job? He's a lawyer"
+  },
+  {
+    "_id": 45,
+    "ru": "Это предложение действительно интересно тебе?",
+    "en": "Is this offer really interesting for you?"
+  },
+  {
+    "_id": 46,
+    "ru": "Этот курс эффективный?",
+    "en": "Is this course effective?"
+  },
+  {
+    "_id": 47,
+    "ru": "Кем работает твоя мама?",
+    "en": "What's your mother's job?"
+  },
+  {
+    "_id": 48,
+    "ru": "Сколько стоят джинсы?",
+    "en": "How much do the jeans cost?"
+  },
+  {
+    "_id": 49,
+    "ru": "Твой друг советует это?",
+    "en": "Do your friend advise it?"
+  },
+  {
+    "_id": 50,
+    "ru": "Сколько стоит эта пара джинсов?",
+    "en": "How much is this pair of jeans?"
+  }
 ]

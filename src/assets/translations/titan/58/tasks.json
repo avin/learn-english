@@ -1,386 +1,482 @@
 [
-  [
-    "Он не ест шоколад",
-    "He doesn't eat chocolate"
-  ],
-  [
-    "Мы не пьем кофе каждый день",
-    "We don't drink coffee every day"
-  ],
-  [
-    "Я не читаю эти журналы",
-    "I don't read these magazines"
-  ],
-  [
-    "Она не пьет вино",
-    "She doesn't drink wine"
-  ],
-  [
-    "Она не ест шоколад",
-    "She doesn't eat chocolate"
-  ],
-  [
-    "Он не катается на лыжах",
-    "He doesn't go skiing"
-  ],
-  [
-    "Он не читает книги",
-    "He doesn't read books"
-  ],
-  [
-    "Ей не нравится кататься на сноуборде",
-    "She doesn't like snowboarding"
-  ],
-  [
-    "Она не убирает свою комнату",
-    "She doesn't clean her room"
-  ],
-  [
-    "Ему не нравится его новая школа",
-    "He doesn't like his new school"
-  ],
-  [
-    "Он не играет в футбол",
-    "He doesn't play football"
-  ],
-  [
-    "Мы так не думаем",
-    "We don't think so"
-  ],
-  [
-    "Я не чувствую себя уставшим",
-    "I don't feel tired"
-  ],
-  [
-    "Она не говорит по-английски",
-    "She doesn't speak English"
-  ],
-  [
-    "У него нет кота",
-    "He doesn't have a cat"
-  ],
-  [
-    "Он не работает каждый день",
-    "He doesn't work every day"
-  ],
-  [
-    "Я не смотрю телевизор",
-    "I don't watch TV"
-  ],
-  [
-    "Они не живут в большом городе",
-    "They don't live in a big city"
-  ],
-  [
-    "Она не любит компьютерные игры",
-    "She doesn't like computer games"
-  ],
-  [
-    "Я не пью кофе каждое утро",
-    "I don't drink coffee every morning"
-  ],
-  [
-    "Она не чувствует никакого прогресса",
-    "She doesn't feel any progress"
-  ],
-  [
-    "У меня нет занятий в воскресенье",
-    "I don't have classes on Sunday"
-  ],
-  [
-    "У них нет каких-либо вопросов",
-    "They don't have any questions"
-  ],
-  [
-    "Ему не нравится его работа",
-    "He doesn't like his job"
-  ],
-  [
-    "Она не пьет кофе по утрам",
-    "She doesn't drink coffee in the mornings"
-  ],
-  [
-    "Ей не нравится это платье",
-    "She doesn't like this dress"
-  ],
-  [
-    "У меня нет собаки",
-    "I don't have a dog"
-  ],
-  [
-    "Он не играет в шахматы",
-    "He doesn't play chess"
-  ],
-  [
-    "Я не помню ее номер телефона",
-    "I don't remember her phone number"
-  ],
-  [
-    "Он не пьет чай утром",
-    "He doesn't drink tea in the morning"
-  ],
-  [
-    "Он не водит машину",
-    "He doesn't drive a car"
-  ],
-  [
-    "Они не ходят в школу летом",
-    "They don't go to school in the summer"
-  ],
-  [
-    "Она не читает газеты",
-    "She doesn't read newspapers"
-  ],
-  [
-    "Он не пьет пиво",
-    "He doesn't drink beer"
-  ],
-  [
-    "Она не пьет молоко",
-    "She doesn't drink milk"
-  ],
-  [
-    "Она не живет в большом городе",
-    "She doesn't live in a big city"
-  ],
-  [
-    "Я не плачу за это",
-    "I don't pay for it"
-  ],
-  [
-    "Она не готовит каждый день",
-    "She doesn't cook every day"
-  ],
-  [
-    "Ему не нравится мясо",
-    "He doesn't like meat"
-  ],
-  [
-    "Она не курит",
-    "She doesn't smoke"
-  ],
-  [
-    "Я не пью алкоголь",
-    "I don't drink alcohol"
-  ],
-  [
-    "Я не ем слишком много по вечерам",
-    "I don't eat too much in the evenings"
-  ],
-  [
-    "Я не езжу на велосипеде каждую неделю",
-    "I don't go cycling every week"
-  ],
-  [
-    "Мы не встречаемся на выходных",
-    "We don't meet at the weekends"
-  ],
-  [
-    "Я больше не хочу платить за это",
-    "I don't want to pay for it anymore"
-  ],
-  [
-    "Она не играет в шахматы",
-    "She doesn't play chess"
-  ],
-  [
-    "Он больше не хочет это слышать",
-    "He doesn't want to hear it anymore"
-  ],
-  [
-    "Это не принадлежит ему",
-    "It doesn't belong to him"
-  ],
-  [
-    "Он не играет на скрипке, но играет на гитаре",
-    "He doesn't play the violin but he plays the guitar"
-  ],
-  [
-    "Она не хочет быть стоматологом",
-    "She doesn't want to be a dentist"
-  ],
-  [
-    "Мне не нравится рок музыка",
-    "I don't like rock music"
-  ],
-  [
-    "Он не пытается ничего изменить",
-    "He doesn't try to change anything"
-  ],
-  [
-    "Она не понимает, как это происходит",
-    "She doesn't understand how it happens"
-  ],
-  [
-    "Ему не нравится джаз",
-    "He doesn't like jazz"
-  ],
-  [
-    "Я не прихожу туда позже",
-    "I don't come there later"
-  ],
-  [
-    "Она не приходит туда позже",
-    "She doesn't come there later"
-  ],
-  [
-    "Я не прихожу сюда позже",
-    "I don't come here later"
-  ],
-  [
-    "Он не ходит в спортзал дважды в неделю",
-    "He doesn't go to the gym twice a week"
-  ],
-  [
-    "Я не хожу в спортзал дважды в месяц",
-    "I don't go to the gym twice a month"
-  ],
-  [
-    "Она не ходит туда дважды в неделю",
-    "She doesn't go there twice a week"
-  ],
-  [
-    "Я не езжу на работу",
-    "I don't drive to work"
-  ],
-  [
-    "Он не ездит на работу",
-    "He doesn't drive to work"
-  ],
-  [
-    "Они не ездят в школу",
-    "They don't drive to school"
-  ],
-  [
-    "Они не ходят в спортзал",
-    "They don't go to the gym"
-  ],
-  [
-    "Он не ходит в спортзал",
-    "He doesn't go to the gym"
-  ],
-  [
-    "Я не хожу в спортзал",
-    "I don't go to the gym"
-  ],
-  [
-    "Я не делаю покупки каждый день",
-    "I don't do the shopping every day"
-  ],
-  [
-    "Она не делает покупки каждый день",
-    "She doesn't do the shopping every day"
-  ],
-  [
-    "Мы не делаем покупки каждую неделю",
-    "We don't do the shopping every week"
-  ],
-  [
-    "Он не обедает на работе",
-    "He doesn't have lunch at work"
-  ],
-  [
-    "Я не обедаю на работе",
-    "I don't have lunch at work"
-  ],
-  [
-    "Она не обедает дома",
-    "She doesn't have lunch at home"
-  ],
-  [
-    "Я вижу некую разницу между этими вещами",
-    "I see some differences between these things"
-  ],
-  [
-    "У меня нет братьев или сестер",
-    "I don't have any brothers or sisters"
-  ],
-  [
-    "У него нет братьев или сестер",
-    "He doesn't have any brothers or sisters"
-  ],
-  [
-    "У него много братьев и сестер",
-    "He has many brothers and sisters"
-  ],
-  [
-    "Это не кажется самой лучшей идеей",
-    "It doesn't seem the best idea"
-  ],
-  [
-    "Это не кажется хорошей идеей",
-    "It doesn't seem a good idea"
-  ],
-  [
-    "Это кажется самой лучшей идеей",
-    "It seems the best idea"
-  ],
-  [
-    "Я не понимаю, почему это происходит",
-    "I don't understand why it happens"
-  ],
-  [
-    "Я не понимаю, когда это происходит",
-    "I don't understand when it happens"
-  ],
-  [
-    "Я не знаю, почему это происходит",
-    "I don't know why it happens"
-  ],
-  [
-    "Она не работает по выходным",
-    "She doesn't work at the weekends"
-  ],
-  [
-    "Это не принадлежит им",
-    "It doesn't belong to them"
-  ],
-  [
-    "Она не играет на пианино",
-    "She doesn't play the piano"
-  ],
-  [
-    "Я не хожу за покупками так часто",
-    "I don't go shopping so often"
-  ],
-  [
-    "Я не пользуюсь общественным транспортом так часто",
-    "I don't use public transport so often"
-  ],
-  [
-    "У нее нет никаких близких родственников",
-    "She doesn't have any close relatives"
-  ],
-  [
-    "Ей не нравится поп музыка",
-    "She doesn't like pop music"
-  ],
-  [
-    "Я думаю, это не стоит этих денег",
-    "I think it doesn't cost this money"
-  ],
-  [
-    "Он не играет на скрипке",
-    "He doesn't play the violin"
-  ],
-  [
-    "Я не думаю, что это так хорошо",
-    "I don't think that it is so good"
-  ],
-  [
-    "Я не работаю на выходных",
-    "I don't work at the weekend"
-  ],
-  [
-    "Я не хожу плавать так часто",
-    "I don't go swimming so often"
-  ],
-  [
-    "Я не играю на гитаре",
-    "I don't play the guitar"
-  ],
-  [
-    "Я не еду на работу на автобусе",
-    "I don't go to work by bus"
-  ]
+  {
+    "_id": 1,
+    "ru": "Он не ест шоколад",
+    "en": "He doesn't eat chocolate"
+  },
+  {
+    "_id": 2,
+    "ru": "Мы не пьем кофе каждый день",
+    "en": "We don't drink coffee every day"
+  },
+  {
+    "_id": 3,
+    "ru": "Я не читаю эти журналы",
+    "en": "I don't read these magazines"
+  },
+  {
+    "_id": 4,
+    "ru": "Она не пьет вино",
+    "en": "She doesn't drink wine"
+  },
+  {
+    "_id": 5,
+    "ru": "Она не ест шоколад",
+    "en": "She doesn't eat chocolate"
+  },
+  {
+    "_id": 6,
+    "ru": "Он не катается на лыжах",
+    "en": "He doesn't go skiing"
+  },
+  {
+    "_id": 7,
+    "ru": "Он не читает книги",
+    "en": "He doesn't read books"
+  },
+  {
+    "_id": 8,
+    "ru": "Ей не нравится кататься на сноуборде",
+    "en": "She doesn't like snowboarding"
+  },
+  {
+    "_id": 9,
+    "ru": "Она не убирает свою комнату",
+    "en": "She doesn't clean her room"
+  },
+  {
+    "_id": 10,
+    "ru": "Ему не нравится его новая школа",
+    "en": "He doesn't like his new school"
+  },
+  {
+    "_id": 11,
+    "ru": "Он не играет в футбол",
+    "en": "He doesn't play football"
+  },
+  {
+    "_id": 12,
+    "ru": "Мы так не думаем",
+    "en": "We don't think so"
+  },
+  {
+    "_id": 13,
+    "ru": "Я не чувствую себя уставшим",
+    "en": "I don't feel tired"
+  },
+  {
+    "_id": 14,
+    "ru": "Она не говорит по-английски",
+    "en": "She doesn't speak English"
+  },
+  {
+    "_id": 15,
+    "ru": "У него нет кота",
+    "en": "He doesn't have a cat"
+  },
+  {
+    "_id": 16,
+    "ru": "Он не работает каждый день",
+    "en": "He doesn't work every day"
+  },
+  {
+    "_id": 17,
+    "ru": "Я не смотрю телевизор",
+    "en": "I don't watch TV"
+  },
+  {
+    "_id": 18,
+    "ru": "Они не живут в большом городе",
+    "en": "They don't live in a big city"
+  },
+  {
+    "_id": 19,
+    "ru": "Она не любит компьютерные игры",
+    "en": "She doesn't like computer games"
+  },
+  {
+    "_id": 20,
+    "ru": "Я не пью кофе каждое утро",
+    "en": "I don't drink coffee every morning"
+  },
+  {
+    "_id": 21,
+    "ru": "Она не чувствует никакого прогресса",
+    "en": "She doesn't feel any progress"
+  },
+  {
+    "_id": 22,
+    "ru": "У меня нет занятий в воскресенье",
+    "en": "I don't have classes on Sunday"
+  },
+  {
+    "_id": 23,
+    "ru": "У них нет каких-либо вопросов",
+    "en": "They don't have any questions"
+  },
+  {
+    "_id": 24,
+    "ru": "Ему не нравится его работа",
+    "en": "He doesn't like his job"
+  },
+  {
+    "_id": 25,
+    "ru": "Она не пьет кофе по утрам",
+    "en": "She doesn't drink coffee in the mornings"
+  },
+  {
+    "_id": 26,
+    "ru": "Ей не нравится это платье",
+    "en": "She doesn't like this dress"
+  },
+  {
+    "_id": 27,
+    "ru": "У меня нет собаки",
+    "en": "I don't have a dog"
+  },
+  {
+    "_id": 28,
+    "ru": "Он не играет в шахматы",
+    "en": "He doesn't play chess"
+  },
+  {
+    "_id": 29,
+    "ru": "Я не помню ее номер телефона",
+    "en": "I don't remember her phone number"
+  },
+  {
+    "_id": 30,
+    "ru": "Он не пьет чай утром",
+    "en": "He doesn't drink tea in the morning"
+  },
+  {
+    "_id": 31,
+    "ru": "Он не водит машину",
+    "en": "He doesn't drive a car"
+  },
+  {
+    "_id": 32,
+    "ru": "Они не ходят в школу летом",
+    "en": "They don't go to school in the summer"
+  },
+  {
+    "_id": 33,
+    "ru": "Она не читает газеты",
+    "en": "She doesn't read newspapers"
+  },
+  {
+    "_id": 34,
+    "ru": "Он не пьет пиво",
+    "en": "He doesn't drink beer"
+  },
+  {
+    "_id": 35,
+    "ru": "Она не пьет молоко",
+    "en": "She doesn't drink milk"
+  },
+  {
+    "_id": 36,
+    "ru": "Она не живет в большом городе",
+    "en": "She doesn't live in a big city"
+  },
+  {
+    "_id": 37,
+    "ru": "Я не плачу за это",
+    "en": "I don't pay for it"
+  },
+  {
+    "_id": 38,
+    "ru": "Она не готовит каждый день",
+    "en": "She doesn't cook every day"
+  },
+  {
+    "_id": 39,
+    "ru": "Ему не нравится мясо",
+    "en": "He doesn't like meat"
+  },
+  {
+    "_id": 40,
+    "ru": "Она не курит",
+    "en": "She doesn't smoke"
+  },
+  {
+    "_id": 41,
+    "ru": "Я не пью алкоголь",
+    "en": "I don't drink alcohol"
+  },
+  {
+    "_id": 42,
+    "ru": "Я не ем слишком много по вечерам",
+    "en": "I don't eat too much in the evenings"
+  },
+  {
+    "_id": 43,
+    "ru": "Я не езжу на велосипеде каждую неделю",
+    "en": "I don't go cycling every week"
+  },
+  {
+    "_id": 44,
+    "ru": "Мы не встречаемся на выходных",
+    "en": "We don't meet at the weekends"
+  },
+  {
+    "_id": 45,
+    "ru": "Я больше не хочу платить за это",
+    "en": "I don't want to pay for it anymore"
+  },
+  {
+    "_id": 46,
+    "ru": "Она не играет в шахматы",
+    "en": "She doesn't play chess"
+  },
+  {
+    "_id": 47,
+    "ru": "Он больше не хочет это слышать",
+    "en": "He doesn't want to hear it anymore"
+  },
+  {
+    "_id": 48,
+    "ru": "Это не принадлежит ему",
+    "en": "It doesn't belong to him"
+  },
+  {
+    "_id": 49,
+    "ru": "Он не играет на скрипке, но играет на гитаре",
+    "en": "He doesn't play the violin but he plays the guitar"
+  },
+  {
+    "_id": 50,
+    "ru": "Она не хочет быть стоматологом",
+    "en": "She doesn't want to be a dentist"
+  },
+  {
+    "_id": 51,
+    "ru": "Мне не нравится рок музыка",
+    "en": "I don't like rock music"
+  },
+  {
+    "_id": 52,
+    "ru": "Он не пытается ничего изменить",
+    "en": "He doesn't try to change anything"
+  },
+  {
+    "_id": 53,
+    "ru": "Она не понимает, как это происходит",
+    "en": "She doesn't understand how it happens"
+  },
+  {
+    "_id": 54,
+    "ru": "Ему не нравится джаз",
+    "en": "He doesn't like jazz"
+  },
+  {
+    "_id": 55,
+    "ru": "Я не прихожу туда позже",
+    "en": "I don't come there later"
+  },
+  {
+    "_id": 56,
+    "ru": "Она не приходит туда позже",
+    "en": "She doesn't come there later"
+  },
+  {
+    "_id": 57,
+    "ru": "Я не прихожу сюда позже",
+    "en": "I don't come here later"
+  },
+  {
+    "_id": 58,
+    "ru": "Он не ходит в спортзал дважды в неделю",
+    "en": "He doesn't go to the gym twice a week"
+  },
+  {
+    "_id": 59,
+    "ru": "Я не хожу в спортзал дважды в месяц",
+    "en": "I don't go to the gym twice a month"
+  },
+  {
+    "_id": 60,
+    "ru": "Она не ходит туда дважды в неделю",
+    "en": "She doesn't go there twice a week"
+  },
+  {
+    "_id": 61,
+    "ru": "Я не езжу на работу",
+    "en": "I don't drive to work"
+  },
+  {
+    "_id": 62,
+    "ru": "Он не ездит на работу",
+    "en": "He doesn't drive to work"
+  },
+  {
+    "_id": 63,
+    "ru": "Они не ездят в школу",
+    "en": "They don't drive to school"
+  },
+  {
+    "_id": 64,
+    "ru": "Они не ходят в спортзал",
+    "en": "They don't go to the gym"
+  },
+  {
+    "_id": 65,
+    "ru": "Он не ходит в спортзал",
+    "en": "He doesn't go to the gym"
+  },
+  {
+    "_id": 66,
+    "ru": "Я не хожу в спортзал",
+    "en": "I don't go to the gym"
+  },
+  {
+    "_id": 67,
+    "ru": "Я не делаю покупки каждый день",
+    "en": "I don't do the shopping every day"
+  },
+  {
+    "_id": 68,
+    "ru": "Она не делает покупки каждый день",
+    "en": "She doesn't do the shopping every day"
+  },
+  {
+    "_id": 69,
+    "ru": "Мы не делаем покупки каждую неделю",
+    "en": "We don't do the shopping every week"
+  },
+  {
+    "_id": 70,
+    "ru": "Он не обедает на работе",
+    "en": "He doesn't have lunch at work"
+  },
+  {
+    "_id": 71,
+    "ru": "Я не обедаю на работе",
+    "en": "I don't have lunch at work"
+  },
+  {
+    "_id": 72,
+    "ru": "Она не обедает дома",
+    "en": "She doesn't have lunch at home"
+  },
+  {
+    "_id": 73,
+    "ru": "Я вижу некую разницу между этими вещами",
+    "en": "I see some differences between these things"
+  },
+  {
+    "_id": 74,
+    "ru": "У меня нет братьев или сестер",
+    "en": "I don't have any brothers or sisters"
+  },
+  {
+    "_id": 75,
+    "ru": "У него нет братьев или сестер",
+    "en": "He doesn't have any brothers or sisters"
+  },
+  {
+    "_id": 76,
+    "ru": "У него много братьев и сестер",
+    "en": "He has many brothers and sisters"
+  },
+  {
+    "_id": 77,
+    "ru": "Это не кажется самой лучшей идеей",
+    "en": "It doesn't seem the best idea"
+  },
+  {
+    "_id": 78,
+    "ru": "Это не кажется хорошей идеей",
+    "en": "It doesn't seem a good idea"
+  },
+  {
+    "_id": 79,
+    "ru": "Это кажется самой лучшей идеей",
+    "en": "It seems the best idea"
+  },
+  {
+    "_id": 80,
+    "ru": "Я не понимаю, почему это происходит",
+    "en": "I don't understand why it happens"
+  },
+  {
+    "_id": 81,
+    "ru": "Я не понимаю, когда это происходит",
+    "en": "I don't understand when it happens"
+  },
+  {
+    "_id": 82,
+    "ru": "Я не знаю, почему это происходит",
+    "en": "I don't know why it happens"
+  },
+  {
+    "_id": 83,
+    "ru": "Она не работает по выходным",
+    "en": "She doesn't work at the weekends"
+  },
+  {
+    "_id": 84,
+    "ru": "Это не принадлежит им",
+    "en": "It doesn't belong to them"
+  },
+  {
+    "_id": 85,
+    "ru": "Она не играет на пианино",
+    "en": "She doesn't play the piano"
+  },
+  {
+    "_id": 86,
+    "ru": "Я не хожу за покупками так часто",
+    "en": "I don't go shopping so often"
+  },
+  {
+    "_id": 87,
+    "ru": "Я не пользуюсь общественным транспортом так часто",
+    "en": "I don't use public transport so often"
+  },
+  {
+    "_id": 88,
+    "ru": "У нее нет никаких близких родственников",
+    "en": "She doesn't have any close relatives"
+  },
+  {
+    "_id": 89,
+    "ru": "Ей не нравится поп музыка",
+    "en": "She doesn't like pop music"
+  },
+  {
+    "_id": 90,
+    "ru": "Я думаю, это не стоит этих денег",
+    "en": "I think it doesn't cost this money"
+  },
+  {
+    "_id": 91,
+    "ru": "Он не играет на скрипке",
+    "en": "He doesn't play the violin"
+  },
+  {
+    "_id": 92,
+    "ru": "Я не думаю, что это так хорошо",
+    "en": "I don't think that it is so good"
+  },
+  {
+    "_id": 93,
+    "ru": "Я не работаю на выходных",
+    "en": "I don't work at the weekend"
+  },
+  {
+    "_id": 94,
+    "ru": "Я не хожу плавать так часто",
+    "en": "I don't go swimming so often"
+  },
+  {
+    "_id": 95,
+    "ru": "Я не играю на гитаре",
+    "en": "I don't play the guitar"
+  },
+  {
+    "_id": 96,
+    "ru": "Я не еду на работу на автобусе",
+    "en": "I don't go to work by bus"
+  }
 ]

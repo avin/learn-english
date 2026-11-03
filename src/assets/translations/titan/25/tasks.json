@@ -1,382 +1,477 @@
 [
-  [
-    "Он придет к нам скоро",
-    "He will come to us soon"
-  ],
-  [
-    "Мы поговорим об этом скоро",
-    "We will talk about it soon"
-  ],
-  [
-    "Я помогу тебе",
-    "I'll help you"
-  ],
-  [
-    "Он пойдет туда с нами",
-    "He'll go there with us"
-  ],
-  [
-    "Я поеду в Англию в следующем году",
-    "I'll go to England next year"
-  ],
-  [
-    "Я буду работать над этими ошибками",
-    "I will work on these mistakes"
-  ],
-  [
-    "Я перезвоню тебе",
-    "I'll call you back"
-  ],
-  [
-    "Он придет к нам скоро",
-    "He will come to us soon"
-  ],
-  [
-    "Я получу те деньги скоро",
-    "I'll get that money soon"
-  ],
-  [
-    "Я помогу тебе",
-    "I'll help you"
-  ],
-  [
-    "Она будет преподавать английский",
-    "She will teach English"
-  ],
-  [
-    "Это произойдет скоро",
-    "It will happen soon"
-  ],
-  [
-    "Мы посетим это место скоро",
-    "We will visit this place soon"
-  ],
-  [
-    "Я поеду в Англию в следующем году",
-    "I'll go to England next year"
-  ],
-  [
-    "Он пойдет туда с нами",
-    "He'll go there with us"
-  ],
-  [
-    "Я пошлю ей письмо",
-    "I will send her a letter"
-  ],
-  [
-    "Я проверю все",
-    "I'll check everything"
-  ],
-  [
-    "Они построят дом",
-    "They'll build a house"
-  ],
-  [
-    "Я буду работать над этими ошибками",
-    "I will work on these mistakes"
-  ],
-  [
-    "Мы поговорим об этом скоро",
-    "We will talk about it soon"
-  ],
-  [
-    "Я перезвоню тебе",
-    "I'll call you back"
-  ],
-  [
-    "Мы скоро это увидим",
-    "We'll see it soon"
-  ],
-  [
-    "Это будет стоить больше скоро",
-    "It'll cost more soon"
-  ],
-  [
-    "Я прочитаю эту книгу",
-    "I will read this book"
-  ],
-  [
-    "Мы все обсудим",
-    "We'll discuss everything"
-  ],
-  [
-    "Это принесет ему больше денег",
-    "It will bring him more money"
-  ],
-  [
-    "Я постараюсь сделать это сегодня",
-    "I'll try to do it today"
-  ],
-  [
-    "Ему понравится эта идея",
-    "He will like this idea"
-  ],
-  [
-    "Я посмотрю тот фильм",
-    "I'll watch that movie"
-  ],
-  [
-    "Ей понравится то предложение",
-    "She will like that offer"
-  ],
-  [
-    "Это будет лучше",
-    "It will be better"
-  ],
-  [
-    "Я скажу ему эту вещь",
-    "I'll tell him this thing"
-  ],
-  [
-    "Она посетит другие города в этом году",
-    "She'll visit other cities this year"
-  ],
-  [
-    "Это будет лучшее решение",
-    "It'll be the best decision"
-  ],
-  [
-    "Он будет работать над теми ошибками",
-    "He will work on those mistakes"
-  ],
-  [
-    "Он придет сюда завтра",
-    "He will come here tomorrow"
-  ],
-  [
-    "Я сделаю это завтра",
-    "I will do it tomorrow"
-  ],
-  [
-    "Тебе понравится та еда",
-    "You will like that food"
-  ],
-  [
-    "Я пришлю тебе электронное письмо",
-    "I will send you an email"
-  ],
-  [
-    "Ты скоро узнаешь это",
-    "You'll know it soon"
-  ],
-  [
-    "Я также посещу эти страны",
-    "I will also visit these countries"
-  ],
-  [
-    "Она останется дома",
-    "She will stay at home"
-  ],
-  [
-    "Тебе понравится эта идея",
-    "You'll like this idea"
-  ],
-  [
-    "Я куплю другой билет",
-    "I'll buy another ticket"
-  ],
-  [
-    "Он заплатит за все",
-    "He'll pay for everything"
-  ],
-  [
-    "Я буду ждать этого",
-    "I will wait for it"
-  ],
-  [
-    "Я буду слушать эту программу",
-    "I'll listen to this program"
-  ],
-  [
-    "Я перезвоню тебе скоро",
-    "I will call you back soon"
-  ],
-  [
-    "Я постараюсь сделать это",
-    "I'll try to do it"
-  ],
-  [
-    "Я думаю, я увижу его сегодня",
-    "I think I'll see him today"
-  ],
-  [
-    "Я заплачу за это",
-    "I'll pay for it"
-  ],
-  [
-    "Я буду слушать этот подкаст",
-    "I will listen to this podcast"
-  ],
-  [
-    "Я думаю, я пойму это скоро",
-    "I think I'll understand it soon"
-  ],
-  [
-    "Я выпью немного кофе",
-    "I will drink some coffee"
-  ],
-  [
-    "Я думаю, я последую этому совету",
-    "I think I will follow this advice"
-  ],
-  [
-    "Я буду слушать эту песню",
-    "I will listen to this song"
-  ],
-  [
-    "Я перезвоню тебе позже",
-    "I'll call you back later"
-  ],
-  [
-    "Я перезвоню ему скоро",
-    "I'll call him back soon"
-  ],
-  [
-    "Он перезвонит мне завтра",
-    "He'll call me back tomorrow"
-  ],
-  [
-    "Я последую твоей рекомендации",
-    "I will follow your recommendation"
-  ],
-  [
-    "Я последую твоему совету",
-    "I will follow your advice"
-  ],
-  [
-    "Она пойдет в этот музей",
-    "She will go to this museum"
-  ],
-  [
-    "Он пойдет в тот музей",
-    "He will go to that museum"
-  ],
-  [
-    "Они посетят этот музей",
-    "They will visit this museum"
-  ],
-  [
-    "Я заплачу за тебя",
-    "I'll pay for you"
-  ],
-  [
-    "Она заплатит за меня",
-    "She'll pay for me"
-  ],
-  [
-    "Я заплачу за это в следующий раз",
-    "I'll pay for it next time"
-  ],
-  [
-    "Я съем один бутерброд на завтрак",
-    "I will eat one sandwich for breakfast"
-  ],
-  [
-    "Она съест два яйца на завтрак",
-    "She will eat two eggs for breakfast"
-  ],
-  [
-    "Мы дадим ему подарок",
-    "We will give him a present"
-  ],
-  [
-    "Я дам ему этот подарок",
-    "I will give him this present"
-  ],
-  [
-    "Они дадут ему подарки",
-    "They will give him some presents"
-  ],
-  [
-    "Я съем это на завтрак",
-    "I will eat it for breakfast"
-  ],
-  [
-    "Я съем это на обед",
-    "I will eat it for lunch"
-  ],
-  [
-    "Она съест это на завтрак",
-    "She will eat it for breakfast"
-  ],
-  [
-    "Я постараюсь закончить это скоро",
-    "I'll try to finish it soon"
-  ],
-  [
-    "Она постарается закончить это скоро",
-    "She'll try to finish it soon"
-  ],
-  [
-    "Они постараются купить это скоро",
-    "They'll try to buy it soon"
-  ],
-  [
-    "Они последуют моему совету",
-    "They will follow my advice"
-  ],
-  [
-    "Она съест этот торт на обед",
-    "She will eat this cake for lunch"
-  ],
-  [
-    "Они съедят эти торты на обед",
-    "They will eat these cakes for lunch"
-  ],
-  [
-    "Я съем тот торт на завтрак",
-    "I will eat that cake for breakfast"
-  ],
-  [
-    "Я выпью немного чая",
-    "I'll drink some tea"
-  ],
-  [
-    "Я выберу второй ответ",
-    "I'll choose the second answer"
-  ],
-  [
-    "Я поеду в Лондон на этой неделе",
-    "I will go to London this week"
-  ],
-  [
-    "Он будет преподавать другие предметы",
-    "He will teach other subjects"
-  ],
-  [
-    "Я съем этот бутерброд",
-    "I will eat this sandwich"
-  ],
-  [
-    "Я пойду в театр с ней",
-    "I will go to the theatre with her"
-  ],
-  [
-    "Я дам ей подарок",
-    "I will give her a present"
-  ],
-  [
-    "Я выберу первый ответ",
-    "I'll choose the first answer"
-  ],
-  [
-    "Я съем эту еду на ужин",
-    "I will eat this food for dinner"
-  ],
-  [
-    "Я выберу третий ответ",
-    "I will chose the third answer"
-  ],
-  [
-    "Я сделаю это с большим удовольствием",
-    "I'll do it with great pleasure"
-  ],
-  [
-    "Мы пойдем в кино вместе",
-    "We will go to the cinema together"
-  ],
-  [
-    "Я расскажу ей все",
-    "I will tell her everything"
-  ]
+  {
+    "_id": 1,
+    "ru": "Он придет к нам скоро",
+    "en": "He will come to us soon"
+  },
+  {
+    "_id": 2,
+    "ru": "Мы поговорим об этом скоро",
+    "en": "We will talk about it soon"
+  },
+  {
+    "_id": 3,
+    "ru": "Я помогу тебе",
+    "en": "I'll help you"
+  },
+  {
+    "_id": 4,
+    "ru": "Он пойдет туда с нами",
+    "en": "He'll go there with us"
+  },
+  {
+    "_id": 5,
+    "ru": "Я поеду в Англию в следующем году",
+    "en": "I'll go to England next year"
+  },
+  {
+    "_id": 6,
+    "ru": "Я буду работать над этими ошибками",
+    "en": "I will work on these mistakes"
+  },
+  {
+    "_id": 7,
+    "ru": "Я перезвоню тебе",
+    "en": "I'll call you back"
+  },
+  {
+    "_id": 8,
+    "ru": "Он придет к нам скоро",
+    "en": "He will come to us soon"
+  },
+  {
+    "_id": 9,
+    "ru": "Я получу те деньги скоро",
+    "en": "I'll get that money soon"
+  },
+  {
+    "_id": 10,
+    "ru": "Я помогу тебе",
+    "en": "I'll help you"
+  },
+  {
+    "_id": 11,
+    "ru": "Она будет преподавать английский",
+    "en": "She will teach English"
+  },
+  {
+    "_id": 12,
+    "ru": "Это произойдет скоро",
+    "en": "It will happen soon"
+  },
+  {
+    "_id": 13,
+    "ru": "Мы посетим это место скоро",
+    "en": "We will visit this place soon"
+  },
+  {
+    "_id": 14,
+    "ru": "Я поеду в Англию в следующем году",
+    "en": "I'll go to England next year"
+  },
+  {
+    "_id": 15,
+    "ru": "Он пойдет туда с нами",
+    "en": "He'll go there with us"
+  },
+  {
+    "_id": 16,
+    "ru": "Я пошлю ей письмо",
+    "en": "I will send her a letter"
+  },
+  {
+    "_id": 17,
+    "ru": "Я проверю все",
+    "en": "I'll check everything"
+  },
+  {
+    "_id": 18,
+    "ru": "Они построят дом",
+    "en": "They'll build a house"
+  },
+  {
+    "_id": 19,
+    "ru": "Я буду работать над этими ошибками",
+    "en": "I will work on these mistakes"
+  },
+  {
+    "_id": 20,
+    "ru": "Мы поговорим об этом скоро",
+    "en": "We will talk about it soon"
+  },
+  {
+    "_id": 21,
+    "ru": "Я перезвоню тебе",
+    "en": "I'll call you back"
+  },
+  {
+    "_id": 22,
+    "ru": "Мы скоро это увидим",
+    "en": "We'll see it soon"
+  },
+  {
+    "_id": 23,
+    "ru": "Это будет стоить больше скоро",
+    "en": "It'll cost more soon"
+  },
+  {
+    "_id": 24,
+    "ru": "Я прочитаю эту книгу",
+    "en": "I will read this book"
+  },
+  {
+    "_id": 25,
+    "ru": "Мы все обсудим",
+    "en": "We'll discuss everything"
+  },
+  {
+    "_id": 26,
+    "ru": "Это принесет ему больше денег",
+    "en": "It will bring him more money"
+  },
+  {
+    "_id": 27,
+    "ru": "Я постараюсь сделать это сегодня",
+    "en": "I'll try to do it today"
+  },
+  {
+    "_id": 28,
+    "ru": "Ему понравится эта идея",
+    "en": "He will like this idea"
+  },
+  {
+    "_id": 29,
+    "ru": "Я посмотрю тот фильм",
+    "en": "I'll watch that movie"
+  },
+  {
+    "_id": 30,
+    "ru": "Ей понравится то предложение",
+    "en": "She will like that offer"
+  },
+  {
+    "_id": 31,
+    "ru": "Это будет лучше",
+    "en": "It will be better"
+  },
+  {
+    "_id": 32,
+    "ru": "Я скажу ему эту вещь",
+    "en": "I'll tell him this thing"
+  },
+  {
+    "_id": 33,
+    "ru": "Она посетит другие города в этом году",
+    "en": "She'll visit other cities this year"
+  },
+  {
+    "_id": 34,
+    "ru": "Это будет лучшее решение",
+    "en": "It'll be the best decision"
+  },
+  {
+    "_id": 35,
+    "ru": "Он будет работать над теми ошибками",
+    "en": "He will work on those mistakes"
+  },
+  {
+    "_id": 36,
+    "ru": "Он придет сюда завтра",
+    "en": "He will come here tomorrow"
+  },
+  {
+    "_id": 37,
+    "ru": "Я сделаю это завтра",
+    "en": "I will do it tomorrow"
+  },
+  {
+    "_id": 38,
+    "ru": "Тебе понравится та еда",
+    "en": "You will like that food"
+  },
+  {
+    "_id": 39,
+    "ru": "Я пришлю тебе электронное письмо",
+    "en": "I will send you an email"
+  },
+  {
+    "_id": 40,
+    "ru": "Ты скоро узнаешь это",
+    "en": "You'll know it soon"
+  },
+  {
+    "_id": 41,
+    "ru": "Я также посещу эти страны",
+    "en": "I will also visit these countries"
+  },
+  {
+    "_id": 42,
+    "ru": "Она останется дома",
+    "en": "She will stay at home"
+  },
+  {
+    "_id": 43,
+    "ru": "Тебе понравится эта идея",
+    "en": "You'll like this idea"
+  },
+  {
+    "_id": 44,
+    "ru": "Я куплю другой билет",
+    "en": "I'll buy another ticket"
+  },
+  {
+    "_id": 45,
+    "ru": "Он заплатит за все",
+    "en": "He'll pay for everything"
+  },
+  {
+    "_id": 46,
+    "ru": "Я буду ждать этого",
+    "en": "I will wait for it"
+  },
+  {
+    "_id": 47,
+    "ru": "Я буду слушать эту программу",
+    "en": "I'll listen to this program"
+  },
+  {
+    "_id": 48,
+    "ru": "Я перезвоню тебе скоро",
+    "en": "I will call you back soon"
+  },
+  {
+    "_id": 49,
+    "ru": "Я постараюсь сделать это",
+    "en": "I'll try to do it"
+  },
+  {
+    "_id": 50,
+    "ru": "Я думаю, я увижу его сегодня",
+    "en": "I think I'll see him today"
+  },
+  {
+    "_id": 51,
+    "ru": "Я заплачу за это",
+    "en": "I'll pay for it"
+  },
+  {
+    "_id": 52,
+    "ru": "Я буду слушать этот подкаст",
+    "en": "I will listen to this podcast"
+  },
+  {
+    "_id": 53,
+    "ru": "Я думаю, я пойму это скоро",
+    "en": "I think I'll understand it soon"
+  },
+  {
+    "_id": 54,
+    "ru": "Я выпью немного кофе",
+    "en": "I will drink some coffee"
+  },
+  {
+    "_id": 55,
+    "ru": "Я думаю, я последую этому совету",
+    "en": "I think I will follow this advice"
+  },
+  {
+    "_id": 56,
+    "ru": "Я буду слушать эту песню",
+    "en": "I will listen to this song"
+  },
+  {
+    "_id": 57,
+    "ru": "Я перезвоню тебе позже",
+    "en": "I'll call you back later"
+  },
+  {
+    "_id": 58,
+    "ru": "Я перезвоню ему скоро",
+    "en": "I'll call him back soon"
+  },
+  {
+    "_id": 59,
+    "ru": "Он перезвонит мне завтра",
+    "en": "He'll call me back tomorrow"
+  },
+  {
+    "_id": 60,
+    "ru": "Я последую твоей рекомендации",
+    "en": "I will follow your recommendation"
+  },
+  {
+    "_id": 61,
+    "ru": "Я последую твоему совету",
+    "en": "I will follow your advice"
+  },
+  {
+    "_id": 62,
+    "ru": "Она пойдет в этот музей",
+    "en": "She will go to this museum"
+  },
+  {
+    "_id": 63,
+    "ru": "Он пойдет в тот музей",
+    "en": "He will go to that museum"
+  },
+  {
+    "_id": 64,
+    "ru": "Они посетят этот музей",
+    "en": "They will visit this museum"
+  },
+  {
+    "_id": 65,
+    "ru": "Я заплачу за тебя",
+    "en": "I'll pay for you"
+  },
+  {
+    "_id": 66,
+    "ru": "Она заплатит за меня",
+    "en": "She'll pay for me"
+  },
+  {
+    "_id": 67,
+    "ru": "Я заплачу за это в следующий раз",
+    "en": "I'll pay for it next time"
+  },
+  {
+    "_id": 68,
+    "ru": "Я съем один бутерброд на завтрак",
+    "en": "I will eat one sandwich for breakfast"
+  },
+  {
+    "_id": 69,
+    "ru": "Она съест два яйца на завтрак",
+    "en": "She will eat two eggs for breakfast"
+  },
+  {
+    "_id": 70,
+    "ru": "Мы дадим ему подарок",
+    "en": "We will give him a present"
+  },
+  {
+    "_id": 71,
+    "ru": "Я дам ему этот подарок",
+    "en": "I will give him this present"
+  },
+  {
+    "_id": 72,
+    "ru": "Они дадут ему подарки",
+    "en": "They will give him some presents"
+  },
+  {
+    "_id": 73,
+    "ru": "Я съем это на завтрак",
+    "en": "I will eat it for breakfast"
+  },
+  {
+    "_id": 74,
+    "ru": "Я съем это на обед",
+    "en": "I will eat it for lunch"
+  },
+  {
+    "_id": 75,
+    "ru": "Она съест это на завтрак",
+    "en": "She will eat it for breakfast"
+  },
+  {
+    "_id": 76,
+    "ru": "Я постараюсь закончить это скоро",
+    "en": "I'll try to finish it soon"
+  },
+  {
+    "_id": 77,
+    "ru": "Она постарается закончить это скоро",
+    "en": "She'll try to finish it soon"
+  },
+  {
+    "_id": 78,
+    "ru": "Они постараются купить это скоро",
+    "en": "They'll try to buy it soon"
+  },
+  {
+    "_id": 79,
+    "ru": "Они последуют моему совету",
+    "en": "They will follow my advice"
+  },
+  {
+    "_id": 80,
+    "ru": "Она съест этот торт на обед",
+    "en": "She will eat this cake for lunch"
+  },
+  {
+    "_id": 81,
+    "ru": "Они съедят эти торты на обед",
+    "en": "They will eat these cakes for lunch"
+  },
+  {
+    "_id": 82,
+    "ru": "Я съем тот торт на завтрак",
+    "en": "I will eat that cake for breakfast"
+  },
+  {
+    "_id": 83,
+    "ru": "Я выпью немного чая",
+    "en": "I'll drink some tea"
+  },
+  {
+    "_id": 84,
+    "ru": "Я выберу второй ответ",
+    "en": "I'll choose the second answer"
+  },
+  {
+    "_id": 85,
+    "ru": "Я поеду в Лондон на этой неделе",
+    "en": "I will go to London this week"
+  },
+  {
+    "_id": 86,
+    "ru": "Он будет преподавать другие предметы",
+    "en": "He will teach other subjects"
+  },
+  {
+    "_id": 87,
+    "ru": "Я съем этот бутерброд",
+    "en": "I will eat this sandwich"
+  },
+  {
+    "_id": 88,
+    "ru": "Я пойду в театр с ней",
+    "en": "I will go to the theatre with her"
+  },
+  {
+    "_id": 89,
+    "ru": "Я дам ей подарок",
+    "en": "I will give her a present"
+  },
+  {
+    "_id": 90,
+    "ru": "Я выберу первый ответ",
+    "en": "I'll choose the first answer"
+  },
+  {
+    "_id": 91,
+    "ru": "Я съем эту еду на ужин",
+    "en": "I will eat this food for dinner"
+  },
+  {
+    "_id": 92,
+    "ru": "Я выберу третий ответ",
+    "en": "I will chose the third answer"
+  },
+  {
+    "_id": 93,
+    "ru": "Я сделаю это с большим удовольствием",
+    "en": "I'll do it with great pleasure"
+  },
+  {
+    "_id": 94,
+    "ru": "Мы пойдем в кино вместе",
+    "en": "We will go to the cinema together"
+  },
+  {
+    "_id": 95,
+    "ru": "Я расскажу ей все",
+    "en": "I will tell her everything"
+  }
 ]

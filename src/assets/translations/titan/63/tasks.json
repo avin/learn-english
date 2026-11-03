@@ -1,386 +1,482 @@
 [
-  [
-    "Ты пьешь кофе утром?",
-    "Do you drink coffee in the morning?"
-  ],
-  [
-    "Она живет в большом городе?",
-    "Does she live in a big city?"
-  ],
-  [
-    "Он изучает французский в университете?",
-    "Does he study French at university?"
-  ],
-  [
-    "Он курит или нет?",
-    "Does he smoke or not?"
-  ],
-  [
-    "Он пытается найти здесь эту информацию?",
-    "Does he try to find this information here?"
-  ],
-  [
-    "Он часто это говорит?",
-    "Does he often say it?"
-  ],
-  [
-    "Ты живешь в большом доме?",
-    "Do you live in a big house?"
-  ],
-  [
-    "Он плавает лучше?",
-    "Does he swim better?"
-  ],
-  [
-    "Ты живешь отдельно?",
-    "Do you live separately?"
-  ],
-  [
-    "Тебе нравится эта программа?",
-    "Do you like this program?"
-  ],
-  [
-    "Это действительно помогает ему?",
-    "Does it really help him?"
-  ],
-  [
-    "Он тоже так думает?",
-    "Does he think so, too?"
-  ],
-  [
-    "У тебя много родственников?",
-    "Do you have many relatives?"
-  ],
-  [
-    "Она живет в маленьком городке?",
-    "Does she live in a small town?"
-  ],
-  [
-    "Это приносит людям счастье?",
-    "Does it bring people happiness?"
-  ],
-  [
-    "Она хочет жить одна?",
-    "Does she want to live alone?"
-  ],
-  [
-    "Он верит в Бога?",
-    "Does he believe in God?"
-  ],
-  [
-    "Он чувствует себя плохо?",
-    "Does he feel ill?"
-  ],
-  [
-    "Ей нравится этот сериал?",
-    "Does she like this TV series?"
-  ],
-  [
-    "Он часто говорит тебе эту вещь?",
-    "Does he often tell you this thing?"
-  ],
-  [
-    "Ты находишь эту идею интересной?",
-    "Do you find this idea interesting?"
-  ],
-  [
-    "Они живут отдельно?",
-    "Do they live separately?"
-  ],
-  [
-    "Она хочет учиться в другом месте?",
-    "Does she want to study in another place?"
-  ],
-  [
-    "Ты хочешь жить один?",
-    "Do you want to live alone?"
-  ],
-  [
-    "Ты находишь этот тест очень легким?",
-    "Do you find this test very easy?"
-  ],
-  [
-    "Тебе нравится плавание?",
-    "Do you like swimming?"
-  ],
-  [
-    "Ты живешь в новом здании?",
-    "Do you live in a new building?"
-  ],
-  [
-    "У него стабильный доход?",
-    "Does he have a stable income?"
-  ],
-  [
-    "Ты знаешь этого парня?",
-    "Do you know this guy?"
-  ],
-  [
-    "Ты куришь?",
-    "Do you smoke?"
-  ],
-  [
-    "У тебя есть стабильный доход?",
-    "Do you have a stable income?"
-  ],
-  [
-    "Ты живешь в большом городе?",
-    "Do you live in a big city?"
-  ],
-  [
-    "Ты ищешь это онлайн?",
-    "Do you look for it online?"
-  ],
-  [
-    "Она тоже так думает?",
-    "Does she also think so?"
-  ],
-  [
-    "Ты хочешь жить в другом месте?",
-    "Do you want to live in another place?"
-  ],
-  [
-    "У тебя большой дом?",
-    "Do you have a big house?"
-  ],
-  [
-    "Она живет в старом здании?",
-    "Does she live in an old building?"
-  ],
-  [
-    "Ты смотришь бесплатные уроки английского онлайн?",
-    "Do you watch free English lessons online?"
-  ],
-  [
-    "У тебя есть какое-либо свободное время?",
-    "Do you have any free time?"
-  ],
-  [
-    "Она изучает английский в школе?",
-    "Does she study English at school?"
-  ],
-  [
-    "Ты ищешь эту информацию онлайн?",
-    "Do you look for this information online?"
-  ],
-  [
-    "Тебе нравится этот сериал?",
-    "Do you like this TV series?"
-  ],
-  [
-    "Это принадлежит ему?",
-    "Does it belong to him?"
-  ],
-  [
-    "Это развивает наши профессиональные навыки?",
-    "Does it develop our professional skills?"
-  ],
-  [
-    "Он работает музыкантом?",
-    "Does he work as a musician?"
-  ],
-  [
-    "Он ведет здоровый образ жизни?",
-    "Does he lead a healthy lifestyle?"
-  ],
-  [
-    "Ты понимаешь, почему он это делает?",
-    "Do you understand why he does it?"
-  ],
-  [
-    "Ты финансово зависишь от своих родителей?",
-    "Do you depend on your parents financially?"
-  ],
-  [
-    "Это развивает наше воображение?",
-    "Does it develop our imagination?"
-  ],
-  [
-    "Ты изучаешь английский самостоятельно?",
-    "Do you learn English by yourself?"
-  ],
-  [
-    "Ты хочешь быть ученым?",
-    "Do you want to be a scientist?"
-  ],
-  [
-    "Это развивает эти навыки?",
-    "Does it develop these skills?"
-  ],
-  [
-    "Ты знаешь, что я учу английский самостоятельно?",
-    "Do you know that I learn English on my own?"
-  ],
-  [
-    "Он работает программистом?",
-    "Does he work as a programmer?"
-  ],
-  [
-    "У тебя такой же вопрос?",
-    "Do you have the same question?"
-  ],
-  [
-    "Ты пытаешься решить эту проблему?",
-    "Do you try to solve this problem?"
-  ],
-  [
-    "Ты знаешь, что я учу английский самостоятельно?",
-    "Do you know that I learn English by myself?"
-  ],
-  [
-    "Ты знаешь, что она учит английский самостоятельно?",
-    "Do you know that she learns English by herself?"
-  ],
-  [
-    "Она знает, что он изучает английский самостоятельно?",
-    "Does she know that he learns English by himself?"
-  ],
-  [
-    "Она платит за свое образование?",
-    "Does she pay for her education?"
-  ],
-  [
-    "Ты платишь за свое образование?",
-    "Do you pay for your education?"
-  ],
-  [
-    "Он платит за свое образование?",
-    "Does he pay for his education?"
-  ],
-  [
-    "Ты хочешь путешествовать по миру?",
-    "Do you want to travel around the world?"
-  ],
-  [
-    "Твой брат хочет путешествовать по миру?",
-    "Does your brother want to travel around the world?"
-  ],
-  [
-    "Она хочет путешествовать по стране?",
-    "Does she want to travel around the country?"
-  ],
-  [
-    "Он работает инструктором?",
-    "Does he work as an instructor?"
-  ],
-  [
-    "Ты работаешь инструктором?",
-    "Do you work as an instructor?"
-  ],
-  [
-    "Он работает тренером?",
-    "Does he work as a trainer?"
-  ],
-  [
-    "Это зависит от тебя?",
-    "Does it depend on you?"
-  ],
-  [
-    "Это зависит от меня?",
-    "Does it depend on me?"
-  ],
-  [
-    "Ты зависишь от него?",
-    "Do you depend on him?"
-  ],
-  [
-    "Ты делаешь это самостоятельно?",
-    "Do you do it by yourself?"
-  ],
-  [
-    "Она делает это самостоятельно?",
-    "Does she do it by herself?"
-  ],
-  [
-    "Он делает это самостоятельно?",
-    "Does he do it by himself?"
-  ],
-  [
-    "У него такие же результаты?",
-    "Does he have the same results?"
-  ],
-  [
-    "У тебя такие же результаты?",
-    "Do you have the same results?"
-  ],
-  [
-    "У нас разные результаты?",
-    "Do we have different results?"
-  ],
-  [
-    "Я часто делаю ошибки, когда говорю по-английски?",
-    "Do I often make mistakes when I speak English?"
-  ],
-  [
-    "Ты знаешь, как ответить на этот вопрос?",
-    "Do you know how to answer this question?"
-  ],
-  [
-    "Она знает, как ответить на этот вопрос?",
-    "Does she know how to answer this question?"
-  ],
-  [
-    "Ты знаешь, как ответить на мой вопрос?",
-    "Do you know how to answer my question?"
-  ],
-  [
-    "Он финансово зависит от своих родителей?",
-    "Does he depend on his parents financially?"
-  ],
-  [
-    "Он работает фитнес инструктором?",
-    "Does he work as a fitness instructor?"
-  ],
-  [
-    "Это принадлежит тебе?",
-    "Does it belong to you?"
-  ],
-  [
-    "У него в настоящий момент есть какие-либо вопросы?",
-    "Does he have any questions at present?"
-  ],
-  [
-    "Ты работаешь фитнес тренером?",
-    "Do you work as a fitness trainer?"
-  ],
-  [
-    "Ты изучаешь английский самостоятельно?",
-    "Do you learn English on your own?"
-  ],
-  [
-    "Ты стараешься вести здоровый образ жизни?",
-    "Do you try to lead a healthy lifestyle?"
-  ],
-  [
-    "Ты делаешь это самостоятельно?",
-    "Do you do it on your own?"
-  ],
-  [
-    "Это зависит от нас?",
-    "Does it depend on us?"
-  ],
-  [
-    "Ты знаешь, как решить эту проблему?",
-    "Do you know how to solve this problem?"
-  ],
-  [
-    "Она хочет быть специалистом по маркетингу?",
-    "Does she want to be a marketing specialist?"
-  ],
-  [
-    "У тебя есть какие-либо вопросы на данный момент?",
-    "Do you have any questions at the moment?"
-  ],
-  [
-    "Ему нужно сделать это срочно?",
-    "Does he need to do it urgently?"
-  ],
-  [
-    "Ты работаешь персональным тренером?",
-    "Do you work as a personal trainer?"
-  ],
-  [
-    "Он хочет быть президентом?",
-    "Does he want to be a president?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Ты пьешь кофе утром?",
+    "en": "Do you drink coffee in the morning?"
+  },
+  {
+    "_id": 2,
+    "ru": "Она живет в большом городе?",
+    "en": "Does she live in a big city?"
+  },
+  {
+    "_id": 3,
+    "ru": "Он изучает французский в университете?",
+    "en": "Does he study French at university?"
+  },
+  {
+    "_id": 4,
+    "ru": "Он курит или нет?",
+    "en": "Does he smoke or not?"
+  },
+  {
+    "_id": 5,
+    "ru": "Он пытается найти здесь эту информацию?",
+    "en": "Does he try to find this information here?"
+  },
+  {
+    "_id": 6,
+    "ru": "Он часто это говорит?",
+    "en": "Does he often say it?"
+  },
+  {
+    "_id": 7,
+    "ru": "Ты живешь в большом доме?",
+    "en": "Do you live in a big house?"
+  },
+  {
+    "_id": 8,
+    "ru": "Он плавает лучше?",
+    "en": "Does he swim better?"
+  },
+  {
+    "_id": 9,
+    "ru": "Ты живешь отдельно?",
+    "en": "Do you live separately?"
+  },
+  {
+    "_id": 10,
+    "ru": "Тебе нравится эта программа?",
+    "en": "Do you like this program?"
+  },
+  {
+    "_id": 11,
+    "ru": "Это действительно помогает ему?",
+    "en": "Does it really help him?"
+  },
+  {
+    "_id": 12,
+    "ru": "Он тоже так думает?",
+    "en": "Does he think so, too?"
+  },
+  {
+    "_id": 13,
+    "ru": "У тебя много родственников?",
+    "en": "Do you have many relatives?"
+  },
+  {
+    "_id": 14,
+    "ru": "Она живет в маленьком городке?",
+    "en": "Does she live in a small town?"
+  },
+  {
+    "_id": 15,
+    "ru": "Это приносит людям счастье?",
+    "en": "Does it bring people happiness?"
+  },
+  {
+    "_id": 16,
+    "ru": "Она хочет жить одна?",
+    "en": "Does she want to live alone?"
+  },
+  {
+    "_id": 17,
+    "ru": "Он верит в Бога?",
+    "en": "Does he believe in God?"
+  },
+  {
+    "_id": 18,
+    "ru": "Он чувствует себя плохо?",
+    "en": "Does he feel ill?"
+  },
+  {
+    "_id": 19,
+    "ru": "Ей нравится этот сериал?",
+    "en": "Does she like this TV series?"
+  },
+  {
+    "_id": 20,
+    "ru": "Он часто говорит тебе эту вещь?",
+    "en": "Does he often tell you this thing?"
+  },
+  {
+    "_id": 21,
+    "ru": "Ты находишь эту идею интересной?",
+    "en": "Do you find this idea interesting?"
+  },
+  {
+    "_id": 22,
+    "ru": "Они живут отдельно?",
+    "en": "Do they live separately?"
+  },
+  {
+    "_id": 23,
+    "ru": "Она хочет учиться в другом месте?",
+    "en": "Does she want to study in another place?"
+  },
+  {
+    "_id": 24,
+    "ru": "Ты хочешь жить один?",
+    "en": "Do you want to live alone?"
+  },
+  {
+    "_id": 25,
+    "ru": "Ты находишь этот тест очень легким?",
+    "en": "Do you find this test very easy?"
+  },
+  {
+    "_id": 26,
+    "ru": "Тебе нравится плавание?",
+    "en": "Do you like swimming?"
+  },
+  {
+    "_id": 27,
+    "ru": "Ты живешь в новом здании?",
+    "en": "Do you live in a new building?"
+  },
+  {
+    "_id": 28,
+    "ru": "У него стабильный доход?",
+    "en": "Does he have a stable income?"
+  },
+  {
+    "_id": 29,
+    "ru": "Ты знаешь этого парня?",
+    "en": "Do you know this guy?"
+  },
+  {
+    "_id": 30,
+    "ru": "Ты куришь?",
+    "en": "Do you smoke?"
+  },
+  {
+    "_id": 31,
+    "ru": "У тебя есть стабильный доход?",
+    "en": "Do you have a stable income?"
+  },
+  {
+    "_id": 32,
+    "ru": "Ты живешь в большом городе?",
+    "en": "Do you live in a big city?"
+  },
+  {
+    "_id": 33,
+    "ru": "Ты ищешь это онлайн?",
+    "en": "Do you look for it online?"
+  },
+  {
+    "_id": 34,
+    "ru": "Она тоже так думает?",
+    "en": "Does she also think so?"
+  },
+  {
+    "_id": 35,
+    "ru": "Ты хочешь жить в другом месте?",
+    "en": "Do you want to live in another place?"
+  },
+  {
+    "_id": 36,
+    "ru": "У тебя большой дом?",
+    "en": "Do you have a big house?"
+  },
+  {
+    "_id": 37,
+    "ru": "Она живет в старом здании?",
+    "en": "Does she live in an old building?"
+  },
+  {
+    "_id": 38,
+    "ru": "Ты смотришь бесплатные уроки английского онлайн?",
+    "en": "Do you watch free English lessons online?"
+  },
+  {
+    "_id": 39,
+    "ru": "У тебя есть какое-либо свободное время?",
+    "en": "Do you have any free time?"
+  },
+  {
+    "_id": 40,
+    "ru": "Она изучает английский в школе?",
+    "en": "Does she study English at school?"
+  },
+  {
+    "_id": 41,
+    "ru": "Ты ищешь эту информацию онлайн?",
+    "en": "Do you look for this information online?"
+  },
+  {
+    "_id": 42,
+    "ru": "Тебе нравится этот сериал?",
+    "en": "Do you like this TV series?"
+  },
+  {
+    "_id": 43,
+    "ru": "Это принадлежит ему?",
+    "en": "Does it belong to him?"
+  },
+  {
+    "_id": 44,
+    "ru": "Это развивает наши профессиональные навыки?",
+    "en": "Does it develop our professional skills?"
+  },
+  {
+    "_id": 45,
+    "ru": "Он работает музыкантом?",
+    "en": "Does he work as a musician?"
+  },
+  {
+    "_id": 46,
+    "ru": "Он ведет здоровый образ жизни?",
+    "en": "Does he lead a healthy lifestyle?"
+  },
+  {
+    "_id": 47,
+    "ru": "Ты понимаешь, почему он это делает?",
+    "en": "Do you understand why he does it?"
+  },
+  {
+    "_id": 48,
+    "ru": "Ты финансово зависишь от своих родителей?",
+    "en": "Do you depend on your parents financially?"
+  },
+  {
+    "_id": 49,
+    "ru": "Это развивает наше воображение?",
+    "en": "Does it develop our imagination?"
+  },
+  {
+    "_id": 50,
+    "ru": "Ты изучаешь английский самостоятельно?",
+    "en": "Do you learn English by yourself?"
+  },
+  {
+    "_id": 51,
+    "ru": "Ты хочешь быть ученым?",
+    "en": "Do you want to be a scientist?"
+  },
+  {
+    "_id": 52,
+    "ru": "Это развивает эти навыки?",
+    "en": "Does it develop these skills?"
+  },
+  {
+    "_id": 53,
+    "ru": "Ты знаешь, что я учу английский самостоятельно?",
+    "en": "Do you know that I learn English on my own?"
+  },
+  {
+    "_id": 54,
+    "ru": "Он работает программистом?",
+    "en": "Does he work as a programmer?"
+  },
+  {
+    "_id": 55,
+    "ru": "У тебя такой же вопрос?",
+    "en": "Do you have the same question?"
+  },
+  {
+    "_id": 56,
+    "ru": "Ты пытаешься решить эту проблему?",
+    "en": "Do you try to solve this problem?"
+  },
+  {
+    "_id": 57,
+    "ru": "Ты знаешь, что я учу английский самостоятельно?",
+    "en": "Do you know that I learn English by myself?"
+  },
+  {
+    "_id": 58,
+    "ru": "Ты знаешь, что она учит английский самостоятельно?",
+    "en": "Do you know that she learns English by herself?"
+  },
+  {
+    "_id": 59,
+    "ru": "Она знает, что он изучает английский самостоятельно?",
+    "en": "Does she know that he learns English by himself?"
+  },
+  {
+    "_id": 60,
+    "ru": "Она платит за свое образование?",
+    "en": "Does she pay for her education?"
+  },
+  {
+    "_id": 61,
+    "ru": "Ты платишь за свое образование?",
+    "en": "Do you pay for your education?"
+  },
+  {
+    "_id": 62,
+    "ru": "Он платит за свое образование?",
+    "en": "Does he pay for his education?"
+  },
+  {
+    "_id": 63,
+    "ru": "Ты хочешь путешествовать по миру?",
+    "en": "Do you want to travel around the world?"
+  },
+  {
+    "_id": 64,
+    "ru": "Твой брат хочет путешествовать по миру?",
+    "en": "Does your brother want to travel around the world?"
+  },
+  {
+    "_id": 65,
+    "ru": "Она хочет путешествовать по стране?",
+    "en": "Does she want to travel around the country?"
+  },
+  {
+    "_id": 66,
+    "ru": "Он работает инструктором?",
+    "en": "Does he work as an instructor?"
+  },
+  {
+    "_id": 67,
+    "ru": "Ты работаешь инструктором?",
+    "en": "Do you work as an instructor?"
+  },
+  {
+    "_id": 68,
+    "ru": "Он работает тренером?",
+    "en": "Does he work as a trainer?"
+  },
+  {
+    "_id": 69,
+    "ru": "Это зависит от тебя?",
+    "en": "Does it depend on you?"
+  },
+  {
+    "_id": 70,
+    "ru": "Это зависит от меня?",
+    "en": "Does it depend on me?"
+  },
+  {
+    "_id": 71,
+    "ru": "Ты зависишь от него?",
+    "en": "Do you depend on him?"
+  },
+  {
+    "_id": 72,
+    "ru": "Ты делаешь это самостоятельно?",
+    "en": "Do you do it by yourself?"
+  },
+  {
+    "_id": 73,
+    "ru": "Она делает это самостоятельно?",
+    "en": "Does she do it by herself?"
+  },
+  {
+    "_id": 74,
+    "ru": "Он делает это самостоятельно?",
+    "en": "Does he do it by himself?"
+  },
+  {
+    "_id": 75,
+    "ru": "У него такие же результаты?",
+    "en": "Does he have the same results?"
+  },
+  {
+    "_id": 76,
+    "ru": "У тебя такие же результаты?",
+    "en": "Do you have the same results?"
+  },
+  {
+    "_id": 77,
+    "ru": "У нас разные результаты?",
+    "en": "Do we have different results?"
+  },
+  {
+    "_id": 78,
+    "ru": "Я часто делаю ошибки, когда говорю по-английски?",
+    "en": "Do I often make mistakes when I speak English?"
+  },
+  {
+    "_id": 79,
+    "ru": "Ты знаешь, как ответить на этот вопрос?",
+    "en": "Do you know how to answer this question?"
+  },
+  {
+    "_id": 80,
+    "ru": "Она знает, как ответить на этот вопрос?",
+    "en": "Does she know how to answer this question?"
+  },
+  {
+    "_id": 81,
+    "ru": "Ты знаешь, как ответить на мой вопрос?",
+    "en": "Do you know how to answer my question?"
+  },
+  {
+    "_id": 82,
+    "ru": "Он финансово зависит от своих родителей?",
+    "en": "Does he depend on his parents financially?"
+  },
+  {
+    "_id": 83,
+    "ru": "Он работает фитнес инструктором?",
+    "en": "Does he work as a fitness instructor?"
+  },
+  {
+    "_id": 84,
+    "ru": "Это принадлежит тебе?",
+    "en": "Does it belong to you?"
+  },
+  {
+    "_id": 85,
+    "ru": "У него в настоящий момент есть какие-либо вопросы?",
+    "en": "Does he have any questions at present?"
+  },
+  {
+    "_id": 86,
+    "ru": "Ты работаешь фитнес тренером?",
+    "en": "Do you work as a fitness trainer?"
+  },
+  {
+    "_id": 87,
+    "ru": "Ты изучаешь английский самостоятельно?",
+    "en": "Do you learn English on your own?"
+  },
+  {
+    "_id": 88,
+    "ru": "Ты стараешься вести здоровый образ жизни?",
+    "en": "Do you try to lead a healthy lifestyle?"
+  },
+  {
+    "_id": 89,
+    "ru": "Ты делаешь это самостоятельно?",
+    "en": "Do you do it on your own?"
+  },
+  {
+    "_id": 90,
+    "ru": "Это зависит от нас?",
+    "en": "Does it depend on us?"
+  },
+  {
+    "_id": 91,
+    "ru": "Ты знаешь, как решить эту проблему?",
+    "en": "Do you know how to solve this problem?"
+  },
+  {
+    "_id": 92,
+    "ru": "Она хочет быть специалистом по маркетингу?",
+    "en": "Does she want to be a marketing specialist?"
+  },
+  {
+    "_id": 93,
+    "ru": "У тебя есть какие-либо вопросы на данный момент?",
+    "en": "Do you have any questions at the moment?"
+  },
+  {
+    "_id": 94,
+    "ru": "Ему нужно сделать это срочно?",
+    "en": "Does he need to do it urgently?"
+  },
+  {
+    "_id": 95,
+    "ru": "Ты работаешь персональным тренером?",
+    "en": "Do you work as a personal trainer?"
+  },
+  {
+    "_id": 96,
+    "ru": "Он хочет быть президентом?",
+    "en": "Does he want to be a president?"
+  }
 ]

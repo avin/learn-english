@@ -1,366 +1,457 @@
 [
-  [
-    "Много людей посещают эту страну?",
-    "Do many people visit this country?"
-  ],
-  [
-    "Твой друг верит тебе?",
-    "Does your friend believe you?"
-  ],
-  [
-    "Твое образование помогает тебе?",
-    "Does your education help you?"
-  ],
-  [
-    "Дети часто остаются дома?",
-    "Do the children often stay at home?"
-  ],
-  [
-    "Твой учитель проверяет твою домашнюю работу?",
-    "Does your teacher check your homework?"
-  ],
-  [
-    "Твой брат занимается плаванием дважды в неделю?",
-    "Does your brother go swimming twice a week?"
-  ],
-  [
-    "Твои друзья верят тебе?",
-    "Do your friends believe you?"
-  ],
-  [
-    "Эта вещь действительно так сильно тебя интересует?",
-    "Does this thing really interest you so much?"
-  ],
-  [
-    "Много людей выбирают этот отель?",
-    "Do many people choose this hotel?"
-  ],
-  [
-    "Образование играет важную роль в нашей жизни?",
-    "Does education play an important role in our life?"
-  ],
-  [
-    "Её дочь ходит в колледж?",
-    "Does her daughter go to college?"
-  ],
-  [
-    "Много людей читают книги?",
-    "Do many people read books?"
-  ],
-  [
-    "Эти вещи тебя интересуют?",
-    "Do these things interest you?"
-  ],
-  [
-    "Твои родители это понимают?",
-    "Do your parents understand it?"
-  ],
-  [
-    "Твой друг это знает?",
-    "Does your friend know it?"
-  ],
-  [
-    "Твой друг ходит в университет?",
-    "Does your friend go to university?"
-  ],
-  [
-    "Кейт понимает этот урок?",
-    "Does Kate understand this lesson?"
-  ],
-  [
-    "Много людей посещают эту страну?",
-    "Do many people visit this country?"
-  ],
-  [
-    "Тебя интересует музыка?",
-    "Does music interest you?"
-  ],
-  [
-    "Полиция контролирует это?",
-    "Do the police control it?"
-  ],
-  [
-    "Твоему другу нравится футбол?",
-    "Does your friend like football?"
-  ],
-  [
-    "Эти билеты стоят меньше?",
-    "Do these tickets cost less?"
-  ],
-  [
-    "Его родители верят ему?",
-    "Do his parents believe him?"
-  ],
-  [
-    "Ник часто играет в компьютерные игры?",
-    "Does Nick often play computer games?"
-  ],
-  [
-    "То приложение кажется очень полезным?",
-    "Does that application seem very useful?"
-  ],
-  [
-    "Его сын работает или учится?",
-    "Does his son work or study?"
-  ],
-  [
-    "Тот курс кажется хуже?",
-    "Does that course seem worse?"
-  ],
-  [
-    "Приложение действительно помогает?",
-    "Does the application really help?"
-  ],
-  [
-    "Эти вещи кажутся очень важными?",
-    "Do these things seem very important?"
-  ],
-  [
-    "Этот курс кажется лучше?",
-    "Does this course seem better?"
-  ],
-  [
-    "Твои родители работают?",
-    "Do your parents work?"
-  ],
-  [
-    "Твой босс приходит на работу каждый день?",
-    "Does your boss come to work every day?"
-  ],
-  [
-    "Твой брат всегда так рано встает?",
-    "Does your brother always get up so early?"
-  ],
-  [
-    "Полиция все контролирует?",
-    "Do the police control everything?"
-  ],
-  [
-    "Ребенок кажется очень талантливым?",
-    "Does the child seem very talented?"
-  ],
-  [
-    "Эта вещь интересует его?",
-    "Does this thing interest him?"
-  ],
-  [
-    "Курс кажется эффективным?",
-    "Does the course seem effective?"
-  ],
-  [
-    "Эта история кажется очень смешной?",
-    "Does this story seem very funny?"
-  ],
-  [
-    "Твоя сестра ходит в колледж?",
-    "Does your sister go to college?"
-  ],
-  [
-    "Это интересует тебя?",
-    "Does it interest you?"
-  ],
-  [
-    "Этот мужчина работает водителем такси?",
-    "Does this man work as a taxi driver?"
-  ],
-  [
-    "Эта школа предоставляет очень хорошие условия?",
-    "Does this school provide very good conditions?"
-  ],
-  [
-    "Твой учитель указывает на твои ошибки?",
-    "Does your teacher point out your mistakes?"
-  ],
-  [
-    "Твой знакомый работает инструктором по фитнесу?",
-    "Does your acquaintance work as a fitness instructor?"
-  ],
-  [
-    "Твой лучший друг разделяет твою точку зрения?",
-    "Does your best friend share your point of view?"
-  ],
-  [
-    "Этот мужчина страдает от депрессии?",
-    "Does this man suffer from depression?"
-  ],
-  [
-    "Много людей страдают от депрессии?",
-    "Do many people suffer from depression?"
-  ],
-  [
-    "То сообщество растет очень медленно?",
-    "Does that community grow very slowly?"
-  ],
-  [
-    "Твоя мама работает бухгалтером?",
-    "Does your mother work as an accountant?"
-  ],
-  [
-    "У этой фирмы очень плохие продажи?",
-    "Does this firm have very bad sales?"
-  ],
-  [
-    "Твой друг работает экономистом?",
-    "Does your friend work as an economist?"
-  ],
-  [
-    "У этой компании очень серьезные проблемы?",
-    "Does this company have very serious problems?"
-  ],
-  [
-    "Его брат работает журналистом?",
-    "Does his brother work as a journalist?"
-  ],
-  [
-    "Твоя сестра работает тренером?",
-    "Does your sister work as a trainer?"
-  ],
-  [
-    "Ты работаешь учителем?",
-    "Do you work as a teacher?"
-  ],
-  [
-    "Эти иммигранты живут в Соединенных Штатах?",
-    "Do these immigrants live in the United States?"
-  ],
-  [
-    "Этот иммигрант живет в Соединенных Штатах?",
-    "Does this immigrant live in the United States?"
-  ],
-  [
-    "Эти иммигранты живут в Америке?",
-    "Do these immigrants live in America?"
-  ],
-  [
-    "Деньги интересуют его?",
-    "Does money interest him?"
-  ],
-  [
-    "Эти деньги интересуют его?",
-    "Does this money interest him?"
-  ],
-  [
-    "Эти новости интересуют его?",
-    "Does this news interest him?"
-  ],
-  [
-    "Студенты часто копируют ошибки других студентов?",
-    "Do students often copy other students' mistakes?"
-  ],
-  [
-    "Этот студент копирует ошибки другого студента?",
-    "Does this student copy another student's mistakes?"
-  ],
-  [
-    "Студенты обычно копируют ошибки других студентов?",
-    "Do students usually copy other students' mistakes?"
-  ],
-  [
-    "Эти мужчины чувствуют себя подавленными?",
-    "Do these men feel depressed?"
-  ],
-  [
-    "Эти люди чувствуют себя подавленными?",
-    "Do these people feel depressed?"
-  ],
-  [
-    "Этот мужчина чувствует себя подавленным?",
-    "Does this man feel depressed?"
-  ],
-  [
-    "Деньги делают людей счастливыми?",
-    "Does money make people happy?"
-  ],
-  [
-    "Деньги делают людей счастливее?",
-    "Does money make people happier?"
-  ],
-  [
-    "Деньги делают тебя счастливым?",
-    "Does money make you happy?"
-  ],
-  [
-    "Твой отец работает архитектором?",
-    "Does your father work as an architect?"
-  ],
-  [
-    "Твой брат работает инженером?",
-    "Does your brother work as an engineer?"
-  ],
-  [
-    "Ты работаешь менеджером?",
-    "Do you work as a manager?"
-  ],
-  [
-    "Тот человек чувствует себя подавленным?",
-    "Does that man feel depressed?"
-  ],
-  [
-    "Эта проблема кажется неважной?",
-    "Does this problem seem unimportant?"
-  ],
-  [
-    "Те проблемы кажутся неважными?",
-    "Do those problems seem unimportant?"
-  ],
-  [
-    "Твои друзья разделяют твое мнение?",
-    "Do your friends share your opinion?"
-  ],
-  [
-    "Эти новости часто шокируют людей?",
-    "Does this news often shock people?"
-  ],
-  [
-    "Твоим одногруппникам нравятся уроки этого учителя?",
-    "Do your groupmates like this teacher's lessons?"
-  ],
-  [
-    "Это сообщество растет очень быстро?",
-    "Does this community grow very quickly?"
-  ],
-  [
-    "Один из твоих друзей работает музыкантом?",
-    "Does one of your friends work as a musician?"
-  ],
-  [
-    "Этих знаний кажется достаточно?",
-    "Does this knowledge seem enough?"
-  ],
-  [
-    "Твой знакомый работает программистом?",
-    "Does your acquaintance work as a programmer?"
-  ],
-  [
-    "Учитель указывает на ошибки других студентов?",
-    "Does the teacher point out other students' mistakes?"
-  ],
-  [
-    "Эта женщина чувствует себя очень удивленной?",
-    "Does this woman feel very surprised?"
-  ],
-  [
-    "Твой учитель указывает на твои ошибки?",
-    "Does your teacher point out your mistakes?"
-  ],
-  [
-    "Твоему другу нравится идея твоего брата?",
-    "Does your friend like your brother's idea?"
-  ],
-  [
-    "Этот пример действительно вдохновляет тебя?",
-    "Does this example really inspire you?"
-  ],
-  [
-    "Деньги играют очень важную роль?",
-    "Does money play a very important role?"
-  ],
-  [
-    "Твой знакомый рекомендует это?",
-    "Does your acquaintance recommend it?"
-  ],
-  [
-    "Эти женщины очень удивлены?",
-    "Do these women feel very surprised?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Много людей посещают эту страну?",
+    "en": "Do many people visit this country?"
+  },
+  {
+    "_id": 2,
+    "ru": "Твой друг верит тебе?",
+    "en": "Does your friend believe you?"
+  },
+  {
+    "_id": 3,
+    "ru": "Твое образование помогает тебе?",
+    "en": "Does your education help you?"
+  },
+  {
+    "_id": 4,
+    "ru": "Дети часто остаются дома?",
+    "en": "Do the children often stay at home?"
+  },
+  {
+    "_id": 5,
+    "ru": "Твой учитель проверяет твою домашнюю работу?",
+    "en": "Does your teacher check your homework?"
+  },
+  {
+    "_id": 6,
+    "ru": "Твой брат занимается плаванием дважды в неделю?",
+    "en": "Does your brother go swimming twice a week?"
+  },
+  {
+    "_id": 7,
+    "ru": "Твои друзья верят тебе?",
+    "en": "Do your friends believe you?"
+  },
+  {
+    "_id": 8,
+    "ru": "Эта вещь действительно так сильно тебя интересует?",
+    "en": "Does this thing really interest you so much?"
+  },
+  {
+    "_id": 9,
+    "ru": "Много людей выбирают этот отель?",
+    "en": "Do many people choose this hotel?"
+  },
+  {
+    "_id": 10,
+    "ru": "Образование играет важную роль в нашей жизни?",
+    "en": "Does education play an important role in our life?"
+  },
+  {
+    "_id": 11,
+    "ru": "Её дочь ходит в колледж?",
+    "en": "Does her daughter go to college?"
+  },
+  {
+    "_id": 12,
+    "ru": "Много людей читают книги?",
+    "en": "Do many people read books?"
+  },
+  {
+    "_id": 13,
+    "ru": "Эти вещи тебя интересуют?",
+    "en": "Do these things interest you?"
+  },
+  {
+    "_id": 14,
+    "ru": "Твои родители это понимают?",
+    "en": "Do your parents understand it?"
+  },
+  {
+    "_id": 15,
+    "ru": "Твой друг это знает?",
+    "en": "Does your friend know it?"
+  },
+  {
+    "_id": 16,
+    "ru": "Твой друг ходит в университет?",
+    "en": "Does your friend go to university?"
+  },
+  {
+    "_id": 17,
+    "ru": "Кейт понимает этот урок?",
+    "en": "Does Kate understand this lesson?"
+  },
+  {
+    "_id": 18,
+    "ru": "Много людей посещают эту страну?",
+    "en": "Do many people visit this country?"
+  },
+  {
+    "_id": 19,
+    "ru": "Тебя интересует музыка?",
+    "en": "Does music interest you?"
+  },
+  {
+    "_id": 20,
+    "ru": "Полиция контролирует это?",
+    "en": "Do the police control it?"
+  },
+  {
+    "_id": 21,
+    "ru": "Твоему другу нравится футбол?",
+    "en": "Does your friend like football?"
+  },
+  {
+    "_id": 22,
+    "ru": "Эти билеты стоят меньше?",
+    "en": "Do these tickets cost less?"
+  },
+  {
+    "_id": 23,
+    "ru": "Его родители верят ему?",
+    "en": "Do his parents believe him?"
+  },
+  {
+    "_id": 24,
+    "ru": "Ник часто играет в компьютерные игры?",
+    "en": "Does Nick often play computer games?"
+  },
+  {
+    "_id": 25,
+    "ru": "То приложение кажется очень полезным?",
+    "en": "Does that application seem very useful?"
+  },
+  {
+    "_id": 26,
+    "ru": "Его сын работает или учится?",
+    "en": "Does his son work or study?"
+  },
+  {
+    "_id": 27,
+    "ru": "Тот курс кажется хуже?",
+    "en": "Does that course seem worse?"
+  },
+  {
+    "_id": 28,
+    "ru": "Приложение действительно помогает?",
+    "en": "Does the application really help?"
+  },
+  {
+    "_id": 29,
+    "ru": "Эти вещи кажутся очень важными?",
+    "en": "Do these things seem very important?"
+  },
+  {
+    "_id": 30,
+    "ru": "Этот курс кажется лучше?",
+    "en": "Does this course seem better?"
+  },
+  {
+    "_id": 31,
+    "ru": "Твои родители работают?",
+    "en": "Do your parents work?"
+  },
+  {
+    "_id": 32,
+    "ru": "Твой босс приходит на работу каждый день?",
+    "en": "Does your boss come to work every day?"
+  },
+  {
+    "_id": 33,
+    "ru": "Твой брат всегда так рано встает?",
+    "en": "Does your brother always get up so early?"
+  },
+  {
+    "_id": 34,
+    "ru": "Полиция все контролирует?",
+    "en": "Do the police control everything?"
+  },
+  {
+    "_id": 35,
+    "ru": "Ребенок кажется очень талантливым?",
+    "en": "Does the child seem very talented?"
+  },
+  {
+    "_id": 36,
+    "ru": "Эта вещь интересует его?",
+    "en": "Does this thing interest him?"
+  },
+  {
+    "_id": 37,
+    "ru": "Курс кажется эффективным?",
+    "en": "Does the course seem effective?"
+  },
+  {
+    "_id": 38,
+    "ru": "Эта история кажется очень смешной?",
+    "en": "Does this story seem very funny?"
+  },
+  {
+    "_id": 39,
+    "ru": "Твоя сестра ходит в колледж?",
+    "en": "Does your sister go to college?"
+  },
+  {
+    "_id": 40,
+    "ru": "Это интересует тебя?",
+    "en": "Does it interest you?"
+  },
+  {
+    "_id": 41,
+    "ru": "Этот мужчина работает водителем такси?",
+    "en": "Does this man work as a taxi driver?"
+  },
+  {
+    "_id": 42,
+    "ru": "Эта школа предоставляет очень хорошие условия?",
+    "en": "Does this school provide very good conditions?"
+  },
+  {
+    "_id": 43,
+    "ru": "Твой учитель указывает на твои ошибки?",
+    "en": "Does your teacher point out your mistakes?"
+  },
+  {
+    "_id": 44,
+    "ru": "Твой знакомый работает инструктором по фитнесу?",
+    "en": "Does your acquaintance work as a fitness instructor?"
+  },
+  {
+    "_id": 45,
+    "ru": "Твой лучший друг разделяет твою точку зрения?",
+    "en": "Does your best friend share your point of view?"
+  },
+  {
+    "_id": 46,
+    "ru": "Этот мужчина страдает от депрессии?",
+    "en": "Does this man suffer from depression?"
+  },
+  {
+    "_id": 47,
+    "ru": "Много людей страдают от депрессии?",
+    "en": "Do many people suffer from depression?"
+  },
+  {
+    "_id": 48,
+    "ru": "То сообщество растет очень медленно?",
+    "en": "Does that community grow very slowly?"
+  },
+  {
+    "_id": 49,
+    "ru": "Твоя мама работает бухгалтером?",
+    "en": "Does your mother work as an accountant?"
+  },
+  {
+    "_id": 50,
+    "ru": "У этой фирмы очень плохие продажи?",
+    "en": "Does this firm have very bad sales?"
+  },
+  {
+    "_id": 51,
+    "ru": "Твой друг работает экономистом?",
+    "en": "Does your friend work as an economist?"
+  },
+  {
+    "_id": 52,
+    "ru": "У этой компании очень серьезные проблемы?",
+    "en": "Does this company have very serious problems?"
+  },
+  {
+    "_id": 53,
+    "ru": "Его брат работает журналистом?",
+    "en": "Does his brother work as a journalist?"
+  },
+  {
+    "_id": 54,
+    "ru": "Твоя сестра работает тренером?",
+    "en": "Does your sister work as a trainer?"
+  },
+  {
+    "_id": 55,
+    "ru": "Ты работаешь учителем?",
+    "en": "Do you work as a teacher?"
+  },
+  {
+    "_id": 56,
+    "ru": "Эти иммигранты живут в Соединенных Штатах?",
+    "en": "Do these immigrants live in the United States?"
+  },
+  {
+    "_id": 57,
+    "ru": "Этот иммигрант живет в Соединенных Штатах?",
+    "en": "Does this immigrant live in the United States?"
+  },
+  {
+    "_id": 58,
+    "ru": "Эти иммигранты живут в Америке?",
+    "en": "Do these immigrants live in America?"
+  },
+  {
+    "_id": 59,
+    "ru": "Деньги интересуют его?",
+    "en": "Does money interest him?"
+  },
+  {
+    "_id": 60,
+    "ru": "Эти деньги интересуют его?",
+    "en": "Does this money interest him?"
+  },
+  {
+    "_id": 61,
+    "ru": "Эти новости интересуют его?",
+    "en": "Does this news interest him?"
+  },
+  {
+    "_id": 62,
+    "ru": "Студенты часто копируют ошибки других студентов?",
+    "en": "Do students often copy other students' mistakes?"
+  },
+  {
+    "_id": 63,
+    "ru": "Этот студент копирует ошибки другого студента?",
+    "en": "Does this student copy another student's mistakes?"
+  },
+  {
+    "_id": 64,
+    "ru": "Студенты обычно копируют ошибки других студентов?",
+    "en": "Do students usually copy other students' mistakes?"
+  },
+  {
+    "_id": 65,
+    "ru": "Эти мужчины чувствуют себя подавленными?",
+    "en": "Do these men feel depressed?"
+  },
+  {
+    "_id": 66,
+    "ru": "Эти люди чувствуют себя подавленными?",
+    "en": "Do these people feel depressed?"
+  },
+  {
+    "_id": 67,
+    "ru": "Этот мужчина чувствует себя подавленным?",
+    "en": "Does this man feel depressed?"
+  },
+  {
+    "_id": 68,
+    "ru": "Деньги делают людей счастливыми?",
+    "en": "Does money make people happy?"
+  },
+  {
+    "_id": 69,
+    "ru": "Деньги делают людей счастливее?",
+    "en": "Does money make people happier?"
+  },
+  {
+    "_id": 70,
+    "ru": "Деньги делают тебя счастливым?",
+    "en": "Does money make you happy?"
+  },
+  {
+    "_id": 71,
+    "ru": "Твой отец работает архитектором?",
+    "en": "Does your father work as an architect?"
+  },
+  {
+    "_id": 72,
+    "ru": "Твой брат работает инженером?",
+    "en": "Does your brother work as an engineer?"
+  },
+  {
+    "_id": 73,
+    "ru": "Ты работаешь менеджером?",
+    "en": "Do you work as a manager?"
+  },
+  {
+    "_id": 74,
+    "ru": "Тот человек чувствует себя подавленным?",
+    "en": "Does that man feel depressed?"
+  },
+  {
+    "_id": 75,
+    "ru": "Эта проблема кажется неважной?",
+    "en": "Does this problem seem unimportant?"
+  },
+  {
+    "_id": 76,
+    "ru": "Те проблемы кажутся неважными?",
+    "en": "Do those problems seem unimportant?"
+  },
+  {
+    "_id": 77,
+    "ru": "Твои друзья разделяют твое мнение?",
+    "en": "Do your friends share your opinion?"
+  },
+  {
+    "_id": 78,
+    "ru": "Эти новости часто шокируют людей?",
+    "en": "Does this news often shock people?"
+  },
+  {
+    "_id": 79,
+    "ru": "Твоим одногруппникам нравятся уроки этого учителя?",
+    "en": "Do your groupmates like this teacher's lessons?"
+  },
+  {
+    "_id": 80,
+    "ru": "Это сообщество растет очень быстро?",
+    "en": "Does this community grow very quickly?"
+  },
+  {
+    "_id": 81,
+    "ru": "Один из твоих друзей работает музыкантом?",
+    "en": "Does one of your friends work as a musician?"
+  },
+  {
+    "_id": 82,
+    "ru": "Этих знаний кажется достаточно?",
+    "en": "Does this knowledge seem enough?"
+  },
+  {
+    "_id": 83,
+    "ru": "Твой знакомый работает программистом?",
+    "en": "Does your acquaintance work as a programmer?"
+  },
+  {
+    "_id": 84,
+    "ru": "Учитель указывает на ошибки других студентов?",
+    "en": "Does the teacher point out other students' mistakes?"
+  },
+  {
+    "_id": 85,
+    "ru": "Эта женщина чувствует себя очень удивленной?",
+    "en": "Does this woman feel very surprised?"
+  },
+  {
+    "_id": 86,
+    "ru": "Твой учитель указывает на твои ошибки?",
+    "en": "Does your teacher point out your mistakes?"
+  },
+  {
+    "_id": 87,
+    "ru": "Твоему другу нравится идея твоего брата?",
+    "en": "Does your friend like your brother's idea?"
+  },
+  {
+    "_id": 88,
+    "ru": "Этот пример действительно вдохновляет тебя?",
+    "en": "Does this example really inspire you?"
+  },
+  {
+    "_id": 89,
+    "ru": "Деньги играют очень важную роль?",
+    "en": "Does money play a very important role?"
+  },
+  {
+    "_id": 90,
+    "ru": "Твой знакомый рекомендует это?",
+    "en": "Does your acquaintance recommend it?"
+  },
+  {
+    "_id": 91,
+    "ru": "Эти женщины очень удивлены?",
+    "en": "Do these women feel very surprised?"
+  }
 ]

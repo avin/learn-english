@@ -1,66 +1,82 @@
 [
-  [
-    "От чего зависит успех?",
-    "What does success depend on?"
-  ],
-  [
-    "Она сказала, что уже разрезала торт",
-    "She said that she had already cut the cake"
-  ],
-  [
-    "Это сообщалось в новостях",
-    "It was reported in the news"
-  ],
-  [
-    "Эта проблема касается всех нас сейчас",
-    "This problem concerns all of us now"
-  ],
-  [
-    "Насколько я знаю, он сейчас проходит этот курс",
-    "As far as I know, he's currently doing this course"
-  ],
-  [
-    "Написано, что это было сделано в Японии",
-    "It's written that it was made in Japan"
-  ],
-  [
-    "Я не могу понять, над чем ты смеешься",
-    "I can't understand what you're laughing at"
-  ],
-  [
-    "Это не покажут по телевизору",
-    "It won't be shown on TV"
-  ],
-  [
-    "Я окончил университет очень давно",
-    "I graduated from university a very long time ago"
-  ],
-  [
-    "Сообщили, что его деньги украли",
-    "It was reported that his money had been stolen"
-  ],
-  [
-    "Конференция будет организована в следующем месяце",
-    "The conference will be organized next month"
-  ],
-  [
-    "Эта информация только что была подтверждена",
-    "This information had just been confirmed"
-  ],
-  [
-    "Монастырь сейчас восстанавливается",
-    "The monastery is being rebuilt now"
-  ],
-  [
-    "Я действительно не помню, как все это начиналось",
-    "I don't really remember how it all began"
-  ],
-  [
-    "Всю еду только что съели",
-    "All the food has just been eaten"
-  ],
-  [
-    "Она только что умыла лицо",
-    "She's just washed her face"
-  ]
+  {
+    "_id": 1,
+    "ru": "От чего зависит успех?",
+    "en": "What does success depend on?"
+  },
+  {
+    "_id": 2,
+    "ru": "Она сказала, что уже разрезала торт",
+    "en": "She said that she had already cut the cake"
+  },
+  {
+    "_id": 3,
+    "ru": "Это сообщалось в новостях",
+    "en": "It was reported in the news"
+  },
+  {
+    "_id": 4,
+    "ru": "Эта проблема касается всех нас сейчас",
+    "en": "This problem concerns all of us now"
+  },
+  {
+    "_id": 5,
+    "ru": "Насколько я знаю, он сейчас проходит этот курс",
+    "en": "As far as I know, he's currently doing this course"
+  },
+  {
+    "_id": 6,
+    "ru": "Написано, что это было сделано в Японии",
+    "en": "It's written that it was made in Japan"
+  },
+  {
+    "_id": 7,
+    "ru": "Я не могу понять, над чем ты смеешься",
+    "en": "I can't understand what you're laughing at"
+  },
+  {
+    "_id": 8,
+    "ru": "Это не покажут по телевизору",
+    "en": "It won't be shown on TV"
+  },
+  {
+    "_id": 9,
+    "ru": "Я окончил университет очень давно",
+    "en": "I graduated from university a very long time ago"
+  },
+  {
+    "_id": 10,
+    "ru": "Сообщили, что его деньги украли",
+    "en": "It was reported that his money had been stolen"
+  },
+  {
+    "_id": 11,
+    "ru": "Конференция будет организована в следующем месяце",
+    "en": "The conference will be organized next month"
+  },
+  {
+    "_id": 12,
+    "ru": "Эта информация только что была подтверждена",
+    "en": "This information had just been confirmed"
+  },
+  {
+    "_id": 13,
+    "ru": "Монастырь сейчас восстанавливается",
+    "en": "The monastery is being rebuilt now"
+  },
+  {
+    "_id": 14,
+    "ru": "Я действительно не помню, как все это начиналось",
+    "en": "I don't really remember how it all began"
+  },
+  {
+    "_id": 15,
+    "ru": "Всю еду только что съели",
+    "en": "All the food has just been eaten"
+  },
+  {
+    "_id": 16,
+    "ru": "Она только что умыла лицо",
+    "en": "She's just washed her face"
+  }
 ]

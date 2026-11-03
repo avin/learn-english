@@ -1,50 +1,62 @@
 [
-  [
-    "Что касается меня, я никогда не интересовался этим",
-    "As far as I'm concerned, I have never been interested in it"
-  ],
-  [
-    "Я должен добавить, что я всегда увлекался музыкой",
-    "I have to add that I've always been keen on music"
-  ],
-  [
-    "Я полностью разделяю твою точку зрения",
-    "I totally share your point of view"
-  ],
-  [
-    "Как мне кажется, игра не стоит свеч",
-    "As it seems to me, the game is not worth the candle"
-  ],
-  [
-    "Я не совсем уверен в этом",
-    "I am not quite sure about it"
-  ],
-  [
-    "Я полностью согласен с тобой по этому вопросу",
-    "I fully agree with you on this issue"
-  ],
-  [
-    "Мне пришла в голову одна блестящая идея",
-    "I came up with one brilliant idea"
-  ],
-  [
-    "Что касается меня, я всегда обращал на это внимание",
-    "As far as I'm concerned, I've always paid attention to it"
-  ],
-  [
-    "Мне пришла в голову совершенно гениальная идея",
-    "I came up with an absolutely brilliant idea"
-  ],
-  [
-    "Я не совсем уверен, что игра стоит свеч",
-    "I am not quite sure that the game is worth the candle"
-  ],
-  [
-    "Я не совсем уверен в этом (2)",
-    "I am not entirely sure about it"
-  ],
-  [
-    "С одной стороны, я бы очень хотел записаться на тот курс",
-    "On the one hand, I'd really like to enrol in that course"
-  ]
+  {
+    "_id": 1,
+    "ru": "Что касается меня, я никогда не интересовался этим",
+    "en": "As far as I'm concerned, I have never been interested in it"
+  },
+  {
+    "_id": 2,
+    "ru": "Я должен добавить, что я всегда увлекался музыкой",
+    "en": "I have to add that I've always been keen on music"
+  },
+  {
+    "_id": 3,
+    "ru": "Я полностью разделяю твою точку зрения",
+    "en": "I totally share your point of view"
+  },
+  {
+    "_id": 4,
+    "ru": "Как мне кажется, игра не стоит свеч",
+    "en": "As it seems to me, the game is not worth the candle"
+  },
+  {
+    "_id": 5,
+    "ru": "Я не совсем уверен в этом",
+    "en": "I am not quite sure about it"
+  },
+  {
+    "_id": 6,
+    "ru": "Я полностью согласен с тобой по этому вопросу",
+    "en": "I fully agree with you on this issue"
+  },
+  {
+    "_id": 7,
+    "ru": "Мне пришла в голову одна блестящая идея",
+    "en": "I came up with one brilliant idea"
+  },
+  {
+    "_id": 8,
+    "ru": "Что касается меня, я всегда обращал на это внимание",
+    "en": "As far as I'm concerned, I've always paid attention to it"
+  },
+  {
+    "_id": 9,
+    "ru": "Мне пришла в голову совершенно гениальная идея",
+    "en": "I came up with an absolutely brilliant idea"
+  },
+  {
+    "_id": 10,
+    "ru": "Я не совсем уверен, что игра стоит свеч",
+    "en": "I am not quite sure that the game is worth the candle"
+  },
+  {
+    "_id": 11,
+    "ru": "Я не совсем уверен в этом (2)",
+    "en": "I am not entirely sure about it"
+  },
+  {
+    "_id": 12,
+    "ru": "С одной стороны, я бы очень хотел записаться на тот курс",
+    "en": "On the one hand, I'd really like to enrol in that course"
+  }
 ]

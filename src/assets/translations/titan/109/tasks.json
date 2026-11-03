@@ -1,394 +1,492 @@
 [
-  [
-    "Я начал искать новую работу",
-    "I started looking for a new job"
-  ],
-  [
-    "Я часто смотрю на этот новый дом",
-    "I often look at this new house"
-  ],
-  [
-    "Подожди немного!",
-    "Hold on a bit!"
-  ],
-  [
-    "Она отсутствует в данный момент",
-    "She's out at the moment"
-  ],
-  [
-    "Я хотел бы примерить эту рубашку",
-    "I'd like to try on this shirt"
-  ],
-  [
-    "Я обдумаю это",
-    "I'll think it over"
-  ],
-  [
-    "Его машина внезапно сломалась",
-    "His car broke down suddenly"
-  ],
-  [
-    "Я проверю это в шесть часов вечера",
-    "I'll check it at six o'clock in the evening"
-  ],
-  [
-    "Она хотела бы примерить это платье",
-    "She'd like to try on this dress"
-  ],
-  [
-    "Она сняла свою шляпу",
-    "She took off her hat"
-  ],
-  [
-    "Мне нужно правильно заполнить эти документы",
-    "I need to fill in these documents correctly"
-  ],
-  [
-    "Ее мать отсутствует",
-    "Her mother is out"
-  ],
-  [
-    "Я встал очень рано",
-    "I got up very early"
-  ],
-  [
-    "Тебе нужно заполнить эту форму",
-    "You need to fill in this form"
-  ],
-  [
-    "Во сколько она обычно встает?",
-    "What time does she usually get up?"
-  ],
-  [
-    "Ему нужно обдумать это",
-    "He needs to think it over"
-  ],
-  [
-    "Мои родители в отъезде",
-    "My parents are away"
-  ],
-  [
-    "Заполнить форму",
-    "Fill in the form"
-  ],
-  [
-    "Могу я это примерить?",
-    "Can I try it on?"
-  ],
-  [
-    "Она вышла",
-    "She went out"
-  ],
-  [
-    "Он вышел",
-    "He is out"
-  ],
-  [
-    "Во сколько он обычно просыпается?",
-    "What time does he usually wake up?"
-  ],
-  [
-    "Он вырос в маленьком городке",
-    "He grew up in a small town"
-  ],
-  [
-    "В какое время ты будешь регистрироваться?",
-    "What time will you check in?"
-  ],
-  [
-    "Он надел свитер",
-    "He put on a sweater"
-  ],
-  [
-    "Его отец ушел",
-    "His father went away"
-  ],
-  [
-    "Подожди минуту!",
-    "Hold on a minute!"
-  ],
-  [
-    "Я с нетерпением жду нашей встречи",
-    "I look forward to our meeting"
-  ],
-  [
-    "Я хотел бы примерить эту футболку",
-    "I'd like to try on this T-shirt"
-  ],
-  [
-    "Он снял свое пальто",
-    "He took off his coat"
-  ],
-  [
-    "Он вырос в Канаде",
-    "He grew up in Canada"
-  ],
-  [
-    "Эта машина часто ломается",
-    "This car often breaks down"
-  ],
-  [
-    "Во сколько ты будешь выписываться?",
-    "What time will you check out?"
-  ],
-  [
-    "Я надел теплое пальто",
-    "I put on a warm coat"
-  ],
-  [
-    "Он ушел",
-    "He went - out"
-  ],
-  [
-    "Я снял куртку",
-    "I took off my jacket"
-  ],
-  [
-    "Я надел свою обувь",
-    "I put on my shoes"
-  ],
-  [
-    "Я с нетерпением жду твоего ответа",
-    "I look forward to your answer"
-  ],
-  [
-    "Подожди секунду!",
-    "Hold on a second!"
-  ],
-  [
-    "Она выросла в Соединенных Штатах",
-    "She grew up in the United States"
-  ],
-  [
-    "Мы выпишемся в одиннадцать часов утра",
-    "We'll check out at eleven o'clock in the morning"
-  ],
-  [
-    "Я хотел бы примерить это",
-    "I'd like to try it on"
-  ],
-  [
-    "Они решили расстаться",
-    "They decided to break up"
-  ],
-  [
-    "Я хотел бы выяснить, что с этим делать",
-    "I'd like to figure out what to do with it"
-  ],
-  [
-    "Ты можешь посмотреть это в словаре",
-    "You can look it up in a dictionary"
-  ],
-  [
-    "Составь свои собственные предложения",
-    "Make up your own sentences"
-  ],
-  [
-    "Я не могу выяснить, как это работает",
-    "I can't figure out how it works"
-  ],
-  [
-    "Они внезапно отменили конференцию",
-    "They called off the conference all of a sudden"
-  ],
-  [
-    "Мне нужно как-то разобраться с этой проблемой",
-    "I need to sort out this problem somehow"
-  ],
-  [
-    "Он не может продолжать это делать",
-    "He can't go on doing it"
-  ],
-  [
-    "Я с нетерпением жду посещения этого места",
-    "I look forward to visiting this place"
-  ],
-  [
-    "Мне нужно некоторое время чтобы обдумать это",
-    "I need some time to think it over"
-  ],
-  [
-    "Я хотел бы продолжать это делать",
-    "I'd like to go on doing it"
-  ],
-  [
-    "Я посмотрю это слово в словаре",
-    "I'll look up this word in a dictionary"
-  ],
-  [
-    "Я разберусь с этой проблемой",
-    "I'll sort out this problem"
-  ],
-  [
-    "Тебе следует разобраться с этой проблемой",
-    "You should sort out this problem"
-  ],
-  [
-    "Я разберусь со своими проблемами",
-    "I'll sort out my problems"
-  ],
-  [
-    "Ты можешь посмотреть это слово в словаре",
-    "You can look up this word in a dictionary"
-  ],
-  [
-    "Ей нужно посмотреть эти слова в словаре",
-    "She needs to look up these words in a dictionary"
-  ],
-  [
-    "Ты посмотрел это слово в словаре?",
-    "Did you look up this word in a dictionary?"
-  ],
-  [
-    "Давай продолжим говорить об этом",
-    "Let's go on talking about it"
-  ],
-  [
-    "Давай продолжим делать это",
-    "Let's go on doing it"
-  ],
-  [
-    "Давай поговорим об этом!",
-    "Let's talk about it!"
-  ],
-  [
-    "Я постараюсь разобраться с этой проблемой",
-    "I'll try to sort out this problem"
-  ],
-  [
-    "Она постарается разобраться с этой проблемой?",
-    "Will she try to sort out this problem?"
-  ],
-  [
-    "Я постараюсь разобраться с этими трудностями",
-    "I'll try to sort out these difficulties"
-  ],
-  [
-    "Он бросил пить алкоголь",
-    "He gave up drinking alcohol"
-  ],
-  [
-    "Он бросил курить",
-    "He gave up smoking"
-  ],
-  [
-    "Она бросила курить?",
-    "Did she give up smoking?"
-  ],
-  [
-    "Нам нужно составить наши собственные предложения",
-    "We need to make up our own sentences"
-  ],
-  [
-    "Тебе нужно составить несколько новых предложений",
-    "You need to make up some new sentences"
-  ],
-  [
-    "Мне нужно составить свои собственные предложения",
-    "I need to make up my own sentences"
-  ],
-  [
-    "Он бросил есть сахар",
-    "He gave up eating sugar"
-  ],
-  [
-    "Он бросил пить кофе",
-    "He gave up drinking coffee"
-  ],
-  [
-    "Он сказал мне немного подождать",
-    "He told me to hold on a little"
-  ],
-  [
-    "Он сказал тебе подождать?",
-    "Did he tell you to hold on?"
-  ],
-  [
-    "Он попросил меня немного подождать",
-    "He asked me to hold on a little"
-  ],
-  [
-    "Я вошел в систему, а затем я вышел",
-    "I logged in and then I logged out"
-  ],
-  [
-    "Я вошел в систему некоторое время назад",
-    "I logged in some time ago"
-  ],
-  [
-    "Я вышел из системы некоторое время назад",
-    "I logged out some time ago"
-  ],
-  [
-    "Я не могу выяснить, как это сделать",
-    "I can't figure out how to do it"
-  ],
-  [
-    "Мне нужно выяснить, как это сделать",
-    "I need to figure out how to do it"
-  ],
-  [
-    "Я выясню, как это сделать",
-    "I will figure out how to do it"
-  ],
-  [
-    "Я с нетерпением жду поездки в Соединенные Штаты",
-    "I look forward to going to the United States"
-  ],
-  [
-    "Я посмотрю это в словаре",
-    "I'll look it up in a dictionary"
-  ],
-  [
-    "Он продолжал объяснять это",
-    "He went on explaining it"
-  ],
-  [
-    "Он решил бросить курить",
-    "He decided to give up smoking"
-  ],
-  [
-    "Я не могу понять, что делать дальше",
-    "I can't figure out what to do next"
-  ],
-  [
-    "Почему они расстались?",
-    "Why did they break up?"
-  ],
-  [
-    "Он отменил встречу",
-    "He called off the meeting"
-  ],
-  [
-    "Игра окончена",
-    "The game is over"
-  ],
-  [
-    "Я посмотрю это выражение в словаре",
-    "I'll look up this expression in a dictionary"
-  ],
-  [
-    "Я хочу продолжать изучать английский здесь",
-    "I want to go on learning English here"
-  ],
-  [
-    "Продолжай говорить!",
-    "Go on talking!"
-  ],
-  [
-    "Мне нужно войти в систему",
-    "I need to log in"
-  ],
-  [
-    "Игра закончена",
-    "Game over"
-  ],
-  [
-    "Урок закончен",
-    "The lesson is over"
-  ],
-  [
-    "Они разошлись",
-    "They broke up"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я начал искать новую работу",
+    "en": "I started looking for a new job"
+  },
+  {
+    "_id": 2,
+    "ru": "Я часто смотрю на этот новый дом",
+    "en": "I often look at this new house"
+  },
+  {
+    "_id": 3,
+    "ru": "Подожди немного!",
+    "en": "Hold on a bit!"
+  },
+  {
+    "_id": 4,
+    "ru": "Она отсутствует в данный момент",
+    "en": "She's out at the moment"
+  },
+  {
+    "_id": 5,
+    "ru": "Я хотел бы примерить эту рубашку",
+    "en": "I'd like to try on this shirt"
+  },
+  {
+    "_id": 6,
+    "ru": "Я обдумаю это",
+    "en": "I'll think it over"
+  },
+  {
+    "_id": 7,
+    "ru": "Его машина внезапно сломалась",
+    "en": "His car broke down suddenly"
+  },
+  {
+    "_id": 8,
+    "ru": "Я проверю это в шесть часов вечера",
+    "en": "I'll check it at six o'clock in the evening"
+  },
+  {
+    "_id": 9,
+    "ru": "Она хотела бы примерить это платье",
+    "en": "She'd like to try on this dress"
+  },
+  {
+    "_id": 10,
+    "ru": "Она сняла свою шляпу",
+    "en": "She took off her hat"
+  },
+  {
+    "_id": 11,
+    "ru": "Мне нужно правильно заполнить эти документы",
+    "en": "I need to fill in these documents correctly"
+  },
+  {
+    "_id": 12,
+    "ru": "Ее мать отсутствует",
+    "en": "Her mother is out"
+  },
+  {
+    "_id": 13,
+    "ru": "Я встал очень рано",
+    "en": "I got up very early"
+  },
+  {
+    "_id": 14,
+    "ru": "Тебе нужно заполнить эту форму",
+    "en": "You need to fill in this form"
+  },
+  {
+    "_id": 15,
+    "ru": "Во сколько она обычно встает?",
+    "en": "What time does she usually get up?"
+  },
+  {
+    "_id": 16,
+    "ru": "Ему нужно обдумать это",
+    "en": "He needs to think it over"
+  },
+  {
+    "_id": 17,
+    "ru": "Мои родители в отъезде",
+    "en": "My parents are away"
+  },
+  {
+    "_id": 18,
+    "ru": "Заполнить форму",
+    "en": "Fill in the form"
+  },
+  {
+    "_id": 19,
+    "ru": "Могу я это примерить?",
+    "en": "Can I try it on?"
+  },
+  {
+    "_id": 20,
+    "ru": "Она вышла",
+    "en": "She went out"
+  },
+  {
+    "_id": 21,
+    "ru": "Он вышел",
+    "en": "He is out"
+  },
+  {
+    "_id": 22,
+    "ru": "Во сколько он обычно просыпается?",
+    "en": "What time does he usually wake up?"
+  },
+  {
+    "_id": 23,
+    "ru": "Он вырос в маленьком городке",
+    "en": "He grew up in a small town"
+  },
+  {
+    "_id": 24,
+    "ru": "В какое время ты будешь регистрироваться?",
+    "en": "What time will you check in?"
+  },
+  {
+    "_id": 25,
+    "ru": "Он надел свитер",
+    "en": "He put on a sweater"
+  },
+  {
+    "_id": 26,
+    "ru": "Его отец ушел",
+    "en": "His father went away"
+  },
+  {
+    "_id": 27,
+    "ru": "Подожди минуту!",
+    "en": "Hold on a minute!"
+  },
+  {
+    "_id": 28,
+    "ru": "Я с нетерпением жду нашей встречи",
+    "en": "I look forward to our meeting"
+  },
+  {
+    "_id": 29,
+    "ru": "Я хотел бы примерить эту футболку",
+    "en": "I'd like to try on this T-shirt"
+  },
+  {
+    "_id": 30,
+    "ru": "Он снял свое пальто",
+    "en": "He took off his coat"
+  },
+  {
+    "_id": 31,
+    "ru": "Он вырос в Канаде",
+    "en": "He grew up in Canada"
+  },
+  {
+    "_id": 32,
+    "ru": "Эта машина часто ломается",
+    "en": "This car often breaks down"
+  },
+  {
+    "_id": 33,
+    "ru": "Во сколько ты будешь выписываться?",
+    "en": "What time will you check out?"
+  },
+  {
+    "_id": 34,
+    "ru": "Я надел теплое пальто",
+    "en": "I put on a warm coat"
+  },
+  {
+    "_id": 35,
+    "ru": "Он ушел",
+    "en": "He went - out"
+  },
+  {
+    "_id": 36,
+    "ru": "Я снял куртку",
+    "en": "I took off my jacket"
+  },
+  {
+    "_id": 37,
+    "ru": "Я надел свою обувь",
+    "en": "I put on my shoes"
+  },
+  {
+    "_id": 38,
+    "ru": "Я с нетерпением жду твоего ответа",
+    "en": "I look forward to your answer"
+  },
+  {
+    "_id": 39,
+    "ru": "Подожди секунду!",
+    "en": "Hold on a second!"
+  },
+  {
+    "_id": 40,
+    "ru": "Она выросла в Соединенных Штатах",
+    "en": "She grew up in the United States"
+  },
+  {
+    "_id": 41,
+    "ru": "Мы выпишемся в одиннадцать часов утра",
+    "en": "We'll check out at eleven o'clock in the morning"
+  },
+  {
+    "_id": 42,
+    "ru": "Я хотел бы примерить это",
+    "en": "I'd like to try it on"
+  },
+  {
+    "_id": 43,
+    "ru": "Они решили расстаться",
+    "en": "They decided to break up"
+  },
+  {
+    "_id": 44,
+    "ru": "Я хотел бы выяснить, что с этим делать",
+    "en": "I'd like to figure out what to do with it"
+  },
+  {
+    "_id": 45,
+    "ru": "Ты можешь посмотреть это в словаре",
+    "en": "You can look it up in a dictionary"
+  },
+  {
+    "_id": 46,
+    "ru": "Составь свои собственные предложения",
+    "en": "Make up your own sentences"
+  },
+  {
+    "_id": 47,
+    "ru": "Я не могу выяснить, как это работает",
+    "en": "I can't figure out how it works"
+  },
+  {
+    "_id": 48,
+    "ru": "Они внезапно отменили конференцию",
+    "en": "They called off the conference all of a sudden"
+  },
+  {
+    "_id": 49,
+    "ru": "Мне нужно как-то разобраться с этой проблемой",
+    "en": "I need to sort out this problem somehow"
+  },
+  {
+    "_id": 50,
+    "ru": "Он не может продолжать это делать",
+    "en": "He can't go on doing it"
+  },
+  {
+    "_id": 51,
+    "ru": "Я с нетерпением жду посещения этого места",
+    "en": "I look forward to visiting this place"
+  },
+  {
+    "_id": 52,
+    "ru": "Мне нужно некоторое время чтобы обдумать это",
+    "en": "I need some time to think it over"
+  },
+  {
+    "_id": 53,
+    "ru": "Я хотел бы продолжать это делать",
+    "en": "I'd like to go on doing it"
+  },
+  {
+    "_id": 54,
+    "ru": "Я посмотрю это слово в словаре",
+    "en": "I'll look up this word in a dictionary"
+  },
+  {
+    "_id": 55,
+    "ru": "Я разберусь с этой проблемой",
+    "en": "I'll sort out this problem"
+  },
+  {
+    "_id": 56,
+    "ru": "Тебе следует разобраться с этой проблемой",
+    "en": "You should sort out this problem"
+  },
+  {
+    "_id": 57,
+    "ru": "Я разберусь со своими проблемами",
+    "en": "I'll sort out my problems"
+  },
+  {
+    "_id": 58,
+    "ru": "Ты можешь посмотреть это слово в словаре",
+    "en": "You can look up this word in a dictionary"
+  },
+  {
+    "_id": 59,
+    "ru": "Ей нужно посмотреть эти слова в словаре",
+    "en": "She needs to look up these words in a dictionary"
+  },
+  {
+    "_id": 60,
+    "ru": "Ты посмотрел это слово в словаре?",
+    "en": "Did you look up this word in a dictionary?"
+  },
+  {
+    "_id": 61,
+    "ru": "Давай продолжим говорить об этом",
+    "en": "Let's go on talking about it"
+  },
+  {
+    "_id": 62,
+    "ru": "Давай продолжим делать это",
+    "en": "Let's go on doing it"
+  },
+  {
+    "_id": 63,
+    "ru": "Давай поговорим об этом!",
+    "en": "Let's talk about it!"
+  },
+  {
+    "_id": 64,
+    "ru": "Я постараюсь разобраться с этой проблемой",
+    "en": "I'll try to sort out this problem"
+  },
+  {
+    "_id": 65,
+    "ru": "Она постарается разобраться с этой проблемой?",
+    "en": "Will she try to sort out this problem?"
+  },
+  {
+    "_id": 66,
+    "ru": "Я постараюсь разобраться с этими трудностями",
+    "en": "I'll try to sort out these difficulties"
+  },
+  {
+    "_id": 67,
+    "ru": "Он бросил пить алкоголь",
+    "en": "He gave up drinking alcohol"
+  },
+  {
+    "_id": 68,
+    "ru": "Он бросил курить",
+    "en": "He gave up smoking"
+  },
+  {
+    "_id": 69,
+    "ru": "Она бросила курить?",
+    "en": "Did she give up smoking?"
+  },
+  {
+    "_id": 70,
+    "ru": "Нам нужно составить наши собственные предложения",
+    "en": "We need to make up our own sentences"
+  },
+  {
+    "_id": 71,
+    "ru": "Тебе нужно составить несколько новых предложений",
+    "en": "You need to make up some new sentences"
+  },
+  {
+    "_id": 72,
+    "ru": "Мне нужно составить свои собственные предложения",
+    "en": "I need to make up my own sentences"
+  },
+  {
+    "_id": 73,
+    "ru": "Он бросил есть сахар",
+    "en": "He gave up eating sugar"
+  },
+  {
+    "_id": 74,
+    "ru": "Он бросил пить кофе",
+    "en": "He gave up drinking coffee"
+  },
+  {
+    "_id": 75,
+    "ru": "Он сказал мне немного подождать",
+    "en": "He told me to hold on a little"
+  },
+  {
+    "_id": 76,
+    "ru": "Он сказал тебе подождать?",
+    "en": "Did he tell you to hold on?"
+  },
+  {
+    "_id": 77,
+    "ru": "Он попросил меня немного подождать",
+    "en": "He asked me to hold on a little"
+  },
+  {
+    "_id": 78,
+    "ru": "Я вошел в систему, а затем я вышел",
+    "en": "I logged in and then I logged out"
+  },
+  {
+    "_id": 79,
+    "ru": "Я вошел в систему некоторое время назад",
+    "en": "I logged in some time ago"
+  },
+  {
+    "_id": 80,
+    "ru": "Я вышел из системы некоторое время назад",
+    "en": "I logged out some time ago"
+  },
+  {
+    "_id": 81,
+    "ru": "Я не могу выяснить, как это сделать",
+    "en": "I can't figure out how to do it"
+  },
+  {
+    "_id": 82,
+    "ru": "Мне нужно выяснить, как это сделать",
+    "en": "I need to figure out how to do it"
+  },
+  {
+    "_id": 83,
+    "ru": "Я выясню, как это сделать",
+    "en": "I will figure out how to do it"
+  },
+  {
+    "_id": 84,
+    "ru": "Я с нетерпением жду поездки в Соединенные Штаты",
+    "en": "I look forward to going to the United States"
+  },
+  {
+    "_id": 85,
+    "ru": "Я посмотрю это в словаре",
+    "en": "I'll look it up in a dictionary"
+  },
+  {
+    "_id": 86,
+    "ru": "Он продолжал объяснять это",
+    "en": "He went on explaining it"
+  },
+  {
+    "_id": 87,
+    "ru": "Он решил бросить курить",
+    "en": "He decided to give up smoking"
+  },
+  {
+    "_id": 88,
+    "ru": "Я не могу понять, что делать дальше",
+    "en": "I can't figure out what to do next"
+  },
+  {
+    "_id": 89,
+    "ru": "Почему они расстались?",
+    "en": "Why did they break up?"
+  },
+  {
+    "_id": 90,
+    "ru": "Он отменил встречу",
+    "en": "He called off the meeting"
+  },
+  {
+    "_id": 91,
+    "ru": "Игра окончена",
+    "en": "The game is over"
+  },
+  {
+    "_id": 92,
+    "ru": "Я посмотрю это выражение в словаре",
+    "en": "I'll look up this expression in a dictionary"
+  },
+  {
+    "_id": 93,
+    "ru": "Я хочу продолжать изучать английский здесь",
+    "en": "I want to go on learning English here"
+  },
+  {
+    "_id": 94,
+    "ru": "Продолжай говорить!",
+    "en": "Go on talking!"
+  },
+  {
+    "_id": 95,
+    "ru": "Мне нужно войти в систему",
+    "en": "I need to log in"
+  },
+  {
+    "_id": 96,
+    "ru": "Игра закончена",
+    "en": "Game over"
+  },
+  {
+    "_id": 97,
+    "ru": "Урок закончен",
+    "en": "The lesson is over"
+  },
+  {
+    "_id": 98,
+    "ru": "Они разошлись",
+    "en": "They broke up"
+  }
 ]

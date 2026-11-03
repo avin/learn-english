@@ -1,214 +1,267 @@
 [
-  [
-    "Он был на концерте?",
-    "Was he at the concert?"
-  ],
-  [
-    "Это было интересно или нет?",
-    "Was it interesting or not?"
-  ],
-  [
-    "Это было проблемой для тебя?",
-    "Was it a problem for you?"
-  ],
-  [
-    "Это было действительно так сложно?",
-    "Was it really so difficult?"
-  ],
-  [
-    "Что было на полу?",
-    "What was on the floor?"
-  ],
-  [
-    "Это было важно или нет?",
-    "Was it important or not?"
-  ],
-  [
-    "Он был онлайн?",
-    "Was he online?"
-  ],
-  [
-    "Это было действительно важно?",
-    "Was it really important?"
-  ],
-  [
-    "Ты был занят?",
-    "Were you busy?"
-  ],
-  [
-    "Что было в коробке?",
-    "What was in the box?"
-  ],
-  [
-    "Где ты был?",
-    "Where were you?"
-  ],
-  [
-    "Вы были вместе?",
-    "Were you together?"
-  ],
-  [
-    "Почему это было так эффективно?",
-    "Why was it so effective?"
-  ],
-  [
-    "Где ты был утром?",
-    "Where were you in the morning?"
-  ],
-  [
-    "Это было действительно так скучно?",
-    "Was it really so boring?"
-  ],
-  [
-    "Он был действительно зол?",
-    "Was he really angry?"
-  ],
-  [
-    "Ты был действительно уверен?",
-    "Were you really sure?"
-  ],
-  [
-    "Почему это было так дорого?",
-    "Why was it so expensive?"
-  ],
-  [
-    "Где ты купил эту вещь?",
-    "Where did you buy this thing?"
-  ],
-  [
-    "Это было лучше?",
-    "Was it better?"
-  ],
-  [
-    "Почему это было так медленно?",
-    "Why was it so slow?"
-  ],
-  [
-    "Он был на вечеринке?",
-    "Was he at the party?"
-  ],
-  [
-    "Что было в той коробке?",
-    "What was in that box?"
-  ],
-  [
-    "Это было бесплатно?",
-    "Was it free?"
-  ],
-  [
-    "Когда ты был там последний раз?",
-    "When were you there last time?"
-  ],
-  [
-    "Они были на пляже?",
-    "Were they at the beach?"
-  ],
-  [
-    "Как ты скачал эту программу?",
-    "How did you download this program?"
-  ],
-  [
-    "Как ты скачал это?",
-    "How did you download it?"
-  ],
-  [
-    "Это было действительно так важно?",
-    "Was it really so important?"
-  ],
-  [
-    "Что было действительно важно?",
-    "What was really important?"
-  ],
-  [
-    "Сколько это стоило?",
-    "How much was it?"
-  ],
-  [
-    "Вы были на пляже?",
-    "Were you at the beach?"
-  ],
-  [
-    "Кто там был?",
-    "Who was there?"
-  ],
-  [
-    "Это было действительно так эффективно?",
-    "Was it really so effective?"
-  ],
-  [
-    "Он был с тобой?",
-    "Was he with you?"
-  ],
-  [
-    "Что было на письменном столе?",
-    "What was on the desk?"
-  ],
-  [
-    "Что было такого странного?",
-    "What was so strange?"
-  ],
-  [
-    "Ты был на этой вечеринке?",
-    "Were you at this party?"
-  ],
-  [
-    "Ты был на концерте?",
-    "Were you at the concert?"
-  ],
-  [
-    "Кто был прав?",
-    "Who was right?"
-  ],
-  [
-    "Она была действительно рассержена?",
-    "Was she really angry?"
-  ],
-  [
-    "Где ты был вечером?",
-    "Where were you in the evening?"
-  ],
-  [
-    "Это было проблемой?",
-    "Was it a problem?"
-  ],
-  [
-    "Где ты был днем?",
-    "Where were you in the afternoon?"
-  ],
-  [
-    "Я был прав?",
-    "Was I right?"
-  ],
-  [
-    "Ты был в Англии в прошлом году?",
-    "Were you in England last year?"
-  ],
-  [
-    "Что было в этой коробке?",
-    "What was in this box?"
-  ],
-  [
-    "Что было на столе?",
-    "What was on the table?"
-  ],
-  [
-    "Ты был онлайн?",
-    "Were you online?"
-  ],
-  [
-    "Где он был?",
-    "Where was he?"
-  ],
-  [
-    "Ты был занят вчера?",
-    "Were you busy yesterday?"
-  ],
-  [
-    "Он был действительно прав?",
-    "Was he really right?"
-  ],
-  [
-    "Почему это было так дешево?",
-    "Why was it so cheap?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Он был на концерте?",
+    "en": "Was he at the concert?"
+  },
+  {
+    "_id": 2,
+    "ru": "Это было интересно или нет?",
+    "en": "Was it interesting or not?"
+  },
+  {
+    "_id": 3,
+    "ru": "Это было проблемой для тебя?",
+    "en": "Was it a problem for you?"
+  },
+  {
+    "_id": 4,
+    "ru": "Это было действительно так сложно?",
+    "en": "Was it really so difficult?"
+  },
+  {
+    "_id": 5,
+    "ru": "Что было на полу?",
+    "en": "What was on the floor?"
+  },
+  {
+    "_id": 6,
+    "ru": "Это было важно или нет?",
+    "en": "Was it important or not?"
+  },
+  {
+    "_id": 7,
+    "ru": "Он был онлайн?",
+    "en": "Was he online?"
+  },
+  {
+    "_id": 8,
+    "ru": "Это было действительно важно?",
+    "en": "Was it really important?"
+  },
+  {
+    "_id": 9,
+    "ru": "Ты был занят?",
+    "en": "Were you busy?"
+  },
+  {
+    "_id": 10,
+    "ru": "Что было в коробке?",
+    "en": "What was in the box?"
+  },
+  {
+    "_id": 11,
+    "ru": "Где ты был?",
+    "en": "Where were you?"
+  },
+  {
+    "_id": 12,
+    "ru": "Вы были вместе?",
+    "en": "Were you together?"
+  },
+  {
+    "_id": 13,
+    "ru": "Почему это было так эффективно?",
+    "en": "Why was it so effective?"
+  },
+  {
+    "_id": 14,
+    "ru": "Где ты был утром?",
+    "en": "Where were you in the morning?"
+  },
+  {
+    "_id": 15,
+    "ru": "Это было действительно так скучно?",
+    "en": "Was it really so boring?"
+  },
+  {
+    "_id": 16,
+    "ru": "Он был действительно зол?",
+    "en": "Was he really angry?"
+  },
+  {
+    "_id": 17,
+    "ru": "Ты был действительно уверен?",
+    "en": "Were you really sure?"
+  },
+  {
+    "_id": 18,
+    "ru": "Почему это было так дорого?",
+    "en": "Why was it so expensive?"
+  },
+  {
+    "_id": 19,
+    "ru": "Где ты купил эту вещь?",
+    "en": "Where did you buy this thing?"
+  },
+  {
+    "_id": 20,
+    "ru": "Это было лучше?",
+    "en": "Was it better?"
+  },
+  {
+    "_id": 21,
+    "ru": "Почему это было так медленно?",
+    "en": "Why was it so slow?"
+  },
+  {
+    "_id": 22,
+    "ru": "Он был на вечеринке?",
+    "en": "Was he at the party?"
+  },
+  {
+    "_id": 23,
+    "ru": "Что было в той коробке?",
+    "en": "What was in that box?"
+  },
+  {
+    "_id": 24,
+    "ru": "Это было бесплатно?",
+    "en": "Was it free?"
+  },
+  {
+    "_id": 25,
+    "ru": "Когда ты был там последний раз?",
+    "en": "When were you there last time?"
+  },
+  {
+    "_id": 26,
+    "ru": "Они были на пляже?",
+    "en": "Were they at the beach?"
+  },
+  {
+    "_id": 27,
+    "ru": "Как ты скачал эту программу?",
+    "en": "How did you download this program?"
+  },
+  {
+    "_id": 28,
+    "ru": "Как ты скачал это?",
+    "en": "How did you download it?"
+  },
+  {
+    "_id": 29,
+    "ru": "Это было действительно так важно?",
+    "en": "Was it really so important?"
+  },
+  {
+    "_id": 30,
+    "ru": "Что было действительно важно?",
+    "en": "What was really important?"
+  },
+  {
+    "_id": 31,
+    "ru": "Сколько это стоило?",
+    "en": "How much was it?"
+  },
+  {
+    "_id": 32,
+    "ru": "Вы были на пляже?",
+    "en": "Were you at the beach?"
+  },
+  {
+    "_id": 33,
+    "ru": "Кто там был?",
+    "en": "Who was there?"
+  },
+  {
+    "_id": 34,
+    "ru": "Это было действительно так эффективно?",
+    "en": "Was it really so effective?"
+  },
+  {
+    "_id": 35,
+    "ru": "Он был с тобой?",
+    "en": "Was he with you?"
+  },
+  {
+    "_id": 36,
+    "ru": "Что было на письменном столе?",
+    "en": "What was on the desk?"
+  },
+  {
+    "_id": 37,
+    "ru": "Что было такого странного?",
+    "en": "What was so strange?"
+  },
+  {
+    "_id": 38,
+    "ru": "Ты был на этой вечеринке?",
+    "en": "Were you at this party?"
+  },
+  {
+    "_id": 39,
+    "ru": "Ты был на концерте?",
+    "en": "Were you at the concert?"
+  },
+  {
+    "_id": 40,
+    "ru": "Кто был прав?",
+    "en": "Who was right?"
+  },
+  {
+    "_id": 41,
+    "ru": "Она была действительно рассержена?",
+    "en": "Was she really angry?"
+  },
+  {
+    "_id": 42,
+    "ru": "Где ты был вечером?",
+    "en": "Where were you in the evening?"
+  },
+  {
+    "_id": 43,
+    "ru": "Это было проблемой?",
+    "en": "Was it a problem?"
+  },
+  {
+    "_id": 44,
+    "ru": "Где ты был днем?",
+    "en": "Where were you in the afternoon?"
+  },
+  {
+    "_id": 45,
+    "ru": "Я был прав?",
+    "en": "Was I right?"
+  },
+  {
+    "_id": 46,
+    "ru": "Ты был в Англии в прошлом году?",
+    "en": "Were you in England last year?"
+  },
+  {
+    "_id": 47,
+    "ru": "Что было в этой коробке?",
+    "en": "What was in this box?"
+  },
+  {
+    "_id": 48,
+    "ru": "Что было на столе?",
+    "en": "What was on the table?"
+  },
+  {
+    "_id": 49,
+    "ru": "Ты был онлайн?",
+    "en": "Were you online?"
+  },
+  {
+    "_id": 50,
+    "ru": "Где он был?",
+    "en": "Where was he?"
+  },
+  {
+    "_id": 51,
+    "ru": "Ты был занят вчера?",
+    "en": "Were you busy yesterday?"
+  },
+  {
+    "_id": 52,
+    "ru": "Он был действительно прав?",
+    "en": "Was he really right?"
+  },
+  {
+    "_id": 53,
+    "ru": "Почему это было так дешево?",
+    "en": "Why was it so cheap?"
+  }
 ]

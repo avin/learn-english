@@ -1,382 +1,477 @@
 [
-  [
-    "Эта вещь совсем меня не пугала",
-    "This thing didn't frighten me at all"
-  ],
-  [
-    "Он перепрыгнул через камень",
-    "He jumped over the stone"
-  ],
-  [
-    "Ты последовал этому совету?",
-    "Did you follow this advice?"
-  ],
-  [
-    "Они владели этим домом?",
-    "Did they own this house?"
-  ],
-  [
-    "Я следовал тем инструкциям",
-    "I followed those instructions"
-  ],
-  [
-    "Покупатель пожаловался на сервис",
-    "The customer complained about the service"
-  ],
-  [
-    "Я повторил вопрос еще раз",
-    "I repeated the question one more time"
-  ],
-  [
-    "Она прибыла в Лондон в полдень",
-    "She arrived in London at midday"
-  ],
-  [
-    "Они записали его речь",
-    "They recorded his speech"
-  ],
-  [
-    "Она слишком сильно волновалась об этом",
-    "She worried too much about it"
-  ],
-  [
-    "Мне нужно было идти в банк",
-    "I needed to go to the bank"
-  ],
-  [
-    "Они перепрыгнули через забор",
-    "They jumped over the fence"
-  ],
-  [
-    "Он прибыл позже, чем обычно",
-    "He arrived later than usual"
-  ],
-  [
-    "Мне действительно нужна была твоя помощь",
-    "I really needed your help"
-  ],
-  [
-    "Это действительно пугало ее",
-    "It really frightened her"
-  ],
-  [
-    "Мы надеялись выиграть",
-    "We hoped to win"
-  ],
-  [
-    "Я много путешествовал",
-    "I travelled a lot"
-  ],
-  [
-    "Я нес ее сумку",
-    "I carried her bag"
-  ],
-  [
-    "Они открыли ворота",
-    "They opened the gate"
-  ],
-  [
-    "Он часто носил тяжелые вещи",
-    "He often carried heavy things"
-  ],
-  [
-    "Она прыгнула очень высоко",
-    "She jumped very high"
-  ],
-  [
-    "Этот дом принадлежал им?",
-    "Did this house belong to them?"
-  ],
-  [
-    "Проблема не исчезла",
-    "The problem didn't disappear"
-  ],
-  [
-    "Он владел этой квартирой",
-    "He owned this apartment"
-  ],
-  [
-    "Мы играли в другую игру",
-    "We played another game"
-  ],
-  [
-    "Он прибыл в Нью-Йорк в полдень",
-    "He arrived in New York at noon"
-  ],
-  [
-    "Он часто тренировался в спортивном зале",
-    "He often trained in the gym"
-  ],
-  [
-    "Он действительно беспокоился о своем будущем",
-    "He really worried about his future"
-  ],
-  [
-    "Мы путешествовали там каждое лето",
-    "We travelled there every summer"
-  ],
-  [
-    "Он перепрыгнул через реку",
-    "He jumped over the river"
-  ],
-  [
-    "Нам действительно нравится путешествовать вместе",
-    "We really liked travelling together"
-  ],
-  [
-    "Мне просто нужна была некоторая информация",
-    "I just needed some information"
-  ],
-  [
-    "Преступники внезапно исчезли",
-    "The criminals disappeared suddenly"
-  ],
-  [
-    "Я звонил своему брату вчера",
-    "I called my brother yesterday"
-  ],
-  [
-    "Я повторил фразу несколько раз",
-    "I repeated the phrase several times"
-  ],
-  [
-    "Двери открылись автоматически",
-    "The doors opened automatically"
-  ],
-  [
-    "Они записали тот разговор",
-    "They recorded that conversation"
-  ],
-  [
-    "Я достиг следующего уровня очень легко",
-    "I reached the next level very easily"
-  ],
-  [
-    "Он играл в шахматы со своим братом",
-    "He played chess with his brother"
-  ],
-  [
-    "Я перезвонил ему позже",
-    "I called him back later"
-  ],
-  [
-    "Я предполагал, что это был единственно правильный выбор",
-    "I supposed that it was the only right choice"
-  ],
-  [
-    "Я пытался сделать все возможное, чтобы достичь этой цели",
-    "I tried to do my best to achieve this aim"
-  ],
-  [
-    "Я очень тщательно все проанализировал",
-    "I analysed everything very thoroughly"
-  ],
-  [
-    "Его соседи часто жаловались на шум",
-    "His neighbours often complained about the noise"
-  ],
-  [
-    "Я решил последовать его рекомендации",
-    "I decided to follow his recommendation"
-  ],
-  [
-    "Я никогда не жаловался на это",
-    "I never complained about it"
-  ],
-  [
-    "Я не мог поверить своим глазам",
-    "I couldn't believe my eyes"
-  ],
-  [
-    "Я решил перестать тратить время впустую",
-    "I decided to stop wasting time"
-  ],
-  [
-    "Я старался не беспокоиться об этом",
-    "I tried not to worry about it"
-  ],
-  [
-    "Я пытался контролировать свои эмоции",
-    "I tried to control my emotions"
-  ],
-  [
-    "Я сделал все возможное, чтобы достичь своей цели",
-    "I did my best to achieve my aim"
-  ],
-  [
-    "Мы прибыли на станцию",
-    "We arrived at the station"
-  ],
-  [
-    "Мы прибыли в город",
-    "We arrived in the city"
-  ],
-  [
-    "Они прибыли в это место",
-    "They arrived at this place"
-  ],
-  [
-    "Я очень усердно старался достичь этой цели",
-    "I tried very hard to achieve this aim"
-  ],
-  [
-    "Я пытался достичь этой цели",
-    "I tried to achieve this aim"
-  ],
-  [
-    "Он так усердно старался достичь своей цели",
-    "He tried so hard to achieve his aim"
-  ],
-  [
-    "Я решил сделать это чуть позже",
-    "I decided to do it a little later"
-  ],
-  [
-    "Я решил сделать это чуть позже",
-    "I decided to do it a bit later"
-  ],
-  [
-    "Он решил не делать этого",
-    "He decided not to do it"
-  ],
-  [
-    "Я не хотел больше впустую тратить время",
-    "I didn't want to waste time anymore"
-  ],
-  [
-    "Я решил больше не тратить время впустую",
-    "I decided not to waste time anymore"
-  ],
-  [
-    "Я не хотел больше тратить впустую свои деньги",
-    "I didn't want to waste my money anymore"
-  ],
-  [
-    "Я предполагал, что это была ложь",
-    "I supposed that it was a lie"
-  ],
-  [
-    "Я надеялся, что это была ложь",
-    "I hoped that it was a lie"
-  ],
-  [
-    "Я открыл крышку бутылки",
-    "I opened the lid of the bottle"
-  ],
-  [
-    "Я открыл крышку этой бутылки",
-    "I opened the lid of this bottle"
-  ],
-  [
-    "Он открыл крышку бутылки",
-    "He opened the lid of the bottle"
-  ],
-  [
-    "Я пытался все контролировать",
-    "I tried to control everything"
-  ],
-  [
-    "Я пытался все сделать",
-    "I tried to do everything"
-  ],
-  [
-    "Он пытался контролировать каждого",
-    "He tried to control everyone"
-  ],
-  [
-    "Я старался тренироваться как можно интенсивнее",
-    "I tried to train as intensively as possible"
-  ],
-  [
-    "Я хотел учиться как можно интенсивнее",
-    "I wanted to study as intensively as possible"
-  ],
-  [
-    "Я старался тренироваться интенсивно",
-    "I tried to train intensively"
-  ],
-  [
-    "Он прибыл на вечеринку чуть позже",
-    "He arrived at the party a bit later"
-  ],
-  [
-    "Он прибыл на вечеринку чуть позже",
-    "He arrived at the party a little later"
-  ],
-  [
-    "Он прибыл на вечеринку позже",
-    "He arrived at the party later"
-  ],
-  [
-    "Я согласился с ним в конце концов",
-    "I agreed with him in the end"
-  ],
-  [
-    "Мы обсудили это в конце концов",
-    "We discussed it in the end"
-  ],
-  [
-    "Я согласился с ним в конце разговора",
-    "I agreed with him at the end of the conversation"
-  ],
-  [
-    "Я не хотел копировать ошибки других студентов",
-    "I didn't want to copy other students' mistakes"
-  ],
-  [
-    "Почему ты решил не делать этого?",
-    "Why did you decide not to do it?"
-  ],
-  [
-    "Я надеялся на лучшее, но ожидал худшего",
-    "I hoped for the best but expected the worst"
-  ],
-  [
-    "Я полагал, что это было единственное правильное решение",
-    "I supposed that it was the only right decision"
-  ],
-  [
-    "Ничто не интересовало ее так сильно",
-    "Nothing interested her so much"
-  ],
-  [
-    "Я решил достичь высшего уровня в английском",
-    "I decided to reach the highest level in English"
-  ],
-  [
-    "Я проанализировал результаты, которые у меня были",
-    "I analysed the results that I had"
-  ],
-  [
-    "Я пожаловался менеджеру на это",
-    "I complained to the manager about it"
-  ],
-  [
-    "Они скопировали дизайн этого продукта",
-    "They copied the design of this product"
-  ],
-  [
-    "Они не согласились в начале",
-    "They didn't agree in the beginning"
-  ],
-  [
-    "Он не мог достичь этой цели",
-    "He couldn't achieve this aim"
-  ],
-  [
-    "Ничего не произошло",
-    "Nothing happened"
-  ],
-  [
-    "Я ненавидел тратить время впустую",
-    "I hated wasting time"
-  ],
-  [
-    "Я надеялся на лучшее",
-    "I hoped for the best"
-  ],
-  [
-    "Ничего не интересовало его",
-    "Nothing interested him"
-  ]
+  {
+    "_id": 1,
+    "ru": "Эта вещь совсем меня не пугала",
+    "en": "This thing didn't frighten me at all"
+  },
+  {
+    "_id": 2,
+    "ru": "Он перепрыгнул через камень",
+    "en": "He jumped over the stone"
+  },
+  {
+    "_id": 3,
+    "ru": "Ты последовал этому совету?",
+    "en": "Did you follow this advice?"
+  },
+  {
+    "_id": 4,
+    "ru": "Они владели этим домом?",
+    "en": "Did they own this house?"
+  },
+  {
+    "_id": 5,
+    "ru": "Я следовал тем инструкциям",
+    "en": "I followed those instructions"
+  },
+  {
+    "_id": 6,
+    "ru": "Покупатель пожаловался на сервис",
+    "en": "The customer complained about the service"
+  },
+  {
+    "_id": 7,
+    "ru": "Я повторил вопрос еще раз",
+    "en": "I repeated the question one more time"
+  },
+  {
+    "_id": 8,
+    "ru": "Она прибыла в Лондон в полдень",
+    "en": "She arrived in London at midday"
+  },
+  {
+    "_id": 9,
+    "ru": "Они записали его речь",
+    "en": "They recorded his speech"
+  },
+  {
+    "_id": 10,
+    "ru": "Она слишком сильно волновалась об этом",
+    "en": "She worried too much about it"
+  },
+  {
+    "_id": 11,
+    "ru": "Мне нужно было идти в банк",
+    "en": "I needed to go to the bank"
+  },
+  {
+    "_id": 12,
+    "ru": "Они перепрыгнули через забор",
+    "en": "They jumped over the fence"
+  },
+  {
+    "_id": 13,
+    "ru": "Он прибыл позже, чем обычно",
+    "en": "He arrived later than usual"
+  },
+  {
+    "_id": 14,
+    "ru": "Мне действительно нужна была твоя помощь",
+    "en": "I really needed your help"
+  },
+  {
+    "_id": 15,
+    "ru": "Это действительно пугало ее",
+    "en": "It really frightened her"
+  },
+  {
+    "_id": 16,
+    "ru": "Мы надеялись выиграть",
+    "en": "We hoped to win"
+  },
+  {
+    "_id": 17,
+    "ru": "Я много путешествовал",
+    "en": "I travelled a lot"
+  },
+  {
+    "_id": 18,
+    "ru": "Я нес ее сумку",
+    "en": "I carried her bag"
+  },
+  {
+    "_id": 19,
+    "ru": "Они открыли ворота",
+    "en": "They opened the gate"
+  },
+  {
+    "_id": 20,
+    "ru": "Он часто носил тяжелые вещи",
+    "en": "He often carried heavy things"
+  },
+  {
+    "_id": 21,
+    "ru": "Она прыгнула очень высоко",
+    "en": "She jumped very high"
+  },
+  {
+    "_id": 22,
+    "ru": "Этот дом принадлежал им?",
+    "en": "Did this house belong to them?"
+  },
+  {
+    "_id": 23,
+    "ru": "Проблема не исчезла",
+    "en": "The problem didn't disappear"
+  },
+  {
+    "_id": 24,
+    "ru": "Он владел этой квартирой",
+    "en": "He owned this apartment"
+  },
+  {
+    "_id": 25,
+    "ru": "Мы играли в другую игру",
+    "en": "We played another game"
+  },
+  {
+    "_id": 26,
+    "ru": "Он прибыл в Нью-Йорк в полдень",
+    "en": "He arrived in New York at noon"
+  },
+  {
+    "_id": 27,
+    "ru": "Он часто тренировался в спортивном зале",
+    "en": "He often trained in the gym"
+  },
+  {
+    "_id": 28,
+    "ru": "Он действительно беспокоился о своем будущем",
+    "en": "He really worried about his future"
+  },
+  {
+    "_id": 29,
+    "ru": "Мы путешествовали там каждое лето",
+    "en": "We travelled there every summer"
+  },
+  {
+    "_id": 30,
+    "ru": "Он перепрыгнул через реку",
+    "en": "He jumped over the river"
+  },
+  {
+    "_id": 31,
+    "ru": "Нам действительно нравится путешествовать вместе",
+    "en": "We really liked travelling together"
+  },
+  {
+    "_id": 32,
+    "ru": "Мне просто нужна была некоторая информация",
+    "en": "I just needed some information"
+  },
+  {
+    "_id": 33,
+    "ru": "Преступники внезапно исчезли",
+    "en": "The criminals disappeared suddenly"
+  },
+  {
+    "_id": 34,
+    "ru": "Я звонил своему брату вчера",
+    "en": "I called my brother yesterday"
+  },
+  {
+    "_id": 35,
+    "ru": "Я повторил фразу несколько раз",
+    "en": "I repeated the phrase several times"
+  },
+  {
+    "_id": 36,
+    "ru": "Двери открылись автоматически",
+    "en": "The doors opened automatically"
+  },
+  {
+    "_id": 37,
+    "ru": "Они записали тот разговор",
+    "en": "They recorded that conversation"
+  },
+  {
+    "_id": 38,
+    "ru": "Я достиг следующего уровня очень легко",
+    "en": "I reached the next level very easily"
+  },
+  {
+    "_id": 39,
+    "ru": "Он играл в шахматы со своим братом",
+    "en": "He played chess with his brother"
+  },
+  {
+    "_id": 40,
+    "ru": "Я перезвонил ему позже",
+    "en": "I called him back later"
+  },
+  {
+    "_id": 41,
+    "ru": "Я предполагал, что это был единственно правильный выбор",
+    "en": "I supposed that it was the only right choice"
+  },
+  {
+    "_id": 42,
+    "ru": "Я пытался сделать все возможное, чтобы достичь этой цели",
+    "en": "I tried to do my best to achieve this aim"
+  },
+  {
+    "_id": 43,
+    "ru": "Я очень тщательно все проанализировал",
+    "en": "I analysed everything very thoroughly"
+  },
+  {
+    "_id": 44,
+    "ru": "Его соседи часто жаловались на шум",
+    "en": "His neighbours often complained about the noise"
+  },
+  {
+    "_id": 45,
+    "ru": "Я решил последовать его рекомендации",
+    "en": "I decided to follow his recommendation"
+  },
+  {
+    "_id": 46,
+    "ru": "Я никогда не жаловался на это",
+    "en": "I never complained about it"
+  },
+  {
+    "_id": 47,
+    "ru": "Я не мог поверить своим глазам",
+    "en": "I couldn't believe my eyes"
+  },
+  {
+    "_id": 48,
+    "ru": "Я решил перестать тратить время впустую",
+    "en": "I decided to stop wasting time"
+  },
+  {
+    "_id": 49,
+    "ru": "Я старался не беспокоиться об этом",
+    "en": "I tried not to worry about it"
+  },
+  {
+    "_id": 50,
+    "ru": "Я пытался контролировать свои эмоции",
+    "en": "I tried to control my emotions"
+  },
+  {
+    "_id": 51,
+    "ru": "Я сделал все возможное, чтобы достичь своей цели",
+    "en": "I did my best to achieve my aim"
+  },
+  {
+    "_id": 52,
+    "ru": "Мы прибыли на станцию",
+    "en": "We arrived at the station"
+  },
+  {
+    "_id": 53,
+    "ru": "Мы прибыли в город",
+    "en": "We arrived in the city"
+  },
+  {
+    "_id": 54,
+    "ru": "Они прибыли в это место",
+    "en": "They arrived at this place"
+  },
+  {
+    "_id": 55,
+    "ru": "Я очень усердно старался достичь этой цели",
+    "en": "I tried very hard to achieve this aim"
+  },
+  {
+    "_id": 56,
+    "ru": "Я пытался достичь этой цели",
+    "en": "I tried to achieve this aim"
+  },
+  {
+    "_id": 57,
+    "ru": "Он так усердно старался достичь своей цели",
+    "en": "He tried so hard to achieve his aim"
+  },
+  {
+    "_id": 58,
+    "ru": "Я решил сделать это чуть позже",
+    "en": "I decided to do it a little later"
+  },
+  {
+    "_id": 59,
+    "ru": "Я решил сделать это чуть позже",
+    "en": "I decided to do it a bit later"
+  },
+  {
+    "_id": 60,
+    "ru": "Он решил не делать этого",
+    "en": "He decided not to do it"
+  },
+  {
+    "_id": 61,
+    "ru": "Я не хотел больше впустую тратить время",
+    "en": "I didn't want to waste time anymore"
+  },
+  {
+    "_id": 62,
+    "ru": "Я решил больше не тратить время впустую",
+    "en": "I decided not to waste time anymore"
+  },
+  {
+    "_id": 63,
+    "ru": "Я не хотел больше тратить впустую свои деньги",
+    "en": "I didn't want to waste my money anymore"
+  },
+  {
+    "_id": 64,
+    "ru": "Я предполагал, что это была ложь",
+    "en": "I supposed that it was a lie"
+  },
+  {
+    "_id": 65,
+    "ru": "Я надеялся, что это была ложь",
+    "en": "I hoped that it was a lie"
+  },
+  {
+    "_id": 66,
+    "ru": "Я открыл крышку бутылки",
+    "en": "I opened the lid of the bottle"
+  },
+  {
+    "_id": 67,
+    "ru": "Я открыл крышку этой бутылки",
+    "en": "I opened the lid of this bottle"
+  },
+  {
+    "_id": 68,
+    "ru": "Он открыл крышку бутылки",
+    "en": "He opened the lid of the bottle"
+  },
+  {
+    "_id": 69,
+    "ru": "Я пытался все контролировать",
+    "en": "I tried to control everything"
+  },
+  {
+    "_id": 70,
+    "ru": "Я пытался все сделать",
+    "en": "I tried to do everything"
+  },
+  {
+    "_id": 71,
+    "ru": "Он пытался контролировать каждого",
+    "en": "He tried to control everyone"
+  },
+  {
+    "_id": 72,
+    "ru": "Я старался тренироваться как можно интенсивнее",
+    "en": "I tried to train as intensively as possible"
+  },
+  {
+    "_id": 73,
+    "ru": "Я хотел учиться как можно интенсивнее",
+    "en": "I wanted to study as intensively as possible"
+  },
+  {
+    "_id": 74,
+    "ru": "Я старался тренироваться интенсивно",
+    "en": "I tried to train intensively"
+  },
+  {
+    "_id": 75,
+    "ru": "Он прибыл на вечеринку чуть позже",
+    "en": "He arrived at the party a bit later"
+  },
+  {
+    "_id": 76,
+    "ru": "Он прибыл на вечеринку чуть позже",
+    "en": "He arrived at the party a little later"
+  },
+  {
+    "_id": 77,
+    "ru": "Он прибыл на вечеринку позже",
+    "en": "He arrived at the party later"
+  },
+  {
+    "_id": 78,
+    "ru": "Я согласился с ним в конце концов",
+    "en": "I agreed with him in the end"
+  },
+  {
+    "_id": 79,
+    "ru": "Мы обсудили это в конце концов",
+    "en": "We discussed it in the end"
+  },
+  {
+    "_id": 80,
+    "ru": "Я согласился с ним в конце разговора",
+    "en": "I agreed with him at the end of the conversation"
+  },
+  {
+    "_id": 81,
+    "ru": "Я не хотел копировать ошибки других студентов",
+    "en": "I didn't want to copy other students' mistakes"
+  },
+  {
+    "_id": 82,
+    "ru": "Почему ты решил не делать этого?",
+    "en": "Why did you decide not to do it?"
+  },
+  {
+    "_id": 83,
+    "ru": "Я надеялся на лучшее, но ожидал худшего",
+    "en": "I hoped for the best but expected the worst"
+  },
+  {
+    "_id": 84,
+    "ru": "Я полагал, что это было единственное правильное решение",
+    "en": "I supposed that it was the only right decision"
+  },
+  {
+    "_id": 85,
+    "ru": "Ничто не интересовало ее так сильно",
+    "en": "Nothing interested her so much"
+  },
+  {
+    "_id": 86,
+    "ru": "Я решил достичь высшего уровня в английском",
+    "en": "I decided to reach the highest level in English"
+  },
+  {
+    "_id": 87,
+    "ru": "Я проанализировал результаты, которые у меня были",
+    "en": "I analysed the results that I had"
+  },
+  {
+    "_id": 88,
+    "ru": "Я пожаловался менеджеру на это",
+    "en": "I complained to the manager about it"
+  },
+  {
+    "_id": 89,
+    "ru": "Они скопировали дизайн этого продукта",
+    "en": "They copied the design of this product"
+  },
+  {
+    "_id": 90,
+    "ru": "Они не согласились в начале",
+    "en": "They didn't agree in the beginning"
+  },
+  {
+    "_id": 91,
+    "ru": "Он не мог достичь этой цели",
+    "en": "He couldn't achieve this aim"
+  },
+  {
+    "_id": 92,
+    "ru": "Ничего не произошло",
+    "en": "Nothing happened"
+  },
+  {
+    "_id": 93,
+    "ru": "Я ненавидел тратить время впустую",
+    "en": "I hated wasting time"
+  },
+  {
+    "_id": 94,
+    "ru": "Я надеялся на лучшее",
+    "en": "I hoped for the best"
+  },
+  {
+    "_id": 95,
+    "ru": "Ничего не интересовало его",
+    "en": "Nothing interested him"
+  }
 ]

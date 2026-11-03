@@ -1,90 +1,112 @@
 [
-  [
-    "Какой размер вы носите?",
-    "What size do you wear?"
-  ],
-  [
-    "Я уже подписался на этот канал",
-    "I've already subscribed to this channel"
-  ],
-  [
-    "Как я понимаю, ты проснулся очень рано вчера",
-    "As I understand, you woke up very early yesterday"
-  ],
-  [
-    "Я только что выпил чашку чая",
-    "I've just drunk a cup of tea"
-  ],
-  [
-    "Мне кажется, вы неправильно поняли это",
-    "It seems to me you misunderstood it"
-  ],
-  [
-    "Позвольте мне вам это объяснить!",
-    "Let me explain it to you!"
-  ],
-  [
-    "Когда я позвонил ему, он вел машину",
-    "When I called him, he was driving a car"
-  ],
-  [
-    "Позвольте мне сказать вам одну вещь!",
-    "Let me tell you one thing!"
-  ],
-  [
-    "Давайте продолжать!",
-    "Let's continue!"
-  ],
-  [
-    "Зазвенел звонок, и он разбудил меня",
-    "The bell rang and it woke me up"
-  ],
-  [
-    "Он еще не исправил эту ошибку",
-    "He hasn't corrected this mistake yet"
-  ],
-  [
-    "Он решил поцеловать ее",
-    "He decided to kiss her"
-  ],
-  [
-    "Они часто смеялись над ним, и это было так унизительно",
-    "They often laughed at him and it was so humiliating"
-  ],
-  [
-    "Какой у вас размер?",
-    "What's your size?"
-  ],
-  [
-    "Она поняла, что они обманули ее",
-    "She understood that they had deceived her"
-  ],
-  [
-    "Смотри! Идет снег",
-    "Look! It's snowing"
-  ],
-  [
-    "Он сказал, что они проанализировали это очень тщательно",
-    "He said that they had analyzed it very thoroughly"
-  ],
-  [
-    "Я слышал, что полиция арестовала его",
-    "I heard that the police had arrested him"
-  ],
-  [
-    "Они сражались как настоящие герои",
-    "They fought like real heroes"
-  ],
-  [
-    "Я только что скачал этот файл",
-    "I've just downloaded this file"
-  ],
-  [
-    "Они отменили этот рейс очень неожиданно",
-    "They cancelled this flight very unexpectedly"
-  ],
-  [
-    "Как я вижу, я не могу парковаться здесь",
-    "As I see, I can't park here"
-  ]
+  {
+    "_id": 1,
+    "ru": "Какой размер вы носите?",
+    "en": "What size do you wear?"
+  },
+  {
+    "_id": 2,
+    "ru": "Я уже подписался на этот канал",
+    "en": "I've already subscribed to this channel"
+  },
+  {
+    "_id": 3,
+    "ru": "Как я понимаю, ты проснулся очень рано вчера",
+    "en": "As I understand, you woke up very early yesterday"
+  },
+  {
+    "_id": 4,
+    "ru": "Я только что выпил чашку чая",
+    "en": "I've just drunk a cup of tea"
+  },
+  {
+    "_id": 5,
+    "ru": "Мне кажется, вы неправильно поняли это",
+    "en": "It seems to me you misunderstood it"
+  },
+  {
+    "_id": 6,
+    "ru": "Позвольте мне вам это объяснить!",
+    "en": "Let me explain it to you!"
+  },
+  {
+    "_id": 7,
+    "ru": "Когда я позвонил ему, он вел машину",
+    "en": "When I called him, he was driving a car"
+  },
+  {
+    "_id": 8,
+    "ru": "Позвольте мне сказать вам одну вещь!",
+    "en": "Let me tell you one thing!"
+  },
+  {
+    "_id": 9,
+    "ru": "Давайте продолжать!",
+    "en": "Let's continue!"
+  },
+  {
+    "_id": 10,
+    "ru": "Зазвенел звонок, и он разбудил меня",
+    "en": "The bell rang and it woke me up"
+  },
+  {
+    "_id": 11,
+    "ru": "Он еще не исправил эту ошибку",
+    "en": "He hasn't corrected this mistake yet"
+  },
+  {
+    "_id": 12,
+    "ru": "Он решил поцеловать ее",
+    "en": "He decided to kiss her"
+  },
+  {
+    "_id": 13,
+    "ru": "Они часто смеялись над ним, и это было так унизительно",
+    "en": "They often laughed at him and it was so humiliating"
+  },
+  {
+    "_id": 14,
+    "ru": "Какой у вас размер?",
+    "en": "What's your size?"
+  },
+  {
+    "_id": 15,
+    "ru": "Она поняла, что они обманули ее",
+    "en": "She understood that they had deceived her"
+  },
+  {
+    "_id": 16,
+    "ru": "Смотри! Идет снег",
+    "en": "Look! It's snowing"
+  },
+  {
+    "_id": 17,
+    "ru": "Он сказал, что они проанализировали это очень тщательно",
+    "en": "He said that they had analyzed it very thoroughly"
+  },
+  {
+    "_id": 18,
+    "ru": "Я слышал, что полиция арестовала его",
+    "en": "I heard that the police had arrested him"
+  },
+  {
+    "_id": 19,
+    "ru": "Они сражались как настоящие герои",
+    "en": "They fought like real heroes"
+  },
+  {
+    "_id": 20,
+    "ru": "Я только что скачал этот файл",
+    "en": "I've just downloaded this file"
+  },
+  {
+    "_id": 21,
+    "ru": "Они отменили этот рейс очень неожиданно",
+    "en": "They cancelled this flight very unexpectedly"
+  },
+  {
+    "_id": 22,
+    "ru": "Как я вижу, я не могу парковаться здесь",
+    "en": "As I see, I can't park here"
+  }
 ]

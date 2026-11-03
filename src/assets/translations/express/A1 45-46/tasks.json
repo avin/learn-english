@@ -1,110 +1,137 @@
 [
-  [
-    "Я все еще рассматриваю это предложение",
-    "I'm still considering this offer"
-  ],
-  [
-    "Эта песня становится все более популярной",
-    "This song is getting more and more popular"
-  ],
-  [
-    "Я готовлюсь к заключительному экзамену на этой неделе",
-    "I'm preparing for my final exam this week"
-  ],
-  [
-    "Я рассматриваю это предложение сейчас",
-    "I'm considering this offer now"
-  ],
-  [
-    "Я все еще жду этого",
-    "I'm still waiting for it"
-  ],
-  [
-    "Это происходит прямо сейчас",
-    "It's happening right now"
-  ],
-  [
-    "Еда становится все дороже и дороже",
-    "The food is getting more and more expensive"
-  ],
-  [
-    "Мы обсуждаем это прямо сейчас",
-    "We're discussing it right now"
-  ],
-  [
-    "Я делаю это прямо сейчас",
-    "I'm doing it right now"
-  ],
-  [
-    "Я все еще думаю об этом",
-    "I'm still thinking about it"
-  ],
-  [
-    "Это происходит в данный момент",
-    "It's happening at the moment"
-  ],
-  [
-    "Это становится реальной проблемой в наше время",
-    "It's becoming a real problem nowadays"
-  ],
-  [
-    "В этом месяце я работаю намного больше",
-    "I'm working much more this month"
-  ],
-  [
-    "Она сегодня работает",
-    "She's working today"
-  ],
-  [
-    "Посмотри! Кто-то ищет тебя",
-    "Look! Someone is looking for you"
-  ],
-  [
-    "Очень важная вещь происходит сейчас",
-    "A very important thing is happening now"
-  ],
-  [
-    "Уроки становятся все интереснее",
-    "The lessons are getting more and more interesting"
-  ],
-  [
-    "В этом году он работает намного меньше",
-    "He's working much less this year"
-  ],
-  [
-    "Знания становятся все более доступными в наше время",
-    "Knowledge is getting more and more available nowadays"
-  ],
-  [
-    "Мой прогресс становится все больше и больше",
-    "My progress is getting bigger and bigger"
-  ],
-  [
-    "Я сейчас обедаю",
-    "I'm having lunch now"
-  ],
-  [
-    "Я сегодня отдыхаю",
-    "I'm having a rest today"
-  ],
-  [
-    "Бесплатное онлайн-образование становится все более доступным",
-    "Free online education is getting more and more available"
-  ],
-  [
-    "Я завтракаю сейчас",
-    "I'm having breakfast now"
-  ],
-  [
-    "Эти знания становятся все более доступными",
-    "This knowledge is getting more and more available"
-  ],
-  [
-    "Кто-то зовет тебя",
-    "Someone is calling you"
-  ],
-  [
-    "Я очень интенсивно тренируюсь в данный момент",
-    "I'm training very intensively at the moment"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я все еще рассматриваю это предложение",
+    "en": "I'm still considering this offer"
+  },
+  {
+    "_id": 2,
+    "ru": "Эта песня становится все более популярной",
+    "en": "This song is getting more and more popular"
+  },
+  {
+    "_id": 3,
+    "ru": "Я готовлюсь к заключительному экзамену на этой неделе",
+    "en": "I'm preparing for my final exam this week"
+  },
+  {
+    "_id": 4,
+    "ru": "Я рассматриваю это предложение сейчас",
+    "en": "I'm considering this offer now"
+  },
+  {
+    "_id": 5,
+    "ru": "Я все еще жду этого",
+    "en": "I'm still waiting for it"
+  },
+  {
+    "_id": 6,
+    "ru": "Это происходит прямо сейчас",
+    "en": "It's happening right now"
+  },
+  {
+    "_id": 7,
+    "ru": "Еда становится все дороже и дороже",
+    "en": "The food is getting more and more expensive"
+  },
+  {
+    "_id": 8,
+    "ru": "Мы обсуждаем это прямо сейчас",
+    "en": "We're discussing it right now"
+  },
+  {
+    "_id": 9,
+    "ru": "Я делаю это прямо сейчас",
+    "en": "I'm doing it right now"
+  },
+  {
+    "_id": 10,
+    "ru": "Я все еще думаю об этом",
+    "en": "I'm still thinking about it"
+  },
+  {
+    "_id": 11,
+    "ru": "Это происходит в данный момент",
+    "en": "It's happening at the moment"
+  },
+  {
+    "_id": 12,
+    "ru": "Это становится реальной проблемой в наше время",
+    "en": "It's becoming a real problem nowadays"
+  },
+  {
+    "_id": 13,
+    "ru": "В этом месяце я работаю намного больше",
+    "en": "I'm working much more this month"
+  },
+  {
+    "_id": 14,
+    "ru": "Она сегодня работает",
+    "en": "She's working today"
+  },
+  {
+    "_id": 15,
+    "ru": "Посмотри! Кто-то ищет тебя",
+    "en": "Look! Someone is looking for you"
+  },
+  {
+    "_id": 16,
+    "ru": "Очень важная вещь происходит сейчас",
+    "en": "A very important thing is happening now"
+  },
+  {
+    "_id": 17,
+    "ru": "Уроки становятся все интереснее",
+    "en": "The lessons are getting more and more interesting"
+  },
+  {
+    "_id": 18,
+    "ru": "В этом году он работает намного меньше",
+    "en": "He's working much less this year"
+  },
+  {
+    "_id": 19,
+    "ru": "Знания становятся все более доступными в наше время",
+    "en": "Knowledge is getting more and more available nowadays"
+  },
+  {
+    "_id": 20,
+    "ru": "Мой прогресс становится все больше и больше",
+    "en": "My progress is getting bigger and bigger"
+  },
+  {
+    "_id": 21,
+    "ru": "Я сейчас обедаю",
+    "en": "I'm having lunch now"
+  },
+  {
+    "_id": 22,
+    "ru": "Я сегодня отдыхаю",
+    "en": "I'm having a rest today"
+  },
+  {
+    "_id": 23,
+    "ru": "Бесплатное онлайн-образование становится все более доступным",
+    "en": "Free online education is getting more and more available"
+  },
+  {
+    "_id": 24,
+    "ru": "Я завтракаю сейчас",
+    "en": "I'm having breakfast now"
+  },
+  {
+    "_id": 25,
+    "ru": "Эти знания становятся все более доступными",
+    "en": "This knowledge is getting more and more available"
+  },
+  {
+    "_id": 26,
+    "ru": "Кто-то зовет тебя",
+    "en": "Someone is calling you"
+  },
+  {
+    "_id": 27,
+    "ru": "Я очень интенсивно тренируюсь в данный момент",
+    "en": "I'm training very intensively at the moment"
+  }
 ]

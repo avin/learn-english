@@ -1,402 +1,502 @@
 [
-  [
-    "Она ест рис каждый день",
-    "She eats rice every day"
-  ],
-  [
-    "Они часто играют в футбол?",
-    "Do they often play football?"
-  ],
-  [
-    "Она идет в школу сейчас",
-    "She's going to school now"
-  ],
-  [
-    "Вода кипит сейчас?",
-    "Is the water boiling now?"
-  ],
-  [
-    "Она ест рис каждый день?",
-    "Does she eat rice every day?"
-  ],
-  [
-    "Они часто играют в гольф?",
-    "Do they often play golf?"
-  ],
-  [
-    "Смотри! Что-то странное происходит",
-    "Look! Something strange is happening"
-  ],
-  [
-    "Она сейчас идет в школу",
-    "She's going to school now"
-  ],
-  [
-    "Я обычно сижу перед компьютером",
-    "I usually sit in front of the computer"
-  ],
-  [
-    "Послушай! Кто-то плачет",
-    "Listen! Someone is crying"
-  ],
-  [
-    "Мой папа сейчас ведёт машину",
-    "My dad is driving a car now"
-  ],
-  [
-    "Я читаю очень интересную книгу в данный момент",
-    "I'm reading a very interesting book at the moment"
-  ],
-  [
-    "Они сейчас играют в гольф?",
-    "Are they playing golf now?"
-  ],
-  [
-    "Ты покидаешь вечеринку сейчас?",
-    "Are you leaving the party now?"
-  ],
-  [
-    "Сейчас я упаковываю свою одежду",
-    "I'm packing my clothes now"
-  ],
-  [
-    "Он всегда приходит в школу поздно",
-    "He always arrives at school late"
-  ],
-  [
-    "Он сейчас слушает радио",
-    "He is listening to the radio now"
-  ],
-  [
-    "Моя мама часто готовит",
-    "My mom often cooks"
-  ],
-  [
-    "Она сейчас собирает эти сумки",
-    "She's packing these bags now"
-  ],
-  [
-    "Помедленнее! Ты едешь слишком быстро",
-    "Slow down! You are driving too fast"
-  ],
-  [
-    "Где ты живешь?",
-    "Where do you live?"
-  ],
-  [
-    "Я много тренируюсь на этой неделе",
-    "I'm training a lot this week"
-  ],
-  [
-    "Мой друг и я играем в эту игру сейчас",
-    "My friend and I are playing this game now"
-  ],
-  [
-    "Мой папа часто водит машину",
-    "My dad often drives a car"
-  ],
-  [
-    "Помедленнее! Ты едешь так быстро",
-    "Slow down! You are driving so fast"
-  ],
-  [
-    "Кейт сейчас отдыхает",
-    "Kate is having a rest now"
-  ],
-  [
-    "Солнце встает сейчас",
-    "The sun is rising now"
-  ],
-  [
-    "Я часто ложусь в кровать поздно",
-    "I often go to bed late"
-  ],
-  [
-    "Мой друг и я сейчас разговариваем по телефону",
-    "My friend and I are talking on the phone now"
-  ],
-  [
-    "Он часто рисует в свое свободное время",
-    "He often draws in his free time"
-  ],
-  [
-    "Я тренируюсь невероятно усердно в эти дни",
-    "I'm training incredibly hard these days"
-  ],
-  [
-    "Моя мама готовит сейчас",
-    "My mom is cooking now"
-  ],
-  [
-    "Она делает торт в данный момент",
-    "She is making a cake at the moment"
-  ],
-  [
-    "Где ты живешь сейчас?",
-    "Where are you living now?"
-  ],
-  [
-    "Он рисует картину",
-    "He is drawing a picture"
-  ],
-  [
-    "Мой дедушка ходит гулять каждый день",
-    "My grandpa goes for a walk every day"
-  ],
-  [
-    "Она иногда читает комиксы",
-    "She sometimes reads comics"
-  ],
-  [
-    "Я сижу перед компьютером",
-    "I'm sitting in front of the computer"
-  ],
-  [
-    "Я сейчас иду гулять",
-    "I am going for a walk now"
-  ],
-  [
-    "Я печатаю в данный момент",
-    "I'm typing at the moment"
-  ],
-  [
-    "Она обычно ездит в школу на автобусе",
-    "She usually goes to school by bus"
-  ],
-  [
-    "Она обычно ходит по магазинам на выходных",
-    "She usually goes shopping at the weekend"
-  ],
-  [
-    "Солнце встает на востоке",
-    "The sun rises in the east"
-  ],
-  [
-    "Я обычно добираюсь на работу на метро",
-    "I usually get to work by underground"
-  ],
-  [
-    "Вода кипит при ста градусах",
-    "The water boils at one hundred degrees"
-  ],
-  [
-    "Он делает звонок в данный момент",
-    "He is making a call at the moment"
-  ],
-  [
-    "Не входи в ее комнату! Она молится",
-    "Don't enter her room! She is praying"
-  ],
-  [
-    "Чайник кипит сейчас",
-    "The kettle is boiling now"
-  ],
-  [
-    "Я делаю звонок сейчас",
-    "I am making a call now"
-  ],
-  [
-    "Он играет на гитаре почти каждый день",
-    "He plays the guitar almost every day"
-  ],
-  [
-    "Урок начинается в 8 часов",
-    "The lesson starts at 8 o'clock"
-  ],
-  [
-    "Там часто идет снег",
-    "It often snows there"
-  ],
-  [
-    "Послушай! Мальчик поет",
-    "Listen! The boy is singing"
-  ],
-  [
-    "Девочки идут домой",
-    "The girls are coming home"
-  ],
-  [
-    "Его брат часто слушает музыку",
-    "His brother often listens to music"
-  ],
-  [
-    "Я обычно чищу зубы дважды в день",
-    "I usually brush my teeth twice a day"
-  ],
-  [
-    "Моя сестра слушает музыку сейчас",
-    "My sister is listening to music now"
-  ],
-  [
-    "Мой брат сейчас смотрит видео",
-    "My brother is watching videos now"
-  ],
-  [
-    "Моя сестра не слушает музыку сейчас",
-    "My sister isn't listening to music now"
-  ],
-  [
-    "Ей действительно нравится играть на скрипке",
-    "She really likes playing the violin"
-  ],
-  [
-    "Ей не нравится играть на гитаре",
-    "She doesn't like playing the guitar"
-  ],
-  [
-    "Мне действительно нравится играть в эту игру",
-    "I really like playing this game"
-  ],
-  [
-    "Она обычно ездит домой на автобусе",
-    "She usually goes home by bus"
-  ],
-  [
-    "Она обычно ездила в школу на автобусе",
-    "She usually went to school by bus"
-  ],
-  [
-    "Она никогда не ездит домой на автобусе",
-    "She never goes home by bus"
-  ],
-  [
-    "Она часто смотрит сериалы по телевизору",
-    "She often watches series on TV"
-  ],
-  [
-    "Как часто она смотрит сериалы по телевизору?",
-    "How often does she watch series on TV?"
-  ],
-  [
-    "Я обычно не смотрю сериалы по телевизору",
-    "I don't usually watch series on TV"
-  ],
-  [
-    "Здесь часто идет дождь",
-    "It often rains here"
-  ],
-  [
-    "Сейчас идет дождь",
-    "It is raining now"
-  ],
-  [
-    "Сейчас идет снег?",
-    "Is it snowing now?"
-  ],
-  [
-    "Не беспокой ее! Она молится",
-    "Don't disturb her! She's praying"
-  ],
-  [
-    "Не беспокой меня! Я молюсь",
-    "Don't disturb me! I'm praying"
-  ],
-  [
-    "Послушай! Кто-то стучит в дверь",
-    "Listen! Someone is knocking at the door"
-  ],
-  [
-    "Смотри! Кто-то стоит возле двери",
-    "Look! Someone is staying near the door"
-  ],
-  [
-    "Послушай! Кто-то кричит",
-    "Listen! Someone is shouting"
-  ],
-  [
-    "Я болтаю с моим другом в данный момент",
-    "I am chatting with my friend at the moment"
-  ],
-  [
-    "Я разговариваю с моим другом в данный момент",
-    "I am talking to my friend at the moment"
-  ],
-  [
-    "Я болтаю с моими друзьями сейчас",
-    "I am chatting with my friends now"
-  ],
-  [
-    "Он навещает своих родителей по воскресеньям",
-    "He visits his parents on Sundays"
-  ],
-  [
-    "Я обычно навещаю своих родителей осенью",
-    "I usually visit my parents in autumn"
-  ],
-  [
-    "Он никогда не навещает своих родителей по понедельникам",
-    "He never visits his parents on Mondays"
-  ],
-  [
-    "Чайник кипит сейчас?",
-    "Is the kettle boiling now?"
-  ],
-  [
-    "Вода кипит сейчас?",
-    "Is the water boiling now?"
-  ],
-  [
-    "Послушай! Кто-то играет на скрипке",
-    "Listen! Someone is playing the violin"
-  ],
-  [
-    "Он обычно ходит по магазинам на выходных",
-    "He usually goes shopping at the weekends"
-  ],
-  [
-    "Я обычно иду туда через парк",
-    "I usually go there through the park"
-  ],
-  [
-    "Я сейчас чищу зубы",
-    "I'm brushing my teeth now"
-  ],
-  [
-    "Послушай! Кто-то играет на гитаре",
-    "Listen! Someone is playing the guitar"
-  ],
-  [
-    "Мы идем через парк сейчас",
-    "We are going through the park now"
-  ],
-  [
-    "Они обедают сейчас",
-    "They are having dinner now"
-  ],
-  [
-    "Я еду на работу на метро сегодня",
-    "I'm going to work by underground today"
-  ],
-  [
-    "Посмотри на собаку! Она лает",
-    "Look at the dog! It is barking"
-  ],
-  [
-    "Становится поздно. Я должен идти домой",
-    "It's getting late now. I must go home"
-  ],
-  [
-    "Там идет снег",
-    "It's snowing there"
-  ],
-  [
-    "Здесь идет дождь",
-    "It's raining here"
-  ],
-  [
-    "Мы идем туда через поле",
-    "We are going there across the field"
-  ],
-  [
-    "Он обычно идет туда через поле",
-    "He usually goes there across the field"
-  ],
-  [
-    "Вода сейчас кипит",
-    "The water is boiling now"
-  ],
-  [
-    "Вода сейчас кипит",
-    "The water is boiling now"
-  ]
+  {
+    "_id": 1,
+    "ru": "Она ест рис каждый день",
+    "en": "She eats rice every day"
+  },
+  {
+    "_id": 2,
+    "ru": "Они часто играют в футбол?",
+    "en": "Do they often play football?"
+  },
+  {
+    "_id": 3,
+    "ru": "Она идет в школу сейчас",
+    "en": "She's going to school now"
+  },
+  {
+    "_id": 4,
+    "ru": "Вода кипит сейчас?",
+    "en": "Is the water boiling now?"
+  },
+  {
+    "_id": 5,
+    "ru": "Она ест рис каждый день?",
+    "en": "Does she eat rice every day?"
+  },
+  {
+    "_id": 6,
+    "ru": "Они часто играют в гольф?",
+    "en": "Do they often play golf?"
+  },
+  {
+    "_id": 7,
+    "ru": "Смотри! Что-то странное происходит",
+    "en": "Look! Something strange is happening"
+  },
+  {
+    "_id": 8,
+    "ru": "Она сейчас идет в школу",
+    "en": "She's going to school now"
+  },
+  {
+    "_id": 9,
+    "ru": "Я обычно сижу перед компьютером",
+    "en": "I usually sit in front of the computer"
+  },
+  {
+    "_id": 10,
+    "ru": "Послушай! Кто-то плачет",
+    "en": "Listen! Someone is crying"
+  },
+  {
+    "_id": 11,
+    "ru": "Мой папа сейчас ведёт машину",
+    "en": "My dad is driving a car now"
+  },
+  {
+    "_id": 12,
+    "ru": "Я читаю очень интересную книгу в данный момент",
+    "en": "I'm reading a very interesting book at the moment"
+  },
+  {
+    "_id": 13,
+    "ru": "Они сейчас играют в гольф?",
+    "en": "Are they playing golf now?"
+  },
+  {
+    "_id": 14,
+    "ru": "Ты покидаешь вечеринку сейчас?",
+    "en": "Are you leaving the party now?"
+  },
+  {
+    "_id": 15,
+    "ru": "Сейчас я упаковываю свою одежду",
+    "en": "I'm packing my clothes now"
+  },
+  {
+    "_id": 16,
+    "ru": "Он всегда приходит в школу поздно",
+    "en": "He always arrives at school late"
+  },
+  {
+    "_id": 17,
+    "ru": "Он сейчас слушает радио",
+    "en": "He is listening to the radio now"
+  },
+  {
+    "_id": 18,
+    "ru": "Моя мама часто готовит",
+    "en": "My mom often cooks"
+  },
+  {
+    "_id": 19,
+    "ru": "Она сейчас собирает эти сумки",
+    "en": "She's packing these bags now"
+  },
+  {
+    "_id": 20,
+    "ru": "Помедленнее! Ты едешь слишком быстро",
+    "en": "Slow down! You are driving too fast"
+  },
+  {
+    "_id": 21,
+    "ru": "Где ты живешь?",
+    "en": "Where do you live?"
+  },
+  {
+    "_id": 22,
+    "ru": "Я много тренируюсь на этой неделе",
+    "en": "I'm training a lot this week"
+  },
+  {
+    "_id": 23,
+    "ru": "Мой друг и я играем в эту игру сейчас",
+    "en": "My friend and I are playing this game now"
+  },
+  {
+    "_id": 24,
+    "ru": "Мой папа часто водит машину",
+    "en": "My dad often drives a car"
+  },
+  {
+    "_id": 25,
+    "ru": "Помедленнее! Ты едешь так быстро",
+    "en": "Slow down! You are driving so fast"
+  },
+  {
+    "_id": 26,
+    "ru": "Кейт сейчас отдыхает",
+    "en": "Kate is having a rest now"
+  },
+  {
+    "_id": 27,
+    "ru": "Солнце встает сейчас",
+    "en": "The sun is rising now"
+  },
+  {
+    "_id": 28,
+    "ru": "Я часто ложусь в кровать поздно",
+    "en": "I often go to bed late"
+  },
+  {
+    "_id": 29,
+    "ru": "Мой друг и я сейчас разговариваем по телефону",
+    "en": "My friend and I are talking on the phone now"
+  },
+  {
+    "_id": 30,
+    "ru": "Он часто рисует в свое свободное время",
+    "en": "He often draws in his free time"
+  },
+  {
+    "_id": 31,
+    "ru": "Я тренируюсь невероятно усердно в эти дни",
+    "en": "I'm training incredibly hard these days"
+  },
+  {
+    "_id": 32,
+    "ru": "Моя мама готовит сейчас",
+    "en": "My mom is cooking now"
+  },
+  {
+    "_id": 33,
+    "ru": "Она делает торт в данный момент",
+    "en": "She is making a cake at the moment"
+  },
+  {
+    "_id": 34,
+    "ru": "Где ты живешь сейчас?",
+    "en": "Where are you living now?"
+  },
+  {
+    "_id": 35,
+    "ru": "Он рисует картину",
+    "en": "He is drawing a picture"
+  },
+  {
+    "_id": 36,
+    "ru": "Мой дедушка ходит гулять каждый день",
+    "en": "My grandpa goes for a walk every day"
+  },
+  {
+    "_id": 37,
+    "ru": "Она иногда читает комиксы",
+    "en": "She sometimes reads comics"
+  },
+  {
+    "_id": 38,
+    "ru": "Я сижу перед компьютером",
+    "en": "I'm sitting in front of the computer"
+  },
+  {
+    "_id": 39,
+    "ru": "Я сейчас иду гулять",
+    "en": "I am going for a walk now"
+  },
+  {
+    "_id": 40,
+    "ru": "Я печатаю в данный момент",
+    "en": "I'm typing at the moment"
+  },
+  {
+    "_id": 41,
+    "ru": "Она обычно ездит в школу на автобусе",
+    "en": "She usually goes to school by bus"
+  },
+  {
+    "_id": 42,
+    "ru": "Она обычно ходит по магазинам на выходных",
+    "en": "She usually goes shopping at the weekend"
+  },
+  {
+    "_id": 43,
+    "ru": "Солнце встает на востоке",
+    "en": "The sun rises in the east"
+  },
+  {
+    "_id": 44,
+    "ru": "Я обычно добираюсь на работу на метро",
+    "en": "I usually get to work by underground"
+  },
+  {
+    "_id": 45,
+    "ru": "Вода кипит при ста градусах",
+    "en": "The water boils at one hundred degrees"
+  },
+  {
+    "_id": 46,
+    "ru": "Он делает звонок в данный момент",
+    "en": "He is making a call at the moment"
+  },
+  {
+    "_id": 47,
+    "ru": "Не входи в ее комнату! Она молится",
+    "en": "Don't enter her room! She is praying"
+  },
+  {
+    "_id": 48,
+    "ru": "Чайник кипит сейчас",
+    "en": "The kettle is boiling now"
+  },
+  {
+    "_id": 49,
+    "ru": "Я делаю звонок сейчас",
+    "en": "I am making a call now"
+  },
+  {
+    "_id": 50,
+    "ru": "Он играет на гитаре почти каждый день",
+    "en": "He plays the guitar almost every day"
+  },
+  {
+    "_id": 51,
+    "ru": "Урок начинается в 8 часов",
+    "en": "The lesson starts at 8 o'clock"
+  },
+  {
+    "_id": 52,
+    "ru": "Там часто идет снег",
+    "en": "It often snows there"
+  },
+  {
+    "_id": 53,
+    "ru": "Послушай! Мальчик поет",
+    "en": "Listen! The boy is singing"
+  },
+  {
+    "_id": 54,
+    "ru": "Девочки идут домой",
+    "en": "The girls are coming home"
+  },
+  {
+    "_id": 55,
+    "ru": "Его брат часто слушает музыку",
+    "en": "His brother often listens to music"
+  },
+  {
+    "_id": 56,
+    "ru": "Я обычно чищу зубы дважды в день",
+    "en": "I usually brush my teeth twice a day"
+  },
+  {
+    "_id": 57,
+    "ru": "Моя сестра слушает музыку сейчас",
+    "en": "My sister is listening to music now"
+  },
+  {
+    "_id": 58,
+    "ru": "Мой брат сейчас смотрит видео",
+    "en": "My brother is watching videos now"
+  },
+  {
+    "_id": 59,
+    "ru": "Моя сестра не слушает музыку сейчас",
+    "en": "My sister isn't listening to music now"
+  },
+  {
+    "_id": 60,
+    "ru": "Ей действительно нравится играть на скрипке",
+    "en": "She really likes playing the violin"
+  },
+  {
+    "_id": 61,
+    "ru": "Ей не нравится играть на гитаре",
+    "en": "She doesn't like playing the guitar"
+  },
+  {
+    "_id": 62,
+    "ru": "Мне действительно нравится играть в эту игру",
+    "en": "I really like playing this game"
+  },
+  {
+    "_id": 63,
+    "ru": "Она обычно ездит домой на автобусе",
+    "en": "She usually goes home by bus"
+  },
+  {
+    "_id": 64,
+    "ru": "Она обычно ездила в школу на автобусе",
+    "en": "She usually went to school by bus"
+  },
+  {
+    "_id": 65,
+    "ru": "Она никогда не ездит домой на автобусе",
+    "en": "She never goes home by bus"
+  },
+  {
+    "_id": 66,
+    "ru": "Она часто смотрит сериалы по телевизору",
+    "en": "She often watches series on TV"
+  },
+  {
+    "_id": 67,
+    "ru": "Как часто она смотрит сериалы по телевизору?",
+    "en": "How often does she watch series on TV?"
+  },
+  {
+    "_id": 68,
+    "ru": "Я обычно не смотрю сериалы по телевизору",
+    "en": "I don't usually watch series on TV"
+  },
+  {
+    "_id": 69,
+    "ru": "Здесь часто идет дождь",
+    "en": "It often rains here"
+  },
+  {
+    "_id": 70,
+    "ru": "Сейчас идет дождь",
+    "en": "It is raining now"
+  },
+  {
+    "_id": 71,
+    "ru": "Сейчас идет снег?",
+    "en": "Is it snowing now?"
+  },
+  {
+    "_id": 72,
+    "ru": "Не беспокой ее! Она молится",
+    "en": "Don't disturb her! She's praying"
+  },
+  {
+    "_id": 73,
+    "ru": "Не беспокой меня! Я молюсь",
+    "en": "Don't disturb me! I'm praying"
+  },
+  {
+    "_id": 74,
+    "ru": "Послушай! Кто-то стучит в дверь",
+    "en": "Listen! Someone is knocking at the door"
+  },
+  {
+    "_id": 75,
+    "ru": "Смотри! Кто-то стоит возле двери",
+    "en": "Look! Someone is staying near the door"
+  },
+  {
+    "_id": 76,
+    "ru": "Послушай! Кто-то кричит",
+    "en": "Listen! Someone is shouting"
+  },
+  {
+    "_id": 77,
+    "ru": "Я болтаю с моим другом в данный момент",
+    "en": "I am chatting with my friend at the moment"
+  },
+  {
+    "_id": 78,
+    "ru": "Я разговариваю с моим другом в данный момент",
+    "en": "I am talking to my friend at the moment"
+  },
+  {
+    "_id": 79,
+    "ru": "Я болтаю с моими друзьями сейчас",
+    "en": "I am chatting with my friends now"
+  },
+  {
+    "_id": 80,
+    "ru": "Он навещает своих родителей по воскресеньям",
+    "en": "He visits his parents on Sundays"
+  },
+  {
+    "_id": 81,
+    "ru": "Я обычно навещаю своих родителей осенью",
+    "en": "I usually visit my parents in autumn"
+  },
+  {
+    "_id": 82,
+    "ru": "Он никогда не навещает своих родителей по понедельникам",
+    "en": "He never visits his parents on Mondays"
+  },
+  {
+    "_id": 83,
+    "ru": "Чайник кипит сейчас?",
+    "en": "Is the kettle boiling now?"
+  },
+  {
+    "_id": 84,
+    "ru": "Вода кипит сейчас?",
+    "en": "Is the water boiling now?"
+  },
+  {
+    "_id": 85,
+    "ru": "Послушай! Кто-то играет на скрипке",
+    "en": "Listen! Someone is playing the violin"
+  },
+  {
+    "_id": 86,
+    "ru": "Он обычно ходит по магазинам на выходных",
+    "en": "He usually goes shopping at the weekends"
+  },
+  {
+    "_id": 87,
+    "ru": "Я обычно иду туда через парк",
+    "en": "I usually go there through the park"
+  },
+  {
+    "_id": 88,
+    "ru": "Я сейчас чищу зубы",
+    "en": "I'm brushing my teeth now"
+  },
+  {
+    "_id": 89,
+    "ru": "Послушай! Кто-то играет на гитаре",
+    "en": "Listen! Someone is playing the guitar"
+  },
+  {
+    "_id": 90,
+    "ru": "Мы идем через парк сейчас",
+    "en": "We are going through the park now"
+  },
+  {
+    "_id": 91,
+    "ru": "Они обедают сейчас",
+    "en": "They are having dinner now"
+  },
+  {
+    "_id": 92,
+    "ru": "Я еду на работу на метро сегодня",
+    "en": "I'm going to work by underground today"
+  },
+  {
+    "_id": 93,
+    "ru": "Посмотри на собаку! Она лает",
+    "en": "Look at the dog! It is barking"
+  },
+  {
+    "_id": 94,
+    "ru": "Становится поздно. Я должен идти домой",
+    "en": "It's getting late now. I must go home"
+  },
+  {
+    "_id": 95,
+    "ru": "Там идет снег",
+    "en": "It's snowing there"
+  },
+  {
+    "_id": 96,
+    "ru": "Здесь идет дождь",
+    "en": "It's raining here"
+  },
+  {
+    "_id": 97,
+    "ru": "Мы идем туда через поле",
+    "en": "We are going there across the field"
+  },
+  {
+    "_id": 98,
+    "ru": "Он обычно идет туда через поле",
+    "en": "He usually goes there across the field"
+  },
+  {
+    "_id": 99,
+    "ru": "Вода сейчас кипит",
+    "en": "The water is boiling now"
+  },
+  {
+    "_id": 100,
+    "ru": "Вода сейчас кипит",
+    "en": "The water is boiling now"
+  }
 ]

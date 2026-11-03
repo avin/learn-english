@@ -1,398 +1,497 @@
 [
-  [
-    "За что ты заплатил?",
-    "What did you pay for?"
-  ],
-  [
-    "Он переехал в этот город в 2010 году",
-    "He moved to this city in 2010"
-  ],
-  [
-    "Я только что прибыл в город",
-    "I have just arrived in the city"
-  ],
-  [
-    "Мы уже закончили работать над этим проектом",
-    "We have already finished working on this project"
-  ],
-  [
-    "Ты был в Англии?",
-    "Have you been to England?"
-  ],
-  [
-    "Он ходил к стоматологу вчера",
-    "He went to the dentist yesterday"
-  ],
-  [
-    "Ты уже закончил свою домашнюю работу?",
-    "Have you finished your homework yet?"
-  ],
-  [
-    "Я не видел его в этом месяце",
-    "I haven't seen him this month"
-  ],
-  [
-    "Во сколько ты вернулся домой в прошлый раз?",
-    "What time did you get home last time?"
-  ],
-  [
-    "Я не знал, что делать в такой сложной ситуации",
-    "I didn't know what to do in such a difficult situation"
-  ],
-  [
-    "Я вчера ходил в парк",
-    "I went to the park yesterday"
-  ],
-  [
-    "Я еще не смотрела это видео",
-    "I haven't watched this video yet"
-  ],
-  [
-    "Где ты был в прошлые выходные?",
-    "Where were you last weekend?"
-  ],
-  [
-    "Он не знал, что делать в такой ситуации",
-    "He didn't know what to do in such a situation"
-  ],
-  [
-    "Я прочитал эту книгу три раза",
-    "I have read this book three times"
-  ],
-  [
-    "Вчера в комнате было очень холодно",
-    "It was very cold in the room yesterday"
-  ],
-  [
-    "Я еще не закончил читать книгу",
-    "I haven't finished reading the book yet"
-  ],
-  [
-    "Я только что закончил делать это",
-    "I've just finished doing it"
-  ],
-  [
-    "Он жил в Париже с 2015 по 2019 год",
-    "He lived in Paris from 2015 to 2019"
-  ],
-  [
-    "Он еще не издал книгу",
-    "He hasn't published the book yet"
-  ],
-  [
-    "Он был когда-нибудь в англоязычной стране?",
-    "Has he ever been to an English-speaking country?"
-  ],
-  [
-    "Что она только что сказала?",
-    "What has she just said?"
-  ],
-  [
-    "Ты был за границей?",
-    "Have you been abroad?"
-  ],
-  [
-    "Я никогда не был в Австралии",
-    "I have never been to Australia"
-  ],
-  [
-    "Ты видел ее сегодня?",
-    "Have you seen her today?"
-  ],
-  [
-    "Когда он пришел на работу?",
-    "When did he come to work?"
-  ],
-  [
-    "Когда ты ушел из дома?",
-    "When did you leave home?"
-  ],
-  [
-    "Он прибыл минуту назад",
-    "He arrived a minute ago"
-  ],
-  [
-    "Ты когда-нибудь посещал англоязычную страну?",
-    "Have you ever visited an English-speaking country?"
-  ],
-  [
-    "Он купил новую машину на этой неделе",
-    "He has bought a new car this week"
-  ],
-  [
-    "Где ты купил свой ноутбук?",
-    "Where did you buy your laptop?"
-  ],
-  [
-    "Он опубликовал эту книгу два месяца назад",
-    "He published this book two months ago"
-  ],
-  [
-    "Гонка еще не началась",
-    "The race hasn't started yet"
-  ],
-  [
-    "Я уже видел этот фильм",
-    "I have already seen this movie"
-  ],
-  [
-    "Ты видел его сегодня утром?",
-    "Have you seen him this morning?"
-  ],
-  [
-    "Он получил плохие новости на прошлой неделе",
-    "He got some bad news - last week"
-  ],
-  [
-    "Мы еще не посетили этот старый замок",
-    "We haven't visited this old castle yet"
-  ],
-  [
-    "Это уже случилось?",
-    "Has it happened yet?"
-  ],
-  [
-    "Было очень прохладно в здании",
-    "It was very cold in the building"
-  ],
-  [
-    "Я видел близнецов на прошлой неделе",
-    "I saw the twins last week"
-  ],
-  [
-    "Я никогда не был в США",
-    "I have never been to the USA"
-  ],
-  [
-    "Она ходила к стоматологу на этой неделе",
-    "She has gone to the dentist this week"
-  ],
-  [
-    "Я ездил на море прошлым летом",
-    "I went to the seaside last summer"
-  ],
-  [
-    "Ты когда-нибудь был в Китае?",
-    "Have you ever been to China?"
-  ],
-  [
-    "Полиция только что арестовала преступников",
-    "The police have just arrested the criminals"
-  ],
-  [
-    "Я видел это сто раз",
-    "I have seen it a hundred times"
-  ],
-  [
-    "Ты еще не был в этом месте?",
-    "Haven't you been to this place yet?"
-  ],
-  [
-    "Это первый раз, когда я вел машину",
-    "It's the first time I have driven a car"
-  ],
-  [
-    "Твой друг еще не звонил тебе?",
-    "Hasn't your friend called you yet?"
-  ],
-  [
-    "Она всегда хотела стать учителем",
-    "She has always wanted to become a teacher"
-  ],
-  [
-    "Ты уже закончил делать свое домашнее задание?",
-    "Have you already finished doing your homework?"
-  ],
-  [
-    "Он никогда не водил машину раньше",
-    "He has never driven a car before"
-  ],
-  [
-    "Полиция еще не прибыла сюда",
-    "The police haven't arrived here yet"
-  ],
-  [
-    "На этой неделе не было снега",
-    "It hasn't snowed this week"
-  ],
-  [
-    "Я второй раз здесь",
-    "It's the second time I have been here"
-  ],
-  [
-    "Это лучший концерт, на котором я когда-либо был",
-    "It is the best concert I've ever been to"
-  ],
-  [
-    "Это самое красивое место, которое я когда-либо видел",
-    "It's the most beautiful place I've ever seen"
-  ],
-  [
-    "Это первый раз, когда я слышу эту песню",
-    "It's the first time I have heard this song"
-  ],
-  [
-    "Это первый раз, когда я смотрю этот фильм",
-    "It's the first time I have watched this movie"
-  ],
-  [
-    "Это первый раз, когда я сделал это",
-    "It is the first time I have done it"
-  ],
-  [
-    "Я еще не был в этой стране, но это в моих планах",
-    "I haven't been to this country yet but it's in my plans"
-  ],
-  [
-    "Я никогда не был в этой стране",
-    "I have never been to this country"
-  ],
-  [
-    "Ты когда-нибудь был в этом городе?",
-    "Have you ever been to this city?"
-  ],
-  [
-    "Я никогда не хотел делать это для других людей",
-    "I have never wanted to do it for other people"
-  ],
-  [
-    "Я впервые здесь",
-    "It's the first time I have been here"
-  ],
-  [
-    "Это второй раз, когда я в Англии",
-    "It is the second time I have been to England"
-  ],
-  [
-    "Это третий раз, когда я был здесь",
-    "It is the third time I have been here"
-  ],
-  [
-    "Она только что переехала в большой город",
-    "She has just moved to a bigger city"
-  ],
-  [
-    "Она уже переехала в этот город?",
-    "Has she already moved to this city?"
-  ],
-  [
-    "Она еще не переехала в эту страну",
-    "She hasn't moved to this country yet"
-  ],
-  [
-    "Я потерял свой ключ и пытаюсь его найти",
-    "I have lost my key and I'm trying to find it"
-  ],
-  [
-    "Я потерял свой ключ, и я не знаю, что делать",
-    "I have lost my key and I don't know what to do"
-  ],
-  [
-    "Я потерял терпение и пытаюсь с этим справиться",
-    "I have lost my patience and I'm trying to cope with it"
-  ],
-  [
-    "Я не слышал о нем с тех пор, как он покинул город",
-    "I haven't heard about him since he left the city"
-  ],
-  [
-    "Я не слышал об этом с тех пор, как закончил школу",
-    "I haven't heard about it since I left school"
-  ],
-  [
-    "Я никогда не слышал об этом",
-    "I have never heard about it"
-  ],
-  [
-    "Он был чрезвычайно измотан, работая там",
-    "He was extremely exhausted working there"
-  ],
-  [
-    "Он был очень уставшим, делая это упражнение",
-    "He was extremely tired of doing this exercise"
-  ],
-  [
-    "Он был действительно шокирован, слушая эту новость",
-    "He was really shocked listening to this news"
-  ],
-  [
-    "Это лучшая книга, которую я когда-либо читал",
-    "It's the best book I have ever read"
-  ],
-  [
-    "Это лучшая еда, которую я когда-либо ел",
-    "It's the best food I have ever eaten"
-  ],
-  [
-    "Это лучший фильм, который я когда-либо смотрел",
-    "It's the best movie I have ever watched"
-  ],
-  [
-    "Я не видел его с тех пор, как окончил университет",
-    "I haven't seen him since I graduated from university"
-  ],
-  [
-    "Я не слышал о нем с тех пор, как окончил школу",
-    "I haven't heard about him since I left school"
-  ],
-  [
-    "Я не делал этого с детства",
-    "I haven't done it since I was a child"
-  ],
-  [
-    "Он потерял свои ключи и не может попасть в дом",
-    "He has lost his keys and he can't get into the house"
-  ],
-  [
-    "Я никогда не думал об этом так серьезно",
-    "I have never thought about it so seriously"
-  ],
-  [
-    "Ученые еще не нашли лекарство от этой болезни",
-    "Scientists haven't found a cure for this disease yet"
-  ],
-  [
-    "Это первый раз, когда он водил машину",
-    "It's the first time he has driven a car"
-  ],
-  [
-    "Она сильно изменилась с тех пор, как ушла из школы",
-    "She has changed a lot since she left school"
-  ],
-  [
-    "Он был очень истощен, когда он работал там",
-    "He was extremely exhausted when he worked there"
-  ],
-  [
-    "Это лучший курс, который я когда-либо проходил",
-    "It's the best course I have ever done"
-  ],
-  [
-    "Ты уже закончил писать это письмо?",
-    "Have you already finished writing this letter?"
-  ],
-  [
-    "Сколько стран ты уже посетил?",
-    "How many countries have you already visited?"
-  ],
-  [
-    "Это первый раз, когда я его вижу",
-    "It is the first time I have seen him"
-  ],
-  [
-    "Это первый раз, когда я сделал это",
-    "It's the first time I've done it"
-  ],
-  [
-    "Это лучшая еда, которую я когда-либо ел",
-    "It's the best meal I have ever had"
-  ],
-  [
-    "В эти дни не шел дождь",
-    "It hasn't rained these days"
-  ],
-  [
-    "Ты еще не слышал это?",
-    "Haven't you heard it yet?"
-  ]
+  {
+    "_id": 1,
+    "ru": "За что ты заплатил?",
+    "en": "What did you pay for?"
+  },
+  {
+    "_id": 2,
+    "ru": "Он переехал в этот город в 2010 году",
+    "en": "He moved to this city in 2010"
+  },
+  {
+    "_id": 3,
+    "ru": "Я только что прибыл в город",
+    "en": "I have just arrived in the city"
+  },
+  {
+    "_id": 4,
+    "ru": "Мы уже закончили работать над этим проектом",
+    "en": "We have already finished working on this project"
+  },
+  {
+    "_id": 5,
+    "ru": "Ты был в Англии?",
+    "en": "Have you been to England?"
+  },
+  {
+    "_id": 6,
+    "ru": "Он ходил к стоматологу вчера",
+    "en": "He went to the dentist yesterday"
+  },
+  {
+    "_id": 7,
+    "ru": "Ты уже закончил свою домашнюю работу?",
+    "en": "Have you finished your homework yet?"
+  },
+  {
+    "_id": 8,
+    "ru": "Я не видел его в этом месяце",
+    "en": "I haven't seen him this month"
+  },
+  {
+    "_id": 9,
+    "ru": "Во сколько ты вернулся домой в прошлый раз?",
+    "en": "What time did you get home last time?"
+  },
+  {
+    "_id": 10,
+    "ru": "Я не знал, что делать в такой сложной ситуации",
+    "en": "I didn't know what to do in such a difficult situation"
+  },
+  {
+    "_id": 11,
+    "ru": "Я вчера ходил в парк",
+    "en": "I went to the park yesterday"
+  },
+  {
+    "_id": 12,
+    "ru": "Я еще не смотрела это видео",
+    "en": "I haven't watched this video yet"
+  },
+  {
+    "_id": 13,
+    "ru": "Где ты был в прошлые выходные?",
+    "en": "Where were you last weekend?"
+  },
+  {
+    "_id": 14,
+    "ru": "Он не знал, что делать в такой ситуации",
+    "en": "He didn't know what to do in such a situation"
+  },
+  {
+    "_id": 15,
+    "ru": "Я прочитал эту книгу три раза",
+    "en": "I have read this book three times"
+  },
+  {
+    "_id": 16,
+    "ru": "Вчера в комнате было очень холодно",
+    "en": "It was very cold in the room yesterday"
+  },
+  {
+    "_id": 17,
+    "ru": "Я еще не закончил читать книгу",
+    "en": "I haven't finished reading the book yet"
+  },
+  {
+    "_id": 18,
+    "ru": "Я только что закончил делать это",
+    "en": "I've just finished doing it"
+  },
+  {
+    "_id": 19,
+    "ru": "Он жил в Париже с 2015 по 2019 год",
+    "en": "He lived in Paris from 2015 to 2019"
+  },
+  {
+    "_id": 20,
+    "ru": "Он еще не издал книгу",
+    "en": "He hasn't published the book yet"
+  },
+  {
+    "_id": 21,
+    "ru": "Он был когда-нибудь в англоязычной стране?",
+    "en": "Has he ever been to an English-speaking country?"
+  },
+  {
+    "_id": 22,
+    "ru": "Что она только что сказала?",
+    "en": "What has she just said?"
+  },
+  {
+    "_id": 23,
+    "ru": "Ты был за границей?",
+    "en": "Have you been abroad?"
+  },
+  {
+    "_id": 24,
+    "ru": "Я никогда не был в Австралии",
+    "en": "I have never been to Australia"
+  },
+  {
+    "_id": 25,
+    "ru": "Ты видел ее сегодня?",
+    "en": "Have you seen her today?"
+  },
+  {
+    "_id": 26,
+    "ru": "Когда он пришел на работу?",
+    "en": "When did he come to work?"
+  },
+  {
+    "_id": 27,
+    "ru": "Когда ты ушел из дома?",
+    "en": "When did you leave home?"
+  },
+  {
+    "_id": 28,
+    "ru": "Он прибыл минуту назад",
+    "en": "He arrived a minute ago"
+  },
+  {
+    "_id": 29,
+    "ru": "Ты когда-нибудь посещал англоязычную страну?",
+    "en": "Have you ever visited an English-speaking country?"
+  },
+  {
+    "_id": 30,
+    "ru": "Он купил новую машину на этой неделе",
+    "en": "He has bought a new car this week"
+  },
+  {
+    "_id": 31,
+    "ru": "Где ты купил свой ноутбук?",
+    "en": "Where did you buy your laptop?"
+  },
+  {
+    "_id": 32,
+    "ru": "Он опубликовал эту книгу два месяца назад",
+    "en": "He published this book two months ago"
+  },
+  {
+    "_id": 33,
+    "ru": "Гонка еще не началась",
+    "en": "The race hasn't started yet"
+  },
+  {
+    "_id": 34,
+    "ru": "Я уже видел этот фильм",
+    "en": "I have already seen this movie"
+  },
+  {
+    "_id": 35,
+    "ru": "Ты видел его сегодня утром?",
+    "en": "Have you seen him this morning?"
+  },
+  {
+    "_id": 36,
+    "ru": "Он получил плохие новости на прошлой неделе",
+    "en": "He got some bad news - last week"
+  },
+  {
+    "_id": 37,
+    "ru": "Мы еще не посетили этот старый замок",
+    "en": "We haven't visited this old castle yet"
+  },
+  {
+    "_id": 38,
+    "ru": "Это уже случилось?",
+    "en": "Has it happened yet?"
+  },
+  {
+    "_id": 39,
+    "ru": "Было очень прохладно в здании",
+    "en": "It was very cold in the building"
+  },
+  {
+    "_id": 40,
+    "ru": "Я видел близнецов на прошлой неделе",
+    "en": "I saw the twins last week"
+  },
+  {
+    "_id": 41,
+    "ru": "Я никогда не был в США",
+    "en": "I have never been to the USA"
+  },
+  {
+    "_id": 42,
+    "ru": "Она ходила к стоматологу на этой неделе",
+    "en": "She has gone to the dentist this week"
+  },
+  {
+    "_id": 43,
+    "ru": "Я ездил на море прошлым летом",
+    "en": "I went to the seaside last summer"
+  },
+  {
+    "_id": 44,
+    "ru": "Ты когда-нибудь был в Китае?",
+    "en": "Have you ever been to China?"
+  },
+  {
+    "_id": 45,
+    "ru": "Полиция только что арестовала преступников",
+    "en": "The police have just arrested the criminals"
+  },
+  {
+    "_id": 46,
+    "ru": "Я видел это сто раз",
+    "en": "I have seen it a hundred times"
+  },
+  {
+    "_id": 47,
+    "ru": "Ты еще не был в этом месте?",
+    "en": "Haven't you been to this place yet?"
+  },
+  {
+    "_id": 48,
+    "ru": "Это первый раз, когда я вел машину",
+    "en": "It's the first time I have driven a car"
+  },
+  {
+    "_id": 49,
+    "ru": "Твой друг еще не звонил тебе?",
+    "en": "Hasn't your friend called you yet?"
+  },
+  {
+    "_id": 50,
+    "ru": "Она всегда хотела стать учителем",
+    "en": "She has always wanted to become a teacher"
+  },
+  {
+    "_id": 51,
+    "ru": "Ты уже закончил делать свое домашнее задание?",
+    "en": "Have you already finished doing your homework?"
+  },
+  {
+    "_id": 52,
+    "ru": "Он никогда не водил машину раньше",
+    "en": "He has never driven a car before"
+  },
+  {
+    "_id": 53,
+    "ru": "Полиция еще не прибыла сюда",
+    "en": "The police haven't arrived here yet"
+  },
+  {
+    "_id": 54,
+    "ru": "На этой неделе не было снега",
+    "en": "It hasn't snowed this week"
+  },
+  {
+    "_id": 55,
+    "ru": "Я второй раз здесь",
+    "en": "It's the second time I have been here"
+  },
+  {
+    "_id": 56,
+    "ru": "Это лучший концерт, на котором я когда-либо был",
+    "en": "It is the best concert I've ever been to"
+  },
+  {
+    "_id": 57,
+    "ru": "Это самое красивое место, которое я когда-либо видел",
+    "en": "It's the most beautiful place I've ever seen"
+  },
+  {
+    "_id": 58,
+    "ru": "Это первый раз, когда я слышу эту песню",
+    "en": "It's the first time I have heard this song"
+  },
+  {
+    "_id": 59,
+    "ru": "Это первый раз, когда я смотрю этот фильм",
+    "en": "It's the first time I have watched this movie"
+  },
+  {
+    "_id": 60,
+    "ru": "Это первый раз, когда я сделал это",
+    "en": "It is the first time I have done it"
+  },
+  {
+    "_id": 61,
+    "ru": "Я еще не был в этой стране, но это в моих планах",
+    "en": "I haven't been to this country yet but it's in my plans"
+  },
+  {
+    "_id": 62,
+    "ru": "Я никогда не был в этой стране",
+    "en": "I have never been to this country"
+  },
+  {
+    "_id": 63,
+    "ru": "Ты когда-нибудь был в этом городе?",
+    "en": "Have you ever been to this city?"
+  },
+  {
+    "_id": 64,
+    "ru": "Я никогда не хотел делать это для других людей",
+    "en": "I have never wanted to do it for other people"
+  },
+  {
+    "_id": 65,
+    "ru": "Я впервые здесь",
+    "en": "It's the first time I have been here"
+  },
+  {
+    "_id": 66,
+    "ru": "Это второй раз, когда я в Англии",
+    "en": "It is the second time I have been to England"
+  },
+  {
+    "_id": 67,
+    "ru": "Это третий раз, когда я был здесь",
+    "en": "It is the third time I have been here"
+  },
+  {
+    "_id": 68,
+    "ru": "Она только что переехала в большой город",
+    "en": "She has just moved to a bigger city"
+  },
+  {
+    "_id": 69,
+    "ru": "Она уже переехала в этот город?",
+    "en": "Has she already moved to this city?"
+  },
+  {
+    "_id": 70,
+    "ru": "Она еще не переехала в эту страну",
+    "en": "She hasn't moved to this country yet"
+  },
+  {
+    "_id": 71,
+    "ru": "Я потерял свой ключ и пытаюсь его найти",
+    "en": "I have lost my key and I'm trying to find it"
+  },
+  {
+    "_id": 72,
+    "ru": "Я потерял свой ключ, и я не знаю, что делать",
+    "en": "I have lost my key and I don't know what to do"
+  },
+  {
+    "_id": 73,
+    "ru": "Я потерял терпение и пытаюсь с этим справиться",
+    "en": "I have lost my patience and I'm trying to cope with it"
+  },
+  {
+    "_id": 74,
+    "ru": "Я не слышал о нем с тех пор, как он покинул город",
+    "en": "I haven't heard about him since he left the city"
+  },
+  {
+    "_id": 75,
+    "ru": "Я не слышал об этом с тех пор, как закончил школу",
+    "en": "I haven't heard about it since I left school"
+  },
+  {
+    "_id": 76,
+    "ru": "Я никогда не слышал об этом",
+    "en": "I have never heard about it"
+  },
+  {
+    "_id": 77,
+    "ru": "Он был чрезвычайно измотан, работая там",
+    "en": "He was extremely exhausted working there"
+  },
+  {
+    "_id": 78,
+    "ru": "Он был очень уставшим, делая это упражнение",
+    "en": "He was extremely tired of doing this exercise"
+  },
+  {
+    "_id": 79,
+    "ru": "Он был действительно шокирован, слушая эту новость",
+    "en": "He was really shocked listening to this news"
+  },
+  {
+    "_id": 80,
+    "ru": "Это лучшая книга, которую я когда-либо читал",
+    "en": "It's the best book I have ever read"
+  },
+  {
+    "_id": 81,
+    "ru": "Это лучшая еда, которую я когда-либо ел",
+    "en": "It's the best food I have ever eaten"
+  },
+  {
+    "_id": 82,
+    "ru": "Это лучший фильм, который я когда-либо смотрел",
+    "en": "It's the best movie I have ever watched"
+  },
+  {
+    "_id": 83,
+    "ru": "Я не видел его с тех пор, как окончил университет",
+    "en": "I haven't seen him since I graduated from university"
+  },
+  {
+    "_id": 84,
+    "ru": "Я не слышал о нем с тех пор, как окончил школу",
+    "en": "I haven't heard about him since I left school"
+  },
+  {
+    "_id": 85,
+    "ru": "Я не делал этого с детства",
+    "en": "I haven't done it since I was a child"
+  },
+  {
+    "_id": 86,
+    "ru": "Он потерял свои ключи и не может попасть в дом",
+    "en": "He has lost his keys and he can't get into the house"
+  },
+  {
+    "_id": 87,
+    "ru": "Я никогда не думал об этом так серьезно",
+    "en": "I have never thought about it so seriously"
+  },
+  {
+    "_id": 88,
+    "ru": "Ученые еще не нашли лекарство от этой болезни",
+    "en": "Scientists haven't found a cure for this disease yet"
+  },
+  {
+    "_id": 89,
+    "ru": "Это первый раз, когда он водил машину",
+    "en": "It's the first time he has driven a car"
+  },
+  {
+    "_id": 90,
+    "ru": "Она сильно изменилась с тех пор, как ушла из школы",
+    "en": "She has changed a lot since she left school"
+  },
+  {
+    "_id": 91,
+    "ru": "Он был очень истощен, когда он работал там",
+    "en": "He was extremely exhausted when he worked there"
+  },
+  {
+    "_id": 92,
+    "ru": "Это лучший курс, который я когда-либо проходил",
+    "en": "It's the best course I have ever done"
+  },
+  {
+    "_id": 93,
+    "ru": "Ты уже закончил писать это письмо?",
+    "en": "Have you already finished writing this letter?"
+  },
+  {
+    "_id": 94,
+    "ru": "Сколько стран ты уже посетил?",
+    "en": "How many countries have you already visited?"
+  },
+  {
+    "_id": 95,
+    "ru": "Это первый раз, когда я его вижу",
+    "en": "It is the first time I have seen him"
+  },
+  {
+    "_id": 96,
+    "ru": "Это первый раз, когда я сделал это",
+    "en": "It's the first time I've done it"
+  },
+  {
+    "_id": 97,
+    "ru": "Это лучшая еда, которую я когда-либо ел",
+    "en": "It's the best meal I have ever had"
+  },
+  {
+    "_id": 98,
+    "ru": "В эти дни не шел дождь",
+    "en": "It hasn't rained these days"
+  },
+  {
+    "_id": 99,
+    "ru": "Ты еще не слышал это?",
+    "en": "Haven't you heard it yet?"
+  }
 ]

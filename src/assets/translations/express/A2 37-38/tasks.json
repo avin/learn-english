@@ -1,90 +1,112 @@
 [
-  [
-    "Они прервали его, но он продолжил говорить",
-    "They interrupted him but he continued talking"
-  ],
-  [
-    "Он держал свои деньги в том банке",
-    "He kept his money in that bank"
-  ],
-  [
-    "Это запрещено",
-    "It's forbidden"
-  ],
-  [
-    "Когда они были в отпуске, они арендовали машину",
-    "When they were on holiday, they rented a car"
-  ],
-  [
-    "Эти новости действительно шокировали всех нас",
-    "This news really shocked all of us"
-  ],
-  [
-    "Она помогала ему довольно регулярно",
-    "She helped him quite regularly"
-  ],
-  [
-    "Он помогает ей на регулярной основе",
-    "He helps her on a regular basis"
-  ],
-  [
-    "Они вырыли очень глубокую яму в земле",
-    "They dug a very deep hole in the ground"
-  ],
-  [
-    "Я присоединюсь к вам с огромным удовольствием",
-    "I'll join you with great pleasure"
-  ],
-  [
-    "Я еще не набрал весь текст",
-    "I haven't typed all the text yet"
-  ],
-  [
-    "Вчера весь день шел дождь",
-    "It was raining all day yesterday"
-  ],
-  [
-    "Когда она пела, они танцевали",
-    "When she was singing, they were dancing"
-  ],
-  [
-    "Он предпочитает не курить",
-    "He prefers not to smoke"
-  ],
-  [
-    "Преступник скрылся от полиции, но потом они поймали его",
-    "The criminal hid from the police but then they caught him"
-  ],
-  [
-    "Я только что понял, как это работает",
-    "I've just understood how it works"
-  ],
-  [
-    "Он сбрил бороду",
-    "He shaved his beard"
-  ],
-  [
-    "Он говорит, что это было запрещено",
-    "He says that it was forbidden"
-  ],
-  [
-    "Разрешите представиться!",
-    "Let me introduce myself!"
-  ],
-  [
-    "Я только что положил эту сумку на пол",
-    "I've just put this bag on the floor"
-  ],
-  [
-    "Нам нужно поторопиться, иначе мы можем пропустить поезд",
-    "We need to hurry up or we can miss the train"
-  ],
-  [
-    "Он сказал, что это испортило его планы",
-    "He said that it had spoilt his plans"
-  ],
-  [
-    "Он позвонил мне, когда я что-то печатал",
-    "He called me when I was typing something"
-  ]
+  {
+    "_id": 1,
+    "ru": "Они прервали его, но он продолжил говорить",
+    "en": "They interrupted him but he continued talking"
+  },
+  {
+    "_id": 2,
+    "ru": "Он держал свои деньги в том банке",
+    "en": "He kept his money in that bank"
+  },
+  {
+    "_id": 3,
+    "ru": "Это запрещено",
+    "en": "It's forbidden"
+  },
+  {
+    "_id": 4,
+    "ru": "Когда они были в отпуске, они арендовали машину",
+    "en": "When they were on holiday, they rented a car"
+  },
+  {
+    "_id": 5,
+    "ru": "Эти новости действительно шокировали всех нас",
+    "en": "This news really shocked all of us"
+  },
+  {
+    "_id": 6,
+    "ru": "Она помогала ему довольно регулярно",
+    "en": "She helped him quite regularly"
+  },
+  {
+    "_id": 7,
+    "ru": "Он помогает ей на регулярной основе",
+    "en": "He helps her on a regular basis"
+  },
+  {
+    "_id": 8,
+    "ru": "Они вырыли очень глубокую яму в земле",
+    "en": "They dug a very deep hole in the ground"
+  },
+  {
+    "_id": 9,
+    "ru": "Я присоединюсь к вам с огромным удовольствием",
+    "en": "I'll join you with great pleasure"
+  },
+  {
+    "_id": 10,
+    "ru": "Я еще не набрал весь текст",
+    "en": "I haven't typed all the text yet"
+  },
+  {
+    "_id": 11,
+    "ru": "Вчера весь день шел дождь",
+    "en": "It was raining all day yesterday"
+  },
+  {
+    "_id": 12,
+    "ru": "Когда она пела, они танцевали",
+    "en": "When she was singing, they were dancing"
+  },
+  {
+    "_id": 13,
+    "ru": "Он предпочитает не курить",
+    "en": "He prefers not to smoke"
+  },
+  {
+    "_id": 14,
+    "ru": "Преступник скрылся от полиции, но потом они поймали его",
+    "en": "The criminal hid from the police but then they caught him"
+  },
+  {
+    "_id": 15,
+    "ru": "Я только что понял, как это работает",
+    "en": "I've just understood how it works"
+  },
+  {
+    "_id": 16,
+    "ru": "Он сбрил бороду",
+    "en": "He shaved his beard"
+  },
+  {
+    "_id": 17,
+    "ru": "Он говорит, что это было запрещено",
+    "en": "He says that it was forbidden"
+  },
+  {
+    "_id": 18,
+    "ru": "Разрешите представиться!",
+    "en": "Let me introduce myself!"
+  },
+  {
+    "_id": 19,
+    "ru": "Я только что положил эту сумку на пол",
+    "en": "I've just put this bag on the floor"
+  },
+  {
+    "_id": 20,
+    "ru": "Нам нужно поторопиться, иначе мы можем пропустить поезд",
+    "en": "We need to hurry up or we can miss the train"
+  },
+  {
+    "_id": 21,
+    "ru": "Он сказал, что это испортило его планы",
+    "en": "He said that it had spoilt his plans"
+  },
+  {
+    "_id": 22,
+    "ru": "Он позвонил мне, когда я что-то печатал",
+    "en": "He called me when I was typing something"
+  }
 ]

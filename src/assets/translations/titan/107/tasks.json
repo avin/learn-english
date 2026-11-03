@@ -1,418 +1,522 @@
 [
-  [
-    "Он в комнате",
-    "He’s in the room"
-  ],
-  [
-    "Мы учимся в школе",
-    "We study at school"
-  ],
-  [
-    "Моя сумка на этом столе",
-    "My bag is on this table"
-  ],
-  [
-    "Я хожу на работу",
-    "I go to work"
-  ],
-  [
-    "Я в комнате",
-    "I'm in the room"
-  ],
-  [
-    "Я был там днем",
-    "I was there in the afternoon"
-  ],
-  [
-    "Мы обычно ездим туда в марте",
-    "We usually go there in March"
-  ],
-  [
-    "Она хотела бы выпить стакан воды",
-    "She'd like to drink a glass of water"
-  ],
-  [
-    "Ручка на столе",
-    "The pen is on the desk"
-  ],
-  [
-    "Я был очень занят в январе",
-    "I was very busy in January"
-  ],
-  [
-    "Она учится в школе",
-    "She studies at school"
-  ],
-  [
-    "Я ходил в то место в прошлом октябре",
-    "I went to that place last October"
-  ],
-  [
-    "Она ходит на работу",
-    "She goes to work"
-  ],
-  [
-    "Он ходит в школу?",
-    "Does he go to school?"
-  ],
-  [
-    "Я могу видеть это в небе",
-    "I can see it in the sky"
-  ],
-  [
-    "Окно дома разбито",
-    "The window of the house is broken"
-  ],
-  [
-    "Мы поедем в Италию в следующем феврале",
-    "We will go to Italy next February"
-  ],
-  [
-    "Я буду здесь до сентября",
-    "I'll be here until September"
-  ],
-  [
-    "Он пришел домой в семь часов вечера",
-    "He came home at seven o'clock in the evening"
-  ],
-  [
-    "Ты ходил на эту вечеринку?",
-    "Did you go to this party?"
-  ],
-  [
-    "Мой день рождения в июне",
-    "My birthday is in June"
-  ],
-  [
-    "Я был там в апреле прошлого года",
-    "I was there last April"
-  ],
-  [
-    "Это в углу",
-    "It's in the corner"
-  ],
-  [
-    "Я вижу это в небе",
-    "I see it in the sky"
-  ],
-  [
-    "Я родился в Москве",
-    "I was born in Moscow"
-  ],
-  [
-    "Он живет на ферме",
-    "He lives on a farm"
-  ],
-  [
-    "Это на полу",
-    "It's on the floor"
-  ],
-  [
-    "Ее день рождения в июле",
-    "Her birthday is in July"
-  ],
-  [
-    "Пациент в кровати",
-    "The patient is in bed"
-  ],
-  [
-    "Крыша дома сломана",
-    "The roof of the house is broken"
-  ],
-  [
-    "Она родилась в Мексике",
-    "She was born in Mexico"
-  ],
-  [
-    "Ты увидишь это слева",
-    "You will see it on the left"
-  ],
-  [
-    "Окно дома открыто",
-    "The window of the house is open"
-  ],
-  [
-    "Дети на полу",
-    "The children are on the floor"
-  ],
-  [
-    "Мы будем отмечать этот праздник в мае",
-    "We will celebrate this holiday in May"
-  ],
-  [
-    "Я проснулся очень рано утром",
-    "I woke up very early in the morning"
-  ],
-  [
-    "Я буду там до августа",
-    "I'll be there till August"
-  ],
-  [
-    "Игрушка в коробке",
-    "The toy is in the box"
-  ],
-  [
-    "Он был на этой вечеринке",
-    "He was at this party"
-  ],
-  [
-    "Я хочу выпить стакан сока",
-    "I want to drink a glass of juice"
-  ],
-  [
-    "Мы можем встретиться вечером",
-    "We can meet in the evening"
-  ],
-  [
-    "Он поедет в Германию в этом декабре",
-    "He'll go to Germany this December"
-  ],
-  [
-    "Он будет отсутствовать в ноябре",
-    "He will be away in November"
-  ],
-  [
-    "Мальчик в кровати",
-    "The boy is in bed"
-  ],
-  [
-    "Я вижу это на этой картинке",
-    "I see it in this picture"
-  ],
-  [
-    "Ты самая красивая девушка в мире",
-    "You're the most beautiful girl in the world"
-  ],
-  [
-    "Мы живем на втором этаже",
-    "We live on the second floor"
-  ],
-  [
-    "Ты можешь показать мне эту вещь?",
-    "Can you show me this thing?"
-  ],
-  [
-    "Я вижу это в углу комнаты",
-    "I see it in the corner of the room"
-  ],
-  [
-    "Я хочу найти это на карте",
-    "I want to find it on the map"
-  ],
-  [
-    "Мы увидим друг друга на Новый год",
-    "We will see each other at New Year"
-  ],
-  [
-    "Он полетит в Лондон в марте",
-    "He will fly to London in March"
-  ],
-  [
-    "Мы встретимся на рождество?",
-    "Will we meet at Christmas?"
-  ],
-  [
-    "Это слева",
-    "It's on the left"
-  ],
-  [
-    "Моя мама живет в деревне",
-    "My mother lives in the country"
-  ],
-  [
-    "Ты можешь показать это мне?",
-    "Can you show it to me?"
-  ],
-  [
-    "Мы можем видеть это на этой картинке",
-    "We can see it in this picture"
-  ],
-  [
-    "Это справа",
-    "It's on the right"
-  ],
-  [
-    "Дай мне ту вещь!",
-    "Give me that thing!"
-  ],
-  [
-    "Это самая популярная песня в мире",
-    "It's the most popular song in the world"
-  ],
-  [
-    "Это самая известная песня в мире",
-    "It's the most famous song in the world"
-  ],
-  [
-    "Это самая популярная песня в мире?",
-    "Is it the most popular song in the world?"
-  ],
-  [
-    "Мы увидим друг друга на Новый Год",
-    "We'll see each other on New Year's Day"
-  ],
-  [
-    "Мы увидим друг друга в следующем месяце",
-    "We'll see each other next month"
-  ],
-  [
-    "Мы увидим друг друга в сентябре",
-    "We'll see each other in September"
-  ],
-  [
-    "Он живет на первом этаже?",
-    "Does he live on the ground floor?"
-  ],
-  [
-    "Он живет на втором этаже?",
-    "Does he live on the second floor?"
-  ],
-  [
-    "Он живет на третьем этаже",
-    "He lives on the third floor"
-  ],
-  [
-    "Он часто лежит в постели по утрам",
-    "He often lies in bed in the mornings"
-  ],
-  [
-    "Он часто делает это по утрам",
-    "He often does it in the mornings"
-  ],
-  [
-    "Он часто лежит в постели по вечерам",
-    "He often lies in bed in the evenings"
-  ],
-  [
-    "Тебе нравится гулять на улице?",
-    "Do you like walking in the street?"
-  ],
-  [
-    "Тебе нравится гулять в парке?",
-    "Do you like walking in the park?"
-  ],
-  [
-    "Я люблю гулять там",
-    "I like walking there"
-  ],
-  [
-    "Покажи мне эту вещь!",
-    "Show this thing to me!"
-  ],
-  [
-    "Ты можешь показать эту вещь мне?",
-    "Can you show this thing to me?"
-  ],
-  [
-    "Покажи это мне!",
-    "Show it to me!"
-  ],
-  [
-    "Мы остановились на середине видео",
-    "We stopped in the middle of the video"
-  ],
-  [
-    "Мы остановились на середине фильма",
-    "We stopped in the middle of the movie"
-  ],
-  [
-    "Они остановились на середине видео",
-    "They stopped in the middle of the video"
-  ],
-  [
-    "Супермаркет будет справа",
-    "The supermarket will be on the right"
-  ],
-  [
-    "Музей будет слева",
-    "The museum will be on the left"
-  ],
-  [
-    "Это будет справа",
-    "It will be on the right"
-  ],
-  [
-    "Он самый богатый человек в мире",
-    "He's the richest person in the world"
-  ],
-  [
-    "Он самый богатый человек в этом городе",
-    "He's the richest person in this city"
-  ],
-  [
-    "Он самый популярный певец в мире",
-    "He's the most popular singer in the world"
-  ],
-  [
-    "Дай эту вещь мне!",
-    "Give this thing to me!"
-  ],
-  [
-    "Ты можешь дать эту книгу мне?",
-    "Can you give this book to me?"
-  ],
-  [
-    "Дай эти вещи ему!",
-    "Give these things to him!"
-  ],
-  [
-    "Я остановился посередине",
-    "I stopped in the middle"
-  ],
-  [
-    "Она живет на первом этаже",
-    "She lives on the ground floor"
-  ],
-  [
-    "Я родился в апреле",
-    "I was born in April"
-  ],
-  [
-    "Вторая мировая война началась в 1939 году",
-    "The Second World War started in 1939"
-  ],
-  [
-    "Я остановился на середине книги",
-    "I stopped in the middle of the book"
-  ],
-  [
-    "Это самое красивое место в мире",
-    "It's the most beautiful place in the world"
-  ],
-  [
-    "Я люблю гулять на улице",
-    "I like walking in the street"
-  ],
-  [
-    "Покажи мне эту вещь!",
-    "Show - me this thing!"
-  ],
-  [
-    "Мы встретимся на Рождество",
-    "We'll meet on Christmas Day"
-  ],
-  [
-    "Я люблю гулять с своими друзьями на улице",
-    "I like walking in the street with my friends"
-  ],
-  [
-    "Он родился в 1987 году",
-    "He was born in 1987"
-  ],
-  [
-    "Это есть на фото",
-    "It's in the photo"
-  ],
-  [
-    "Дай это мне!",
-    "Give it to me!"
-  ],
-  [
-    "Я живу на первом этаже",
-    "I live on the first floor"
-  ],
-  [
-    "Посмотрите на фото!",
-    "Look at the photo!"
-  ]
+  {
+    "_id": 1,
+    "ru": "Он в комнате",
+    "en": "He’s in the room"
+  },
+  {
+    "_id": 2,
+    "ru": "Мы учимся в школе",
+    "en": "We study at school"
+  },
+  {
+    "_id": 3,
+    "ru": "Моя сумка на этом столе",
+    "en": "My bag is on this table"
+  },
+  {
+    "_id": 4,
+    "ru": "Я хожу на работу",
+    "en": "I go to work"
+  },
+  {
+    "_id": 5,
+    "ru": "Я в комнате",
+    "en": "I'm in the room"
+  },
+  {
+    "_id": 6,
+    "ru": "Я был там днем",
+    "en": "I was there in the afternoon"
+  },
+  {
+    "_id": 7,
+    "ru": "Мы обычно ездим туда в марте",
+    "en": "We usually go there in March"
+  },
+  {
+    "_id": 8,
+    "ru": "Она хотела бы выпить стакан воды",
+    "en": "She'd like to drink a glass of water"
+  },
+  {
+    "_id": 9,
+    "ru": "Ручка на столе",
+    "en": "The pen is on the desk"
+  },
+  {
+    "_id": 10,
+    "ru": "Я был очень занят в январе",
+    "en": "I was very busy in January"
+  },
+  {
+    "_id": 11,
+    "ru": "Она учится в школе",
+    "en": "She studies at school"
+  },
+  {
+    "_id": 12,
+    "ru": "Я ходил в то место в прошлом октябре",
+    "en": "I went to that place last October"
+  },
+  {
+    "_id": 13,
+    "ru": "Она ходит на работу",
+    "en": "She goes to work"
+  },
+  {
+    "_id": 14,
+    "ru": "Он ходит в школу?",
+    "en": "Does he go to school?"
+  },
+  {
+    "_id": 15,
+    "ru": "Я могу видеть это в небе",
+    "en": "I can see it in the sky"
+  },
+  {
+    "_id": 16,
+    "ru": "Окно дома разбито",
+    "en": "The window of the house is broken"
+  },
+  {
+    "_id": 17,
+    "ru": "Мы поедем в Италию в следующем феврале",
+    "en": "We will go to Italy next February"
+  },
+  {
+    "_id": 18,
+    "ru": "Я буду здесь до сентября",
+    "en": "I'll be here until September"
+  },
+  {
+    "_id": 19,
+    "ru": "Он пришел домой в семь часов вечера",
+    "en": "He came home at seven o'clock in the evening"
+  },
+  {
+    "_id": 20,
+    "ru": "Ты ходил на эту вечеринку?",
+    "en": "Did you go to this party?"
+  },
+  {
+    "_id": 21,
+    "ru": "Мой день рождения в июне",
+    "en": "My birthday is in June"
+  },
+  {
+    "_id": 22,
+    "ru": "Я был там в апреле прошлого года",
+    "en": "I was there last April"
+  },
+  {
+    "_id": 23,
+    "ru": "Это в углу",
+    "en": "It's in the corner"
+  },
+  {
+    "_id": 24,
+    "ru": "Я вижу это в небе",
+    "en": "I see it in the sky"
+  },
+  {
+    "_id": 25,
+    "ru": "Я родился в Москве",
+    "en": "I was born in Moscow"
+  },
+  {
+    "_id": 26,
+    "ru": "Он живет на ферме",
+    "en": "He lives on a farm"
+  },
+  {
+    "_id": 27,
+    "ru": "Это на полу",
+    "en": "It's on the floor"
+  },
+  {
+    "_id": 28,
+    "ru": "Ее день рождения в июле",
+    "en": "Her birthday is in July"
+  },
+  {
+    "_id": 29,
+    "ru": "Пациент в кровати",
+    "en": "The patient is in bed"
+  },
+  {
+    "_id": 30,
+    "ru": "Крыша дома сломана",
+    "en": "The roof of the house is broken"
+  },
+  {
+    "_id": 31,
+    "ru": "Она родилась в Мексике",
+    "en": "She was born in Mexico"
+  },
+  {
+    "_id": 32,
+    "ru": "Ты увидишь это слева",
+    "en": "You will see it on the left"
+  },
+  {
+    "_id": 33,
+    "ru": "Окно дома открыто",
+    "en": "The window of the house is open"
+  },
+  {
+    "_id": 34,
+    "ru": "Дети на полу",
+    "en": "The children are on the floor"
+  },
+  {
+    "_id": 35,
+    "ru": "Мы будем отмечать этот праздник в мае",
+    "en": "We will celebrate this holiday in May"
+  },
+  {
+    "_id": 36,
+    "ru": "Я проснулся очень рано утром",
+    "en": "I woke up very early in the morning"
+  },
+  {
+    "_id": 37,
+    "ru": "Я буду там до августа",
+    "en": "I'll be there till August"
+  },
+  {
+    "_id": 38,
+    "ru": "Игрушка в коробке",
+    "en": "The toy is in the box"
+  },
+  {
+    "_id": 39,
+    "ru": "Он был на этой вечеринке",
+    "en": "He was at this party"
+  },
+  {
+    "_id": 40,
+    "ru": "Я хочу выпить стакан сока",
+    "en": "I want to drink a glass of juice"
+  },
+  {
+    "_id": 41,
+    "ru": "Мы можем встретиться вечером",
+    "en": "We can meet in the evening"
+  },
+  {
+    "_id": 42,
+    "ru": "Он поедет в Германию в этом декабре",
+    "en": "He'll go to Germany this December"
+  },
+  {
+    "_id": 43,
+    "ru": "Он будет отсутствовать в ноябре",
+    "en": "He will be away in November"
+  },
+  {
+    "_id": 44,
+    "ru": "Мальчик в кровати",
+    "en": "The boy is in bed"
+  },
+  {
+    "_id": 45,
+    "ru": "Я вижу это на этой картинке",
+    "en": "I see it in this picture"
+  },
+  {
+    "_id": 46,
+    "ru": "Ты самая красивая девушка в мире",
+    "en": "You're the most beautiful girl in the world"
+  },
+  {
+    "_id": 47,
+    "ru": "Мы живем на втором этаже",
+    "en": "We live on the second floor"
+  },
+  {
+    "_id": 48,
+    "ru": "Ты можешь показать мне эту вещь?",
+    "en": "Can you show me this thing?"
+  },
+  {
+    "_id": 49,
+    "ru": "Я вижу это в углу комнаты",
+    "en": "I see it in the corner of the room"
+  },
+  {
+    "_id": 50,
+    "ru": "Я хочу найти это на карте",
+    "en": "I want to find it on the map"
+  },
+  {
+    "_id": 51,
+    "ru": "Мы увидим друг друга на Новый год",
+    "en": "We will see each other at New Year"
+  },
+  {
+    "_id": 52,
+    "ru": "Он полетит в Лондон в марте",
+    "en": "He will fly to London in March"
+  },
+  {
+    "_id": 53,
+    "ru": "Мы встретимся на рождество?",
+    "en": "Will we meet at Christmas?"
+  },
+  {
+    "_id": 54,
+    "ru": "Это слева",
+    "en": "It's on the left"
+  },
+  {
+    "_id": 55,
+    "ru": "Моя мама живет в деревне",
+    "en": "My mother lives in the country"
+  },
+  {
+    "_id": 56,
+    "ru": "Ты можешь показать это мне?",
+    "en": "Can you show it to me?"
+  },
+  {
+    "_id": 57,
+    "ru": "Мы можем видеть это на этой картинке",
+    "en": "We can see it in this picture"
+  },
+  {
+    "_id": 58,
+    "ru": "Это справа",
+    "en": "It's on the right"
+  },
+  {
+    "_id": 59,
+    "ru": "Дай мне ту вещь!",
+    "en": "Give me that thing!"
+  },
+  {
+    "_id": 60,
+    "ru": "Это самая популярная песня в мире",
+    "en": "It's the most popular song in the world"
+  },
+  {
+    "_id": 61,
+    "ru": "Это самая известная песня в мире",
+    "en": "It's the most famous song in the world"
+  },
+  {
+    "_id": 62,
+    "ru": "Это самая популярная песня в мире?",
+    "en": "Is it the most popular song in the world?"
+  },
+  {
+    "_id": 63,
+    "ru": "Мы увидим друг друга на Новый Год",
+    "en": "We'll see each other on New Year's Day"
+  },
+  {
+    "_id": 64,
+    "ru": "Мы увидим друг друга в следующем месяце",
+    "en": "We'll see each other next month"
+  },
+  {
+    "_id": 65,
+    "ru": "Мы увидим друг друга в сентябре",
+    "en": "We'll see each other in September"
+  },
+  {
+    "_id": 66,
+    "ru": "Он живет на первом этаже?",
+    "en": "Does he live on the ground floor?"
+  },
+  {
+    "_id": 67,
+    "ru": "Он живет на втором этаже?",
+    "en": "Does he live on the second floor?"
+  },
+  {
+    "_id": 68,
+    "ru": "Он живет на третьем этаже",
+    "en": "He lives on the third floor"
+  },
+  {
+    "_id": 69,
+    "ru": "Он часто лежит в постели по утрам",
+    "en": "He often lies in bed in the mornings"
+  },
+  {
+    "_id": 70,
+    "ru": "Он часто делает это по утрам",
+    "en": "He often does it in the mornings"
+  },
+  {
+    "_id": 71,
+    "ru": "Он часто лежит в постели по вечерам",
+    "en": "He often lies in bed in the evenings"
+  },
+  {
+    "_id": 72,
+    "ru": "Тебе нравится гулять на улице?",
+    "en": "Do you like walking in the street?"
+  },
+  {
+    "_id": 73,
+    "ru": "Тебе нравится гулять в парке?",
+    "en": "Do you like walking in the park?"
+  },
+  {
+    "_id": 74,
+    "ru": "Я люблю гулять там",
+    "en": "I like walking there"
+  },
+  {
+    "_id": 75,
+    "ru": "Покажи мне эту вещь!",
+    "en": "Show this thing to me!"
+  },
+  {
+    "_id": 76,
+    "ru": "Ты можешь показать эту вещь мне?",
+    "en": "Can you show this thing to me?"
+  },
+  {
+    "_id": 77,
+    "ru": "Покажи это мне!",
+    "en": "Show it to me!"
+  },
+  {
+    "_id": 78,
+    "ru": "Мы остановились на середине видео",
+    "en": "We stopped in the middle of the video"
+  },
+  {
+    "_id": 79,
+    "ru": "Мы остановились на середине фильма",
+    "en": "We stopped in the middle of the movie"
+  },
+  {
+    "_id": 80,
+    "ru": "Они остановились на середине видео",
+    "en": "They stopped in the middle of the video"
+  },
+  {
+    "_id": 81,
+    "ru": "Супермаркет будет справа",
+    "en": "The supermarket will be on the right"
+  },
+  {
+    "_id": 82,
+    "ru": "Музей будет слева",
+    "en": "The museum will be on the left"
+  },
+  {
+    "_id": 83,
+    "ru": "Это будет справа",
+    "en": "It will be on the right"
+  },
+  {
+    "_id": 84,
+    "ru": "Он самый богатый человек в мире",
+    "en": "He's the richest person in the world"
+  },
+  {
+    "_id": 85,
+    "ru": "Он самый богатый человек в этом городе",
+    "en": "He's the richest person in this city"
+  },
+  {
+    "_id": 86,
+    "ru": "Он самый популярный певец в мире",
+    "en": "He's the most popular singer in the world"
+  },
+  {
+    "_id": 87,
+    "ru": "Дай эту вещь мне!",
+    "en": "Give this thing to me!"
+  },
+  {
+    "_id": 88,
+    "ru": "Ты можешь дать эту книгу мне?",
+    "en": "Can you give this book to me?"
+  },
+  {
+    "_id": 89,
+    "ru": "Дай эти вещи ему!",
+    "en": "Give these things to him!"
+  },
+  {
+    "_id": 90,
+    "ru": "Я остановился посередине",
+    "en": "I stopped in the middle"
+  },
+  {
+    "_id": 91,
+    "ru": "Она живет на первом этаже",
+    "en": "She lives on the ground floor"
+  },
+  {
+    "_id": 92,
+    "ru": "Я родился в апреле",
+    "en": "I was born in April"
+  },
+  {
+    "_id": 93,
+    "ru": "Вторая мировая война началась в 1939 году",
+    "en": "The Second World War started in 1939"
+  },
+  {
+    "_id": 94,
+    "ru": "Я остановился на середине книги",
+    "en": "I stopped in the middle of the book"
+  },
+  {
+    "_id": 95,
+    "ru": "Это самое красивое место в мире",
+    "en": "It's the most beautiful place in the world"
+  },
+  {
+    "_id": 96,
+    "ru": "Я люблю гулять на улице",
+    "en": "I like walking in the street"
+  },
+  {
+    "_id": 97,
+    "ru": "Покажи мне эту вещь!",
+    "en": "Show - me this thing!"
+  },
+  {
+    "_id": 98,
+    "ru": "Мы встретимся на Рождество",
+    "en": "We'll meet on Christmas Day"
+  },
+  {
+    "_id": 99,
+    "ru": "Я люблю гулять с своими друзьями на улице",
+    "en": "I like walking in the street with my friends"
+  },
+  {
+    "_id": 100,
+    "ru": "Он родился в 1987 году",
+    "en": "He was born in 1987"
+  },
+  {
+    "_id": 101,
+    "ru": "Это есть на фото",
+    "en": "It's in the photo"
+  },
+  {
+    "_id": 102,
+    "ru": "Дай это мне!",
+    "en": "Give it to me!"
+  },
+  {
+    "_id": 103,
+    "ru": "Я живу на первом этаже",
+    "en": "I live on the first floor"
+  },
+  {
+    "_id": 104,
+    "ru": "Посмотрите на фото!",
+    "en": "Look at the photo!"
+  }
 ]

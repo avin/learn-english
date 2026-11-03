@@ -1,54 +1,67 @@
 [
-  [
-    "Ты можешь сделать музыку потише?",
-    "Can you turn down the music?"
-  ],
-  [
-    "Я перезвоню тебе, как только освобожусь",
-    "I'll call you back as soon as I get free"
-  ],
-  [
-    "Кем он воспитывался?",
-    "Who was he brought up by?"
-  ],
-  [
-    "Я сказал ей, что перезвоню ей, как только освобожусь",
-    "I told her that I would call her back as soon as I got free"
-  ],
-  [
-    "Он остался дома, потому что его машина сломалась",
-    "He stayed at home because his car had broken down"
-  ],
-  [
-    "Можешь чуть-чуть увеличить громкость?",
-    "Can you turn up the volume a bit?"
-  ],
-  [
-    "Можешь немного увеличить громкость?",
-    "Can you turn up the volume a little?"
-  ],
-  [
-    "Музыка была настолько громкой, что я ее сделал потише",
-    "The music was so loud that I turned it down"
-  ],
-  [
-    "Я уже выключил компьютер",
-    "I've already switched off the computer"
-  ],
-  [
-    "Он сказал, что никогда не вернется туда",
-    "He said that he would never come back there"
-  ],
-  [
-    "Кто его воспитывал?",
-    "Who brought him up?"
-  ],
-  [
-    "Не забудь выключить свет перед уходом",
-    "Don't forget to turn off the light before leaving"
-  ],
-  [
-    "Давай вернемся к нашему разговору!",
-    "Let's get back to our conversation!"
-  ]
+  {
+    "_id": 1,
+    "ru": "Ты можешь сделать музыку потише?",
+    "en": "Can you turn down the music?"
+  },
+  {
+    "_id": 2,
+    "ru": "Я перезвоню тебе, как только освобожусь",
+    "en": "I'll call you back as soon as I get free"
+  },
+  {
+    "_id": 3,
+    "ru": "Кем он воспитывался?",
+    "en": "Who was he brought up by?"
+  },
+  {
+    "_id": 4,
+    "ru": "Я сказал ей, что перезвоню ей, как только освобожусь",
+    "en": "I told her that I would call her back as soon as I got free"
+  },
+  {
+    "_id": 5,
+    "ru": "Он остался дома, потому что его машина сломалась",
+    "en": "He stayed at home because his car had broken down"
+  },
+  {
+    "_id": 6,
+    "ru": "Можешь чуть-чуть увеличить громкость?",
+    "en": "Can you turn up the volume a bit?"
+  },
+  {
+    "_id": 7,
+    "ru": "Можешь немного увеличить громкость?",
+    "en": "Can you turn up the volume a little?"
+  },
+  {
+    "_id": 8,
+    "ru": "Музыка была настолько громкой, что я ее сделал потише",
+    "en": "The music was so loud that I turned it down"
+  },
+  {
+    "_id": 9,
+    "ru": "Я уже выключил компьютер",
+    "en": "I've already switched off the computer"
+  },
+  {
+    "_id": 10,
+    "ru": "Он сказал, что никогда не вернется туда",
+    "en": "He said that he would never come back there"
+  },
+  {
+    "_id": 11,
+    "ru": "Кто его воспитывал?",
+    "en": "Who brought him up?"
+  },
+  {
+    "_id": 12,
+    "ru": "Не забудь выключить свет перед уходом",
+    "en": "Don't forget to turn off the light before leaving"
+  },
+  {
+    "_id": 13,
+    "ru": "Давай вернемся к нашему разговору!",
+    "en": "Let's get back to our conversation!"
+  }
 ]

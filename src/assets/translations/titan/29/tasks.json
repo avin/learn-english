@@ -1,354 +1,442 @@
 [
-  [
-    "Я приду туда вовремя",
-    "I will come there on time"
-  ],
-  [
-    "Ты будешь готовиться к этому экзамену?",
-    "Will you prepare for this exam?"
-  ],
-  [
-    "Когда ты пойдешь гулять?",
-    "When will you go for a walk?"
-  ],
-  [
-    "Ты сделаешь это еще раз?",
-    "Will you do it one more time?"
-  ],
-  [
-    "Мы пойдем на пикник",
-    "We'll go on a picnic"
-  ],
-  [
-    "Когда ты вернешься?",
-    "When will you return?"
-  ],
-  [
-    "Я приду вовремя",
-    "I will come on time"
-  ],
-  [
-    "Эти вещи будут дороже",
-    "These things will be more expensive"
-  ],
-  [
-    "Я думаю, он победит",
-    "I think he will win"
-  ],
-  [
-    "Как это поможет мне?",
-    "How will it help me?"
-  ],
-  [
-    "Ты позвонишь ей?",
-    "Will you call her?"
-  ],
-  [
-    "Это не удивит его",
-    "It won't surprise him"
-  ],
-  [
-    "Я позвоню ей сегодня вечером",
-    "I'll call her tonight"
-  ],
-  [
-    "Они будут танцевать вместе?",
-    "Will they dance together?"
-  ],
-  [
-    "Он купит машину в этом году",
-    "He will buy a car this year"
-  ],
-  [
-    "Ты придешь туда вовремя?",
-    "Will you come there on time?"
-  ],
-  [
-    "Я вернусь скоро",
-    "I'll be back soon"
-  ],
-  [
-    "Когда он вернется?",
-    "When will he be back?"
-  ],
-  [
-    "Ей понравится это?",
-    "Will she like it?"
-  ],
-  [
-    "Эта вещь не удивит ее",
-    "This thing will not surprise her"
-  ],
-  [
-    "Я скоро вернусь",
-    "I will come back soon"
-  ],
-  [
-    "Ты будешь жить за границей?",
-    "Will you live abroad?"
-  ],
-  [
-    "Кто тебе поможет?",
-    "Who will help you?"
-  ],
-  [
-    "Это будет проблемой для него?",
-    "Will it be a problem for him?"
-  ],
-  [
-    "Я сделаю другое упражнение",
-    "I will do another exercise"
-  ],
-  [
-    "Он не будет делать эти упражнения",
-    "He won't do these exercises"
-  ],
-  [
-    "Когда ты вернешься?",
-    "When will you come back?"
-  ],
-  [
-    "Она будет учиться в этом месте?",
-    "Will she study in this place?"
-  ],
-  [
-    "Это не будет менее дорого",
-    "It won't be less expensive"
-  ],
-  [
-    "Это действительно удивит ее?",
-    "Will it really surprise her?"
-  ],
-  [
-    "Ему действительно понравится это?",
-    "Will he really like it?"
-  ],
-  [
-    "Это будет менее дорого?",
-    "Will it be less expensive?"
-  ],
-  [
-    "Я не буду звонить ей",
-    "I won't call her"
-  ],
-  [
-    "Это будет намного дороже?",
-    "Will it be much more expensive?"
-  ],
-  [
-    "Ты будешь делать другие упражнения?",
-    "Will you do other exercises?"
-  ],
-  [
-    "Я думаю, она с тобой согласится",
-    "I think she will agree with you"
-  ],
-  [
-    "Я думаю, мы не узнаем этого",
-    "I think we won't know it"
-  ],
-  [
-    "Мы не встретимся завтра",
-    "We won't meet tomorrow"
-  ],
-  [
-    "Ты будешь тренироваться каждый день?",
-    "Will you train every day?"
-  ],
-  [
-    "Эта вещь не будет дешевле",
-    "This thing won't be cheaper"
-  ],
-  [
-    "Ты будешь дома завтра?",
-    "Will you be at home tomorrow?"
-  ],
-  [
-    "Я вернусь домой позже",
-    "I will return home later"
-  ],
-  [
-    "Это удивит его?",
-    "Will it surprise him?"
-  ],
-  [
-    "Я сделаю это еще один раз",
-    "I'll do it one more time"
-  ],
-  [
-    "Ты пойдешь гулять с нами?",
-    "Will you go for a walk with us?"
-  ],
-  [
-    "Я посмотрю на это фото",
-    "I'll look at this photo"
-  ],
-  [
-    "Когда ты пойдешь гулять?",
-    "When will you go for a walk?"
-  ],
-  [
-    "Ты сделаешь это еще раз?",
-    "Will you do it one more time?"
-  ],
-  [
-    "Это будет менее эффективно",
-    "It'll be less effective"
-  ],
-  [
-    "Он одолжит ей немного денег",
-    "He will lend her some money"
-  ],
-  [
-    "Он пойдет с тобой в зоопарк?",
-    "Will he go to the zoo with you?"
-  ],
-  [
-    "Это не будет так легко для них",
-    "It won't be so easy for them"
-  ],
-  [
-    "Кого ты пригласишь?",
-    "Who will you invite?"
-  ],
-  [
-    "Мы пойдем на пикник",
-    "We'll go on a picnic"
-  ],
-  [
-    "Я приглашу своих друзей",
-    "I will invite my friends"
-  ],
-  [
-    "Она пойдет на прогулку прямо сейчас",
-    "She will go for a walk right now"
-  ],
-  [
-    "Они не пойдут домой прямо сейчас",
-    "They won't go home right now"
-  ],
-  [
-    "У него не будет этой возможности",
-    "He won't have this opportunity"
-  ],
-  [
-    "У нее не будет той возможности",
-    "She won't have that opportunity"
-  ],
-  [
-    "Я пойду в зоопарк на этих выходных",
-    "I'll go to the zoo this weekend"
-  ],
-  [
-    "Мы пойдем в зоопарк сегодня",
-    "We'll go to the zoo today"
-  ],
-  [
-    "Я пойду в зоопарк на этой неделе",
-    "I'll go to the zoo this week"
-  ],
-  [
-    "Это будет легко для нас?",
-    "Will it be easy for us?"
-  ],
-  [
-    "Это будет просто для тебя?",
-    "Will it be easy for you?"
-  ],
-  [
-    "Это будет трудно для меня?",
-    "Will it be difficult for me?"
-  ],
-  [
-    "Я уверен, это поможет тебе",
-    "I'm sure it will help you"
-  ],
-  [
-    "Я уверен, это поможет мне",
-    "I'm sure it will help me"
-  ],
-  [
-    "Я уверен, это не поможет мне",
-    "I'm sure it won't help me"
-  ],
-  [
-    "У меня будет эта возможность",
-    "I'll have this opportunity"
-  ],
-  [
-    "У нее будет эта возможность",
-    "She'll have this opportunity"
-  ],
-  [
-    "У меня тоже будет эта возможность",
-    "I'll also have this opportunity"
-  ],
-  [
-    "Это не будет слишком легко для них",
-    "It won't be too easy for them"
-  ],
-  [
-    "Это не будет так просто для тебя",
-    "It won't be so easy for you"
-  ],
-  [
-    "Это не будет слишком легко для нас",
-    "It won't be too easy for us"
-  ],
-  [
-    "Когда ты пойдешь на пикник?",
-    "When will you go on a picnic?"
-  ],
-  [
-    "Когда мы пойдем на пикник?",
-    "When will we go on a picnic?"
-  ],
-  [
-    "Я хочу пойти на пикник",
-    "I want to go on a picnic"
-  ],
-  [
-    "У тебя будет эта возможность?",
-    "Will you have this opportunity?"
-  ],
-  [
-    "Это не будет так эффективно",
-    "It will not be so effective"
-  ],
-  [
-    "Мы пойдем на пикник с тобой",
-    "We'll go on a picnic with you"
-  ],
-  [
-    "Он не поедет в Японию в этом году",
-    "He won't go to Japan this year"
-  ],
-  [
-    "Ты закроешь дверь?",
-    "Will you close the door?"
-  ],
-  [
-    "Я буду готовиться к тому тесту",
-    "I will prepare for that test"
-  ],
-  [
-    "Я открою окно",
-    "I'll open the window"
-  ],
-  [
-    "Он думает, они проиграют",
-    "He thinks they will lose"
-  ],
-  [
-    "Я пойду гулять",
-    "I will go for a walk"
-  ],
-  [
-    "Что изменится?",
-    "What will change?"
-  ],
-  [
-    "Я не сделаю это снова",
-    "I won't do it again"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я приду туда вовремя",
+    "en": "I will come there on time"
+  },
+  {
+    "_id": 2,
+    "ru": "Ты будешь готовиться к этому экзамену?",
+    "en": "Will you prepare for this exam?"
+  },
+  {
+    "_id": 3,
+    "ru": "Когда ты пойдешь гулять?",
+    "en": "When will you go for a walk?"
+  },
+  {
+    "_id": 4,
+    "ru": "Ты сделаешь это еще раз?",
+    "en": "Will you do it one more time?"
+  },
+  {
+    "_id": 5,
+    "ru": "Мы пойдем на пикник",
+    "en": "We'll go on a picnic"
+  },
+  {
+    "_id": 6,
+    "ru": "Когда ты вернешься?",
+    "en": "When will you return?"
+  },
+  {
+    "_id": 7,
+    "ru": "Я приду вовремя",
+    "en": "I will come on time"
+  },
+  {
+    "_id": 8,
+    "ru": "Эти вещи будут дороже",
+    "en": "These things will be more expensive"
+  },
+  {
+    "_id": 9,
+    "ru": "Я думаю, он победит",
+    "en": "I think he will win"
+  },
+  {
+    "_id": 10,
+    "ru": "Как это поможет мне?",
+    "en": "How will it help me?"
+  },
+  {
+    "_id": 11,
+    "ru": "Ты позвонишь ей?",
+    "en": "Will you call her?"
+  },
+  {
+    "_id": 12,
+    "ru": "Это не удивит его",
+    "en": "It won't surprise him"
+  },
+  {
+    "_id": 13,
+    "ru": "Я позвоню ей сегодня вечером",
+    "en": "I'll call her tonight"
+  },
+  {
+    "_id": 14,
+    "ru": "Они будут танцевать вместе?",
+    "en": "Will they dance together?"
+  },
+  {
+    "_id": 15,
+    "ru": "Он купит машину в этом году",
+    "en": "He will buy a car this year"
+  },
+  {
+    "_id": 16,
+    "ru": "Ты придешь туда вовремя?",
+    "en": "Will you come there on time?"
+  },
+  {
+    "_id": 17,
+    "ru": "Я вернусь скоро",
+    "en": "I'll be back soon"
+  },
+  {
+    "_id": 18,
+    "ru": "Когда он вернется?",
+    "en": "When will he be back?"
+  },
+  {
+    "_id": 19,
+    "ru": "Ей понравится это?",
+    "en": "Will she like it?"
+  },
+  {
+    "_id": 20,
+    "ru": "Эта вещь не удивит ее",
+    "en": "This thing will not surprise her"
+  },
+  {
+    "_id": 21,
+    "ru": "Я скоро вернусь",
+    "en": "I will come back soon"
+  },
+  {
+    "_id": 22,
+    "ru": "Ты будешь жить за границей?",
+    "en": "Will you live abroad?"
+  },
+  {
+    "_id": 23,
+    "ru": "Кто тебе поможет?",
+    "en": "Who will help you?"
+  },
+  {
+    "_id": 24,
+    "ru": "Это будет проблемой для него?",
+    "en": "Will it be a problem for him?"
+  },
+  {
+    "_id": 25,
+    "ru": "Я сделаю другое упражнение",
+    "en": "I will do another exercise"
+  },
+  {
+    "_id": 26,
+    "ru": "Он не будет делать эти упражнения",
+    "en": "He won't do these exercises"
+  },
+  {
+    "_id": 27,
+    "ru": "Когда ты вернешься?",
+    "en": "When will you come back?"
+  },
+  {
+    "_id": 28,
+    "ru": "Она будет учиться в этом месте?",
+    "en": "Will she study in this place?"
+  },
+  {
+    "_id": 29,
+    "ru": "Это не будет менее дорого",
+    "en": "It won't be less expensive"
+  },
+  {
+    "_id": 30,
+    "ru": "Это действительно удивит ее?",
+    "en": "Will it really surprise her?"
+  },
+  {
+    "_id": 31,
+    "ru": "Ему действительно понравится это?",
+    "en": "Will he really like it?"
+  },
+  {
+    "_id": 32,
+    "ru": "Это будет менее дорого?",
+    "en": "Will it be less expensive?"
+  },
+  {
+    "_id": 33,
+    "ru": "Я не буду звонить ей",
+    "en": "I won't call her"
+  },
+  {
+    "_id": 34,
+    "ru": "Это будет намного дороже?",
+    "en": "Will it be much more expensive?"
+  },
+  {
+    "_id": 35,
+    "ru": "Ты будешь делать другие упражнения?",
+    "en": "Will you do other exercises?"
+  },
+  {
+    "_id": 36,
+    "ru": "Я думаю, она с тобой согласится",
+    "en": "I think she will agree with you"
+  },
+  {
+    "_id": 37,
+    "ru": "Я думаю, мы не узнаем этого",
+    "en": "I think we won't know it"
+  },
+  {
+    "_id": 38,
+    "ru": "Мы не встретимся завтра",
+    "en": "We won't meet tomorrow"
+  },
+  {
+    "_id": 39,
+    "ru": "Ты будешь тренироваться каждый день?",
+    "en": "Will you train every day?"
+  },
+  {
+    "_id": 40,
+    "ru": "Эта вещь не будет дешевле",
+    "en": "This thing won't be cheaper"
+  },
+  {
+    "_id": 41,
+    "ru": "Ты будешь дома завтра?",
+    "en": "Will you be at home tomorrow?"
+  },
+  {
+    "_id": 42,
+    "ru": "Я вернусь домой позже",
+    "en": "I will return home later"
+  },
+  {
+    "_id": 43,
+    "ru": "Это удивит его?",
+    "en": "Will it surprise him?"
+  },
+  {
+    "_id": 44,
+    "ru": "Я сделаю это еще один раз",
+    "en": "I'll do it one more time"
+  },
+  {
+    "_id": 45,
+    "ru": "Ты пойдешь гулять с нами?",
+    "en": "Will you go for a walk with us?"
+  },
+  {
+    "_id": 46,
+    "ru": "Я посмотрю на это фото",
+    "en": "I'll look at this photo"
+  },
+  {
+    "_id": 47,
+    "ru": "Когда ты пойдешь гулять?",
+    "en": "When will you go for a walk?"
+  },
+  {
+    "_id": 48,
+    "ru": "Ты сделаешь это еще раз?",
+    "en": "Will you do it one more time?"
+  },
+  {
+    "_id": 49,
+    "ru": "Это будет менее эффективно",
+    "en": "It'll be less effective"
+  },
+  {
+    "_id": 50,
+    "ru": "Он одолжит ей немного денег",
+    "en": "He will lend her some money"
+  },
+  {
+    "_id": 51,
+    "ru": "Он пойдет с тобой в зоопарк?",
+    "en": "Will he go to the zoo with you?"
+  },
+  {
+    "_id": 52,
+    "ru": "Это не будет так легко для них",
+    "en": "It won't be so easy for them"
+  },
+  {
+    "_id": 53,
+    "ru": "Кого ты пригласишь?",
+    "en": "Who will you invite?"
+  },
+  {
+    "_id": 54,
+    "ru": "Мы пойдем на пикник",
+    "en": "We'll go on a picnic"
+  },
+  {
+    "_id": 55,
+    "ru": "Я приглашу своих друзей",
+    "en": "I will invite my friends"
+  },
+  {
+    "_id": 56,
+    "ru": "Она пойдет на прогулку прямо сейчас",
+    "en": "She will go for a walk right now"
+  },
+  {
+    "_id": 57,
+    "ru": "Они не пойдут домой прямо сейчас",
+    "en": "They won't go home right now"
+  },
+  {
+    "_id": 58,
+    "ru": "У него не будет этой возможности",
+    "en": "He won't have this opportunity"
+  },
+  {
+    "_id": 59,
+    "ru": "У нее не будет той возможности",
+    "en": "She won't have that opportunity"
+  },
+  {
+    "_id": 60,
+    "ru": "Я пойду в зоопарк на этих выходных",
+    "en": "I'll go to the zoo this weekend"
+  },
+  {
+    "_id": 61,
+    "ru": "Мы пойдем в зоопарк сегодня",
+    "en": "We'll go to the zoo today"
+  },
+  {
+    "_id": 62,
+    "ru": "Я пойду в зоопарк на этой неделе",
+    "en": "I'll go to the zoo this week"
+  },
+  {
+    "_id": 63,
+    "ru": "Это будет легко для нас?",
+    "en": "Will it be easy for us?"
+  },
+  {
+    "_id": 64,
+    "ru": "Это будет просто для тебя?",
+    "en": "Will it be easy for you?"
+  },
+  {
+    "_id": 65,
+    "ru": "Это будет трудно для меня?",
+    "en": "Will it be difficult for me?"
+  },
+  {
+    "_id": 66,
+    "ru": "Я уверен, это поможет тебе",
+    "en": "I'm sure it will help you"
+  },
+  {
+    "_id": 67,
+    "ru": "Я уверен, это поможет мне",
+    "en": "I'm sure it will help me"
+  },
+  {
+    "_id": 68,
+    "ru": "Я уверен, это не поможет мне",
+    "en": "I'm sure it won't help me"
+  },
+  {
+    "_id": 69,
+    "ru": "У меня будет эта возможность",
+    "en": "I'll have this opportunity"
+  },
+  {
+    "_id": 70,
+    "ru": "У нее будет эта возможность",
+    "en": "She'll have this opportunity"
+  },
+  {
+    "_id": 71,
+    "ru": "У меня тоже будет эта возможность",
+    "en": "I'll also have this opportunity"
+  },
+  {
+    "_id": 72,
+    "ru": "Это не будет слишком легко для них",
+    "en": "It won't be too easy for them"
+  },
+  {
+    "_id": 73,
+    "ru": "Это не будет так просто для тебя",
+    "en": "It won't be so easy for you"
+  },
+  {
+    "_id": 74,
+    "ru": "Это не будет слишком легко для нас",
+    "en": "It won't be too easy for us"
+  },
+  {
+    "_id": 75,
+    "ru": "Когда ты пойдешь на пикник?",
+    "en": "When will you go on a picnic?"
+  },
+  {
+    "_id": 76,
+    "ru": "Когда мы пойдем на пикник?",
+    "en": "When will we go on a picnic?"
+  },
+  {
+    "_id": 77,
+    "ru": "Я хочу пойти на пикник",
+    "en": "I want to go on a picnic"
+  },
+  {
+    "_id": 78,
+    "ru": "У тебя будет эта возможность?",
+    "en": "Will you have this opportunity?"
+  },
+  {
+    "_id": 79,
+    "ru": "Это не будет так эффективно",
+    "en": "It will not be so effective"
+  },
+  {
+    "_id": 80,
+    "ru": "Мы пойдем на пикник с тобой",
+    "en": "We'll go on a picnic with you"
+  },
+  {
+    "_id": 81,
+    "ru": "Он не поедет в Японию в этом году",
+    "en": "He won't go to Japan this year"
+  },
+  {
+    "_id": 82,
+    "ru": "Ты закроешь дверь?",
+    "en": "Will you close the door?"
+  },
+  {
+    "_id": 83,
+    "ru": "Я буду готовиться к тому тесту",
+    "en": "I will prepare for that test"
+  },
+  {
+    "_id": 84,
+    "ru": "Я открою окно",
+    "en": "I'll open the window"
+  },
+  {
+    "_id": 85,
+    "ru": "Он думает, они проиграют",
+    "en": "He thinks they will lose"
+  },
+  {
+    "_id": 86,
+    "ru": "Я пойду гулять",
+    "en": "I will go for a walk"
+  },
+  {
+    "_id": 87,
+    "ru": "Что изменится?",
+    "en": "What will change?"
+  },
+  {
+    "_id": 88,
+    "ru": "Я не сделаю это снова",
+    "en": "I won't do it again"
+  }
 ]

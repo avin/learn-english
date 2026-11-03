@@ -1,406 +1,507 @@
 [
-  [
-    "Я живу в другом городе",
-    "I live in another city"
-  ],
-  [
-    "Он действительно хочет говорить по-русски",
-    "He really wants to speak Russian"
-  ],
-  [
-    "Я обожаю читать книги вечером",
-    "I enjoy reading books in the evening"
-  ],
-  [
-    "Она обожает играть в теннис",
-    "She enjoys playing tennis"
-  ],
-  [
-    "Мне нравится есть здоровую пищу",
-    "I like eating healthy food"
-  ],
-  [
-    "Ему нравится читать книги на английском",
-    "He likes to read books in English"
-  ],
-  [
-    "Мне действительно нравится кататься на велосипеде",
-    "I really like cycling"
-  ],
-  [
-    "Ты говоришь по-английски прекрасно",
-    "You speak English perfectly"
-  ],
-  [
-    "Это звучит отлично",
-    "It sounds great"
-  ],
-  [
-    "Он платит за это",
-    "He pays for it"
-  ],
-  [
-    "Это стоит два миллиона фунтов",
-    "It costs two million pounds"
-  ],
-  [
-    "Я могу сделать это в начале",
-    "I can do it in the beginning"
-  ],
-  [
-    "Ты слишком много работаешь",
-    "You work too much"
-  ],
-  [
-    "Она тоже так думает",
-    "She thinks so, too"
-  ],
-  [
-    "Он тоже так думает",
-    "He also thinks so"
-  ],
-  [
-    "Я предпочитаю делать это в свое свободное время",
-    "I prefer to do it in my free time"
-  ],
-  [
-    "Ты показываешь отличные результаты",
-    "You show excellent results"
-  ],
-  [
-    "Ей нравятся иностранные языки",
-    "She likes foreign languages"
-  ],
-  [
-    "Он прекрасно понимает это",
-    "He perfectly understands it"
-  ],
-  [
-    "У меня отличные результаты",
-    "I have excellent results"
-  ],
-  [
-    "Он много знает",
-    "He knows a lot"
-  ],
-  [
-    "Это стоит пять тысяч евро",
-    "It costs five thousand euros"
-  ],
-  [
-    "Мы учимся в одной группе",
-    "We study in one group"
-  ],
-  [
-    "Мы действительно ценим твою помощь",
-    "We really appreciate your help"
-  ],
-  [
-    "Это нам очень помогает",
-    "It helps us a lot"
-  ],
-  [
-    "Я тебя прекрасно понимаю",
-    "I perfectly understand you"
-  ],
-  [
-    "У нее блестящие результаты",
-    "She has brilliant results"
-  ],
-  [
-    "Он часто говорит эти вещи",
-    "He often says these things"
-  ],
-  [
-    "Ей действительно нравится кататься на велосипеде",
-    "She really likes cycling"
-  ],
-  [
-    "Я обожаю английский",
-    "I enjoy English"
-  ],
-  [
-    "Она предпочитает горячий чай",
-    "She prefers hot tea"
-  ],
-  [
-    "Ему действительно нравится плавать",
-    "He really likes swimming"
-  ],
-  [
-    "Она живет в другой области",
-    "She lives in another area"
-  ],
-  [
-    "Мы видим музей",
-    "We see a museum"
-  ],
-  [
-    "Я хочу свободно говорить по-английски",
-    "I want to speak English fluently"
-  ],
-  [
-    "Он учится и работает",
-    "He studies and works"
-  ],
-  [
-    "Эта вещь стоит двести долларов",
-    "This thing costs two hundred dollars"
-  ],
-  [
-    "Мне действительно нравится этот язык",
-    "I really like this language"
-  ],
-  [
-    "Я действительно обожаю спорт",
-    "I really enjoy sport"
-  ],
-  [
-    "Мне нужно больше опыта",
-    "I need more experience"
-  ],
-  [
-    "Он показывает блестящие результаты",
-    "He shows brilliant results"
-  ],
-  [
-    "Я действительно ценю твою помощь",
-    "I really appreciate your help"
-  ],
-  [
-    "Я стараюсь делать это каждый день",
-    "I try to do it every day"
-  ],
-  [
-    "Она живет в квартире",
-    "She lives in an apartment"
-  ],
-  [
-    "Мы живем в доме",
-    "We live in a house"
-  ],
-  [
-    "Она профессионально преподает английский",
-    "She teaches English professionally"
-  ],
-  [
-    "Я прекрасно понимаю, как это работает",
-    "I perfectly understand how it works"
-  ],
-  [
-    "Мне нужен опыт работы вначале",
-    "I need work experience in the beginning"
-  ],
-  [
-    "Я действительно хочу понимать носителей языка",
-    "I really want to understand native speakers"
-  ],
-  [
-    "Я прекрасно понимаю твою точку зрения",
-    "I perfectly understand your point of view"
-  ],
-  [
-    "Мне кажется, у тебя отличные результаты",
-    "It seems to me you have excellent results"
-  ],
-  [
-    "Она работает врачом",
-    "She works as a doctor"
-  ],
-  [
-    "Ей очень нравится бегать трусцой",
-    "She really likes jogging"
-  ],
-  [
-    "Я работаю менеджером",
-    "I work as a manager"
-  ],
-  [
-    "Я вижу, ты часто ездишь за границу",
-    "I see you often go abroad"
-  ],
-  [
-    "Я хочу поехать в Соединенные Штаты в следующем году",
-    "I want to go to the United States next year"
-  ],
-  [
-    "Он работает учителем",
-    "He works as a teacher"
-  ],
-  [
-    "Она обожает плавать",
-    "She enjoys swimming"
-  ],
-  [
-    "Я люблю бегать трусцой",
-    "I like jogging"
-  ],
-  [
-    "Я действительно обожаю плавать",
-    "I really enjoy swimming"
-  ],
-  [
-    "Он говорит по-английски без акцента",
-    "He speaks English without an accent"
-  ],
-  [
-    "Я говорю по-немецки без акцента",
-    "I speak German without an accent"
-  ],
-  [
-    "Она говорит по-русски с акцентом",
-    "She speaks Russian with an accent"
-  ],
-  [
-    "Мне кажется, это действительно стоит много",
-    "It seems to me it really costs a lot"
-  ],
-  [
-    "Ей кажется, это действительно стоит много",
-    "It seems to her it really costs a lot"
-  ],
-  [
-    "Мне кажется, что это действительно стоит много",
-    "It seems to me that it really costs a lot"
-  ],
-  [
-    "Она понимает носителей языка лишь немного",
-    "She understands native speakers only a little"
-  ],
-  [
-    "Он понимает носителей языка лишь немного",
-    "He understands native speakers only a little"
-  ],
-  [
-    "Они понимают носителей языка лишь немного",
-    "They understand native speakers only a little"
-  ],
-  [
-    "Мне нужен опыт работы в первую очередь",
-    "I need some work experience first of all"
-  ],
-  [
-    "Ей нужен опыт работы в первую очередь",
-    "She needs some work experience first of all"
-  ],
-  [
-    "Тебе нужен опыт работы в первую очередь",
-    "You need some work experience first of all"
-  ],
-  [
-    "Он работает секретарем",
-    "He works as a secretary"
-  ],
-  [
-    "Я работаю учителем",
-    "I work as a teacher"
-  ],
-  [
-    "Она работает менеджером",
-    "She works as a manager"
-  ],
-  [
-    "Я вижу, у тебя есть идея",
-    "I see you have an idea"
-  ],
-  [
-    "Я вижу, у нее есть идея",
-    "I see she has an idea"
-  ],
-  [
-    "Я вижу, у них есть идея",
-    "I see they have an idea"
-  ],
-  [
-    "Я думаю, что это звучит великолепно",
-    "I think that it sounds great"
-  ],
-  [
-    "Она думает, что это звучит великолепно",
-    "She thinks that it sounds great"
-  ],
-  [
-    "Я думаю, что это выглядит великолепно",
-    "I think that it looks great"
-  ],
-  [
-    "Он много путешествует",
-    "He travels a lot"
-  ],
-  [
-    "Она много путешествует",
-    "She travels a lot"
-  ],
-  [
-    "Я много путешествую",
-    "I travel a lot"
-  ],
-  [
-    "Это случается время от времени",
-    "It happens from time to time"
-  ],
-  [
-    "Эта вещь случается время от времени",
-    "This thing happens from time to time"
-  ],
-  [
-    "Это иногда случается",
-    "It sometimes happens"
-  ],
-  [
-    "Он ходит в бассейн",
-    "He goes to the swimming pool"
-  ],
-  [
-    "Я вижу, что она говорит по-английски без акцента",
-    "I see that she speaks English without an accent"
-  ],
-  [
-    "Я действительно хочу говорить по-английски как носитель",
-    "I really want to speak English like a native"
-  ],
-  [
-    "Он работает в другом отделе",
-    "He works in another department"
-  ],
-  [
-    "Ей очень нравится классическая музыка",
-    "She really likes classical music"
-  ],
-  [
-    "Я вижу, ему действительно нравится эта идея",
-    "I see he really likes this idea"
-  ],
-  [
-    "Я занимаюсь плаванием дважды в неделю",
-    "I go - swimming twice a week"
-  ],
-  [
-    "Она работает продавщицей магазина",
-    "She works as a shop assistant"
-  ],
-  [
-    "Он часто летает в Англию",
-    "He often flies to England"
-  ],
-  [
-    "Я хочу улучшить свою грамматику",
-    "I want to improve my grammar"
-  ],
-  [
-    "Я занимаюсь плаванием два или три раза в неделю",
-    "I go swimming two or three times a week"
-  ],
-  [
-    "Она часто летает в Соединенные Штаты",
-    "She often flies to the United States"
-  ],
-  [
-    "Она прекрасно понимает нашу точку зрения",
-    "She perfectly understands our point of view"
-  ],
-  [
-    "Он часто бегает трусцой",
-    "He often goes jogging"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я живу в другом городе",
+    "en": "I live in another city"
+  },
+  {
+    "_id": 2,
+    "ru": "Он действительно хочет говорить по-русски",
+    "en": "He really wants to speak Russian"
+  },
+  {
+    "_id": 3,
+    "ru": "Я обожаю читать книги вечером",
+    "en": "I enjoy reading books in the evening"
+  },
+  {
+    "_id": 4,
+    "ru": "Она обожает играть в теннис",
+    "en": "She enjoys playing tennis"
+  },
+  {
+    "_id": 5,
+    "ru": "Мне нравится есть здоровую пищу",
+    "en": "I like eating healthy food"
+  },
+  {
+    "_id": 6,
+    "ru": "Ему нравится читать книги на английском",
+    "en": "He likes to read books in English"
+  },
+  {
+    "_id": 7,
+    "ru": "Мне действительно нравится кататься на велосипеде",
+    "en": "I really like cycling"
+  },
+  {
+    "_id": 8,
+    "ru": "Ты говоришь по-английски прекрасно",
+    "en": "You speak English perfectly"
+  },
+  {
+    "_id": 9,
+    "ru": "Это звучит отлично",
+    "en": "It sounds great"
+  },
+  {
+    "_id": 10,
+    "ru": "Он платит за это",
+    "en": "He pays for it"
+  },
+  {
+    "_id": 11,
+    "ru": "Это стоит два миллиона фунтов",
+    "en": "It costs two million pounds"
+  },
+  {
+    "_id": 12,
+    "ru": "Я могу сделать это в начале",
+    "en": "I can do it in the beginning"
+  },
+  {
+    "_id": 13,
+    "ru": "Ты слишком много работаешь",
+    "en": "You work too much"
+  },
+  {
+    "_id": 14,
+    "ru": "Она тоже так думает",
+    "en": "She thinks so, too"
+  },
+  {
+    "_id": 15,
+    "ru": "Он тоже так думает",
+    "en": "He also thinks so"
+  },
+  {
+    "_id": 16,
+    "ru": "Я предпочитаю делать это в свое свободное время",
+    "en": "I prefer to do it in my free time"
+  },
+  {
+    "_id": 17,
+    "ru": "Ты показываешь отличные результаты",
+    "en": "You show excellent results"
+  },
+  {
+    "_id": 18,
+    "ru": "Ей нравятся иностранные языки",
+    "en": "She likes foreign languages"
+  },
+  {
+    "_id": 19,
+    "ru": "Он прекрасно понимает это",
+    "en": "He perfectly understands it"
+  },
+  {
+    "_id": 20,
+    "ru": "У меня отличные результаты",
+    "en": "I have excellent results"
+  },
+  {
+    "_id": 21,
+    "ru": "Он много знает",
+    "en": "He knows a lot"
+  },
+  {
+    "_id": 22,
+    "ru": "Это стоит пять тысяч евро",
+    "en": "It costs five thousand euros"
+  },
+  {
+    "_id": 23,
+    "ru": "Мы учимся в одной группе",
+    "en": "We study in one group"
+  },
+  {
+    "_id": 24,
+    "ru": "Мы действительно ценим твою помощь",
+    "en": "We really appreciate your help"
+  },
+  {
+    "_id": 25,
+    "ru": "Это нам очень помогает",
+    "en": "It helps us a lot"
+  },
+  {
+    "_id": 26,
+    "ru": "Я тебя прекрасно понимаю",
+    "en": "I perfectly understand you"
+  },
+  {
+    "_id": 27,
+    "ru": "У нее блестящие результаты",
+    "en": "She has brilliant results"
+  },
+  {
+    "_id": 28,
+    "ru": "Он часто говорит эти вещи",
+    "en": "He often says these things"
+  },
+  {
+    "_id": 29,
+    "ru": "Ей действительно нравится кататься на велосипеде",
+    "en": "She really likes cycling"
+  },
+  {
+    "_id": 30,
+    "ru": "Я обожаю английский",
+    "en": "I enjoy English"
+  },
+  {
+    "_id": 31,
+    "ru": "Она предпочитает горячий чай",
+    "en": "She prefers hot tea"
+  },
+  {
+    "_id": 32,
+    "ru": "Ему действительно нравится плавать",
+    "en": "He really likes swimming"
+  },
+  {
+    "_id": 33,
+    "ru": "Она живет в другой области",
+    "en": "She lives in another area"
+  },
+  {
+    "_id": 34,
+    "ru": "Мы видим музей",
+    "en": "We see a museum"
+  },
+  {
+    "_id": 35,
+    "ru": "Я хочу свободно говорить по-английски",
+    "en": "I want to speak English fluently"
+  },
+  {
+    "_id": 36,
+    "ru": "Он учится и работает",
+    "en": "He studies and works"
+  },
+  {
+    "_id": 37,
+    "ru": "Эта вещь стоит двести долларов",
+    "en": "This thing costs two hundred dollars"
+  },
+  {
+    "_id": 38,
+    "ru": "Мне действительно нравится этот язык",
+    "en": "I really like this language"
+  },
+  {
+    "_id": 39,
+    "ru": "Я действительно обожаю спорт",
+    "en": "I really enjoy sport"
+  },
+  {
+    "_id": 40,
+    "ru": "Мне нужно больше опыта",
+    "en": "I need more experience"
+  },
+  {
+    "_id": 41,
+    "ru": "Он показывает блестящие результаты",
+    "en": "He shows brilliant results"
+  },
+  {
+    "_id": 42,
+    "ru": "Я действительно ценю твою помощь",
+    "en": "I really appreciate your help"
+  },
+  {
+    "_id": 43,
+    "ru": "Я стараюсь делать это каждый день",
+    "en": "I try to do it every day"
+  },
+  {
+    "_id": 44,
+    "ru": "Она живет в квартире",
+    "en": "She lives in an apartment"
+  },
+  {
+    "_id": 45,
+    "ru": "Мы живем в доме",
+    "en": "We live in a house"
+  },
+  {
+    "_id": 46,
+    "ru": "Она профессионально преподает английский",
+    "en": "She teaches English professionally"
+  },
+  {
+    "_id": 47,
+    "ru": "Я прекрасно понимаю, как это работает",
+    "en": "I perfectly understand how it works"
+  },
+  {
+    "_id": 48,
+    "ru": "Мне нужен опыт работы вначале",
+    "en": "I need work experience in the beginning"
+  },
+  {
+    "_id": 49,
+    "ru": "Я действительно хочу понимать носителей языка",
+    "en": "I really want to understand native speakers"
+  },
+  {
+    "_id": 50,
+    "ru": "Я прекрасно понимаю твою точку зрения",
+    "en": "I perfectly understand your point of view"
+  },
+  {
+    "_id": 51,
+    "ru": "Мне кажется, у тебя отличные результаты",
+    "en": "It seems to me you have excellent results"
+  },
+  {
+    "_id": 52,
+    "ru": "Она работает врачом",
+    "en": "She works as a doctor"
+  },
+  {
+    "_id": 53,
+    "ru": "Ей очень нравится бегать трусцой",
+    "en": "She really likes jogging"
+  },
+  {
+    "_id": 54,
+    "ru": "Я работаю менеджером",
+    "en": "I work as a manager"
+  },
+  {
+    "_id": 55,
+    "ru": "Я вижу, ты часто ездишь за границу",
+    "en": "I see you often go abroad"
+  },
+  {
+    "_id": 56,
+    "ru": "Я хочу поехать в Соединенные Штаты в следующем году",
+    "en": "I want to go to the United States next year"
+  },
+  {
+    "_id": 57,
+    "ru": "Он работает учителем",
+    "en": "He works as a teacher"
+  },
+  {
+    "_id": 58,
+    "ru": "Она обожает плавать",
+    "en": "She enjoys swimming"
+  },
+  {
+    "_id": 59,
+    "ru": "Я люблю бегать трусцой",
+    "en": "I like jogging"
+  },
+  {
+    "_id": 60,
+    "ru": "Я действительно обожаю плавать",
+    "en": "I really enjoy swimming"
+  },
+  {
+    "_id": 61,
+    "ru": "Он говорит по-английски без акцента",
+    "en": "He speaks English without an accent"
+  },
+  {
+    "_id": 62,
+    "ru": "Я говорю по-немецки без акцента",
+    "en": "I speak German without an accent"
+  },
+  {
+    "_id": 63,
+    "ru": "Она говорит по-русски с акцентом",
+    "en": "She speaks Russian with an accent"
+  },
+  {
+    "_id": 64,
+    "ru": "Мне кажется, это действительно стоит много",
+    "en": "It seems to me it really costs a lot"
+  },
+  {
+    "_id": 65,
+    "ru": "Ей кажется, это действительно стоит много",
+    "en": "It seems to her it really costs a lot"
+  },
+  {
+    "_id": 66,
+    "ru": "Мне кажется, что это действительно стоит много",
+    "en": "It seems to me that it really costs a lot"
+  },
+  {
+    "_id": 67,
+    "ru": "Она понимает носителей языка лишь немного",
+    "en": "She understands native speakers only a little"
+  },
+  {
+    "_id": 68,
+    "ru": "Он понимает носителей языка лишь немного",
+    "en": "He understands native speakers only a little"
+  },
+  {
+    "_id": 69,
+    "ru": "Они понимают носителей языка лишь немного",
+    "en": "They understand native speakers only a little"
+  },
+  {
+    "_id": 70,
+    "ru": "Мне нужен опыт работы в первую очередь",
+    "en": "I need some work experience first of all"
+  },
+  {
+    "_id": 71,
+    "ru": "Ей нужен опыт работы в первую очередь",
+    "en": "She needs some work experience first of all"
+  },
+  {
+    "_id": 72,
+    "ru": "Тебе нужен опыт работы в первую очередь",
+    "en": "You need some work experience first of all"
+  },
+  {
+    "_id": 73,
+    "ru": "Он работает секретарем",
+    "en": "He works as a secretary"
+  },
+  {
+    "_id": 74,
+    "ru": "Я работаю учителем",
+    "en": "I work as a teacher"
+  },
+  {
+    "_id": 75,
+    "ru": "Она работает менеджером",
+    "en": "She works as a manager"
+  },
+  {
+    "_id": 76,
+    "ru": "Я вижу, у тебя есть идея",
+    "en": "I see you have an idea"
+  },
+  {
+    "_id": 77,
+    "ru": "Я вижу, у нее есть идея",
+    "en": "I see she has an idea"
+  },
+  {
+    "_id": 78,
+    "ru": "Я вижу, у них есть идея",
+    "en": "I see they have an idea"
+  },
+  {
+    "_id": 79,
+    "ru": "Я думаю, что это звучит великолепно",
+    "en": "I think that it sounds great"
+  },
+  {
+    "_id": 80,
+    "ru": "Она думает, что это звучит великолепно",
+    "en": "She thinks that it sounds great"
+  },
+  {
+    "_id": 81,
+    "ru": "Я думаю, что это выглядит великолепно",
+    "en": "I think that it looks great"
+  },
+  {
+    "_id": 82,
+    "ru": "Он много путешествует",
+    "en": "He travels a lot"
+  },
+  {
+    "_id": 83,
+    "ru": "Она много путешествует",
+    "en": "She travels a lot"
+  },
+  {
+    "_id": 84,
+    "ru": "Я много путешествую",
+    "en": "I travel a lot"
+  },
+  {
+    "_id": 85,
+    "ru": "Это случается время от времени",
+    "en": "It happens from time to time"
+  },
+  {
+    "_id": 86,
+    "ru": "Эта вещь случается время от времени",
+    "en": "This thing happens from time to time"
+  },
+  {
+    "_id": 87,
+    "ru": "Это иногда случается",
+    "en": "It sometimes happens"
+  },
+  {
+    "_id": 88,
+    "ru": "Он ходит в бассейн",
+    "en": "He goes to the swimming pool"
+  },
+  {
+    "_id": 89,
+    "ru": "Я вижу, что она говорит по-английски без акцента",
+    "en": "I see that she speaks English without an accent"
+  },
+  {
+    "_id": 90,
+    "ru": "Я действительно хочу говорить по-английски как носитель",
+    "en": "I really want to speak English like a native"
+  },
+  {
+    "_id": 91,
+    "ru": "Он работает в другом отделе",
+    "en": "He works in another department"
+  },
+  {
+    "_id": 92,
+    "ru": "Ей очень нравится классическая музыка",
+    "en": "She really likes classical music"
+  },
+  {
+    "_id": 93,
+    "ru": "Я вижу, ему действительно нравится эта идея",
+    "en": "I see he really likes this idea"
+  },
+  {
+    "_id": 94,
+    "ru": "Я занимаюсь плаванием дважды в неделю",
+    "en": "I go - swimming twice a week"
+  },
+  {
+    "_id": 95,
+    "ru": "Она работает продавщицей магазина",
+    "en": "She works as a shop assistant"
+  },
+  {
+    "_id": 96,
+    "ru": "Он часто летает в Англию",
+    "en": "He often flies to England"
+  },
+  {
+    "_id": 97,
+    "ru": "Я хочу улучшить свою грамматику",
+    "en": "I want to improve my grammar"
+  },
+  {
+    "_id": 98,
+    "ru": "Я занимаюсь плаванием два или три раза в неделю",
+    "en": "I go swimming two or three times a week"
+  },
+  {
+    "_id": 99,
+    "ru": "Она часто летает в Соединенные Штаты",
+    "en": "She often flies to the United States"
+  },
+  {
+    "_id": 100,
+    "ru": "Она прекрасно понимает нашу точку зрения",
+    "en": "She perfectly understands our point of view"
+  },
+  {
+    "_id": 101,
+    "ru": "Он часто бегает трусцой",
+    "en": "He often goes jogging"
+  }
 ]

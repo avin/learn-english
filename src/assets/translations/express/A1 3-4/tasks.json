@@ -1,202 +1,252 @@
 [
-  [
-    "У меня есть четкая цель",
-    "I have a clear aim"
-  ],
-  [
-    "Я думаю, это очень маленькая ошибка",
-    "I think it's a very small mistake"
-  ],
-  [
-    "Этот отель очень хороший",
-    "This hotel is very good"
-  ],
-  [
-    "У меня очень четкая цель",
-    "I have a very clear aim"
-  ],
-  [
-    "Я не думаю, что это очень большая ошибка",
-    "I don't think that it's a very big mistake"
-  ],
-  [
-    "Это очень необычное решение",
-    "It's a very unusual decision"
-  ],
-  [
-    "Это большая ошибка",
-    "It's a big mistake"
-  ],
-  [
-    "У меня есть результат",
-    "I have a result"
-  ],
-  [
-    "Я думаю, это хорошая идея",
-    "I think it's a good idea"
-  ],
-  [
-    "Это очень дорогой билет",
-    "It's a very expensive ticket"
-  ],
-  [
-    "Это интересное решение",
-    "It's an interesting decision"
-  ],
-  [
-    "Это очень сложная задача",
-    "It's a very difficult task"
-  ],
-  [
-    "Это очень полезная книга",
-    "It's a very useful book"
-  ],
-  [
-    "У меня есть некоторые результаты",
-    "I have some results"
-  ],
-  [
-    "Это дорогой билет",
-    "It's an expensive ticket"
-  ],
-  [
-    "Это место такое красивое",
-    "This place is so beautiful"
-  ],
-  [
-    "Я думаю, что это очень сложный вопрос",
-    "I think that it's a very difficult question"
-  ],
-  [
-    "Мне кажется, что это правдивая история",
-    "It seems to me that it's a true story"
-  ],
-  [
-    "Это легкий тест",
-    "It's an easy test"
-  ],
-  [
-    "Это очень полезный урок",
-    "It's a very useful lesson"
-  ],
-  [
-    "Это интересный вопрос",
-    "It's an interesting question"
-  ],
-  [
-    "Это маленькая ошибка",
-    "It's a small mistake"
-  ],
-  [
-    "Это полезный урок",
-    "It's a useful lesson"
-  ],
-  [
-    "Это очень интересное решение",
-    "It's a very interesting decision"
-  ],
-  [
-    "У меня есть цель",
-    "I have an aim"
-  ],
-  [
-    "Это очень смешное видео",
-    "It's a very funny video"
-  ],
-  [
-    "Это очень хороший отель",
-    "It's a very good hotel"
-  ],
-  [
-    "У меня есть план",
-    "I have a plan"
-  ],
-  [
-    "Мы видим университет",
-    "We see a university"
-  ],
-  [
-    "У меня очень хороший результат",
-    "I have a very good result"
-  ],
-  [
-    "Это странный ответ",
-    "It's a strange answer"
-  ],
-  [
-    "Это так необычно",
-    "It's so unusual"
-  ],
-  [
-    "Это очень смешная шутка",
-    "It's a very funny joke"
-  ],
-  [
-    "Это очень интересный план",
-    "It's a very interesting plan"
-  ],
-  [
-    "Я думаю, что это интересный вопрос",
-    "I think that it's an interesting question"
-  ],
-  [
-    "Это интересный план",
-    "It's an interesting plan"
-  ],
-  [
-    "Это очень красивое место",
-    "It's a very beautiful place"
-  ],
-  [
-    "Это очень хороший результат",
-    "It's a very good result"
-  ],
-  [
-    "Это очень хорошая идея",
-    "It's a very good idea"
-  ],
-  [
-    "Это очень легкий тест",
-    "It's a very easy test"
-  ],
-  [
-    "У меня есть некоторые планы",
-    "I have some plans"
-  ],
-  [
-    "У меня есть одна очень четкая цель",
-    "I have one very clear aim"
-  ],
-  [
-    "Это хороший результат",
-    "It's a good result"
-  ],
-  [
-    "Я думаю, что это очень хорошая идея",
-    "I think that it's a very good idea"
-  ],
-  [
-    "Это очень полезная вещь",
-    "It's a very useful thing"
-  ],
-  [
-    "Это очень странный ответ",
-    "It's a very strange answer"
-  ],
-  [
-    "Это необычное решение",
-    "It's an unusual decision"
-  ],
-  [
-    "Это правдивая история",
-    "It's a true story"
-  ],
-  [
-    "Это очень необычно",
-    "It's very unusual"
-  ],
-  [
-    "Мне кажется, что это очень хорошая идея",
-    "It seems to me that it's a very good idea"
-  ]
+  {
+    "_id": 1,
+    "ru": "У меня есть четкая цель",
+    "en": "I have a clear aim"
+  },
+  {
+    "_id": 2,
+    "ru": "Я думаю, это очень маленькая ошибка",
+    "en": "I think it's a very small mistake"
+  },
+  {
+    "_id": 3,
+    "ru": "Этот отель очень хороший",
+    "en": "This hotel is very good"
+  },
+  {
+    "_id": 4,
+    "ru": "У меня очень четкая цель",
+    "en": "I have a very clear aim"
+  },
+  {
+    "_id": 5,
+    "ru": "Я не думаю, что это очень большая ошибка",
+    "en": "I don't think that it's a very big mistake"
+  },
+  {
+    "_id": 6,
+    "ru": "Это очень необычное решение",
+    "en": "It's a very unusual decision"
+  },
+  {
+    "_id": 7,
+    "ru": "Это большая ошибка",
+    "en": "It's a big mistake"
+  },
+  {
+    "_id": 8,
+    "ru": "У меня есть результат",
+    "en": "I have a result"
+  },
+  {
+    "_id": 9,
+    "ru": "Я думаю, это хорошая идея",
+    "en": "I think it's a good idea"
+  },
+  {
+    "_id": 10,
+    "ru": "Это очень дорогой билет",
+    "en": "It's a very expensive ticket"
+  },
+  {
+    "_id": 11,
+    "ru": "Это интересное решение",
+    "en": "It's an interesting decision"
+  },
+  {
+    "_id": 12,
+    "ru": "Это очень сложная задача",
+    "en": "It's a very difficult task"
+  },
+  {
+    "_id": 13,
+    "ru": "Это очень полезная книга",
+    "en": "It's a very useful book"
+  },
+  {
+    "_id": 14,
+    "ru": "У меня есть некоторые результаты",
+    "en": "I have some results"
+  },
+  {
+    "_id": 15,
+    "ru": "Это дорогой билет",
+    "en": "It's an expensive ticket"
+  },
+  {
+    "_id": 16,
+    "ru": "Это место такое красивое",
+    "en": "This place is so beautiful"
+  },
+  {
+    "_id": 17,
+    "ru": "Я думаю, что это очень сложный вопрос",
+    "en": "I think that it's a very difficult question"
+  },
+  {
+    "_id": 18,
+    "ru": "Мне кажется, что это правдивая история",
+    "en": "It seems to me that it's a true story"
+  },
+  {
+    "_id": 19,
+    "ru": "Это легкий тест",
+    "en": "It's an easy test"
+  },
+  {
+    "_id": 20,
+    "ru": "Это очень полезный урок",
+    "en": "It's a very useful lesson"
+  },
+  {
+    "_id": 21,
+    "ru": "Это интересный вопрос",
+    "en": "It's an interesting question"
+  },
+  {
+    "_id": 22,
+    "ru": "Это маленькая ошибка",
+    "en": "It's a small mistake"
+  },
+  {
+    "_id": 23,
+    "ru": "Это полезный урок",
+    "en": "It's a useful lesson"
+  },
+  {
+    "_id": 24,
+    "ru": "Это очень интересное решение",
+    "en": "It's a very interesting decision"
+  },
+  {
+    "_id": 25,
+    "ru": "У меня есть цель",
+    "en": "I have an aim"
+  },
+  {
+    "_id": 26,
+    "ru": "Это очень смешное видео",
+    "en": "It's a very funny video"
+  },
+  {
+    "_id": 27,
+    "ru": "Это очень хороший отель",
+    "en": "It's a very good hotel"
+  },
+  {
+    "_id": 28,
+    "ru": "У меня есть план",
+    "en": "I have a plan"
+  },
+  {
+    "_id": 29,
+    "ru": "Мы видим университет",
+    "en": "We see a university"
+  },
+  {
+    "_id": 30,
+    "ru": "У меня очень хороший результат",
+    "en": "I have a very good result"
+  },
+  {
+    "_id": 31,
+    "ru": "Это странный ответ",
+    "en": "It's a strange answer"
+  },
+  {
+    "_id": 32,
+    "ru": "Это так необычно",
+    "en": "It's so unusual"
+  },
+  {
+    "_id": 33,
+    "ru": "Это очень смешная шутка",
+    "en": "It's a very funny joke"
+  },
+  {
+    "_id": 34,
+    "ru": "Это очень интересный план",
+    "en": "It's a very interesting plan"
+  },
+  {
+    "_id": 35,
+    "ru": "Я думаю, что это интересный вопрос",
+    "en": "I think that it's an interesting question"
+  },
+  {
+    "_id": 36,
+    "ru": "Это интересный план",
+    "en": "It's an interesting plan"
+  },
+  {
+    "_id": 37,
+    "ru": "Это очень красивое место",
+    "en": "It's a very beautiful place"
+  },
+  {
+    "_id": 38,
+    "ru": "Это очень хороший результат",
+    "en": "It's a very good result"
+  },
+  {
+    "_id": 39,
+    "ru": "Это очень хорошая идея",
+    "en": "It's a very good idea"
+  },
+  {
+    "_id": 40,
+    "ru": "Это очень легкий тест",
+    "en": "It's a very easy test"
+  },
+  {
+    "_id": 41,
+    "ru": "У меня есть некоторые планы",
+    "en": "I have some plans"
+  },
+  {
+    "_id": 42,
+    "ru": "У меня есть одна очень четкая цель",
+    "en": "I have one very clear aim"
+  },
+  {
+    "_id": 43,
+    "ru": "Это хороший результат",
+    "en": "It's a good result"
+  },
+  {
+    "_id": 44,
+    "ru": "Я думаю, что это очень хорошая идея",
+    "en": "I think that it's a very good idea"
+  },
+  {
+    "_id": 45,
+    "ru": "Это очень полезная вещь",
+    "en": "It's a very useful thing"
+  },
+  {
+    "_id": 46,
+    "ru": "Это очень странный ответ",
+    "en": "It's a very strange answer"
+  },
+  {
+    "_id": 47,
+    "ru": "Это необычное решение",
+    "en": "It's an unusual decision"
+  },
+  {
+    "_id": 48,
+    "ru": "Это правдивая история",
+    "en": "It's a true story"
+  },
+  {
+    "_id": 49,
+    "ru": "Это очень необычно",
+    "en": "It's very unusual"
+  },
+  {
+    "_id": 50,
+    "ru": "Мне кажется, что это очень хорошая идея",
+    "en": "It seems to me that it's a very good idea"
+  }
 ]

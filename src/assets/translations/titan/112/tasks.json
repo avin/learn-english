@@ -1,414 +1,517 @@
 [
-  [
-    "Я сплю сейчас?",
-    "Am I sleeping?"
-  ],
-  [
-    "Они ждут нас сейчас?",
-    "Are they waiting for us?"
-  ],
-  [
-    "Он ест свой завтрак сейчас?",
-    "Is he eating his breakfast?"
-  ],
-  [
-    "Куда я иду сейчас?",
-    "Where am I going?"
-  ],
-  [
-    "Что ты делаешь сейчас?",
-    "What are you doing?"
-  ],
-  [
-    "Почему он читает эту скучную книгу сейчас?",
-    "Why is he reading this boring book?"
-  ],
-  [
-    "Что ты ешь?",
-    "What are you eating?"
-  ],
-  [
-    "Он сейчас изучает алгебру?",
-    "Is he studying algebra now?"
-  ],
-  [
-    "Почему она бежит?",
-    "Why is she running?"
-  ],
-  [
-    "Ты меня ждешь?",
-    "Are you waiting for me?"
-  ],
-  [
-    "Он чинит эти часы?",
-    "Is he fixing this watch?"
-  ],
-  [
-    "Она разговаривает с незнакомцем?",
-    "Is she talking to a stranger?"
-  ],
-  [
-    "Ты ждешь ее ответа?",
-    "Are you waiting for her answer?"
-  ],
-  [
-    "Он покидает город сейчас?",
-    "Is he leaving the city now?"
-  ],
-  [
-    "Он ждет поезда?",
-    "Is he waiting for a train?"
-  ],
-  [
-    "Что ты сейчас делаешь?",
-    "What are you doing now?"
-  ],
-  [
-    "Она сейчас принимает ванну?",
-    "Is she having a bath now?"
-  ],
-  [
-    "Он учится сейчас?",
-    "Is he studying now?"
-  ],
-  [
-    "Ты учишься или работаешь?",
-    "Are you studying or working?"
-  ],
-  [
-    "Она сейчас печет печенье?",
-    "Is she baking cookies now?"
-  ],
-  [
-    "Она работает сейчас?",
-    "Is she working now?"
-  ],
-  [
-    "Ты идешь за покупками сейчас?",
-    "Are you going shopping now?"
-  ],
-  [
-    "Что она готовит сейчас?",
-    "What is she cooking now?"
-  ],
-  [
-    "Ты сейчас остаешься дома?",
-    "Are you staying at home now?"
-  ],
-  [
-    "Она сейчас изучает геометрию?",
-    "Is she studying geometry now?"
-  ],
-  [
-    "Он смотрит на свою машину?",
-    "Is he watching his car?"
-  ],
-  [
-    "Зачем ты это делаешь?",
-    "Why are you doing it?"
-  ],
-  [
-    "Ты уходишь из дома?",
-    "Are you leaving home?"
-  ],
-  [
-    "Ты снимаешь квартиру?",
-    "Are you renting an apartment?"
-  ],
-  [
-    "Куда ты направляешься?",
-    "Where are you going now?"
-  ],
-  [
-    "Что ты делаешь?",
-    "What are you doing?"
-  ],
-  [
-    "Она убирает дом?",
-    "Is she cleaning the house?"
-  ],
-  [
-    "Куда ты собираешься?",
-    "Where are you going?"
-  ],
-  [
-    "Почему ты так мало ешь?",
-    "Why are you eating so little?"
-  ],
-  [
-    "Она играет с куклой?",
-    "Is she playing with a doll?"
-  ],
-  [
-    "Ты ждешь гостей?",
-    "Are you waiting for the guests?"
-  ],
-  [
-    "Ты его ждешь?",
-    "Are you waiting for him?"
-  ],
-  [
-    "Куда она идет?",
-    "Where is she going?"
-  ],
-  [
-    "Он чинит свой велосипед?",
-    "Is he fixing his bike?"
-  ],
-  [
-    "Ты пьешь чай сейчас?",
-    "Are you drinking tea now?"
-  ],
-  [
-    "Он сейчас смотрит футбольный матч?",
-    "Is he watching a football match now?"
-  ],
-  [
-    "Ты идешь домой сейчас?",
-    "Are you going home now?"
-  ],
-  [
-    "Она идет на работу сейчас?",
-    "Is she going to work now?"
-  ],
-  [
-    "Ты сейчас принимаешь ванну?",
-    "Are you having a bath now?"
-  ],
-  [
-    "Он арендует дом?",
-    "Is he renting a house?"
-  ],
-  [
-    "Ты ждешь автобус?",
-    "Are you waiting for the bus?"
-  ],
-  [
-    "Какую песню слушает твоя сестра?",
-    "What song is your sister listening to?"
-  ],
-  [
-    "Твоя мама сейчас печет печенье?",
-    "Is your mother baking cookies now?"
-  ],
-  [
-    "Какой предмет ты изучаешь сейчас?",
-    "What subject are you studying now?"
-  ],
-  [
-    "Какие вещи ты сейчас обсуждаешь?",
-    "What things are you discussing now?"
-  ],
-  [
-    "Колокол звонит?",
-    "Is the bell ringing?"
-  ],
-  [
-    "Твой брат сегодня работает?",
-    "Is your brother working today?"
-  ],
-  [
-    "О чем ты говоришь?",
-    "What are you talking about?"
-  ],
-  [
-    "Почему ребенок плачет?",
-    "Why is the baby crying?"
-  ],
-  [
-    "Ты ждешь последних новостей?",
-    "Are you waiting for the latest news?"
-  ],
-  [
-    "Чего ты ждешь?",
-    "What are you waiting for?"
-  ],
-  [
-    "У тебя сейчас встреча?",
-    "Are you having a meeting now?"
-  ],
-  [
-    "Самолет приземляется?",
-    "Is the airplane landing?"
-  ],
-  [
-    "Девочка играет с куклой?",
-    "Is the girl playing with a doll?"
-  ],
-  [
-    "Что ты слушаешь?",
-    "What are you listening to?"
-  ],
-  [
-    "О чем он говорит?",
-    "What is he talking about?"
-  ],
-  [
-    "О ком он говорит?",
-    "Who is he talking about?"
-  ],
-  [
-    "С кем он разговаривает?",
-    "Who is he talking to?"
-  ],
-  [
-    "Какую песню ты слушаешь?",
-    "What song are you listening to?"
-  ],
-  [
-    "Какого рода песни ты слушаешь?",
-    "What kind of songs are you listening to?"
-  ],
-  [
-    "Какой фильм ты смотришь?",
-    "What movie are you watching?"
-  ],
-  [
-    "Кого ждет твой брат?",
-    "Who is your brother waiting for?"
-  ],
-  [
-    "Чего ждет твоя сестра?",
-    "What is your sister waiting for?"
-  ],
-  [
-    "Кого ты ждешь?",
-    "Who are you waiting for?"
-  ],
-  [
-    "Какую музыку ты слушаешь?",
-    "What music are you listening to?"
-  ],
-  [
-    "Какое радио она слушает?",
-    "What radio is she listening to?"
-  ],
-  [
-    "Какую музыку он слушает?",
-    "What music is he listening to?"
-  ],
-  [
-    "Дети играют в саду?",
-    "Are the kids playing in the garden?"
-  ],
-  [
-    "Дети играют в футбол?",
-    "Are the kids playing football?"
-  ],
-  [
-    "Они сейчас играют в бейсбол?",
-    "Are they playing baseball now?"
-  ],
-  [
-    "На что она смотрит?",
-    "What is she looking at?"
-  ],
-  [
-    "Что он сейчас делает?",
-    "What is he doing now?"
-  ],
-  [
-    "На кого она смотрит?",
-    "Who is she looking at?"
-  ],
-  [
-    "Что ты ищешь?",
-    "What are you looking for?"
-  ],
-  [
-    "Кого ты ищешь?",
-    "Who are you looking for?"
-  ],
-  [
-    "Что он ищет там?",
-    "What is he looking for there?"
-  ],
-  [
-    "Сегодня идет дождь?",
-    "Is it raining today?"
-  ],
-  [
-    "Сегодня идет снег?",
-    "Is it snowing today?"
-  ],
-  [
-    "Сейчас идет дождь?",
-    "Is it raining now?"
-  ],
-  [
-    "Кто тебе звонит?",
-    "Who is calling you?"
-  ],
-  [
-    "Кто ему сейчас звонит?",
-    "Who is calling him now?"
-  ],
-  [
-    "Кто тебя ждет?",
-    "Who is waiting for you?"
-  ],
-  [
-    "Фабрика производит все больше и больше товаров?",
-    "Is the factory producing more and more goods?"
-  ],
-  [
-    "Фабрика производит много товаров?",
-    "Is the factory producing many goods?"
-  ],
-  [
-    "Эта фабрика производит много разных товаров?",
-    "Is this factory producing many different goods?"
-  ],
-  [
-    "Самолет взлетает?",
-    "Is the airplane taking off?"
-  ],
-  [
-    "Какую дисциплину ты изучаешь сейчас?",
-    "What discipline are you studying now?"
-  ],
-  [
-    "На что ты смотришь?",
-    "What are you looking at?"
-  ],
-  [
-    "У него сейчас встреча?",
-    "Is he having a meeting now?"
-  ],
-  [
-    "Дети играют или читают книгу?",
-    "Are the children playing or reading a book?"
-  ],
-  [
-    "Кого он ждет?",
-    "Who is he waiting for?"
-  ],
-  [
-    "О чем они говорят?",
-    "What are they talking about?"
-  ],
-  [
-    "На что он смотрит?",
-    "What is he looking at?"
-  ],
-  [
-    "Мой английский становится лучше?",
-    "Is my English getting better?"
-  ],
-  [
-    "Что дети делают?",
-    "What are the kids doing?"
-  ],
-  [
-    "Телефон звонит?",
-    "Is the phone ringing?"
-  ],
-  [
-    "Дождь идет?",
-    "Is it raining?"
-  ],
-  [
-    "Снег идет?",
-    "Is it snowing?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я сплю сейчас?",
+    "en": "Am I sleeping?"
+  },
+  {
+    "_id": 2,
+    "ru": "Они ждут нас сейчас?",
+    "en": "Are they waiting for us?"
+  },
+  {
+    "_id": 3,
+    "ru": "Он ест свой завтрак сейчас?",
+    "en": "Is he eating his breakfast?"
+  },
+  {
+    "_id": 4,
+    "ru": "Куда я иду сейчас?",
+    "en": "Where am I going?"
+  },
+  {
+    "_id": 5,
+    "ru": "Что ты делаешь сейчас?",
+    "en": "What are you doing?"
+  },
+  {
+    "_id": 6,
+    "ru": "Почему он читает эту скучную книгу сейчас?",
+    "en": "Why is he reading this boring book?"
+  },
+  {
+    "_id": 7,
+    "ru": "Что ты ешь?",
+    "en": "What are you eating?"
+  },
+  {
+    "_id": 8,
+    "ru": "Он сейчас изучает алгебру?",
+    "en": "Is he studying algebra now?"
+  },
+  {
+    "_id": 9,
+    "ru": "Почему она бежит?",
+    "en": "Why is she running?"
+  },
+  {
+    "_id": 10,
+    "ru": "Ты меня ждешь?",
+    "en": "Are you waiting for me?"
+  },
+  {
+    "_id": 11,
+    "ru": "Он чинит эти часы?",
+    "en": "Is he fixing this watch?"
+  },
+  {
+    "_id": 12,
+    "ru": "Она разговаривает с незнакомцем?",
+    "en": "Is she talking to a stranger?"
+  },
+  {
+    "_id": 13,
+    "ru": "Ты ждешь ее ответа?",
+    "en": "Are you waiting for her answer?"
+  },
+  {
+    "_id": 14,
+    "ru": "Он покидает город сейчас?",
+    "en": "Is he leaving the city now?"
+  },
+  {
+    "_id": 15,
+    "ru": "Он ждет поезда?",
+    "en": "Is he waiting for a train?"
+  },
+  {
+    "_id": 16,
+    "ru": "Что ты сейчас делаешь?",
+    "en": "What are you doing now?"
+  },
+  {
+    "_id": 17,
+    "ru": "Она сейчас принимает ванну?",
+    "en": "Is she having a bath now?"
+  },
+  {
+    "_id": 18,
+    "ru": "Он учится сейчас?",
+    "en": "Is he studying now?"
+  },
+  {
+    "_id": 19,
+    "ru": "Ты учишься или работаешь?",
+    "en": "Are you studying or working?"
+  },
+  {
+    "_id": 20,
+    "ru": "Она сейчас печет печенье?",
+    "en": "Is she baking cookies now?"
+  },
+  {
+    "_id": 21,
+    "ru": "Она работает сейчас?",
+    "en": "Is she working now?"
+  },
+  {
+    "_id": 22,
+    "ru": "Ты идешь за покупками сейчас?",
+    "en": "Are you going shopping now?"
+  },
+  {
+    "_id": 23,
+    "ru": "Что она готовит сейчас?",
+    "en": "What is she cooking now?"
+  },
+  {
+    "_id": 24,
+    "ru": "Ты сейчас остаешься дома?",
+    "en": "Are you staying at home now?"
+  },
+  {
+    "_id": 25,
+    "ru": "Она сейчас изучает геометрию?",
+    "en": "Is she studying geometry now?"
+  },
+  {
+    "_id": 26,
+    "ru": "Он смотрит на свою машину?",
+    "en": "Is he watching his car?"
+  },
+  {
+    "_id": 27,
+    "ru": "Зачем ты это делаешь?",
+    "en": "Why are you doing it?"
+  },
+  {
+    "_id": 28,
+    "ru": "Ты уходишь из дома?",
+    "en": "Are you leaving home?"
+  },
+  {
+    "_id": 29,
+    "ru": "Ты снимаешь квартиру?",
+    "en": "Are you renting an apartment?"
+  },
+  {
+    "_id": 30,
+    "ru": "Куда ты направляешься?",
+    "en": "Where are you going now?"
+  },
+  {
+    "_id": 31,
+    "ru": "Что ты делаешь?",
+    "en": "What are you doing?"
+  },
+  {
+    "_id": 32,
+    "ru": "Она убирает дом?",
+    "en": "Is she cleaning the house?"
+  },
+  {
+    "_id": 33,
+    "ru": "Куда ты собираешься?",
+    "en": "Where are you going?"
+  },
+  {
+    "_id": 34,
+    "ru": "Почему ты так мало ешь?",
+    "en": "Why are you eating so little?"
+  },
+  {
+    "_id": 35,
+    "ru": "Она играет с куклой?",
+    "en": "Is she playing with a doll?"
+  },
+  {
+    "_id": 36,
+    "ru": "Ты ждешь гостей?",
+    "en": "Are you waiting for the guests?"
+  },
+  {
+    "_id": 37,
+    "ru": "Ты его ждешь?",
+    "en": "Are you waiting for him?"
+  },
+  {
+    "_id": 38,
+    "ru": "Куда она идет?",
+    "en": "Where is she going?"
+  },
+  {
+    "_id": 39,
+    "ru": "Он чинит свой велосипед?",
+    "en": "Is he fixing his bike?"
+  },
+  {
+    "_id": 40,
+    "ru": "Ты пьешь чай сейчас?",
+    "en": "Are you drinking tea now?"
+  },
+  {
+    "_id": 41,
+    "ru": "Он сейчас смотрит футбольный матч?",
+    "en": "Is he watching a football match now?"
+  },
+  {
+    "_id": 42,
+    "ru": "Ты идешь домой сейчас?",
+    "en": "Are you going home now?"
+  },
+  {
+    "_id": 43,
+    "ru": "Она идет на работу сейчас?",
+    "en": "Is she going to work now?"
+  },
+  {
+    "_id": 44,
+    "ru": "Ты сейчас принимаешь ванну?",
+    "en": "Are you having a bath now?"
+  },
+  {
+    "_id": 45,
+    "ru": "Он арендует дом?",
+    "en": "Is he renting a house?"
+  },
+  {
+    "_id": 46,
+    "ru": "Ты ждешь автобус?",
+    "en": "Are you waiting for the bus?"
+  },
+  {
+    "_id": 47,
+    "ru": "Какую песню слушает твоя сестра?",
+    "en": "What song is your sister listening to?"
+  },
+  {
+    "_id": 48,
+    "ru": "Твоя мама сейчас печет печенье?",
+    "en": "Is your mother baking cookies now?"
+  },
+  {
+    "_id": 49,
+    "ru": "Какой предмет ты изучаешь сейчас?",
+    "en": "What subject are you studying now?"
+  },
+  {
+    "_id": 50,
+    "ru": "Какие вещи ты сейчас обсуждаешь?",
+    "en": "What things are you discussing now?"
+  },
+  {
+    "_id": 51,
+    "ru": "Колокол звонит?",
+    "en": "Is the bell ringing?"
+  },
+  {
+    "_id": 52,
+    "ru": "Твой брат сегодня работает?",
+    "en": "Is your brother working today?"
+  },
+  {
+    "_id": 53,
+    "ru": "О чем ты говоришь?",
+    "en": "What are you talking about?"
+  },
+  {
+    "_id": 54,
+    "ru": "Почему ребенок плачет?",
+    "en": "Why is the baby crying?"
+  },
+  {
+    "_id": 55,
+    "ru": "Ты ждешь последних новостей?",
+    "en": "Are you waiting for the latest news?"
+  },
+  {
+    "_id": 56,
+    "ru": "Чего ты ждешь?",
+    "en": "What are you waiting for?"
+  },
+  {
+    "_id": 57,
+    "ru": "У тебя сейчас встреча?",
+    "en": "Are you having a meeting now?"
+  },
+  {
+    "_id": 58,
+    "ru": "Самолет приземляется?",
+    "en": "Is the airplane landing?"
+  },
+  {
+    "_id": 59,
+    "ru": "Девочка играет с куклой?",
+    "en": "Is the girl playing with a doll?"
+  },
+  {
+    "_id": 60,
+    "ru": "Что ты слушаешь?",
+    "en": "What are you listening to?"
+  },
+  {
+    "_id": 61,
+    "ru": "О чем он говорит?",
+    "en": "What is he talking about?"
+  },
+  {
+    "_id": 62,
+    "ru": "О ком он говорит?",
+    "en": "Who is he talking about?"
+  },
+  {
+    "_id": 63,
+    "ru": "С кем он разговаривает?",
+    "en": "Who is he talking to?"
+  },
+  {
+    "_id": 64,
+    "ru": "Какую песню ты слушаешь?",
+    "en": "What song are you listening to?"
+  },
+  {
+    "_id": 65,
+    "ru": "Какого рода песни ты слушаешь?",
+    "en": "What kind of songs are you listening to?"
+  },
+  {
+    "_id": 66,
+    "ru": "Какой фильм ты смотришь?",
+    "en": "What movie are you watching?"
+  },
+  {
+    "_id": 67,
+    "ru": "Кого ждет твой брат?",
+    "en": "Who is your brother waiting for?"
+  },
+  {
+    "_id": 68,
+    "ru": "Чего ждет твоя сестра?",
+    "en": "What is your sister waiting for?"
+  },
+  {
+    "_id": 69,
+    "ru": "Кого ты ждешь?",
+    "en": "Who are you waiting for?"
+  },
+  {
+    "_id": 70,
+    "ru": "Какую музыку ты слушаешь?",
+    "en": "What music are you listening to?"
+  },
+  {
+    "_id": 71,
+    "ru": "Какое радио она слушает?",
+    "en": "What radio is she listening to?"
+  },
+  {
+    "_id": 72,
+    "ru": "Какую музыку он слушает?",
+    "en": "What music is he listening to?"
+  },
+  {
+    "_id": 73,
+    "ru": "Дети играют в саду?",
+    "en": "Are the kids playing in the garden?"
+  },
+  {
+    "_id": 74,
+    "ru": "Дети играют в футбол?",
+    "en": "Are the kids playing football?"
+  },
+  {
+    "_id": 75,
+    "ru": "Они сейчас играют в бейсбол?",
+    "en": "Are they playing baseball now?"
+  },
+  {
+    "_id": 76,
+    "ru": "На что она смотрит?",
+    "en": "What is she looking at?"
+  },
+  {
+    "_id": 77,
+    "ru": "Что он сейчас делает?",
+    "en": "What is he doing now?"
+  },
+  {
+    "_id": 78,
+    "ru": "На кого она смотрит?",
+    "en": "Who is she looking at?"
+  },
+  {
+    "_id": 79,
+    "ru": "Что ты ищешь?",
+    "en": "What are you looking for?"
+  },
+  {
+    "_id": 80,
+    "ru": "Кого ты ищешь?",
+    "en": "Who are you looking for?"
+  },
+  {
+    "_id": 81,
+    "ru": "Что он ищет там?",
+    "en": "What is he looking for there?"
+  },
+  {
+    "_id": 82,
+    "ru": "Сегодня идет дождь?",
+    "en": "Is it raining today?"
+  },
+  {
+    "_id": 83,
+    "ru": "Сегодня идет снег?",
+    "en": "Is it snowing today?"
+  },
+  {
+    "_id": 84,
+    "ru": "Сейчас идет дождь?",
+    "en": "Is it raining now?"
+  },
+  {
+    "_id": 85,
+    "ru": "Кто тебе звонит?",
+    "en": "Who is calling you?"
+  },
+  {
+    "_id": 86,
+    "ru": "Кто ему сейчас звонит?",
+    "en": "Who is calling him now?"
+  },
+  {
+    "_id": 87,
+    "ru": "Кто тебя ждет?",
+    "en": "Who is waiting for you?"
+  },
+  {
+    "_id": 88,
+    "ru": "Фабрика производит все больше и больше товаров?",
+    "en": "Is the factory producing more and more goods?"
+  },
+  {
+    "_id": 89,
+    "ru": "Фабрика производит много товаров?",
+    "en": "Is the factory producing many goods?"
+  },
+  {
+    "_id": 90,
+    "ru": "Эта фабрика производит много разных товаров?",
+    "en": "Is this factory producing many different goods?"
+  },
+  {
+    "_id": 91,
+    "ru": "Самолет взлетает?",
+    "en": "Is the airplane taking off?"
+  },
+  {
+    "_id": 92,
+    "ru": "Какую дисциплину ты изучаешь сейчас?",
+    "en": "What discipline are you studying now?"
+  },
+  {
+    "_id": 93,
+    "ru": "На что ты смотришь?",
+    "en": "What are you looking at?"
+  },
+  {
+    "_id": 94,
+    "ru": "У него сейчас встреча?",
+    "en": "Is he having a meeting now?"
+  },
+  {
+    "_id": 95,
+    "ru": "Дети играют или читают книгу?",
+    "en": "Are the children playing or reading a book?"
+  },
+  {
+    "_id": 96,
+    "ru": "Кого он ждет?",
+    "en": "Who is he waiting for?"
+  },
+  {
+    "_id": 97,
+    "ru": "О чем они говорят?",
+    "en": "What are they talking about?"
+  },
+  {
+    "_id": 98,
+    "ru": "На что он смотрит?",
+    "en": "What is he looking at?"
+  },
+  {
+    "_id": 99,
+    "ru": "Мой английский становится лучше?",
+    "en": "Is my English getting better?"
+  },
+  {
+    "_id": 100,
+    "ru": "Что дети делают?",
+    "en": "What are the kids doing?"
+  },
+  {
+    "_id": 101,
+    "ru": "Телефон звонит?",
+    "en": "Is the phone ringing?"
+  },
+  {
+    "_id": 102,
+    "ru": "Дождь идет?",
+    "en": "Is it raining?"
+  },
+  {
+    "_id": 103,
+    "ru": "Снег идет?",
+    "en": "Is it snowing?"
+  }
 ]

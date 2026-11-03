@@ -1,70 +1,87 @@
 [
-  [
-    "Я все закончил к тому времени, как она мне позвонила",
-    "I had finished everything by the time she called me"
-  ],
-  [
-    "Когда он прибыл в аэропорт, самолет уже взлетел",
-    "When he arrived at the airport, the plane had already taken off"
-  ],
-  [
-    "Когда я пришел домой, она уже приготовила ужин",
-    "When I came home, she had already cooked dinner"
-  ],
-  [
-    "Когда она прибыла в аэропорт, самолет еще не приземлился",
-    "When she arrived at the airport, the plane hadn't landed yet"
-  ],
-  [
-    "Я знал, что это уже произошло",
-    "I knew that it had already happened"
-  ],
-  [
-    "Я выяснил, что они сказали мне неправду",
-    "I found out that they had told me a lie"
-  ],
-  [
-    "Я выяснил, что они обманули его",
-    "I found out that they had deceived him"
-  ],
-  [
-    "Он сказал, что выиграл",
-    "He said that he had won"
-  ],
-  [
-    "Она сказала, что он выиграл, но я не поверил ей",
-    "She said that he had won but I didn't believe her"
-  ],
-  [
-    "Я знал, что они обманули ее",
-    "I knew that they had deceived her"
-  ],
-  [
-    "Я понял, что сделал ошибку",
-    "I understood that I had made a mistake"
-  ],
-  [
-    "Я был так счастлив, потому что сдал тест успешно",
-    "I was so happy because I had passed the test successfully"
-  ],
-  [
-    "Я закончил это делать к тому времени",
-    "I had finished doing it by that time"
-  ],
-  [
-    "Я закончил делать все к трем часам",
-    "I had finished doing everything by three o'clock"
-  ],
-  [
-    "Я уже ушел из дома к тому времени, как они прибыли",
-    "I had already left home by the time they arrived"
-  ],
-  [
-    "Она сказала мне, что никто не заметил это",
-    "She told me that no one had noticed it"
-  ],
-  [
-    "Он сказал, что провалил тест",
-    "He said that he had failed the test"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я все закончил к тому времени, как она мне позвонила",
+    "en": "I had finished everything by the time she called me"
+  },
+  {
+    "_id": 2,
+    "ru": "Когда он прибыл в аэропорт, самолет уже взлетел",
+    "en": "When he arrived at the airport, the plane had already taken off"
+  },
+  {
+    "_id": 3,
+    "ru": "Когда я пришел домой, она уже приготовила ужин",
+    "en": "When I came home, she had already cooked dinner"
+  },
+  {
+    "_id": 4,
+    "ru": "Когда она прибыла в аэропорт, самолет еще не приземлился",
+    "en": "When she arrived at the airport, the plane hadn't landed yet"
+  },
+  {
+    "_id": 5,
+    "ru": "Я знал, что это уже произошло",
+    "en": "I knew that it had already happened"
+  },
+  {
+    "_id": 6,
+    "ru": "Я выяснил, что они сказали мне неправду",
+    "en": "I found out that they had told me a lie"
+  },
+  {
+    "_id": 7,
+    "ru": "Я выяснил, что они обманули его",
+    "en": "I found out that they had deceived him"
+  },
+  {
+    "_id": 8,
+    "ru": "Он сказал, что выиграл",
+    "en": "He said that he had won"
+  },
+  {
+    "_id": 9,
+    "ru": "Она сказала, что он выиграл, но я не поверил ей",
+    "en": "She said that he had won but I didn't believe her"
+  },
+  {
+    "_id": 10,
+    "ru": "Я знал, что они обманули ее",
+    "en": "I knew that they had deceived her"
+  },
+  {
+    "_id": 11,
+    "ru": "Я понял, что сделал ошибку",
+    "en": "I understood that I had made a mistake"
+  },
+  {
+    "_id": 12,
+    "ru": "Я был так счастлив, потому что сдал тест успешно",
+    "en": "I was so happy because I had passed the test successfully"
+  },
+  {
+    "_id": 13,
+    "ru": "Я закончил это делать к тому времени",
+    "en": "I had finished doing it by that time"
+  },
+  {
+    "_id": 14,
+    "ru": "Я закончил делать все к трем часам",
+    "en": "I had finished doing everything by three o'clock"
+  },
+  {
+    "_id": 15,
+    "ru": "Я уже ушел из дома к тому времени, как они прибыли",
+    "en": "I had already left home by the time they arrived"
+  },
+  {
+    "_id": 16,
+    "ru": "Она сказала мне, что никто не заметил это",
+    "en": "She told me that no one had noticed it"
+  },
+  {
+    "_id": 17,
+    "ru": "Он сказал, что провалил тест",
+    "en": "He said that he had failed the test"
+  }
 ]

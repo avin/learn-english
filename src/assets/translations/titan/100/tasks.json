@@ -1,366 +1,457 @@
 [
-  [
-    "Я хотел бы полететь в Соединенные Штаты однажды",
-    "I'd like to fly to the United States one day"
-  ],
-  [
-    "Я зарезервировал столик у окна",
-    "I reserved a table near the window"
-  ],
-  [
-    "Я выполнил свою работу",
-    "I completed my work"
-  ],
-  [
-    "Он покрасил стену",
-    "He painted the wall"
-  ],
-  [
-    "Пациенту потребовалась операция",
-    "The patient required an operation"
-  ],
-  [
-    "Как он заработал эти деньги?",
-    "How did he earn this money?"
-  ],
-  [
-    "Она в основном слушает классическую музыку",
-    "She mostly listens to classical music"
-  ],
-  [
-    "Во сколько ты вернешься домой?",
-    "What time will you return home?"
-  ],
-  [
-    "Ты зарезервируешь столик для нас?",
-    "Will you reserve a table for us?"
-  ],
-  [
-    "Я хочу сосредоточиться на этих вопросах",
-    "I want to concentrate on these issues"
-  ],
-  [
-    "Он хотел бы извиниться за свое поведение",
-    "He'd like to apologise for his behaviour"
-  ],
-  [
-    "Ты можешь поговорить со мной сейчас?",
-    "Can you talk to me now?"
-  ],
-  [
-    "Это зависит от разных факторов",
-    "It depends on different factors"
-  ],
-  [
-    "Я закончу этот курс в следующем году",
-    "I’ll complete this course next year"
-  ],
-  [
-    "Я выполнил это задание",
-    "I completed this task"
-  ],
-  [
-    "Он много спал",
-    "He slept a lot"
-  ],
-  [
-    "Я не могу себе этого представить",
-    "I can't imagine it"
-  ],
-  [
-    "Он улетел прочь",
-    "He flew away"
-  ],
-  [
-    "Он слишком много спит",
-    "He sleeps too much"
-  ],
-  [
-    "Я хочу немного расслабиться",
-    "I want to relax a bit"
-  ],
-  [
-    "Кто написал эту книгу?",
-    "Who wrote this book?"
-  ],
-  [
-    "Я знаю, что могу сделать это лучше",
-    "I know that I can do it better"
-  ],
-  [
-    "Она перезвонила мне",
-    "She called me back"
-  ],
-  [
-    "Я могу бежать намного быстрее",
-    "I can run much faster"
-  ],
-  [
-    "Он вернулся в Америку прошлым летом",
-    "He returned to America last summer"
-  ],
-  [
-    "Это требует постоянной работы",
-    "It requires constant work"
-  ],
-  [
-    "Он в основном слушал поп-музыку",
-    "He mostly listened to pop music"
-  ],
-  [
-    "Он собирал марки",
-    "He collected stamps"
-  ],
-  [
-    "Он извинился за свои слова",
-    "He apologised for his words"
-  ],
-  [
-    "Я написал ему имейл",
-    "I wrote him an email"
-  ],
-  [
-    "Мы можем сосредоточиться на этой проблеме",
-    "We can concentrate on this problem"
-  ],
-  [
-    "Когда ты хочешь обсудить это?",
-    "When do you want to discuss it?"
-  ],
-  [
-    "Это действительно зависит от меня?",
-    "Does it really depend on me?"
-  ],
-  [
-    "Эта квартира принадлежит его родителям",
-    "This apartment belongs to his parents"
-  ],
-  [
-    "Ты умеешь говорить по-английски?",
-    "Can you speak English?"
-  ],
-  [
-    "Они построили церковь в этой области",
-    "They built a church in this area"
-  ],
-  [
-    "Ты хочешь танцевать?",
-    "Do you want to dance?"
-  ],
-  [
-    "Мы могли бы обсудить это сегодня вечером",
-    "We could discuss it tonight"
-  ],
-  [
-    "Мне нужно поговорить с тобой",
-    "I need to talk to you"
-  ],
-  [
-    "Этот дом принадлежит тебе?",
-    "Does this house belong to you?"
-  ],
-  [
-    "Он снял все деньги со своего счета",
-    "He withdrew all the money from his account"
-  ],
-  [
-    "Он собирал древние монеты, когда был мальчиком",
-    "He collected ancient coins when he was a boy"
-  ],
-  [
-    "Они построили этот монастырь в пятнадцатом веке",
-    "They built this monastery in the fifteenth century"
-  ],
-  [
-    "Он решил купить дом вместо квартиры",
-    "He decided to buy a house instead of an apartment"
-  ],
-  [
-    "Представление действительно впечатлило меня",
-    "The performance really impressed me"
-  ],
-  [
-    "Он не может представить свою жизнь без спорта",
-    "He can't imagine his life without sport"
-  ],
-  [
-    "Что он тебе посоветовал сделать?",
-    "What did he advise you to do?"
-  ],
-  [
-    "Я не хочу что-либо обещать",
-    "I don't want to promise anything"
-  ],
-  [
-    "Она попросила помощи",
-    "She asked for help"
-  ],
-  [
-    "Учитель указал на его ошибки",
-    "The teacher pointed out his mistakes"
-  ],
-  [
-    "Твой учитель указал на твои ошибки?",
-    "Did your teacher point out your mistakes?"
-  ],
-  [
-    "Я указал на ее ошибки",
-    "I pointed out her mistakes"
-  ],
-  [
-    "Эта вещь не зависит от меня",
-    "This thing doesn't depend on me"
-  ],
-  [
-    "Эта вещь зависит от меня?",
-    "Does this thing depend on me?"
-  ],
-  [
-    "Это не зависит от моего решения",
-    "It doesn't depend on my decision"
-  ],
-  [
-    "Он выучил этот текст наизусть",
-    "He learnt this text by heart"
-  ],
-  [
-    "Он выучил этот текст наизусть?",
-    "Did he learn this text by heart?"
-  ],
-  [
-    "Я не хочу учить тот текст наизусть",
-    "I don't want to learn that text by heart"
-  ],
-  [
-    "Они наконец разрешили этот конфликт",
-    "They finally resolved this conflict"
-  ],
-  [
-    "Они наконец разрешат этот конфликт",
-    "They’ll finally resolve this conflict"
-  ],
-  [
-    "Я наконец решил эту проблему",
-    "I finally solved this problem"
-  ],
-  [
-    "Я хотел бы отметить, что это действительно удивительно",
-    "I'd like to point out that it's really amazing"
-  ],
-  [
-    "Он хотел бы отметить, что это было так удивительно",
-    "He'd like to point out that it was so amazing"
-  ],
-  [
-    "Они отметили, что это было так удивительно",
-    "They pointed out that it was so amazing"
-  ],
-  [
-    "Он обещал взять это под контроль",
-    "He promised to take it under control"
-  ],
-  [
-    "Ты обещаешь взять это под контроль?",
-    "Do you promise to take it under control?"
-  ],
-  [
-    "Он решил взять это под контроль",
-    "He decided to take it under control"
-  ],
-  [
-    "Я смогу заработать эти деньги?",
-    "Will I be able to earn this money?"
-  ],
-  [
-    "Я смогу заработать эти деньги",
-    "I’ll be able to earn this money"
-  ],
-  [
-    "Ты сможешь заработать так много денег?",
-    "Will you be able to earn so much money?"
-  ],
-  [
-    "Результат этой игры меня так сильно шокировал",
-    "The result of this game shocked me so much"
-  ],
-  [
-    "Эти результаты действительно шокировали их",
-    "These results really shocked them"
-  ],
-  [
-    "Ты можешь объяснить эту вещь мне?",
-    "Can you explain this thing to me?"
-  ],
-  [
-    "Я не могу объяснить эту вещь тебе",
-    "I can't explain this thing to you"
-  ],
-  [
-    "Ты можешь показать это видео мне?",
-    "Can you show this video to me?"
-  ],
-  [
-    "Я думаю, я куплю квартиру вместо дома",
-    "I think I'll buy an apartment instead of a house"
-  ],
-  [
-    "Я решил купить квартиру вместо дома",
-    "I decided to buy an apartment instead of a house"
-  ],
-  [
-    "Ты купишь квартиру вместо этого дома?",
-    "Will you buy an apartment instead of this house?"
-  ],
-  [
-    "Я перезвоню тебе через пару минут",
-    "I'll call you back in a couple of minutes"
-  ],
-  [
-    "Те новости действительно шокировали тебя?",
-    "Did that news really shock you?"
-  ],
-  [
-    "Как ты разрешил этот конфликт?",
-    "How did you resolve this conflict?"
-  ],
-  [
-    "Я думаю, тебе нужно немного отдохнуть",
-    "I think you need to relax a little"
-  ],
-  [
-    "Я снял эти деньги со своего счета",
-    "I withdrew this money from my account"
-  ],
-  [
-    "Она попросила меня задать тебе этот вопрос",
-    "She asked me to ask you this question"
-  ],
-  [
-    "Она посоветовала мне не делать этого",
-    "She advised me not to do it"
-  ],
-  [
-    "Он ненавидит делать такого рода вещи",
-    "He hates doing this sort of things"
-  ],
-  [
-    "Мне нужно некоторое время, чтобы сосредоточиться",
-    "I need some time to concentrate"
-  ],
-  [
-    "Он знает, что она может умереть скоро",
-    "He knows that she can die soon"
-  ],
-  [
-    "Я сдал тест успешно",
-    "I passed the test successfully"
-  ],
-  [
-    "Я действительно ненавижу делать это",
-    "I really hate doing it"
-  ],
-  [
-    "Я могу объяснить это тебе",
-    "I can explain it to you"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я хотел бы полететь в Соединенные Штаты однажды",
+    "en": "I'd like to fly to the United States one day"
+  },
+  {
+    "_id": 2,
+    "ru": "Я зарезервировал столик у окна",
+    "en": "I reserved a table near the window"
+  },
+  {
+    "_id": 3,
+    "ru": "Я выполнил свою работу",
+    "en": "I completed my work"
+  },
+  {
+    "_id": 4,
+    "ru": "Он покрасил стену",
+    "en": "He painted the wall"
+  },
+  {
+    "_id": 5,
+    "ru": "Пациенту потребовалась операция",
+    "en": "The patient required an operation"
+  },
+  {
+    "_id": 6,
+    "ru": "Как он заработал эти деньги?",
+    "en": "How did he earn this money?"
+  },
+  {
+    "_id": 7,
+    "ru": "Она в основном слушает классическую музыку",
+    "en": "She mostly listens to classical music"
+  },
+  {
+    "_id": 8,
+    "ru": "Во сколько ты вернешься домой?",
+    "en": "What time will you return home?"
+  },
+  {
+    "_id": 9,
+    "ru": "Ты зарезервируешь столик для нас?",
+    "en": "Will you reserve a table for us?"
+  },
+  {
+    "_id": 10,
+    "ru": "Я хочу сосредоточиться на этих вопросах",
+    "en": "I want to concentrate on these issues"
+  },
+  {
+    "_id": 11,
+    "ru": "Он хотел бы извиниться за свое поведение",
+    "en": "He'd like to apologise for his behaviour"
+  },
+  {
+    "_id": 12,
+    "ru": "Ты можешь поговорить со мной сейчас?",
+    "en": "Can you talk to me now?"
+  },
+  {
+    "_id": 13,
+    "ru": "Это зависит от разных факторов",
+    "en": "It depends on different factors"
+  },
+  {
+    "_id": 14,
+    "ru": "Я закончу этот курс в следующем году",
+    "en": "I’ll complete this course next year"
+  },
+  {
+    "_id": 15,
+    "ru": "Я выполнил это задание",
+    "en": "I completed this task"
+  },
+  {
+    "_id": 16,
+    "ru": "Он много спал",
+    "en": "He slept a lot"
+  },
+  {
+    "_id": 17,
+    "ru": "Я не могу себе этого представить",
+    "en": "I can't imagine it"
+  },
+  {
+    "_id": 18,
+    "ru": "Он улетел прочь",
+    "en": "He flew away"
+  },
+  {
+    "_id": 19,
+    "ru": "Он слишком много спит",
+    "en": "He sleeps too much"
+  },
+  {
+    "_id": 20,
+    "ru": "Я хочу немного расслабиться",
+    "en": "I want to relax a bit"
+  },
+  {
+    "_id": 21,
+    "ru": "Кто написал эту книгу?",
+    "en": "Who wrote this book?"
+  },
+  {
+    "_id": 22,
+    "ru": "Я знаю, что могу сделать это лучше",
+    "en": "I know that I can do it better"
+  },
+  {
+    "_id": 23,
+    "ru": "Она перезвонила мне",
+    "en": "She called me back"
+  },
+  {
+    "_id": 24,
+    "ru": "Я могу бежать намного быстрее",
+    "en": "I can run much faster"
+  },
+  {
+    "_id": 25,
+    "ru": "Он вернулся в Америку прошлым летом",
+    "en": "He returned to America last summer"
+  },
+  {
+    "_id": 26,
+    "ru": "Это требует постоянной работы",
+    "en": "It requires constant work"
+  },
+  {
+    "_id": 27,
+    "ru": "Он в основном слушал поп-музыку",
+    "en": "He mostly listened to pop music"
+  },
+  {
+    "_id": 28,
+    "ru": "Он собирал марки",
+    "en": "He collected stamps"
+  },
+  {
+    "_id": 29,
+    "ru": "Он извинился за свои слова",
+    "en": "He apologised for his words"
+  },
+  {
+    "_id": 30,
+    "ru": "Я написал ему имейл",
+    "en": "I wrote him an email"
+  },
+  {
+    "_id": 31,
+    "ru": "Мы можем сосредоточиться на этой проблеме",
+    "en": "We can concentrate on this problem"
+  },
+  {
+    "_id": 32,
+    "ru": "Когда ты хочешь обсудить это?",
+    "en": "When do you want to discuss it?"
+  },
+  {
+    "_id": 33,
+    "ru": "Это действительно зависит от меня?",
+    "en": "Does it really depend on me?"
+  },
+  {
+    "_id": 34,
+    "ru": "Эта квартира принадлежит его родителям",
+    "en": "This apartment belongs to his parents"
+  },
+  {
+    "_id": 35,
+    "ru": "Ты умеешь говорить по-английски?",
+    "en": "Can you speak English?"
+  },
+  {
+    "_id": 36,
+    "ru": "Они построили церковь в этой области",
+    "en": "They built a church in this area"
+  },
+  {
+    "_id": 37,
+    "ru": "Ты хочешь танцевать?",
+    "en": "Do you want to dance?"
+  },
+  {
+    "_id": 38,
+    "ru": "Мы могли бы обсудить это сегодня вечером",
+    "en": "We could discuss it tonight"
+  },
+  {
+    "_id": 39,
+    "ru": "Мне нужно поговорить с тобой",
+    "en": "I need to talk to you"
+  },
+  {
+    "_id": 40,
+    "ru": "Этот дом принадлежит тебе?",
+    "en": "Does this house belong to you?"
+  },
+  {
+    "_id": 41,
+    "ru": "Он снял все деньги со своего счета",
+    "en": "He withdrew all the money from his account"
+  },
+  {
+    "_id": 42,
+    "ru": "Он собирал древние монеты, когда был мальчиком",
+    "en": "He collected ancient coins when he was a boy"
+  },
+  {
+    "_id": 43,
+    "ru": "Они построили этот монастырь в пятнадцатом веке",
+    "en": "They built this monastery in the fifteenth century"
+  },
+  {
+    "_id": 44,
+    "ru": "Он решил купить дом вместо квартиры",
+    "en": "He decided to buy a house instead of an apartment"
+  },
+  {
+    "_id": 45,
+    "ru": "Представление действительно впечатлило меня",
+    "en": "The performance really impressed me"
+  },
+  {
+    "_id": 46,
+    "ru": "Он не может представить свою жизнь без спорта",
+    "en": "He can't imagine his life without sport"
+  },
+  {
+    "_id": 47,
+    "ru": "Что он тебе посоветовал сделать?",
+    "en": "What did he advise you to do?"
+  },
+  {
+    "_id": 48,
+    "ru": "Я не хочу что-либо обещать",
+    "en": "I don't want to promise anything"
+  },
+  {
+    "_id": 49,
+    "ru": "Она попросила помощи",
+    "en": "She asked for help"
+  },
+  {
+    "_id": 50,
+    "ru": "Учитель указал на его ошибки",
+    "en": "The teacher pointed out his mistakes"
+  },
+  {
+    "_id": 51,
+    "ru": "Твой учитель указал на твои ошибки?",
+    "en": "Did your teacher point out your mistakes?"
+  },
+  {
+    "_id": 52,
+    "ru": "Я указал на ее ошибки",
+    "en": "I pointed out her mistakes"
+  },
+  {
+    "_id": 53,
+    "ru": "Эта вещь не зависит от меня",
+    "en": "This thing doesn't depend on me"
+  },
+  {
+    "_id": 54,
+    "ru": "Эта вещь зависит от меня?",
+    "en": "Does this thing depend on me?"
+  },
+  {
+    "_id": 55,
+    "ru": "Это не зависит от моего решения",
+    "en": "It doesn't depend on my decision"
+  },
+  {
+    "_id": 56,
+    "ru": "Он выучил этот текст наизусть",
+    "en": "He learnt this text by heart"
+  },
+  {
+    "_id": 57,
+    "ru": "Он выучил этот текст наизусть?",
+    "en": "Did he learn this text by heart?"
+  },
+  {
+    "_id": 58,
+    "ru": "Я не хочу учить тот текст наизусть",
+    "en": "I don't want to learn that text by heart"
+  },
+  {
+    "_id": 59,
+    "ru": "Они наконец разрешили этот конфликт",
+    "en": "They finally resolved this conflict"
+  },
+  {
+    "_id": 60,
+    "ru": "Они наконец разрешат этот конфликт",
+    "en": "They’ll finally resolve this conflict"
+  },
+  {
+    "_id": 61,
+    "ru": "Я наконец решил эту проблему",
+    "en": "I finally solved this problem"
+  },
+  {
+    "_id": 62,
+    "ru": "Я хотел бы отметить, что это действительно удивительно",
+    "en": "I'd like to point out that it's really amazing"
+  },
+  {
+    "_id": 63,
+    "ru": "Он хотел бы отметить, что это было так удивительно",
+    "en": "He'd like to point out that it was so amazing"
+  },
+  {
+    "_id": 64,
+    "ru": "Они отметили, что это было так удивительно",
+    "en": "They pointed out that it was so amazing"
+  },
+  {
+    "_id": 65,
+    "ru": "Он обещал взять это под контроль",
+    "en": "He promised to take it under control"
+  },
+  {
+    "_id": 66,
+    "ru": "Ты обещаешь взять это под контроль?",
+    "en": "Do you promise to take it under control?"
+  },
+  {
+    "_id": 67,
+    "ru": "Он решил взять это под контроль",
+    "en": "He decided to take it under control"
+  },
+  {
+    "_id": 68,
+    "ru": "Я смогу заработать эти деньги?",
+    "en": "Will I be able to earn this money?"
+  },
+  {
+    "_id": 69,
+    "ru": "Я смогу заработать эти деньги",
+    "en": "I’ll be able to earn this money"
+  },
+  {
+    "_id": 70,
+    "ru": "Ты сможешь заработать так много денег?",
+    "en": "Will you be able to earn so much money?"
+  },
+  {
+    "_id": 71,
+    "ru": "Результат этой игры меня так сильно шокировал",
+    "en": "The result of this game shocked me so much"
+  },
+  {
+    "_id": 72,
+    "ru": "Эти результаты действительно шокировали их",
+    "en": "These results really shocked them"
+  },
+  {
+    "_id": 73,
+    "ru": "Ты можешь объяснить эту вещь мне?",
+    "en": "Can you explain this thing to me?"
+  },
+  {
+    "_id": 74,
+    "ru": "Я не могу объяснить эту вещь тебе",
+    "en": "I can't explain this thing to you"
+  },
+  {
+    "_id": 75,
+    "ru": "Ты можешь показать это видео мне?",
+    "en": "Can you show this video to me?"
+  },
+  {
+    "_id": 76,
+    "ru": "Я думаю, я куплю квартиру вместо дома",
+    "en": "I think I'll buy an apartment instead of a house"
+  },
+  {
+    "_id": 77,
+    "ru": "Я решил купить квартиру вместо дома",
+    "en": "I decided to buy an apartment instead of a house"
+  },
+  {
+    "_id": 78,
+    "ru": "Ты купишь квартиру вместо этого дома?",
+    "en": "Will you buy an apartment instead of this house?"
+  },
+  {
+    "_id": 79,
+    "ru": "Я перезвоню тебе через пару минут",
+    "en": "I'll call you back in a couple of minutes"
+  },
+  {
+    "_id": 80,
+    "ru": "Те новости действительно шокировали тебя?",
+    "en": "Did that news really shock you?"
+  },
+  {
+    "_id": 81,
+    "ru": "Как ты разрешил этот конфликт?",
+    "en": "How did you resolve this conflict?"
+  },
+  {
+    "_id": 82,
+    "ru": "Я думаю, тебе нужно немного отдохнуть",
+    "en": "I think you need to relax a little"
+  },
+  {
+    "_id": 83,
+    "ru": "Я снял эти деньги со своего счета",
+    "en": "I withdrew this money from my account"
+  },
+  {
+    "_id": 84,
+    "ru": "Она попросила меня задать тебе этот вопрос",
+    "en": "She asked me to ask you this question"
+  },
+  {
+    "_id": 85,
+    "ru": "Она посоветовала мне не делать этого",
+    "en": "She advised me not to do it"
+  },
+  {
+    "_id": 86,
+    "ru": "Он ненавидит делать такого рода вещи",
+    "en": "He hates doing this sort of things"
+  },
+  {
+    "_id": 87,
+    "ru": "Мне нужно некоторое время, чтобы сосредоточиться",
+    "en": "I need some time to concentrate"
+  },
+  {
+    "_id": 88,
+    "ru": "Он знает, что она может умереть скоро",
+    "en": "He knows that she can die soon"
+  },
+  {
+    "_id": 89,
+    "ru": "Я сдал тест успешно",
+    "en": "I passed the test successfully"
+  },
+  {
+    "_id": 90,
+    "ru": "Я действительно ненавижу делать это",
+    "en": "I really hate doing it"
+  },
+  {
+    "_id": 91,
+    "ru": "Я могу объяснить это тебе",
+    "en": "I can explain it to you"
+  }
 ]

@@ -1,386 +1,482 @@
 [
-  [
-    "Я проанализировал эти цифры",
-    "I analysed these figures"
-  ],
-  [
-    "Когда они доставят это?",
-    "When will they deliver it?"
-  ],
-  [
-    "Она посмотрела на него, и он улыбнулся ей",
-    "She looked at him and he smiled at her"
-  ],
-  [
-    "Мы пошли туда и ловили рыбу",
-    "We went there and caught fish"
-  ],
-  [
-    "Она борется за права человека и справедливость",
-    "She fights for human rights and justice"
-  ],
-  [
-    "Она стала настоящей знаменитостью двадцать лет спустя",
-    "She became a real celebrity twenty years later"
-  ],
-  [
-    "Он согласился сделать это?",
-    "Did he agree to do it?"
-  ],
-  [
-    "Эта организация борется за права человека",
-    "This organisation fights for human rights"
-  ],
-  [
-    "Ты последуешь этим рекомендациям?",
-    "Will you follow these recommendations?"
-  ],
-  [
-    "Она внезапно потеряла контроль",
-    "She lost control suddenly"
-  ],
-  [
-    "Наконец я получил твое сообщение",
-    "I got your message at last"
-  ],
-  [
-    "Он все очень тщательно проанализировал",
-    "He analysed everything very thoroughly"
-  ],
-  [
-    "Заполни строки",
-    "Fill in the lines!"
-  ],
-  [
-    "Я съел бутерброд",
-    "I ate a sandwich"
-  ],
-  [
-    "Он знал все",
-    "He knew everything"
-  ],
-  [
-    "Я получил твое письмо",
-    "I received your letter"
-  ],
-  [
-    "Она может это заметить",
-    "She can notice it"
-  ],
-  [
-    "Я последую этому совету",
-    "I’ll follow this advice"
-  ],
-  [
-    "Он стал известным только позже",
-    "He became famous only later"
-  ],
-  [
-    "Мы в основном общались по электронной почте",
-    "We mostly communicated by email"
-  ],
-  [
-    "Как ты обычно добирался до работы?",
-    "How did you usually get to work?"
-  ],
-  [
-    "Они боролись за справедливость",
-    "They fought for justice"
-  ],
-  [
-    "Ты хочешь есть?",
-    "Do you want to eat?"
-  ],
-  [
-    "Я принял их приглашение",
-    "I accepted their invitation"
-  ],
-  [
-    "Они перестали сражаться",
-    "They stopped fighting"
-  ],
-  [
-    "Это может испортить наши планы",
-    "It can spoil our plans"
-  ],
-  [
-    "Конечно, я уважаю его точку зрения",
-    "Of course, I respect his point of view"
-  ],
-  [
-    "Они доставили мою посылку вчера",
-    "They delivered my parcel yesterday"
-  ],
-  [
-    "Я улыбнулся ей",
-    "I smiled at her"
-  ],
-  [
-    "Они боролись за свою свободу и независимость",
-    "They fought for their freedom and independence"
-  ],
-  [
-    "Мне нужно заполнить пробелы сейчас",
-    "I need to fill in the gaps now"
-  ],
-  [
-    "Ты принял его предложение?",
-    "Did you accept his offer?"
-  ],
-  [
-    "Я уважаю этого человека",
-    "I respect this person"
-  ],
-  [
-    "Они поймали вора?",
-    "Did they catch the thief?"
-  ],
-  [
-    "Не теряй терпение!",
-    "Don't lose patience!"
-  ],
-  [
-    "Ты заметил их реакцию?",
-    "Did you notice their reaction?"
-  ],
-  [
-    "Ты получил мое электронное письмо?",
-    "Did you receive my email?"
-  ],
-  [
-    "Она на специальной диете, так что она не ест много",
-    "She’s on a special diet so she doesn't eat much"
-  ],
-  [
-    "Определенно, я рекомендую посетить это место",
-    "Definitely, I recommend visiting this place"
-  ],
-  [
-    "Эта больница предоставляет лучший медицинский уход",
-    "This hospital provides the best medical care"
-  ],
-  [
-    "Учитель попросил мальчиков перестать говорить",
-    "The teacher asked the boys to stop talking"
-  ],
-  [
-    "Плохая погода испортила наши планы",
-    "Bad weather spoilt our plans"
-  ],
-  [
-    "Она простила его только позже",
-    "She forgave him only later"
-  ],
-  [
-    "Я забыл, что мне нужно было сделать это",
-    "I forgot that I needed to do it"
-  ],
-  [
-    "Ей было трудно простить его",
-    "It was difficult for her to forgive him"
-  ],
-  [
-    "Почему она начала плакать?",
-    "Why did she start crying?"
-  ],
-  [
-    "Я бы отказался это сделать",
-    "I would refuse to do it"
-  ],
-  [
-    "Я сделал все возможное, чтобы достичь этой цели",
-    "I did my best to achieve this aim"
-  ],
-  [
-    "Мне удалось улучшить свои результаты",
-    "I managed to improve my results"
-  ],
-  [
-    "Я ожидал лучшего результата",
-    "I expected a better result"
-  ],
-  [
-    "Он упал с лошади",
-    "He fell off a horse"
-  ],
-  [
-    "Он упал на землю",
-    "He fell to the ground"
-  ],
-  [
-    "Она упала с этой лошади",
-    "She fell off this horse"
-  ],
-  [
-    "Урок длился около двух часов",
-    "The lesson lasted for about two hours"
-  ],
-  [
-    "Этот фильм длился около двух часов",
-    "This movie lasted for about two hours"
-  ],
-  [
-    "Урок начался два часа назад",
-    "The lesson started two hours ago"
-  ],
-  [
-    "Он ненавидит вставать так рано",
-    "He hates getting up so early"
-  ],
-  [
-    "Он ненавидит приходить домой так поздно",
-    "He hates coming home so late"
-  ],
-  [
-    "Я ненавижу просыпаться так рано",
-    "I hate waking up so early"
-  ],
-  [
-    "Ты придешь к нам сегодня?",
-    "Will you come to us today?"
-  ],
-  [
-    "Я скоро к тебе приду",
-    "I’ll come to you soon"
-  ],
-  [
-    "Она пришла к нему вчера?",
-    "Did she come to him yesterday?"
-  ],
-  [
-    "Определенно, я рекомендую сходить в то место",
-    "Definitely, I recommend going to that place"
-  ],
-  [
-    "Конечно, я рекомендую сходить в это место",
-    "Of course, I recommend going to this place"
-  ],
-  [
-    "Определенно, я рекомендую посетить то место",
-    "Definitely, I recommend visiting that place"
-  ],
-  [
-    "Я ожидаю, что мне придется сделать это однажды",
-    "I expect that I’ll have to do it one day"
-  ],
-  [
-    "Я думаю, что я сделаю это однажды",
-    "I think that I’ll do it one day"
-  ],
-  [
-    "Я ожидаю, что смогу сделать это однажды",
-    "I expect that I’ll be able to do it one day"
-  ],
-  [
-    "Я думаю, что ему следует прекратить пить алкоголь",
-    "I think that he should stop drinking alcohol"
-  ],
-  [
-    "Я думаю, тебе следует прекратить курить",
-    "I think you should stop smoking"
-  ],
-  [
-    "Я думаю, что ей следует прекратить пить алкоголь",
-    "I think that she should stop drinking alcohol"
-  ],
-  [
-    "Наш курс длился более трех месяцев",
-    "Our course lasted more than three months"
-  ],
-  [
-    "Этот курс длился три месяца",
-    "This course lasted for three months"
-  ],
-  [
-    "Этот курс будет длиться более двух месяцев?",
-    "Will this course last for more than two months?"
-  ],
-  [
-    "Ты жаловался на эту вещь?",
-    "Did you complain about this thing?"
-  ],
-  [
-    "Он жаловался на эту вещь?",
-    "Did he complain about this thing?"
-  ],
-  [
-    "Я часто жаловался на эту вещь",
-    "I often complained about this thing"
-  ],
-  [
-    "Он прыгнул в озеро",
-    "He jumped into the lake"
-  ],
-  [
-    "Он прыгнул в реку",
-    "He jumped into the river"
-  ],
-  [
-    "Он переплыл озеро",
-    "He swam across the lake"
-  ],
-  [
-    "Письма внезапно исчезли",
-    "The letters disappeared all of a sudden"
-  ],
-  [
-    "Он часто жаловался на что-то",
-    "He often complained about something"
-  ],
-  [
-    "Я сделал бы это немного по-другому",
-    "I would do it a little bit differently"
-  ],
-  [
-    "Его тетрадь упала со стола",
-    "His copybook fell off the table"
-  ],
-  [
-    "Я постараюсь сделать все возможное, чтобы достичь этой цели",
-    "I'll try to do my best to achieve this aim"
-  ],
-  [
-    "Ты знаешь, как добраться до этого места?",
-    "Do you know how to get to this place?"
-  ],
-  [
-    "Она не могла перестать плакать",
-    "She couldn't stop crying"
-  ],
-  [
-    "Она ест очень мало, потому что она на диете",
-    "She eats very little because she’s on a diet"
-  ],
-  [
-    "Ему следует заботиться о своем здоровье",
-    "He should look after his health"
-  ],
-  [
-    "Я перестал думать об этом",
-    "I stopped thinking about it"
-  ],
-  [
-    "Еда пахнет ужасно",
-    "The food smells awful"
-  ],
-  [
-    "Он исчез внезапно",
-    "He disappeared all of a sudden"
-  ],
-  [
-    "Я забыл, что говорить",
-    "I forgot what to say"
-  ],
-  [
-    "Он прыгнул в бассейн",
-    "He jumped into the pool"
-  ],
-  [
-    "Это пахнет очень хорошо",
-    "It smells very good"
-  ],
-  [
-    "Он страдает от этой болезни",
-    "He suffers from this disease"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я проанализировал эти цифры",
+    "en": "I analysed these figures"
+  },
+  {
+    "_id": 2,
+    "ru": "Когда они доставят это?",
+    "en": "When will they deliver it?"
+  },
+  {
+    "_id": 3,
+    "ru": "Она посмотрела на него, и он улыбнулся ей",
+    "en": "She looked at him and he smiled at her"
+  },
+  {
+    "_id": 4,
+    "ru": "Мы пошли туда и ловили рыбу",
+    "en": "We went there and caught fish"
+  },
+  {
+    "_id": 5,
+    "ru": "Она борется за права человека и справедливость",
+    "en": "She fights for human rights and justice"
+  },
+  {
+    "_id": 6,
+    "ru": "Она стала настоящей знаменитостью двадцать лет спустя",
+    "en": "She became a real celebrity twenty years later"
+  },
+  {
+    "_id": 7,
+    "ru": "Он согласился сделать это?",
+    "en": "Did he agree to do it?"
+  },
+  {
+    "_id": 8,
+    "ru": "Эта организация борется за права человека",
+    "en": "This organisation fights for human rights"
+  },
+  {
+    "_id": 9,
+    "ru": "Ты последуешь этим рекомендациям?",
+    "en": "Will you follow these recommendations?"
+  },
+  {
+    "_id": 10,
+    "ru": "Она внезапно потеряла контроль",
+    "en": "She lost control suddenly"
+  },
+  {
+    "_id": 11,
+    "ru": "Наконец я получил твое сообщение",
+    "en": "I got your message at last"
+  },
+  {
+    "_id": 12,
+    "ru": "Он все очень тщательно проанализировал",
+    "en": "He analysed everything very thoroughly"
+  },
+  {
+    "_id": 13,
+    "ru": "Заполни строки",
+    "en": "Fill in the lines!"
+  },
+  {
+    "_id": 14,
+    "ru": "Я съел бутерброд",
+    "en": "I ate a sandwich"
+  },
+  {
+    "_id": 15,
+    "ru": "Он знал все",
+    "en": "He knew everything"
+  },
+  {
+    "_id": 16,
+    "ru": "Я получил твое письмо",
+    "en": "I received your letter"
+  },
+  {
+    "_id": 17,
+    "ru": "Она может это заметить",
+    "en": "She can notice it"
+  },
+  {
+    "_id": 18,
+    "ru": "Я последую этому совету",
+    "en": "I’ll follow this advice"
+  },
+  {
+    "_id": 19,
+    "ru": "Он стал известным только позже",
+    "en": "He became famous only later"
+  },
+  {
+    "_id": 20,
+    "ru": "Мы в основном общались по электронной почте",
+    "en": "We mostly communicated by email"
+  },
+  {
+    "_id": 21,
+    "ru": "Как ты обычно добирался до работы?",
+    "en": "How did you usually get to work?"
+  },
+  {
+    "_id": 22,
+    "ru": "Они боролись за справедливость",
+    "en": "They fought for justice"
+  },
+  {
+    "_id": 23,
+    "ru": "Ты хочешь есть?",
+    "en": "Do you want to eat?"
+  },
+  {
+    "_id": 24,
+    "ru": "Я принял их приглашение",
+    "en": "I accepted their invitation"
+  },
+  {
+    "_id": 25,
+    "ru": "Они перестали сражаться",
+    "en": "They stopped fighting"
+  },
+  {
+    "_id": 26,
+    "ru": "Это может испортить наши планы",
+    "en": "It can spoil our plans"
+  },
+  {
+    "_id": 27,
+    "ru": "Конечно, я уважаю его точку зрения",
+    "en": "Of course, I respect his point of view"
+  },
+  {
+    "_id": 28,
+    "ru": "Они доставили мою посылку вчера",
+    "en": "They delivered my parcel yesterday"
+  },
+  {
+    "_id": 29,
+    "ru": "Я улыбнулся ей",
+    "en": "I smiled at her"
+  },
+  {
+    "_id": 30,
+    "ru": "Они боролись за свою свободу и независимость",
+    "en": "They fought for their freedom and independence"
+  },
+  {
+    "_id": 31,
+    "ru": "Мне нужно заполнить пробелы сейчас",
+    "en": "I need to fill in the gaps now"
+  },
+  {
+    "_id": 32,
+    "ru": "Ты принял его предложение?",
+    "en": "Did you accept his offer?"
+  },
+  {
+    "_id": 33,
+    "ru": "Я уважаю этого человека",
+    "en": "I respect this person"
+  },
+  {
+    "_id": 34,
+    "ru": "Они поймали вора?",
+    "en": "Did they catch the thief?"
+  },
+  {
+    "_id": 35,
+    "ru": "Не теряй терпение!",
+    "en": "Don't lose patience!"
+  },
+  {
+    "_id": 36,
+    "ru": "Ты заметил их реакцию?",
+    "en": "Did you notice their reaction?"
+  },
+  {
+    "_id": 37,
+    "ru": "Ты получил мое электронное письмо?",
+    "en": "Did you receive my email?"
+  },
+  {
+    "_id": 38,
+    "ru": "Она на специальной диете, так что она не ест много",
+    "en": "She’s on a special diet so she doesn't eat much"
+  },
+  {
+    "_id": 39,
+    "ru": "Определенно, я рекомендую посетить это место",
+    "en": "Definitely, I recommend visiting this place"
+  },
+  {
+    "_id": 40,
+    "ru": "Эта больница предоставляет лучший медицинский уход",
+    "en": "This hospital provides the best medical care"
+  },
+  {
+    "_id": 41,
+    "ru": "Учитель попросил мальчиков перестать говорить",
+    "en": "The teacher asked the boys to stop talking"
+  },
+  {
+    "_id": 42,
+    "ru": "Плохая погода испортила наши планы",
+    "en": "Bad weather spoilt our plans"
+  },
+  {
+    "_id": 43,
+    "ru": "Она простила его только позже",
+    "en": "She forgave him only later"
+  },
+  {
+    "_id": 44,
+    "ru": "Я забыл, что мне нужно было сделать это",
+    "en": "I forgot that I needed to do it"
+  },
+  {
+    "_id": 45,
+    "ru": "Ей было трудно простить его",
+    "en": "It was difficult for her to forgive him"
+  },
+  {
+    "_id": 46,
+    "ru": "Почему она начала плакать?",
+    "en": "Why did she start crying?"
+  },
+  {
+    "_id": 47,
+    "ru": "Я бы отказался это сделать",
+    "en": "I would refuse to do it"
+  },
+  {
+    "_id": 48,
+    "ru": "Я сделал все возможное, чтобы достичь этой цели",
+    "en": "I did my best to achieve this aim"
+  },
+  {
+    "_id": 49,
+    "ru": "Мне удалось улучшить свои результаты",
+    "en": "I managed to improve my results"
+  },
+  {
+    "_id": 50,
+    "ru": "Я ожидал лучшего результата",
+    "en": "I expected a better result"
+  },
+  {
+    "_id": 51,
+    "ru": "Он упал с лошади",
+    "en": "He fell off a horse"
+  },
+  {
+    "_id": 52,
+    "ru": "Он упал на землю",
+    "en": "He fell to the ground"
+  },
+  {
+    "_id": 53,
+    "ru": "Она упала с этой лошади",
+    "en": "She fell off this horse"
+  },
+  {
+    "_id": 54,
+    "ru": "Урок длился около двух часов",
+    "en": "The lesson lasted for about two hours"
+  },
+  {
+    "_id": 55,
+    "ru": "Этот фильм длился около двух часов",
+    "en": "This movie lasted for about two hours"
+  },
+  {
+    "_id": 56,
+    "ru": "Урок начался два часа назад",
+    "en": "The lesson started two hours ago"
+  },
+  {
+    "_id": 57,
+    "ru": "Он ненавидит вставать так рано",
+    "en": "He hates getting up so early"
+  },
+  {
+    "_id": 58,
+    "ru": "Он ненавидит приходить домой так поздно",
+    "en": "He hates coming home so late"
+  },
+  {
+    "_id": 59,
+    "ru": "Я ненавижу просыпаться так рано",
+    "en": "I hate waking up so early"
+  },
+  {
+    "_id": 60,
+    "ru": "Ты придешь к нам сегодня?",
+    "en": "Will you come to us today?"
+  },
+  {
+    "_id": 61,
+    "ru": "Я скоро к тебе приду",
+    "en": "I’ll come to you soon"
+  },
+  {
+    "_id": 62,
+    "ru": "Она пришла к нему вчера?",
+    "en": "Did she come to him yesterday?"
+  },
+  {
+    "_id": 63,
+    "ru": "Определенно, я рекомендую сходить в то место",
+    "en": "Definitely, I recommend going to that place"
+  },
+  {
+    "_id": 64,
+    "ru": "Конечно, я рекомендую сходить в это место",
+    "en": "Of course, I recommend going to this place"
+  },
+  {
+    "_id": 65,
+    "ru": "Определенно, я рекомендую посетить то место",
+    "en": "Definitely, I recommend visiting that place"
+  },
+  {
+    "_id": 66,
+    "ru": "Я ожидаю, что мне придется сделать это однажды",
+    "en": "I expect that I’ll have to do it one day"
+  },
+  {
+    "_id": 67,
+    "ru": "Я думаю, что я сделаю это однажды",
+    "en": "I think that I’ll do it one day"
+  },
+  {
+    "_id": 68,
+    "ru": "Я ожидаю, что смогу сделать это однажды",
+    "en": "I expect that I’ll be able to do it one day"
+  },
+  {
+    "_id": 69,
+    "ru": "Я думаю, что ему следует прекратить пить алкоголь",
+    "en": "I think that he should stop drinking alcohol"
+  },
+  {
+    "_id": 70,
+    "ru": "Я думаю, тебе следует прекратить курить",
+    "en": "I think you should stop smoking"
+  },
+  {
+    "_id": 71,
+    "ru": "Я думаю, что ей следует прекратить пить алкоголь",
+    "en": "I think that she should stop drinking alcohol"
+  },
+  {
+    "_id": 72,
+    "ru": "Наш курс длился более трех месяцев",
+    "en": "Our course lasted more than three months"
+  },
+  {
+    "_id": 73,
+    "ru": "Этот курс длился три месяца",
+    "en": "This course lasted for three months"
+  },
+  {
+    "_id": 74,
+    "ru": "Этот курс будет длиться более двух месяцев?",
+    "en": "Will this course last for more than two months?"
+  },
+  {
+    "_id": 75,
+    "ru": "Ты жаловался на эту вещь?",
+    "en": "Did you complain about this thing?"
+  },
+  {
+    "_id": 76,
+    "ru": "Он жаловался на эту вещь?",
+    "en": "Did he complain about this thing?"
+  },
+  {
+    "_id": 77,
+    "ru": "Я часто жаловался на эту вещь",
+    "en": "I often complained about this thing"
+  },
+  {
+    "_id": 78,
+    "ru": "Он прыгнул в озеро",
+    "en": "He jumped into the lake"
+  },
+  {
+    "_id": 79,
+    "ru": "Он прыгнул в реку",
+    "en": "He jumped into the river"
+  },
+  {
+    "_id": 80,
+    "ru": "Он переплыл озеро",
+    "en": "He swam across the lake"
+  },
+  {
+    "_id": 81,
+    "ru": "Письма внезапно исчезли",
+    "en": "The letters disappeared all of a sudden"
+  },
+  {
+    "_id": 82,
+    "ru": "Он часто жаловался на что-то",
+    "en": "He often complained about something"
+  },
+  {
+    "_id": 83,
+    "ru": "Я сделал бы это немного по-другому",
+    "en": "I would do it a little bit differently"
+  },
+  {
+    "_id": 84,
+    "ru": "Его тетрадь упала со стола",
+    "en": "His copybook fell off the table"
+  },
+  {
+    "_id": 85,
+    "ru": "Я постараюсь сделать все возможное, чтобы достичь этой цели",
+    "en": "I'll try to do my best to achieve this aim"
+  },
+  {
+    "_id": 86,
+    "ru": "Ты знаешь, как добраться до этого места?",
+    "en": "Do you know how to get to this place?"
+  },
+  {
+    "_id": 87,
+    "ru": "Она не могла перестать плакать",
+    "en": "She couldn't stop crying"
+  },
+  {
+    "_id": 88,
+    "ru": "Она ест очень мало, потому что она на диете",
+    "en": "She eats very little because she’s on a diet"
+  },
+  {
+    "_id": 89,
+    "ru": "Ему следует заботиться о своем здоровье",
+    "en": "He should look after his health"
+  },
+  {
+    "_id": 90,
+    "ru": "Я перестал думать об этом",
+    "en": "I stopped thinking about it"
+  },
+  {
+    "_id": 91,
+    "ru": "Еда пахнет ужасно",
+    "en": "The food smells awful"
+  },
+  {
+    "_id": 92,
+    "ru": "Он исчез внезапно",
+    "en": "He disappeared all of a sudden"
+  },
+  {
+    "_id": 93,
+    "ru": "Я забыл, что говорить",
+    "en": "I forgot what to say"
+  },
+  {
+    "_id": 94,
+    "ru": "Он прыгнул в бассейн",
+    "en": "He jumped into the pool"
+  },
+  {
+    "_id": 95,
+    "ru": "Это пахнет очень хорошо",
+    "en": "It smells very good"
+  },
+  {
+    "_id": 96,
+    "ru": "Он страдает от этой болезни",
+    "en": "He suffers from this disease"
+  }
 ]

@@ -34,17 +34,14 @@ const loadUserData = async <T extends Record<string, unknown>>(): Promise<T | nu
 };
 
 export const saveFavoriteTranslations = async (translations: Translation[]) => {
-  const data = translations.map((i) => ({ ru: i[0], en: i[1] }));
-  await saveUserData({ favoriteTranslations: data });
+  await saveUserData({ favoriteTranslations: translations });
 };
 
 export const loadFavoriteTranslations = async (): Promise<Translation[]> => {
-  const data = await loadUserData<{ favoriteTranslations: { ru: string; en: string }[] }>();
+  const data = await loadUserData<{ favoriteTranslations: Translation[] }>();
   if (data && data.favoriteTranslations) {
     try {
-      // Предполагается, что favoriteTranslations хранится в формате JSON-строки
-      const translations = data.favoriteTranslations.map((i) => [i.ru, i.en]);
-      return translations as Translation[];
+      return data.favoriteTranslations;
     } catch (e) {
       console.error('Error parsing favorite translations:', e);
       return [];

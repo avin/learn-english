@@ -1,402 +1,502 @@
 [
-  [
-    "Это лежит в коробке",
-    "It lies in the box"
-  ],
-  [
-    "Это лежит на диване",
-    "It lies on the sofa"
-  ],
-  [
-    "Он тренер моего друга",
-    "He is my friend's trainer"
-  ],
-  [
-    "Она учитель моего друга",
-    "She is my friend's teacher"
-  ],
-  [
-    "Они в одной группе",
-    "They are in one group"
-  ],
-  [
-    "Они контролируют это",
-    "They control it"
-  ],
-  [
-    "Она очень красивая",
-    "She is very beautiful"
-  ],
-  [
-    "Это так далеко отсюда",
-    "It's so far from here"
-  ],
-  [
-    "Они вместе",
-    "They are together"
-  ],
-  [
-    "Это лежит в коробке",
-    "It lies in this box"
-  ],
-  [
-    "Он выглядит очень богатым",
-    "He looks very rich"
-  ],
-  [
-    "Она живет очень далеко отсюда",
-    "She lives very far from here"
-  ],
-  [
-    "Они живут вместе",
-    "They live together"
-  ],
-  [
-    "Мы учимся в разных группах",
-    "We study in different groups"
-  ],
-  [
-    "Этого достаточно",
-    "It's enough"
-  ],
-  [
-    "Он пишет книги",
-    "He writes books"
-  ],
-  [
-    "Она сейчас на работе",
-    "She is at work now"
-  ],
-  [
-    "Это очень просто",
-    "It's very simple"
-  ],
-  [
-    "Он в школе",
-    "He is at school"
-  ],
-  [
-    "Он очень богатый",
-    "He is very rich"
-  ],
-  [
-    "Это лежит на диване",
-    "It lies on this sofa"
-  ],
-  [
-    "Она учится в университете",
-    "She studies at university"
-  ],
-  [
-    "Она выглядит очень красиво",
-    "She looks very beautiful"
-  ],
-  [
-    "Этого кажется достаточно",
-    "It seems enough"
-  ],
-  [
-    "Это кажется необходимым",
-    "It seems necessary"
-  ],
-  [
-    "Мы в одной группе",
-    "We are in one group"
-  ],
-  [
-    "Это в коробке",
-    "It's in the box"
-  ],
-  [
-    "Это слишком дорого",
-    "It's too expensive"
-  ],
-  [
-    "Я учусь в университете",
-    "I study at university"
-  ],
-  [
-    "Мы в разных местах",
-    "We are in different places"
-  ],
-  [
-    "Он писатель",
-    "He’s a writer"
-  ],
-  [
-    "Они учатся в одной группе",
-    "They study in one group"
-  ],
-  [
-    "Это на диване",
-    "It is on the sofa"
-  ],
-  [
-    "Он наш учитель",
-    "He is our teacher"
-  ],
-  [
-    "Мы живем в разных местах",
-    "We live in different places"
-  ],
-  [
-    "Это стоит так дорого",
-    "It costs so much"
-  ],
-  [
-    "Он студент",
-    "He is a student"
-  ],
-  [
-    "Это необходимо",
-    "It is necessary"
-  ],
-  [
-    "Это под контролем",
-    "It is under control"
-  ],
-  [
-    "Я сейчас в другом месте",
-    "I'm in another place now"
-  ],
-  [
-    "Это выглядит очень просто",
-    "It looks very simple"
-  ],
-  [
-    "Я учусь в школе",
-    "I study at school"
-  ],
-  [
-    "Он преподает английский",
-    "He teaches English"
-  ],
-  [
-    "Я в университете",
-    "I'm at university"
-  ],
-  [
-    "Она с ним в данный момент",
-    "She is with him at the moment"
-  ],
-  [
-    "У него есть план",
-    "He has a plan"
-  ],
-  [
-    "Он тренер моего брата",
-    "He’s my brother's trainer"
-  ],
-  [
-    "Он из другой страны",
-    "He's from another country"
-  ],
-  [
-    "Это традиция",
-    "It's a tradition"
-  ],
-  [
-    "Она учитель моего друга",
-    "She’s my friend's teacher"
-  ],
-  [
-    "Она работает с ним",
-    "She works with him"
-  ],
-  [
-    "Она учится в другой стране",
-    "She studies in another country"
-  ],
-  [
-    "Он действительно любит ее",
-    "He really loves her"
-  ],
-  [
-    "Я вижу одну ошибку",
-    "I see one mistake"
-  ],
-  [
-    "Мы живем в этом отеле",
-    "We live in this hotel"
-  ],
-  [
-    "Она живет в другом городе",
-    "She lives in another city"
-  ],
-  [
-    "Мы действительно так думаем",
-    "We really think so"
-  ],
-  [
-    "Он тренирует моего друга",
-    "He trains my friend"
-  ],
-  [
-    "Они вместе на этой фотографии",
-    "They are together in this photo"
-  ],
-  [
-    "Мы вместе в этом отеле",
-    "We are together in this hotel"
-  ],
-  [
-    "Я очень занят в данный момент",
-    "I'm very busy at the moment"
-  ],
-  [
-    "Он очень занят в данный момент",
-    "He's very busy at the moment"
-  ],
-  [
-    "Они очень заняты сейчас",
-    "They're very busy now"
-  ],
-  [
-    "У меня так много вопросов",
-    "I have so many questions"
-  ],
-  [
-    "У него так много ошибок",
-    "He has so many mistakes"
-  ],
-  [
-    "У них так много вопросов",
-    "They have so many questions"
-  ],
-  [
-    "Это их традиция",
-    "It's their tradition"
-  ],
-  [
-    "Это наша традиция",
-    "It's our tradition"
-  ],
-  [
-    "Это их страна",
-    "It's their country"
-  ],
-  [
-    "Это мой вопрос",
-    "It is my question"
-  ],
-  [
-    "Это мой учитель",
-    "This is my teacher"
-  ],
-  [
-    "Они мои друзья",
-    "They are my friends"
-  ],
-  [
-    "Это настоящая любовь",
-    "It is real love"
-  ],
-  [
-    "Они настоящие друзья",
-    "They are real friends"
-  ],
-  [
-    "Они любят друг друга",
-    "They love each other"
-  ],
-  [
-    "Мы любим друг друга",
-    "We love each other"
-  ],
-  [
-    "Он любит ее",
-    "He loves her"
-  ],
-  [
-    "Они расслабляются на тех фотографиях",
-    "They relax in those photos"
-  ],
-  [
-    "Мы улыбаемся на этой фотографии",
-    "We smile in this photo"
-  ],
-  [
-    "Мы расслабляемся на этих фото",
-    "We relax in these photos"
-  ],
-  [
-    "У них есть эта традиция",
-    "They have this tradition"
-  ],
-  [
-    "У них есть тот план",
-    "They have that plan"
-  ],
-  [
-    "У него есть эта традиция",
-    "He has this tradition"
-  ],
-  [
-    "Это любовь",
-    "It is love"
-  ],
-  [
-    "Это ошибка",
-    "It's a mistake"
-  ],
-  [
-    "Ты выглядишь таким занятым",
-    "You look so busy"
-  ],
-  [
-    "Ей нравится его план",
-    "She likes his plan"
-  ],
-  [
-    "Она есть на этой фотографии",
-    "She's in this photo"
-  ],
-  [
-    "У меня слишком мало свободного времени",
-    "I have too little free time"
-  ],
-  [
-    "Она улыбается на этой фотографии",
-    "She smiles in this photo"
-  ],
-  [
-    "Это мое время",
-    "It's my time"
-  ],
-  [
-    "Это ошибка",
-    "It’s a mistake"
-  ],
-  [
-    "Она из другого города",
-    "She's from another city"
-  ],
-  [
-    "Это есть в этом тексте",
-    "It's in this text"
-  ],
-  [
-    "Мы тренируемся вместе",
-    "We train together"
-  ],
-  [
-    "Она живет в этой комнате",
-    "She lives in this room"
-  ],
-  [
-    "Мы в этом отеле",
-    "We are in this hotel"
-  ],
-  [
-    "Это так",
-    "It is so"
-  ],
-  [
-    "Она в своей комнате",
-    "She's in her room"
-  ],
-  [
-    "Я хочу прочитать этот текст",
-    "I want to read this text"
-  ]
+  {
+    "_id": 1,
+    "ru": "Это лежит в коробке",
+    "en": "It lies in the box"
+  },
+  {
+    "_id": 2,
+    "ru": "Это лежит на диване",
+    "en": "It lies on the sofa"
+  },
+  {
+    "_id": 3,
+    "ru": "Он тренер моего друга",
+    "en": "He is my friend's trainer"
+  },
+  {
+    "_id": 4,
+    "ru": "Она учитель моего друга",
+    "en": "She is my friend's teacher"
+  },
+  {
+    "_id": 5,
+    "ru": "Они в одной группе",
+    "en": "They are in one group"
+  },
+  {
+    "_id": 6,
+    "ru": "Они контролируют это",
+    "en": "They control it"
+  },
+  {
+    "_id": 7,
+    "ru": "Она очень красивая",
+    "en": "She is very beautiful"
+  },
+  {
+    "_id": 8,
+    "ru": "Это так далеко отсюда",
+    "en": "It's so far from here"
+  },
+  {
+    "_id": 9,
+    "ru": "Они вместе",
+    "en": "They are together"
+  },
+  {
+    "_id": 10,
+    "ru": "Это лежит в коробке",
+    "en": "It lies in this box"
+  },
+  {
+    "_id": 11,
+    "ru": "Он выглядит очень богатым",
+    "en": "He looks very rich"
+  },
+  {
+    "_id": 12,
+    "ru": "Она живет очень далеко отсюда",
+    "en": "She lives very far from here"
+  },
+  {
+    "_id": 13,
+    "ru": "Они живут вместе",
+    "en": "They live together"
+  },
+  {
+    "_id": 14,
+    "ru": "Мы учимся в разных группах",
+    "en": "We study in different groups"
+  },
+  {
+    "_id": 15,
+    "ru": "Этого достаточно",
+    "en": "It's enough"
+  },
+  {
+    "_id": 16,
+    "ru": "Он пишет книги",
+    "en": "He writes books"
+  },
+  {
+    "_id": 17,
+    "ru": "Она сейчас на работе",
+    "en": "She is at work now"
+  },
+  {
+    "_id": 18,
+    "ru": "Это очень просто",
+    "en": "It's very simple"
+  },
+  {
+    "_id": 19,
+    "ru": "Он в школе",
+    "en": "He is at school"
+  },
+  {
+    "_id": 20,
+    "ru": "Он очень богатый",
+    "en": "He is very rich"
+  },
+  {
+    "_id": 21,
+    "ru": "Это лежит на диване",
+    "en": "It lies on this sofa"
+  },
+  {
+    "_id": 22,
+    "ru": "Она учится в университете",
+    "en": "She studies at university"
+  },
+  {
+    "_id": 23,
+    "ru": "Она выглядит очень красиво",
+    "en": "She looks very beautiful"
+  },
+  {
+    "_id": 24,
+    "ru": "Этого кажется достаточно",
+    "en": "It seems enough"
+  },
+  {
+    "_id": 25,
+    "ru": "Это кажется необходимым",
+    "en": "It seems necessary"
+  },
+  {
+    "_id": 26,
+    "ru": "Мы в одной группе",
+    "en": "We are in one group"
+  },
+  {
+    "_id": 27,
+    "ru": "Это в коробке",
+    "en": "It's in the box"
+  },
+  {
+    "_id": 28,
+    "ru": "Это слишком дорого",
+    "en": "It's too expensive"
+  },
+  {
+    "_id": 29,
+    "ru": "Я учусь в университете",
+    "en": "I study at university"
+  },
+  {
+    "_id": 30,
+    "ru": "Мы в разных местах",
+    "en": "We are in different places"
+  },
+  {
+    "_id": 31,
+    "ru": "Он писатель",
+    "en": "He’s a writer"
+  },
+  {
+    "_id": 32,
+    "ru": "Они учатся в одной группе",
+    "en": "They study in one group"
+  },
+  {
+    "_id": 33,
+    "ru": "Это на диване",
+    "en": "It is on the sofa"
+  },
+  {
+    "_id": 34,
+    "ru": "Он наш учитель",
+    "en": "He is our teacher"
+  },
+  {
+    "_id": 35,
+    "ru": "Мы живем в разных местах",
+    "en": "We live in different places"
+  },
+  {
+    "_id": 36,
+    "ru": "Это стоит так дорого",
+    "en": "It costs so much"
+  },
+  {
+    "_id": 37,
+    "ru": "Он студент",
+    "en": "He is a student"
+  },
+  {
+    "_id": 38,
+    "ru": "Это необходимо",
+    "en": "It is necessary"
+  },
+  {
+    "_id": 39,
+    "ru": "Это под контролем",
+    "en": "It is under control"
+  },
+  {
+    "_id": 40,
+    "ru": "Я сейчас в другом месте",
+    "en": "I'm in another place now"
+  },
+  {
+    "_id": 41,
+    "ru": "Это выглядит очень просто",
+    "en": "It looks very simple"
+  },
+  {
+    "_id": 42,
+    "ru": "Я учусь в школе",
+    "en": "I study at school"
+  },
+  {
+    "_id": 43,
+    "ru": "Он преподает английский",
+    "en": "He teaches English"
+  },
+  {
+    "_id": 44,
+    "ru": "Я в университете",
+    "en": "I'm at university"
+  },
+  {
+    "_id": 45,
+    "ru": "Она с ним в данный момент",
+    "en": "She is with him at the moment"
+  },
+  {
+    "_id": 46,
+    "ru": "У него есть план",
+    "en": "He has a plan"
+  },
+  {
+    "_id": 47,
+    "ru": "Он тренер моего брата",
+    "en": "He’s my brother's trainer"
+  },
+  {
+    "_id": 48,
+    "ru": "Он из другой страны",
+    "en": "He's from another country"
+  },
+  {
+    "_id": 49,
+    "ru": "Это традиция",
+    "en": "It's a tradition"
+  },
+  {
+    "_id": 50,
+    "ru": "Она учитель моего друга",
+    "en": "She’s my friend's teacher"
+  },
+  {
+    "_id": 51,
+    "ru": "Она работает с ним",
+    "en": "She works with him"
+  },
+  {
+    "_id": 52,
+    "ru": "Она учится в другой стране",
+    "en": "She studies in another country"
+  },
+  {
+    "_id": 53,
+    "ru": "Он действительно любит ее",
+    "en": "He really loves her"
+  },
+  {
+    "_id": 54,
+    "ru": "Я вижу одну ошибку",
+    "en": "I see one mistake"
+  },
+  {
+    "_id": 55,
+    "ru": "Мы живем в этом отеле",
+    "en": "We live in this hotel"
+  },
+  {
+    "_id": 56,
+    "ru": "Она живет в другом городе",
+    "en": "She lives in another city"
+  },
+  {
+    "_id": 57,
+    "ru": "Мы действительно так думаем",
+    "en": "We really think so"
+  },
+  {
+    "_id": 58,
+    "ru": "Он тренирует моего друга",
+    "en": "He trains my friend"
+  },
+  {
+    "_id": 59,
+    "ru": "Они вместе на этой фотографии",
+    "en": "They are together in this photo"
+  },
+  {
+    "_id": 60,
+    "ru": "Мы вместе в этом отеле",
+    "en": "We are together in this hotel"
+  },
+  {
+    "_id": 61,
+    "ru": "Я очень занят в данный момент",
+    "en": "I'm very busy at the moment"
+  },
+  {
+    "_id": 62,
+    "ru": "Он очень занят в данный момент",
+    "en": "He's very busy at the moment"
+  },
+  {
+    "_id": 63,
+    "ru": "Они очень заняты сейчас",
+    "en": "They're very busy now"
+  },
+  {
+    "_id": 64,
+    "ru": "У меня так много вопросов",
+    "en": "I have so many questions"
+  },
+  {
+    "_id": 65,
+    "ru": "У него так много ошибок",
+    "en": "He has so many mistakes"
+  },
+  {
+    "_id": 66,
+    "ru": "У них так много вопросов",
+    "en": "They have so many questions"
+  },
+  {
+    "_id": 67,
+    "ru": "Это их традиция",
+    "en": "It's their tradition"
+  },
+  {
+    "_id": 68,
+    "ru": "Это наша традиция",
+    "en": "It's our tradition"
+  },
+  {
+    "_id": 69,
+    "ru": "Это их страна",
+    "en": "It's their country"
+  },
+  {
+    "_id": 70,
+    "ru": "Это мой вопрос",
+    "en": "It is my question"
+  },
+  {
+    "_id": 71,
+    "ru": "Это мой учитель",
+    "en": "This is my teacher"
+  },
+  {
+    "_id": 72,
+    "ru": "Они мои друзья",
+    "en": "They are my friends"
+  },
+  {
+    "_id": 73,
+    "ru": "Это настоящая любовь",
+    "en": "It is real love"
+  },
+  {
+    "_id": 74,
+    "ru": "Они настоящие друзья",
+    "en": "They are real friends"
+  },
+  {
+    "_id": 75,
+    "ru": "Они любят друг друга",
+    "en": "They love each other"
+  },
+  {
+    "_id": 76,
+    "ru": "Мы любим друг друга",
+    "en": "We love each other"
+  },
+  {
+    "_id": 77,
+    "ru": "Он любит ее",
+    "en": "He loves her"
+  },
+  {
+    "_id": 78,
+    "ru": "Они расслабляются на тех фотографиях",
+    "en": "They relax in those photos"
+  },
+  {
+    "_id": 79,
+    "ru": "Мы улыбаемся на этой фотографии",
+    "en": "We smile in this photo"
+  },
+  {
+    "_id": 80,
+    "ru": "Мы расслабляемся на этих фото",
+    "en": "We relax in these photos"
+  },
+  {
+    "_id": 81,
+    "ru": "У них есть эта традиция",
+    "en": "They have this tradition"
+  },
+  {
+    "_id": 82,
+    "ru": "У них есть тот план",
+    "en": "They have that plan"
+  },
+  {
+    "_id": 83,
+    "ru": "У него есть эта традиция",
+    "en": "He has this tradition"
+  },
+  {
+    "_id": 84,
+    "ru": "Это любовь",
+    "en": "It is love"
+  },
+  {
+    "_id": 85,
+    "ru": "Это ошибка",
+    "en": "It's a mistake"
+  },
+  {
+    "_id": 86,
+    "ru": "Ты выглядишь таким занятым",
+    "en": "You look so busy"
+  },
+  {
+    "_id": 87,
+    "ru": "Ей нравится его план",
+    "en": "She likes his plan"
+  },
+  {
+    "_id": 88,
+    "ru": "Она есть на этой фотографии",
+    "en": "She's in this photo"
+  },
+  {
+    "_id": 89,
+    "ru": "У меня слишком мало свободного времени",
+    "en": "I have too little free time"
+  },
+  {
+    "_id": 90,
+    "ru": "Она улыбается на этой фотографии",
+    "en": "She smiles in this photo"
+  },
+  {
+    "_id": 91,
+    "ru": "Это мое время",
+    "en": "It's my time"
+  },
+  {
+    "_id": 92,
+    "ru": "Это ошибка",
+    "en": "It’s a mistake"
+  },
+  {
+    "_id": 93,
+    "ru": "Она из другого города",
+    "en": "She's from another city"
+  },
+  {
+    "_id": 94,
+    "ru": "Это есть в этом тексте",
+    "en": "It's in this text"
+  },
+  {
+    "_id": 95,
+    "ru": "Мы тренируемся вместе",
+    "en": "We train together"
+  },
+  {
+    "_id": 96,
+    "ru": "Она живет в этой комнате",
+    "en": "She lives in this room"
+  },
+  {
+    "_id": 97,
+    "ru": "Мы в этом отеле",
+    "en": "We are in this hotel"
+  },
+  {
+    "_id": 98,
+    "ru": "Это так",
+    "en": "It is so"
+  },
+  {
+    "_id": 99,
+    "ru": "Она в своей комнате",
+    "en": "She's in her room"
+  },
+  {
+    "_id": 100,
+    "ru": "Я хочу прочитать этот текст",
+    "en": "I want to read this text"
+  }
 ]

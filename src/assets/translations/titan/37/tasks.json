@@ -1,366 +1,457 @@
 [
-  [
-    "Я присел",
-    "I sat down"
-  ],
-  [
-    "Ты сделал домашнюю работу?",
-    "Did you do your homework?"
-  ],
-  [
-    "Я катался на лошади",
-    "I rode a horse"
-  ],
-  [
-    "Они полетели в Соединенные Штаты",
-    "They flew to the United States"
-  ],
-  [
-    "Он съел эту пиццу",
-    "He ate this pizza"
-  ],
-  [
-    "Он спал слишком много",
-    "He slept too much"
-  ],
-  [
-    "Я водил машину вчера",
-    "I drove a car yesterday"
-  ],
-  [
-    "Он сломал свою ручку",
-    "He broke his pen"
-  ],
-  [
-    "Я прочитал всю эту книгу",
-    "I read all this book"
-  ],
-  [
-    "Он сказал это очень громко",
-    "He said it very loudly"
-  ],
-  [
-    "Она чувствовала себя очень грустной",
-    "She felt very sad"
-  ],
-  [
-    "Он бежал очень быстро",
-    "He ran very fast"
-  ],
-  [
-    "Я сел в кресло",
-    "I sat in an armchair"
-  ],
-  [
-    "Ты показал очень хорошие результаты",
-    "You showed very good results"
-  ],
-  [
-    "Его машина сломалась",
-    "His car broke down"
-  ],
-  [
-    "Ты водил машину на прошлой неделе?",
-    "Did you drive a car last week?"
-  ],
-  [
-    "Ты спал достаточно?",
-    "Did you sleep enough?"
-  ],
-  [
-    "Я съел все",
-    "I ate everything"
-  ],
-  [
-    "Я прочитал эту книгу",
-    "I read this book"
-  ],
-  [
-    "Он спел свою любимую песню",
-    "He sang his favourite song"
-  ],
-  [
-    "Она пела так красиво",
-    "She sang so beautifully"
-  ],
-  [
-    "Как ты провел свободное время?",
-    "How did you spend your free time?"
-  ],
-  [
-    "Я забыл это",
-    "I forgot it"
-  ],
-  [
-    "Я сел",
-    "I sat down"
-  ],
-  [
-    "Я забыл его имя",
-    "I forgot his name"
-  ],
-  [
-    "Как ты себя чувствовал?",
-    "How did you feel?"
-  ],
-  [
-    "Ты сделал свою домашнюю работу?",
-    "Did you do your homework?"
-  ],
-  [
-    "Я не получил твое сообщение",
-    "I didn't get your message"
-  ],
-  [
-    "Я сел на стул",
-    "I sat on a chair"
-  ],
-  [
-    "Я получил это сообщение",
-    "I got this message"
-  ],
-  [
-    "Что ты ел на обед?",
-    "What did you eat for lunch?"
-  ],
-  [
-    "Я побежал туда",
-    "I ran there"
-  ],
-  [
-    "Ты сделал это очень хорошо",
-    "You did it very well"
-  ],
-  [
-    "Они занимались бизнесом",
-    "They did business"
-  ],
-  [
-    "Я спал слишком мало",
-    "I slept too little"
-  ],
-  [
-    "Как ты провел прошлое лето?",
-    "How did you spend last summer?"
-  ],
-  [
-    "Она съела торт",
-    "She ate a cake"
-  ],
-  [
-    "Он показал мне эту вещь",
-    "He showed me this thing"
-  ],
-  [
-    "Я потратил все свои деньги на это",
-    "I spent all my money on it"
-  ],
-  [
-    "Я прочитал ту статью",
-    "I read that article"
-  ],
-  [
-    "Что он ел на ужин?",
-    "What did he eat for dinner?"
-  ],
-  [
-    "Он чувствовал себя таким несчастным",
-    "He felt so unhappy"
-  ],
-  [
-    "Я чувствовал себя таким счастливым",
-    "I felt so happy"
-  ],
-  [
-    "Он съел мясо",
-    "He ate meat"
-  ],
-  [
-    "Я сказал, что это было очень хорошо",
-    "I said that it was very good"
-  ],
-  [
-    "Я хранил этот секрет",
-    "I kept this secret"
-  ],
-  [
-    "Я сказал, что мне понравилась та идея",
-    "I said that I liked that idea"
-  ],
-  [
-    "Эта машина сломалась внезапно",
-    "This car broke down suddenly"
-  ],
-  [
-    "Я сдержал это обещание",
-    "I kept this promise"
-  ],
-  [
-    "Я катался на лошади",
-    "I rode a horse"
-  ],
-  [
-    "Она улетела в Великобританию",
-    "She flew to the UK"
-  ],
-  [
-    "Я получил письмо от них",
-    "I got a letter from them"
-  ],
-  [
-    "Она срезала цветы",
-    "She cut flowers"
-  ],
-  [
-    "Я катался на велосипеде вчера",
-    "I rode a bike yesterday"
-  ],
-  [
-    "Я съел яблоко",
-    "I ate an apple"
-  ],
-  [
-    "Он порезал свой палец",
-    "He cut his finger"
-  ],
-  [
-    "Он улетел обратно в Россию",
-    "He flew back to Russia"
-  ],
-  [
-    "Она улетела обратно в Англию",
-    "She flew back to England"
-  ],
-  [
-    "Он порезался",
-    "He cut himself"
-  ],
-  [
-    "Она порезалась",
-    "She cut herself"
-  ],
-  [
-    "Он разрезала этот торт",
-    "She cut this cake"
-  ],
-  [
-    "Я разрезал эти торты",
-    "I cut these cakes"
-  ],
-  [
-    "Мы не разрезали торт",
-    "We didn't cut the cake"
-  ],
-  [
-    "Я забыл, как это сделать",
-    "I forgot how to do it"
-  ],
-  [
-    "Он забыл, как сказать это",
-    "He forgot how to say it"
-  ],
-  [
-    "Мы не забыли сделать это",
-    "We didn't forget to do it"
-  ],
-  [
-    "Я сказал, что это было очень важно",
-    "I said that it was very important"
-  ],
-  [
-    "Он сказал, что это было очень полезно",
-    "He said that it was very useful"
-  ],
-  [
-    "Он не сдержал это обещание",
-    "He didn't keep this promise"
-  ],
-  [
-    "Она не сдержала тот секрет",
-    "She didn't keep that secret"
-  ],
-  [
-    "Я летал в Великобританию",
-    "I flew to the UK"
-  ],
-  [
-    "Я не летал в Великобританию",
-    "I didn't fly to the UK"
-  ],
-  [
-    "Я летел в Англию",
-    "I flew to England"
-  ],
-  [
-    "Он ехал на верблюде",
-    "He rode a camel"
-  ],
-  [
-    "Он ехал на лошади",
-    "He rode a horse"
-  ],
-  [
-    "Она не каталась на верблюде",
-    "She didn't ride a camel"
-  ],
-  [
-    "Он держал деньги в банке",
-    "He kept his money in a bank"
-  ],
-  [
-    "Она держала свои деньги дома",
-    "She kept her money at home"
-  ],
-  [
-    "Он не держал эти деньги в банке",
-    "He didn't keep this money in a bank"
-  ],
-  [
-    "Я летал в Лондон",
-    "I flew to London"
-  ],
-  [
-    "Он летал в Лондон",
-    "He flew to London"
-  ],
-  [
-    "Я не летал в эту страну",
-    "I didn't fly to this country"
-  ],
-  [
-    "Я съел немного рыбы",
-    "I ate some fish"
-  ],
-  [
-    "Я делал это регулярно",
-    "I did it regularly"
-  ],
-  [
-    "Он улетел за границу",
-    "He flew abroad"
-  ],
-  [
-    "Я не знал, почему ей было так грустно",
-    "I didn't know why she felt so sad"
-  ],
-  [
-    "Ты сделал это идеально",
-    "You did it perfectly"
-  ],
-  [
-    "Я показал лучший результат",
-    "I showed the best result"
-  ],
-  [
-    "Она не сохранила этот секрет",
-    "She didn't keep this secret"
-  ],
-  [
-    "Я полетел туда",
-    "I flew there"
-  ],
-  [
-    "Они полетели в Соединенные Штаты",
-    "They flew to the United States"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я присел",
+    "en": "I sat down"
+  },
+  {
+    "_id": 2,
+    "ru": "Ты сделал домашнюю работу?",
+    "en": "Did you do your homework?"
+  },
+  {
+    "_id": 3,
+    "ru": "Я катался на лошади",
+    "en": "I rode a horse"
+  },
+  {
+    "_id": 4,
+    "ru": "Они полетели в Соединенные Штаты",
+    "en": "They flew to the United States"
+  },
+  {
+    "_id": 5,
+    "ru": "Он съел эту пиццу",
+    "en": "He ate this pizza"
+  },
+  {
+    "_id": 6,
+    "ru": "Он спал слишком много",
+    "en": "He slept too much"
+  },
+  {
+    "_id": 7,
+    "ru": "Я водил машину вчера",
+    "en": "I drove a car yesterday"
+  },
+  {
+    "_id": 8,
+    "ru": "Он сломал свою ручку",
+    "en": "He broke his pen"
+  },
+  {
+    "_id": 9,
+    "ru": "Я прочитал всю эту книгу",
+    "en": "I read all this book"
+  },
+  {
+    "_id": 10,
+    "ru": "Он сказал это очень громко",
+    "en": "He said it very loudly"
+  },
+  {
+    "_id": 11,
+    "ru": "Она чувствовала себя очень грустной",
+    "en": "She felt very sad"
+  },
+  {
+    "_id": 12,
+    "ru": "Он бежал очень быстро",
+    "en": "He ran very fast"
+  },
+  {
+    "_id": 13,
+    "ru": "Я сел в кресло",
+    "en": "I sat in an armchair"
+  },
+  {
+    "_id": 14,
+    "ru": "Ты показал очень хорошие результаты",
+    "en": "You showed very good results"
+  },
+  {
+    "_id": 15,
+    "ru": "Его машина сломалась",
+    "en": "His car broke down"
+  },
+  {
+    "_id": 16,
+    "ru": "Ты водил машину на прошлой неделе?",
+    "en": "Did you drive a car last week?"
+  },
+  {
+    "_id": 17,
+    "ru": "Ты спал достаточно?",
+    "en": "Did you sleep enough?"
+  },
+  {
+    "_id": 18,
+    "ru": "Я съел все",
+    "en": "I ate everything"
+  },
+  {
+    "_id": 19,
+    "ru": "Я прочитал эту книгу",
+    "en": "I read this book"
+  },
+  {
+    "_id": 20,
+    "ru": "Он спел свою любимую песню",
+    "en": "He sang his favourite song"
+  },
+  {
+    "_id": 21,
+    "ru": "Она пела так красиво",
+    "en": "She sang so beautifully"
+  },
+  {
+    "_id": 22,
+    "ru": "Как ты провел свободное время?",
+    "en": "How did you spend your free time?"
+  },
+  {
+    "_id": 23,
+    "ru": "Я забыл это",
+    "en": "I forgot it"
+  },
+  {
+    "_id": 24,
+    "ru": "Я сел",
+    "en": "I sat down"
+  },
+  {
+    "_id": 25,
+    "ru": "Я забыл его имя",
+    "en": "I forgot his name"
+  },
+  {
+    "_id": 26,
+    "ru": "Как ты себя чувствовал?",
+    "en": "How did you feel?"
+  },
+  {
+    "_id": 27,
+    "ru": "Ты сделал свою домашнюю работу?",
+    "en": "Did you do your homework?"
+  },
+  {
+    "_id": 28,
+    "ru": "Я не получил твое сообщение",
+    "en": "I didn't get your message"
+  },
+  {
+    "_id": 29,
+    "ru": "Я сел на стул",
+    "en": "I sat on a chair"
+  },
+  {
+    "_id": 30,
+    "ru": "Я получил это сообщение",
+    "en": "I got this message"
+  },
+  {
+    "_id": 31,
+    "ru": "Что ты ел на обед?",
+    "en": "What did you eat for lunch?"
+  },
+  {
+    "_id": 32,
+    "ru": "Я побежал туда",
+    "en": "I ran there"
+  },
+  {
+    "_id": 33,
+    "ru": "Ты сделал это очень хорошо",
+    "en": "You did it very well"
+  },
+  {
+    "_id": 34,
+    "ru": "Они занимались бизнесом",
+    "en": "They did business"
+  },
+  {
+    "_id": 35,
+    "ru": "Я спал слишком мало",
+    "en": "I slept too little"
+  },
+  {
+    "_id": 36,
+    "ru": "Как ты провел прошлое лето?",
+    "en": "How did you spend last summer?"
+  },
+  {
+    "_id": 37,
+    "ru": "Она съела торт",
+    "en": "She ate a cake"
+  },
+  {
+    "_id": 38,
+    "ru": "Он показал мне эту вещь",
+    "en": "He showed me this thing"
+  },
+  {
+    "_id": 39,
+    "ru": "Я потратил все свои деньги на это",
+    "en": "I spent all my money on it"
+  },
+  {
+    "_id": 40,
+    "ru": "Я прочитал ту статью",
+    "en": "I read that article"
+  },
+  {
+    "_id": 41,
+    "ru": "Что он ел на ужин?",
+    "en": "What did he eat for dinner?"
+  },
+  {
+    "_id": 42,
+    "ru": "Он чувствовал себя таким несчастным",
+    "en": "He felt so unhappy"
+  },
+  {
+    "_id": 43,
+    "ru": "Я чувствовал себя таким счастливым",
+    "en": "I felt so happy"
+  },
+  {
+    "_id": 44,
+    "ru": "Он съел мясо",
+    "en": "He ate meat"
+  },
+  {
+    "_id": 45,
+    "ru": "Я сказал, что это было очень хорошо",
+    "en": "I said that it was very good"
+  },
+  {
+    "_id": 46,
+    "ru": "Я хранил этот секрет",
+    "en": "I kept this secret"
+  },
+  {
+    "_id": 47,
+    "ru": "Я сказал, что мне понравилась та идея",
+    "en": "I said that I liked that idea"
+  },
+  {
+    "_id": 48,
+    "ru": "Эта машина сломалась внезапно",
+    "en": "This car broke down suddenly"
+  },
+  {
+    "_id": 49,
+    "ru": "Я сдержал это обещание",
+    "en": "I kept this promise"
+  },
+  {
+    "_id": 50,
+    "ru": "Я катался на лошади",
+    "en": "I rode a horse"
+  },
+  {
+    "_id": 51,
+    "ru": "Она улетела в Великобританию",
+    "en": "She flew to the UK"
+  },
+  {
+    "_id": 52,
+    "ru": "Я получил письмо от них",
+    "en": "I got a letter from them"
+  },
+  {
+    "_id": 53,
+    "ru": "Она срезала цветы",
+    "en": "She cut flowers"
+  },
+  {
+    "_id": 54,
+    "ru": "Я катался на велосипеде вчера",
+    "en": "I rode a bike yesterday"
+  },
+  {
+    "_id": 55,
+    "ru": "Я съел яблоко",
+    "en": "I ate an apple"
+  },
+  {
+    "_id": 56,
+    "ru": "Он порезал свой палец",
+    "en": "He cut his finger"
+  },
+  {
+    "_id": 57,
+    "ru": "Он улетел обратно в Россию",
+    "en": "He flew back to Russia"
+  },
+  {
+    "_id": 58,
+    "ru": "Она улетела обратно в Англию",
+    "en": "She flew back to England"
+  },
+  {
+    "_id": 59,
+    "ru": "Он порезался",
+    "en": "He cut himself"
+  },
+  {
+    "_id": 60,
+    "ru": "Она порезалась",
+    "en": "She cut herself"
+  },
+  {
+    "_id": 61,
+    "ru": "Он разрезала этот торт",
+    "en": "She cut this cake"
+  },
+  {
+    "_id": 62,
+    "ru": "Я разрезал эти торты",
+    "en": "I cut these cakes"
+  },
+  {
+    "_id": 63,
+    "ru": "Мы не разрезали торт",
+    "en": "We didn't cut the cake"
+  },
+  {
+    "_id": 64,
+    "ru": "Я забыл, как это сделать",
+    "en": "I forgot how to do it"
+  },
+  {
+    "_id": 65,
+    "ru": "Он забыл, как сказать это",
+    "en": "He forgot how to say it"
+  },
+  {
+    "_id": 66,
+    "ru": "Мы не забыли сделать это",
+    "en": "We didn't forget to do it"
+  },
+  {
+    "_id": 67,
+    "ru": "Я сказал, что это было очень важно",
+    "en": "I said that it was very important"
+  },
+  {
+    "_id": 68,
+    "ru": "Он сказал, что это было очень полезно",
+    "en": "He said that it was very useful"
+  },
+  {
+    "_id": 69,
+    "ru": "Он не сдержал это обещание",
+    "en": "He didn't keep this promise"
+  },
+  {
+    "_id": 70,
+    "ru": "Она не сдержала тот секрет",
+    "en": "She didn't keep that secret"
+  },
+  {
+    "_id": 71,
+    "ru": "Я летал в Великобританию",
+    "en": "I flew to the UK"
+  },
+  {
+    "_id": 72,
+    "ru": "Я не летал в Великобританию",
+    "en": "I didn't fly to the UK"
+  },
+  {
+    "_id": 73,
+    "ru": "Я летел в Англию",
+    "en": "I flew to England"
+  },
+  {
+    "_id": 74,
+    "ru": "Он ехал на верблюде",
+    "en": "He rode a camel"
+  },
+  {
+    "_id": 75,
+    "ru": "Он ехал на лошади",
+    "en": "He rode a horse"
+  },
+  {
+    "_id": 76,
+    "ru": "Она не каталась на верблюде",
+    "en": "She didn't ride a camel"
+  },
+  {
+    "_id": 77,
+    "ru": "Он держал деньги в банке",
+    "en": "He kept his money in a bank"
+  },
+  {
+    "_id": 78,
+    "ru": "Она держала свои деньги дома",
+    "en": "She kept her money at home"
+  },
+  {
+    "_id": 79,
+    "ru": "Он не держал эти деньги в банке",
+    "en": "He didn't keep this money in a bank"
+  },
+  {
+    "_id": 80,
+    "ru": "Я летал в Лондон",
+    "en": "I flew to London"
+  },
+  {
+    "_id": 81,
+    "ru": "Он летал в Лондон",
+    "en": "He flew to London"
+  },
+  {
+    "_id": 82,
+    "ru": "Я не летал в эту страну",
+    "en": "I didn't fly to this country"
+  },
+  {
+    "_id": 83,
+    "ru": "Я съел немного рыбы",
+    "en": "I ate some fish"
+  },
+  {
+    "_id": 84,
+    "ru": "Я делал это регулярно",
+    "en": "I did it regularly"
+  },
+  {
+    "_id": 85,
+    "ru": "Он улетел за границу",
+    "en": "He flew abroad"
+  },
+  {
+    "_id": 86,
+    "ru": "Я не знал, почему ей было так грустно",
+    "en": "I didn't know why she felt so sad"
+  },
+  {
+    "_id": 87,
+    "ru": "Ты сделал это идеально",
+    "en": "You did it perfectly"
+  },
+  {
+    "_id": 88,
+    "ru": "Я показал лучший результат",
+    "en": "I showed the best result"
+  },
+  {
+    "_id": 89,
+    "ru": "Она не сохранила этот секрет",
+    "en": "She didn't keep this secret"
+  },
+  {
+    "_id": 90,
+    "ru": "Я полетел туда",
+    "en": "I flew there"
+  },
+  {
+    "_id": 91,
+    "ru": "Они полетели в Соединенные Штаты",
+    "en": "They flew to the United States"
+  }
 ]

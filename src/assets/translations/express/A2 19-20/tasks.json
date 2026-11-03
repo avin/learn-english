@@ -1,94 +1,117 @@
 [
-  [
-    "Мне кажется, что это развивает наши аналитические способности",
-    "It seems to me that it develops our analytical abilities"
-  ],
-  [
-    "Я сидел дома весь день",
-    "I was staying at home all day"
-  ],
-  [
-    "Когда он окончил университет?",
-    "When did he graduate from university?"
-  ],
-  [
-    "Когда я заметил его, он что-то искал",
-    "When I noticed him, he was looking for something"
-  ],
-  [
-    "Я не согласен с этим утверждением сейчас",
-    "I disagree with this statement now"
-  ],
-  [
-    "Я разделил эту сумму денег на три части",
-    "I divided this sum of money into three parts"
-  ],
-  [
-    "Я был дома весь день",
-    "I was at home all day"
-  ],
-  [
-    "Я еще не подготовился к этому тесту",
-    "I haven't prepared for this test yet"
-  ],
-  [
-    "Он прилег в конце дня",
-    "He lay down at the end of the day"
-  ],
-  [
-    "Почему он улыбается?",
-    "Why is he smiling?"
-  ],
-  [
-    "Он обнаружил, что кто-то украл его сумку",
-    "He discovered that someone had stolen his bag"
-  ],
-  [
-    "Учитель разделил нашу группу на несколько частей",
-    "The teacher divided our group into several parts"
-  ],
-  [
-    "Я решил не следовать этой рекомендации",
-    "I decided not to follow this recommendation"
-  ],
-  [
-    "Такой пример действительно мотивирует меня",
-    "Such an example really motivates me"
-  ],
-  [
-    "Я только что прибыл на встречу",
-    "I've just arrived at the meeting"
-  ],
-  [
-    "Я помню, как это произошло",
-    "I remember how it happened"
-  ],
-  [
-    "Я уже протестировал свои знания",
-    "I've already tested my knowledge"
-  ],
-  [
-    "Я думаю, что мы тратим время впустую сейчас",
-    "I think that we're wasting time now"
-  ],
-  [
-    "Ты помыл посуду?",
-    "Did you wash the dishes?"
-  ],
-  [
-    "Что ты ищешь?",
-    "What are you looking for?"
-  ],
-  [
-    "Я обнаружил, что мне дали неверную информацию",
-    "I discovered that they had given me the wrong information"
-  ],
-  [
-    "Он сказал, что они разрушили здание полностью",
-    "He said that they had destroyed the building completely"
-  ],
-  [
-    "Становилось темнее, и мы решили повернуть назад домой",
-    "It was getting darker and we decided to turn back home"
-  ]
+  {
+    "_id": 1,
+    "ru": "Мне кажется, что это развивает наши аналитические способности",
+    "en": "It seems to me that it develops our analytical abilities"
+  },
+  {
+    "_id": 2,
+    "ru": "Я сидел дома весь день",
+    "en": "I was staying at home all day"
+  },
+  {
+    "_id": 3,
+    "ru": "Когда он окончил университет?",
+    "en": "When did he graduate from university?"
+  },
+  {
+    "_id": 4,
+    "ru": "Когда я заметил его, он что-то искал",
+    "en": "When I noticed him, he was looking for something"
+  },
+  {
+    "_id": 5,
+    "ru": "Я не согласен с этим утверждением сейчас",
+    "en": "I disagree with this statement now"
+  },
+  {
+    "_id": 6,
+    "ru": "Я разделил эту сумму денег на три части",
+    "en": "I divided this sum of money into three parts"
+  },
+  {
+    "_id": 7,
+    "ru": "Я был дома весь день",
+    "en": "I was at home all day"
+  },
+  {
+    "_id": 8,
+    "ru": "Я еще не подготовился к этому тесту",
+    "en": "I haven't prepared for this test yet"
+  },
+  {
+    "_id": 9,
+    "ru": "Он прилег в конце дня",
+    "en": "He lay down at the end of the day"
+  },
+  {
+    "_id": 10,
+    "ru": "Почему он улыбается?",
+    "en": "Why is he smiling?"
+  },
+  {
+    "_id": 11,
+    "ru": "Он обнаружил, что кто-то украл его сумку",
+    "en": "He discovered that someone had stolen his bag"
+  },
+  {
+    "_id": 12,
+    "ru": "Учитель разделил нашу группу на несколько частей",
+    "en": "The teacher divided our group into several parts"
+  },
+  {
+    "_id": 13,
+    "ru": "Я решил не следовать этой рекомендации",
+    "en": "I decided not to follow this recommendation"
+  },
+  {
+    "_id": 14,
+    "ru": "Такой пример действительно мотивирует меня",
+    "en": "Such an example really motivates me"
+  },
+  {
+    "_id": 15,
+    "ru": "Я только что прибыл на встречу",
+    "en": "I've just arrived at the meeting"
+  },
+  {
+    "_id": 16,
+    "ru": "Я помню, как это произошло",
+    "en": "I remember how it happened"
+  },
+  {
+    "_id": 17,
+    "ru": "Я уже протестировал свои знания",
+    "en": "I've already tested my knowledge"
+  },
+  {
+    "_id": 18,
+    "ru": "Я думаю, что мы тратим время впустую сейчас",
+    "en": "I think that we're wasting time now"
+  },
+  {
+    "_id": 19,
+    "ru": "Ты помыл посуду?",
+    "en": "Did you wash the dishes?"
+  },
+  {
+    "_id": 20,
+    "ru": "Что ты ищешь?",
+    "en": "What are you looking for?"
+  },
+  {
+    "_id": 21,
+    "ru": "Я обнаружил, что мне дали неверную информацию",
+    "en": "I discovered that they had given me the wrong information"
+  },
+  {
+    "_id": 22,
+    "ru": "Он сказал, что они разрушили здание полностью",
+    "en": "He said that they had destroyed the building completely"
+  },
+  {
+    "_id": 23,
+    "ru": "Становилось темнее, и мы решили повернуть назад домой",
+    "en": "It was getting darker and we decided to turn back home"
+  }
 ]

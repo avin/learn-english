@@ -1,94 +1,117 @@
 [
-  [
-    "Он сказал, что заказал нам такси",
-    "He said that he had ordered us a taxi"
-  ],
-  [
-    "У него не было времени побриться",
-    "He didn't have time to shave"
-  ],
-  [
-    "Он сказал, что хотел бы расслабиться чуть-чуть",
-    "He said that he would like to relax a bit"
-  ],
-  [
-    "Его успех действительно вдохновил меня идти вперед",
-    "His success really inspired me to go ahead"
-  ],
-  [
-    "Откровенно говоря, я едва ли могу представить это",
-    "To be frank, I can hardly imagine it"
-  ],
-  [
-    "Эта страна обеспечивается нефтью и газом",
-    "This country is provided with oil and gas"
-  ],
-  [
-    "К сожалению, их брак закончился разводом",
-    "Unfortunately, their marriage ended in divorce"
-  ],
-  [
-    "Он сказал, что перелез через забор",
-    "He said that he had climbed over the fence"
-  ],
-  [
-    "Как было сказано, она умерла от сердечного приступа",
-    "As it was said, she had died of a heart attack"
-  ],
-  [
-    "Он говорит, что одобряет этот выбор",
-    "He says that he approves of this choice"
-  ],
-  [
-    "Вам нужно выбрать правильный ответ",
-    "You need to choose the correct answer"
-  ],
-  [
-    "Как мы можем видеть, ферма простирается вдоль реки",
-    "As we can see, the farm extend along the river"
-  ],
-  [
-    "Ей было запрещено выходить из дома",
-    "She was forbidden to leave the house"
-  ],
-  [
-    "Я должен признать, что это была не моя инициатива",
-    "I have to admit that it wasn't my initiative"
-  ],
-  [
-    "Как ты относишься к списыванию?",
-    "What's your attitude towards cheating?"
-  ],
-  [
-    "Мы будем играть два часа к шести",
-    "We will have been playing for two hours by six"
-  ],
-  [
-    "Он остановился на минуту, а затем продолжил говорить",
-    "He paused for a minute and then he continued talking"
-  ],
-  [
-    "Ожидается, что его повысят в следующем году",
-    "It's expected that he'll be promoted next year"
-  ],
-  [
-    "Я остановился на время и выпил стакан сока",
-    "I stopped for a while and drank a glass of juice"
-  ],
-  [
-    "Я возможно опоздаю на встречу чуть-чуть",
-    "I may be late for the meeting a bit"
-  ],
-  [
-    "Пока они лежали на пляже, мы плыли на лодке",
-    "While they were lying on the beach, we were sailing on a boat"
-  ],
-  [
-    "Вы уже нарядили елку?",
-    "Have you already decorated a Christmas tree?"
-  ],
-  [
-    "Как написано, курение не разрешено здесь",
-    "As it's written, smoking isn't allowed here"
-  ]
+  {
+    "_id": 1,
+    "ru": "Он сказал, что заказал нам такси",
+    "en": "He said that he had ordered us a taxi"
+  },
+  {
+    "_id": 2,
+    "ru": "У него не было времени побриться",
+    "en": "He didn't have time to shave"
+  },
+  {
+    "_id": 3,
+    "ru": "Он сказал, что хотел бы расслабиться чуть-чуть",
+    "en": "He said that he would like to relax a bit"
+  },
+  {
+    "_id": 4,
+    "ru": "Его успех действительно вдохновил меня идти вперед",
+    "en": "His success really inspired me to go ahead"
+  },
+  {
+    "_id": 5,
+    "ru": "Откровенно говоря, я едва ли могу представить это",
+    "en": "To be frank, I can hardly imagine it"
+  },
+  {
+    "_id": 6,
+    "ru": "Эта страна обеспечивается нефтью и газом",
+    "en": "This country is provided with oil and gas"
+  },
+  {
+    "_id": 7,
+    "ru": "К сожалению, их брак закончился разводом",
+    "en": "Unfortunately, their marriage ended in divorce"
+  },
+  {
+    "_id": 8,
+    "ru": "Он сказал, что перелез через забор",
+    "en": "He said that he had climbed over the fence"
+  },
+  {
+    "_id": 9,
+    "ru": "Как было сказано, она умерла от сердечного приступа",
+    "en": "As it was said, she had died of a heart attack"
+  },
+  {
+    "_id": 10,
+    "ru": "Он говорит, что одобряет этот выбор",
+    "en": "He says that he approves of this choice"
+  },
+  {
+    "_id": 11,
+    "ru": "Вам нужно выбрать правильный ответ",
+    "en": "You need to choose the correct answer"
+  },
+  {
+    "_id": 12,
+    "ru": "Как мы можем видеть, ферма простирается вдоль реки",
+    "en": "As we can see, the farm extend along the river"
+  },
+  {
+    "_id": 13,
+    "ru": "Ей было запрещено выходить из дома",
+    "en": "She was forbidden to leave the house"
+  },
+  {
+    "_id": 14,
+    "ru": "Я должен признать, что это была не моя инициатива",
+    "en": "I have to admit that it wasn't my initiative"
+  },
+  {
+    "_id": 15,
+    "ru": "Как ты относишься к списыванию?",
+    "en": "What's your attitude towards cheating?"
+  },
+  {
+    "_id": 16,
+    "ru": "Мы будем играть два часа к шести",
+    "en": "We will have been playing for two hours by six"
+  },
+  {
+    "_id": 17,
+    "ru": "Он остановился на минуту, а затем продолжил говорить",
+    "en": "He paused for a minute and then he continued talking"
+  },
+  {
+    "_id": 18,
+    "ru": "Ожидается, что его повысят в следующем году",
+    "en": "It's expected that he'll be promoted next year"
+  },
+  {
+    "_id": 19,
+    "ru": "Я остановился на время и выпил стакан сока",
+    "en": "I stopped for a while and drank a glass of juice"
+  },
+  {
+    "_id": 20,
+    "ru": "Я возможно опоздаю на встречу чуть-чуть",
+    "en": "I may be late for the meeting a bit"
+  },
+  {
+    "_id": 21,
+    "ru": "Пока они лежали на пляже, мы плыли на лодке",
+    "en": "While they were lying on the beach, we were sailing on a boat"
+  },
+  {
+    "_id": 22,
+    "ru": "Вы уже нарядили елку?",
+    "en": "Have you already decorated a Christmas tree?"
+  },
+  {
+    "_id": 23,
+    "ru": "Как написано, курение не разрешено здесь",
+    "en": "As it's written, smoking isn't allowed here"
+  }
 ]

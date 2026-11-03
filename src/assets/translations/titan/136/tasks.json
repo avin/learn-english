@@ -1,410 +1,512 @@
 [
-  [
-    "Этот путь длиннее",
-    "This way is longer"
-  ],
-  [
-    "Эта ошибка больше",
-    "This mistake is bigger"
-  ],
-  [
-    "Это самый длинный путь",
-    "It’s the longest way"
-  ],
-  [
-    "Это самая большая ошибка",
-    "It is the biggest mistake"
-  ],
-  [
-    "Этот метод более эффективный",
-    "This method is more effective"
-  ],
-  [
-    "Это самый эффективный метод",
-    "It’s the most effective method"
-  ],
-  [
-    "Это наименее интересная вещь для нас",
-    "It is the least interesting thing for us"
-  ],
-  [
-    "Этот хлеб дешевле",
-    "This bread is cheaper"
-  ],
-  [
-    "Это самые дорогие часы в этом магазине",
-    "It is the most expensive watch in this store"
-  ],
-  [
-    "Он знает меньше",
-    "He knows less"
-  ],
-  [
-    "Мой компьютер более мощный",
-    "My computer is more powerful"
-  ],
-  [
-    "Этот курс более эффективен",
-    "This course is more effective"
-  ],
-  [
-    "Мы можем обсуждать это дальше",
-    "We can discuss it further"
-  ],
-  [
-    "Эти цифры являются более точными",
-    "These figures are more exact"
-  ],
-  [
-    "Это место намного тише",
-    "This place is much quieter"
-  ],
-  [
-    "Он более трудолюбивый",
-    "He is more hardworking"
-  ],
-  [
-    "Ты можешь связаться с нами для дальнейшей информации",
-    "You can contact us for further information"
-  ],
-  [
-    "Эта вещь важнее",
-    "This thing is more important"
-  ],
-  [
-    "Это предложение является более привлекательным",
-    "This offer is more attractive"
-  ],
-  [
-    "Это наименее важная вещь",
-    "It's the least important thing"
-  ],
-  [
-    "Это место намного дальше",
-    "This place is much further"
-  ],
-  [
-    "Этот отель дешевле",
-    "This hotel is cheaper"
-  ],
-  [
-    "Это приложение лучше",
-    "This application is better"
-  ],
-  [
-    "Этот отель лучше",
-    "This hotel is better"
-  ],
-  [
-    "Этот хлеб намного дешевле",
-    "That bread is much cheaper"
-  ],
-  [
-    "Эти билеты гораздо дешевле",
-    "These tickets are much cheaper"
-  ],
-  [
-    "Это была лучшая цена",
-    "It was the best price"
-  ],
-  [
-    "Тот фильм менее интересный",
-    "That movie is less interesting"
-  ],
-  [
-    "Это самая информативная статья",
-    "It is the most informative article"
-  ],
-  [
-    "Эта организация более мощная",
-    "This organization is more powerful"
-  ],
-  [
-    "Эта музыка намного громче",
-    "This music is much louder"
-  ],
-  [
-    "Это самая важная вещь",
-    "It's the most important thing"
-  ],
-  [
-    "Это самая длинная река в мире",
-    "It is the longest river in the world"
-  ],
-  [
-    "Это лучшая цена",
-    "It's the best price"
-  ],
-  [
-    "Это самый высокий небоскреб в мире",
-    "It's the highest skyscraper in the world"
-  ],
-  [
-    "То здание дальше",
-    "That building is further"
-  ],
-  [
-    "Те цифры менее точные",
-    "Those figures are less exact"
-  ],
-  [
-    "Кейт моложе, чем Том",
-    "Kate is younger than Tom"
-  ],
-  [
-    "Эта цена ниже",
-    "That price is lower"
-  ],
-  [
-    "Эта мебель более модная",
-    "This furniture is more fashionable"
-  ],
-  [
-    "Это действительно лучше",
-    "It is really better"
-  ],
-  [
-    "Этот уровень выше",
-    "This level is higher"
-  ],
-  [
-    "Этот тест намного сложнее",
-    "That test is much more difficult"
-  ],
-  [
-    "Этот мужчина сильнее",
-    "That man is stronger"
-  ],
-  [
-    "Этот путь намного короче",
-    "This way is much shorter"
-  ],
-  [
-    "Это самая высокая гора в мире",
-    "It's the highest mountain in the world"
-  ],
-  [
-    "Уроки становятся более и более интересными",
-    "The lessons are getting more and more interesting"
-  ],
-  [
-    "Я думаю, это самое красивое место в мире",
-    "I think it's the most beautiful place in the world"
-  ],
-  [
-    "Он знает это лучше, чем я",
-    "He knows it better than me"
-  ],
-  [
-    "Определенно, эта вещь намного важнее",
-    "Definitely, this thing is much more important"
-  ],
-  [
-    "Он самый талантливый мальчик в нашей группе",
-    "He is the most talented boy in our group"
-  ],
-  [
-    "Риски становятся выше и выше",
-    "The risks are getting higher and higher"
-  ],
-  [
-    "Он мой старший брат",
-    "He is my elder brother"
-  ],
-  [
-    "Я не думаю, что это сложнее",
-    "I don't think that it's more difficult"
-  ],
-  [
-    "Качество этого продукта хуже",
-    "The quality of this product is worse"
-  ],
-  [
-    "Он не думает, что это намного проще",
-    "He doesn't think that it's much easier"
-  ],
-  [
-    "Она его младшая сестра",
-    "She is his younger sister"
-  ],
-  [
-    "Это был лучший день в моей жизни",
-    "It was the best day in my life"
-  ],
-  [
-    "Он сделал музыку тише",
-    "He made the music quieter"
-  ],
-  [
-    "Определенно, это намного лучше",
-    "Definitely, it's much better"
-  ],
-  [
-    "У него больше времени, чем у меня",
-    "He has more time than me"
-  ],
-  [
-    "У него меньше времени, чем у нее",
-    "He has less time than her"
-  ],
-  [
-    "У него много времени",
-    "He has much time"
-  ],
-  [
-    "Его компьютер мощнее, чем их",
-    "His computer is more powerful than theirs"
-  ],
-  [
-    "Эти устройства более мощные, чем их",
-    "These devices are more powerful than theirs"
-  ],
-  [
-    "Этот компьютер менее мощный, чем твой",
-    "This computer is less powerful than yours"
-  ],
-  [
-    "Та вещь дороже, чем эта",
-    "That thing is more expensive than this one"
-  ],
-  [
-    "Та вещь менее дорогая, чем другая",
-    "That thing is less expensive than another one"
-  ],
-  [
-    "Эта вещь дороже?",
-    "Is this thing more expensive?"
-  ],
-  [
-    "То оборудование хуже",
-    "That equipment is worse"
-  ],
-  [
-    "Это оборудование хуже, чем твое",
-    "This equipment is worse than yours"
-  ],
-  [
-    "То оборудование самое лучшее",
-    "That equipment is the best"
-  ],
-  [
-    "Их дом меньше нашего",
-    "Their house is smaller than ours"
-  ],
-  [
-    "Мой дом больше твоего",
-    "My house is bigger than yours"
-  ],
-  [
-    "Твой дом меньше, чем его?",
-    "Is your house smaller than his?"
-  ],
-  [
-    "Она знает это лучше нас",
-    "She knows it better than us"
-  ],
-  [
-    "Я знаю это лучше",
-    "I know it better"
-  ],
-  [
-    "Она делает это лучше меня",
-    "She does it better than me"
-  ],
-  [
-    "Где твой старший брат?",
-    "Where is your elder brother?"
-  ],
-  [
-    "Он старше меня",
-    "He is older than me"
-  ],
-  [
-    "Его английский очень хорош, но ее английский лучше",
-    "His English is very good but her English is better"
-  ],
-  [
-    "Мой английский лучше твоего",
-    "My English is better than yours"
-  ],
-  [
-    "Мой друг на два года моложе меня",
-    "My friend is two years younger than me"
-  ],
-  [
-    "Мой друг старше меня",
-    "My friend is older than me"
-  ],
-  [
-    "Он ее младший сын",
-    "He is her youngest son"
-  ],
-  [
-    "Моя машина очень надежная, но эта машина лучше",
-    "My car is very reliable but this car is better"
-  ],
-  [
-    "Моя машина лучше, чем эта",
-    "My car is better than this one"
-  ],
-  [
-    "Она знает английский лучше, чем он",
-    "She knows English better than him"
-  ],
-  [
-    "Этот автомобиль дешевле, чем тот",
-    "This car is cheaper than that one"
-  ],
-  [
-    "Она на год старше меня",
-    "She is one year older than me"
-  ],
-  [
-    "Она трудолюбивее его",
-    "She is more hardworking than him"
-  ],
-  [
-    "Я знаю его лучше, чем она",
-    "I know him better than her"
-  ],
-  [
-    "Этот отель дороже, чем тот",
-    "This hotel is more expensive than that one"
-  ],
-  [
-    "Этот ресурс менее популярен, чем тот",
-    "This resource is less popular than that one"
-  ],
-  [
-    "Моя сестра на три года старше меня",
-    "My sister is three years older than me"
-  ],
-  [
-    "Это оборудование лучше",
-    "This equipment is better"
-  ],
-  [
-    "Он живет дальше ее",
-    "He lives further than her"
-  ],
-  [
-    "В этом месте намного жарче",
-    "It is much hotter in this place"
-  ],
-  [
-    "Он выше нее",
-    "He is taller than her"
-  ],
-  [
-    "Здесь теплее",
-    "It is warmer here"
-  ],
-  [
-    "Определенно, это лучше",
-    "Definitely, it is better"
-  ],
-  [
-    "Там холоднее",
-    "It is colder there"
-  ]
+  {
+    "_id": 1,
+    "ru": "Этот путь длиннее",
+    "en": "This way is longer"
+  },
+  {
+    "_id": 2,
+    "ru": "Эта ошибка больше",
+    "en": "This mistake is bigger"
+  },
+  {
+    "_id": 3,
+    "ru": "Это самый длинный путь",
+    "en": "It’s the longest way"
+  },
+  {
+    "_id": 4,
+    "ru": "Это самая большая ошибка",
+    "en": "It is the biggest mistake"
+  },
+  {
+    "_id": 5,
+    "ru": "Этот метод более эффективный",
+    "en": "This method is more effective"
+  },
+  {
+    "_id": 6,
+    "ru": "Это самый эффективный метод",
+    "en": "It’s the most effective method"
+  },
+  {
+    "_id": 7,
+    "ru": "Это наименее интересная вещь для нас",
+    "en": "It is the least interesting thing for us"
+  },
+  {
+    "_id": 8,
+    "ru": "Этот хлеб дешевле",
+    "en": "This bread is cheaper"
+  },
+  {
+    "_id": 9,
+    "ru": "Это самые дорогие часы в этом магазине",
+    "en": "It is the most expensive watch in this store"
+  },
+  {
+    "_id": 10,
+    "ru": "Он знает меньше",
+    "en": "He knows less"
+  },
+  {
+    "_id": 11,
+    "ru": "Мой компьютер более мощный",
+    "en": "My computer is more powerful"
+  },
+  {
+    "_id": 12,
+    "ru": "Этот курс более эффективен",
+    "en": "This course is more effective"
+  },
+  {
+    "_id": 13,
+    "ru": "Мы можем обсуждать это дальше",
+    "en": "We can discuss it further"
+  },
+  {
+    "_id": 14,
+    "ru": "Эти цифры являются более точными",
+    "en": "These figures are more exact"
+  },
+  {
+    "_id": 15,
+    "ru": "Это место намного тише",
+    "en": "This place is much quieter"
+  },
+  {
+    "_id": 16,
+    "ru": "Он более трудолюбивый",
+    "en": "He is more hardworking"
+  },
+  {
+    "_id": 17,
+    "ru": "Ты можешь связаться с нами для дальнейшей информации",
+    "en": "You can contact us for further information"
+  },
+  {
+    "_id": 18,
+    "ru": "Эта вещь важнее",
+    "en": "This thing is more important"
+  },
+  {
+    "_id": 19,
+    "ru": "Это предложение является более привлекательным",
+    "en": "This offer is more attractive"
+  },
+  {
+    "_id": 20,
+    "ru": "Это наименее важная вещь",
+    "en": "It's the least important thing"
+  },
+  {
+    "_id": 21,
+    "ru": "Это место намного дальше",
+    "en": "This place is much further"
+  },
+  {
+    "_id": 22,
+    "ru": "Этот отель дешевле",
+    "en": "This hotel is cheaper"
+  },
+  {
+    "_id": 23,
+    "ru": "Это приложение лучше",
+    "en": "This application is better"
+  },
+  {
+    "_id": 24,
+    "ru": "Этот отель лучше",
+    "en": "This hotel is better"
+  },
+  {
+    "_id": 25,
+    "ru": "Этот хлеб намного дешевле",
+    "en": "That bread is much cheaper"
+  },
+  {
+    "_id": 26,
+    "ru": "Эти билеты гораздо дешевле",
+    "en": "These tickets are much cheaper"
+  },
+  {
+    "_id": 27,
+    "ru": "Это была лучшая цена",
+    "en": "It was the best price"
+  },
+  {
+    "_id": 28,
+    "ru": "Тот фильм менее интересный",
+    "en": "That movie is less interesting"
+  },
+  {
+    "_id": 29,
+    "ru": "Это самая информативная статья",
+    "en": "It is the most informative article"
+  },
+  {
+    "_id": 30,
+    "ru": "Эта организация более мощная",
+    "en": "This organization is more powerful"
+  },
+  {
+    "_id": 31,
+    "ru": "Эта музыка намного громче",
+    "en": "This music is much louder"
+  },
+  {
+    "_id": 32,
+    "ru": "Это самая важная вещь",
+    "en": "It's the most important thing"
+  },
+  {
+    "_id": 33,
+    "ru": "Это самая длинная река в мире",
+    "en": "It is the longest river in the world"
+  },
+  {
+    "_id": 34,
+    "ru": "Это лучшая цена",
+    "en": "It's the best price"
+  },
+  {
+    "_id": 35,
+    "ru": "Это самый высокий небоскреб в мире",
+    "en": "It's the highest skyscraper in the world"
+  },
+  {
+    "_id": 36,
+    "ru": "То здание дальше",
+    "en": "That building is further"
+  },
+  {
+    "_id": 37,
+    "ru": "Те цифры менее точные",
+    "en": "Those figures are less exact"
+  },
+  {
+    "_id": 38,
+    "ru": "Кейт моложе, чем Том",
+    "en": "Kate is younger than Tom"
+  },
+  {
+    "_id": 39,
+    "ru": "Эта цена ниже",
+    "en": "That price is lower"
+  },
+  {
+    "_id": 40,
+    "ru": "Эта мебель более модная",
+    "en": "This furniture is more fashionable"
+  },
+  {
+    "_id": 41,
+    "ru": "Это действительно лучше",
+    "en": "It is really better"
+  },
+  {
+    "_id": 42,
+    "ru": "Этот уровень выше",
+    "en": "This level is higher"
+  },
+  {
+    "_id": 43,
+    "ru": "Этот тест намного сложнее",
+    "en": "That test is much more difficult"
+  },
+  {
+    "_id": 44,
+    "ru": "Этот мужчина сильнее",
+    "en": "That man is stronger"
+  },
+  {
+    "_id": 45,
+    "ru": "Этот путь намного короче",
+    "en": "This way is much shorter"
+  },
+  {
+    "_id": 46,
+    "ru": "Это самая высокая гора в мире",
+    "en": "It's the highest mountain in the world"
+  },
+  {
+    "_id": 47,
+    "ru": "Уроки становятся более и более интересными",
+    "en": "The lessons are getting more and more interesting"
+  },
+  {
+    "_id": 48,
+    "ru": "Я думаю, это самое красивое место в мире",
+    "en": "I think it's the most beautiful place in the world"
+  },
+  {
+    "_id": 49,
+    "ru": "Он знает это лучше, чем я",
+    "en": "He knows it better than me"
+  },
+  {
+    "_id": 50,
+    "ru": "Определенно, эта вещь намного важнее",
+    "en": "Definitely, this thing is much more important"
+  },
+  {
+    "_id": 51,
+    "ru": "Он самый талантливый мальчик в нашей группе",
+    "en": "He is the most talented boy in our group"
+  },
+  {
+    "_id": 52,
+    "ru": "Риски становятся выше и выше",
+    "en": "The risks are getting higher and higher"
+  },
+  {
+    "_id": 53,
+    "ru": "Он мой старший брат",
+    "en": "He is my elder brother"
+  },
+  {
+    "_id": 54,
+    "ru": "Я не думаю, что это сложнее",
+    "en": "I don't think that it's more difficult"
+  },
+  {
+    "_id": 55,
+    "ru": "Качество этого продукта хуже",
+    "en": "The quality of this product is worse"
+  },
+  {
+    "_id": 56,
+    "ru": "Он не думает, что это намного проще",
+    "en": "He doesn't think that it's much easier"
+  },
+  {
+    "_id": 57,
+    "ru": "Она его младшая сестра",
+    "en": "She is his younger sister"
+  },
+  {
+    "_id": 58,
+    "ru": "Это был лучший день в моей жизни",
+    "en": "It was the best day in my life"
+  },
+  {
+    "_id": 59,
+    "ru": "Он сделал музыку тише",
+    "en": "He made the music quieter"
+  },
+  {
+    "_id": 60,
+    "ru": "Определенно, это намного лучше",
+    "en": "Definitely, it's much better"
+  },
+  {
+    "_id": 61,
+    "ru": "У него больше времени, чем у меня",
+    "en": "He has more time than me"
+  },
+  {
+    "_id": 62,
+    "ru": "У него меньше времени, чем у нее",
+    "en": "He has less time than her"
+  },
+  {
+    "_id": 63,
+    "ru": "У него много времени",
+    "en": "He has much time"
+  },
+  {
+    "_id": 64,
+    "ru": "Его компьютер мощнее, чем их",
+    "en": "His computer is more powerful than theirs"
+  },
+  {
+    "_id": 65,
+    "ru": "Эти устройства более мощные, чем их",
+    "en": "These devices are more powerful than theirs"
+  },
+  {
+    "_id": 66,
+    "ru": "Этот компьютер менее мощный, чем твой",
+    "en": "This computer is less powerful than yours"
+  },
+  {
+    "_id": 67,
+    "ru": "Та вещь дороже, чем эта",
+    "en": "That thing is more expensive than this one"
+  },
+  {
+    "_id": 68,
+    "ru": "Та вещь менее дорогая, чем другая",
+    "en": "That thing is less expensive than another one"
+  },
+  {
+    "_id": 69,
+    "ru": "Эта вещь дороже?",
+    "en": "Is this thing more expensive?"
+  },
+  {
+    "_id": 70,
+    "ru": "То оборудование хуже",
+    "en": "That equipment is worse"
+  },
+  {
+    "_id": 71,
+    "ru": "Это оборудование хуже, чем твое",
+    "en": "This equipment is worse than yours"
+  },
+  {
+    "_id": 72,
+    "ru": "То оборудование самое лучшее",
+    "en": "That equipment is the best"
+  },
+  {
+    "_id": 73,
+    "ru": "Их дом меньше нашего",
+    "en": "Their house is smaller than ours"
+  },
+  {
+    "_id": 74,
+    "ru": "Мой дом больше твоего",
+    "en": "My house is bigger than yours"
+  },
+  {
+    "_id": 75,
+    "ru": "Твой дом меньше, чем его?",
+    "en": "Is your house smaller than his?"
+  },
+  {
+    "_id": 76,
+    "ru": "Она знает это лучше нас",
+    "en": "She knows it better than us"
+  },
+  {
+    "_id": 77,
+    "ru": "Я знаю это лучше",
+    "en": "I know it better"
+  },
+  {
+    "_id": 78,
+    "ru": "Она делает это лучше меня",
+    "en": "She does it better than me"
+  },
+  {
+    "_id": 79,
+    "ru": "Где твой старший брат?",
+    "en": "Where is your elder brother?"
+  },
+  {
+    "_id": 80,
+    "ru": "Он старше меня",
+    "en": "He is older than me"
+  },
+  {
+    "_id": 81,
+    "ru": "Его английский очень хорош, но ее английский лучше",
+    "en": "His English is very good but her English is better"
+  },
+  {
+    "_id": 82,
+    "ru": "Мой английский лучше твоего",
+    "en": "My English is better than yours"
+  },
+  {
+    "_id": 83,
+    "ru": "Мой друг на два года моложе меня",
+    "en": "My friend is two years younger than me"
+  },
+  {
+    "_id": 84,
+    "ru": "Мой друг старше меня",
+    "en": "My friend is older than me"
+  },
+  {
+    "_id": 85,
+    "ru": "Он ее младший сын",
+    "en": "He is her youngest son"
+  },
+  {
+    "_id": 86,
+    "ru": "Моя машина очень надежная, но эта машина лучше",
+    "en": "My car is very reliable but this car is better"
+  },
+  {
+    "_id": 87,
+    "ru": "Моя машина лучше, чем эта",
+    "en": "My car is better than this one"
+  },
+  {
+    "_id": 88,
+    "ru": "Она знает английский лучше, чем он",
+    "en": "She knows English better than him"
+  },
+  {
+    "_id": 89,
+    "ru": "Этот автомобиль дешевле, чем тот",
+    "en": "This car is cheaper than that one"
+  },
+  {
+    "_id": 90,
+    "ru": "Она на год старше меня",
+    "en": "She is one year older than me"
+  },
+  {
+    "_id": 91,
+    "ru": "Она трудолюбивее его",
+    "en": "She is more hardworking than him"
+  },
+  {
+    "_id": 92,
+    "ru": "Я знаю его лучше, чем она",
+    "en": "I know him better than her"
+  },
+  {
+    "_id": 93,
+    "ru": "Этот отель дороже, чем тот",
+    "en": "This hotel is more expensive than that one"
+  },
+  {
+    "_id": 94,
+    "ru": "Этот ресурс менее популярен, чем тот",
+    "en": "This resource is less popular than that one"
+  },
+  {
+    "_id": 95,
+    "ru": "Моя сестра на три года старше меня",
+    "en": "My sister is three years older than me"
+  },
+  {
+    "_id": 96,
+    "ru": "Это оборудование лучше",
+    "en": "This equipment is better"
+  },
+  {
+    "_id": 97,
+    "ru": "Он живет дальше ее",
+    "en": "He lives further than her"
+  },
+  {
+    "_id": 98,
+    "ru": "В этом месте намного жарче",
+    "en": "It is much hotter in this place"
+  },
+  {
+    "_id": 99,
+    "ru": "Он выше нее",
+    "en": "He is taller than her"
+  },
+  {
+    "_id": 100,
+    "ru": "Здесь теплее",
+    "en": "It is warmer here"
+  },
+  {
+    "_id": 101,
+    "ru": "Определенно, это лучше",
+    "en": "Definitely, it is better"
+  },
+  {
+    "_id": 102,
+    "ru": "Там холоднее",
+    "en": "It is colder there"
+  }
 ]

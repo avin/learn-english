@@ -1,382 +1,477 @@
 [
-  [
-    "Они не соглашаются",
-    "They don't agree"
-  ],
-  [
-    "Я не делаю ошибки",
-    "I don't make mistakes"
-  ],
-  [
-    "Я не занимаюсь бизнесом",
-    "I don't do business"
-  ],
-  [
-    "Я плачу за это",
-    "I pay for it"
-  ],
-  [
-    "Они не играют в футбол",
-    "They don't play football"
-  ],
-  [
-    "Они не платят за это",
-    "They don't pay for it"
-  ],
-  [
-    "Они не согласны",
-    "They don't agree"
-  ],
-  [
-    "Я не делаю те упражнения",
-    "I don't do those exercises"
-  ],
-  [
-    "Они играют в теннис",
-    "They play tennis"
-  ],
-  [
-    "Я не делаю ошибок",
-    "I don't make mistakes"
-  ],
-  [
-    "Мы не хотим этого",
-    "We don't want it"
-  ],
-  [
-    "Мне не нравится эта идея",
-    "I don't like this idea"
-  ],
-  [
-    "Я не занимаюсь бизнесом",
-    "I don't do business"
-  ],
-  [
-    "Они не согласны с этим",
-    "They don't agree with it"
-  ],
-  [
-    "Они не контролируют это",
-    "They don't control it"
-  ],
-  [
-    "Я не делаю этого",
-    "I don't do it"
-  ],
-  [
-    "Мне не нравится эта игра",
-    "I don't like this game"
-  ],
-  [
-    "Я не знаю",
-    "I don't know"
-  ],
-  [
-    "Я не плачу",
-    "I don't pay"
-  ],
-  [
-    "Они не понимают этих вещей",
-    "They don't understand these things"
-  ],
-  [
-    "Я не хочу этого",
-    "I don't want it"
-  ],
-  [
-    "У меня нет свободного времени",
-    "I don't have free time"
-  ],
-  [
-    "Ты не делаешь ошибок",
-    "You don't make mistakes"
-  ],
-  [
-    "Я не хожу туда",
-    "I don't go there"
-  ],
-  [
-    "Я не слышу тебя",
-    "I don't hear you"
-  ],
-  [
-    "Я плачу за это",
-    "I pay for it"
-  ],
-  [
-    "Я не понимаю",
-    "I don't understand"
-  ],
-  [
-    "Они не делают ошибок",
-    "They don't make mistakes"
-  ],
-  [
-    "У меня нет времени",
-    "I don't have time"
-  ],
-  [
-    "Я плачу за свое образование",
-    "I pay for my education"
-  ],
-  [
-    "Они не думают о своем будущем",
-    "They don't think about their future"
-  ],
-  [
-    "Я не думаю об этом",
-    "I don't think about it"
-  ],
-  [
-    "У меня нет много времени",
-    "I don't have much time"
-  ],
-  [
-    "Мы не платим за наше образование",
-    "We don't pay for our education"
-  ],
-  [
-    "Они не играют в футбол",
-    "They don't play football"
-  ],
-  [
-    "Я не знаю этого",
-    "I don't know it"
-  ],
-  [
-    "Они занимаются бизнесом",
-    "They do business"
-  ],
-  [
-    "Мы не платим",
-    "We don't pay"
-  ],
-  [
-    "Они не контролируют эту ситуацию",
-    "They don't control this situation"
-  ],
-  [
-    "Я не понимаю это",
-    "I don't understand it"
-  ],
-  [
-    "Мы не играем в теннис",
-    "We don't play tennis"
-  ],
-  [
-    "Я не плачу за этот курс",
-    "I don't pay for this course"
-  ],
-  [
-    "Я не работаю",
-    "I don't work"
-  ],
-  [
-    "Я не понимаю это сейчас",
-    "I don’t understand it now"
-  ],
-  [
-    "Они не видят эту проблему",
-    "They don't see this problem"
-  ],
-  [
-    "Я не хочу покупать это",
-    "I don't want to buy it"
-  ],
-  [
-    "Мне не нравится их идея",
-    "I don't like their idea"
-  ],
-  [
-    "Я не хочу работать там",
-    "I don't want to work there"
-  ],
-  [
-    "Я не ем эту еду",
-    "I don't eat this food"
-  ],
-  [
-    "Я не хочу жить в той стране",
-    "I don't want to live in that country"
-  ],
-  [
-    "Мы говорим о разных вещах",
-    "We talk about different things"
-  ],
-  [
-    "У них нет больших денег",
-    "They don't have big money"
-  ],
-  [
-    "Я не хочу говорить об этой вещи",
-    "I don't want to talk about this thing"
-  ],
-  [
-    "Я вижу, что тебе не нравится это",
-    "I see that you don't like it"
-  ],
-  [
-    "Они часто говорят о политике",
-    "They often talk about politics"
-  ],
-  [
-    "Они не хотят жить в этой стране",
-    "They don't want to live in this country"
-  ],
-  [
-    "У них нет времени",
-    "They don't have time"
-  ],
-  [
-    "Они не говорят мне эти вещи",
-    "They don't tell me these things"
-  ],
-  [
-    "Мы не хотим покупать эту вещь",
-    "We don't want to buy this thing"
-  ],
-  [
-    "Я не хочу платить за это",
-    "I don't want to pay for it"
-  ],
-  [
-    "Мы не хотим платить за эту вещь",
-    "We don't want to pay for this thing"
-  ],
-  [
-    "Я не плачу за это",
-    "I don't pay for it"
-  ],
-  [
-    "Нам не нравятся его идеи",
-    "We don't like his ideas"
-  ],
-  [
-    "Я не хочу тратить свое время на это",
-    "I don't want to spend my time on it"
-  ],
-  [
-    "Он хочет тратить свое время на это",
-    "He wants to spend his time on it"
-  ],
-  [
-    "Нам не нравится эта песня",
-    "We don't like this song"
-  ],
-  [
-    "Тебе не нравится эта книга",
-    "You don't like this book"
-  ],
-  [
-    "Нам нравится эта песня",
-    "We like this song"
-  ],
-  [
-    "Я не хочу говорить об этом сейчас",
-    "I don't want to talk about it now"
-  ],
-  [
-    "Они не хотят слышать это",
-    "They don't want to hear it"
-  ],
-  [
-    "Мы хотим поговорить об этом сейчас",
-    "We want to talk about it now"
-  ],
-  [
-    "Я не хочу говорить об этом",
-    "I don't want to talk about it"
-  ],
-  [
-    "Мы хотим прочитать эту книгу",
-    "We want to read this book"
-  ],
-  [
-    "Ты не помогаешь нам",
-    "You don't help us"
-  ],
-  [
-    "Они не помогают мне",
-    "They don't help me"
-  ],
-  [
-    "Я не помогаю тебе",
-    "I don't help you"
-  ],
-  [
-    "Я вижу, что ты не хочешь этого",
-    "I see that you don't want it"
-  ],
-  [
-    "Я вижу, что они хотят этого",
-    "I see that they want it"
-  ],
-  [
-    "Я знаю, что ты хочешь этого",
-    "I know that you want it"
-  ],
-  [
-    "Я не ем это",
-    "I don't eat it"
-  ],
-  [
-    "Ты не ешь это",
-    "You don't eat it"
-  ],
-  [
-    "Мы не едим эту еду",
-    "We don't eat this food"
-  ],
-  [
-    "Я не хочу быть менеджером",
-    "I don't want to be a manager"
-  ],
-  [
-    "Я не понимаю его",
-    "I don't understand him"
-  ],
-  [
-    "Я не пью кофе",
-    "I don't drink coffee"
-  ],
-  [
-    "Они не говорят это",
-    "They don’t say it"
-  ],
-  [
-    "Я не хочу платить",
-    "I don't want to pay"
-  ],
-  [
-    "У нас нет свободного времени",
-    "We don't have free time"
-  ],
-  [
-    "У них нет денег",
-    "They don't have money"
-  ],
-  [
-    "Я не хочу говорить о политике",
-    "I don't want to talk about politics"
-  ],
-  [
-    "Мы часто разговариваем об этом",
-    "We often talk about it"
-  ],
-  [
-    "Я не понимаю их",
-    "I don't understand them"
-  ],
-  [
-    "Мне не нравится эта музыка",
-    "I don't like this music"
-  ],
-  [
-    "Им не нравится эта игра",
-    "They don't like this game"
-  ],
-  [
-    "Я не хочу быть бизнесменом",
-    "I don't want to be a businessman"
-  ]
+  {
+    "_id": 1,
+    "ru": "Они не соглашаются",
+    "en": "They don't agree"
+  },
+  {
+    "_id": 2,
+    "ru": "Я не делаю ошибки",
+    "en": "I don't make mistakes"
+  },
+  {
+    "_id": 3,
+    "ru": "Я не занимаюсь бизнесом",
+    "en": "I don't do business"
+  },
+  {
+    "_id": 4,
+    "ru": "Я плачу за это",
+    "en": "I pay for it"
+  },
+  {
+    "_id": 5,
+    "ru": "Они не играют в футбол",
+    "en": "They don't play football"
+  },
+  {
+    "_id": 6,
+    "ru": "Они не платят за это",
+    "en": "They don't pay for it"
+  },
+  {
+    "_id": 7,
+    "ru": "Они не согласны",
+    "en": "They don't agree"
+  },
+  {
+    "_id": 8,
+    "ru": "Я не делаю те упражнения",
+    "en": "I don't do those exercises"
+  },
+  {
+    "_id": 9,
+    "ru": "Они играют в теннис",
+    "en": "They play tennis"
+  },
+  {
+    "_id": 10,
+    "ru": "Я не делаю ошибок",
+    "en": "I don't make mistakes"
+  },
+  {
+    "_id": 11,
+    "ru": "Мы не хотим этого",
+    "en": "We don't want it"
+  },
+  {
+    "_id": 12,
+    "ru": "Мне не нравится эта идея",
+    "en": "I don't like this idea"
+  },
+  {
+    "_id": 13,
+    "ru": "Я не занимаюсь бизнесом",
+    "en": "I don't do business"
+  },
+  {
+    "_id": 14,
+    "ru": "Они не согласны с этим",
+    "en": "They don't agree with it"
+  },
+  {
+    "_id": 15,
+    "ru": "Они не контролируют это",
+    "en": "They don't control it"
+  },
+  {
+    "_id": 16,
+    "ru": "Я не делаю этого",
+    "en": "I don't do it"
+  },
+  {
+    "_id": 17,
+    "ru": "Мне не нравится эта игра",
+    "en": "I don't like this game"
+  },
+  {
+    "_id": 18,
+    "ru": "Я не знаю",
+    "en": "I don't know"
+  },
+  {
+    "_id": 19,
+    "ru": "Я не плачу",
+    "en": "I don't pay"
+  },
+  {
+    "_id": 20,
+    "ru": "Они не понимают этих вещей",
+    "en": "They don't understand these things"
+  },
+  {
+    "_id": 21,
+    "ru": "Я не хочу этого",
+    "en": "I don't want it"
+  },
+  {
+    "_id": 22,
+    "ru": "У меня нет свободного времени",
+    "en": "I don't have free time"
+  },
+  {
+    "_id": 23,
+    "ru": "Ты не делаешь ошибок",
+    "en": "You don't make mistakes"
+  },
+  {
+    "_id": 24,
+    "ru": "Я не хожу туда",
+    "en": "I don't go there"
+  },
+  {
+    "_id": 25,
+    "ru": "Я не слышу тебя",
+    "en": "I don't hear you"
+  },
+  {
+    "_id": 26,
+    "ru": "Я плачу за это",
+    "en": "I pay for it"
+  },
+  {
+    "_id": 27,
+    "ru": "Я не понимаю",
+    "en": "I don't understand"
+  },
+  {
+    "_id": 28,
+    "ru": "Они не делают ошибок",
+    "en": "They don't make mistakes"
+  },
+  {
+    "_id": 29,
+    "ru": "У меня нет времени",
+    "en": "I don't have time"
+  },
+  {
+    "_id": 30,
+    "ru": "Я плачу за свое образование",
+    "en": "I pay for my education"
+  },
+  {
+    "_id": 31,
+    "ru": "Они не думают о своем будущем",
+    "en": "They don't think about their future"
+  },
+  {
+    "_id": 32,
+    "ru": "Я не думаю об этом",
+    "en": "I don't think about it"
+  },
+  {
+    "_id": 33,
+    "ru": "У меня нет много времени",
+    "en": "I don't have much time"
+  },
+  {
+    "_id": 34,
+    "ru": "Мы не платим за наше образование",
+    "en": "We don't pay for our education"
+  },
+  {
+    "_id": 35,
+    "ru": "Они не играют в футбол",
+    "en": "They don't play football"
+  },
+  {
+    "_id": 36,
+    "ru": "Я не знаю этого",
+    "en": "I don't know it"
+  },
+  {
+    "_id": 37,
+    "ru": "Они занимаются бизнесом",
+    "en": "They do business"
+  },
+  {
+    "_id": 38,
+    "ru": "Мы не платим",
+    "en": "We don't pay"
+  },
+  {
+    "_id": 39,
+    "ru": "Они не контролируют эту ситуацию",
+    "en": "They don't control this situation"
+  },
+  {
+    "_id": 40,
+    "ru": "Я не понимаю это",
+    "en": "I don't understand it"
+  },
+  {
+    "_id": 41,
+    "ru": "Мы не играем в теннис",
+    "en": "We don't play tennis"
+  },
+  {
+    "_id": 42,
+    "ru": "Я не плачу за этот курс",
+    "en": "I don't pay for this course"
+  },
+  {
+    "_id": 43,
+    "ru": "Я не работаю",
+    "en": "I don't work"
+  },
+  {
+    "_id": 44,
+    "ru": "Я не понимаю это сейчас",
+    "en": "I don’t understand it now"
+  },
+  {
+    "_id": 45,
+    "ru": "Они не видят эту проблему",
+    "en": "They don't see this problem"
+  },
+  {
+    "_id": 46,
+    "ru": "Я не хочу покупать это",
+    "en": "I don't want to buy it"
+  },
+  {
+    "_id": 47,
+    "ru": "Мне не нравится их идея",
+    "en": "I don't like their idea"
+  },
+  {
+    "_id": 48,
+    "ru": "Я не хочу работать там",
+    "en": "I don't want to work there"
+  },
+  {
+    "_id": 49,
+    "ru": "Я не ем эту еду",
+    "en": "I don't eat this food"
+  },
+  {
+    "_id": 50,
+    "ru": "Я не хочу жить в той стране",
+    "en": "I don't want to live in that country"
+  },
+  {
+    "_id": 51,
+    "ru": "Мы говорим о разных вещах",
+    "en": "We talk about different things"
+  },
+  {
+    "_id": 52,
+    "ru": "У них нет больших денег",
+    "en": "They don't have big money"
+  },
+  {
+    "_id": 53,
+    "ru": "Я не хочу говорить об этой вещи",
+    "en": "I don't want to talk about this thing"
+  },
+  {
+    "_id": 54,
+    "ru": "Я вижу, что тебе не нравится это",
+    "en": "I see that you don't like it"
+  },
+  {
+    "_id": 55,
+    "ru": "Они часто говорят о политике",
+    "en": "They often talk about politics"
+  },
+  {
+    "_id": 56,
+    "ru": "Они не хотят жить в этой стране",
+    "en": "They don't want to live in this country"
+  },
+  {
+    "_id": 57,
+    "ru": "У них нет времени",
+    "en": "They don't have time"
+  },
+  {
+    "_id": 58,
+    "ru": "Они не говорят мне эти вещи",
+    "en": "They don't tell me these things"
+  },
+  {
+    "_id": 59,
+    "ru": "Мы не хотим покупать эту вещь",
+    "en": "We don't want to buy this thing"
+  },
+  {
+    "_id": 60,
+    "ru": "Я не хочу платить за это",
+    "en": "I don't want to pay for it"
+  },
+  {
+    "_id": 61,
+    "ru": "Мы не хотим платить за эту вещь",
+    "en": "We don't want to pay for this thing"
+  },
+  {
+    "_id": 62,
+    "ru": "Я не плачу за это",
+    "en": "I don't pay for it"
+  },
+  {
+    "_id": 63,
+    "ru": "Нам не нравятся его идеи",
+    "en": "We don't like his ideas"
+  },
+  {
+    "_id": 64,
+    "ru": "Я не хочу тратить свое время на это",
+    "en": "I don't want to spend my time on it"
+  },
+  {
+    "_id": 65,
+    "ru": "Он хочет тратить свое время на это",
+    "en": "He wants to spend his time on it"
+  },
+  {
+    "_id": 66,
+    "ru": "Нам не нравится эта песня",
+    "en": "We don't like this song"
+  },
+  {
+    "_id": 67,
+    "ru": "Тебе не нравится эта книга",
+    "en": "You don't like this book"
+  },
+  {
+    "_id": 68,
+    "ru": "Нам нравится эта песня",
+    "en": "We like this song"
+  },
+  {
+    "_id": 69,
+    "ru": "Я не хочу говорить об этом сейчас",
+    "en": "I don't want to talk about it now"
+  },
+  {
+    "_id": 70,
+    "ru": "Они не хотят слышать это",
+    "en": "They don't want to hear it"
+  },
+  {
+    "_id": 71,
+    "ru": "Мы хотим поговорить об этом сейчас",
+    "en": "We want to talk about it now"
+  },
+  {
+    "_id": 72,
+    "ru": "Я не хочу говорить об этом",
+    "en": "I don't want to talk about it"
+  },
+  {
+    "_id": 73,
+    "ru": "Мы хотим прочитать эту книгу",
+    "en": "We want to read this book"
+  },
+  {
+    "_id": 74,
+    "ru": "Ты не помогаешь нам",
+    "en": "You don't help us"
+  },
+  {
+    "_id": 75,
+    "ru": "Они не помогают мне",
+    "en": "They don't help me"
+  },
+  {
+    "_id": 76,
+    "ru": "Я не помогаю тебе",
+    "en": "I don't help you"
+  },
+  {
+    "_id": 77,
+    "ru": "Я вижу, что ты не хочешь этого",
+    "en": "I see that you don't want it"
+  },
+  {
+    "_id": 78,
+    "ru": "Я вижу, что они хотят этого",
+    "en": "I see that they want it"
+  },
+  {
+    "_id": 79,
+    "ru": "Я знаю, что ты хочешь этого",
+    "en": "I know that you want it"
+  },
+  {
+    "_id": 80,
+    "ru": "Я не ем это",
+    "en": "I don't eat it"
+  },
+  {
+    "_id": 81,
+    "ru": "Ты не ешь это",
+    "en": "You don't eat it"
+  },
+  {
+    "_id": 82,
+    "ru": "Мы не едим эту еду",
+    "en": "We don't eat this food"
+  },
+  {
+    "_id": 83,
+    "ru": "Я не хочу быть менеджером",
+    "en": "I don't want to be a manager"
+  },
+  {
+    "_id": 84,
+    "ru": "Я не понимаю его",
+    "en": "I don't understand him"
+  },
+  {
+    "_id": 85,
+    "ru": "Я не пью кофе",
+    "en": "I don't drink coffee"
+  },
+  {
+    "_id": 86,
+    "ru": "Они не говорят это",
+    "en": "They don’t say it"
+  },
+  {
+    "_id": 87,
+    "ru": "Я не хочу платить",
+    "en": "I don't want to pay"
+  },
+  {
+    "_id": 88,
+    "ru": "У нас нет свободного времени",
+    "en": "We don't have free time"
+  },
+  {
+    "_id": 89,
+    "ru": "У них нет денег",
+    "en": "They don't have money"
+  },
+  {
+    "_id": 90,
+    "ru": "Я не хочу говорить о политике",
+    "en": "I don't want to talk about politics"
+  },
+  {
+    "_id": 91,
+    "ru": "Мы часто разговариваем об этом",
+    "en": "We often talk about it"
+  },
+  {
+    "_id": 92,
+    "ru": "Я не понимаю их",
+    "en": "I don't understand them"
+  },
+  {
+    "_id": 93,
+    "ru": "Мне не нравится эта музыка",
+    "en": "I don't like this music"
+  },
+  {
+    "_id": 94,
+    "ru": "Им не нравится эта игра",
+    "en": "They don't like this game"
+  },
+  {
+    "_id": 95,
+    "ru": "Я не хочу быть бизнесменом",
+    "en": "I don't want to be a businessman"
+  }
 ]

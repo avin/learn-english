@@ -1,86 +1,107 @@
 [
-  [
-    "Я думаю, это может случиться с каждым из нас",
-    "I think it can happen to each of us"
-  ],
-  [
-    "Им следует принять более решительные меры",
-    "They ought to take more decisive measures"
-  ],
-  [
-    "Он, возможно, согласится сделать это",
-    "He might agree to do it"
-  ],
-  [
-    "Я мог потратить весь день на это",
-    "I could spend all day on it"
-  ],
-  [
-    "Ты умеешь говорить по-английски?",
-    "Can you speak English?"
-  ],
-  [
-    "Я не смогу прийти так рано",
-    "I won't be able to come so early"
-  ],
-  [
-    "Ты можешь помочь мне?",
-    "Can you help me?"
-  ],
-  [
-    "Я не могу вспомнить это",
-    "I can't remember it"
-  ],
-  [
-    "Я думаю, тебе следует сказать ему об этом",
-    "I think you should tell him about it"
-  ],
-  [
-    "Мы не можем отрицать этот факт",
-    "We can't deny this fact"
-  ],
-  [
-    "Я понимаю, что я должен делать это на регулярной основе",
-    "I understand that I must do it on a regular basis"
-  ],
-  [
-    "Не могли бы вы мне помочь, пожалуйста?",
-    "Could you help me, please?"
-  ],
-  [
-    "Я уверен, что смогу это сделать",
-    "I'm sure that I'll be able to do it"
-  ],
-  [
-    "Это, возможно, произойдет довольно скоро",
-    "It may happen quite soon"
-  ],
-  [
-    "Я бы сказал это сейчас",
-    "I would say it now"
-  ],
-  [
-    "Я думаю, он мог бы помочь нам сейчас",
-    "I think he could help us now"
-  ],
-  [
-    "Я уверен, что смогу выучить английский рано или поздно",
-    "I'm sure that I'll be able to learn English sooner or later"
-  ],
-  [
-    "Не могли бы вы помочь мне?",
-    "Could you help me?"
-  ],
-  [
-    "Я думаю, ему следует думать об этом более серьезно",
-    "I think he should think about it more seriously"
-  ],
-  [
-    "Я должен вставать так рано из-за своей работы",
-    "I have to get up so early because of my work"
-  ],
-  [
-    "Ты думаешь, мне следует сделать это прямо сейчас?",
-    "Do you think I should do it right now?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я думаю, это может случиться с каждым из нас",
+    "en": "I think it can happen to each of us"
+  },
+  {
+    "_id": 2,
+    "ru": "Им следует принять более решительные меры",
+    "en": "They ought to take more decisive measures"
+  },
+  {
+    "_id": 3,
+    "ru": "Он, возможно, согласится сделать это",
+    "en": "He might agree to do it"
+  },
+  {
+    "_id": 4,
+    "ru": "Я мог потратить весь день на это",
+    "en": "I could spend all day on it"
+  },
+  {
+    "_id": 5,
+    "ru": "Ты умеешь говорить по-английски?",
+    "en": "Can you speak English?"
+  },
+  {
+    "_id": 6,
+    "ru": "Я не смогу прийти так рано",
+    "en": "I won't be able to come so early"
+  },
+  {
+    "_id": 7,
+    "ru": "Ты можешь помочь мне?",
+    "en": "Can you help me?"
+  },
+  {
+    "_id": 8,
+    "ru": "Я не могу вспомнить это",
+    "en": "I can't remember it"
+  },
+  {
+    "_id": 9,
+    "ru": "Я думаю, тебе следует сказать ему об этом",
+    "en": "I think you should tell him about it"
+  },
+  {
+    "_id": 10,
+    "ru": "Мы не можем отрицать этот факт",
+    "en": "We can't deny this fact"
+  },
+  {
+    "_id": 11,
+    "ru": "Я понимаю, что я должен делать это на регулярной основе",
+    "en": "I understand that I must do it on a regular basis"
+  },
+  {
+    "_id": 12,
+    "ru": "Не могли бы вы мне помочь, пожалуйста?",
+    "en": "Could you help me, please?"
+  },
+  {
+    "_id": 13,
+    "ru": "Я уверен, что смогу это сделать",
+    "en": "I'm sure that I'll be able to do it"
+  },
+  {
+    "_id": 14,
+    "ru": "Это, возможно, произойдет довольно скоро",
+    "en": "It may happen quite soon"
+  },
+  {
+    "_id": 15,
+    "ru": "Я бы сказал это сейчас",
+    "en": "I would say it now"
+  },
+  {
+    "_id": 16,
+    "ru": "Я думаю, он мог бы помочь нам сейчас",
+    "en": "I think he could help us now"
+  },
+  {
+    "_id": 17,
+    "ru": "Я уверен, что смогу выучить английский рано или поздно",
+    "en": "I'm sure that I'll be able to learn English sooner or later"
+  },
+  {
+    "_id": 18,
+    "ru": "Не могли бы вы помочь мне?",
+    "en": "Could you help me?"
+  },
+  {
+    "_id": 19,
+    "ru": "Я думаю, ему следует думать об этом более серьезно",
+    "en": "I think he should think about it more seriously"
+  },
+  {
+    "_id": 20,
+    "ru": "Я должен вставать так рано из-за своей работы",
+    "en": "I have to get up so early because of my work"
+  },
+  {
+    "_id": 21,
+    "ru": "Ты думаешь, мне следует сделать это прямо сейчас?",
+    "en": "Do you think I should do it right now?"
+  }
 ]

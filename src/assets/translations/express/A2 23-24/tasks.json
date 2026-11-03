@@ -1,98 +1,122 @@
 [
-  [
-    "Что вы мне посоветуете делать в такой ситуации?",
-    "What will you advise me to do in such a situation?"
-  ],
-  [
-    "Девушка так красиво рисует",
-    "The girl draws so beautifully"
-  ],
-  [
-    "Мальчик ударил ногой по мячу",
-    "The boy kicked the ball"
-  ],
-  [
-    "Я не знаю, что делать сейчас",
-    "I don't know what to do now"
-  ],
-  [
-    "Они строили дом очень медленно",
-    "They were building a house very slowly"
-  ],
-  [
-    "Кто-то ударил в дверь очень сильно",
-    "Someone hit the door very badly"
-  ],
-  [
-    "Я никогда не мечтал об этом",
-    "I have never dreamt about it"
-  ],
-  [
-    "Он сказал, что продал свою машину",
-    "He said that he had sold his car"
-  ],
-  [
-    "Ты всегда можешь рассчитывать на мою поддержку",
-    "You can always count on my support"
-  ],
-  [
-    "Я полагаю, что достигну следующего уровня довольно скоро",
-    "I suppose that I'll reach the next level quite soon"
-  ],
-  [
-    "Я всегда хотел здесь жить",
-    "I have always wanted to live here"
-  ],
-  [
-    "Я никогда не мечтал об этом, когда был ребенком",
-    "I never dreamt about it when I was a child"
-  ],
-  [
-    "Он еще не ответил на мое сообщение",
-    "He hasn't replied to my message yet"
-  ],
-  [
-    "Ты можешь рассчитывать на мою поддержку",
-    "You can count on my support"
-  ],
-  [
-    "Я только что говорил по-английски",
-    "I've just spoken English"
-  ],
-  [
-    "Он говорит, что он всегда обожал путешествовать",
-    "He says that he's always enjoyed travelling"
-  ],
-  [
-    "Он сказал мне, что она порекомендовала ему эту программу",
-    "He told me that she had recommended this program to him"
-  ],
-  [
-    "Он решил стать профессиональным музыкантом",
-    "He decided to become a professional musician"
-  ],
-  [
-    "Я только что пришел домой",
-    "I've just come home"
-  ],
-  [
-    "Урок уже начался",
-    "The lesson has already begun"
-  ],
-  [
-    "Послушай! Кто-то бьет в дверь",
-    "Listen! Someone is hitting the door"
-  ],
-  [
-    "Он порекомендовал мне это видео",
-    "He recommended this video to me"
-  ],
-  [
-    "Он сказал, что выразил свою личную точку зрения",
-    "He said that he has expressed his personal point of view"
-  ],
-  [
-    "Мы часто обменивались своими идеями",
-    "We often exchanged our ideas"
-  ]
+  {
+    "_id": 1,
+    "ru": "Что вы мне посоветуете делать в такой ситуации?",
+    "en": "What will you advise me to do in such a situation?"
+  },
+  {
+    "_id": 2,
+    "ru": "Девушка так красиво рисует",
+    "en": "The girl draws so beautifully"
+  },
+  {
+    "_id": 3,
+    "ru": "Мальчик ударил ногой по мячу",
+    "en": "The boy kicked the ball"
+  },
+  {
+    "_id": 4,
+    "ru": "Я не знаю, что делать сейчас",
+    "en": "I don't know what to do now"
+  },
+  {
+    "_id": 5,
+    "ru": "Они строили дом очень медленно",
+    "en": "They were building a house very slowly"
+  },
+  {
+    "_id": 6,
+    "ru": "Кто-то ударил в дверь очень сильно",
+    "en": "Someone hit the door very badly"
+  },
+  {
+    "_id": 7,
+    "ru": "Я никогда не мечтал об этом",
+    "en": "I have never dreamt about it"
+  },
+  {
+    "_id": 8,
+    "ru": "Он сказал, что продал свою машину",
+    "en": "He said that he had sold his car"
+  },
+  {
+    "_id": 9,
+    "ru": "Ты всегда можешь рассчитывать на мою поддержку",
+    "en": "You can always count on my support"
+  },
+  {
+    "_id": 10,
+    "ru": "Я полагаю, что достигну следующего уровня довольно скоро",
+    "en": "I suppose that I'll reach the next level quite soon"
+  },
+  {
+    "_id": 11,
+    "ru": "Я всегда хотел здесь жить",
+    "en": "I have always wanted to live here"
+  },
+  {
+    "_id": 12,
+    "ru": "Я никогда не мечтал об этом, когда был ребенком",
+    "en": "I never dreamt about it when I was a child"
+  },
+  {
+    "_id": 13,
+    "ru": "Он еще не ответил на мое сообщение",
+    "en": "He hasn't replied to my message yet"
+  },
+  {
+    "_id": 14,
+    "ru": "Ты можешь рассчитывать на мою поддержку",
+    "en": "You can count on my support"
+  },
+  {
+    "_id": 15,
+    "ru": "Я только что говорил по-английски",
+    "en": "I've just spoken English"
+  },
+  {
+    "_id": 16,
+    "ru": "Он говорит, что он всегда обожал путешествовать",
+    "en": "He says that he's always enjoyed travelling"
+  },
+  {
+    "_id": 17,
+    "ru": "Он сказал мне, что она порекомендовала ему эту программу",
+    "en": "He told me that she had recommended this program to him"
+  },
+  {
+    "_id": 18,
+    "ru": "Он решил стать профессиональным музыкантом",
+    "en": "He decided to become a professional musician"
+  },
+  {
+    "_id": 19,
+    "ru": "Я только что пришел домой",
+    "en": "I've just come home"
+  },
+  {
+    "_id": 20,
+    "ru": "Урок уже начался",
+    "en": "The lesson has already begun"
+  },
+  {
+    "_id": 21,
+    "ru": "Послушай! Кто-то бьет в дверь",
+    "en": "Listen! Someone is hitting the door"
+  },
+  {
+    "_id": 22,
+    "ru": "Он порекомендовал мне это видео",
+    "en": "He recommended this video to me"
+  },
+  {
+    "_id": 23,
+    "ru": "Он сказал, что выразил свою личную точку зрения",
+    "en": "He said that he has expressed his personal point of view"
+  },
+  {
+    "_id": 24,
+    "ru": "Мы часто обменивались своими идеями",
+    "en": "We often exchanged our ideas"
+  }
 ]

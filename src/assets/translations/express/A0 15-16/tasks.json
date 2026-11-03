@@ -1,174 +1,217 @@
 [
-  [
-    "Это так легко для меня",
-    "It's so easy for me"
-  ],
-  [
-    "Я сейчас не занят. Я свободен",
-    "I'm not busy now. I'm free"
-  ],
-  [
-    "Это место такое красивое",
-    "This place is so beautiful"
-  ],
-  [
-    "Я сейчас не на работе. Я дома",
-    "I'm not at work now. I'm at home"
-  ],
-  [
-    "Это не проблема для меня",
-    "It isn't a problem for me"
-  ],
-  [
-    "Мы не заняты",
-    "We aren't busy"
-  ],
-  [
-    "Я женат",
-    "I'm married"
-  ],
-  [
-    "Это не интересно мне",
-    "It isn't interesting for me"
-  ],
-  [
-    "Я вижу, что ты не уверен",
-    "I see that you aren't sure"
-  ],
-  [
-    "Он не врач. Он учитель",
-    "He isn't a doctor. He's a teacher"
-  ],
-  [
-    "Этот урок очень полезный",
-    "This lesson is very useful"
-  ],
-  [
-    "Он не прав",
-    "He isn't right"
-  ],
-  [
-    "Моя мама - врач",
-    "My mother is a doctor"
-  ],
-  [
-    "Я думаю, что ты не прав",
-    "I think that you aren't right"
-  ],
-  [
-    "Они не бедные. Они очень богатые",
-    "They aren't poor. They're very rich"
-  ],
-  [
-    "Это не интересно",
-    "It isn't interesting"
-  ],
-  [
-    "Я не женат",
-    "Я не замужем"
-  ],
-  [
-    "Мой отец - менеджер",
-    "My father is a manager"
-  ],
-  [
-    "Этот отель очень хороший",
-    "This hotel is very good"
-  ],
-  [
-    "Это не интересно. Это так скучно",
-    "It isn't interesting. It's so boring"
-  ],
-  [
-    "Это не плохо",
-    "It isn't bad"
-  ],
-  [
-    "Это не ошибка",
-    "It isn't a mistake"
-  ],
-  [
-    "Это не дорого. Это очень дешево",
-    "It isn't expensive. It's very cheap"
-  ],
-  [
-    "Это действительно сложно",
-    "It's really difficult"
-  ],
-  [
-    "Они сейчас не вместе",
-    "They aren't together now"
-  ],
-  [
-    "Это не легко. Это очень трудно",
-    "It isn't easy. It's very difficult"
-  ],
-  [
-    "Он не бедный. Он очень богатый",
-    "He isn't poor. He's very rich"
-  ],
-  [
-    "Это слишком сложно для меня",
-    "It's too difficult for me"
-  ],
-  [
-    "Мой брат - студент",
-    "My brother is a student"
-  ],
-  [
-    "Я холост",
-    "I'm single"
-  ],
-  [
-    "Она не дизайнер. Она медсестра",
-    "She isn't a designer. She's a nurse"
-  ],
-  [
-    "Это не важно",
-    "It isn't important"
-  ],
-  [
-    "Они не в городе",
-    "They aren't in the city"
-  ],
-  [
-    "Это не сложно. Это очень просто",
-    "It isn't difficult. It's so easy"
-  ],
-  [
-    "Это не интересно. Это очень скучно",
-    "It isn't interesting. It's very boring"
-  ],
-  [
-    "Он не старый. Он очень молод",
-    "He isn't old. He's very young"
-  ],
-  [
-    "Мы не в парке сейчас",
-    "We aren't in the park now"
-  ],
-  [
-    "Он не женат. Он холост",
-    "He isn't married. He's single"
-  ],
-  [
-    "Она не уверена в этом",
-    "She isn't sure about it"
-  ],
-  [
-    "Я не дома",
-    "I'm not at home"
-  ],
-  [
-    "Я не уверен в этом",
-    "I'm not sure about it"
-  ],
-  [
-    "Это видео очень смешное",
-    "This video is very funny"
-  ],
-  [
-    "Я замужем",
-    "I'm married"
-  ]
+  {
+    "_id": 1,
+    "ru": "Это так легко для меня",
+    "en": "It's so easy for me"
+  },
+  {
+    "_id": 2,
+    "ru": "Я сейчас не занят. Я свободен",
+    "en": "I'm not busy now. I'm free"
+  },
+  {
+    "_id": 3,
+    "ru": "Это место такое красивое",
+    "en": "This place is so beautiful"
+  },
+  {
+    "_id": 4,
+    "ru": "Я сейчас не на работе. Я дома",
+    "en": "I'm not at work now. I'm at home"
+  },
+  {
+    "_id": 5,
+    "ru": "Это не проблема для меня",
+    "en": "It isn't a problem for me"
+  },
+  {
+    "_id": 6,
+    "ru": "Мы не заняты",
+    "en": "We aren't busy"
+  },
+  {
+    "_id": 7,
+    "ru": "Я женат",
+    "en": "I'm married"
+  },
+  {
+    "_id": 8,
+    "ru": "Это не интересно мне",
+    "en": "It isn't interesting for me"
+  },
+  {
+    "_id": 9,
+    "ru": "Я вижу, что ты не уверен",
+    "en": "I see that you aren't sure"
+  },
+  {
+    "_id": 10,
+    "ru": "Он не врач. Он учитель",
+    "en": "He isn't a doctor. He's a teacher"
+  },
+  {
+    "_id": 11,
+    "ru": "Этот урок очень полезный",
+    "en": "This lesson is very useful"
+  },
+  {
+    "_id": 12,
+    "ru": "Он не прав",
+    "en": "He isn't right"
+  },
+  {
+    "_id": 13,
+    "ru": "Моя мама - врач",
+    "en": "My mother is a doctor"
+  },
+  {
+    "_id": 14,
+    "ru": "Я думаю, что ты не прав",
+    "en": "I think that you aren't right"
+  },
+  {
+    "_id": 15,
+    "ru": "Они не бедные. Они очень богатые",
+    "en": "They aren't poor. They're very rich"
+  },
+  {
+    "_id": 16,
+    "ru": "Это не интересно",
+    "en": "It isn't interesting"
+  },
+  {
+    "_id": 17,
+    "ru": "Я не женат",
+    "en": "Я не замужем"
+  },
+  {
+    "_id": 18,
+    "ru": "Мой отец - менеджер",
+    "en": "My father is a manager"
+  },
+  {
+    "_id": 19,
+    "ru": "Этот отель очень хороший",
+    "en": "This hotel is very good"
+  },
+  {
+    "_id": 20,
+    "ru": "Это не интересно. Это так скучно",
+    "en": "It isn't interesting. It's so boring"
+  },
+  {
+    "_id": 21,
+    "ru": "Это не плохо",
+    "en": "It isn't bad"
+  },
+  {
+    "_id": 22,
+    "ru": "Это не ошибка",
+    "en": "It isn't a mistake"
+  },
+  {
+    "_id": 23,
+    "ru": "Это не дорого. Это очень дешево",
+    "en": "It isn't expensive. It's very cheap"
+  },
+  {
+    "_id": 24,
+    "ru": "Это действительно сложно",
+    "en": "It's really difficult"
+  },
+  {
+    "_id": 25,
+    "ru": "Они сейчас не вместе",
+    "en": "They aren't together now"
+  },
+  {
+    "_id": 26,
+    "ru": "Это не легко. Это очень трудно",
+    "en": "It isn't easy. It's very difficult"
+  },
+  {
+    "_id": 27,
+    "ru": "Он не бедный. Он очень богатый",
+    "en": "He isn't poor. He's very rich"
+  },
+  {
+    "_id": 28,
+    "ru": "Это слишком сложно для меня",
+    "en": "It's too difficult for me"
+  },
+  {
+    "_id": 29,
+    "ru": "Мой брат - студент",
+    "en": "My brother is a student"
+  },
+  {
+    "_id": 30,
+    "ru": "Я холост",
+    "en": "I'm single"
+  },
+  {
+    "_id": 31,
+    "ru": "Она не дизайнер. Она медсестра",
+    "en": "She isn't a designer. She's a nurse"
+  },
+  {
+    "_id": 32,
+    "ru": "Это не важно",
+    "en": "It isn't important"
+  },
+  {
+    "_id": 33,
+    "ru": "Они не в городе",
+    "en": "They aren't in the city"
+  },
+  {
+    "_id": 34,
+    "ru": "Это не сложно. Это очень просто",
+    "en": "It isn't difficult. It's so easy"
+  },
+  {
+    "_id": 35,
+    "ru": "Это не интересно. Это очень скучно",
+    "en": "It isn't interesting. It's very boring"
+  },
+  {
+    "_id": 36,
+    "ru": "Он не старый. Он очень молод",
+    "en": "He isn't old. He's very young"
+  },
+  {
+    "_id": 37,
+    "ru": "Мы не в парке сейчас",
+    "en": "We aren't in the park now"
+  },
+  {
+    "_id": 38,
+    "ru": "Он не женат. Он холост",
+    "en": "He isn't married. He's single"
+  },
+  {
+    "_id": 39,
+    "ru": "Она не уверена в этом",
+    "en": "She isn't sure about it"
+  },
+  {
+    "_id": 40,
+    "ru": "Я не дома",
+    "en": "I'm not at home"
+  },
+  {
+    "_id": 41,
+    "ru": "Я не уверен в этом",
+    "en": "I'm not sure about it"
+  },
+  {
+    "_id": 42,
+    "ru": "Это видео очень смешное",
+    "en": "This video is very funny"
+  },
+  {
+    "_id": 43,
+    "ru": "Я замужем",
+    "en": "I'm married"
+  }
 ]

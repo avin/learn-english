@@ -1,434 +1,542 @@
 [
-  [
-    "Что шокирует тебя?",
-    "What shocks you?"
-  ],
-  [
-    "Кто поддерживает его?",
-    "Who supports him?"
-  ],
-  [
-    "Что ты знаешь об этом?",
-    "What do you know about it?"
-  ],
-  [
-    "Что он читает каждый день?",
-    "What does he read every day?"
-  ],
-  [
-    "Кого ты поддерживаешь?",
-    "Who do you support?"
-  ],
-  [
-    "Кого он больше любит?",
-    "Who does he love more?"
-  ],
-  [
-    "Что это?",
-    "What is it?"
-  ],
-  [
-    "Кто здесь?",
-    "Who is here?"
-  ],
-  [
-    "Который твой дом?",
-    "Which is your house?"
-  ],
-  [
-    "Что тебе больше помогает?",
-    "What helps you more?"
-  ],
-  [
-    "Что беспокоит тебя?",
-    "What worries you?"
-  ],
-  [
-    "Что его больше интересует?",
-    "What interests him more?"
-  ],
-  [
-    "Кто тебе рассказывает эту вещь?",
-    "Who tells you this thing?"
-  ],
-  [
-    "Что там такого шокирующего?",
-    "What is so shocking there?"
-  ],
-  [
-    "Какие видео тебе нравятся больше?",
-    "What videos do you like more?"
-  ],
-  [
-    "Что тебя больше всего пугает?",
-    "What frightens you most of all?"
-  ],
-  [
-    "Что тебя больше мотивирует?",
-    "What motivates you more?"
-  ],
-  [
-    "Кто ходит туда с тобой?",
-    "Who goes there with you?"
-  ],
-  [
-    "Что кажется таким удивительным?",
-    "What seems so surprising?"
-  ],
-  [
-    "Кто так думает?",
-    "Who thinks so?"
-  ],
-  [
-    "Что действительно помогает тебе?",
-    "What really helps you?"
-  ],
-  [
-    "Кто ему верит?",
-    "Who believes him?"
-  ],
-  [
-    "Кто продает этот дом?",
-    "Who sells this house?"
-  ],
-  [
-    "Что тебя пугает?",
-    "What frightens you?"
-  ],
-  [
-    "Кто его поддерживает?",
-    "Who supports him?"
-  ],
-  [
-    "Кому это нужно?",
-    "Who needs it?"
-  ],
-  [
-    "Кому это нравится?",
-    "Who likes it?"
-  ],
-  [
-    "Что тебя шокирует?",
-    "What shocks you?"
-  ],
-  [
-    "Кто знает ее?",
-    "Who knows her?"
-  ],
-  [
-    "Кто знает?",
-    "Who knows?"
-  ],
-  [
-    "Что работает лучше?",
-    "What works better?"
-  ],
-  [
-    "Что он ест?",
-    "What does he eat?"
-  ],
-  [
-    "Что ты понимаешь?",
-    "What do you understand?"
-  ],
-  [
-    "Кому ты веришь?",
-    "Who do you believe?"
-  ],
-  [
-    "Что тебя удивляет?",
-    "What surprises you?"
-  ],
-  [
-    "Что так удивительно?",
-    "What is so surprising?"
-  ],
-  [
-    "Что делает тебя счастливым?",
-    "What makes you happy?"
-  ],
-  [
-    "Кто говорит это?",
-    "Who says it?"
-  ],
-  [
-    "Кто ест больше?",
-    "Who eats more?"
-  ],
-  [
-    "Что ты слышишь?",
-    "What do you hear?"
-  ],
-  [
-    "Кто еще знает это?",
-    "Who else knows it?"
-  ],
-  [
-    "Что останавливает тебя?",
-    "What stops you?"
-  ],
-  [
-    "Что интересует тебя?",
-    "What interests you?"
-  ],
-  [
-    "Что здесь такого удивительного?",
-    "What is so surprising here?"
-  ],
-  [
-    "Кого он поддерживает?",
-    "Who does he support?"
-  ],
-  [
-    "Кто знает это?",
-    "Who knows it?"
-  ],
-  [
-    "Какое место тебе больше нравится?",
-    "Which place do you like more?"
-  ],
-  [
-    "Что кажется таким шокирующим?",
-    "What seems so shocking?"
-  ],
-  [
-    "Чьи вещи выглядят более модными?",
-    "Whose clothes look more fashionable?"
-  ],
-  [
-    "Что обычно привлекает твое внимание?",
-    "What usually attracts your attention?"
-  ],
-  [
-    "Что зависит от тебя?",
-    "What depends on you?"
-  ],
-  [
-    "Какая юбка выглядит более стильной?",
-    "Which skirt looks more stylish?"
-  ],
-  [
-    "Чье описание более точное?",
-    "Whose description is more accurate?"
-  ],
-  [
-    "Кто обычно звонит тебе после работы?",
-    "Who usually calls you after work?"
-  ],
-  [
-    "Что помогает тебе с твоим английским?",
-    "What helps you with your English?"
-  ],
-  [
-    "Какое предложение выглядит более привлекательным?",
-    "Which offer looks more attractive?"
-  ],
-  [
-    "Какой отель кажется лучше?",
-    "Which hotel seems better?"
-  ],
-  [
-    "Чей велосипед дороже?",
-    "Whose bike is more expensive?"
-  ],
-  [
-    "Какие вещи его интересуют?",
-    "What things interest him?"
-  ],
-  [
-    "Что ты ожидаешь от него?",
-    "What do you expect from him?"
-  ],
-  [
-    "Какое предложение более привлекательное?",
-    "Which offer is more attractive?"
-  ],
-  [
-    "Что звучит лучше?",
-    "What sounds better?"
-  ],
-  [
-    "Какое место кажется более красивым?",
-    "Which place seems more beautiful?"
-  ],
-  [
-    "Кого ты посещаешь каждые выходные?",
-    "Who do you visit every weekend?"
-  ],
-  [
-    "Что кажется дороже?",
-    "What seems more expensive?"
-  ],
-  [
-    "Что кажется дешевле?",
-    "What seems cheaper?"
-  ],
-  [
-    "Что кажется самым дорогим?",
-    "What seems the most expensive?"
-  ],
-  [
-    "Какое описание выглядит более точным?",
-    "Which description looks more accurate?"
-  ],
-  [
-    "Какое описание кажется более точным?",
-    "Which description seems more accurate?"
-  ],
-  [
-    "Какие описания выглядят более точными?",
-    "Which descriptions look more accurate?"
-  ],
-  [
-    "Что мотивирует тебя лучше?",
-    "What motivates you better?"
-  ],
-  [
-    "Кто мотивирует тебя?",
-    "Who motivates you?"
-  ],
-  [
-    "Кто мотивирует тебя лучше?",
-    "Who motivates you better?"
-  ],
-  [
-    "Чей велосипед стоит больше?",
-    "Whose bike costs more?"
-  ],
-  [
-    "Какой велосипед стоит дороже?",
-    "Which bike costs more?"
-  ],
-  [
-    "Что делает людей счастливыми?",
-    "What makes people happy?"
-  ],
-  [
-    "Что делает их счастливыми?",
-    "What makes them happy?"
-  ],
-  [
-    "Кто делает тебя счастливым?",
-    "Who makes you happy?"
-  ],
-  [
-    "Кому ты помогаешь с английским?",
-    "Who do you help with English?"
-  ],
-  [
-    "Кому он помогает с английским?",
-    "Who does he help with English?"
-  ],
-  [
-    "Кто помогает тебе с английским?",
-    "Who helps you with English?"
-  ],
-  [
-    "Какая песня более популярна?",
-    "Which song is more popular?"
-  ],
-  [
-    "Чья песня популярнее?",
-    "Whose song is more popular?"
-  ],
-  [
-    "Какая песня самая популярная?",
-    "Which song is the most popular?"
-  ],
-  [
-    "Кому ты обычно звонишь после работы?",
-    "Who do you usually call after work?"
-  ],
-  [
-    "Кому он обычно звонит после работы?",
-    "Who does he usually call after work?"
-  ],
-  [
-    "Кому ты обычно звонишь перед работой?",
-    "Who do you usually call before work?"
-  ],
-  [
-    "Какое твое окончательное решение?",
-    "What is your final decision?"
-  ],
-  [
-    "Какое наше окончательное решение?",
-    "What is our final decision?"
-  ],
-  [
-    "Какое верное решение?",
-    "What is the right decision?"
-  ],
-  [
-    "Какое место привлекает тебя больше?",
-    "Which place attracts you more?"
-  ],
-  [
-    "Какие места привлекают тебя больше?",
-    "Which places attract you more?"
-  ],
-  [
-    "Какие вещи привлекают тебя больше?",
-    "Which things attract you more?"
-  ],
-  [
-    "Какие уроки длятся дольше?",
-    "Which lessons last longer?"
-  ],
-  [
-    "Кто посещает тебя каждые выходные?",
-    "Who visits you every weekend?"
-  ],
-  [
-    "Кто понимает, что делать?",
-    "Who understands what to do?"
-  ],
-  [
-    "Что выглядит более стильным?",
-    "What looks more stylish?"
-  ],
-  [
-    "Чьи описания кажутся менее точными?",
-    "Whose descriptions seem less accurate?"
-  ],
-  [
-    "Что кажется сложнее?",
-    "What seems more difficult?"
-  ],
-  [
-    "Какой ответ правильный?",
-    "Which answer is correct?"
-  ],
-  [
-    "Что такого привлекательного в этом месте?",
-    "What is so attractive in this place?"
-  ],
-  [
-    "Что принадлежит ему?",
-    "What belongs to him?"
-  ],
-  [
-    "Чья идея правильная?",
-    "Whose idea is right?"
-  ],
-  [
-    "Что привлекает внимание людей?",
-    "What attracts people's attention?"
-  ],
-  [
-    "Какой ответ кажется правильным?",
-    "Which answer seems correct?"
-  ],
-  [
-    "Что выглядит более модным?",
-    "What looks more fashionable?"
-  ],
-  [
-    "Какое описание является более точным?",
-    "Which description is more accurate?"
-  ],
-  [
-    "Какие вещи интересуют тебя?",
-    "What things interest you?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Что шокирует тебя?",
+    "en": "What shocks you?"
+  },
+  {
+    "_id": 2,
+    "ru": "Кто поддерживает его?",
+    "en": "Who supports him?"
+  },
+  {
+    "_id": 3,
+    "ru": "Что ты знаешь об этом?",
+    "en": "What do you know about it?"
+  },
+  {
+    "_id": 4,
+    "ru": "Что он читает каждый день?",
+    "en": "What does he read every day?"
+  },
+  {
+    "_id": 5,
+    "ru": "Кого ты поддерживаешь?",
+    "en": "Who do you support?"
+  },
+  {
+    "_id": 6,
+    "ru": "Кого он больше любит?",
+    "en": "Who does he love more?"
+  },
+  {
+    "_id": 7,
+    "ru": "Что это?",
+    "en": "What is it?"
+  },
+  {
+    "_id": 8,
+    "ru": "Кто здесь?",
+    "en": "Who is here?"
+  },
+  {
+    "_id": 9,
+    "ru": "Который твой дом?",
+    "en": "Which is your house?"
+  },
+  {
+    "_id": 10,
+    "ru": "Что тебе больше помогает?",
+    "en": "What helps you more?"
+  },
+  {
+    "_id": 11,
+    "ru": "Что беспокоит тебя?",
+    "en": "What worries you?"
+  },
+  {
+    "_id": 12,
+    "ru": "Что его больше интересует?",
+    "en": "What interests him more?"
+  },
+  {
+    "_id": 13,
+    "ru": "Кто тебе рассказывает эту вещь?",
+    "en": "Who tells you this thing?"
+  },
+  {
+    "_id": 14,
+    "ru": "Что там такого шокирующего?",
+    "en": "What is so shocking there?"
+  },
+  {
+    "_id": 15,
+    "ru": "Какие видео тебе нравятся больше?",
+    "en": "What videos do you like more?"
+  },
+  {
+    "_id": 16,
+    "ru": "Что тебя больше всего пугает?",
+    "en": "What frightens you most of all?"
+  },
+  {
+    "_id": 17,
+    "ru": "Что тебя больше мотивирует?",
+    "en": "What motivates you more?"
+  },
+  {
+    "_id": 18,
+    "ru": "Кто ходит туда с тобой?",
+    "en": "Who goes there with you?"
+  },
+  {
+    "_id": 19,
+    "ru": "Что кажется таким удивительным?",
+    "en": "What seems so surprising?"
+  },
+  {
+    "_id": 20,
+    "ru": "Кто так думает?",
+    "en": "Who thinks so?"
+  },
+  {
+    "_id": 21,
+    "ru": "Что действительно помогает тебе?",
+    "en": "What really helps you?"
+  },
+  {
+    "_id": 22,
+    "ru": "Кто ему верит?",
+    "en": "Who believes him?"
+  },
+  {
+    "_id": 23,
+    "ru": "Кто продает этот дом?",
+    "en": "Who sells this house?"
+  },
+  {
+    "_id": 24,
+    "ru": "Что тебя пугает?",
+    "en": "What frightens you?"
+  },
+  {
+    "_id": 25,
+    "ru": "Кто его поддерживает?",
+    "en": "Who supports him?"
+  },
+  {
+    "_id": 26,
+    "ru": "Кому это нужно?",
+    "en": "Who needs it?"
+  },
+  {
+    "_id": 27,
+    "ru": "Кому это нравится?",
+    "en": "Who likes it?"
+  },
+  {
+    "_id": 28,
+    "ru": "Что тебя шокирует?",
+    "en": "What shocks you?"
+  },
+  {
+    "_id": 29,
+    "ru": "Кто знает ее?",
+    "en": "Who knows her?"
+  },
+  {
+    "_id": 30,
+    "ru": "Кто знает?",
+    "en": "Who knows?"
+  },
+  {
+    "_id": 31,
+    "ru": "Что работает лучше?",
+    "en": "What works better?"
+  },
+  {
+    "_id": 32,
+    "ru": "Что он ест?",
+    "en": "What does he eat?"
+  },
+  {
+    "_id": 33,
+    "ru": "Что ты понимаешь?",
+    "en": "What do you understand?"
+  },
+  {
+    "_id": 34,
+    "ru": "Кому ты веришь?",
+    "en": "Who do you believe?"
+  },
+  {
+    "_id": 35,
+    "ru": "Что тебя удивляет?",
+    "en": "What surprises you?"
+  },
+  {
+    "_id": 36,
+    "ru": "Что так удивительно?",
+    "en": "What is so surprising?"
+  },
+  {
+    "_id": 37,
+    "ru": "Что делает тебя счастливым?",
+    "en": "What makes you happy?"
+  },
+  {
+    "_id": 38,
+    "ru": "Кто говорит это?",
+    "en": "Who says it?"
+  },
+  {
+    "_id": 39,
+    "ru": "Кто ест больше?",
+    "en": "Who eats more?"
+  },
+  {
+    "_id": 40,
+    "ru": "Что ты слышишь?",
+    "en": "What do you hear?"
+  },
+  {
+    "_id": 41,
+    "ru": "Кто еще знает это?",
+    "en": "Who else knows it?"
+  },
+  {
+    "_id": 42,
+    "ru": "Что останавливает тебя?",
+    "en": "What stops you?"
+  },
+  {
+    "_id": 43,
+    "ru": "Что интересует тебя?",
+    "en": "What interests you?"
+  },
+  {
+    "_id": 44,
+    "ru": "Что здесь такого удивительного?",
+    "en": "What is so surprising here?"
+  },
+  {
+    "_id": 45,
+    "ru": "Кого он поддерживает?",
+    "en": "Who does he support?"
+  },
+  {
+    "_id": 46,
+    "ru": "Кто знает это?",
+    "en": "Who knows it?"
+  },
+  {
+    "_id": 47,
+    "ru": "Какое место тебе больше нравится?",
+    "en": "Which place do you like more?"
+  },
+  {
+    "_id": 48,
+    "ru": "Что кажется таким шокирующим?",
+    "en": "What seems so shocking?"
+  },
+  {
+    "_id": 49,
+    "ru": "Чьи вещи выглядят более модными?",
+    "en": "Whose clothes look more fashionable?"
+  },
+  {
+    "_id": 50,
+    "ru": "Что обычно привлекает твое внимание?",
+    "en": "What usually attracts your attention?"
+  },
+  {
+    "_id": 51,
+    "ru": "Что зависит от тебя?",
+    "en": "What depends on you?"
+  },
+  {
+    "_id": 52,
+    "ru": "Какая юбка выглядит более стильной?",
+    "en": "Which skirt looks more stylish?"
+  },
+  {
+    "_id": 53,
+    "ru": "Чье описание более точное?",
+    "en": "Whose description is more accurate?"
+  },
+  {
+    "_id": 54,
+    "ru": "Кто обычно звонит тебе после работы?",
+    "en": "Who usually calls you after work?"
+  },
+  {
+    "_id": 55,
+    "ru": "Что помогает тебе с твоим английским?",
+    "en": "What helps you with your English?"
+  },
+  {
+    "_id": 56,
+    "ru": "Какое предложение выглядит более привлекательным?",
+    "en": "Which offer looks more attractive?"
+  },
+  {
+    "_id": 57,
+    "ru": "Какой отель кажется лучше?",
+    "en": "Which hotel seems better?"
+  },
+  {
+    "_id": 58,
+    "ru": "Чей велосипед дороже?",
+    "en": "Whose bike is more expensive?"
+  },
+  {
+    "_id": 59,
+    "ru": "Какие вещи его интересуют?",
+    "en": "What things interest him?"
+  },
+  {
+    "_id": 60,
+    "ru": "Что ты ожидаешь от него?",
+    "en": "What do you expect from him?"
+  },
+  {
+    "_id": 61,
+    "ru": "Какое предложение более привлекательное?",
+    "en": "Which offer is more attractive?"
+  },
+  {
+    "_id": 62,
+    "ru": "Что звучит лучше?",
+    "en": "What sounds better?"
+  },
+  {
+    "_id": 63,
+    "ru": "Какое место кажется более красивым?",
+    "en": "Which place seems more beautiful?"
+  },
+  {
+    "_id": 64,
+    "ru": "Кого ты посещаешь каждые выходные?",
+    "en": "Who do you visit every weekend?"
+  },
+  {
+    "_id": 65,
+    "ru": "Что кажется дороже?",
+    "en": "What seems more expensive?"
+  },
+  {
+    "_id": 66,
+    "ru": "Что кажется дешевле?",
+    "en": "What seems cheaper?"
+  },
+  {
+    "_id": 67,
+    "ru": "Что кажется самым дорогим?",
+    "en": "What seems the most expensive?"
+  },
+  {
+    "_id": 68,
+    "ru": "Какое описание выглядит более точным?",
+    "en": "Which description looks more accurate?"
+  },
+  {
+    "_id": 69,
+    "ru": "Какое описание кажется более точным?",
+    "en": "Which description seems more accurate?"
+  },
+  {
+    "_id": 70,
+    "ru": "Какие описания выглядят более точными?",
+    "en": "Which descriptions look more accurate?"
+  },
+  {
+    "_id": 71,
+    "ru": "Что мотивирует тебя лучше?",
+    "en": "What motivates you better?"
+  },
+  {
+    "_id": 72,
+    "ru": "Кто мотивирует тебя?",
+    "en": "Who motivates you?"
+  },
+  {
+    "_id": 73,
+    "ru": "Кто мотивирует тебя лучше?",
+    "en": "Who motivates you better?"
+  },
+  {
+    "_id": 74,
+    "ru": "Чей велосипед стоит больше?",
+    "en": "Whose bike costs more?"
+  },
+  {
+    "_id": 75,
+    "ru": "Какой велосипед стоит дороже?",
+    "en": "Which bike costs more?"
+  },
+  {
+    "_id": 76,
+    "ru": "Что делает людей счастливыми?",
+    "en": "What makes people happy?"
+  },
+  {
+    "_id": 77,
+    "ru": "Что делает их счастливыми?",
+    "en": "What makes them happy?"
+  },
+  {
+    "_id": 78,
+    "ru": "Кто делает тебя счастливым?",
+    "en": "Who makes you happy?"
+  },
+  {
+    "_id": 79,
+    "ru": "Кому ты помогаешь с английским?",
+    "en": "Who do you help with English?"
+  },
+  {
+    "_id": 80,
+    "ru": "Кому он помогает с английским?",
+    "en": "Who does he help with English?"
+  },
+  {
+    "_id": 81,
+    "ru": "Кто помогает тебе с английским?",
+    "en": "Who helps you with English?"
+  },
+  {
+    "_id": 82,
+    "ru": "Какая песня более популярна?",
+    "en": "Which song is more popular?"
+  },
+  {
+    "_id": 83,
+    "ru": "Чья песня популярнее?",
+    "en": "Whose song is more popular?"
+  },
+  {
+    "_id": 84,
+    "ru": "Какая песня самая популярная?",
+    "en": "Which song is the most popular?"
+  },
+  {
+    "_id": 85,
+    "ru": "Кому ты обычно звонишь после работы?",
+    "en": "Who do you usually call after work?"
+  },
+  {
+    "_id": 86,
+    "ru": "Кому он обычно звонит после работы?",
+    "en": "Who does he usually call after work?"
+  },
+  {
+    "_id": 87,
+    "ru": "Кому ты обычно звонишь перед работой?",
+    "en": "Who do you usually call before work?"
+  },
+  {
+    "_id": 88,
+    "ru": "Какое твое окончательное решение?",
+    "en": "What is your final decision?"
+  },
+  {
+    "_id": 89,
+    "ru": "Какое наше окончательное решение?",
+    "en": "What is our final decision?"
+  },
+  {
+    "_id": 90,
+    "ru": "Какое верное решение?",
+    "en": "What is the right decision?"
+  },
+  {
+    "_id": 91,
+    "ru": "Какое место привлекает тебя больше?",
+    "en": "Which place attracts you more?"
+  },
+  {
+    "_id": 92,
+    "ru": "Какие места привлекают тебя больше?",
+    "en": "Which places attract you more?"
+  },
+  {
+    "_id": 93,
+    "ru": "Какие вещи привлекают тебя больше?",
+    "en": "Which things attract you more?"
+  },
+  {
+    "_id": 94,
+    "ru": "Какие уроки длятся дольше?",
+    "en": "Which lessons last longer?"
+  },
+  {
+    "_id": 95,
+    "ru": "Кто посещает тебя каждые выходные?",
+    "en": "Who visits you every weekend?"
+  },
+  {
+    "_id": 96,
+    "ru": "Кто понимает, что делать?",
+    "en": "Who understands what to do?"
+  },
+  {
+    "_id": 97,
+    "ru": "Что выглядит более стильным?",
+    "en": "What looks more stylish?"
+  },
+  {
+    "_id": 98,
+    "ru": "Чьи описания кажутся менее точными?",
+    "en": "Whose descriptions seem less accurate?"
+  },
+  {
+    "_id": 99,
+    "ru": "Что кажется сложнее?",
+    "en": "What seems more difficult?"
+  },
+  {
+    "_id": 100,
+    "ru": "Какой ответ правильный?",
+    "en": "Which answer is correct?"
+  },
+  {
+    "_id": 101,
+    "ru": "Что такого привлекательного в этом месте?",
+    "en": "What is so attractive in this place?"
+  },
+  {
+    "_id": 102,
+    "ru": "Что принадлежит ему?",
+    "en": "What belongs to him?"
+  },
+  {
+    "_id": 103,
+    "ru": "Чья идея правильная?",
+    "en": "Whose idea is right?"
+  },
+  {
+    "_id": 104,
+    "ru": "Что привлекает внимание людей?",
+    "en": "What attracts people's attention?"
+  },
+  {
+    "_id": 105,
+    "ru": "Какой ответ кажется правильным?",
+    "en": "Which answer seems correct?"
+  },
+  {
+    "_id": 106,
+    "ru": "Что выглядит более модным?",
+    "en": "What looks more fashionable?"
+  },
+  {
+    "_id": 107,
+    "ru": "Какое описание является более точным?",
+    "en": "Which description is more accurate?"
+  },
+  {
+    "_id": 108,
+    "ru": "Какие вещи интересуют тебя?",
+    "en": "What things interest you?"
+  }
 ]

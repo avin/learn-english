@@ -1,86 +1,107 @@
 [
-  [
-    "Это производится в Италии",
-    "It's produced in Italy"
-  ],
-  [
-    "Этот товар продается очень дорого",
-    "These goods are sold very expensively"
-  ],
-  [
-    "Это было сделано ими",
-    "It was done by them"
-  ],
-  [
-    "Это было сделано им",
-    "It was done by him"
-  ],
-  [
-    "Этот дом был построен в прошлом году",
-    "This house was built last year"
-  ],
-  [
-    "Слишком мало делается, чтобы изменить текущую ситуацию",
-    "Too little is done to change the current situation"
-  ],
-  [
-    "Эти ошибки были исправлены",
-    "These mistakes were corrected"
-  ],
-  [
-    "Все делается очень медленно",
-    "Everything is done very slowly"
-  ],
-  [
-    "Эта проблема скоро будет решена",
-    "This problem will be solved soon"
-  ],
-  [
-    "Эту ошибку не заметили",
-    "This mistake wasn't noticed"
-  ],
-  [
-    "Это было сделано мною",
-    "It was done by me"
-  ],
-  [
-    "Это было произведено в Китае",
-    "It was produced in China"
-  ],
-  [
-    "Это будет упомянуто позже",
-    "It'll be mentioned later"
-  ],
-  [
-    "Это часто обсуждают",
-    "It's often discussed"
-  ],
-  [
-    "Его критикуют очень часто",
-    "He's criticized very often"
-  ],
-  [
-    "Меня похвалили",
-    "I was praised"
-  ],
-  [
-    "Это делается в Японии",
-    "It's made in Japan"
-  ],
-  [
-    "Это будет сделано чуть позже",
-    "It'll be done a bit later"
-  ],
-  [
-    "Это делается в Китае",
-    "It's made in China"
-  ],
-  [
-    "Их там видели",
-    "They were seen there"
-  ],
-  [
-    "Это продается очень дешево",
-    "It’s sold very cheaply"
-  ]
+  {
+    "_id": 1,
+    "ru": "Это производится в Италии",
+    "en": "It's produced in Italy"
+  },
+  {
+    "_id": 2,
+    "ru": "Этот товар продается очень дорого",
+    "en": "These goods are sold very expensively"
+  },
+  {
+    "_id": 3,
+    "ru": "Это было сделано ими",
+    "en": "It was done by them"
+  },
+  {
+    "_id": 4,
+    "ru": "Это было сделано им",
+    "en": "It was done by him"
+  },
+  {
+    "_id": 5,
+    "ru": "Этот дом был построен в прошлом году",
+    "en": "This house was built last year"
+  },
+  {
+    "_id": 6,
+    "ru": "Слишком мало делается, чтобы изменить текущую ситуацию",
+    "en": "Too little is done to change the current situation"
+  },
+  {
+    "_id": 7,
+    "ru": "Эти ошибки были исправлены",
+    "en": "These mistakes were corrected"
+  },
+  {
+    "_id": 8,
+    "ru": "Все делается очень медленно",
+    "en": "Everything is done very slowly"
+  },
+  {
+    "_id": 9,
+    "ru": "Эта проблема скоро будет решена",
+    "en": "This problem will be solved soon"
+  },
+  {
+    "_id": 10,
+    "ru": "Эту ошибку не заметили",
+    "en": "This mistake wasn't noticed"
+  },
+  {
+    "_id": 11,
+    "ru": "Это было сделано мною",
+    "en": "It was done by me"
+  },
+  {
+    "_id": 12,
+    "ru": "Это было произведено в Китае",
+    "en": "It was produced in China"
+  },
+  {
+    "_id": 13,
+    "ru": "Это будет упомянуто позже",
+    "en": "It'll be mentioned later"
+  },
+  {
+    "_id": 14,
+    "ru": "Это часто обсуждают",
+    "en": "It's often discussed"
+  },
+  {
+    "_id": 15,
+    "ru": "Его критикуют очень часто",
+    "en": "He's criticized very often"
+  },
+  {
+    "_id": 16,
+    "ru": "Меня похвалили",
+    "en": "I was praised"
+  },
+  {
+    "_id": 17,
+    "ru": "Это делается в Японии",
+    "en": "It's made in Japan"
+  },
+  {
+    "_id": 18,
+    "ru": "Это будет сделано чуть позже",
+    "en": "It'll be done a bit later"
+  },
+  {
+    "_id": 19,
+    "ru": "Это делается в Китае",
+    "en": "It's made in China"
+  },
+  {
+    "_id": 20,
+    "ru": "Их там видели",
+    "en": "They were seen there"
+  },
+  {
+    "_id": 21,
+    "ru": "Это продается очень дешево",
+    "en": "It’s sold very cheaply"
+  }
 ]

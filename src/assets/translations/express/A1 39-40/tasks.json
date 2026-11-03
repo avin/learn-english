@@ -1,134 +1,167 @@
 [
-  [
-    "Кого ты ждешь?",
-    "Who are you waiting for?"
-  ],
-  [
-    "Куда ты идешь сейчас?",
-    "Where are you going now?"
-  ],
-  [
-    "Что он слушает?",
-    "What is he listening to?"
-  ],
-  [
-    "Сейчас идет дождь?",
-    "Is it raining now?"
-  ],
-  [
-    "Ты сейчас отдыхаешь?",
-    "Are you having a rest now?"
-  ],
-  [
-    "Что он делает сейчас?",
-    "What is he doing now?"
-  ],
-  [
-    "Какую книгу ты сейчас читаешь?",
-    "What book are you reading now?"
-  ],
-  [
-    "В какую игру ты сейчас играешь?",
-    "What game are you playing now?"
-  ],
-  [
-    "Кого он ждет?",
-    "Who is he waiting for?"
-  ],
-  [
-    "Что ты сейчас пишешь?",
-    "What are you writing now?"
-  ],
-  [
-    "Что ты читаешь сейчас?",
-    "What are you reading now?"
-  ],
-  [
-    "Сейчас идет снег?",
-    "Is it snowing now?"
-  ],
-  [
-    "О чем они говорят?",
-    "What are they talking about?"
-  ],
-  [
-    "Он ждет меня?",
-    "Is he waiting for me?"
-  ],
-  [
-    "Она готовит сейчас?",
-    "Is she cooking now?"
-  ],
-  [
-    "Ты ждешь кого-то?",
-    "Are you waiting for someone?"
-  ],
-  [
-    "Что она говорит ему сейчас?",
-    "What is she telling him now?"
-  ],
-  [
-    "Она ждет нас?",
-    "Is she waiting for us?"
-  ],
-  [
-    "Что ты сейчас делаешь?",
-    "What are you doing now?"
-  ],
-  [
-    "На каком языке они говорят сейчас?",
-    "What language are they speaking now?"
-  ],
-  [
-    "Кого она ждет?",
-    "Who is she waiting for?"
-  ],
-  [
-    "Чего они ждут?",
-    "What are they waiting for?"
-  ],
-  [
-    "Ты ждешь этого сейчас?",
-    "Are you waiting for it now?"
-  ],
-  [
-    "Во что ты сейчас играешь?",
-    "What are you playing now?"
-  ],
-  [
-    "Ты думаешь об этом сейчас?",
-    "Are you thinking about it now?"
-  ],
-  [
-    "О чем вы говорите?",
-    "What are you talking about?"
-  ],
-  [
-    "Что она сейчас говорит?",
-    "What is she saying now?"
-  ],
-  [
-    "Ты сегодня работаешь?",
-    "Are you working today?"
-  ],
-  [
-    "Что ты сейчас ешь?",
-    "What are you eating now?"
-  ],
-  [
-    "Что он сейчас говорит?",
-    "What is he saying now?"
-  ],
-  [
-    "Что ты слушаешь?",
-    "What are you listening to?"
-  ],
-  [
-    "Что ты пьешь сейчас?",
-    "What are you drinking now?"
-  ],
-  [
-    "Чего ты ждешь?",
-    "What are you waiting for?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Кого ты ждешь?",
+    "en": "Who are you waiting for?"
+  },
+  {
+    "_id": 2,
+    "ru": "Куда ты идешь сейчас?",
+    "en": "Where are you going now?"
+  },
+  {
+    "_id": 3,
+    "ru": "Что он слушает?",
+    "en": "What is he listening to?"
+  },
+  {
+    "_id": 4,
+    "ru": "Сейчас идет дождь?",
+    "en": "Is it raining now?"
+  },
+  {
+    "_id": 5,
+    "ru": "Ты сейчас отдыхаешь?",
+    "en": "Are you having a rest now?"
+  },
+  {
+    "_id": 6,
+    "ru": "Что он делает сейчас?",
+    "en": "What is he doing now?"
+  },
+  {
+    "_id": 7,
+    "ru": "Какую книгу ты сейчас читаешь?",
+    "en": "What book are you reading now?"
+  },
+  {
+    "_id": 8,
+    "ru": "В какую игру ты сейчас играешь?",
+    "en": "What game are you playing now?"
+  },
+  {
+    "_id": 9,
+    "ru": "Кого он ждет?",
+    "en": "Who is he waiting for?"
+  },
+  {
+    "_id": 10,
+    "ru": "Что ты сейчас пишешь?",
+    "en": "What are you writing now?"
+  },
+  {
+    "_id": 11,
+    "ru": "Что ты читаешь сейчас?",
+    "en": "What are you reading now?"
+  },
+  {
+    "_id": 12,
+    "ru": "Сейчас идет снег?",
+    "en": "Is it snowing now?"
+  },
+  {
+    "_id": 13,
+    "ru": "О чем они говорят?",
+    "en": "What are they talking about?"
+  },
+  {
+    "_id": 14,
+    "ru": "Он ждет меня?",
+    "en": "Is he waiting for me?"
+  },
+  {
+    "_id": 15,
+    "ru": "Она готовит сейчас?",
+    "en": "Is she cooking now?"
+  },
+  {
+    "_id": 16,
+    "ru": "Ты ждешь кого-то?",
+    "en": "Are you waiting for someone?"
+  },
+  {
+    "_id": 17,
+    "ru": "Что она говорит ему сейчас?",
+    "en": "What is she telling him now?"
+  },
+  {
+    "_id": 18,
+    "ru": "Она ждет нас?",
+    "en": "Is she waiting for us?"
+  },
+  {
+    "_id": 19,
+    "ru": "Что ты сейчас делаешь?",
+    "en": "What are you doing now?"
+  },
+  {
+    "_id": 20,
+    "ru": "На каком языке они говорят сейчас?",
+    "en": "What language are they speaking now?"
+  },
+  {
+    "_id": 21,
+    "ru": "Кого она ждет?",
+    "en": "Who is she waiting for?"
+  },
+  {
+    "_id": 22,
+    "ru": "Чего они ждут?",
+    "en": "What are they waiting for?"
+  },
+  {
+    "_id": 23,
+    "ru": "Ты ждешь этого сейчас?",
+    "en": "Are you waiting for it now?"
+  },
+  {
+    "_id": 24,
+    "ru": "Во что ты сейчас играешь?",
+    "en": "What are you playing now?"
+  },
+  {
+    "_id": 25,
+    "ru": "Ты думаешь об этом сейчас?",
+    "en": "Are you thinking about it now?"
+  },
+  {
+    "_id": 26,
+    "ru": "О чем вы говорите?",
+    "en": "What are you talking about?"
+  },
+  {
+    "_id": 27,
+    "ru": "Что она сейчас говорит?",
+    "en": "What is she saying now?"
+  },
+  {
+    "_id": 28,
+    "ru": "Ты сегодня работаешь?",
+    "en": "Are you working today?"
+  },
+  {
+    "_id": 29,
+    "ru": "Что ты сейчас ешь?",
+    "en": "What are you eating now?"
+  },
+  {
+    "_id": 30,
+    "ru": "Что он сейчас говорит?",
+    "en": "What is he saying now?"
+  },
+  {
+    "_id": 31,
+    "ru": "Что ты слушаешь?",
+    "en": "What are you listening to?"
+  },
+  {
+    "_id": 32,
+    "ru": "Что ты пьешь сейчас?",
+    "en": "What are you drinking now?"
+  },
+  {
+    "_id": 33,
+    "ru": "Чего ты ждешь?",
+    "en": "What are you waiting for?"
+  }
 ]

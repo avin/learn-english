@@ -1,350 +1,437 @@
 [
-  [
-    "Почему ты так занят?",
-    "Why are you so busy?"
-  ],
-  [
-    "Почему он прав?",
-    "Why is he right?"
-  ],
-  [
-    "Сколько им лет?",
-    "How old are they?"
-  ],
-  [
-    "Что в этой коробке?",
-    "What's in this box?"
-  ],
-  [
-    "Почему он прав?",
-    "Why is he right?"
-  ],
-  [
-    "Почему это так?",
-    "Why is it so?"
-  ],
-  [
-    "Почему это так дорого?",
-    "Why is it so expensive?"
-  ],
-  [
-    "Сколько ей лет?",
-    "How old is she?"
-  ],
-  [
-    "Почему ты так занят?",
-    "Why are you so busy?"
-  ],
-  [
-    "Кто прав?",
-    "Who is right?"
-  ],
-  [
-    "Кто они?",
-    "Who are they?"
-  ],
-  [
-    "Когда она на работе?",
-    "When is she at work?"
-  ],
-  [
-    "Как она?",
-    "How is she?"
-  ],
-  [
-    "Что неправильно?",
-    "What is wrong?"
-  ],
-  [
-    "Когда ты свободен?",
-    "When are you free?"
-  ],
-  [
-    "Сколько им лет?",
-    "How old are they?"
-  ],
-  [
-    "Что в этой коробке?",
-    "What is in this box?"
-  ],
-  [
-    "Что правильно?",
-    "What is correct?"
-  ],
-  [
-    "Почему ты на работе сейчас?",
-    "Why are you at work now?"
-  ],
-  [
-    "Когда ты дома?",
-    "When are you at home?"
-  ],
-  [
-    "Сколько тебе лет?",
-    "How old are you?"
-  ],
-  [
-    "Почему это неправильно?",
-    "Why is it wrong?"
-  ],
-  [
-    "Кто не прав?",
-    "Who is wrong?"
-  ],
-  [
-    "Сколько ему лет?",
-    "How old is he?"
-  ],
-  [
-    "Кто он?",
-    "Who is he?"
-  ],
-  [
-    "Где ты?",
-    "Where are you?"
-  ],
-  [
-    "Где они?",
-    "Where are they?"
-  ],
-  [
-    "Почему ты такой грустный?",
-    "Why are you so sad?"
-  ],
-  [
-    "Почему ты такой счастливый?",
-    "Why are you so happy?"
-  ],
-  [
-    "Почему это бесплатно?",
-    "Why is it free?"
-  ],
-  [
-    "Почему она так расстроена?",
-    "Why is she so upset?"
-  ],
-  [
-    "Кто здесь?",
-    "Who is here?"
-  ],
-  [
-    "Почему она такая грустная?",
-    "Why is she so sad?"
-  ],
-  [
-    "Где это?",
-    "Where is it?"
-  ],
-  [
-    "Как он?",
-    "How is he?"
-  ],
-  [
-    "Что это?",
-    "What is it?"
-  ],
-  [
-    "Почему она злится?",
-    "Why is she angry?"
-  ],
-  [
-    "Когда он там?",
-    "When is he there?"
-  ],
-  [
-    "Как ты?",
-    "How are you?"
-  ],
-  [
-    "Почему он так расстроен?",
-    "Why is he so upset?"
-  ],
-  [
-    "Кто там?",
-    "Who is there?"
-  ],
-  [
-    "Сколько стоит эта вещь?",
-    "How much is this thing?"
-  ],
-  [
-    "Что в коробке?",
-    "What is in the box?"
-  ],
-  [
-    "Почему это правильно?",
-    "Why is it correct?"
-  ],
-  [
-    "Сколько стоят эти брюки?",
-    "How much are these trousers?"
-  ],
-  [
-    "Какая у него работа?",
-    "What's his job?"
-  ],
-  [
-    "Сколько стоит эта пара джинсов?",
-    "How much is this pair of jeans?"
-  ],
-  [
-    "Где то место?",
-    "Where is that place?"
-  ],
-  [
-    "Сколько стоят эти джинсы?",
-    "How much are these jeans?"
-  ],
-  [
-    "Что в этой коробке?",
-    "What's in this box?"
-  ],
-  [
-    "Что там?",
-    "What's there?"
-  ],
-  [
-    "Сколько стоит это платье?",
-    "How much is this dress?"
-  ],
-  [
-    "Как тебя зовут?",
-    "What's your name?"
-  ],
-  [
-    "Что лучше?",
-    "What's better?"
-  ],
-  [
-    "Почему это лучше?",
-    "Why is it better?"
-  ],
-  [
-    "Какая у тебя работа?",
-    "What's your job?"
-  ],
-  [
-    "Где это место?",
-    "Where is this place?"
-  ],
-  [
-    "Почему это хуже?",
-    "Why is it worse?"
-  ],
-  [
-    "Кто она?",
-    "Who is she?"
-  ],
-  [
-    "Что хуже?",
-    "What is worse?"
-  ],
-  [
-    "Что лучше?",
-    "What is better?"
-  ],
-  [
-    "Откуда она?",
-    "Where is she from?"
-  ],
-  [
-    "Откуда ты?",
-    "Where are you from?"
-  ],
-  [
-    "Сколько стоит эта книга?",
-    "How much is this book?"
-  ],
-  [
-    "Сколько стоят эти игрушки?",
-    "How much are these toys?"
-  ],
-  [
-    "Сколько стоит эта игрушка?",
-    "How much is this toy?"
-  ],
-  [
-    "Сколько стоят те книги?",
-    "How much are those books?"
-  ],
-  [
-    "Какая у нее работа?",
-    "What's her job?"
-  ],
-  [
-    "Сколько стоит эта пара брюк?",
-    "How much is this pair of trousers?"
-  ],
-  [
-    "Сколько стоят эти сумки?",
-    "How much are these bags?"
-  ],
-  [
-    "Откуда он?",
-    "Where is he from?"
-  ],
-  [
-    "Что здесь сейчас?",
-    "What's here now?"
-  ],
-  [
-    "Как ее зовут?",
-    "What's her name?"
-  ],
-  [
-    "Почему это дешевле?",
-    "Why is it cheaper?"
-  ],
-  [
-    "Что дешевле?",
-    "What's cheaper?"
-  ],
-  [
-    "Что дороже?",
-    "What's more expensive?"
-  ],
-  [
-    "Почему ты расстроен?",
-    "Why are you upset?"
-  ],
-  [
-    "Что более эффективно?",
-    "What's more effective?"
-  ],
-  [
-    "Как его зовут?",
-    "What's his name?"
-  ],
-  [
-    "Сколько стоит эта сумка?",
-    "How much is this bag?"
-  ],
-  [
-    "Сколько это стоит?",
-    "How much is it?"
-  ],
-  [
-    "Где твоя машина?",
-    "Where is your car?"
-  ],
-  [
-    "Где этот магазин?",
-    "Where is this shop?"
-  ],
-  [
-    "Сколько стоит этот дом?",
-    "How much is this house?"
-  ],
-  [
-    "Что важнее?",
-    "What's more important?"
-  ],
-  [
-    "Сколько стоит твой компьютер?",
-    "How much is your computer?"
-  ],
-  [
-    "Сколько стоит эта квартира?",
-    "How much is this apartment?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Почему ты так занят?",
+    "en": "Why are you so busy?"
+  },
+  {
+    "_id": 2,
+    "ru": "Почему он прав?",
+    "en": "Why is he right?"
+  },
+  {
+    "_id": 3,
+    "ru": "Сколько им лет?",
+    "en": "How old are they?"
+  },
+  {
+    "_id": 4,
+    "ru": "Что в этой коробке?",
+    "en": "What's in this box?"
+  },
+  {
+    "_id": 5,
+    "ru": "Почему он прав?",
+    "en": "Why is he right?"
+  },
+  {
+    "_id": 6,
+    "ru": "Почему это так?",
+    "en": "Why is it so?"
+  },
+  {
+    "_id": 7,
+    "ru": "Почему это так дорого?",
+    "en": "Why is it so expensive?"
+  },
+  {
+    "_id": 8,
+    "ru": "Сколько ей лет?",
+    "en": "How old is she?"
+  },
+  {
+    "_id": 9,
+    "ru": "Почему ты так занят?",
+    "en": "Why are you so busy?"
+  },
+  {
+    "_id": 10,
+    "ru": "Кто прав?",
+    "en": "Who is right?"
+  },
+  {
+    "_id": 11,
+    "ru": "Кто они?",
+    "en": "Who are they?"
+  },
+  {
+    "_id": 12,
+    "ru": "Когда она на работе?",
+    "en": "When is she at work?"
+  },
+  {
+    "_id": 13,
+    "ru": "Как она?",
+    "en": "How is she?"
+  },
+  {
+    "_id": 14,
+    "ru": "Что неправильно?",
+    "en": "What is wrong?"
+  },
+  {
+    "_id": 15,
+    "ru": "Когда ты свободен?",
+    "en": "When are you free?"
+  },
+  {
+    "_id": 16,
+    "ru": "Сколько им лет?",
+    "en": "How old are they?"
+  },
+  {
+    "_id": 17,
+    "ru": "Что в этой коробке?",
+    "en": "What is in this box?"
+  },
+  {
+    "_id": 18,
+    "ru": "Что правильно?",
+    "en": "What is correct?"
+  },
+  {
+    "_id": 19,
+    "ru": "Почему ты на работе сейчас?",
+    "en": "Why are you at work now?"
+  },
+  {
+    "_id": 20,
+    "ru": "Когда ты дома?",
+    "en": "When are you at home?"
+  },
+  {
+    "_id": 21,
+    "ru": "Сколько тебе лет?",
+    "en": "How old are you?"
+  },
+  {
+    "_id": 22,
+    "ru": "Почему это неправильно?",
+    "en": "Why is it wrong?"
+  },
+  {
+    "_id": 23,
+    "ru": "Кто не прав?",
+    "en": "Who is wrong?"
+  },
+  {
+    "_id": 24,
+    "ru": "Сколько ему лет?",
+    "en": "How old is he?"
+  },
+  {
+    "_id": 25,
+    "ru": "Кто он?",
+    "en": "Who is he?"
+  },
+  {
+    "_id": 26,
+    "ru": "Где ты?",
+    "en": "Where are you?"
+  },
+  {
+    "_id": 27,
+    "ru": "Где они?",
+    "en": "Where are they?"
+  },
+  {
+    "_id": 28,
+    "ru": "Почему ты такой грустный?",
+    "en": "Why are you so sad?"
+  },
+  {
+    "_id": 29,
+    "ru": "Почему ты такой счастливый?",
+    "en": "Why are you so happy?"
+  },
+  {
+    "_id": 30,
+    "ru": "Почему это бесплатно?",
+    "en": "Why is it free?"
+  },
+  {
+    "_id": 31,
+    "ru": "Почему она так расстроена?",
+    "en": "Why is she so upset?"
+  },
+  {
+    "_id": 32,
+    "ru": "Кто здесь?",
+    "en": "Who is here?"
+  },
+  {
+    "_id": 33,
+    "ru": "Почему она такая грустная?",
+    "en": "Why is she so sad?"
+  },
+  {
+    "_id": 34,
+    "ru": "Где это?",
+    "en": "Where is it?"
+  },
+  {
+    "_id": 35,
+    "ru": "Как он?",
+    "en": "How is he?"
+  },
+  {
+    "_id": 36,
+    "ru": "Что это?",
+    "en": "What is it?"
+  },
+  {
+    "_id": 37,
+    "ru": "Почему она злится?",
+    "en": "Why is she angry?"
+  },
+  {
+    "_id": 38,
+    "ru": "Когда он там?",
+    "en": "When is he there?"
+  },
+  {
+    "_id": 39,
+    "ru": "Как ты?",
+    "en": "How are you?"
+  },
+  {
+    "_id": 40,
+    "ru": "Почему он так расстроен?",
+    "en": "Why is he so upset?"
+  },
+  {
+    "_id": 41,
+    "ru": "Кто там?",
+    "en": "Who is there?"
+  },
+  {
+    "_id": 42,
+    "ru": "Сколько стоит эта вещь?",
+    "en": "How much is this thing?"
+  },
+  {
+    "_id": 43,
+    "ru": "Что в коробке?",
+    "en": "What is in the box?"
+  },
+  {
+    "_id": 44,
+    "ru": "Почему это правильно?",
+    "en": "Why is it correct?"
+  },
+  {
+    "_id": 45,
+    "ru": "Сколько стоят эти брюки?",
+    "en": "How much are these trousers?"
+  },
+  {
+    "_id": 46,
+    "ru": "Какая у него работа?",
+    "en": "What's his job?"
+  },
+  {
+    "_id": 47,
+    "ru": "Сколько стоит эта пара джинсов?",
+    "en": "How much is this pair of jeans?"
+  },
+  {
+    "_id": 48,
+    "ru": "Где то место?",
+    "en": "Where is that place?"
+  },
+  {
+    "_id": 49,
+    "ru": "Сколько стоят эти джинсы?",
+    "en": "How much are these jeans?"
+  },
+  {
+    "_id": 50,
+    "ru": "Что в этой коробке?",
+    "en": "What's in this box?"
+  },
+  {
+    "_id": 51,
+    "ru": "Что там?",
+    "en": "What's there?"
+  },
+  {
+    "_id": 52,
+    "ru": "Сколько стоит это платье?",
+    "en": "How much is this dress?"
+  },
+  {
+    "_id": 53,
+    "ru": "Как тебя зовут?",
+    "en": "What's your name?"
+  },
+  {
+    "_id": 54,
+    "ru": "Что лучше?",
+    "en": "What's better?"
+  },
+  {
+    "_id": 55,
+    "ru": "Почему это лучше?",
+    "en": "Why is it better?"
+  },
+  {
+    "_id": 56,
+    "ru": "Какая у тебя работа?",
+    "en": "What's your job?"
+  },
+  {
+    "_id": 57,
+    "ru": "Где это место?",
+    "en": "Where is this place?"
+  },
+  {
+    "_id": 58,
+    "ru": "Почему это хуже?",
+    "en": "Why is it worse?"
+  },
+  {
+    "_id": 59,
+    "ru": "Кто она?",
+    "en": "Who is she?"
+  },
+  {
+    "_id": 60,
+    "ru": "Что хуже?",
+    "en": "What is worse?"
+  },
+  {
+    "_id": 61,
+    "ru": "Что лучше?",
+    "en": "What is better?"
+  },
+  {
+    "_id": 62,
+    "ru": "Откуда она?",
+    "en": "Where is she from?"
+  },
+  {
+    "_id": 63,
+    "ru": "Откуда ты?",
+    "en": "Where are you from?"
+  },
+  {
+    "_id": 64,
+    "ru": "Сколько стоит эта книга?",
+    "en": "How much is this book?"
+  },
+  {
+    "_id": 65,
+    "ru": "Сколько стоят эти игрушки?",
+    "en": "How much are these toys?"
+  },
+  {
+    "_id": 66,
+    "ru": "Сколько стоит эта игрушка?",
+    "en": "How much is this toy?"
+  },
+  {
+    "_id": 67,
+    "ru": "Сколько стоят те книги?",
+    "en": "How much are those books?"
+  },
+  {
+    "_id": 68,
+    "ru": "Какая у нее работа?",
+    "en": "What's her job?"
+  },
+  {
+    "_id": 69,
+    "ru": "Сколько стоит эта пара брюк?",
+    "en": "How much is this pair of trousers?"
+  },
+  {
+    "_id": 70,
+    "ru": "Сколько стоят эти сумки?",
+    "en": "How much are these bags?"
+  },
+  {
+    "_id": 71,
+    "ru": "Откуда он?",
+    "en": "Where is he from?"
+  },
+  {
+    "_id": 72,
+    "ru": "Что здесь сейчас?",
+    "en": "What's here now?"
+  },
+  {
+    "_id": 73,
+    "ru": "Как ее зовут?",
+    "en": "What's her name?"
+  },
+  {
+    "_id": 74,
+    "ru": "Почему это дешевле?",
+    "en": "Why is it cheaper?"
+  },
+  {
+    "_id": 75,
+    "ru": "Что дешевле?",
+    "en": "What's cheaper?"
+  },
+  {
+    "_id": 76,
+    "ru": "Что дороже?",
+    "en": "What's more expensive?"
+  },
+  {
+    "_id": 77,
+    "ru": "Почему ты расстроен?",
+    "en": "Why are you upset?"
+  },
+  {
+    "_id": 78,
+    "ru": "Что более эффективно?",
+    "en": "What's more effective?"
+  },
+  {
+    "_id": 79,
+    "ru": "Как его зовут?",
+    "en": "What's his name?"
+  },
+  {
+    "_id": 80,
+    "ru": "Сколько стоит эта сумка?",
+    "en": "How much is this bag?"
+  },
+  {
+    "_id": 81,
+    "ru": "Сколько это стоит?",
+    "en": "How much is it?"
+  },
+  {
+    "_id": 82,
+    "ru": "Где твоя машина?",
+    "en": "Where is your car?"
+  },
+  {
+    "_id": 83,
+    "ru": "Где этот магазин?",
+    "en": "Where is this shop?"
+  },
+  {
+    "_id": 84,
+    "ru": "Сколько стоит этот дом?",
+    "en": "How much is this house?"
+  },
+  {
+    "_id": 85,
+    "ru": "Что важнее?",
+    "en": "What's more important?"
+  },
+  {
+    "_id": 86,
+    "ru": "Сколько стоит твой компьютер?",
+    "en": "How much is your computer?"
+  },
+  {
+    "_id": 87,
+    "ru": "Сколько стоит эта квартира?",
+    "en": "How much is this apartment?"
+  }
 ]

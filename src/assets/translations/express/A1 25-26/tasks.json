@@ -1,98 +1,122 @@
 [
-  [
-    "Они одолжили ему очень большую сумму денег",
-    "They lent him a very big sum of money"
-  ],
-  [
-    "Звонок зазвенел пять минут назад",
-    "The bell rang five minutes ago"
-  ],
-  [
-    "Они уехали из города",
-    "They left the city"
-  ],
-  [
-    "Она простила его в конце",
-    "She forgave him in the end"
-  ],
-  [
-    "Я катался на велосипеде вчера",
-    "I rode a bike yesterday"
-  ],
-  [
-    "Кто-то украл ее сумку",
-    "Someone stole her bag"
-  ],
-  [
-    "Они отправили мне это уведомление",
-    "They sent me this notification"
-  ],
-  [
-    "Урок начался полчаса назад",
-    "The lesson began half an hour ago"
-  ],
-  [
-    "Я нашел более хорошую работу",
-    "I found a better job"
-  ],
-  [
-    "Я получил очень странное сообщение от нее",
-    "I got a very strange message from her"
-  ],
-  [
-    "Он упал и повредил колено",
-    "He fell and hurt his knee"
-  ],
-  [
-    "Я ушел из дома очень рано",
-    "I left home very early"
-  ],
-  [
-    "Я понял все сразу",
-    "I understood everything immediately"
-  ],
-  [
-    "Они боролись за свои права, свободу и независимость",
-    "They fought for their rights, freedom and independence"
-  ],
-  [
-    "Я выпил чашку кофе",
-    "I drank a cup of coffee"
-  ],
-  [
-    "У меня было мало свободного времени, но я старался найти время на это",
-    "I had little free time but I tried to find time for it"
-  ],
-  [
-    "Я присел и затем встал",
-    "I sat down and then stood up"
-  ],
-  [
-    "Я выпил стакан сока",
-    "I drank a glass of juice"
-  ],
-  [
-    "Мне не нужно было это, поэтому я выбросил это",
-    "I didn't need it so I threw it away"
-  ],
-  [
-    "Она разрезала торт на четыре равные части",
-    "She cut the cake into four equal parts"
-  ],
-  [
-    "Он купил последнюю модель",
-    "He bought the latest model"
-  ],
-  [
-    "Это задело ее чувства очень сильно",
-    "It hurt her feelings greatly"
-  ],
-  [
-    "Они дали ему еще один шанс",
-    "They gave him one more chance"
-  ],
-  [
-    "Он вел машину очень осторожно, и это спасло ему жизнь",
-    "He drove a car very carefully and it saved his life"
-  ]
+  {
+    "_id": 1,
+    "ru": "Они одолжили ему очень большую сумму денег",
+    "en": "They lent him a very big sum of money"
+  },
+  {
+    "_id": 2,
+    "ru": "Звонок зазвенел пять минут назад",
+    "en": "The bell rang five minutes ago"
+  },
+  {
+    "_id": 3,
+    "ru": "Они уехали из города",
+    "en": "They left the city"
+  },
+  {
+    "_id": 4,
+    "ru": "Она простила его в конце",
+    "en": "She forgave him in the end"
+  },
+  {
+    "_id": 5,
+    "ru": "Я катался на велосипеде вчера",
+    "en": "I rode a bike yesterday"
+  },
+  {
+    "_id": 6,
+    "ru": "Кто-то украл ее сумку",
+    "en": "Someone stole her bag"
+  },
+  {
+    "_id": 7,
+    "ru": "Они отправили мне это уведомление",
+    "en": "They sent me this notification"
+  },
+  {
+    "_id": 8,
+    "ru": "Урок начался полчаса назад",
+    "en": "The lesson began half an hour ago"
+  },
+  {
+    "_id": 9,
+    "ru": "Я нашел более хорошую работу",
+    "en": "I found a better job"
+  },
+  {
+    "_id": 10,
+    "ru": "Я получил очень странное сообщение от нее",
+    "en": "I got a very strange message from her"
+  },
+  {
+    "_id": 11,
+    "ru": "Он упал и повредил колено",
+    "en": "He fell and hurt his knee"
+  },
+  {
+    "_id": 12,
+    "ru": "Я ушел из дома очень рано",
+    "en": "I left home very early"
+  },
+  {
+    "_id": 13,
+    "ru": "Я понял все сразу",
+    "en": "I understood everything immediately"
+  },
+  {
+    "_id": 14,
+    "ru": "Они боролись за свои права, свободу и независимость",
+    "en": "They fought for their rights, freedom and independence"
+  },
+  {
+    "_id": 15,
+    "ru": "Я выпил чашку кофе",
+    "en": "I drank a cup of coffee"
+  },
+  {
+    "_id": 16,
+    "ru": "У меня было мало свободного времени, но я старался найти время на это",
+    "en": "I had little free time but I tried to find time for it"
+  },
+  {
+    "_id": 17,
+    "ru": "Я присел и затем встал",
+    "en": "I sat down and then stood up"
+  },
+  {
+    "_id": 18,
+    "ru": "Я выпил стакан сока",
+    "en": "I drank a glass of juice"
+  },
+  {
+    "_id": 19,
+    "ru": "Мне не нужно было это, поэтому я выбросил это",
+    "en": "I didn't need it so I threw it away"
+  },
+  {
+    "_id": 20,
+    "ru": "Она разрезала торт на четыре равные части",
+    "en": "She cut the cake into four equal parts"
+  },
+  {
+    "_id": 21,
+    "ru": "Он купил последнюю модель",
+    "en": "He bought the latest model"
+  },
+  {
+    "_id": 22,
+    "ru": "Это задело ее чувства очень сильно",
+    "en": "It hurt her feelings greatly"
+  },
+  {
+    "_id": 23,
+    "ru": "Они дали ему еще один шанс",
+    "en": "They gave him one more chance"
+  },
+  {
+    "_id": 24,
+    "ru": "Он вел машину очень осторожно, и это спасло ему жизнь",
+    "en": "He drove a car very carefully and it saved his life"
+  }
 ]

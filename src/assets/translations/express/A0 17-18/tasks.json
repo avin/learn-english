@@ -1,202 +1,252 @@
 [
-  [
-    "Она врач?",
-    "Is she a doctor?"
-  ],
-  [
-    "Ты из Англии?",
-    "Are you from England?"
-  ],
-  [
-    "Он бизнесмен?",
-    "Is he a businessman?"
-  ],
-  [
-    "Они менеджеры?",
-    "Are they managers?"
-  ],
-  [
-    "Это популярно сейчас?",
-    "Is it popular now?"
-  ],
-  [
-    "Ты на кухне?",
-    "Are you in the kitchen?"
-  ],
-  [
-    "Они врачи?",
-    "Are they doctors?"
-  ],
-  [
-    "Ты в комнате?",
-    "Are you in the room?"
-  ],
-  [
-    "Это легко?",
-    "Is it easy?"
-  ],
-  [
-    "Ты занят?",
-    "Are you busy?"
-  ],
-  [
-    "Они в отъезде?",
-    "Are they away?"
-  ],
-  [
-    "Он менеджер?",
-    "Is he a manager?"
-  ],
-  [
-    "Он твой друг?",
-    "Is he your friend?"
-  ],
-  [
-    "Ты онлайн?",
-    "Are you online?"
-  ],
-  [
-    "Он в отъезде?",
-    "Is he away?"
-  ],
-  [
-    "Ты в парке?",
-    "Are you in the park?"
-  ],
-  [
-    "Это популярно?",
-    "Is it popular?"
-  ],
-  [
-    "Ты рядом?",
-    "Are you near?"
-  ],
-  [
-    "Она медсестра?",
-    "Is she a nurse?"
-  ],
-  [
-    "Ты со своими друзьями сейчас?",
-    "Are you with you friends now?"
-  ],
-  [
-    "Это действительно так важно?",
-    "Is it really so important?"
-  ],
-  [
-    "Это действительно важно?",
-    "Is it really important?"
-  ],
-  [
-    "Это интересно тебе?",
-    "Is it interesting for you?"
-  ],
-  [
-    "Он из Соединенных Штатов?",
-    "Is he from the United States?"
-  ],
-  [
-    "Ты дома?",
-    "Are you at home?"
-  ],
-  [
-    "Это плохо?",
-    "Is it bad?"
-  ],
-  [
-    "Это хорошо?",
-    "Is it good?"
-  ],
-  [
-    "Ты в своей комнате?",
-    "Are you in your room?"
-  ],
-  [
-    "Ты сейчас на работе?",
-    "Are you at work now?"
-  ],
-  [
-    "Это полезно или нет?",
-    "Is it useful or not?"
-  ],
-  [
-    "Она с тобой?",
-    "Is she with you?"
-  ],
-  [
-    "Это легко или нет?",
-    "Is it easy or not?"
-  ],
-  [
-    "Это важно?",
-    "Is it important?"
-  ],
-  [
-    "Мы в правильном месте?",
-    "Are we in the right place?"
-  ],
-  [
-    "Ты в этом городе?",
-    "Are you in this city?"
-  ],
-  [
-    "Они счастливы?",
-    "Are they happy?"
-  ],
-  [
-    "Это дорого?",
-    "Is it expensive?"
-  ],
-  [
-    "Это важно или нет?",
-    "Is it important or not?"
-  ],
-  [
-    "Она из Италии?",
-    "Is she from Italy?"
-  ],
-  [
-    "Ты один?",
-    "Are you alone?"
-  ],
-  [
-    "Это ошибка?",
-    "Is it a mistake?"
-  ],
-  [
-    "Вы из России?",
-    "Are you from Russia?"
-  ],
-  [
-    "Ты свободен?",
-    "Are you free?"
-  ],
-  [
-    "Это хорошо или нет?",
-    "Is it good or not?"
-  ],
-  [
-    "Это далеко?",
-    "Is it far?"
-  ],
-  [
-    "Мы правы?",
-    "Are we right?"
-  ],
-  [
-    "Ты в городе?",
-    "Are you in the city?"
-  ],
-  [
-    "Они рядом?",
-    "Are they near?"
-  ],
-  [
-    "Это трудно?",
-    "Is it difficult?"
-  ],
-  [
-    "Это полезно?",
-    "Is it useful?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Она врач?",
+    "en": "Is she a doctor?"
+  },
+  {
+    "_id": 2,
+    "ru": "Ты из Англии?",
+    "en": "Are you from England?"
+  },
+  {
+    "_id": 3,
+    "ru": "Он бизнесмен?",
+    "en": "Is he a businessman?"
+  },
+  {
+    "_id": 4,
+    "ru": "Они менеджеры?",
+    "en": "Are they managers?"
+  },
+  {
+    "_id": 5,
+    "ru": "Это популярно сейчас?",
+    "en": "Is it popular now?"
+  },
+  {
+    "_id": 6,
+    "ru": "Ты на кухне?",
+    "en": "Are you in the kitchen?"
+  },
+  {
+    "_id": 7,
+    "ru": "Они врачи?",
+    "en": "Are they doctors?"
+  },
+  {
+    "_id": 8,
+    "ru": "Ты в комнате?",
+    "en": "Are you in the room?"
+  },
+  {
+    "_id": 9,
+    "ru": "Это легко?",
+    "en": "Is it easy?"
+  },
+  {
+    "_id": 10,
+    "ru": "Ты занят?",
+    "en": "Are you busy?"
+  },
+  {
+    "_id": 11,
+    "ru": "Они в отъезде?",
+    "en": "Are they away?"
+  },
+  {
+    "_id": 12,
+    "ru": "Он менеджер?",
+    "en": "Is he a manager?"
+  },
+  {
+    "_id": 13,
+    "ru": "Он твой друг?",
+    "en": "Is he your friend?"
+  },
+  {
+    "_id": 14,
+    "ru": "Ты онлайн?",
+    "en": "Are you online?"
+  },
+  {
+    "_id": 15,
+    "ru": "Он в отъезде?",
+    "en": "Is he away?"
+  },
+  {
+    "_id": 16,
+    "ru": "Ты в парке?",
+    "en": "Are you in the park?"
+  },
+  {
+    "_id": 17,
+    "ru": "Это популярно?",
+    "en": "Is it popular?"
+  },
+  {
+    "_id": 18,
+    "ru": "Ты рядом?",
+    "en": "Are you near?"
+  },
+  {
+    "_id": 19,
+    "ru": "Она медсестра?",
+    "en": "Is she a nurse?"
+  },
+  {
+    "_id": 20,
+    "ru": "Ты со своими друзьями сейчас?",
+    "en": "Are you with you friends now?"
+  },
+  {
+    "_id": 21,
+    "ru": "Это действительно так важно?",
+    "en": "Is it really so important?"
+  },
+  {
+    "_id": 22,
+    "ru": "Это действительно важно?",
+    "en": "Is it really important?"
+  },
+  {
+    "_id": 23,
+    "ru": "Это интересно тебе?",
+    "en": "Is it interesting for you?"
+  },
+  {
+    "_id": 24,
+    "ru": "Он из Соединенных Штатов?",
+    "en": "Is he from the United States?"
+  },
+  {
+    "_id": 25,
+    "ru": "Ты дома?",
+    "en": "Are you at home?"
+  },
+  {
+    "_id": 26,
+    "ru": "Это плохо?",
+    "en": "Is it bad?"
+  },
+  {
+    "_id": 27,
+    "ru": "Это хорошо?",
+    "en": "Is it good?"
+  },
+  {
+    "_id": 28,
+    "ru": "Ты в своей комнате?",
+    "en": "Are you in your room?"
+  },
+  {
+    "_id": 29,
+    "ru": "Ты сейчас на работе?",
+    "en": "Are you at work now?"
+  },
+  {
+    "_id": 30,
+    "ru": "Это полезно или нет?",
+    "en": "Is it useful or not?"
+  },
+  {
+    "_id": 31,
+    "ru": "Она с тобой?",
+    "en": "Is she with you?"
+  },
+  {
+    "_id": 32,
+    "ru": "Это легко или нет?",
+    "en": "Is it easy or not?"
+  },
+  {
+    "_id": 33,
+    "ru": "Это важно?",
+    "en": "Is it important?"
+  },
+  {
+    "_id": 34,
+    "ru": "Мы в правильном месте?",
+    "en": "Are we in the right place?"
+  },
+  {
+    "_id": 35,
+    "ru": "Ты в этом городе?",
+    "en": "Are you in this city?"
+  },
+  {
+    "_id": 36,
+    "ru": "Они счастливы?",
+    "en": "Are they happy?"
+  },
+  {
+    "_id": 37,
+    "ru": "Это дорого?",
+    "en": "Is it expensive?"
+  },
+  {
+    "_id": 38,
+    "ru": "Это важно или нет?",
+    "en": "Is it important or not?"
+  },
+  {
+    "_id": 39,
+    "ru": "Она из Италии?",
+    "en": "Is she from Italy?"
+  },
+  {
+    "_id": 40,
+    "ru": "Ты один?",
+    "en": "Are you alone?"
+  },
+  {
+    "_id": 41,
+    "ru": "Это ошибка?",
+    "en": "Is it a mistake?"
+  },
+  {
+    "_id": 42,
+    "ru": "Вы из России?",
+    "en": "Are you from Russia?"
+  },
+  {
+    "_id": 43,
+    "ru": "Ты свободен?",
+    "en": "Are you free?"
+  },
+  {
+    "_id": 44,
+    "ru": "Это хорошо или нет?",
+    "en": "Is it good or not?"
+  },
+  {
+    "_id": 45,
+    "ru": "Это далеко?",
+    "en": "Is it far?"
+  },
+  {
+    "_id": 46,
+    "ru": "Мы правы?",
+    "en": "Are we right?"
+  },
+  {
+    "_id": 47,
+    "ru": "Ты в городе?",
+    "en": "Are you in the city?"
+  },
+  {
+    "_id": 48,
+    "ru": "Они рядом?",
+    "en": "Are they near?"
+  },
+  {
+    "_id": 49,
+    "ru": "Это трудно?",
+    "en": "Is it difficult?"
+  },
+  {
+    "_id": 50,
+    "ru": "Это полезно?",
+    "en": "Is it useful?"
+  }
 ]

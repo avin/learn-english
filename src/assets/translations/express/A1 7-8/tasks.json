@@ -1,202 +1,252 @@
 [
-  [
-    "Мои родители часто ходят туда",
-    "My parents often go there"
-  ],
-  [
-    "Предложение очень привлекательное",
-    "The offer is very attractive"
-  ],
-  [
-    "Сейчас очень солнечно",
-    "It's very sunny now"
-  ],
-  [
-    "Мой друг живет в другой стране",
-    "My friend lives in another country"
-  ],
-  [
-    "Мой лучший друг живет в этом районе",
-    "My best friend lives in this area"
-  ],
-  [
-    "Мой двоюродный брат работает дизайнером",
-    "My cousin works as a designer"
-  ],
-  [
-    "Билет кажется таким дорогим",
-    "The ticket seems so expensive"
-  ],
-  [
-    "Билеты действительно такие дорогие",
-    "The tickets are really so expensive"
-  ],
-  [
-    "Это предложение кажется очень привлекательным",
-    "This offer seems very attractive"
-  ],
-  [
-    "Моя мама работает там",
-    "My mother works there"
-  ],
-  [
-    "Девочка ходит в школу",
-    "The girl goes to school"
-  ],
-  [
-    "Мой лучший друг всегда помогает мне",
-    "My best friend always helps me"
-  ],
-  [
-    "Мой брат работает программистом",
-    "My brother works as a programmer"
-  ],
-  [
-    "Тепло",
-    "It's warm"
-  ],
-  [
-    "Сейчас ветрено",
-    "It's windy now"
-  ],
-  [
-    "Эта шутка кажется такой смешной",
-    "This joke seems so funny"
-  ],
-  [
-    "Это выражение новое для меня",
-    "This expression is new for me"
-  ],
-  [
-    "Это слово новое для меня",
-    "This word is new for me"
-  ],
-  [
-    "Мой отец работает менеджером",
-    "My father works as a manager"
-  ],
-  [
-    "Девочка очень талантливая",
-    "The girl is very talented"
-  ],
-  [
-    "Этот тест действительно сложный",
-    "This test is really difficult"
-  ],
-  [
-    "Жарко",
-    "It's hot"
-  ],
-  [
-    "Мальчик учится там",
-    "The boy studies there"
-  ],
-  [
-    "Это новое слово для меня",
-    "It's a new word for me"
-  ],
-  [
-    "Сегодня солнечно",
-    "It's sunny today"
-  ],
-  [
-    "Сейчас очень тепло",
-    "It's very warm now"
-  ],
-  [
-    "Шутка очень забавная",
-    "The joke is very funny"
-  ],
-  [
-    "Моя мама работает врачом",
-    "My mother works as a doctor"
-  ],
-  [
-    "Его отец — бизнесмен",
-    "His father is a businessman"
-  ],
-  [
-    "Его отец занимается бизнесом",
-    "His father does business"
-  ],
-  [
-    "Студенты здесь",
-    "The students are here"
-  ],
-  [
-    "Мужчина выглядит очень сильным",
-    "The man looks very strong"
-  ],
-  [
-    "Его предложение выглядит очень привлекательным",
-    "His offer looks very attractive"
-  ],
-  [
-    "Холодно",
-    "It's cold"
-  ],
-  [
-    "Сейчас очень холодно",
-    "It's very cold now"
-  ],
-  [
-    "Эта шутка такая смешная",
-    "This joke is so funny"
-  ],
-  [
-    "Мальчик очень умный",
-    "The boy is very smart"
-  ],
-  [
-    "Мой отец работает здесь",
-    "My father works here"
-  ],
-  [
-    "Сейчас очень ветрено",
-    "It's very windy now"
-  ],
-  [
-    "Я думаю, это очень эффективный метод",
-    "I think it's a very effective method"
-  ],
-  [
-    "Это новое выражение для меня",
-    "It's a new expression for me"
-  ],
-  [
-    "Мужчина очень сильный",
-    "The man is very strong"
-  ],
-  [
-    "Мы с другом учимся в одной группе",
-    "My friend and I study in one group"
-  ],
-  [
-    "Сегодня так жарко",
-    "It's so hot today"
-  ],
-  [
-    "Студент здесь",
-    "The student is here"
-  ],
-  [
-    "Моя сестра — студентка",
-    "My sister is a student"
-  ],
-  [
-    "Тест кажется очень легким",
-    "The test seems very easy"
-  ],
-  [
-    "Мой друг учится со мной",
-    "My friend studies with me"
-  ],
-  [
-    "Предложение кажется таким привлекательным",
-    "The offer seems so attractive"
-  ],
-  [
-    "Я со своим другом учусь в одной той же группу",
-    "My friend and I study in the same group"
-  ]
+  {
+    "_id": 1,
+    "ru": "Мои родители часто ходят туда",
+    "en": "My parents often go there"
+  },
+  {
+    "_id": 2,
+    "ru": "Предложение очень привлекательное",
+    "en": "The offer is very attractive"
+  },
+  {
+    "_id": 3,
+    "ru": "Сейчас очень солнечно",
+    "en": "It's very sunny now"
+  },
+  {
+    "_id": 4,
+    "ru": "Мой друг живет в другой стране",
+    "en": "My friend lives in another country"
+  },
+  {
+    "_id": 5,
+    "ru": "Мой лучший друг живет в этом районе",
+    "en": "My best friend lives in this area"
+  },
+  {
+    "_id": 6,
+    "ru": "Мой двоюродный брат работает дизайнером",
+    "en": "My cousin works as a designer"
+  },
+  {
+    "_id": 7,
+    "ru": "Билет кажется таким дорогим",
+    "en": "The ticket seems so expensive"
+  },
+  {
+    "_id": 8,
+    "ru": "Билеты действительно такие дорогие",
+    "en": "The tickets are really so expensive"
+  },
+  {
+    "_id": 9,
+    "ru": "Это предложение кажется очень привлекательным",
+    "en": "This offer seems very attractive"
+  },
+  {
+    "_id": 10,
+    "ru": "Моя мама работает там",
+    "en": "My mother works there"
+  },
+  {
+    "_id": 11,
+    "ru": "Девочка ходит в школу",
+    "en": "The girl goes to school"
+  },
+  {
+    "_id": 12,
+    "ru": "Мой лучший друг всегда помогает мне",
+    "en": "My best friend always helps me"
+  },
+  {
+    "_id": 13,
+    "ru": "Мой брат работает программистом",
+    "en": "My brother works as a programmer"
+  },
+  {
+    "_id": 14,
+    "ru": "Тепло",
+    "en": "It's warm"
+  },
+  {
+    "_id": 15,
+    "ru": "Сейчас ветрено",
+    "en": "It's windy now"
+  },
+  {
+    "_id": 16,
+    "ru": "Эта шутка кажется такой смешной",
+    "en": "This joke seems so funny"
+  },
+  {
+    "_id": 17,
+    "ru": "Это выражение новое для меня",
+    "en": "This expression is new for me"
+  },
+  {
+    "_id": 18,
+    "ru": "Это слово новое для меня",
+    "en": "This word is new for me"
+  },
+  {
+    "_id": 19,
+    "ru": "Мой отец работает менеджером",
+    "en": "My father works as a manager"
+  },
+  {
+    "_id": 20,
+    "ru": "Девочка очень талантливая",
+    "en": "The girl is very talented"
+  },
+  {
+    "_id": 21,
+    "ru": "Этот тест действительно сложный",
+    "en": "This test is really difficult"
+  },
+  {
+    "_id": 22,
+    "ru": "Жарко",
+    "en": "It's hot"
+  },
+  {
+    "_id": 23,
+    "ru": "Мальчик учится там",
+    "en": "The boy studies there"
+  },
+  {
+    "_id": 24,
+    "ru": "Это новое слово для меня",
+    "en": "It's a new word for me"
+  },
+  {
+    "_id": 25,
+    "ru": "Сегодня солнечно",
+    "en": "It's sunny today"
+  },
+  {
+    "_id": 26,
+    "ru": "Сейчас очень тепло",
+    "en": "It's very warm now"
+  },
+  {
+    "_id": 27,
+    "ru": "Шутка очень забавная",
+    "en": "The joke is very funny"
+  },
+  {
+    "_id": 28,
+    "ru": "Моя мама работает врачом",
+    "en": "My mother works as a doctor"
+  },
+  {
+    "_id": 29,
+    "ru": "Его отец — бизнесмен",
+    "en": "His father is a businessman"
+  },
+  {
+    "_id": 30,
+    "ru": "Его отец занимается бизнесом",
+    "en": "His father does business"
+  },
+  {
+    "_id": 31,
+    "ru": "Студенты здесь",
+    "en": "The students are here"
+  },
+  {
+    "_id": 32,
+    "ru": "Мужчина выглядит очень сильным",
+    "en": "The man looks very strong"
+  },
+  {
+    "_id": 33,
+    "ru": "Его предложение выглядит очень привлекательным",
+    "en": "His offer looks very attractive"
+  },
+  {
+    "_id": 34,
+    "ru": "Холодно",
+    "en": "It's cold"
+  },
+  {
+    "_id": 35,
+    "ru": "Сейчас очень холодно",
+    "en": "It's very cold now"
+  },
+  {
+    "_id": 36,
+    "ru": "Эта шутка такая смешная",
+    "en": "This joke is so funny"
+  },
+  {
+    "_id": 37,
+    "ru": "Мальчик очень умный",
+    "en": "The boy is very smart"
+  },
+  {
+    "_id": 38,
+    "ru": "Мой отец работает здесь",
+    "en": "My father works here"
+  },
+  {
+    "_id": 39,
+    "ru": "Сейчас очень ветрено",
+    "en": "It's very windy now"
+  },
+  {
+    "_id": 40,
+    "ru": "Я думаю, это очень эффективный метод",
+    "en": "I think it's a very effective method"
+  },
+  {
+    "_id": 41,
+    "ru": "Это новое выражение для меня",
+    "en": "It's a new expression for me"
+  },
+  {
+    "_id": 42,
+    "ru": "Мужчина очень сильный",
+    "en": "The man is very strong"
+  },
+  {
+    "_id": 43,
+    "ru": "Мы с другом учимся в одной группе",
+    "en": "My friend and I study in one group"
+  },
+  {
+    "_id": 44,
+    "ru": "Сегодня так жарко",
+    "en": "It's so hot today"
+  },
+  {
+    "_id": 45,
+    "ru": "Студент здесь",
+    "en": "The student is here"
+  },
+  {
+    "_id": 46,
+    "ru": "Моя сестра — студентка",
+    "en": "My sister is a student"
+  },
+  {
+    "_id": 47,
+    "ru": "Тест кажется очень легким",
+    "en": "The test seems very easy"
+  },
+  {
+    "_id": 48,
+    "ru": "Мой друг учится со мной",
+    "en": "My friend studies with me"
+  },
+  {
+    "_id": 49,
+    "ru": "Предложение кажется таким привлекательным",
+    "en": "The offer seems so attractive"
+  },
+  {
+    "_id": 50,
+    "ru": "Я со своим другом учусь в одной той же группу",
+    "en": "My friend and I study in the same group"
+  }
 ]

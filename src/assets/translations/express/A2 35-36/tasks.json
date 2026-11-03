@@ -1,82 +1,102 @@
 [
-  [
-    "У меня никогда не было такого рода опыта",
-    "I've never had this kind of experience"
-  ],
-  [
-    "Учитель попросил их заполнить пропуски",
-    "The teacher asked them to fill in the gaps"
-  ],
-  [
-    "Заполните форму, пожалуйста!",
-    "Fill in the form, please!"
-  ],
-  [
-    "Что он сейчас ест?",
-    "What is he eating now?"
-  ],
-  [
-    "Он только что извинился за свое грубое поведение",
-    "He's just apologized for his rude behaviour"
-  ],
-  [
-    "Он только что сделал ошибку",
-    "He's just made a mistake"
-  ],
-  [
-    "Я чувствовал, что мне нужно было гораздо больше практики",
-    "I felt that I needed much more practice"
-  ],
-  [
-    "Ты можешь копировать ошибки других людей там",
-    "You can copy other people's mistakes there"
-  ],
-  [
-    "Когда я пришел туда, я осознал, что пропустил автобус",
-    "When I came there, I realized that I had missed the bus"
-  ],
-  [
-    "Это сейчас так дорого стоит",
-    "It costs so much now"
-  ],
-  [
-    "Я еще не выбрал ответ",
-    "I haven't chosen the answer yet"
-  ],
-  [
-    "Он обещал сделать это так много раз",
-    "He's promised to do it so many times"
-  ],
-  [
-    "Пока он нес ее сумку, они говорили о чем-то",
-    "While he was carrying her bag, they were talking about something"
-  ],
-  [
-    "Я еще не ответил на это письмо",
-    "I haven't answered this letter yet"
-  ],
-  [
-    "Вы можете копировать ошибки других студентов там",
-    "You can copy other students' mistakes there"
-  ],
-  [
-    "О чем он говорит? Я не могу понять это",
-    "What is he talking about? I can't understand it"
-  ],
-  [
-    "Я еще не заметил каких-либо серьезных изменений",
-    "I haven't noticed any serious changes yet"
-  ],
-  [
-    "Он занял очень большую сумму денег в этом месяце",
-    "He's borrowed a very big sum of money this month"
-  ],
-  [
-    "Он старается путешествовать каждый год",
-    "He tries to travel every year"
-  ],
-  [
-    "Мальчик играл в эту игру весь день",
-    "The boy was playing this game all day"
-  ]
+  {
+    "_id": 1,
+    "ru": "У меня никогда не было такого рода опыта",
+    "en": "I've never had this kind of experience"
+  },
+  {
+    "_id": 2,
+    "ru": "Учитель попросил их заполнить пропуски",
+    "en": "The teacher asked them to fill in the gaps"
+  },
+  {
+    "_id": 3,
+    "ru": "Заполните форму, пожалуйста!",
+    "en": "Fill in the form, please!"
+  },
+  {
+    "_id": 4,
+    "ru": "Что он сейчас ест?",
+    "en": "What is he eating now?"
+  },
+  {
+    "_id": 5,
+    "ru": "Он только что извинился за свое грубое поведение",
+    "en": "He's just apologized for his rude behaviour"
+  },
+  {
+    "_id": 6,
+    "ru": "Он только что сделал ошибку",
+    "en": "He's just made a mistake"
+  },
+  {
+    "_id": 7,
+    "ru": "Я чувствовал, что мне нужно было гораздо больше практики",
+    "en": "I felt that I needed much more practice"
+  },
+  {
+    "_id": 8,
+    "ru": "Ты можешь копировать ошибки других людей там",
+    "en": "You can copy other people's mistakes there"
+  },
+  {
+    "_id": 9,
+    "ru": "Когда я пришел туда, я осознал, что пропустил автобус",
+    "en": "When I came there, I realized that I had missed the bus"
+  },
+  {
+    "_id": 10,
+    "ru": "Это сейчас так дорого стоит",
+    "en": "It costs so much now"
+  },
+  {
+    "_id": 11,
+    "ru": "Я еще не выбрал ответ",
+    "en": "I haven't chosen the answer yet"
+  },
+  {
+    "_id": 12,
+    "ru": "Он обещал сделать это так много раз",
+    "en": "He's promised to do it so many times"
+  },
+  {
+    "_id": 13,
+    "ru": "Пока он нес ее сумку, они говорили о чем-то",
+    "en": "While he was carrying her bag, they were talking about something"
+  },
+  {
+    "_id": 14,
+    "ru": "Я еще не ответил на это письмо",
+    "en": "I haven't answered this letter yet"
+  },
+  {
+    "_id": 15,
+    "ru": "Вы можете копировать ошибки других студентов там",
+    "en": "You can copy other students' mistakes there"
+  },
+  {
+    "_id": 16,
+    "ru": "О чем он говорит? Я не могу понять это",
+    "en": "What is he talking about? I can't understand it"
+  },
+  {
+    "_id": 17,
+    "ru": "Я еще не заметил каких-либо серьезных изменений",
+    "en": "I haven't noticed any serious changes yet"
+  },
+  {
+    "_id": 18,
+    "ru": "Он занял очень большую сумму денег в этом месяце",
+    "en": "He's borrowed a very big sum of money this month"
+  },
+  {
+    "_id": 19,
+    "ru": "Он старается путешествовать каждый год",
+    "en": "He tries to travel every year"
+  },
+  {
+    "_id": 20,
+    "ru": "Мальчик играл в эту игру весь день",
+    "en": "The boy was playing this game all day"
+  }
 ]

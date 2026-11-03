@@ -1,386 +1,482 @@
 [
-  [
-    "Я не дома",
-    "I'm not at home"
-  ],
-  [
-    "Они не счастливы",
-    "They aren't happy"
-  ],
-  [
-    "Она не занята сейчас",
-    "She isn't busy now"
-  ],
-  [
-    "Это не так сложно",
-    "It isn't so difficult"
-  ],
-  [
-    "Она не занята сейчас",
-    "She isn't busy now"
-  ],
-  [
-    "Это не популярно",
-    "It isn't popular"
-  ],
-  [
-    "Они не счастливы",
-    "They aren't happy"
-  ],
-  [
-    "Это не так интересно для меня",
-    "It isn't so interesting for me"
-  ],
-  [
-    "Мы не здесь",
-    "We aren't here"
-  ],
-  [
-    "Это не лучше",
-    "It isn't better"
-  ],
-  [
-    "Ты не прав",
-    "You aren't right"
-  ],
-  [
-    "Это не популярно сейчас",
-    "It isn't popular now"
-  ],
-  [
-    "Он не прав",
-    "He isn't right"
-  ],
-  [
-    "Он не молодой",
-    "He isn't young"
-  ],
-  [
-    "Я не дома",
-    "I'm not at home"
-  ],
-  [
-    "Это не проблема",
-    "It isn't a problem"
-  ],
-  [
-    "Они не женаты",
-    "They aren't married"
-  ],
-  [
-    "Это не так много",
-    "It isn't so much"
-  ],
-  [
-    "Она не ленивая",
-    "She isn't lazy"
-  ],
-  [
-    "Это не легко",
-    "It isn't easy"
-  ],
-  [
-    "Он не женат",
-    "He isn't married"
-  ],
-  [
-    "Это не дорого",
-    "It isn't expensive"
-  ],
-  [
-    "Я не ленивый",
-    "I'm not lazy"
-  ],
-  [
-    "Они не богаты",
-    "They aren't rich"
-  ],
-  [
-    "Это не важно",
-    "It isn't important"
-  ],
-  [
-    "Это не так хорошо",
-    "It isn't so good"
-  ],
-  [
-    "Они не такие трудолюбивые",
-    "They aren't so hard-working"
-  ],
-  [
-    "Он не доктор",
-    "He isn't a doctor"
-  ],
-  [
-    "Она не замужем",
-    "She isn't married"
-  ],
-  [
-    "Это не интересно",
-    "It isn't interesting"
-  ],
-  [
-    "Это не мало",
-    "It isn't little"
-  ],
-  [
-    "Она не старая",
-    "She isn't old"
-  ],
-  [
-    "Это не много",
-    "It isn't much"
-  ],
-  [
-    "Это не так легко",
-    "It isn't so easy"
-  ],
-  [
-    "Он не такой трудолюбивый",
-    "He isn't so hard-working"
-  ],
-  [
-    "Она не учительница",
-    "She isn't a teacher"
-  ],
-  [
-    "Они не друзья",
-    "They aren't friends"
-  ],
-  [
-    "Он не менеджер",
-    "He isn't a manager"
-  ],
-  [
-    "Это не сложно",
-    "It isn't difficult"
-  ],
-  [
-    "Она не счастлива",
-    "She isn't happy"
-  ],
-  [
-    "Он не бедный",
-    "He isn't poor"
-  ],
-  [
-    "Они сейчас не в школе",
-    "They aren't at school now"
-  ],
-  [
-    "Это не так плохо",
-    "It isn't so bad"
-  ],
-  [
-    "Я думаю, это не правильно",
-    "I think it isn't right"
-  ],
-  [
-    "Это не лучшее решение",
-    "It isn't the best decision"
-  ],
-  [
-    "Я знаю, он не дома сейчас",
-    "I know he isn't at home now"
-  ],
-  [
-    "Я знаю, это не бесплатно",
-    "I know it isn't free"
-  ],
-  [
-    "Это не лучшая идея",
-    "It isn't the best idea"
-  ],
-  [
-    "Я вижу, это не дорого",
-    "I see it isn't expensive"
-  ],
-  [
-    "Я знаю, они не правы",
-    "I know they aren't right"
-  ],
-  [
-    "Я думаю, что это не так плохо",
-    "I think that it isn't so bad"
-  ],
-  [
-    "Это не правильно",
-    "It isn't right"
-  ],
-  [
-    "Я не боюсь этого",
-    "I'm not afraid of it"
-  ],
-  [
-    "Я думаю, это не так дешево",
-    "I think it isn't so cheap"
-  ],
-  [
-    "Она думает, что он не прав",
-    "She thinks that he isn't right"
-  ],
-  [
-    "Я думаю, это не реально",
-    "I think it isn't real"
-  ],
-  [
-    "Я думаю, что это не лучший ответ",
-    "I think that it isn't the best answer"
-  ],
-  [
-    "Он не уверен",
-    "He isn't sure"
-  ],
-  [
-    "Это не возможно",
-    "It isn't possible"
-  ],
-  [
-    "Это возможно",
-    "It is possible"
-  ],
-  [
-    "Мы не так близко",
-    "We aren't so near"
-  ],
-  [
-    "Это не так близко",
-    "It isn't so near"
-  ],
-  [
-    "Они так близко",
-    "They are so near"
-  ],
-  [
-    "Я знаю, она не на работе сейчас",
-    "I know she isn't at work now"
-  ],
-  [
-    "Он знает, она на работе сейчас",
-    "He knows she is at work now"
-  ],
-  [
-    "Ты знаешь, она не в школе сейчас",
-    "You know she isn't at school now"
-  ],
-  [
-    "Я думаю, это не ошибка",
-    "I think it isn't a mistake"
-  ],
-  [
-    "Она думает, это не ошибка",
-    "She thinks it isn't a mistake"
-  ],
-  [
-    "Мы думаем, это ошибка",
-    "We think it is a mistake"
-  ],
-  [
-    "Мы не уверены",
-    "We aren't sure"
-  ],
-  [
-    "Мы уверены",
-    "We are sure"
-  ],
-  [
-    "Это не бесплатно",
-    "It isn't free"
-  ],
-  [
-    "Это бесплатно",
-    "It is free"
-  ],
-  [
-    "Я думаю, что это не правильно",
-    "I think that it isn't correct"
-  ],
-  [
-    "Я думаю это правильно",
-    "I think it is correct"
-  ],
-  [
-    "Я думаю, это не лучшее решение",
-    "I think it isn't the best decision"
-  ],
-  [
-    "Она думает, это лучшее решение",
-    "She thinks it is the best decision"
-  ],
-  [
-    "Я вижу, это не эффективно",
-    "I see it isn't effective"
-  ],
-  [
-    "Я вижу, что это эффективно",
-    "I see that it is effective"
-  ],
-  [
-    "Это не так далеко",
-    "It isn't so far"
-  ],
-  [
-    "Это так далеко",
-    "It is so far"
-  ],
-  [
-    "Это не эффективно",
-    "It isn't effective"
-  ],
-  [
-    "Я не уверен",
-    "I'm not sure"
-  ],
-  [
-    "Это не правильно",
-    "It isn't correct"
-  ],
-  [
-    "Я знаю, это не далеко",
-    "I know it isn't far"
-  ],
-  [
-    "Я вижу, это не так близко",
-    "I see it isn't so near"
-  ],
-  [
-    "Я думаю, это невозможно",
-    "I think it isn't possible"
-  ],
-  [
-    "Это не лучший ответ",
-    "It isn't the best answer"
-  ],
-  [
-    "Я вижу, это не так дешево",
-    "I see it isn't so cheap"
-  ],
-  [
-    "Я не боюсь этих вещей",
-    "I'm not afraid of these things"
-  ],
-  [
-    "Я вижу, они не счастливы вместе",
-    "I see they aren't happy together"
-  ],
-  [
-    "Я не боюсь",
-    "I'm not afraid"
-  ],
-  [
-    "Это не реально",
-    "It isn't real"
-  ],
-  [
-    "Они не боятся",
-    "They aren't afraid"
-  ],
-  [
-    "Я вижу, это не лучшая идея",
-    "I see it isn't the best idea"
-  ],
-  [
-    "Он не боится этого",
-    "He isn't afraid of it"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я не дома",
+    "en": "I'm not at home"
+  },
+  {
+    "_id": 2,
+    "ru": "Они не счастливы",
+    "en": "They aren't happy"
+  },
+  {
+    "_id": 3,
+    "ru": "Она не занята сейчас",
+    "en": "She isn't busy now"
+  },
+  {
+    "_id": 4,
+    "ru": "Это не так сложно",
+    "en": "It isn't so difficult"
+  },
+  {
+    "_id": 5,
+    "ru": "Она не занята сейчас",
+    "en": "She isn't busy now"
+  },
+  {
+    "_id": 6,
+    "ru": "Это не популярно",
+    "en": "It isn't popular"
+  },
+  {
+    "_id": 7,
+    "ru": "Они не счастливы",
+    "en": "They aren't happy"
+  },
+  {
+    "_id": 8,
+    "ru": "Это не так интересно для меня",
+    "en": "It isn't so interesting for me"
+  },
+  {
+    "_id": 9,
+    "ru": "Мы не здесь",
+    "en": "We aren't here"
+  },
+  {
+    "_id": 10,
+    "ru": "Это не лучше",
+    "en": "It isn't better"
+  },
+  {
+    "_id": 11,
+    "ru": "Ты не прав",
+    "en": "You aren't right"
+  },
+  {
+    "_id": 12,
+    "ru": "Это не популярно сейчас",
+    "en": "It isn't popular now"
+  },
+  {
+    "_id": 13,
+    "ru": "Он не прав",
+    "en": "He isn't right"
+  },
+  {
+    "_id": 14,
+    "ru": "Он не молодой",
+    "en": "He isn't young"
+  },
+  {
+    "_id": 15,
+    "ru": "Я не дома",
+    "en": "I'm not at home"
+  },
+  {
+    "_id": 16,
+    "ru": "Это не проблема",
+    "en": "It isn't a problem"
+  },
+  {
+    "_id": 17,
+    "ru": "Они не женаты",
+    "en": "They aren't married"
+  },
+  {
+    "_id": 18,
+    "ru": "Это не так много",
+    "en": "It isn't so much"
+  },
+  {
+    "_id": 19,
+    "ru": "Она не ленивая",
+    "en": "She isn't lazy"
+  },
+  {
+    "_id": 20,
+    "ru": "Это не легко",
+    "en": "It isn't easy"
+  },
+  {
+    "_id": 21,
+    "ru": "Он не женат",
+    "en": "He isn't married"
+  },
+  {
+    "_id": 22,
+    "ru": "Это не дорого",
+    "en": "It isn't expensive"
+  },
+  {
+    "_id": 23,
+    "ru": "Я не ленивый",
+    "en": "I'm not lazy"
+  },
+  {
+    "_id": 24,
+    "ru": "Они не богаты",
+    "en": "They aren't rich"
+  },
+  {
+    "_id": 25,
+    "ru": "Это не важно",
+    "en": "It isn't important"
+  },
+  {
+    "_id": 26,
+    "ru": "Это не так хорошо",
+    "en": "It isn't so good"
+  },
+  {
+    "_id": 27,
+    "ru": "Они не такие трудолюбивые",
+    "en": "They aren't so hard-working"
+  },
+  {
+    "_id": 28,
+    "ru": "Он не доктор",
+    "en": "He isn't a doctor"
+  },
+  {
+    "_id": 29,
+    "ru": "Она не замужем",
+    "en": "She isn't married"
+  },
+  {
+    "_id": 30,
+    "ru": "Это не интересно",
+    "en": "It isn't interesting"
+  },
+  {
+    "_id": 31,
+    "ru": "Это не мало",
+    "en": "It isn't little"
+  },
+  {
+    "_id": 32,
+    "ru": "Она не старая",
+    "en": "She isn't old"
+  },
+  {
+    "_id": 33,
+    "ru": "Это не много",
+    "en": "It isn't much"
+  },
+  {
+    "_id": 34,
+    "ru": "Это не так легко",
+    "en": "It isn't so easy"
+  },
+  {
+    "_id": 35,
+    "ru": "Он не такой трудолюбивый",
+    "en": "He isn't so hard-working"
+  },
+  {
+    "_id": 36,
+    "ru": "Она не учительница",
+    "en": "She isn't a teacher"
+  },
+  {
+    "_id": 37,
+    "ru": "Они не друзья",
+    "en": "They aren't friends"
+  },
+  {
+    "_id": 38,
+    "ru": "Он не менеджер",
+    "en": "He isn't a manager"
+  },
+  {
+    "_id": 39,
+    "ru": "Это не сложно",
+    "en": "It isn't difficult"
+  },
+  {
+    "_id": 40,
+    "ru": "Она не счастлива",
+    "en": "She isn't happy"
+  },
+  {
+    "_id": 41,
+    "ru": "Он не бедный",
+    "en": "He isn't poor"
+  },
+  {
+    "_id": 42,
+    "ru": "Они сейчас не в школе",
+    "en": "They aren't at school now"
+  },
+  {
+    "_id": 43,
+    "ru": "Это не так плохо",
+    "en": "It isn't so bad"
+  },
+  {
+    "_id": 44,
+    "ru": "Я думаю, это не правильно",
+    "en": "I think it isn't right"
+  },
+  {
+    "_id": 45,
+    "ru": "Это не лучшее решение",
+    "en": "It isn't the best decision"
+  },
+  {
+    "_id": 46,
+    "ru": "Я знаю, он не дома сейчас",
+    "en": "I know he isn't at home now"
+  },
+  {
+    "_id": 47,
+    "ru": "Я знаю, это не бесплатно",
+    "en": "I know it isn't free"
+  },
+  {
+    "_id": 48,
+    "ru": "Это не лучшая идея",
+    "en": "It isn't the best idea"
+  },
+  {
+    "_id": 49,
+    "ru": "Я вижу, это не дорого",
+    "en": "I see it isn't expensive"
+  },
+  {
+    "_id": 50,
+    "ru": "Я знаю, они не правы",
+    "en": "I know they aren't right"
+  },
+  {
+    "_id": 51,
+    "ru": "Я думаю, что это не так плохо",
+    "en": "I think that it isn't so bad"
+  },
+  {
+    "_id": 52,
+    "ru": "Это не правильно",
+    "en": "It isn't right"
+  },
+  {
+    "_id": 53,
+    "ru": "Я не боюсь этого",
+    "en": "I'm not afraid of it"
+  },
+  {
+    "_id": 54,
+    "ru": "Я думаю, это не так дешево",
+    "en": "I think it isn't so cheap"
+  },
+  {
+    "_id": 55,
+    "ru": "Она думает, что он не прав",
+    "en": "She thinks that he isn't right"
+  },
+  {
+    "_id": 56,
+    "ru": "Я думаю, это не реально",
+    "en": "I think it isn't real"
+  },
+  {
+    "_id": 57,
+    "ru": "Я думаю, что это не лучший ответ",
+    "en": "I think that it isn't the best answer"
+  },
+  {
+    "_id": 58,
+    "ru": "Он не уверен",
+    "en": "He isn't sure"
+  },
+  {
+    "_id": 59,
+    "ru": "Это не возможно",
+    "en": "It isn't possible"
+  },
+  {
+    "_id": 60,
+    "ru": "Это возможно",
+    "en": "It is possible"
+  },
+  {
+    "_id": 61,
+    "ru": "Мы не так близко",
+    "en": "We aren't so near"
+  },
+  {
+    "_id": 62,
+    "ru": "Это не так близко",
+    "en": "It isn't so near"
+  },
+  {
+    "_id": 63,
+    "ru": "Они так близко",
+    "en": "They are so near"
+  },
+  {
+    "_id": 64,
+    "ru": "Я знаю, она не на работе сейчас",
+    "en": "I know she isn't at work now"
+  },
+  {
+    "_id": 65,
+    "ru": "Он знает, она на работе сейчас",
+    "en": "He knows she is at work now"
+  },
+  {
+    "_id": 66,
+    "ru": "Ты знаешь, она не в школе сейчас",
+    "en": "You know she isn't at school now"
+  },
+  {
+    "_id": 67,
+    "ru": "Я думаю, это не ошибка",
+    "en": "I think it isn't a mistake"
+  },
+  {
+    "_id": 68,
+    "ru": "Она думает, это не ошибка",
+    "en": "She thinks it isn't a mistake"
+  },
+  {
+    "_id": 69,
+    "ru": "Мы думаем, это ошибка",
+    "en": "We think it is a mistake"
+  },
+  {
+    "_id": 70,
+    "ru": "Мы не уверены",
+    "en": "We aren't sure"
+  },
+  {
+    "_id": 71,
+    "ru": "Мы уверены",
+    "en": "We are sure"
+  },
+  {
+    "_id": 72,
+    "ru": "Это не бесплатно",
+    "en": "It isn't free"
+  },
+  {
+    "_id": 73,
+    "ru": "Это бесплатно",
+    "en": "It is free"
+  },
+  {
+    "_id": 74,
+    "ru": "Я думаю, что это не правильно",
+    "en": "I think that it isn't correct"
+  },
+  {
+    "_id": 75,
+    "ru": "Я думаю это правильно",
+    "en": "I think it is correct"
+  },
+  {
+    "_id": 76,
+    "ru": "Я думаю, это не лучшее решение",
+    "en": "I think it isn't the best decision"
+  },
+  {
+    "_id": 77,
+    "ru": "Она думает, это лучшее решение",
+    "en": "She thinks it is the best decision"
+  },
+  {
+    "_id": 78,
+    "ru": "Я вижу, это не эффективно",
+    "en": "I see it isn't effective"
+  },
+  {
+    "_id": 79,
+    "ru": "Я вижу, что это эффективно",
+    "en": "I see that it is effective"
+  },
+  {
+    "_id": 80,
+    "ru": "Это не так далеко",
+    "en": "It isn't so far"
+  },
+  {
+    "_id": 81,
+    "ru": "Это так далеко",
+    "en": "It is so far"
+  },
+  {
+    "_id": 82,
+    "ru": "Это не эффективно",
+    "en": "It isn't effective"
+  },
+  {
+    "_id": 83,
+    "ru": "Я не уверен",
+    "en": "I'm not sure"
+  },
+  {
+    "_id": 84,
+    "ru": "Это не правильно",
+    "en": "It isn't correct"
+  },
+  {
+    "_id": 85,
+    "ru": "Я знаю, это не далеко",
+    "en": "I know it isn't far"
+  },
+  {
+    "_id": 86,
+    "ru": "Я вижу, это не так близко",
+    "en": "I see it isn't so near"
+  },
+  {
+    "_id": 87,
+    "ru": "Я думаю, это невозможно",
+    "en": "I think it isn't possible"
+  },
+  {
+    "_id": 88,
+    "ru": "Это не лучший ответ",
+    "en": "It isn't the best answer"
+  },
+  {
+    "_id": 89,
+    "ru": "Я вижу, это не так дешево",
+    "en": "I see it isn't so cheap"
+  },
+  {
+    "_id": 90,
+    "ru": "Я не боюсь этих вещей",
+    "en": "I'm not afraid of these things"
+  },
+  {
+    "_id": 91,
+    "ru": "Я вижу, они не счастливы вместе",
+    "en": "I see they aren't happy together"
+  },
+  {
+    "_id": 92,
+    "ru": "Я не боюсь",
+    "en": "I'm not afraid"
+  },
+  {
+    "_id": 93,
+    "ru": "Это не реально",
+    "en": "It isn't real"
+  },
+  {
+    "_id": 94,
+    "ru": "Они не боятся",
+    "en": "They aren't afraid"
+  },
+  {
+    "_id": 95,
+    "ru": "Я вижу, это не лучшая идея",
+    "en": "I see it isn't the best idea"
+  },
+  {
+    "_id": 96,
+    "ru": "Он не боится этого",
+    "en": "He isn't afraid of it"
+  }
 ]

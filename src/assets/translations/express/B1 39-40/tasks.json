@@ -1,86 +1,107 @@
 [
-  [
-    "Она сказала, что собирается защищать свои права",
-    "She said that she was going to defend her rights"
-  ],
-  [
-    "Я думал, что это рано или поздно случится",
-    "I thought that it would happen sooner or later"
-  ],
-  [
-    "Я хочу, чтобы ты понял, что это только так кажется",
-    "I want you to understand that it only seems so"
-  ],
-  [
-    "Если бы я был на твоем месте, я бы сделал то же самое",
-    "If I were you, I would do the same"
-  ],
-  [
-    "Кем ты воспитывался?",
-    "Who were you brought up by?"
-  ],
-  [
-    "Мне кажется, тебе не следует обращать на это внимание",
-    "It seems to me you shouldn't pay attention to it"
-  ],
-  [
-    "Я просто шучу",
-    "I'm just kidding"
-  ],
-  [
-    "Они объявили победителя",
-    "They declared the winner"
-  ],
-  [
-    "Ты можешь стереть это",
-    "You can rub it out"
-  ],
-  [
-    "Она сказала, что он правильно выполнил задание",
-    "She said that he performed the task correctly"
-  ],
-  [
-    "Вы когда-нибудь слышали об этом?",
-    "Have you ever heard about it?"
-  ],
-  [
-    "Они снабжают их водой",
-    "They supply them with water"
-  ],
-  [
-    "Не забудь выключить свет перед тем, как уйти",
-    "Don't forget to turn off the light before leaving"
-  ],
-  [
-    "Я пытаюсь уладить эту проблему сейчас",
-    "I'm trying to fix this problem now"
-  ],
-  [
-    "Он уже ушел на работу",
-    "He's already left for work"
-  ],
-  [
-    "Что стало причиной его смерти?",
-    "What caused his death?"
-  ],
-  [
-    "Написано, что этот продукт содержит орехи",
-    "It's written this product contains nuts"
-  ],
-  [
-    "Я должен был выполнить эту задачу",
-    "I had to complete that task"
-  ],
-  [
-    "Ты шутишь?",
-    "Are you joking?"
-  ],
-  [
-    "Написано, что это было произведено в Японии",
-    "It's written that it was produced in Japan"
-  ],
-  [
-    "Он сказал, что заберет меня из аэропорта",
-    "He said that he would collect me from the airport"
-  ]
+  {
+    "_id": 1,
+    "ru": "Она сказала, что собирается защищать свои права",
+    "en": "She said that she was going to defend her rights"
+  },
+  {
+    "_id": 2,
+    "ru": "Я думал, что это рано или поздно случится",
+    "en": "I thought that it would happen sooner or later"
+  },
+  {
+    "_id": 3,
+    "ru": "Я хочу, чтобы ты понял, что это только так кажется",
+    "en": "I want you to understand that it only seems so"
+  },
+  {
+    "_id": 4,
+    "ru": "Если бы я был на твоем месте, я бы сделал то же самое",
+    "en": "If I were you, I would do the same"
+  },
+  {
+    "_id": 5,
+    "ru": "Кем ты воспитывался?",
+    "en": "Who were you brought up by?"
+  },
+  {
+    "_id": 6,
+    "ru": "Мне кажется, тебе не следует обращать на это внимание",
+    "en": "It seems to me you shouldn't pay attention to it"
+  },
+  {
+    "_id": 7,
+    "ru": "Я просто шучу",
+    "en": "I'm just kidding"
+  },
+  {
+    "_id": 8,
+    "ru": "Они объявили победителя",
+    "en": "They declared the winner"
+  },
+  {
+    "_id": 9,
+    "ru": "Ты можешь стереть это",
+    "en": "You can rub it out"
+  },
+  {
+    "_id": 10,
+    "ru": "Она сказала, что он правильно выполнил задание",
+    "en": "She said that he performed the task correctly"
+  },
+  {
+    "_id": 11,
+    "ru": "Вы когда-нибудь слышали об этом?",
+    "en": "Have you ever heard about it?"
+  },
+  {
+    "_id": 12,
+    "ru": "Они снабжают их водой",
+    "en": "They supply them with water"
+  },
+  {
+    "_id": 13,
+    "ru": "Не забудь выключить свет перед тем, как уйти",
+    "en": "Don't forget to turn off the light before leaving"
+  },
+  {
+    "_id": 14,
+    "ru": "Я пытаюсь уладить эту проблему сейчас",
+    "en": "I'm trying to fix this problem now"
+  },
+  {
+    "_id": 15,
+    "ru": "Он уже ушел на работу",
+    "en": "He's already left for work"
+  },
+  {
+    "_id": 16,
+    "ru": "Что стало причиной его смерти?",
+    "en": "What caused his death?"
+  },
+  {
+    "_id": 17,
+    "ru": "Написано, что этот продукт содержит орехи",
+    "en": "It's written this product contains nuts"
+  },
+  {
+    "_id": 18,
+    "ru": "Я должен был выполнить эту задачу",
+    "en": "I had to complete that task"
+  },
+  {
+    "_id": 19,
+    "ru": "Ты шутишь?",
+    "en": "Are you joking?"
+  },
+  {
+    "_id": 20,
+    "ru": "Написано, что это было произведено в Японии",
+    "en": "It's written that it was produced in Japan"
+  },
+  {
+    "_id": 21,
+    "ru": "Он сказал, что заберет меня из аэропорта",
+    "en": "He said that he would collect me from the airport"
+  }
 ]

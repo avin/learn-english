@@ -1,94 +1,117 @@
 [
-  [
-    "Ты когда-нибудь рассматривал эту возможность?",
-    "Have you ever considered this opportunity?"
-  ],
-  [
-    "Он сжег письмо",
-    "He burnt the letter"
-  ],
-  [
-    "Тебе нужно нажать на кнопку",
-    "You need to press the button"
-  ],
-  [
-    "Я могу положиться на него",
-    "I can rely on him"
-  ],
-  [
-    "Мне нужно добавить одну очень важную вещь",
-    "I need to add one very important thing"
-  ],
-  [
-    "Нажми на кнопку!",
-    "Press the button!"
-  ],
-  [
-    "Когда он открыл дверь, он увидел незнакомца",
-    "When he opened a door, he saw a stranger"
-  ],
-  [
-    "Откровенно говоря, я никогда не рассматривал эту возможность",
-    "To be frank, I've never considered this opportunity"
-  ],
-  [
-    "Это значит, что нам нужно быть осторожнее",
-    "It means that we need to be more careful"
-  ],
-  [
-    "Она предложила мне чашку чая",
-    "She offered me a cup of tea"
-  ],
-  [
-    "Я уже дал ему совет",
-    "I've already given him some advice"
-  ],
-  [
-    "Я ожидаю, что в следующий раз это будет по-другому",
-    "I expect that next time it'll be different"
-  ],
-  [
-    "Ему нужно почистить машину",
-    "He needs to clean the car"
-  ],
-  [
-    "Кто-то стучал в дверь",
-    "Someone was knocking at the door"
-  ],
-  [
-    "Я посмотрел на них и увидел, что они вели себя очень странно",
-    "I looked at them and saw that they were behaving very strangely"
-  ],
-  [
-    "Она сказала, что прочитала ту книгу",
-    "She said that she had read that book"
-  ],
-  [
-    "Я всегда могу на него положиться",
-    "I can always rely on him"
-  ],
-  [
-    "Что ты имеешь в виду?",
-    "What do you mean?"
-  ],
-  [
-    "Когда ты вернешься домой?",
-    "When will you return home?"
-  ],
-  [
-    "Эта речь действительно вдохновила аудиторию",
-    "This speech really inspired the audience"
-  ],
-  [
-    "Они действительно убили его?",
-    "Did they really kill him?"
-  ],
-  [
-    "Они предоставляют отличные условия",
-    "They provide excellent conditions"
-  ],
-  [
-    "Это принесло мне массу положительных эмоций",
-    "It brought me lots of positive emotions"
-  ]
+  {
+    "_id": 1,
+    "ru": "Ты когда-нибудь рассматривал эту возможность?",
+    "en": "Have you ever considered this opportunity?"
+  },
+  {
+    "_id": 2,
+    "ru": "Он сжег письмо",
+    "en": "He burnt the letter"
+  },
+  {
+    "_id": 3,
+    "ru": "Тебе нужно нажать на кнопку",
+    "en": "You need to press the button"
+  },
+  {
+    "_id": 4,
+    "ru": "Я могу положиться на него",
+    "en": "I can rely on him"
+  },
+  {
+    "_id": 5,
+    "ru": "Мне нужно добавить одну очень важную вещь",
+    "en": "I need to add one very important thing"
+  },
+  {
+    "_id": 6,
+    "ru": "Нажми на кнопку!",
+    "en": "Press the button!"
+  },
+  {
+    "_id": 7,
+    "ru": "Когда он открыл дверь, он увидел незнакомца",
+    "en": "When he opened a door, he saw a stranger"
+  },
+  {
+    "_id": 8,
+    "ru": "Откровенно говоря, я никогда не рассматривал эту возможность",
+    "en": "To be frank, I've never considered this opportunity"
+  },
+  {
+    "_id": 9,
+    "ru": "Это значит, что нам нужно быть осторожнее",
+    "en": "It means that we need to be more careful"
+  },
+  {
+    "_id": 10,
+    "ru": "Она предложила мне чашку чая",
+    "en": "She offered me a cup of tea"
+  },
+  {
+    "_id": 11,
+    "ru": "Я уже дал ему совет",
+    "en": "I've already given him some advice"
+  },
+  {
+    "_id": 12,
+    "ru": "Я ожидаю, что в следующий раз это будет по-другому",
+    "en": "I expect that next time it'll be different"
+  },
+  {
+    "_id": 13,
+    "ru": "Ему нужно почистить машину",
+    "en": "He needs to clean the car"
+  },
+  {
+    "_id": 14,
+    "ru": "Кто-то стучал в дверь",
+    "en": "Someone was knocking at the door"
+  },
+  {
+    "_id": 15,
+    "ru": "Я посмотрел на них и увидел, что они вели себя очень странно",
+    "en": "I looked at them and saw that they were behaving very strangely"
+  },
+  {
+    "_id": 16,
+    "ru": "Она сказала, что прочитала ту книгу",
+    "en": "She said that she had read that book"
+  },
+  {
+    "_id": 17,
+    "ru": "Я всегда могу на него положиться",
+    "en": "I can always rely on him"
+  },
+  {
+    "_id": 18,
+    "ru": "Что ты имеешь в виду?",
+    "en": "What do you mean?"
+  },
+  {
+    "_id": 19,
+    "ru": "Когда ты вернешься домой?",
+    "en": "When will you return home?"
+  },
+  {
+    "_id": 20,
+    "ru": "Эта речь действительно вдохновила аудиторию",
+    "en": "This speech really inspired the audience"
+  },
+  {
+    "_id": 21,
+    "ru": "Они действительно убили его?",
+    "en": "Did they really kill him?"
+  },
+  {
+    "_id": 22,
+    "ru": "Они предоставляют отличные условия",
+    "en": "They provide excellent conditions"
+  },
+  {
+    "_id": 23,
+    "ru": "Это принесло мне массу положительных эмоций",
+    "en": "It brought me lots of positive emotions"
+  }
 ]

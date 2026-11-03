@@ -1,358 +1,447 @@
 [
-  [
-    "Ты знаешь, какое у него имя?",
-    "Do you know what his name is?"
-  ],
-  [
-    "Скажи мне, где они!",
-    "Tell me where they are!"
-  ],
-  [
-    "Я хотел бы знать, откуда он",
-    "I'd like to know where he is from"
-  ],
-  [
-    "Ты можешь сказать мне, сколько это стоит?",
-    "Can you tell me how much it is?"
-  ],
-  [
-    "Ты можешь сказать мне, где документы?",
-    "Can you tell me where the documents are?"
-  ],
-  [
-    "Я осознаю, насколько это опасно",
-    "I realise how dangerous it is"
-  ],
-  [
-    "Ты можешь сказать мне, почему ты отсутствовал вчера?",
-    "Can you tell me why you were absent yesterday?"
-  ],
-  [
-    "Ты можешь сказать мне, который час?",
-    "Can you tell me what time it is?"
-  ],
-  [
-    "Я действительно вижу, как великолепно это место",
-    "I really see how magnificent this place is"
-  ],
-  [
-    "Ты можешь сказать мне, где эта улица?",
-    "Can you tell me where this street is?"
-  ],
-  [
-    "Ты знаешь, почему это произошло?",
-    "Do you know why it happened?"
-  ],
-  [
-    "Ты знаешь, как быстрее добраться до этого места?",
-    "Do you know how to get to this place more quickly?"
-  ],
-  [
-    "Ты мог бы сказать мне, где находится станция?",
-    "Could you tell me where the station is?"
-  ],
-  [
-    "Ты знаешь, где находится ближайший супермаркет?",
-    "Do you know where the nearest supermarket is?"
-  ],
-  [
-    "Я понимаю, как это ответственно",
-    "I understand how responsible it is"
-  ],
-  [
-    "Ты знаешь, во сколько магазин открывается?",
-    "Do you know what time the shop opens?"
-  ],
-  [
-    "Я хотел бы знать, откуда она",
-    "I'd like to know where she is from"
-  ],
-  [
-    "Где станция?",
-    "Where is the station?"
-  ],
-  [
-    "Что он делает?",
-    "What is he doing?"
-  ],
-  [
-    "Который сейчас час?",
-    "What time is it?"
-  ],
-  [
-    "Ты знаешь, когда этот поезд отправляется?",
-    "Do you know when this train departs?"
-  ],
-  [
-    "Я не знаю где это",
-    "I don't know where it is"
-  ],
-  [
-    "Ты знаешь, что он делает?",
-    "Do you know what he is doing?"
-  ],
-  [
-    "Я вижу, насколько эффективный этот курс",
-    "I see how effective this course is"
-  ],
-  [
-    "Ты знаешь, как его зовут?",
-    "Do you know what his name is?"
-  ],
-  [
-    "Почему ты вчера отсутствовал?",
-    "Why were you absent yesterday?"
-  ],
-  [
-    "Почему это произошло?",
-    "Why did it happen?"
-  ],
-  [
-    "Ты знаешь, как далеко это место?",
-    "Do you know how far is this place?"
-  ],
-  [
-    "Ты мог бы сказать мне, когда прибудет этот поезд?",
-    "Could you tell me when this train arrives?"
-  ],
-  [
-    "Я хотел бы знать, сколько это стоит",
-    "I'd like to know how much it costs"
-  ],
-  [
-    "Я действительно вижу, насколько эффективный этот метод",
-    "I really see how effective this method is"
-  ],
-  [
-    "Ты мог бы сказать мне, где находится почтовое отделение?",
-    "Could you tell me where the post office is?"
-  ],
-  [
-    "Я хотел бы знать, почему ты так думаешь",
-    "I'd like to know why you think so"
-  ],
-  [
-    "Ты знаешь, в какое время супермаркет закрывается?",
-    "Do you know what time the supermarket closes?"
-  ],
-  [
-    "Ты знаешь, где находится ближайший банк?",
-    "Do you know where the nearest bank is?"
-  ],
-  [
-    "Ты знаешь, где находится универмаг?",
-    "Do you know where the department store is?"
-  ],
-  [
-    "Я не знаю сколько это может стоить",
-    "I don't know how much it can cost"
-  ],
-  [
-    "У тебя есть какая-либо идея, почему это так?",
-    "Do you have any idea why it is so?"
-  ],
-  [
-    "Ты знаешь, когда прибывает следующий поезд?",
-    "Do you know when the next train arrives?"
-  ],
-  [
-    "Ты знаешь, что означает это выражение?",
-    "Do you know what this expression means?"
-  ],
-  [
-    "Он не понимает, насколько это важно",
-    "He doesn't understand how important it is"
-  ],
-  [
-    "Интересно, кто стоит за этим",
-    "I wonder who stands behind it"
-  ],
-  [
-    "Он хочет знать, почему ты опоздал на работу",
-    "He wants to know why you were late for work"
-  ],
-  [
-    "Они действительно не осознают, насколько это важно",
-    "They don't really realise how important it is"
-  ],
-  [
-    "Как празднуется Рождество в Европе?",
-    "How is Christmas celebrated in Europe?"
-  ],
-  [
-    "Я не знаю, почему она опоздала в школу",
-    "I don't know why she was late for school"
-  ],
-  [
-    "Ты знаешь, кто автор этой книги?",
-    "Do you know who the author of this book is?"
-  ],
-  [
-    "Ты можешь сказать мне, что на обед?",
-    "Can you tell me what is for lunch?"
-  ],
-  [
-    "Ты можешь сказать мне, где находится класс?",
-    "Can you tell me where the classroom is?"
-  ],
-  [
-    "Когда ресторан открыт?",
-    "When is the restaurant open?"
-  ],
-  [
-    "Есть какой-либо шанс, что это произойдет?",
-    "Is there any chance that it will happen?"
-  ],
-  [
-    "Какая главная причина ее отказа?",
-    "What's the main reason for her refusal?"
-  ],
-  [
-    "Я не знаю, что будет на ужин",
-    "I don't know what will be for dinner"
-  ],
-  [
-    "Я не знаю, как долго будет длиться встреча",
-    "I don't know how long the meeting will last"
-  ],
-  [
-    "Я не знаю, как долго будет длиться эта конференция",
-    "I don't know how long this conference will last"
-  ],
-  [
-    "Я знаю, как долго продлится этот фильм",
-    "I know how long this movie will last"
-  ],
-  [
-    "Я понятия не имею, почему это происходит",
-    "I have no idea why it happens"
-  ],
-  [
-    "Я понятия не имею, почему это произошло",
-    "I have no idea why it happened"
-  ],
-  [
-    "Я понятия не имею, почему он это делает",
-    "I have no idea why he does it"
-  ],
-  [
-    "Ты знаешь, сколько времени занимает сделать это?",
-    "Do you know how long it takes to do it?"
-  ],
-  [
-    "Ты знаешь, когда ресторан открыт?",
-    "Do you know when the restaurant is open?"
-  ],
-  [
-    "Ты знаешь, когда этот магазин открыт?",
-    "Do you know when this shop is open?"
-  ],
-  [
-    "Ты знаешь, когда музей открыт?",
-    "Do you know when the museum is open?"
-  ],
-  [
-    "Кто автор этой книги?",
-    "Who is the author of this book?"
-  ],
-  [
-    "Он автор той книги",
-    "He is the author of that book"
-  ],
-  [
-    "Кто автор статьи?",
-    "Who is the author of the article?"
-  ],
-  [
-    "Как этот праздник отмечается в твоей стране?",
-    "How is this holiday celebrated in your country?"
-  ],
-  [
-    "Как Рождество празднуется в твоей родной стране?",
-    "How is Christmas celebrated in your country?"
-  ],
-  [
-    "Когда этот праздник отмечается в Европе?",
-    "When is this holiday celebrated in Europe?"
-  ],
-  [
-    "Почему ты опоздал на работу?",
-    "Why were you late for work?"
-  ],
-  [
-    "Интересно, почему рейс был задержан?",
-    "I wonder why the flight was delayed"
-  ],
-  [
-    "Я знаю, почему рейс был задержан",
-    "I know why the flight was delayed"
-  ],
-  [
-    "Интересно, почему он опоздал на работу?",
-    "I wonder why he was late for work"
-  ],
-  [
-    "Я не знаю, почему он бросил свою прошлую работу",
-    "I don't know why he quit his last job"
-  ],
-  [
-    "Ты можешь сказать мне, почему ты опоздал?",
-    "Can you tell me why you were late?"
-  ],
-  [
-    "Я не знаю что будет на ужин",
-    "I don't know what will be for supper"
-  ],
-  [
-    "Я не знаю, в чем была причина его отказа",
-    "I don't know what the reason for his refusal was"
-  ],
-  [
-    "Интересно, кто собирается прийти",
-    "I wonder who is going to come"
-  ],
-  [
-    "Я не знаю, кто автор этой книги",
-    "I don't know who the author of this book is"
-  ],
-  [
-    "Ты знаешь, как празднуется Рождество в России?",
-    "Do you know how Christmas is celebrated in Russia?"
-  ],
-  [
-    "Почему ты бросил свою последнюю работу?",
-    "Why did you quit your last job?"
-  ],
-  [
-    "Я хотел бы знать, как задать косвенный вопрос",
-    "I'd like to know how to ask an indirect question"
-  ],
-  [
-    "Я не знаю, в чем была причина",
-    "I don't know what the reason was"
-  ],
-  [
-    "Я не знаю, почему он опоздал на работу",
-    "I don't know why he was late for work"
-  ],
-  [
-    "Где классная комната?",
-    "Where is the classroom?"
-  ],
-  [
-    "Как долго будет длиться встреча?",
-    "How long will the meeting last?"
-  ],
-  [
-    "Какова была причина этого?",
-    "What was the reason for it?"
-  ],
-  [
-    "Ты знаешь, что это значит?",
-    "Do you know what it means?"
-  ],
-  [
-    "Интересно, сколько сейчас времени?",
-    "I wonder what time it is now"
-  ]
+  {
+    "_id": 1,
+    "ru": "Ты знаешь, какое у него имя?",
+    "en": "Do you know what his name is?"
+  },
+  {
+    "_id": 2,
+    "ru": "Скажи мне, где они!",
+    "en": "Tell me where they are!"
+  },
+  {
+    "_id": 3,
+    "ru": "Я хотел бы знать, откуда он",
+    "en": "I'd like to know where he is from"
+  },
+  {
+    "_id": 4,
+    "ru": "Ты можешь сказать мне, сколько это стоит?",
+    "en": "Can you tell me how much it is?"
+  },
+  {
+    "_id": 5,
+    "ru": "Ты можешь сказать мне, где документы?",
+    "en": "Can you tell me where the documents are?"
+  },
+  {
+    "_id": 6,
+    "ru": "Я осознаю, насколько это опасно",
+    "en": "I realise how dangerous it is"
+  },
+  {
+    "_id": 7,
+    "ru": "Ты можешь сказать мне, почему ты отсутствовал вчера?",
+    "en": "Can you tell me why you were absent yesterday?"
+  },
+  {
+    "_id": 8,
+    "ru": "Ты можешь сказать мне, который час?",
+    "en": "Can you tell me what time it is?"
+  },
+  {
+    "_id": 9,
+    "ru": "Я действительно вижу, как великолепно это место",
+    "en": "I really see how magnificent this place is"
+  },
+  {
+    "_id": 10,
+    "ru": "Ты можешь сказать мне, где эта улица?",
+    "en": "Can you tell me where this street is?"
+  },
+  {
+    "_id": 11,
+    "ru": "Ты знаешь, почему это произошло?",
+    "en": "Do you know why it happened?"
+  },
+  {
+    "_id": 12,
+    "ru": "Ты знаешь, как быстрее добраться до этого места?",
+    "en": "Do you know how to get to this place more quickly?"
+  },
+  {
+    "_id": 13,
+    "ru": "Ты мог бы сказать мне, где находится станция?",
+    "en": "Could you tell me where the station is?"
+  },
+  {
+    "_id": 14,
+    "ru": "Ты знаешь, где находится ближайший супермаркет?",
+    "en": "Do you know where the nearest supermarket is?"
+  },
+  {
+    "_id": 15,
+    "ru": "Я понимаю, как это ответственно",
+    "en": "I understand how responsible it is"
+  },
+  {
+    "_id": 16,
+    "ru": "Ты знаешь, во сколько магазин открывается?",
+    "en": "Do you know what time the shop opens?"
+  },
+  {
+    "_id": 17,
+    "ru": "Я хотел бы знать, откуда она",
+    "en": "I'd like to know where she is from"
+  },
+  {
+    "_id": 18,
+    "ru": "Где станция?",
+    "en": "Where is the station?"
+  },
+  {
+    "_id": 19,
+    "ru": "Что он делает?",
+    "en": "What is he doing?"
+  },
+  {
+    "_id": 20,
+    "ru": "Который сейчас час?",
+    "en": "What time is it?"
+  },
+  {
+    "_id": 21,
+    "ru": "Ты знаешь, когда этот поезд отправляется?",
+    "en": "Do you know when this train departs?"
+  },
+  {
+    "_id": 22,
+    "ru": "Я не знаю где это",
+    "en": "I don't know where it is"
+  },
+  {
+    "_id": 23,
+    "ru": "Ты знаешь, что он делает?",
+    "en": "Do you know what he is doing?"
+  },
+  {
+    "_id": 24,
+    "ru": "Я вижу, насколько эффективный этот курс",
+    "en": "I see how effective this course is"
+  },
+  {
+    "_id": 25,
+    "ru": "Ты знаешь, как его зовут?",
+    "en": "Do you know what his name is?"
+  },
+  {
+    "_id": 26,
+    "ru": "Почему ты вчера отсутствовал?",
+    "en": "Why were you absent yesterday?"
+  },
+  {
+    "_id": 27,
+    "ru": "Почему это произошло?",
+    "en": "Why did it happen?"
+  },
+  {
+    "_id": 28,
+    "ru": "Ты знаешь, как далеко это место?",
+    "en": "Do you know how far is this place?"
+  },
+  {
+    "_id": 29,
+    "ru": "Ты мог бы сказать мне, когда прибудет этот поезд?",
+    "en": "Could you tell me when this train arrives?"
+  },
+  {
+    "_id": 30,
+    "ru": "Я хотел бы знать, сколько это стоит",
+    "en": "I'd like to know how much it costs"
+  },
+  {
+    "_id": 31,
+    "ru": "Я действительно вижу, насколько эффективный этот метод",
+    "en": "I really see how effective this method is"
+  },
+  {
+    "_id": 32,
+    "ru": "Ты мог бы сказать мне, где находится почтовое отделение?",
+    "en": "Could you tell me where the post office is?"
+  },
+  {
+    "_id": 33,
+    "ru": "Я хотел бы знать, почему ты так думаешь",
+    "en": "I'd like to know why you think so"
+  },
+  {
+    "_id": 34,
+    "ru": "Ты знаешь, в какое время супермаркет закрывается?",
+    "en": "Do you know what time the supermarket closes?"
+  },
+  {
+    "_id": 35,
+    "ru": "Ты знаешь, где находится ближайший банк?",
+    "en": "Do you know where the nearest bank is?"
+  },
+  {
+    "_id": 36,
+    "ru": "Ты знаешь, где находится универмаг?",
+    "en": "Do you know where the department store is?"
+  },
+  {
+    "_id": 37,
+    "ru": "Я не знаю сколько это может стоить",
+    "en": "I don't know how much it can cost"
+  },
+  {
+    "_id": 38,
+    "ru": "У тебя есть какая-либо идея, почему это так?",
+    "en": "Do you have any idea why it is so?"
+  },
+  {
+    "_id": 39,
+    "ru": "Ты знаешь, когда прибывает следующий поезд?",
+    "en": "Do you know when the next train arrives?"
+  },
+  {
+    "_id": 40,
+    "ru": "Ты знаешь, что означает это выражение?",
+    "en": "Do you know what this expression means?"
+  },
+  {
+    "_id": 41,
+    "ru": "Он не понимает, насколько это важно",
+    "en": "He doesn't understand how important it is"
+  },
+  {
+    "_id": 42,
+    "ru": "Интересно, кто стоит за этим",
+    "en": "I wonder who stands behind it"
+  },
+  {
+    "_id": 43,
+    "ru": "Он хочет знать, почему ты опоздал на работу",
+    "en": "He wants to know why you were late for work"
+  },
+  {
+    "_id": 44,
+    "ru": "Они действительно не осознают, насколько это важно",
+    "en": "They don't really realise how important it is"
+  },
+  {
+    "_id": 45,
+    "ru": "Как празднуется Рождество в Европе?",
+    "en": "How is Christmas celebrated in Europe?"
+  },
+  {
+    "_id": 46,
+    "ru": "Я не знаю, почему она опоздала в школу",
+    "en": "I don't know why she was late for school"
+  },
+  {
+    "_id": 47,
+    "ru": "Ты знаешь, кто автор этой книги?",
+    "en": "Do you know who the author of this book is?"
+  },
+  {
+    "_id": 48,
+    "ru": "Ты можешь сказать мне, что на обед?",
+    "en": "Can you tell me what is for lunch?"
+  },
+  {
+    "_id": 49,
+    "ru": "Ты можешь сказать мне, где находится класс?",
+    "en": "Can you tell me where the classroom is?"
+  },
+  {
+    "_id": 50,
+    "ru": "Когда ресторан открыт?",
+    "en": "When is the restaurant open?"
+  },
+  {
+    "_id": 51,
+    "ru": "Есть какой-либо шанс, что это произойдет?",
+    "en": "Is there any chance that it will happen?"
+  },
+  {
+    "_id": 52,
+    "ru": "Какая главная причина ее отказа?",
+    "en": "What's the main reason for her refusal?"
+  },
+  {
+    "_id": 53,
+    "ru": "Я не знаю, что будет на ужин",
+    "en": "I don't know what will be for dinner"
+  },
+  {
+    "_id": 54,
+    "ru": "Я не знаю, как долго будет длиться встреча",
+    "en": "I don't know how long the meeting will last"
+  },
+  {
+    "_id": 55,
+    "ru": "Я не знаю, как долго будет длиться эта конференция",
+    "en": "I don't know how long this conference will last"
+  },
+  {
+    "_id": 56,
+    "ru": "Я знаю, как долго продлится этот фильм",
+    "en": "I know how long this movie will last"
+  },
+  {
+    "_id": 57,
+    "ru": "Я понятия не имею, почему это происходит",
+    "en": "I have no idea why it happens"
+  },
+  {
+    "_id": 58,
+    "ru": "Я понятия не имею, почему это произошло",
+    "en": "I have no idea why it happened"
+  },
+  {
+    "_id": 59,
+    "ru": "Я понятия не имею, почему он это делает",
+    "en": "I have no idea why he does it"
+  },
+  {
+    "_id": 60,
+    "ru": "Ты знаешь, сколько времени занимает сделать это?",
+    "en": "Do you know how long it takes to do it?"
+  },
+  {
+    "_id": 61,
+    "ru": "Ты знаешь, когда ресторан открыт?",
+    "en": "Do you know when the restaurant is open?"
+  },
+  {
+    "_id": 62,
+    "ru": "Ты знаешь, когда этот магазин открыт?",
+    "en": "Do you know when this shop is open?"
+  },
+  {
+    "_id": 63,
+    "ru": "Ты знаешь, когда музей открыт?",
+    "en": "Do you know when the museum is open?"
+  },
+  {
+    "_id": 64,
+    "ru": "Кто автор этой книги?",
+    "en": "Who is the author of this book?"
+  },
+  {
+    "_id": 65,
+    "ru": "Он автор той книги",
+    "en": "He is the author of that book"
+  },
+  {
+    "_id": 66,
+    "ru": "Кто автор статьи?",
+    "en": "Who is the author of the article?"
+  },
+  {
+    "_id": 67,
+    "ru": "Как этот праздник отмечается в твоей стране?",
+    "en": "How is this holiday celebrated in your country?"
+  },
+  {
+    "_id": 68,
+    "ru": "Как Рождество празднуется в твоей родной стране?",
+    "en": "How is Christmas celebrated in your country?"
+  },
+  {
+    "_id": 69,
+    "ru": "Когда этот праздник отмечается в Европе?",
+    "en": "When is this holiday celebrated in Europe?"
+  },
+  {
+    "_id": 70,
+    "ru": "Почему ты опоздал на работу?",
+    "en": "Why were you late for work?"
+  },
+  {
+    "_id": 71,
+    "ru": "Интересно, почему рейс был задержан?",
+    "en": "I wonder why the flight was delayed"
+  },
+  {
+    "_id": 72,
+    "ru": "Я знаю, почему рейс был задержан",
+    "en": "I know why the flight was delayed"
+  },
+  {
+    "_id": 73,
+    "ru": "Интересно, почему он опоздал на работу?",
+    "en": "I wonder why he was late for work"
+  },
+  {
+    "_id": 74,
+    "ru": "Я не знаю, почему он бросил свою прошлую работу",
+    "en": "I don't know why he quit his last job"
+  },
+  {
+    "_id": 75,
+    "ru": "Ты можешь сказать мне, почему ты опоздал?",
+    "en": "Can you tell me why you were late?"
+  },
+  {
+    "_id": 76,
+    "ru": "Я не знаю что будет на ужин",
+    "en": "I don't know what will be for supper"
+  },
+  {
+    "_id": 77,
+    "ru": "Я не знаю, в чем была причина его отказа",
+    "en": "I don't know what the reason for his refusal was"
+  },
+  {
+    "_id": 78,
+    "ru": "Интересно, кто собирается прийти",
+    "en": "I wonder who is going to come"
+  },
+  {
+    "_id": 79,
+    "ru": "Я не знаю, кто автор этой книги",
+    "en": "I don't know who the author of this book is"
+  },
+  {
+    "_id": 80,
+    "ru": "Ты знаешь, как празднуется Рождество в России?",
+    "en": "Do you know how Christmas is celebrated in Russia?"
+  },
+  {
+    "_id": 81,
+    "ru": "Почему ты бросил свою последнюю работу?",
+    "en": "Why did you quit your last job?"
+  },
+  {
+    "_id": 82,
+    "ru": "Я хотел бы знать, как задать косвенный вопрос",
+    "en": "I'd like to know how to ask an indirect question"
+  },
+  {
+    "_id": 83,
+    "ru": "Я не знаю, в чем была причина",
+    "en": "I don't know what the reason was"
+  },
+  {
+    "_id": 84,
+    "ru": "Я не знаю, почему он опоздал на работу",
+    "en": "I don't know why he was late for work"
+  },
+  {
+    "_id": 85,
+    "ru": "Где классная комната?",
+    "en": "Where is the classroom?"
+  },
+  {
+    "_id": 86,
+    "ru": "Как долго будет длиться встреча?",
+    "en": "How long will the meeting last?"
+  },
+  {
+    "_id": 87,
+    "ru": "Какова была причина этого?",
+    "en": "What was the reason for it?"
+  },
+  {
+    "_id": 88,
+    "ru": "Ты знаешь, что это значит?",
+    "en": "Do you know what it means?"
+  },
+  {
+    "_id": 89,
+    "ru": "Интересно, сколько сейчас времени?",
+    "en": "I wonder what time it is now"
+  }
 ]

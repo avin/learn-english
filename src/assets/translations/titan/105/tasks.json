@@ -1,418 +1,522 @@
 [
-  [
-    "Я специализируюсь на медицине",
-    "I specialise in medicine"
-  ],
-  [
-    "Какова его реакция на это?",
-    "What is his reaction to it?"
-  ],
-  [
-    "Он дал мне его книгу",
-    "He gave me his book"
-  ],
-  [
-    "Она отправила нам письмо",
-    "She sent us a letter"
-  ],
-  [
-    "Он дал его книгу мне",
-    "He gave his book to me"
-  ],
-  [
-    "Она отправила письмо нам",
-    "She sent a letter to us"
-  ],
-  [
-    "Я искал тебя",
-    "I searched for you"
-  ],
-  [
-    "В чем причина этого решения?",
-    "What's the reason for this decision?"
-  ],
-  [
-    "Как ты готовился к этому интервью?",
-    "How did you prepare for this interview?"
-  ],
-  [
-    "У нее недостаток опыта",
-    "She has a lack of experience"
-  ],
-  [
-    "В чем причина этого?",
-    "What is the reason for it?"
-  ],
-  [
-    "Я специализируюсь на маркетинге",
-    "I specialise in marketing"
-  ],
-  [
-    "Я поступил в этот университет в прошлом году",
-    "I entered this university last year"
-  ],
-  [
-    "Какие недостатки этого курса?",
-    "What are the disadvantages of this course?"
-  ],
-  [
-    "Мы вошли в здание",
-    "We entered the building"
-  ],
-  [
-    "Я не хочу ассоциировать счастье с деньгами",
-    "I don't want to associate happiness with money"
-  ],
-  [
-    "В чем причина его отказа?",
-    "What is the reason for his refusal?"
-  ],
-  [
-    "Его реакция на это была вполне предсказуемой",
-    "His reaction to it was quite predictable"
-  ],
-  [
-    "Люди обычно ассоциируют это с чем-то плохим",
-    "People usually associate it with something bad"
-  ],
-  [
-    "Нехватка свободного времени - настоящая проблема для меня",
-    "Lack of free time is a real problem for me"
-  ],
-  [
-    "Он специализируется на продажах",
-    "He specialises in sales"
-  ],
-  [
-    "Как ты относишься к курению?",
-    "What is your attitude to smoking?"
-  ],
-  [
-    "Я прибыл на станцию",
-    "I arrived at the station"
-  ],
-  [
-    "Как ты относишься к профессиональному спорту?",
-    "What is your attitude to professional sport?"
-  ],
-  [
-    "Посмотри на доску!",
-    "Look at the whiteboard!"
-  ],
-  [
-    "Я прибыл в отель час назад",
-    "I arrived at the hotel an hour ago"
-  ],
-  [
-    "Я специализируюсь на лингвистике",
-    "I specialise in linguistics"
-  ],
-  [
-    "Какие преимущества этого курса?",
-    "What are the advantages of this course?"
-  ],
-  [
-    "Он много слушает радио",
-    "He listens to the radio a lot"
-  ],
-  [
-    "Какое твое отношение к мошенничеству?",
-    "What is your attitude to cheating?"
-  ],
-  [
-    "Какая была ее реакция на его слова?",
-    "What was her reaction to his words?"
-  ],
-  [
-    "Он вошел в комнату",
-    "He entered the room"
-  ],
-  [
-    "Я думаю, это лучшее решение этой проблемы",
-    "I think it's the best solution to this problem"
-  ],
-  [
-    "Мое отношение к курению очень негативное",
-    "My attitude to smoking is very negative"
-  ],
-  [
-    "У него недостаток мотивации",
-    "He has a lack of motivation"
-  ],
-  [
-    "Мне нужно поговорить с менеджером",
-    "I need to talk to the manager"
-  ],
-  [
-    "Она не может зависеть от него вечно",
-    "She can't depend on him forever"
-  ],
-  [
-    "Нехватка денег - его постоянная проблема",
-    "Lack of money is his constant problem"
-  ],
-  [
-    "Когда мы прибудем туда?",
-    "When will we arrive there?"
-  ],
-  [
-    "Я искал эту информацию онлайн",
-    "I searched for this information online"
-  ],
-  [
-    "У меня очень негативное отношение к этому",
-    "I have a very negative attitude to it"
-  ],
-  [
-    "Я искал эту информацию в Google",
-    "I searched for this information on Google"
-  ],
-  [
-    "В чем преимущество этого метода?",
-    "What is the advantage of this method?"
-  ],
-  [
-    "Он извинился за свое грубое поведение",
-    "He apologised for his rude behaviour"
-  ],
-  [
-    "Я не ассоциирую счастье с деньгами",
-    "I don't associate happiness with money"
-  ],
-  [
-    "Посмотри на доску!",
-    "Look at the blackboard!"
-  ],
-  [
-    "Он объяснил нам это очень четко",
-    "He explained it to us very clearly"
-  ],
-  [
-    "Ты мог бы объяснить это мне?",
-    "Could you explain it to me?"
-  ],
-  [
-    "Легко заметить его пристрастие к социальным сетям",
-    "It's easy to notice his addiction to social networks"
-  ],
-  [
-    "Это было причиной ее смерти",
-    "It was the cause of her death"
-  ],
-  [
-    "Я отправил письмо ему",
-    "I sent a letter to him"
-  ],
-  [
-    "Легко увидеть их зависимость от интернета",
-    "It's easy to see their addiction to the Internet"
-  ],
-  [
-    "К сожалению, лекарства от этой болезни не существует",
-    "Unfortunately, a cure for this disease doesn't exist"
-  ],
-  [
-    "Я правильно ответил на эти вопросы?",
-    "Did I answer these questions correctly?"
-  ],
-  [
-    "Она замужем за врачом",
-    "She is married to a doctor"
-  ],
-  [
-    "Я дам тебе этот подарок",
-    "I will give you this present"
-  ],
-  [
-    "Мы пытались найти лучшее решение той проблемы",
-    "We tried to find the best solution to that problem"
-  ],
-  [
-    "Я ответил на все вопросы",
-    "I answered all the questions"
-  ],
-  [
-    "Я с нетерпением жду этой поездки",
-    "I look forward to this trip"
-  ],
-  [
-    "Он дал мне эту книгу",
-    "He gave this book to me"
-  ],
-  [
-    "Ты можешь дать эту книгу мне?",
-    "Can you give this book to me?"
-  ],
-  [
-    "Я не дал ей эту книгу",
-    "I didn't give this book to her"
-  ],
-  [
-    "Он может объяснить это нам?",
-    "Can he explain it to us?"
-  ],
-  [
-    "Он может объяснить это нам",
-    "He can explain it to us"
-  ],
-  [
-    "Ты мог бы объяснить это ему?",
-    "Could you explain it to him?"
-  ],
-  [
-    "Какая была его реакция на эту новость?",
-    "What was his reaction to this news?"
-  ],
-  [
-    "Какая будет ее реакция на эту новость?",
-    "What will be her reaction to this news?"
-  ],
-  [
-    "Какая была его реакция на этот вопрос?",
-    "What was his reaction to this question?"
-  ],
-  [
-    "Я правильно ответил на этот вопрос?",
-    "Did I answer this question correctly?"
-  ],
-  [
-    "Как он ответил на этот вопрос?",
-    "How did he answer this question?"
-  ],
-  [
-    "Я правильно ответил на этот вопрос",
-    "I answered this question correctly"
-  ],
-  [
-    "В чем преимущество обучения за границей?",
-    "What is the advantage of studying abroad?"
-  ],
-  [
-    "В чем недостаток обучения за границей?",
-    "What is the disadvantage of studying abroad?"
-  ],
-  [
-    "Это было временное решение нашей проблемы",
-    "It was a temporary solution to our problem"
-  ],
-  [
-    "Это было лучшее решение этой проблемы",
-    "It was the best solution to this problem"
-  ],
-  [
-    "Это было хорошее решение проблемы",
-    "It was a good solution to the problem"
-  ],
-  [
-    "Они одолжили ему эти деньги",
-    "They lent this money to him"
-  ],
-  [
-    "Мы одолжили ему немного денег",
-    "We lent some money to him"
-  ],
-  [
-    "Они одолжили ему деньги?",
-    "Did they lend money to him?"
-  ],
-  [
-    "Какие преимущества жизни за границей?",
-    "What are the advantages of living abroad?"
-  ],
-  [
-    "Какие недостатки жизни за границей?",
-    "What are the disadvantages of living abroad?"
-  ],
-  [
-    "Какое главное преимущество жизни за границей?",
-    "What is the main advantage of living abroad?"
-  ],
-  [
-    "Какое лучшее решение этой проблемы?",
-    "What is the best solution to this problem?"
-  ],
-  [
-    "Это лучшее решение этой проблемы?",
-    "Is it the best solution to this problem?"
-  ],
-  [
-    "Какое лучшее решение его проблемы?",
-    "What is the best solution to his problem?"
-  ],
-  [
-    "Это был лучший ответ на тот вопрос",
-    "It was the best answer to that question"
-  ],
-  [
-    "Это был лучший ответ на вопрос?",
-    "Was it the best answer to the question?"
-  ],
-  [
-    "Это лучший ответ на этот вопрос",
-    "It is the best answer to this question"
-  ],
-  [
-    "Этому мальчику не хватает дисциплины",
-    "This boy lacks discipline"
-  ],
-  [
-    "Что стало причиной ее смерти?",
-    "What was the cause of her death?"
-  ],
-  [
-    "Они одолжили ему эти деньги",
-    "They lent him this money"
-  ],
-  [
-    "Это временное решение этой проблемы",
-    "It's a temporary solution to this problem"
-  ],
-  [
-    "Я дам этот подарок тебе",
-    "I will give this present to you"
-  ],
-  [
-    "Ты можешь объяснить это нам?",
-    "Can you explain it to us?"
-  ],
-  [
-    "Какая была причина этой аварии?",
-    "What was the cause of this accident?"
-  ],
-  [
-    "Они не могут найти лекарство от этой болезни",
-    "They can't find a cure for this disease"
-  ],
-  [
-    "Она попросила чашку кофе",
-    "She asked for a cup of coffee"
-  ],
-  [
-    "У многих студентов не хватает опыта работы",
-    "Many students lack work experience"
-  ],
-  [
-    "Это лучший ответ на этот вопрос",
-    "It's the best answer to this question"
-  ],
-  [
-    "Я отправил ему письмо",
-    "I sent him a letter"
-  ],
-  [
-    "Я попросил чашку чая",
-    "I asked for a cup of tea"
-  ],
-  [
-    "Он дал мне эту книгу",
-    "He gave me this book"
-  ],
-  [
-    "Он женился на докторе",
-    "He married a doctor"
-  ],
-  [
-    "Как он ответил на этот вопрос?",
-    "How did he answer this question?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я специализируюсь на медицине",
+    "en": "I specialise in medicine"
+  },
+  {
+    "_id": 2,
+    "ru": "Какова его реакция на это?",
+    "en": "What is his reaction to it?"
+  },
+  {
+    "_id": 3,
+    "ru": "Он дал мне его книгу",
+    "en": "He gave me his book"
+  },
+  {
+    "_id": 4,
+    "ru": "Она отправила нам письмо",
+    "en": "She sent us a letter"
+  },
+  {
+    "_id": 5,
+    "ru": "Он дал его книгу мне",
+    "en": "He gave his book to me"
+  },
+  {
+    "_id": 6,
+    "ru": "Она отправила письмо нам",
+    "en": "She sent a letter to us"
+  },
+  {
+    "_id": 7,
+    "ru": "Я искал тебя",
+    "en": "I searched for you"
+  },
+  {
+    "_id": 8,
+    "ru": "В чем причина этого решения?",
+    "en": "What's the reason for this decision?"
+  },
+  {
+    "_id": 9,
+    "ru": "Как ты готовился к этому интервью?",
+    "en": "How did you prepare for this interview?"
+  },
+  {
+    "_id": 10,
+    "ru": "У нее недостаток опыта",
+    "en": "She has a lack of experience"
+  },
+  {
+    "_id": 11,
+    "ru": "В чем причина этого?",
+    "en": "What is the reason for it?"
+  },
+  {
+    "_id": 12,
+    "ru": "Я специализируюсь на маркетинге",
+    "en": "I specialise in marketing"
+  },
+  {
+    "_id": 13,
+    "ru": "Я поступил в этот университет в прошлом году",
+    "en": "I entered this university last year"
+  },
+  {
+    "_id": 14,
+    "ru": "Какие недостатки этого курса?",
+    "en": "What are the disadvantages of this course?"
+  },
+  {
+    "_id": 15,
+    "ru": "Мы вошли в здание",
+    "en": "We entered the building"
+  },
+  {
+    "_id": 16,
+    "ru": "Я не хочу ассоциировать счастье с деньгами",
+    "en": "I don't want to associate happiness with money"
+  },
+  {
+    "_id": 17,
+    "ru": "В чем причина его отказа?",
+    "en": "What is the reason for his refusal?"
+  },
+  {
+    "_id": 18,
+    "ru": "Его реакция на это была вполне предсказуемой",
+    "en": "His reaction to it was quite predictable"
+  },
+  {
+    "_id": 19,
+    "ru": "Люди обычно ассоциируют это с чем-то плохим",
+    "en": "People usually associate it with something bad"
+  },
+  {
+    "_id": 20,
+    "ru": "Нехватка свободного времени - настоящая проблема для меня",
+    "en": "Lack of free time is a real problem for me"
+  },
+  {
+    "_id": 21,
+    "ru": "Он специализируется на продажах",
+    "en": "He specialises in sales"
+  },
+  {
+    "_id": 22,
+    "ru": "Как ты относишься к курению?",
+    "en": "What is your attitude to smoking?"
+  },
+  {
+    "_id": 23,
+    "ru": "Я прибыл на станцию",
+    "en": "I arrived at the station"
+  },
+  {
+    "_id": 24,
+    "ru": "Как ты относишься к профессиональному спорту?",
+    "en": "What is your attitude to professional sport?"
+  },
+  {
+    "_id": 25,
+    "ru": "Посмотри на доску!",
+    "en": "Look at the whiteboard!"
+  },
+  {
+    "_id": 26,
+    "ru": "Я прибыл в отель час назад",
+    "en": "I arrived at the hotel an hour ago"
+  },
+  {
+    "_id": 27,
+    "ru": "Я специализируюсь на лингвистике",
+    "en": "I specialise in linguistics"
+  },
+  {
+    "_id": 28,
+    "ru": "Какие преимущества этого курса?",
+    "en": "What are the advantages of this course?"
+  },
+  {
+    "_id": 29,
+    "ru": "Он много слушает радио",
+    "en": "He listens to the radio a lot"
+  },
+  {
+    "_id": 30,
+    "ru": "Какое твое отношение к мошенничеству?",
+    "en": "What is your attitude to cheating?"
+  },
+  {
+    "_id": 31,
+    "ru": "Какая была ее реакция на его слова?",
+    "en": "What was her reaction to his words?"
+  },
+  {
+    "_id": 32,
+    "ru": "Он вошел в комнату",
+    "en": "He entered the room"
+  },
+  {
+    "_id": 33,
+    "ru": "Я думаю, это лучшее решение этой проблемы",
+    "en": "I think it's the best solution to this problem"
+  },
+  {
+    "_id": 34,
+    "ru": "Мое отношение к курению очень негативное",
+    "en": "My attitude to smoking is very negative"
+  },
+  {
+    "_id": 35,
+    "ru": "У него недостаток мотивации",
+    "en": "He has a lack of motivation"
+  },
+  {
+    "_id": 36,
+    "ru": "Мне нужно поговорить с менеджером",
+    "en": "I need to talk to the manager"
+  },
+  {
+    "_id": 37,
+    "ru": "Она не может зависеть от него вечно",
+    "en": "She can't depend on him forever"
+  },
+  {
+    "_id": 38,
+    "ru": "Нехватка денег - его постоянная проблема",
+    "en": "Lack of money is his constant problem"
+  },
+  {
+    "_id": 39,
+    "ru": "Когда мы прибудем туда?",
+    "en": "When will we arrive there?"
+  },
+  {
+    "_id": 40,
+    "ru": "Я искал эту информацию онлайн",
+    "en": "I searched for this information online"
+  },
+  {
+    "_id": 41,
+    "ru": "У меня очень негативное отношение к этому",
+    "en": "I have a very negative attitude to it"
+  },
+  {
+    "_id": 42,
+    "ru": "Я искал эту информацию в Google",
+    "en": "I searched for this information on Google"
+  },
+  {
+    "_id": 43,
+    "ru": "В чем преимущество этого метода?",
+    "en": "What is the advantage of this method?"
+  },
+  {
+    "_id": 44,
+    "ru": "Он извинился за свое грубое поведение",
+    "en": "He apologised for his rude behaviour"
+  },
+  {
+    "_id": 45,
+    "ru": "Я не ассоциирую счастье с деньгами",
+    "en": "I don't associate happiness with money"
+  },
+  {
+    "_id": 46,
+    "ru": "Посмотри на доску!",
+    "en": "Look at the blackboard!"
+  },
+  {
+    "_id": 47,
+    "ru": "Он объяснил нам это очень четко",
+    "en": "He explained it to us very clearly"
+  },
+  {
+    "_id": 48,
+    "ru": "Ты мог бы объяснить это мне?",
+    "en": "Could you explain it to me?"
+  },
+  {
+    "_id": 49,
+    "ru": "Легко заметить его пристрастие к социальным сетям",
+    "en": "It's easy to notice his addiction to social networks"
+  },
+  {
+    "_id": 50,
+    "ru": "Это было причиной ее смерти",
+    "en": "It was the cause of her death"
+  },
+  {
+    "_id": 51,
+    "ru": "Я отправил письмо ему",
+    "en": "I sent a letter to him"
+  },
+  {
+    "_id": 52,
+    "ru": "Легко увидеть их зависимость от интернета",
+    "en": "It's easy to see their addiction to the Internet"
+  },
+  {
+    "_id": 53,
+    "ru": "К сожалению, лекарства от этой болезни не существует",
+    "en": "Unfortunately, a cure for this disease doesn't exist"
+  },
+  {
+    "_id": 54,
+    "ru": "Я правильно ответил на эти вопросы?",
+    "en": "Did I answer these questions correctly?"
+  },
+  {
+    "_id": 55,
+    "ru": "Она замужем за врачом",
+    "en": "She is married to a doctor"
+  },
+  {
+    "_id": 56,
+    "ru": "Я дам тебе этот подарок",
+    "en": "I will give you this present"
+  },
+  {
+    "_id": 57,
+    "ru": "Мы пытались найти лучшее решение той проблемы",
+    "en": "We tried to find the best solution to that problem"
+  },
+  {
+    "_id": 58,
+    "ru": "Я ответил на все вопросы",
+    "en": "I answered all the questions"
+  },
+  {
+    "_id": 59,
+    "ru": "Я с нетерпением жду этой поездки",
+    "en": "I look forward to this trip"
+  },
+  {
+    "_id": 60,
+    "ru": "Он дал мне эту книгу",
+    "en": "He gave this book to me"
+  },
+  {
+    "_id": 61,
+    "ru": "Ты можешь дать эту книгу мне?",
+    "en": "Can you give this book to me?"
+  },
+  {
+    "_id": 62,
+    "ru": "Я не дал ей эту книгу",
+    "en": "I didn't give this book to her"
+  },
+  {
+    "_id": 63,
+    "ru": "Он может объяснить это нам?",
+    "en": "Can he explain it to us?"
+  },
+  {
+    "_id": 64,
+    "ru": "Он может объяснить это нам",
+    "en": "He can explain it to us"
+  },
+  {
+    "_id": 65,
+    "ru": "Ты мог бы объяснить это ему?",
+    "en": "Could you explain it to him?"
+  },
+  {
+    "_id": 66,
+    "ru": "Какая была его реакция на эту новость?",
+    "en": "What was his reaction to this news?"
+  },
+  {
+    "_id": 67,
+    "ru": "Какая будет ее реакция на эту новость?",
+    "en": "What will be her reaction to this news?"
+  },
+  {
+    "_id": 68,
+    "ru": "Какая была его реакция на этот вопрос?",
+    "en": "What was his reaction to this question?"
+  },
+  {
+    "_id": 69,
+    "ru": "Я правильно ответил на этот вопрос?",
+    "en": "Did I answer this question correctly?"
+  },
+  {
+    "_id": 70,
+    "ru": "Как он ответил на этот вопрос?",
+    "en": "How did he answer this question?"
+  },
+  {
+    "_id": 71,
+    "ru": "Я правильно ответил на этот вопрос",
+    "en": "I answered this question correctly"
+  },
+  {
+    "_id": 72,
+    "ru": "В чем преимущество обучения за границей?",
+    "en": "What is the advantage of studying abroad?"
+  },
+  {
+    "_id": 73,
+    "ru": "В чем недостаток обучения за границей?",
+    "en": "What is the disadvantage of studying abroad?"
+  },
+  {
+    "_id": 74,
+    "ru": "Это было временное решение нашей проблемы",
+    "en": "It was a temporary solution to our problem"
+  },
+  {
+    "_id": 75,
+    "ru": "Это было лучшее решение этой проблемы",
+    "en": "It was the best solution to this problem"
+  },
+  {
+    "_id": 76,
+    "ru": "Это было хорошее решение проблемы",
+    "en": "It was a good solution to the problem"
+  },
+  {
+    "_id": 77,
+    "ru": "Они одолжили ему эти деньги",
+    "en": "They lent this money to him"
+  },
+  {
+    "_id": 78,
+    "ru": "Мы одолжили ему немного денег",
+    "en": "We lent some money to him"
+  },
+  {
+    "_id": 79,
+    "ru": "Они одолжили ему деньги?",
+    "en": "Did they lend money to him?"
+  },
+  {
+    "_id": 80,
+    "ru": "Какие преимущества жизни за границей?",
+    "en": "What are the advantages of living abroad?"
+  },
+  {
+    "_id": 81,
+    "ru": "Какие недостатки жизни за границей?",
+    "en": "What are the disadvantages of living abroad?"
+  },
+  {
+    "_id": 82,
+    "ru": "Какое главное преимущество жизни за границей?",
+    "en": "What is the main advantage of living abroad?"
+  },
+  {
+    "_id": 83,
+    "ru": "Какое лучшее решение этой проблемы?",
+    "en": "What is the best solution to this problem?"
+  },
+  {
+    "_id": 84,
+    "ru": "Это лучшее решение этой проблемы?",
+    "en": "Is it the best solution to this problem?"
+  },
+  {
+    "_id": 85,
+    "ru": "Какое лучшее решение его проблемы?",
+    "en": "What is the best solution to his problem?"
+  },
+  {
+    "_id": 86,
+    "ru": "Это был лучший ответ на тот вопрос",
+    "en": "It was the best answer to that question"
+  },
+  {
+    "_id": 87,
+    "ru": "Это был лучший ответ на вопрос?",
+    "en": "Was it the best answer to the question?"
+  },
+  {
+    "_id": 88,
+    "ru": "Это лучший ответ на этот вопрос",
+    "en": "It is the best answer to this question"
+  },
+  {
+    "_id": 89,
+    "ru": "Этому мальчику не хватает дисциплины",
+    "en": "This boy lacks discipline"
+  },
+  {
+    "_id": 90,
+    "ru": "Что стало причиной ее смерти?",
+    "en": "What was the cause of her death?"
+  },
+  {
+    "_id": 91,
+    "ru": "Они одолжили ему эти деньги",
+    "en": "They lent him this money"
+  },
+  {
+    "_id": 92,
+    "ru": "Это временное решение этой проблемы",
+    "en": "It's a temporary solution to this problem"
+  },
+  {
+    "_id": 93,
+    "ru": "Я дам этот подарок тебе",
+    "en": "I will give this present to you"
+  },
+  {
+    "_id": 94,
+    "ru": "Ты можешь объяснить это нам?",
+    "en": "Can you explain it to us?"
+  },
+  {
+    "_id": 95,
+    "ru": "Какая была причина этой аварии?",
+    "en": "What was the cause of this accident?"
+  },
+  {
+    "_id": 96,
+    "ru": "Они не могут найти лекарство от этой болезни",
+    "en": "They can't find a cure for this disease"
+  },
+  {
+    "_id": 97,
+    "ru": "Она попросила чашку кофе",
+    "en": "She asked for a cup of coffee"
+  },
+  {
+    "_id": 98,
+    "ru": "У многих студентов не хватает опыта работы",
+    "en": "Many students lack work experience"
+  },
+  {
+    "_id": 99,
+    "ru": "Это лучший ответ на этот вопрос",
+    "en": "It's the best answer to this question"
+  },
+  {
+    "_id": 100,
+    "ru": "Я отправил ему письмо",
+    "en": "I sent him a letter"
+  },
+  {
+    "_id": 101,
+    "ru": "Я попросил чашку чая",
+    "en": "I asked for a cup of tea"
+  },
+  {
+    "_id": 102,
+    "ru": "Он дал мне эту книгу",
+    "en": "He gave me this book"
+  },
+  {
+    "_id": 103,
+    "ru": "Он женился на докторе",
+    "en": "He married a doctor"
+  },
+  {
+    "_id": 104,
+    "ru": "Как он ответил на этот вопрос?",
+    "en": "How did he answer this question?"
+  }
 ]

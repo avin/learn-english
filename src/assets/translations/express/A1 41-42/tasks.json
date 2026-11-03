@@ -1,122 +1,152 @@
 [
-  [
-    "Он всегда говорит такие вещи",
-    "He always says such things"
-  ],
-  [
-    "Он ждет ее",
-    "He's waiting for her"
-  ],
-  [
-    "Я пишу письмо сейчас",
-    "I'm writing a letter now"
-  ],
-  [
-    "Он часто ее ждет",
-    "He often waits for her"
-  ],
-  [
-    "Он сейчас играет в футбол",
-    "He's playing football now"
-  ],
-  [
-    "Мы обычно ужинаем вместе",
-    "We usually have dinner together"
-  ],
-  [
-    "Я работаю почти каждый день",
-    "I work almost every day"
-  ],
-  [
-    "Я обычно делаю эти упражнения вечером",
-    "I usually do these exercises in the evening"
-  ],
-  [
-    "Я читаю книги, когда у меня есть свободное время, но не так часто",
-    "I read books when I have free time but not so often"
-  ],
-  [
-    "Я читаю очень интересную книгу сейчас",
-    "I'm reading a very interesting book now"
-  ],
-  [
-    "Она слушает радио сейчас",
-    "She's listening to the radio now"
-  ],
-  [
-    "Я получаю так много писем каждый день",
-    "I get so many letters every day"
-  ],
-  [
-    "Мы путешествуем каждый год",
-    "We travel every year"
-  ],
-  [
-    "Она пьет кофе сейчас",
-    "She's drinking coffee now"
-  ],
-  [
-    "Я делаю очень полезные упражнения сейчас",
-    "I'm doing very useful exercises now"
-  ],
-  [
-    "Малыш обычно спит днем",
-    "The baby usually sleeps in the afternoon"
-  ],
-  [
-    "Она обычно пьет чай",
-    "She usually drinks tea"
-  ],
-  [
-    "Я работаю в данный момент",
-    "I'm working at the moment"
-  ],
-  [
-    "Он часто играет в футбол",
-    "He often plays football"
-  ],
-  [
-    "Я обычно смотрю различные видео на YouTube",
-    "I usually watch different videos on YouTube"
-  ],
-  [
-    "Малыш спит сейчас",
-    "The baby is sleeping now"
-  ],
-  [
-    "Я смотрю очень смешное видео сейчас",
-    "I'm watching a very funny video now"
-  ],
-  [
-    "Мы ужинаем сейчас",
-    "We're having dinner now"
-  ],
-  [
-    "Я сейчас печатаю",
-    "I'm typing now"
-  ],
-  [
-    "Эта вещь происходит прямо сейчас",
-    "This thing is happening right now"
-  ],
-  [
-    "Он обычно печатает очень медленно",
-    "He usually types very slowly"
-  ],
-  [
-    "Мы путешествуем сейчас",
-    "We're travelling now"
-  ],
-  [
-    "Она иногда слушает радио",
-    "She sometimes listens to the radio"
-  ],
-  [
-    "Она говорит это сейчас",
-    "She's saying it now"
-  ],
-  [
-    "Это происходит снова и снова",
-    "It happens again and again"
-  ]
+  {
+    "_id": 1,
+    "ru": "Он всегда говорит такие вещи",
+    "en": "He always says such things"
+  },
+  {
+    "_id": 2,
+    "ru": "Он ждет ее",
+    "en": "He's waiting for her"
+  },
+  {
+    "_id": 3,
+    "ru": "Я пишу письмо сейчас",
+    "en": "I'm writing a letter now"
+  },
+  {
+    "_id": 4,
+    "ru": "Он часто ее ждет",
+    "en": "He often waits for her"
+  },
+  {
+    "_id": 5,
+    "ru": "Он сейчас играет в футбол",
+    "en": "He's playing football now"
+  },
+  {
+    "_id": 6,
+    "ru": "Мы обычно ужинаем вместе",
+    "en": "We usually have dinner together"
+  },
+  {
+    "_id": 7,
+    "ru": "Я работаю почти каждый день",
+    "en": "I work almost every day"
+  },
+  {
+    "_id": 8,
+    "ru": "Я обычно делаю эти упражнения вечером",
+    "en": "I usually do these exercises in the evening"
+  },
+  {
+    "_id": 9,
+    "ru": "Я читаю книги, когда у меня есть свободное время, но не так часто",
+    "en": "I read books when I have free time but not so often"
+  },
+  {
+    "_id": 10,
+    "ru": "Я читаю очень интересную книгу сейчас",
+    "en": "I'm reading a very interesting book now"
+  },
+  {
+    "_id": 11,
+    "ru": "Она слушает радио сейчас",
+    "en": "She's listening to the radio now"
+  },
+  {
+    "_id": 12,
+    "ru": "Я получаю так много писем каждый день",
+    "en": "I get so many letters every day"
+  },
+  {
+    "_id": 13,
+    "ru": "Мы путешествуем каждый год",
+    "en": "We travel every year"
+  },
+  {
+    "_id": 14,
+    "ru": "Она пьет кофе сейчас",
+    "en": "She's drinking coffee now"
+  },
+  {
+    "_id": 15,
+    "ru": "Я делаю очень полезные упражнения сейчас",
+    "en": "I'm doing very useful exercises now"
+  },
+  {
+    "_id": 16,
+    "ru": "Малыш обычно спит днем",
+    "en": "The baby usually sleeps in the afternoon"
+  },
+  {
+    "_id": 17,
+    "ru": "Она обычно пьет чай",
+    "en": "She usually drinks tea"
+  },
+  {
+    "_id": 18,
+    "ru": "Я работаю в данный момент",
+    "en": "I'm working at the moment"
+  },
+  {
+    "_id": 19,
+    "ru": "Он часто играет в футбол",
+    "en": "He often plays football"
+  },
+  {
+    "_id": 20,
+    "ru": "Я обычно смотрю различные видео на YouTube",
+    "en": "I usually watch different videos on YouTube"
+  },
+  {
+    "_id": 21,
+    "ru": "Малыш спит сейчас",
+    "en": "The baby is sleeping now"
+  },
+  {
+    "_id": 22,
+    "ru": "Я смотрю очень смешное видео сейчас",
+    "en": "I'm watching a very funny video now"
+  },
+  {
+    "_id": 23,
+    "ru": "Мы ужинаем сейчас",
+    "en": "We're having dinner now"
+  },
+  {
+    "_id": 24,
+    "ru": "Я сейчас печатаю",
+    "en": "I'm typing now"
+  },
+  {
+    "_id": 25,
+    "ru": "Эта вещь происходит прямо сейчас",
+    "en": "This thing is happening right now"
+  },
+  {
+    "_id": 26,
+    "ru": "Он обычно печатает очень медленно",
+    "en": "He usually types very slowly"
+  },
+  {
+    "_id": 27,
+    "ru": "Мы путешествуем сейчас",
+    "en": "We're travelling now"
+  },
+  {
+    "_id": 28,
+    "ru": "Она иногда слушает радио",
+    "en": "She sometimes listens to the radio"
+  },
+  {
+    "_id": 29,
+    "ru": "Она говорит это сейчас",
+    "en": "She's saying it now"
+  },
+  {
+    "_id": 30,
+    "ru": "Это происходит снова и снова",
+    "en": "It happens again and again"
+  }
 ]

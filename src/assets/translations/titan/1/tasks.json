@@ -1,430 +1,537 @@
 [
-  [
-    "Я понимаю тебя",
-    "I understand you"
-  ],
-  [
-    "Они живут в этой стране",
-    "They live in this country"
-  ],
-  [
-    "Я путешествую каждый год",
-    "I travel every year"
-  ],
-  [
-    "Я тоже думаю так",
-    "I also think so"
-  ],
-  [
-    "Я говорю по-английски",
-    "I speak English"
-  ],
-  [
-    "Я хожу на работу",
-    "I go to work"
-  ],
-  [
-    "Мне нравится этот язык",
-    "I like this language"
-  ],
-  [
-    "Я учусь и работаю",
-    "I study and work"
-  ],
-  [
-    "Я знаю это очень хорошо",
-    "I know it very well"
-  ],
-  [
-    "Они живут в этой стране",
-    "They live in this country"
-  ],
-  [
-    "Я живу в Нью-Йорке",
-    "I live in New York"
-  ],
-  [
-    "Я понимаю это",
-    "I understand it"
-  ],
-  [
-    "Я понимаю тебя",
-    "I understand you"
-  ],
-  [
-    "Я изучаю английский",
-    "I learn English"
-  ],
-  [
-    "Я живу в России",
-    "I live in Russia"
-  ],
-  [
-    "Я вижу это",
-    "I see it"
-  ],
-  [
-    "Я понимаю тебя очень хорошо",
-    "I understand you very well"
-  ],
-  [
-    "Я говорю по-английски и по-русски",
-    "I speak English and Russian"
-  ],
-  [
-    "Я говорю по-английски",
-    "I speak English"
-  ],
-  [
-    "Мне нравится английский",
-    "I like English"
-  ],
-  [
-    "Я знаю",
-    "I know"
-  ],
-  [
-    "Я изучаю английский онлайн",
-    "I learn English online"
-  ],
-  [
-    "Я знаю это",
-    "I know it"
-  ],
-  [
-    "Мне нравится этот город",
-    "I like this city"
-  ],
-  [
-    "Я хочу это",
-    "I want it"
-  ],
-  [
-    "Я работаю",
-    "I work"
-  ],
-  [
-    "Я вижу свои результаты",
-    "I see my results"
-  ],
-  [
-    "Я учусь",
-    "I study"
-  ],
-  [
-    "Мы понимаем тебя",
-    "We understand you"
-  ],
-  [
-    "Я работаю и учусь",
-    "I work and study"
-  ],
-  [
-    "Мне нравится эта программа",
-    "I like this program"
-  ],
-  [
-    "Я вижу тебя",
-    "I see you"
-  ],
-  [
-    "Я понимаю",
-    "I understand"
-  ],
-  [
-    "Мне нравится это видео",
-    "I like this video"
-  ],
-  [
-    "Я вижу свой результат",
-    "I see my result"
-  ],
-  [
-    "Я понимаю этот урок",
-    "I understand this lesson"
-  ],
-  [
-    "Ты помогаешь мне",
-    "You help me"
-  ],
-  [
-    "Я очень хорошо знаю это",
-    "I know it very well"
-  ],
-  [
-    "Я могу говорить по-английски",
-    "I can speak English"
-  ],
-  [
-    "Мне нравится это место",
-    "I like this place"
-  ],
-  [
-    "Мы живем в этом городе",
-    "We live in this city"
-  ],
-  [
-    "Ты говоришь по-английски очень хорошо",
-    "You speak English very well"
-  ],
-  [
-    "Я говорю по-русски",
-    "I speak Russian"
-  ],
-  [
-    "Я действительно хочу этого",
-    "I really want it"
-  ],
-  [
-    "Я действительно понимаю этот урок",
-    "I really understand this lesson"
-  ],
-  [
-    "Я вижу это очень хорошо",
-    "I see it very well"
-  ],
-  [
-    "Ты действительно помогаешь мне",
-    "Your really help me"
-  ],
-  [
-    "Я иногда думаю об этом",
-    "I sometimes think about it"
-  ],
-  [
-    "Я так думаю",
-    "I think so"
-  ],
-  [
-    "Они живут там",
-    "They live there"
-  ],
-  [
-    "Я думаю об этом",
-    "I think about it"
-  ],
-  [
-    "Мы обычно покупаем это там",
-    "We usually buy it there"
-  ],
-  [
-    "Я часто думаю об этом",
-    "I often think about it"
-  ],
-  [
-    "Мне нравится музыка",
-    "I like music"
-  ],
-  [
-    "Мне нравятся эти вещи",
-    "I like these things"
-  ],
-  [
-    "Я играю в эту игру",
-    "I play this game"
-  ],
-  [
-    "Я хожу туда",
-    "I go there"
-  ],
-  [
-    "Они тоже думают так",
-    "They also think so"
-  ],
-  [
-    "Я часто делаю это",
-    "I often do it"
-  ],
-  [
-    "Ты работаешь очень хорошо",
-    "You work very well"
-  ],
-  [
-    "Я делаю это каждый день",
-    "I do it every day"
-  ],
-  [
-    "Я хожу в школу",
-    "I go to school"
-  ],
-  [
-    "Я обычно покупаю эту вещь там",
-    "I usually buy this thing there"
-  ],
-  [
-    "Я покупаю эту вещь там",
-    "I buy this thing there"
-  ],
-  [
-    "Я обычно покупаю это здесь",
-    "I usually buy it here"
-  ],
-  [
-    "Я читаю эту книгу",
-    "I read this book"
-  ],
-  [
-    "Я читаю английские книги",
-    "I read English books"
-  ],
-  [
-    "Я читаю книги",
-    "I read books"
-  ],
-  [
-    "Мы так думаем",
-    "We think so"
-  ],
-  [
-    "Они так думают",
-    "They think so"
-  ],
-  [
-    "Мы думаем об этом",
-    "We think about it"
-  ],
-  [
-    "Мы часто ходим туда",
-    "We often go there"
-  ],
-  [
-    "Я часто хожу туда",
-    "I often go there"
-  ],
-  [
-    "Я иногда хожу туда",
-    "I sometimes go there"
-  ],
-  [
-    "Я также так думаю",
-    "I also think so"
-  ],
-  [
-    "Мне также это нравится",
-    "I also like it"
-  ],
-  [
-    "Я также хочу этого",
-    "I also want it"
-  ],
-  [
-    "Я путешествую каждый год",
-    "I travel every year"
-  ],
-  [
-    "Я путешествую каждый месяц",
-    "I travel every month"
-  ],
-  [
-    "Я часто путешествую",
-    "I often travel"
-  ],
-  [
-    "Мне нравится этот язык",
-    "I like this language"
-  ],
-  [
-    "Мне нравится тот язык",
-    "I like that language"
-  ],
-  [
-    "Нам нравится это место",
-    "We like this place"
-  ],
-  [
-    "Мне очень нравится это место",
-    "I really like this place"
-  ],
-  [
-    "Мне нравится эта вещь",
-    "I like this thing"
-  ],
-  [
-    "Мне нравятся эти видео",
-    "I like these videos"
-  ],
-  [
-    "Я хожу на работу",
-    "I go to work"
-  ],
-  [
-    "Я хожу в этот парк",
-    "I go to this park"
-  ],
-  [
-    "Я хожу в школу",
-    "I go to school"
-  ],
-  [
-    "Мне нравится английский",
-    "I like English"
-  ],
-  [
-    "Мне нравится эта практика",
-    "I like this practice"
-  ],
-  [
-    "Мне очень нравится английский",
-    "I really like English"
-  ],
-  [
-    "Я тоже так думаю",
-    "I also think so"
-  ],
-  [
-    "Они так думают",
-    "They think so"
-  ],
-  [
-    "Я часто играю в эту игру",
-    "I often play this game"
-  ],
-  [
-    "Я могу помочь тебе",
-    "I can help you"
-  ],
-  [
-    "Мне нравится эта песня",
-    "I like this song"
-  ],
-  [
-    "Они часто играют в футбол",
-    "They often play football"
-  ],
-  [
-    "Мне нравится путешествовать",
-    "I like travelling"
-  ],
-  [
-    "Я часто вижу эти вещи",
-    "I often see these things"
-  ],
-  [
-    "Нам нравится этот язык",
-    "We like this language"
-  ],
-  [
-    "Я хочу больше практики",
-    "I want more practice"
-  ],
-  [
-    "Я часто путешествую",
-    "I often travel"
-  ],
-  [
-    "Я люблю тебя",
-    "I love you"
-  ],
-  [
-    "Я работаю там",
-    "I work there"
-  ],
-  [
-    "Мне нравится эта музыка",
-    "I like this music"
-  ],
-  [
-    "Мы живем здесь",
-    "We live here"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я понимаю тебя",
+    "en": "I understand you"
+  },
+  {
+    "_id": 2,
+    "ru": "Они живут в этой стране",
+    "en": "They live in this country"
+  },
+  {
+    "_id": 3,
+    "ru": "Я путешествую каждый год",
+    "en": "I travel every year"
+  },
+  {
+    "_id": 4,
+    "ru": "Я тоже думаю так",
+    "en": "I also think so"
+  },
+  {
+    "_id": 5,
+    "ru": "Я говорю по-английски",
+    "en": "I speak English"
+  },
+  {
+    "_id": 6,
+    "ru": "Я хожу на работу",
+    "en": "I go to work"
+  },
+  {
+    "_id": 7,
+    "ru": "Мне нравится этот язык",
+    "en": "I like this language"
+  },
+  {
+    "_id": 8,
+    "ru": "Я учусь и работаю",
+    "en": "I study and work"
+  },
+  {
+    "_id": 9,
+    "ru": "Я знаю это очень хорошо",
+    "en": "I know it very well"
+  },
+  {
+    "_id": 10,
+    "ru": "Они живут в этой стране",
+    "en": "They live in this country"
+  },
+  {
+    "_id": 11,
+    "ru": "Я живу в Нью-Йорке",
+    "en": "I live in New York"
+  },
+  {
+    "_id": 12,
+    "ru": "Я понимаю это",
+    "en": "I understand it"
+  },
+  {
+    "_id": 13,
+    "ru": "Я понимаю тебя",
+    "en": "I understand you"
+  },
+  {
+    "_id": 14,
+    "ru": "Я изучаю английский",
+    "en": "I learn English"
+  },
+  {
+    "_id": 15,
+    "ru": "Я живу в России",
+    "en": "I live in Russia"
+  },
+  {
+    "_id": 16,
+    "ru": "Я вижу это",
+    "en": "I see it"
+  },
+  {
+    "_id": 17,
+    "ru": "Я понимаю тебя очень хорошо",
+    "en": "I understand you very well"
+  },
+  {
+    "_id": 18,
+    "ru": "Я говорю по-английски и по-русски",
+    "en": "I speak English and Russian"
+  },
+  {
+    "_id": 19,
+    "ru": "Я говорю по-английски",
+    "en": "I speak English"
+  },
+  {
+    "_id": 20,
+    "ru": "Мне нравится английский",
+    "en": "I like English"
+  },
+  {
+    "_id": 21,
+    "ru": "Я знаю",
+    "en": "I know"
+  },
+  {
+    "_id": 22,
+    "ru": "Я изучаю английский онлайн",
+    "en": "I learn English online"
+  },
+  {
+    "_id": 23,
+    "ru": "Я знаю это",
+    "en": "I know it"
+  },
+  {
+    "_id": 24,
+    "ru": "Мне нравится этот город",
+    "en": "I like this city"
+  },
+  {
+    "_id": 25,
+    "ru": "Я хочу это",
+    "en": "I want it"
+  },
+  {
+    "_id": 26,
+    "ru": "Я работаю",
+    "en": "I work"
+  },
+  {
+    "_id": 27,
+    "ru": "Я вижу свои результаты",
+    "en": "I see my results"
+  },
+  {
+    "_id": 28,
+    "ru": "Я учусь",
+    "en": "I study"
+  },
+  {
+    "_id": 29,
+    "ru": "Мы понимаем тебя",
+    "en": "We understand you"
+  },
+  {
+    "_id": 30,
+    "ru": "Я работаю и учусь",
+    "en": "I work and study"
+  },
+  {
+    "_id": 31,
+    "ru": "Мне нравится эта программа",
+    "en": "I like this program"
+  },
+  {
+    "_id": 32,
+    "ru": "Я вижу тебя",
+    "en": "I see you"
+  },
+  {
+    "_id": 33,
+    "ru": "Я понимаю",
+    "en": "I understand"
+  },
+  {
+    "_id": 34,
+    "ru": "Мне нравится это видео",
+    "en": "I like this video"
+  },
+  {
+    "_id": 35,
+    "ru": "Я вижу свой результат",
+    "en": "I see my result"
+  },
+  {
+    "_id": 36,
+    "ru": "Я понимаю этот урок",
+    "en": "I understand this lesson"
+  },
+  {
+    "_id": 37,
+    "ru": "Ты помогаешь мне",
+    "en": "You help me"
+  },
+  {
+    "_id": 38,
+    "ru": "Я очень хорошо знаю это",
+    "en": "I know it very well"
+  },
+  {
+    "_id": 39,
+    "ru": "Я могу говорить по-английски",
+    "en": "I can speak English"
+  },
+  {
+    "_id": 40,
+    "ru": "Мне нравится это место",
+    "en": "I like this place"
+  },
+  {
+    "_id": 41,
+    "ru": "Мы живем в этом городе",
+    "en": "We live in this city"
+  },
+  {
+    "_id": 42,
+    "ru": "Ты говоришь по-английски очень хорошо",
+    "en": "You speak English very well"
+  },
+  {
+    "_id": 43,
+    "ru": "Я говорю по-русски",
+    "en": "I speak Russian"
+  },
+  {
+    "_id": 44,
+    "ru": "Я действительно хочу этого",
+    "en": "I really want it"
+  },
+  {
+    "_id": 45,
+    "ru": "Я действительно понимаю этот урок",
+    "en": "I really understand this lesson"
+  },
+  {
+    "_id": 46,
+    "ru": "Я вижу это очень хорошо",
+    "en": "I see it very well"
+  },
+  {
+    "_id": 47,
+    "ru": "Ты действительно помогаешь мне",
+    "en": "Your really help me"
+  },
+  {
+    "_id": 48,
+    "ru": "Я иногда думаю об этом",
+    "en": "I sometimes think about it"
+  },
+  {
+    "_id": 49,
+    "ru": "Я так думаю",
+    "en": "I think so"
+  },
+  {
+    "_id": 50,
+    "ru": "Они живут там",
+    "en": "They live there"
+  },
+  {
+    "_id": 51,
+    "ru": "Я думаю об этом",
+    "en": "I think about it"
+  },
+  {
+    "_id": 52,
+    "ru": "Мы обычно покупаем это там",
+    "en": "We usually buy it there"
+  },
+  {
+    "_id": 53,
+    "ru": "Я часто думаю об этом",
+    "en": "I often think about it"
+  },
+  {
+    "_id": 54,
+    "ru": "Мне нравится музыка",
+    "en": "I like music"
+  },
+  {
+    "_id": 55,
+    "ru": "Мне нравятся эти вещи",
+    "en": "I like these things"
+  },
+  {
+    "_id": 56,
+    "ru": "Я играю в эту игру",
+    "en": "I play this game"
+  },
+  {
+    "_id": 57,
+    "ru": "Я хожу туда",
+    "en": "I go there"
+  },
+  {
+    "_id": 58,
+    "ru": "Они тоже думают так",
+    "en": "They also think so"
+  },
+  {
+    "_id": 59,
+    "ru": "Я часто делаю это",
+    "en": "I often do it"
+  },
+  {
+    "_id": 60,
+    "ru": "Ты работаешь очень хорошо",
+    "en": "You work very well"
+  },
+  {
+    "_id": 61,
+    "ru": "Я делаю это каждый день",
+    "en": "I do it every day"
+  },
+  {
+    "_id": 62,
+    "ru": "Я хожу в школу",
+    "en": "I go to school"
+  },
+  {
+    "_id": 63,
+    "ru": "Я обычно покупаю эту вещь там",
+    "en": "I usually buy this thing there"
+  },
+  {
+    "_id": 64,
+    "ru": "Я покупаю эту вещь там",
+    "en": "I buy this thing there"
+  },
+  {
+    "_id": 65,
+    "ru": "Я обычно покупаю это здесь",
+    "en": "I usually buy it here"
+  },
+  {
+    "_id": 66,
+    "ru": "Я читаю эту книгу",
+    "en": "I read this book"
+  },
+  {
+    "_id": 67,
+    "ru": "Я читаю английские книги",
+    "en": "I read English books"
+  },
+  {
+    "_id": 68,
+    "ru": "Я читаю книги",
+    "en": "I read books"
+  },
+  {
+    "_id": 69,
+    "ru": "Мы так думаем",
+    "en": "We think so"
+  },
+  {
+    "_id": 70,
+    "ru": "Они так думают",
+    "en": "They think so"
+  },
+  {
+    "_id": 71,
+    "ru": "Мы думаем об этом",
+    "en": "We think about it"
+  },
+  {
+    "_id": 72,
+    "ru": "Мы часто ходим туда",
+    "en": "We often go there"
+  },
+  {
+    "_id": 73,
+    "ru": "Я часто хожу туда",
+    "en": "I often go there"
+  },
+  {
+    "_id": 74,
+    "ru": "Я иногда хожу туда",
+    "en": "I sometimes go there"
+  },
+  {
+    "_id": 75,
+    "ru": "Я также так думаю",
+    "en": "I also think so"
+  },
+  {
+    "_id": 76,
+    "ru": "Мне также это нравится",
+    "en": "I also like it"
+  },
+  {
+    "_id": 77,
+    "ru": "Я также хочу этого",
+    "en": "I also want it"
+  },
+  {
+    "_id": 78,
+    "ru": "Я путешествую каждый год",
+    "en": "I travel every year"
+  },
+  {
+    "_id": 79,
+    "ru": "Я путешествую каждый месяц",
+    "en": "I travel every month"
+  },
+  {
+    "_id": 80,
+    "ru": "Я часто путешествую",
+    "en": "I often travel"
+  },
+  {
+    "_id": 81,
+    "ru": "Мне нравится этот язык",
+    "en": "I like this language"
+  },
+  {
+    "_id": 82,
+    "ru": "Мне нравится тот язык",
+    "en": "I like that language"
+  },
+  {
+    "_id": 83,
+    "ru": "Нам нравится это место",
+    "en": "We like this place"
+  },
+  {
+    "_id": 84,
+    "ru": "Мне очень нравится это место",
+    "en": "I really like this place"
+  },
+  {
+    "_id": 85,
+    "ru": "Мне нравится эта вещь",
+    "en": "I like this thing"
+  },
+  {
+    "_id": 86,
+    "ru": "Мне нравятся эти видео",
+    "en": "I like these videos"
+  },
+  {
+    "_id": 87,
+    "ru": "Я хожу на работу",
+    "en": "I go to work"
+  },
+  {
+    "_id": 88,
+    "ru": "Я хожу в этот парк",
+    "en": "I go to this park"
+  },
+  {
+    "_id": 89,
+    "ru": "Я хожу в школу",
+    "en": "I go to school"
+  },
+  {
+    "_id": 90,
+    "ru": "Мне нравится английский",
+    "en": "I like English"
+  },
+  {
+    "_id": 91,
+    "ru": "Мне нравится эта практика",
+    "en": "I like this practice"
+  },
+  {
+    "_id": 92,
+    "ru": "Мне очень нравится английский",
+    "en": "I really like English"
+  },
+  {
+    "_id": 93,
+    "ru": "Я тоже так думаю",
+    "en": "I also think so"
+  },
+  {
+    "_id": 94,
+    "ru": "Они так думают",
+    "en": "They think so"
+  },
+  {
+    "_id": 95,
+    "ru": "Я часто играю в эту игру",
+    "en": "I often play this game"
+  },
+  {
+    "_id": 96,
+    "ru": "Я могу помочь тебе",
+    "en": "I can help you"
+  },
+  {
+    "_id": 97,
+    "ru": "Мне нравится эта песня",
+    "en": "I like this song"
+  },
+  {
+    "_id": 98,
+    "ru": "Они часто играют в футбол",
+    "en": "They often play football"
+  },
+  {
+    "_id": 99,
+    "ru": "Мне нравится путешествовать",
+    "en": "I like travelling"
+  },
+  {
+    "_id": 100,
+    "ru": "Я часто вижу эти вещи",
+    "en": "I often see these things"
+  },
+  {
+    "_id": 101,
+    "ru": "Нам нравится этот язык",
+    "en": "We like this language"
+  },
+  {
+    "_id": 102,
+    "ru": "Я хочу больше практики",
+    "en": "I want more practice"
+  },
+  {
+    "_id": 103,
+    "ru": "Я часто путешествую",
+    "en": "I often travel"
+  },
+  {
+    "_id": 104,
+    "ru": "Я люблю тебя",
+    "en": "I love you"
+  },
+  {
+    "_id": 105,
+    "ru": "Я работаю там",
+    "en": "I work there"
+  },
+  {
+    "_id": 106,
+    "ru": "Мне нравится эта музыка",
+    "en": "I like this music"
+  },
+  {
+    "_id": 107,
+    "ru": "Мы живем здесь",
+    "en": "We live here"
+  }
 ]

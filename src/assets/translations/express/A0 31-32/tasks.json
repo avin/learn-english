@@ -1,186 +1,232 @@
 [
-  [
-    "Я закрыл окно",
-    "I closed the window"
-  ],
-  [
-    "Мы продолжили наш разговор",
-    "We continued our conversation"
-  ],
-  [
-    "Они любили друг друга",
-    "They loved each other"
-  ],
-  [
-    "Он любил ее так сильно",
-    "He loved her so much"
-  ],
-  [
-    "Кто-то открыл дверь",
-    "Someone opened the door"
-  ],
-  [
-    "Я закрыл дверь",
-    "I closed the door"
-  ],
-  [
-    "Мы остановились в этом отеле",
-    "We stayed at this hotel"
-  ],
-  [
-    "Я согласился в конце",
-    "I agreed in the end"
-  ],
-  [
-    "Все изменилось внезапно",
-    "Everything changed suddenly"
-  ],
-  [
-    "Мы поддерживали друг друга",
-    "We supported each other"
-  ],
-  [
-    "Мы продолжили этот курс",
-    "We continued this course"
-  ],
-  [
-    "Мы повернули назад",
-    "We turned back"
-  ],
-  [
-    "Они переехали в Америку",
-    "They moved to America"
-  ],
-  [
-    "Это изменило мою жизнь",
-    "It changed my life"
-  ],
-  [
-    "Я послушал эту песню",
-    "I listened to this song"
-  ],
-  [
-    "Я подождал его",
-    "I waited for him"
-  ],
-  [
-    "Это интересовало меня так сильно",
-    "It interested me so much"
-  ],
-  [
-    "Это действительно интересовало меня",
-    "It really interested me"
-  ],
-  [
-    "Мы часто разговаривали по телефону",
-    "We often talked on the phone"
-  ],
-  [
-    "Он любил ее, и она любила его",
-    "He loved her and she loved him"
-  ],
-  [
-    "Они согласились в конце",
-    "They agreed in the end"
-  ],
-  [
-    "Мне нужно было больше времени",
-    "I needed more time"
-  ],
-  [
-    "Я остановился внезапно",
-    "I stopped suddenly"
-  ],
-  [
-    "Они подождали меня немного",
-    "They waited for me a little"
-  ],
-  [
-    "Он переехал в этот город",
-    "He moved to this city"
-  ],
-  [
-    "Я действительно хотел понять это",
-    "I really wanted to understand it"
-  ],
-  [
-    "Она переехала в Англию",
-    "She moved to England"
-  ],
-  [
-    "Кто-то открыл окно",
-    "Someone opened the window"
-  ],
-  [
-    "Они часто смеялись",
-    "They often laughed"
-  ],
-  [
-    "Я подождал ее",
-    "I waited for her"
-  ],
-  [
-    "Я подождал тебя немного",
-    "I waited for you a little"
-  ],
-  [
-    "Я хотел выучить английский",
-    "I wanted to learn English"
-  ],
-  [
-    "Я вспомнил его имя",
-    "I remembered his name"
-  ],
-  [
-    "Я послушал ту песню",
-    "I listened to that song"
-  ],
-  [
-    "Они часто разговаривали по телефону",
-    "They often talked on the phone"
-  ],
-  [
-    "Я иногда слушал музыку",
-    "I sometimes listened to music"
-  ],
-  [
-    "Они повернули назад",
-    "They turned back"
-  ],
-  [
-    "Я остановился рядом с этим магазином",
-    "I stopped near this shop"
-  ],
-  [
-    "Мы остановились в этом месте",
-    "We stopped in this place"
-  ],
-  [
-    "Я вспомнил ее имя",
-    "I remembered her name"
-  ],
-  [
-    "Он часто смеялся",
-    "He often laughed"
-  ],
-  [
-    "Я их подождал",
-    "I waited for them"
-  ],
-  [
-    "Все изменилось",
-    "Everything changed"
-  ],
-  [
-    "Я остановился в этом отеле",
-    "I stayed at this hotel"
-  ],
-  [
-    "Это реально помогло мне",
-    "It really helped me"
-  ],
-  [
-    "Он остановился внезапно",
-    "He stopped suddenly"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я закрыл окно",
+    "en": "I closed the window"
+  },
+  {
+    "_id": 2,
+    "ru": "Мы продолжили наш разговор",
+    "en": "We continued our conversation"
+  },
+  {
+    "_id": 3,
+    "ru": "Они любили друг друга",
+    "en": "They loved each other"
+  },
+  {
+    "_id": 4,
+    "ru": "Он любил ее так сильно",
+    "en": "He loved her so much"
+  },
+  {
+    "_id": 5,
+    "ru": "Кто-то открыл дверь",
+    "en": "Someone opened the door"
+  },
+  {
+    "_id": 6,
+    "ru": "Я закрыл дверь",
+    "en": "I closed the door"
+  },
+  {
+    "_id": 7,
+    "ru": "Мы остановились в этом отеле",
+    "en": "We stayed at this hotel"
+  },
+  {
+    "_id": 8,
+    "ru": "Я согласился в конце",
+    "en": "I agreed in the end"
+  },
+  {
+    "_id": 9,
+    "ru": "Все изменилось внезапно",
+    "en": "Everything changed suddenly"
+  },
+  {
+    "_id": 10,
+    "ru": "Мы поддерживали друг друга",
+    "en": "We supported each other"
+  },
+  {
+    "_id": 11,
+    "ru": "Мы продолжили этот курс",
+    "en": "We continued this course"
+  },
+  {
+    "_id": 12,
+    "ru": "Мы повернули назад",
+    "en": "We turned back"
+  },
+  {
+    "_id": 13,
+    "ru": "Они переехали в Америку",
+    "en": "They moved to America"
+  },
+  {
+    "_id": 14,
+    "ru": "Это изменило мою жизнь",
+    "en": "It changed my life"
+  },
+  {
+    "_id": 15,
+    "ru": "Я послушал эту песню",
+    "en": "I listened to this song"
+  },
+  {
+    "_id": 16,
+    "ru": "Я подождал его",
+    "en": "I waited for him"
+  },
+  {
+    "_id": 17,
+    "ru": "Это интересовало меня так сильно",
+    "en": "It interested me so much"
+  },
+  {
+    "_id": 18,
+    "ru": "Это действительно интересовало меня",
+    "en": "It really interested me"
+  },
+  {
+    "_id": 19,
+    "ru": "Мы часто разговаривали по телефону",
+    "en": "We often talked on the phone"
+  },
+  {
+    "_id": 20,
+    "ru": "Он любил ее, и она любила его",
+    "en": "He loved her and she loved him"
+  },
+  {
+    "_id": 21,
+    "ru": "Они согласились в конце",
+    "en": "They agreed in the end"
+  },
+  {
+    "_id": 22,
+    "ru": "Мне нужно было больше времени",
+    "en": "I needed more time"
+  },
+  {
+    "_id": 23,
+    "ru": "Я остановился внезапно",
+    "en": "I stopped suddenly"
+  },
+  {
+    "_id": 24,
+    "ru": "Они подождали меня немного",
+    "en": "They waited for me a little"
+  },
+  {
+    "_id": 25,
+    "ru": "Он переехал в этот город",
+    "en": "He moved to this city"
+  },
+  {
+    "_id": 26,
+    "ru": "Я действительно хотел понять это",
+    "en": "I really wanted to understand it"
+  },
+  {
+    "_id": 27,
+    "ru": "Она переехала в Англию",
+    "en": "She moved to England"
+  },
+  {
+    "_id": 28,
+    "ru": "Кто-то открыл окно",
+    "en": "Someone opened the window"
+  },
+  {
+    "_id": 29,
+    "ru": "Они часто смеялись",
+    "en": "They often laughed"
+  },
+  {
+    "_id": 30,
+    "ru": "Я подождал ее",
+    "en": "I waited for her"
+  },
+  {
+    "_id": 31,
+    "ru": "Я подождал тебя немного",
+    "en": "I waited for you a little"
+  },
+  {
+    "_id": 32,
+    "ru": "Я хотел выучить английский",
+    "en": "I wanted to learn English"
+  },
+  {
+    "_id": 33,
+    "ru": "Я вспомнил его имя",
+    "en": "I remembered his name"
+  },
+  {
+    "_id": 34,
+    "ru": "Я послушал ту песню",
+    "en": "I listened to that song"
+  },
+  {
+    "_id": 35,
+    "ru": "Они часто разговаривали по телефону",
+    "en": "They often talked on the phone"
+  },
+  {
+    "_id": 36,
+    "ru": "Я иногда слушал музыку",
+    "en": "I sometimes listened to music"
+  },
+  {
+    "_id": 37,
+    "ru": "Они повернули назад",
+    "en": "They turned back"
+  },
+  {
+    "_id": 38,
+    "ru": "Я остановился рядом с этим магазином",
+    "en": "I stopped near this shop"
+  },
+  {
+    "_id": 39,
+    "ru": "Мы остановились в этом месте",
+    "en": "We stopped in this place"
+  },
+  {
+    "_id": 40,
+    "ru": "Я вспомнил ее имя",
+    "en": "I remembered her name"
+  },
+  {
+    "_id": 41,
+    "ru": "Он часто смеялся",
+    "en": "He often laughed"
+  },
+  {
+    "_id": 42,
+    "ru": "Я их подождал",
+    "en": "I waited for them"
+  },
+  {
+    "_id": 43,
+    "ru": "Все изменилось",
+    "en": "Everything changed"
+  },
+  {
+    "_id": 44,
+    "ru": "Я остановился в этом отеле",
+    "en": "I stayed at this hotel"
+  },
+  {
+    "_id": 45,
+    "ru": "Это реально помогло мне",
+    "en": "It really helped me"
+  },
+  {
+    "_id": 46,
+    "ru": "Он остановился внезапно",
+    "en": "He stopped suddenly"
+  }
 ]

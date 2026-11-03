@@ -1,50 +1,62 @@
 [
-  [
-    "Что ты делал, когда ты увидел это?",
-    "What were you doing when you saw it?"
-  ],
-  [
-    "Я стал больше интересоваться такого рода вопросами",
-    "I got more interested in this kind of issues"
-  ],
-  [
-    "Когда я прибыл на вокзал, он ждал меня",
-    "When I arrived at the station, he was waiting for me"
-  ],
-  [
-    "Пошел дождь, и мы решили пойти домой",
-    "It started raining and we decided to go home"
-  ],
-  [
-    "Когда это случилось, я стал думать об этом более серьезно",
-    "When it happened, I started thinking about it more seriously"
-  ],
-  [
-    "Когда я увидел его, я задал ему тот вопрос",
-    "When I saw him, I asked him that question"
-  ],
-  [
-    "Когда я ждал его, я повторял урок",
-    "When I was waiting for him, I was revising the lesson"
-  ],
-  [
-    "Что ты делал, когда произошла такая неприятная вещь?",
-    "What were you doing when such an unpleasant thing happened?"
-  ],
-  [
-    "Когда пошел такой сильный дождь, я решил не ехать туда",
-    "When it started raining so heavily, I decided not to go there"
-  ],
-  [
-    "Я повторил все уроки",
-    "I revised all the lessons"
-  ],
-  [
-    "Когда я учился в школе, я не обращал внимание на это",
-    "When I studied at school, I didn't pay attention to it"
-  ],
-  [
-    "Весь день шел снег",
-    "It was snowing all day"
-  ]
+  {
+    "_id": 1,
+    "ru": "Что ты делал, когда ты увидел это?",
+    "en": "What were you doing when you saw it?"
+  },
+  {
+    "_id": 2,
+    "ru": "Я стал больше интересоваться такого рода вопросами",
+    "en": "I got more interested in this kind of issues"
+  },
+  {
+    "_id": 3,
+    "ru": "Когда я прибыл на вокзал, он ждал меня",
+    "en": "When I arrived at the station, he was waiting for me"
+  },
+  {
+    "_id": 4,
+    "ru": "Пошел дождь, и мы решили пойти домой",
+    "en": "It started raining and we decided to go home"
+  },
+  {
+    "_id": 5,
+    "ru": "Когда это случилось, я стал думать об этом более серьезно",
+    "en": "When it happened, I started thinking about it more seriously"
+  },
+  {
+    "_id": 6,
+    "ru": "Когда я увидел его, я задал ему тот вопрос",
+    "en": "When I saw him, I asked him that question"
+  },
+  {
+    "_id": 7,
+    "ru": "Когда я ждал его, я повторял урок",
+    "en": "When I was waiting for him, I was revising the lesson"
+  },
+  {
+    "_id": 8,
+    "ru": "Что ты делал, когда произошла такая неприятная вещь?",
+    "en": "What were you doing when such an unpleasant thing happened?"
+  },
+  {
+    "_id": 9,
+    "ru": "Когда пошел такой сильный дождь, я решил не ехать туда",
+    "en": "When it started raining so heavily, I decided not to go there"
+  },
+  {
+    "_id": 10,
+    "ru": "Я повторил все уроки",
+    "en": "I revised all the lessons"
+  },
+  {
+    "_id": 11,
+    "ru": "Когда я учился в школе, я не обращал внимание на это",
+    "en": "When I studied at school, I didn't pay attention to it"
+  },
+  {
+    "_id": 12,
+    "ru": "Весь день шел снег",
+    "en": "It was snowing all day"
+  }
 ]

@@ -1,198 +1,247 @@
 [
-  [
-    "Все в порядке",
-    "Everything is OK"
-  ],
-  [
-    "Я не знаю, что сказать тебе",
-    "I don't know what to tell you"
-  ],
-  [
-    "Все очень дорого здесь",
-    "Everything is very expensive here"
-  ],
-  [
-    "Что действительно вдохновляет тебя?",
-    "What really inspires you?"
-  ],
-  [
-    "Все понимают это",
-    "Everyone understands it"
-  ],
-  [
-    "Я хочу сказать, что я действительно обожаю заниматься английским",
-    "I want to say that I really enjoy learning English"
-  ],
-  [
-    "Ты знаешь, я действительно обожаю путешествовать",
-    "You know, I really enjoy travelling"
-  ],
-  [
-    "Все люди знают это",
-    "All people know it"
-  ],
-  [
-    "Что ты хочешь изменить?",
-    "What do you want to change?"
-  ],
-  [
-    "Что интересует тебя?",
-    "What interests you?"
-  ],
-  [
-    "Все под контролем",
-    "Everything is under control"
-  ],
-  [
-    "Я не знаю, что делать в этой ситуации",
-    "I don't know what to do in this situation"
-  ],
-  [
-    "Я обожаю проводить время со своими друзьями",
-    "I enjoy spending time with my friends"
-  ],
-  [
-    "Кого ты видишь?",
-    "Who do you see?"
-  ],
-  [
-    "Я не знаю, что делать",
-    "I don't know what to do"
-  ],
-  [
-    "Ты знаешь, как найти эту информацию?",
-    "Do you know how to find this information?"
-  ],
-  [
-    "Я не знаю, что сказать",
-    "I don't know what to say"
-  ],
-  [
-    "Я действительно обожаю проводить время со своими друзьями",
-    "I really enjoy spending time with my friends"
-  ],
-  [
-    "Ты знаешь, что делать?",
-    "Do you know what to do?"
-  ],
-  [
-    "Что кажется лучше?",
-    "What seems better?"
-  ],
-  [
-    "Ты думаешь, это действительно возможно?",
-    "Do you think it's really possible?"
-  ],
-  [
-    "Я обожаю путешествовать",
-    "I enjoy travelling"
-  ],
-  [
-    "Я обожаю заниматься английским",
-    "I enjoy learning English"
-  ],
-  [
-    "Я не знаю, как ответить на этот вопрос",
-    "I don't know how to answer this question"
-  ],
-  [
-    "Я обожаю английский",
-    "I enjoy English"
-  ],
-  [
-    "Я не знаю, как этим пользоваться",
-    "I don't know how to use it"
-  ],
-  [
-    "Ты думаешь, это хорошая цена?",
-    "Do you think it's a good price?"
-  ],
-  [
-    "Что беспокоит тебя?",
-    "What worries you?"
-  ],
-  [
-    "Что звучит интереснее?",
-    "What sounds more interesting?"
-  ],
-  [
-    "Все кажется очень важным",
-    "Everything seems very important"
-  ],
-  [
-    "Все знают это",
-    "Everyone knows it"
-  ],
-  [
-    "Я не думаю, что это действительно возможно",
-    "I don't think that it's really possible"
-  ],
-  [
-    "Я не знаю, как перевести это",
-    "I don't know how to translate it"
-  ],
-  [
-    "Кто знает это?",
-    "Who knows it?"
-  ],
-  [
-    "Все кажется очень дорогим",
-    "Everything seems very expensive"
-  ],
-  [
-    "Что помогает тебе?",
-    "What helps you?"
-  ],
-  [
-    "Все люди понимают это",
-    "All people understand it"
-  ],
-  [
-    "Я думаю, это возможно",
-    "I think it's possible"
-  ],
-  [
-    "Я хочу сказать тебе, что я действительно обожаю музыку",
-    "I want to tell you that I really enjoy music"
-  ],
-  [
-    "Я действительно обожаю изучать иностранные языки",
-    "I really enjoy learning foreign languages"
-  ],
-  [
-    "Ты думаешь, это возможно?",
-    "Do you think it's possible?"
-  ],
-  [
-    "Что вдохновляет тебя?",
-    "What inspires you?"
-  ],
-  [
-    "Я хочу сказать, что я обожаю музыку",
-    "I want to say that I enjoy music"
-  ],
-  [
-    "Я хочу сказать, что я действительно обожаю спорт",
-    "I want to say that I really enjoy sport"
-  ],
-  [
-    "Почему ты так сильно об этом беспокоишься?",
-    "Why do you worry about it so much?"
-  ],
-  [
-    "Что мотивирует тебя?",
-    "What motivates you?"
-  ],
-  [
-    "Что касается меня, я действительно обожаю путешествовать",
-    "As for me, I really enjoy travelling"
-  ],
-  [
-    "Я не знаю, что ответить",
-    "I don't know what to answer"
-  ],
-  [
-    "Что звучит лучше?",
-    "What sounds better?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Все в порядке",
+    "en": "Everything is OK"
+  },
+  {
+    "_id": 2,
+    "ru": "Я не знаю, что сказать тебе",
+    "en": "I don't know what to tell you"
+  },
+  {
+    "_id": 3,
+    "ru": "Все очень дорого здесь",
+    "en": "Everything is very expensive here"
+  },
+  {
+    "_id": 4,
+    "ru": "Что действительно вдохновляет тебя?",
+    "en": "What really inspires you?"
+  },
+  {
+    "_id": 5,
+    "ru": "Все понимают это",
+    "en": "Everyone understands it"
+  },
+  {
+    "_id": 6,
+    "ru": "Я хочу сказать, что я действительно обожаю заниматься английским",
+    "en": "I want to say that I really enjoy learning English"
+  },
+  {
+    "_id": 7,
+    "ru": "Ты знаешь, я действительно обожаю путешествовать",
+    "en": "You know, I really enjoy travelling"
+  },
+  {
+    "_id": 8,
+    "ru": "Все люди знают это",
+    "en": "All people know it"
+  },
+  {
+    "_id": 9,
+    "ru": "Что ты хочешь изменить?",
+    "en": "What do you want to change?"
+  },
+  {
+    "_id": 10,
+    "ru": "Что интересует тебя?",
+    "en": "What interests you?"
+  },
+  {
+    "_id": 11,
+    "ru": "Все под контролем",
+    "en": "Everything is under control"
+  },
+  {
+    "_id": 12,
+    "ru": "Я не знаю, что делать в этой ситуации",
+    "en": "I don't know what to do in this situation"
+  },
+  {
+    "_id": 13,
+    "ru": "Я обожаю проводить время со своими друзьями",
+    "en": "I enjoy spending time with my friends"
+  },
+  {
+    "_id": 14,
+    "ru": "Кого ты видишь?",
+    "en": "Who do you see?"
+  },
+  {
+    "_id": 15,
+    "ru": "Я не знаю, что делать",
+    "en": "I don't know what to do"
+  },
+  {
+    "_id": 16,
+    "ru": "Ты знаешь, как найти эту информацию?",
+    "en": "Do you know how to find this information?"
+  },
+  {
+    "_id": 17,
+    "ru": "Я не знаю, что сказать",
+    "en": "I don't know what to say"
+  },
+  {
+    "_id": 18,
+    "ru": "Я действительно обожаю проводить время со своими друзьями",
+    "en": "I really enjoy spending time with my friends"
+  },
+  {
+    "_id": 19,
+    "ru": "Ты знаешь, что делать?",
+    "en": "Do you know what to do?"
+  },
+  {
+    "_id": 20,
+    "ru": "Что кажется лучше?",
+    "en": "What seems better?"
+  },
+  {
+    "_id": 21,
+    "ru": "Ты думаешь, это действительно возможно?",
+    "en": "Do you think it's really possible?"
+  },
+  {
+    "_id": 22,
+    "ru": "Я обожаю путешествовать",
+    "en": "I enjoy travelling"
+  },
+  {
+    "_id": 23,
+    "ru": "Я обожаю заниматься английским",
+    "en": "I enjoy learning English"
+  },
+  {
+    "_id": 24,
+    "ru": "Я не знаю, как ответить на этот вопрос",
+    "en": "I don't know how to answer this question"
+  },
+  {
+    "_id": 25,
+    "ru": "Я обожаю английский",
+    "en": "I enjoy English"
+  },
+  {
+    "_id": 26,
+    "ru": "Я не знаю, как этим пользоваться",
+    "en": "I don't know how to use it"
+  },
+  {
+    "_id": 27,
+    "ru": "Ты думаешь, это хорошая цена?",
+    "en": "Do you think it's a good price?"
+  },
+  {
+    "_id": 28,
+    "ru": "Что беспокоит тебя?",
+    "en": "What worries you?"
+  },
+  {
+    "_id": 29,
+    "ru": "Что звучит интереснее?",
+    "en": "What sounds more interesting?"
+  },
+  {
+    "_id": 30,
+    "ru": "Все кажется очень важным",
+    "en": "Everything seems very important"
+  },
+  {
+    "_id": 31,
+    "ru": "Все знают это",
+    "en": "Everyone knows it"
+  },
+  {
+    "_id": 32,
+    "ru": "Я не думаю, что это действительно возможно",
+    "en": "I don't think that it's really possible"
+  },
+  {
+    "_id": 33,
+    "ru": "Я не знаю, как перевести это",
+    "en": "I don't know how to translate it"
+  },
+  {
+    "_id": 34,
+    "ru": "Кто знает это?",
+    "en": "Who knows it?"
+  },
+  {
+    "_id": 35,
+    "ru": "Все кажется очень дорогим",
+    "en": "Everything seems very expensive"
+  },
+  {
+    "_id": 36,
+    "ru": "Что помогает тебе?",
+    "en": "What helps you?"
+  },
+  {
+    "_id": 37,
+    "ru": "Все люди понимают это",
+    "en": "All people understand it"
+  },
+  {
+    "_id": 38,
+    "ru": "Я думаю, это возможно",
+    "en": "I think it's possible"
+  },
+  {
+    "_id": 39,
+    "ru": "Я хочу сказать тебе, что я действительно обожаю музыку",
+    "en": "I want to tell you that I really enjoy music"
+  },
+  {
+    "_id": 40,
+    "ru": "Я действительно обожаю изучать иностранные языки",
+    "en": "I really enjoy learning foreign languages"
+  },
+  {
+    "_id": 41,
+    "ru": "Ты думаешь, это возможно?",
+    "en": "Do you think it's possible?"
+  },
+  {
+    "_id": 42,
+    "ru": "Что вдохновляет тебя?",
+    "en": "What inspires you?"
+  },
+  {
+    "_id": 43,
+    "ru": "Я хочу сказать, что я обожаю музыку",
+    "en": "I want to say that I enjoy music"
+  },
+  {
+    "_id": 44,
+    "ru": "Я хочу сказать, что я действительно обожаю спорт",
+    "en": "I want to say that I really enjoy sport"
+  },
+  {
+    "_id": 45,
+    "ru": "Почему ты так сильно об этом беспокоишься?",
+    "en": "Why do you worry about it so much?"
+  },
+  {
+    "_id": 46,
+    "ru": "Что мотивирует тебя?",
+    "en": "What motivates you?"
+  },
+  {
+    "_id": 47,
+    "ru": "Что касается меня, я действительно обожаю путешествовать",
+    "en": "As for me, I really enjoy travelling"
+  },
+  {
+    "_id": 48,
+    "ru": "Я не знаю, что ответить",
+    "en": "I don't know what to answer"
+  },
+  {
+    "_id": 49,
+    "ru": "Что звучит лучше?",
+    "en": "What sounds better?"
+  }
 ]

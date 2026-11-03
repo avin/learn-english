@@ -1,98 +1,122 @@
 [
-  [
-    "Я позвоню ему, чтобы подтвердить нашу встречу",
-    "I'll call him to confirm our meeting"
-  ],
-  [
-    "Она еще не подмела пол",
-    "She hasn't swept the floor yet"
-  ],
-  [
-    "Пока он плавал, она лежала на пляже",
-    "While he was swimming, she was lying on the beach"
-  ],
-  [
-    "Я спрашивал его об этом так много раз",
-    "I've asked him about it so many times"
-  ],
-  [
-    "Я катался на велосипеде вчера",
-    "I rode a bike yesterday"
-  ],
-  [
-    "Я знаю, что его не волнует это",
-    "I know that he doesn't care about it"
-  ],
-  [
-    "Что ты делал, когда это произошло?",
-    "What were you doing when it happened?"
-  ],
-  [
-    "Она сказала, что только что переехала в новую квартиру",
-    "She said that she had just moved into a new apartment"
-  ],
-  [
-    "Посмотри! Малыш плачет",
-    "Look! The baby is crying"
-  ],
-  [
-    "Чего он ждет?",
-    "What is he waiting for?"
-  ],
-  [
-    "Все меняется в наше время",
-    "Everything is changing nowadays"
-  ],
-  [
-    "Он сказал, что она упала и повредила колено",
-    "He said that she had fallen and hurt her knee"
-  ],
-  [
-    "Я собираюсь достичь этой цели как можно скорее",
-    "I'm going to achieve this aim as soon as possible"
-  ],
-  [
-    "Они уже сообщили мне об этих изменениях",
-    "They've already informed me of these changes"
-  ],
-  [
-    "Я только что переехал в новый дом",
-    "I've just moved into a new house"
-  ],
-  [
-    "Тебе нужно кликнуть на эту ссылку",
-    "You need to click on this link"
-  ],
-  [
-    "Ты когда-либо катался на лошади?",
-    "Have you ever ridden a horse?"
-  ],
-  [
-    "Я видел, что они действительно любили друг друга",
-    "I saw that they really loved each other"
-  ],
-  [
-    "Он сказал, что закрыл дверь",
-    "He said that he had closed the door"
-  ],
-  [
-    "Не беспокойся об этом!",
-    "Don't worry about it!"
-  ],
-  [
-    "Кого ты ждешь?",
-    "Who are you waiting for?"
-  ],
-  [
-    "Это привело к новым неожиданным проблемам",
-    "It led to new unexpected problems"
-  ],
-  [
-    "Он женился на ней в прошлом году",
-    "He married her last year"
-  ],
-  [
-    "Все изменилось в этом году",
-    "Everything has changed this year"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я позвоню ему, чтобы подтвердить нашу встречу",
+    "en": "I'll call him to confirm our meeting"
+  },
+  {
+    "_id": 2,
+    "ru": "Она еще не подмела пол",
+    "en": "She hasn't swept the floor yet"
+  },
+  {
+    "_id": 3,
+    "ru": "Пока он плавал, она лежала на пляже",
+    "en": "While he was swimming, she was lying on the beach"
+  },
+  {
+    "_id": 4,
+    "ru": "Я спрашивал его об этом так много раз",
+    "en": "I've asked him about it so many times"
+  },
+  {
+    "_id": 5,
+    "ru": "Я катался на велосипеде вчера",
+    "en": "I rode a bike yesterday"
+  },
+  {
+    "_id": 6,
+    "ru": "Я знаю, что его не волнует это",
+    "en": "I know that he doesn't care about it"
+  },
+  {
+    "_id": 7,
+    "ru": "Что ты делал, когда это произошло?",
+    "en": "What were you doing when it happened?"
+  },
+  {
+    "_id": 8,
+    "ru": "Она сказала, что только что переехала в новую квартиру",
+    "en": "She said that she had just moved into a new apartment"
+  },
+  {
+    "_id": 9,
+    "ru": "Посмотри! Малыш плачет",
+    "en": "Look! The baby is crying"
+  },
+  {
+    "_id": 10,
+    "ru": "Чего он ждет?",
+    "en": "What is he waiting for?"
+  },
+  {
+    "_id": 11,
+    "ru": "Все меняется в наше время",
+    "en": "Everything is changing nowadays"
+  },
+  {
+    "_id": 12,
+    "ru": "Он сказал, что она упала и повредила колено",
+    "en": "He said that she had fallen and hurt her knee"
+  },
+  {
+    "_id": 13,
+    "ru": "Я собираюсь достичь этой цели как можно скорее",
+    "en": "I'm going to achieve this aim as soon as possible"
+  },
+  {
+    "_id": 14,
+    "ru": "Они уже сообщили мне об этих изменениях",
+    "en": "They've already informed me of these changes"
+  },
+  {
+    "_id": 15,
+    "ru": "Я только что переехал в новый дом",
+    "en": "I've just moved into a new house"
+  },
+  {
+    "_id": 16,
+    "ru": "Тебе нужно кликнуть на эту ссылку",
+    "en": "You need to click on this link"
+  },
+  {
+    "_id": 17,
+    "ru": "Ты когда-либо катался на лошади?",
+    "en": "Have you ever ridden a horse?"
+  },
+  {
+    "_id": 18,
+    "ru": "Я видел, что они действительно любили друг друга",
+    "en": "I saw that they really loved each other"
+  },
+  {
+    "_id": 19,
+    "ru": "Он сказал, что закрыл дверь",
+    "en": "He said that he had closed the door"
+  },
+  {
+    "_id": 20,
+    "ru": "Не беспокойся об этом!",
+    "en": "Don't worry about it!"
+  },
+  {
+    "_id": 21,
+    "ru": "Кого ты ждешь?",
+    "en": "Who are you waiting for?"
+  },
+  {
+    "_id": 22,
+    "ru": "Это привело к новым неожиданным проблемам",
+    "en": "It led to new unexpected problems"
+  },
+  {
+    "_id": 23,
+    "ru": "Он женился на ней в прошлом году",
+    "en": "He married her last year"
+  },
+  {
+    "_id": 24,
+    "ru": "Все изменилось в этом году",
+    "en": "Everything has changed this year"
+  }
 ]

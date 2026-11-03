@@ -1,386 +1,482 @@
 [
-  [
-    "Я живу в этом городе в течение года",
-    "I have been living in this city for a year"
-  ],
-  [
-    "Я изучаю английский около полугода",
-    "I have been learning English for about half a year"
-  ],
-  [
-    "Как долго ты знаешь его?",
-    "How long have you known him?"
-  ],
-  [
-    "Они разговаривают по телефону почти два часа",
-    "They have been talking on the phone for almost two hours"
-  ],
-  [
-    "Как долго ты изучаешь этот язык?",
-    "How long have you been learning this language?"
-  ],
-  [
-    "Я делаю это целый день",
-    "I have been doing it all day long"
-  ],
-  [
-    "Я учу английский весь день",
-    "I have been learning English all day"
-  ],
-  [
-    "Они играли в футбол весь день вчера",
-    "They were playing football all day yesterday"
-  ],
-  [
-    "Я готовлюсь к этому тесту с понедельника",
-    "I have been preparing for this test since Monday"
-  ],
-  [
-    "Как долго ты работаешь в этом отделе?",
-    "How long have you been working in this department?"
-  ],
-  [
-    "Я живу здесь всю свою жизнь",
-    "I have been living here all my life"
-  ],
-  [
-    "Она не видела его такое долгое время",
-    "She hasn't seen him for such a long time"
-  ],
-  [
-    "Как долго ты думаешь об этом?",
-    "How long have you been thinking about it?"
-  ],
-  [
-    "Я работал весь день",
-    "I have been working all day"
-  ],
-  [
-    "Как долго ты смотришь эту программу?",
-    "How long have you been watching this program?"
-  ],
-  [
-    "Он так давно ее не видел",
-    "He hasn't seen her for so long"
-  ],
-  [
-    "Она была очень занята в последнее время",
-    "She has been very busy lately"
-  ],
-  [
-    "Она в Италии сейчас",
-    "She is in Italy now"
-  ],
-  [
-    "Как долго она здесь?",
-    "How long has she been here?"
-  ],
-  [
-    "Они друзья много лет",
-    "They have been friends for many years"
-  ],
-  [
-    "Как давно они встречаются?",
-    "How long have they been dating?"
-  ],
-  [
-    "Она готовит с утра",
-    "She has been cooking since morning"
-  ],
-  [
-    "Как долго вы друг друга знаете?",
-    "How long have you known each other?"
-  ],
-  [
-    "Мы тренируемся очень интенсивно в последнее время",
-    "We have been training very intensively lately"
-  ],
-  [
-    "Они встречаются с августа",
-    "They have been dating since August"
-  ],
-  [
-    "Как давно он преподает английский?",
-    "How long has he been teaching English?"
-  ],
-  [
-    "Как долго ты разговариваешь по телефону?",
-    "How long have you been talking on the phone?"
-  ],
-  [
-    "Я не думал об этом с нашего последнего разговора",
-    "I haven't thought about it since our last conversation"
-  ],
-  [
-    "Я не видел его очень долгое время",
-    "I haven't seen him for a very long time"
-  ],
-  [
-    "Я пробыл здесь час",
-    "I have been staying here for an hour"
-  ],
-  [
-    "Как давно ты работаешь менеджером?",
-    "How long have you been working as a manager?"
-  ],
-  [
-    "Я пользуюсь этим приложением несколько месяцев",
-    "I have been using this application for several months"
-  ],
-  [
-    "Я не видел его целую вечность",
-    "I haven't seen him for ages"
-  ],
-  [
-    "Они играют в футбол весь день",
-    "They have been playing football all day"
-  ],
-  [
-    "Я живу здесь с прошлого лета",
-    "I have been living here since last summer"
-  ],
-  [
-    "Она плохо спит в последнее время",
-    "She has been sleeping badly lately"
-  ],
-  [
-    "Она в Италии с марта",
-    "She has been in Italy since March"
-  ],
-  [
-    "Я еще не думал об этом",
-    "I haven't thought about it yet"
-  ],
-  [
-    "Я был здесь минуту",
-    "I have been here for a minute"
-  ],
-  [
-    "Я делал это упражнение пять минут",
-    "I have been doing this exercise for five minutes"
-  ],
-  [
-    "Чем твой друг был занят в последнее время?",
-    "What has your friend been busy with lately?"
-  ],
-  [
-    "Чем ты увлекался в последнее время?",
-    "What have you been keen on lately?"
-  ],
-  [
-    "Они еще не нашли решение этой проблемы",
-    "They haven't found a solution to this problem yet"
-  ],
-  [
-    "Чем ты был занят в последнее время?",
-    "What have you been busy with lately?"
-  ],
-  [
-    "Что Энн делает весь день?",
-    "What has Ann been doing all day?"
-  ],
-  [
-    "Они посетили этот собор во время их поездки в Италию",
-    "They visited this cathedral during their trip to Italy"
-  ],
-  [
-    "Со вчерашнего дня идет сильный снег",
-    "It has been snowing a lot since yesterday"
-  ],
-  [
-    "Чем ты интересовался в последнее время?",
-    "What have you been interested in lately?"
-  ],
-  [
-    "Мы были друзьями около десяти лет",
-    "We have been friends for about ten years"
-  ],
-  [
-    "Когда ты начал искать свои ключи?",
-    "When did you start looking for your keys?"
-  ],
-  [
-    "Как долго ты добирался до работы?",
-    "How long did it take you to get to work?"
-  ],
-  [
-    "Как долго ты добирался до этого места?",
-    "How long did it take you to get to this place?"
-  ],
-  [
-    "Я вижу, что дождь еще не прекратился",
-    "I see that it hasn't stopped raining yet"
-  ],
-  [
-    "Что ты делал в последнее время?",
-    "What have you been doing lately?"
-  ],
-  [
-    "Что ты делал в течение трех часов?",
-    "What have you been doing for three hours?"
-  ],
-  [
-    "Как долго ты ищешь свои ключи?",
-    "How long have you been looking for your keys?"
-  ],
-  [
-    "Как долго ты ищешь новую работу?",
-    "How long have you been looking for a new job?"
-  ],
-  [
-    "Как долго ты этим занимаешься?",
-    "How long have you been doing it?"
-  ],
-  [
-    "Я занимаюсь с тех пор, как он ушел из дома",
-    "I have been studying since he left home"
-  ],
-  [
-    "Я учусь там в течение пяти лет",
-    "I have been studying there for five years"
-  ],
-  [
-    "Я занимаюсь этим с тех пор, как пришел домой",
-    "I have been doing it since I came home"
-  ],
-  [
-    "Мы были друзьями с тех пор, как встретились",
-    "We have been friends since we met"
-  ],
-  [
-    "Они друзья с детства",
-    "They have been friends since childhood"
-  ],
-  [
-    "Мы знаем друг друга со школы",
-    "We have known each other since school"
-  ],
-  [
-    "Они еще не решили эту проблему",
-    "They haven't solved this problem yet"
-  ],
-  [
-    "Они уже решили свои проблемы",
-    "They have already solved their problems"
-  ],
-  [
-    "Я еще не решил эту задачу",
-    "I haven't solved this task yet"
-  ],
-  [
-    "Как давно это было?",
-    "How long ago was it?"
-  ],
-  [
-    "Это было два года назад",
-    "It was two years ago"
-  ],
-  [
-    "Сколько лет назад это было?",
-    "How many years ago was it?"
-  ],
-  [
-    "Я до сих пор там не был",
-    "I haven't been there so far"
-  ],
-  [
-    "Я никогда не был там",
-    "I have never been there"
-  ],
-  [
-    "Ты когда-нибудь был здесь?",
-    "Have you ever been here?"
-  ],
-  [
-    "Весь день идет дождь",
-    "It has been raining all day"
-  ],
-  [
-    "Всю неделю идет снег",
-    "It has been snowing all week"
-  ],
-  [
-    "Солнце светит весь день",
-    "The sun has been shining all day"
-  ],
-  [
-    "Она до сих пор этого не сделала",
-    "She hasn't done it so far"
-  ],
-  [
-    "Она еще не сделала этого",
-    "She hasn't done it yet"
-  ],
-  [
-    "Она уже сделала это",
-    "She has already done it"
-  ],
-  [
-    "Как долго он ищет работу?",
-    "How long has he been looking for a job?"
-  ],
-  [
-    "Он ищет новую работу в настоящее время?",
-    "Is he looking for a new job at present?"
-  ],
-  [
-    "Как долго он там работает?",
-    "How long has he been working there?"
-  ],
-  [
-    "Я ходил туда каждый раз, когда я имел такую возможность",
-    "I went there every time I had this opportunity"
-  ],
-  [
-    "Я делал это вчера весь день",
-    "I was doing it all day yesterday"
-  ],
-  [
-    "Он вчера весь день сидел дома",
-    "He was staying at home all day yesterday"
-  ],
-  [
-    "Они не ели восемь часов",
-    "They haven't been eating for eight hours"
-  ],
-  [
-    "Сколько времени идет дождь?",
-    "How long has it been raining?"
-  ],
-  [
-    "Ее колено болит с той аварии",
-    "Her knee has been aching since that accident"
-  ],
-  [
-    "Мой брат путешествует две недели",
-    "My brother has been travelling for two weeks"
-  ],
-  [
-    "Она весь день работает в саду и не устала",
-    "She has been working in the garden all day and she isn't tired"
-  ],
-  [
-    "Я знаю Пола с детства",
-    "I have known Paul since childhood"
-  ],
-  [
-    "Весь день идет снег",
-    "It has been snowing all day"
-  ],
-  [
-    "Его нога болит весь день",
-    "His leg has been aching all day"
-  ],
-  [
-    "Ветер дует весь день",
-    "The wind has been blowing all day"
-  ],
-  [
-    "Как долго вы дружите?",
-    "How long have you been friends?"
-  ],
-  [
-    "Он пока не нашел работу",
-    "He hasn't found the job so far"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я живу в этом городе в течение года",
+    "en": "I have been living in this city for a year"
+  },
+  {
+    "_id": 2,
+    "ru": "Я изучаю английский около полугода",
+    "en": "I have been learning English for about half a year"
+  },
+  {
+    "_id": 3,
+    "ru": "Как долго ты знаешь его?",
+    "en": "How long have you known him?"
+  },
+  {
+    "_id": 4,
+    "ru": "Они разговаривают по телефону почти два часа",
+    "en": "They have been talking on the phone for almost two hours"
+  },
+  {
+    "_id": 5,
+    "ru": "Как долго ты изучаешь этот язык?",
+    "en": "How long have you been learning this language?"
+  },
+  {
+    "_id": 6,
+    "ru": "Я делаю это целый день",
+    "en": "I have been doing it all day long"
+  },
+  {
+    "_id": 7,
+    "ru": "Я учу английский весь день",
+    "en": "I have been learning English all day"
+  },
+  {
+    "_id": 8,
+    "ru": "Они играли в футбол весь день вчера",
+    "en": "They were playing football all day yesterday"
+  },
+  {
+    "_id": 9,
+    "ru": "Я готовлюсь к этому тесту с понедельника",
+    "en": "I have been preparing for this test since Monday"
+  },
+  {
+    "_id": 10,
+    "ru": "Как долго ты работаешь в этом отделе?",
+    "en": "How long have you been working in this department?"
+  },
+  {
+    "_id": 11,
+    "ru": "Я живу здесь всю свою жизнь",
+    "en": "I have been living here all my life"
+  },
+  {
+    "_id": 12,
+    "ru": "Она не видела его такое долгое время",
+    "en": "She hasn't seen him for such a long time"
+  },
+  {
+    "_id": 13,
+    "ru": "Как долго ты думаешь об этом?",
+    "en": "How long have you been thinking about it?"
+  },
+  {
+    "_id": 14,
+    "ru": "Я работал весь день",
+    "en": "I have been working all day"
+  },
+  {
+    "_id": 15,
+    "ru": "Как долго ты смотришь эту программу?",
+    "en": "How long have you been watching this program?"
+  },
+  {
+    "_id": 16,
+    "ru": "Он так давно ее не видел",
+    "en": "He hasn't seen her for so long"
+  },
+  {
+    "_id": 17,
+    "ru": "Она была очень занята в последнее время",
+    "en": "She has been very busy lately"
+  },
+  {
+    "_id": 18,
+    "ru": "Она в Италии сейчас",
+    "en": "She is in Italy now"
+  },
+  {
+    "_id": 19,
+    "ru": "Как долго она здесь?",
+    "en": "How long has she been here?"
+  },
+  {
+    "_id": 20,
+    "ru": "Они друзья много лет",
+    "en": "They have been friends for many years"
+  },
+  {
+    "_id": 21,
+    "ru": "Как давно они встречаются?",
+    "en": "How long have they been dating?"
+  },
+  {
+    "_id": 22,
+    "ru": "Она готовит с утра",
+    "en": "She has been cooking since morning"
+  },
+  {
+    "_id": 23,
+    "ru": "Как долго вы друг друга знаете?",
+    "en": "How long have you known each other?"
+  },
+  {
+    "_id": 24,
+    "ru": "Мы тренируемся очень интенсивно в последнее время",
+    "en": "We have been training very intensively lately"
+  },
+  {
+    "_id": 25,
+    "ru": "Они встречаются с августа",
+    "en": "They have been dating since August"
+  },
+  {
+    "_id": 26,
+    "ru": "Как давно он преподает английский?",
+    "en": "How long has he been teaching English?"
+  },
+  {
+    "_id": 27,
+    "ru": "Как долго ты разговариваешь по телефону?",
+    "en": "How long have you been talking on the phone?"
+  },
+  {
+    "_id": 28,
+    "ru": "Я не думал об этом с нашего последнего разговора",
+    "en": "I haven't thought about it since our last conversation"
+  },
+  {
+    "_id": 29,
+    "ru": "Я не видел его очень долгое время",
+    "en": "I haven't seen him for a very long time"
+  },
+  {
+    "_id": 30,
+    "ru": "Я пробыл здесь час",
+    "en": "I have been staying here for an hour"
+  },
+  {
+    "_id": 31,
+    "ru": "Как давно ты работаешь менеджером?",
+    "en": "How long have you been working as a manager?"
+  },
+  {
+    "_id": 32,
+    "ru": "Я пользуюсь этим приложением несколько месяцев",
+    "en": "I have been using this application for several months"
+  },
+  {
+    "_id": 33,
+    "ru": "Я не видел его целую вечность",
+    "en": "I haven't seen him for ages"
+  },
+  {
+    "_id": 34,
+    "ru": "Они играют в футбол весь день",
+    "en": "They have been playing football all day"
+  },
+  {
+    "_id": 35,
+    "ru": "Я живу здесь с прошлого лета",
+    "en": "I have been living here since last summer"
+  },
+  {
+    "_id": 36,
+    "ru": "Она плохо спит в последнее время",
+    "en": "She has been sleeping badly lately"
+  },
+  {
+    "_id": 37,
+    "ru": "Она в Италии с марта",
+    "en": "She has been in Italy since March"
+  },
+  {
+    "_id": 38,
+    "ru": "Я еще не думал об этом",
+    "en": "I haven't thought about it yet"
+  },
+  {
+    "_id": 39,
+    "ru": "Я был здесь минуту",
+    "en": "I have been here for a minute"
+  },
+  {
+    "_id": 40,
+    "ru": "Я делал это упражнение пять минут",
+    "en": "I have been doing this exercise for five minutes"
+  },
+  {
+    "_id": 41,
+    "ru": "Чем твой друг был занят в последнее время?",
+    "en": "What has your friend been busy with lately?"
+  },
+  {
+    "_id": 42,
+    "ru": "Чем ты увлекался в последнее время?",
+    "en": "What have you been keen on lately?"
+  },
+  {
+    "_id": 43,
+    "ru": "Они еще не нашли решение этой проблемы",
+    "en": "They haven't found a solution to this problem yet"
+  },
+  {
+    "_id": 44,
+    "ru": "Чем ты был занят в последнее время?",
+    "en": "What have you been busy with lately?"
+  },
+  {
+    "_id": 45,
+    "ru": "Что Энн делает весь день?",
+    "en": "What has Ann been doing all day?"
+  },
+  {
+    "_id": 46,
+    "ru": "Они посетили этот собор во время их поездки в Италию",
+    "en": "They visited this cathedral during their trip to Italy"
+  },
+  {
+    "_id": 47,
+    "ru": "Со вчерашнего дня идет сильный снег",
+    "en": "It has been snowing a lot since yesterday"
+  },
+  {
+    "_id": 48,
+    "ru": "Чем ты интересовался в последнее время?",
+    "en": "What have you been interested in lately?"
+  },
+  {
+    "_id": 49,
+    "ru": "Мы были друзьями около десяти лет",
+    "en": "We have been friends for about ten years"
+  },
+  {
+    "_id": 50,
+    "ru": "Когда ты начал искать свои ключи?",
+    "en": "When did you start looking for your keys?"
+  },
+  {
+    "_id": 51,
+    "ru": "Как долго ты добирался до работы?",
+    "en": "How long did it take you to get to work?"
+  },
+  {
+    "_id": 52,
+    "ru": "Как долго ты добирался до этого места?",
+    "en": "How long did it take you to get to this place?"
+  },
+  {
+    "_id": 53,
+    "ru": "Я вижу, что дождь еще не прекратился",
+    "en": "I see that it hasn't stopped raining yet"
+  },
+  {
+    "_id": 54,
+    "ru": "Что ты делал в последнее время?",
+    "en": "What have you been doing lately?"
+  },
+  {
+    "_id": 55,
+    "ru": "Что ты делал в течение трех часов?",
+    "en": "What have you been doing for three hours?"
+  },
+  {
+    "_id": 56,
+    "ru": "Как долго ты ищешь свои ключи?",
+    "en": "How long have you been looking for your keys?"
+  },
+  {
+    "_id": 57,
+    "ru": "Как долго ты ищешь новую работу?",
+    "en": "How long have you been looking for a new job?"
+  },
+  {
+    "_id": 58,
+    "ru": "Как долго ты этим занимаешься?",
+    "en": "How long have you been doing it?"
+  },
+  {
+    "_id": 59,
+    "ru": "Я занимаюсь с тех пор, как он ушел из дома",
+    "en": "I have been studying since he left home"
+  },
+  {
+    "_id": 60,
+    "ru": "Я учусь там в течение пяти лет",
+    "en": "I have been studying there for five years"
+  },
+  {
+    "_id": 61,
+    "ru": "Я занимаюсь этим с тех пор, как пришел домой",
+    "en": "I have been doing it since I came home"
+  },
+  {
+    "_id": 62,
+    "ru": "Мы были друзьями с тех пор, как встретились",
+    "en": "We have been friends since we met"
+  },
+  {
+    "_id": 63,
+    "ru": "Они друзья с детства",
+    "en": "They have been friends since childhood"
+  },
+  {
+    "_id": 64,
+    "ru": "Мы знаем друг друга со школы",
+    "en": "We have known each other since school"
+  },
+  {
+    "_id": 65,
+    "ru": "Они еще не решили эту проблему",
+    "en": "They haven't solved this problem yet"
+  },
+  {
+    "_id": 66,
+    "ru": "Они уже решили свои проблемы",
+    "en": "They have already solved their problems"
+  },
+  {
+    "_id": 67,
+    "ru": "Я еще не решил эту задачу",
+    "en": "I haven't solved this task yet"
+  },
+  {
+    "_id": 68,
+    "ru": "Как давно это было?",
+    "en": "How long ago was it?"
+  },
+  {
+    "_id": 69,
+    "ru": "Это было два года назад",
+    "en": "It was two years ago"
+  },
+  {
+    "_id": 70,
+    "ru": "Сколько лет назад это было?",
+    "en": "How many years ago was it?"
+  },
+  {
+    "_id": 71,
+    "ru": "Я до сих пор там не был",
+    "en": "I haven't been there so far"
+  },
+  {
+    "_id": 72,
+    "ru": "Я никогда не был там",
+    "en": "I have never been there"
+  },
+  {
+    "_id": 73,
+    "ru": "Ты когда-нибудь был здесь?",
+    "en": "Have you ever been here?"
+  },
+  {
+    "_id": 74,
+    "ru": "Весь день идет дождь",
+    "en": "It has been raining all day"
+  },
+  {
+    "_id": 75,
+    "ru": "Всю неделю идет снег",
+    "en": "It has been snowing all week"
+  },
+  {
+    "_id": 76,
+    "ru": "Солнце светит весь день",
+    "en": "The sun has been shining all day"
+  },
+  {
+    "_id": 77,
+    "ru": "Она до сих пор этого не сделала",
+    "en": "She hasn't done it so far"
+  },
+  {
+    "_id": 78,
+    "ru": "Она еще не сделала этого",
+    "en": "She hasn't done it yet"
+  },
+  {
+    "_id": 79,
+    "ru": "Она уже сделала это",
+    "en": "She has already done it"
+  },
+  {
+    "_id": 80,
+    "ru": "Как долго он ищет работу?",
+    "en": "How long has he been looking for a job?"
+  },
+  {
+    "_id": 81,
+    "ru": "Он ищет новую работу в настоящее время?",
+    "en": "Is he looking for a new job at present?"
+  },
+  {
+    "_id": 82,
+    "ru": "Как долго он там работает?",
+    "en": "How long has he been working there?"
+  },
+  {
+    "_id": 83,
+    "ru": "Я ходил туда каждый раз, когда я имел такую возможность",
+    "en": "I went there every time I had this opportunity"
+  },
+  {
+    "_id": 84,
+    "ru": "Я делал это вчера весь день",
+    "en": "I was doing it all day yesterday"
+  },
+  {
+    "_id": 85,
+    "ru": "Он вчера весь день сидел дома",
+    "en": "He was staying at home all day yesterday"
+  },
+  {
+    "_id": 86,
+    "ru": "Они не ели восемь часов",
+    "en": "They haven't been eating for eight hours"
+  },
+  {
+    "_id": 87,
+    "ru": "Сколько времени идет дождь?",
+    "en": "How long has it been raining?"
+  },
+  {
+    "_id": 88,
+    "ru": "Ее колено болит с той аварии",
+    "en": "Her knee has been aching since that accident"
+  },
+  {
+    "_id": 89,
+    "ru": "Мой брат путешествует две недели",
+    "en": "My brother has been travelling for two weeks"
+  },
+  {
+    "_id": 90,
+    "ru": "Она весь день работает в саду и не устала",
+    "en": "She has been working in the garden all day and she isn't tired"
+  },
+  {
+    "_id": 91,
+    "ru": "Я знаю Пола с детства",
+    "en": "I have known Paul since childhood"
+  },
+  {
+    "_id": 92,
+    "ru": "Весь день идет снег",
+    "en": "It has been snowing all day"
+  },
+  {
+    "_id": 93,
+    "ru": "Его нога болит весь день",
+    "en": "His leg has been aching all day"
+  },
+  {
+    "_id": 94,
+    "ru": "Ветер дует весь день",
+    "en": "The wind has been blowing all day"
+  },
+  {
+    "_id": 95,
+    "ru": "Как долго вы дружите?",
+    "en": "How long have you been friends?"
+  },
+  {
+    "_id": 96,
+    "ru": "Он пока не нашел работу",
+    "en": "He hasn't found the job so far"
+  }
 ]

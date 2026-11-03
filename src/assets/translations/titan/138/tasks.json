@@ -1,426 +1,532 @@
 [
-  [
-    "Я трачу мало времени на это",
-    "I spend little time on it"
-  ],
-  [
-    "У меня есть немного денег",
-    "I have a little money"
-  ],
-  [
-    "Она делает мало ошибок",
-    "She makes few mistakes"
-  ],
-  [
-    "У меня есть несколько друзей",
-    "I have a few friends"
-  ],
-  [
-    "Это намного больше",
-    "It’s much bigger"
-  ],
-  [
-    "Это намного более эффективно",
-    "It’s much more effective"
-  ],
-  [
-    "Она так красива",
-    "She is so beautiful"
-  ],
-  [
-    "Он поет так громко",
-    "He sings so loudly"
-  ],
-  [
-    "Она такая красивая девушка",
-    "She is such a beautiful girl"
-  ],
-  [
-    "Это такой интересный фильм",
-    "It is such an interesting movie"
-  ],
-  [
-    "Это такая холодная вода",
-    "It is such cold water"
-  ],
-  [
-    "Они такие милые люди",
-    "They are such nice people"
-  ],
-  [
-    "То место такое красивое",
-    "That place is so beautiful"
-  ],
-  [
-    "Почему ты сказал такую вещь?",
-    "Why did you say such a thing?"
-  ],
-  [
-    "Это такой солнечный день",
-    "It is such a sunny day"
-  ],
-  [
-    "У тебя так много энергии",
-    "You have so much energy"
-  ],
-  [
-    "Пицца была такая вкусная",
-    "The pizza was so tasty"
-  ],
-  [
-    "У меня сейчас слишком мало свободного времени",
-    "I have too little free time now"
-  ],
-  [
-    "Был такой холодный день",
-    "It was such a cold day"
-  ],
-  [
-    "Он такой лжец",
-    "He is such a liar"
-  ],
-  [
-    "У него не так много друзей, как у его брата",
-    "He doesn't have as many friends as his brother"
-  ],
-  [
-    "Я сделал мало ошибок",
-    "I made few mistakes"
-  ],
-  [
-    "Почему он делает такие вещи?",
-    "Why does he do such things?"
-  ],
-  [
-    "У него так много энтузиазма",
-    "He has so much enthusiasm"
-  ],
-  [
-    "Он не такой дурак",
-    "He isn't such a fool"
-  ],
-  [
-    "Такие вещи часто происходят",
-    "Such things often take place"
-  ],
-  [
-    "У его сестры много свободного времени",
-    "His sister has lots of free time"
-  ],
-  [
-    "У него очень много друзей",
-    "He has a lot of friends"
-  ],
-  [
-    "Это была такая вкусная пицца",
-    "It was such a tasty pizza"
-  ],
-  [
-    "Она говорит так быстро",
-    "She speaks so fast"
-  ],
-  [
-    "Он выглядит так странно",
-    "He looks so strange"
-  ],
-  [
-    "У нее есть несколько хороших друзей",
-    "She has a few good friends"
-  ],
-  [
-    "Они такие хорошие люди",
-    "They are such nice people"
-  ],
-  [
-    "Они такие щедрые",
-    "They are so generous"
-  ],
-  [
-    "Почему ты сделал такую вещь?",
-    "Why did you do such a thing?"
-  ],
-  [
-    "У него много денег",
-    "He has a lot of money"
-  ],
-  [
-    "Он немного говорит по-английски",
-    "He speaks English a little bit"
-  ],
-  [
-    "У него так много вопросов",
-    "He has so many questions"
-  ],
-  [
-    "Я сделал несколько ошибок",
-    "I made a few mistakes"
-  ],
-  [
-    "Такая теория существует",
-    "Such a theory exists"
-  ],
-  [
-    "Тебе нужно немного подождать",
-    "You need to wait a bit"
-  ],
-  [
-    "У него нет много времени",
-    "He doesn't have much time"
-  ],
-  [
-    "У меня так мало времени сейчас",
-    "I have so little time now"
-  ],
-  [
-    "Ему нужно немного подождать",
-    "He needs to wait a little"
-  ],
-  [
-    "Они такие добрые люди",
-    "They're such kind people"
-  ],
-  [
-    "У него несколько хороших друзей",
-    "He has few good friends"
-  ],
-  [
-    "У меня не так много свободного времени как у него",
-    "I don't have as much free time as him"
-  ],
-  [
-    "Это такое красивое место",
-    "It's such a beautiful place"
-  ],
-  [
-    "Я знал такие интересные вещи",
-    "I knew such interesting things"
-  ],
-  [
-    "Они были так гостеприимны",
-    "They were so hospitable"
-  ],
-  [
-    "Так много людей пришли туда",
-    "So many people came there"
-  ],
-  [
-    "Он делает много ошибок",
-    "He makes lots of mistakes"
-  ],
-  [
-    "Это такое опасное место",
-    "It's such a dangerous place"
-  ],
-  [
-    "Это такая бесполезная вещь",
-    "It's such a useless thing"
-  ],
-  [
-    "Мне не нравится такая погода",
-    "I don't like such weather"
-  ],
-  [
-    "Он такой бесстрашный человек",
-    "He is such a fearless person"
-  ],
-  [
-    "Это такая полезная вещь",
-    "It's such a useful thing"
-  ],
-  [
-    "Эти уроки достаточно хорошие",
-    "These lessons are good enough"
-  ],
-  [
-    "Я провожу много времени, слушая этот аудио курс",
-    "I spend lots of time listening to this audio course"
-  ],
-  [
-    "Этот метод достаточно хороший",
-    "This method is good enough"
-  ],
-  [
-    "Это гораздо более лучшая идея",
-    "It's a much better idea"
-  ],
-  [
-    "Это такой полезный ресурс",
-    "It's such a useful resource"
-  ],
-  [
-    "Я бы не ехал так быстро",
-    "I wouldn't drive so fast"
-  ],
-  [
-    "Это такая блестящая идея",
-    "It's such a brilliant idea"
-  ],
-  [
-    "Сколько у тебя было с собой денег?",
-    "How much money did you have with you?"
-  ],
-  [
-    "Сколько денег ты заплатил за это?",
-    "How much money did you pay for it?"
-  ],
-  [
-    "Сколько денег она заплатила?",
-    "How much money did she pay?"
-  ],
-  [
-    "Они такие щедрые люди",
-    "They are such generous people"
-  ],
-  [
-    "Она такой удивительный человек",
-    "She is such an amazing person"
-  ],
-  [
-    "Он такой щедрый человек",
-    "He is such a generous man"
-  ],
-  [
-    "Мне очень нравится такая погода",
-    "I really like such weather"
-  ],
-  [
-    "Ей нравится такая музыка",
-    "She likes such music"
-  ],
-  [
-    "Мне очень нравится такая еда",
-    "I really like such food"
-  ],
-  [
-    "Они такие храбрые солдаты",
-    "They are such brave soldiers"
-  ],
-  [
-    "Она такая застенчивая девушка",
-    "She is such a shy girl"
-  ],
-  [
-    "Я хочу делать меньше ошибок",
-    "I want to make fewer mistakes"
-  ],
-  [
-    "Ей нужно делать меньше ошибок",
-    "She needs to make fewer mistakes"
-  ],
-  [
-    "Он сделал несколько ошибок",
-    "He made a few mistakes"
-  ],
-  [
-    "Они говорили так громко",
-    "They were speaking so loudly"
-  ],
-  [
-    "Музыка была очень громкой",
-    "The music was really loud"
-  ],
-  [
-    "Она говорила так громко",
-    "She was talking so loudly"
-  ],
-  [
-    "Сколько людей они пригласили?",
-    "How many people did they invite?"
-  ],
-  [
-    "Сколько там было человек?",
-    "How many people were there?"
-  ],
-  [
-    "Там было много людей?",
-    "Were there many people?"
-  ],
-  [
-    "Это такое полезное приложение",
-    "It's such a useful application"
-  ],
-  [
-    "Это такая хорошая погода",
-    "It's such nice weather"
-  ],
-  [
-    "Было очень приятно познакомиться с вами",
-    "It was such a pleasure to meet you"
-  ],
-  [
-    "Этот кандидат недостаточно опытен",
-    "This candidate isn't experienced enough"
-  ],
-  [
-    "Она не имеет опыта для этой работы",
-    "She isn't experienced for this job"
-  ],
-  [
-    "Он достаточно опытен",
-    "He is experienced enough"
-  ],
-  [
-    "Сколько денег я смогу там заработать?",
-    "How much money will I be able to earn there?"
-  ],
-  [
-    "Сколько денег он заработал?",
-    "How much money did he earn?"
-  ],
-  [
-    "Сколько это стоит?",
-    "How much does it cost?"
-  ],
-  [
-    "Он такой смелый человек",
-    "He is such a brave man"
-  ],
-  [
-    "Такая вещь может случиться",
-    "Such a thing can happen"
-  ],
-  [
-    "Он недостаточно опытен",
-    "He isn't experienced enough"
-  ],
-  [
-    "Она провела много времени, смотря телевизор",
-    "She spent lots of time watching TV"
-  ],
-  [
-    "Он начал делать меньше ошибок",
-    "He started making fewer mistakes"
-  ],
-  [
-    "Я не могу сказать, что у меня много свободного времени",
-    "I can't say that I have lots of free time"
-  ],
-  [
-    "Он такой жестокий человек",
-    "He is such a cruel man"
-  ],
-  [
-    "К сожалению, мало кто это понимает",
-    "Unfortunately, few people understand it"
-  ],
-  [
-    "Он бесстрашный человек",
-    "He is a fearless person"
-  ],
-  [
-    "Ты много знаешь",
-    "You know a lot"
-  ],
-  [
-    "Мало сделано",
-    "Little is done"
-  ],
-  [
-    "Сделано немного",
-    "Not much is done"
-  ],
-  [
-    "Он такой жестокий",
-    "He is so cruel"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я трачу мало времени на это",
+    "en": "I spend little time on it"
+  },
+  {
+    "_id": 2,
+    "ru": "У меня есть немного денег",
+    "en": "I have a little money"
+  },
+  {
+    "_id": 3,
+    "ru": "Она делает мало ошибок",
+    "en": "She makes few mistakes"
+  },
+  {
+    "_id": 4,
+    "ru": "У меня есть несколько друзей",
+    "en": "I have a few friends"
+  },
+  {
+    "_id": 5,
+    "ru": "Это намного больше",
+    "en": "It’s much bigger"
+  },
+  {
+    "_id": 6,
+    "ru": "Это намного более эффективно",
+    "en": "It’s much more effective"
+  },
+  {
+    "_id": 7,
+    "ru": "Она так красива",
+    "en": "She is so beautiful"
+  },
+  {
+    "_id": 8,
+    "ru": "Он поет так громко",
+    "en": "He sings so loudly"
+  },
+  {
+    "_id": 9,
+    "ru": "Она такая красивая девушка",
+    "en": "She is such a beautiful girl"
+  },
+  {
+    "_id": 10,
+    "ru": "Это такой интересный фильм",
+    "en": "It is such an interesting movie"
+  },
+  {
+    "_id": 11,
+    "ru": "Это такая холодная вода",
+    "en": "It is such cold water"
+  },
+  {
+    "_id": 12,
+    "ru": "Они такие милые люди",
+    "en": "They are such nice people"
+  },
+  {
+    "_id": 13,
+    "ru": "То место такое красивое",
+    "en": "That place is so beautiful"
+  },
+  {
+    "_id": 14,
+    "ru": "Почему ты сказал такую вещь?",
+    "en": "Why did you say such a thing?"
+  },
+  {
+    "_id": 15,
+    "ru": "Это такой солнечный день",
+    "en": "It is such a sunny day"
+  },
+  {
+    "_id": 16,
+    "ru": "У тебя так много энергии",
+    "en": "You have so much energy"
+  },
+  {
+    "_id": 17,
+    "ru": "Пицца была такая вкусная",
+    "en": "The pizza was so tasty"
+  },
+  {
+    "_id": 18,
+    "ru": "У меня сейчас слишком мало свободного времени",
+    "en": "I have too little free time now"
+  },
+  {
+    "_id": 19,
+    "ru": "Был такой холодный день",
+    "en": "It was such a cold day"
+  },
+  {
+    "_id": 20,
+    "ru": "Он такой лжец",
+    "en": "He is such a liar"
+  },
+  {
+    "_id": 21,
+    "ru": "У него не так много друзей, как у его брата",
+    "en": "He doesn't have as many friends as his brother"
+  },
+  {
+    "_id": 22,
+    "ru": "Я сделал мало ошибок",
+    "en": "I made few mistakes"
+  },
+  {
+    "_id": 23,
+    "ru": "Почему он делает такие вещи?",
+    "en": "Why does he do such things?"
+  },
+  {
+    "_id": 24,
+    "ru": "У него так много энтузиазма",
+    "en": "He has so much enthusiasm"
+  },
+  {
+    "_id": 25,
+    "ru": "Он не такой дурак",
+    "en": "He isn't such a fool"
+  },
+  {
+    "_id": 26,
+    "ru": "Такие вещи часто происходят",
+    "en": "Such things often take place"
+  },
+  {
+    "_id": 27,
+    "ru": "У его сестры много свободного времени",
+    "en": "His sister has lots of free time"
+  },
+  {
+    "_id": 28,
+    "ru": "У него очень много друзей",
+    "en": "He has a lot of friends"
+  },
+  {
+    "_id": 29,
+    "ru": "Это была такая вкусная пицца",
+    "en": "It was such a tasty pizza"
+  },
+  {
+    "_id": 30,
+    "ru": "Она говорит так быстро",
+    "en": "She speaks so fast"
+  },
+  {
+    "_id": 31,
+    "ru": "Он выглядит так странно",
+    "en": "He looks so strange"
+  },
+  {
+    "_id": 32,
+    "ru": "У нее есть несколько хороших друзей",
+    "en": "She has a few good friends"
+  },
+  {
+    "_id": 33,
+    "ru": "Они такие хорошие люди",
+    "en": "They are such nice people"
+  },
+  {
+    "_id": 34,
+    "ru": "Они такие щедрые",
+    "en": "They are so generous"
+  },
+  {
+    "_id": 35,
+    "ru": "Почему ты сделал такую вещь?",
+    "en": "Why did you do such a thing?"
+  },
+  {
+    "_id": 36,
+    "ru": "У него много денег",
+    "en": "He has a lot of money"
+  },
+  {
+    "_id": 37,
+    "ru": "Он немного говорит по-английски",
+    "en": "He speaks English a little bit"
+  },
+  {
+    "_id": 38,
+    "ru": "У него так много вопросов",
+    "en": "He has so many questions"
+  },
+  {
+    "_id": 39,
+    "ru": "Я сделал несколько ошибок",
+    "en": "I made a few mistakes"
+  },
+  {
+    "_id": 40,
+    "ru": "Такая теория существует",
+    "en": "Such a theory exists"
+  },
+  {
+    "_id": 41,
+    "ru": "Тебе нужно немного подождать",
+    "en": "You need to wait a bit"
+  },
+  {
+    "_id": 42,
+    "ru": "У него нет много времени",
+    "en": "He doesn't have much time"
+  },
+  {
+    "_id": 43,
+    "ru": "У меня так мало времени сейчас",
+    "en": "I have so little time now"
+  },
+  {
+    "_id": 44,
+    "ru": "Ему нужно немного подождать",
+    "en": "He needs to wait a little"
+  },
+  {
+    "_id": 45,
+    "ru": "Они такие добрые люди",
+    "en": "They're such kind people"
+  },
+  {
+    "_id": 46,
+    "ru": "У него несколько хороших друзей",
+    "en": "He has few good friends"
+  },
+  {
+    "_id": 47,
+    "ru": "У меня не так много свободного времени как у него",
+    "en": "I don't have as much free time as him"
+  },
+  {
+    "_id": 48,
+    "ru": "Это такое красивое место",
+    "en": "It's such a beautiful place"
+  },
+  {
+    "_id": 49,
+    "ru": "Я знал такие интересные вещи",
+    "en": "I knew such interesting things"
+  },
+  {
+    "_id": 50,
+    "ru": "Они были так гостеприимны",
+    "en": "They were so hospitable"
+  },
+  {
+    "_id": 51,
+    "ru": "Так много людей пришли туда",
+    "en": "So many people came there"
+  },
+  {
+    "_id": 52,
+    "ru": "Он делает много ошибок",
+    "en": "He makes lots of mistakes"
+  },
+  {
+    "_id": 53,
+    "ru": "Это такое опасное место",
+    "en": "It's such a dangerous place"
+  },
+  {
+    "_id": 54,
+    "ru": "Это такая бесполезная вещь",
+    "en": "It's such a useless thing"
+  },
+  {
+    "_id": 55,
+    "ru": "Мне не нравится такая погода",
+    "en": "I don't like such weather"
+  },
+  {
+    "_id": 56,
+    "ru": "Он такой бесстрашный человек",
+    "en": "He is such a fearless person"
+  },
+  {
+    "_id": 57,
+    "ru": "Это такая полезная вещь",
+    "en": "It's such a useful thing"
+  },
+  {
+    "_id": 58,
+    "ru": "Эти уроки достаточно хорошие",
+    "en": "These lessons are good enough"
+  },
+  {
+    "_id": 59,
+    "ru": "Я провожу много времени, слушая этот аудио курс",
+    "en": "I spend lots of time listening to this audio course"
+  },
+  {
+    "_id": 60,
+    "ru": "Этот метод достаточно хороший",
+    "en": "This method is good enough"
+  },
+  {
+    "_id": 61,
+    "ru": "Это гораздо более лучшая идея",
+    "en": "It's a much better idea"
+  },
+  {
+    "_id": 62,
+    "ru": "Это такой полезный ресурс",
+    "en": "It's such a useful resource"
+  },
+  {
+    "_id": 63,
+    "ru": "Я бы не ехал так быстро",
+    "en": "I wouldn't drive so fast"
+  },
+  {
+    "_id": 64,
+    "ru": "Это такая блестящая идея",
+    "en": "It's such a brilliant idea"
+  },
+  {
+    "_id": 65,
+    "ru": "Сколько у тебя было с собой денег?",
+    "en": "How much money did you have with you?"
+  },
+  {
+    "_id": 66,
+    "ru": "Сколько денег ты заплатил за это?",
+    "en": "How much money did you pay for it?"
+  },
+  {
+    "_id": 67,
+    "ru": "Сколько денег она заплатила?",
+    "en": "How much money did she pay?"
+  },
+  {
+    "_id": 68,
+    "ru": "Они такие щедрые люди",
+    "en": "They are such generous people"
+  },
+  {
+    "_id": 69,
+    "ru": "Она такой удивительный человек",
+    "en": "She is such an amazing person"
+  },
+  {
+    "_id": 70,
+    "ru": "Он такой щедрый человек",
+    "en": "He is such a generous man"
+  },
+  {
+    "_id": 71,
+    "ru": "Мне очень нравится такая погода",
+    "en": "I really like such weather"
+  },
+  {
+    "_id": 72,
+    "ru": "Ей нравится такая музыка",
+    "en": "She likes such music"
+  },
+  {
+    "_id": 73,
+    "ru": "Мне очень нравится такая еда",
+    "en": "I really like such food"
+  },
+  {
+    "_id": 74,
+    "ru": "Они такие храбрые солдаты",
+    "en": "They are such brave soldiers"
+  },
+  {
+    "_id": 75,
+    "ru": "Она такая застенчивая девушка",
+    "en": "She is such a shy girl"
+  },
+  {
+    "_id": 76,
+    "ru": "Я хочу делать меньше ошибок",
+    "en": "I want to make fewer mistakes"
+  },
+  {
+    "_id": 77,
+    "ru": "Ей нужно делать меньше ошибок",
+    "en": "She needs to make fewer mistakes"
+  },
+  {
+    "_id": 78,
+    "ru": "Он сделал несколько ошибок",
+    "en": "He made a few mistakes"
+  },
+  {
+    "_id": 79,
+    "ru": "Они говорили так громко",
+    "en": "They were speaking so loudly"
+  },
+  {
+    "_id": 80,
+    "ru": "Музыка была очень громкой",
+    "en": "The music was really loud"
+  },
+  {
+    "_id": 81,
+    "ru": "Она говорила так громко",
+    "en": "She was talking so loudly"
+  },
+  {
+    "_id": 82,
+    "ru": "Сколько людей они пригласили?",
+    "en": "How many people did they invite?"
+  },
+  {
+    "_id": 83,
+    "ru": "Сколько там было человек?",
+    "en": "How many people were there?"
+  },
+  {
+    "_id": 84,
+    "ru": "Там было много людей?",
+    "en": "Were there many people?"
+  },
+  {
+    "_id": 85,
+    "ru": "Это такое полезное приложение",
+    "en": "It's such a useful application"
+  },
+  {
+    "_id": 86,
+    "ru": "Это такая хорошая погода",
+    "en": "It's such nice weather"
+  },
+  {
+    "_id": 87,
+    "ru": "Было очень приятно познакомиться с вами",
+    "en": "It was such a pleasure to meet you"
+  },
+  {
+    "_id": 88,
+    "ru": "Этот кандидат недостаточно опытен",
+    "en": "This candidate isn't experienced enough"
+  },
+  {
+    "_id": 89,
+    "ru": "Она не имеет опыта для этой работы",
+    "en": "She isn't experienced for this job"
+  },
+  {
+    "_id": 90,
+    "ru": "Он достаточно опытен",
+    "en": "He is experienced enough"
+  },
+  {
+    "_id": 91,
+    "ru": "Сколько денег я смогу там заработать?",
+    "en": "How much money will I be able to earn there?"
+  },
+  {
+    "_id": 92,
+    "ru": "Сколько денег он заработал?",
+    "en": "How much money did he earn?"
+  },
+  {
+    "_id": 93,
+    "ru": "Сколько это стоит?",
+    "en": "How much does it cost?"
+  },
+  {
+    "_id": 94,
+    "ru": "Он такой смелый человек",
+    "en": "He is such a brave man"
+  },
+  {
+    "_id": 95,
+    "ru": "Такая вещь может случиться",
+    "en": "Such a thing can happen"
+  },
+  {
+    "_id": 96,
+    "ru": "Он недостаточно опытен",
+    "en": "He isn't experienced enough"
+  },
+  {
+    "_id": 97,
+    "ru": "Она провела много времени, смотря телевизор",
+    "en": "She spent lots of time watching TV"
+  },
+  {
+    "_id": 98,
+    "ru": "Он начал делать меньше ошибок",
+    "en": "He started making fewer mistakes"
+  },
+  {
+    "_id": 99,
+    "ru": "Я не могу сказать, что у меня много свободного времени",
+    "en": "I can't say that I have lots of free time"
+  },
+  {
+    "_id": 100,
+    "ru": "Он такой жестокий человек",
+    "en": "He is such a cruel man"
+  },
+  {
+    "_id": 101,
+    "ru": "К сожалению, мало кто это понимает",
+    "en": "Unfortunately, few people understand it"
+  },
+  {
+    "_id": 102,
+    "ru": "Он бесстрашный человек",
+    "en": "He is a fearless person"
+  },
+  {
+    "_id": 103,
+    "ru": "Ты много знаешь",
+    "en": "You know a lot"
+  },
+  {
+    "_id": 104,
+    "ru": "Мало сделано",
+    "en": "Little is done"
+  },
+  {
+    "_id": 105,
+    "ru": "Сделано немного",
+    "en": "Not much is done"
+  },
+  {
+    "_id": 106,
+    "ru": "Он такой жестокий",
+    "en": "He is so cruel"
+  }
 ]

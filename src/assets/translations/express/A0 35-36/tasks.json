@@ -1,194 +1,242 @@
 [
-  [
-    "Я потерял ключи",
-    "I lost the keys"
-  ],
-  [
-    "Я думал об этом предложении",
-    "I thought about this offer"
-  ],
-  [
-    "Я полетел в другую страну",
-    "I flew to another country"
-  ],
-  [
-    "Я попил чай",
-    "I drank tea"
-  ],
-  [
-    "Первая команда выиграла",
-    "The first team won"
-  ],
-  [
-    "Она купалась в море",
-    "She swam in the sea"
-  ],
-  [
-    "Я часто думал об этом",
-    "I often thought about it"
-  ],
-  [
-    "Я выбрал второй ответ",
-    "I chose the second answer"
-  ],
-  [
-    "Они выиграли игру",
-    "They won the game"
-  ],
-  [
-    "Я выпил кофе",
-    "I drank coffee"
-  ],
-  [
-    "Он потерял свой бумажник",
-    "He lost his wallet"
-  ],
-  [
-    "Я съел два бутерброда",
-    "I ate two sandwiches"
-  ],
-  [
-    "Я выпил чашку чая",
-    "I drank a сup of tea"
-  ],
-  [
-    "Я потерял свои ключи",
-    "I lost my keys"
-  ],
-  [
-    "Я выиграл наконец",
-    "I won at last"
-  ],
-  [
-    "Я выпил стакан сока",
-    "I drank a glass of juice"
-  ],
-  [
-    "Я выпил немного сока",
-    "I drank some juice"
-  ],
-  [
-    "Мы купались в озере",
-    "We swam in the lake"
-  ],
-  [
-    "Они победили в конце",
-    "They won in the end"
-  ],
-  [
-    "Он преподавал нам английский",
-    "He taught us English"
-  ],
-  [
-    "Я потерял сумку",
-    "I lost the bag"
-  ],
-  [
-    "Я слышал это снова и снова",
-    "I heard it again and again"
-  ],
-  [
-    "Я выбрал правильный ответ",
-    "I chose the right answer"
-  ],
-  [
-    "Я услышал это только вчера",
-    "I heard it only yesterday"
-  ],
-  [
-    "Я полетел в этот город",
-    "I flew to this city"
-  ],
-  [
-    "Вторая команда проиграла",
-    "The second team lost"
-  ],
-  [
-    "Я выпил чашку кофе",
-    "I drank a cup of coffee"
-  ],
-  [
-    "Я выбрал этот отель",
-    "I chose this hotel"
-  ],
-  [
-    "Она преподавал английский",
-    "She taught English"
-  ],
-  [
-    "Он продал свою машину",
-    "He sold his car"
-  ],
-  [
-    "Они проиграли в финале",
-    "They lost in the final"
-  ],
-  [
-    "Я услышал это от него",
-    "I heard it from him"
-  ],
-  [
-    "Я полетел в Соединенные Штаты",
-    "I flew to the United States"
-  ],
-  [
-    "Я съела бутерброд",
-    "I ate a sandwich"
-  ],
-  [
-    "Я плавал в бассейне",
-    "I swam in the swimming pool"
-  ],
-  [
-    "Я плавал в море",
-    "I swam in the sea"
-  ],
-  [
-    "Я ел час назад",
-    "I ate an hour ago"
-  ],
-  [
-    "Он плавал в реке",
-    "He swam in the river"
-  ],
-  [
-    "Они продавали это очень дешево",
-    "They sold it very cheaply"
-  ],
-  [
-    "Их команда проиграла в финале",
-    "Their team lost in the final"
-  ],
-  [
-    "Я часто думал об этом",
-    "I often thought about this thing"
-  ],
-  [
-    "Я выбрал первый ответ",
-    "I chose the first answer"
-  ],
-  [
-    "Я потерял свою сумку",
-    "I lost my bag"
-  ],
-  [
-    "Мы купались в море",
-    "We swam in the sea"
-  ],
-  [
-    "Я нашел свои ключи",
-    "I found my keys"
-  ],
-  [
-    "Я выпил апельсиновый сок",
-    "I drank orange juice"
-  ],
-  [
-    "Он продал свой дом",
-    "He sold his house"
-  ],
-  [
-    "Они выиграли матч",
-    "They won the match"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я потерял ключи",
+    "en": "I lost the keys"
+  },
+  {
+    "_id": 2,
+    "ru": "Я думал об этом предложении",
+    "en": "I thought about this offer"
+  },
+  {
+    "_id": 3,
+    "ru": "Я полетел в другую страну",
+    "en": "I flew to another country"
+  },
+  {
+    "_id": 4,
+    "ru": "Я попил чай",
+    "en": "I drank tea"
+  },
+  {
+    "_id": 5,
+    "ru": "Первая команда выиграла",
+    "en": "The first team won"
+  },
+  {
+    "_id": 6,
+    "ru": "Она купалась в море",
+    "en": "She swam in the sea"
+  },
+  {
+    "_id": 7,
+    "ru": "Я часто думал об этом",
+    "en": "I often thought about it"
+  },
+  {
+    "_id": 8,
+    "ru": "Я выбрал второй ответ",
+    "en": "I chose the second answer"
+  },
+  {
+    "_id": 9,
+    "ru": "Они выиграли игру",
+    "en": "They won the game"
+  },
+  {
+    "_id": 10,
+    "ru": "Я выпил кофе",
+    "en": "I drank coffee"
+  },
+  {
+    "_id": 11,
+    "ru": "Он потерял свой бумажник",
+    "en": "He lost his wallet"
+  },
+  {
+    "_id": 12,
+    "ru": "Я съел два бутерброда",
+    "en": "I ate two sandwiches"
+  },
+  {
+    "_id": 13,
+    "ru": "Я выпил чашку чая",
+    "en": "I drank a сup of tea"
+  },
+  {
+    "_id": 14,
+    "ru": "Я потерял свои ключи",
+    "en": "I lost my keys"
+  },
+  {
+    "_id": 15,
+    "ru": "Я выиграл наконец",
+    "en": "I won at last"
+  },
+  {
+    "_id": 16,
+    "ru": "Я выпил стакан сока",
+    "en": "I drank a glass of juice"
+  },
+  {
+    "_id": 17,
+    "ru": "Я выпил немного сока",
+    "en": "I drank some juice"
+  },
+  {
+    "_id": 18,
+    "ru": "Мы купались в озере",
+    "en": "We swam in the lake"
+  },
+  {
+    "_id": 19,
+    "ru": "Они победили в конце",
+    "en": "They won in the end"
+  },
+  {
+    "_id": 20,
+    "ru": "Он преподавал нам английский",
+    "en": "He taught us English"
+  },
+  {
+    "_id": 21,
+    "ru": "Я потерял сумку",
+    "en": "I lost the bag"
+  },
+  {
+    "_id": 22,
+    "ru": "Я слышал это снова и снова",
+    "en": "I heard it again and again"
+  },
+  {
+    "_id": 23,
+    "ru": "Я выбрал правильный ответ",
+    "en": "I chose the right answer"
+  },
+  {
+    "_id": 24,
+    "ru": "Я услышал это только вчера",
+    "en": "I heard it only yesterday"
+  },
+  {
+    "_id": 25,
+    "ru": "Я полетел в этот город",
+    "en": "I flew to this city"
+  },
+  {
+    "_id": 26,
+    "ru": "Вторая команда проиграла",
+    "en": "The second team lost"
+  },
+  {
+    "_id": 27,
+    "ru": "Я выпил чашку кофе",
+    "en": "I drank a cup of coffee"
+  },
+  {
+    "_id": 28,
+    "ru": "Я выбрал этот отель",
+    "en": "I chose this hotel"
+  },
+  {
+    "_id": 29,
+    "ru": "Она преподавал английский",
+    "en": "She taught English"
+  },
+  {
+    "_id": 30,
+    "ru": "Он продал свою машину",
+    "en": "He sold his car"
+  },
+  {
+    "_id": 31,
+    "ru": "Они проиграли в финале",
+    "en": "They lost in the final"
+  },
+  {
+    "_id": 32,
+    "ru": "Я услышал это от него",
+    "en": "I heard it from him"
+  },
+  {
+    "_id": 33,
+    "ru": "Я полетел в Соединенные Штаты",
+    "en": "I flew to the United States"
+  },
+  {
+    "_id": 34,
+    "ru": "Я съела бутерброд",
+    "en": "I ate a sandwich"
+  },
+  {
+    "_id": 35,
+    "ru": "Я плавал в бассейне",
+    "en": "I swam in the swimming pool"
+  },
+  {
+    "_id": 36,
+    "ru": "Я плавал в море",
+    "en": "I swam in the sea"
+  },
+  {
+    "_id": 37,
+    "ru": "Я ел час назад",
+    "en": "I ate an hour ago"
+  },
+  {
+    "_id": 38,
+    "ru": "Он плавал в реке",
+    "en": "He swam in the river"
+  },
+  {
+    "_id": 39,
+    "ru": "Они продавали это очень дешево",
+    "en": "They sold it very cheaply"
+  },
+  {
+    "_id": 40,
+    "ru": "Их команда проиграла в финале",
+    "en": "Their team lost in the final"
+  },
+  {
+    "_id": 41,
+    "ru": "Я часто думал об этом",
+    "en": "I often thought about this thing"
+  },
+  {
+    "_id": 42,
+    "ru": "Я выбрал первый ответ",
+    "en": "I chose the first answer"
+  },
+  {
+    "_id": 43,
+    "ru": "Я потерял свою сумку",
+    "en": "I lost my bag"
+  },
+  {
+    "_id": 44,
+    "ru": "Мы купались в море",
+    "en": "We swam in the sea"
+  },
+  {
+    "_id": 45,
+    "ru": "Я нашел свои ключи",
+    "en": "I found my keys"
+  },
+  {
+    "_id": 46,
+    "ru": "Я выпил апельсиновый сок",
+    "en": "I drank orange juice"
+  },
+  {
+    "_id": 47,
+    "ru": "Он продал свой дом",
+    "en": "He sold his house"
+  },
+  {
+    "_id": 48,
+    "ru": "Они выиграли матч",
+    "en": "They won the match"
+  }
 ]

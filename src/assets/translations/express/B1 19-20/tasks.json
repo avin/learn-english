@@ -1,90 +1,112 @@
 [
-  [
-    "Мне порекомендовали прочитать эту книгу",
-    "I was recommended to read this book"
-  ],
-  [
-    "Эта новость удивила меня так сильно",
-    "This news surprised me so much"
-  ],
-  [
-    "Его попросили подержать ту сумку",
-    "He was asked to hold that bag"
-  ],
-  [
-    "Их результаты часто сравнивают",
-    "Their results are often compared"
-  ],
-  [
-    "Он известен как очень успешный бизнесмен",
-    "He's known as a very successful businessman"
-  ],
-  [
-    "Где я могу обменять свои доллары на евро?",
-    "Where can I exchange my dollars for euros?"
-  ],
-  [
-    "Я бы последовал этому совету на твоем месте",
-    "I would follow this advice in your place"
-  ],
-  [
-    "Не могли бы вы повторить свой вопрос?",
-    "Could you repeat your question?"
-  ],
-  [
-    "Ветер сейчас дует так сильно",
-    "The wind is blowing so strongly now"
-  ],
-  [
-    "Я поистине ценю вашу доброту",
-    "I truly appreciate your kindness"
-  ],
-  [
-    "Они поцеловались в конце",
-    "They kissed in the end"
-  ],
-  [
-    "Она сказала, что он занял эту сумму денег",
-    "She said that he had borrowed this sum of money"
-  ],
-  [
-    "Я тренируюсь очень интенсивно последние два дня",
-    "I've been training very intensively for the last two days"
-  ],
-  [
-    "Я никогда не обещал такого рода вещей",
-    "I've never promised this kind of things"
-  ],
-  [
-    "Как долго ты ждешь его?",
-    "How long have you been waiting for him?"
-  ],
-  [
-    "Его часто хвалят",
-    "He's often praised"
-  ],
-  [
-    "Она только что улыбнулась мне",
-    "She's just smiled at me"
-  ],
-  [
-    "Она еще не полила цветы",
-    "She hasn't watered the flowers yet"
-  ],
-  [
-    "Я никогда не испытывал такого чувства",
-    "I've never experienced such a feeling"
-  ],
-  [
-    "За женщиной сейчас наблюдают",
-    "The woman is being watched now"
-  ],
-  [
-    "Сколько раз в день ты чистишь зубы?",
-    "How many times a day do you brush your teeth?"
-  ],
-  [
-    "Он сказал, что запер дверь",
-    "He said that he had locked the door"
-  ]
+  {
+    "_id": 1,
+    "ru": "Мне порекомендовали прочитать эту книгу",
+    "en": "I was recommended to read this book"
+  },
+  {
+    "_id": 2,
+    "ru": "Эта новость удивила меня так сильно",
+    "en": "This news surprised me so much"
+  },
+  {
+    "_id": 3,
+    "ru": "Его попросили подержать ту сумку",
+    "en": "He was asked to hold that bag"
+  },
+  {
+    "_id": 4,
+    "ru": "Их результаты часто сравнивают",
+    "en": "Their results are often compared"
+  },
+  {
+    "_id": 5,
+    "ru": "Он известен как очень успешный бизнесмен",
+    "en": "He's known as a very successful businessman"
+  },
+  {
+    "_id": 6,
+    "ru": "Где я могу обменять свои доллары на евро?",
+    "en": "Where can I exchange my dollars for euros?"
+  },
+  {
+    "_id": 7,
+    "ru": "Я бы последовал этому совету на твоем месте",
+    "en": "I would follow this advice in your place"
+  },
+  {
+    "_id": 8,
+    "ru": "Не могли бы вы повторить свой вопрос?",
+    "en": "Could you repeat your question?"
+  },
+  {
+    "_id": 9,
+    "ru": "Ветер сейчас дует так сильно",
+    "en": "The wind is blowing so strongly now"
+  },
+  {
+    "_id": 10,
+    "ru": "Я поистине ценю вашу доброту",
+    "en": "I truly appreciate your kindness"
+  },
+  {
+    "_id": 11,
+    "ru": "Они поцеловались в конце",
+    "en": "They kissed in the end"
+  },
+  {
+    "_id": 12,
+    "ru": "Она сказала, что он занял эту сумму денег",
+    "en": "She said that he had borrowed this sum of money"
+  },
+  {
+    "_id": 13,
+    "ru": "Я тренируюсь очень интенсивно последние два дня",
+    "en": "I've been training very intensively for the last two days"
+  },
+  {
+    "_id": 14,
+    "ru": "Я никогда не обещал такого рода вещей",
+    "en": "I've never promised this kind of things"
+  },
+  {
+    "_id": 15,
+    "ru": "Как долго ты ждешь его?",
+    "en": "How long have you been waiting for him?"
+  },
+  {
+    "_id": 16,
+    "ru": "Его часто хвалят",
+    "en": "He's often praised"
+  },
+  {
+    "_id": 17,
+    "ru": "Она только что улыбнулась мне",
+    "en": "She's just smiled at me"
+  },
+  {
+    "_id": 18,
+    "ru": "Она еще не полила цветы",
+    "en": "She hasn't watered the flowers yet"
+  },
+  {
+    "_id": 19,
+    "ru": "Я никогда не испытывал такого чувства",
+    "en": "I've never experienced such a feeling"
+  },
+  {
+    "_id": 20,
+    "ru": "За женщиной сейчас наблюдают",
+    "en": "The woman is being watched now"
+  },
+  {
+    "_id": 21,
+    "ru": "Сколько раз в день ты чистишь зубы?",
+    "en": "How many times a day do you brush your teeth?"
+  },
+  {
+    "_id": 22,
+    "ru": "Он сказал, что запер дверь",
+    "en": "He said that he had locked the door"
+  }
 ]

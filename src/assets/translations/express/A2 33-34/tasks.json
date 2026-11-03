@@ -1,94 +1,117 @@
 [
-  [
-    "Она сказала, что он пошел домой",
-    "She said that he had gone home"
-  ],
-  [
-    "Он только что вылетел в Соединенные Штаты",
-    "He’s just flown to the United States"
-  ],
-  [
-    "Я доверяю ему полностью",
-    "I trust him completely"
-  ],
-  [
-    "Я знал, что он умер очень молодым",
-    "I knew that he had died very young"
-  ],
-  [
-    "Я действительно ненавижу делать это",
-    "I really hate doing it"
-  ],
-  [
-    "Кто-то позвонил ему, когда он шел домой",
-    "Someone called him when he was going home"
-  ],
-  [
-    "Кому это принадлежит сейчас?",
-    "Who does it belong to now?"
-  ],
-  [
-    "Я предлагаю встретиться сегодня вечером",
-    "I suggest meeting tonight"
-  ],
-  [
-    "Платье подошло ей идеально",
-    "The dress fit her perfectly"
-  ],
-  [
-    "Эта одежда подошла ему идеально",
-    "These clothes fit him perfectly"
-  ],
-  [
-    "Они только что отремонтировали крышу",
-    "They've just repaired the roof"
-  ],
-  [
-    "Мне кажется, что вода кипит",
-    "It seems to me that the water is boiling"
-  ],
-  [
-    "Я встретил его, в то время как гулял в парке",
-    "I met him while I was walking in the park"
-  ],
-  [
-    "Он появился в конце вечеринки",
-    "He appeared at the end of the party"
-  ],
-  [
-    "Я предлагаю пойти на прогулку",
-    "I suggest going for a walk"
-  ],
-  [
-    "Он сказал, что она отреагировала на эти слова очень странно",
-    "He said that she had reacted to these words very strangely"
-  ],
-  [
-    "Я попросил его повторить этот вопрос",
-    "I asked him to repeat this question"
-  ],
-  [
-    "Как ты предпочитаешь проводить свое свободное время?",
-    "How do you prefer to spend your free time?"
-  ],
-  [
-    "Он уехал из России в прошлом году",
-    "He left Russia last year"
-  ],
-  [
-    "Я учился весь день",
-    "I was studying all day"
-  ],
-  [
-    "Я всегда восхищался такого рода людьми",
-    "I've always admired this kind of people"
-  ],
-  [
-    "Не трогай это!",
-    "Don't touch it!"
-  ],
-  [
-    "Он только что пригласил меня на эту вечеринку",
-    "He's just invited me to this party"
-  ]
+  {
+    "_id": 1,
+    "ru": "Она сказала, что он пошел домой",
+    "en": "She said that he had gone home"
+  },
+  {
+    "_id": 2,
+    "ru": "Он только что вылетел в Соединенные Штаты",
+    "en": "He’s just flown to the United States"
+  },
+  {
+    "_id": 3,
+    "ru": "Я доверяю ему полностью",
+    "en": "I trust him completely"
+  },
+  {
+    "_id": 4,
+    "ru": "Я знал, что он умер очень молодым",
+    "en": "I knew that he had died very young"
+  },
+  {
+    "_id": 5,
+    "ru": "Я действительно ненавижу делать это",
+    "en": "I really hate doing it"
+  },
+  {
+    "_id": 6,
+    "ru": "Кто-то позвонил ему, когда он шел домой",
+    "en": "Someone called him when he was going home"
+  },
+  {
+    "_id": 7,
+    "ru": "Кому это принадлежит сейчас?",
+    "en": "Who does it belong to now?"
+  },
+  {
+    "_id": 8,
+    "ru": "Я предлагаю встретиться сегодня вечером",
+    "en": "I suggest meeting tonight"
+  },
+  {
+    "_id": 9,
+    "ru": "Платье подошло ей идеально",
+    "en": "The dress fit her perfectly"
+  },
+  {
+    "_id": 10,
+    "ru": "Эта одежда подошла ему идеально",
+    "en": "These clothes fit him perfectly"
+  },
+  {
+    "_id": 11,
+    "ru": "Они только что отремонтировали крышу",
+    "en": "They've just repaired the roof"
+  },
+  {
+    "_id": 12,
+    "ru": "Мне кажется, что вода кипит",
+    "en": "It seems to me that the water is boiling"
+  },
+  {
+    "_id": 13,
+    "ru": "Я встретил его, в то время как гулял в парке",
+    "en": "I met him while I was walking in the park"
+  },
+  {
+    "_id": 14,
+    "ru": "Он появился в конце вечеринки",
+    "en": "He appeared at the end of the party"
+  },
+  {
+    "_id": 15,
+    "ru": "Я предлагаю пойти на прогулку",
+    "en": "I suggest going for a walk"
+  },
+  {
+    "_id": 16,
+    "ru": "Он сказал, что она отреагировала на эти слова очень странно",
+    "en": "He said that she had reacted to these words very strangely"
+  },
+  {
+    "_id": 17,
+    "ru": "Я попросил его повторить этот вопрос",
+    "en": "I asked him to repeat this question"
+  },
+  {
+    "_id": 18,
+    "ru": "Как ты предпочитаешь проводить свое свободное время?",
+    "en": "How do you prefer to spend your free time?"
+  },
+  {
+    "_id": 19,
+    "ru": "Он уехал из России в прошлом году",
+    "en": "He left Russia last year"
+  },
+  {
+    "_id": 20,
+    "ru": "Я учился весь день",
+    "en": "I was studying all day"
+  },
+  {
+    "_id": 21,
+    "ru": "Я всегда восхищался такого рода людьми",
+    "en": "I've always admired this kind of people"
+  },
+  {
+    "_id": 22,
+    "ru": "Не трогай это!",
+    "en": "Don't touch it!"
+  },
+  {
+    "_id": 23,
+    "ru": "Он только что пригласил меня на эту вечеринку",
+    "en": "He's just invited me to this party"
+  }
 ]

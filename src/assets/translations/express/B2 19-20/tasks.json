@@ -1,66 +1,82 @@
 [
-  [
-    "Они выдвинули несколько предложений",
-    "They put forward several suggestions"
-  ],
-  [
-    "Она сказала, что ей нужно вернуть те деньги ему",
-    "She said that she needed to give back that money to him"
-  ],
-  [
-    "Тебе нужно выйти из своей учетной записи",
-    "You need to sign out of your account"
-  ],
-  [
-    "Так держать!",
-    "Keep it up!"
-  ],
-  [
-    "Продолжай хорошую работу!",
-    "Keep up the good work!"
-  ],
-  [
-    "Самолет взлетит через минуту",
-    "The plane will take off in a minute"
-  ],
-  [
-    "Не забудь выйти из своей учетной записи!",
-    "Don't forget to sign out of your account!"
-  ],
-  [
-    "Ну же, пошли!",
-    "Come on, let's go!"
-  ],
-  [
-    "Было объявлено, что самолет взлетит через час",
-    "It was announced that the plane would take off in an hour"
-  ],
-  [
-    "Используй свою учетную запись чтобы зайти",
-    "Use your account to sign in"
-  ],
-  [
-    "Кто компенсирует эти потери?",
-    "Who will make up for these losses?"
-  ],
-  [
-    "Ему нужно вернуть эти деньги",
-    "He needs to give back this money"
-  ],
-  [
-    "Ну же, давай поторопимся!",
-    "Come on, let's hurry up!"
-  ],
-  [
-    "Она так устала, что решила прилечь",
-    "She was so tired that she decided to lie down"
-  ],
-  [
-    "Я хотел бы прилечь на некоторое время",
-    "I'd like to lie down for a while"
-  ],
-  [
-    "Тебе нужно авторизоваться",
-    "You need to sign in"
-  ]
+  {
+    "_id": 1,
+    "ru": "Они выдвинули несколько предложений",
+    "en": "They put forward several suggestions"
+  },
+  {
+    "_id": 2,
+    "ru": "Она сказала, что ей нужно вернуть те деньги ему",
+    "en": "She said that she needed to give back that money to him"
+  },
+  {
+    "_id": 3,
+    "ru": "Тебе нужно выйти из своей учетной записи",
+    "en": "You need to sign out of your account"
+  },
+  {
+    "_id": 4,
+    "ru": "Так держать!",
+    "en": "Keep it up!"
+  },
+  {
+    "_id": 5,
+    "ru": "Продолжай хорошую работу!",
+    "en": "Keep up the good work!"
+  },
+  {
+    "_id": 6,
+    "ru": "Самолет взлетит через минуту",
+    "en": "The plane will take off in a minute"
+  },
+  {
+    "_id": 7,
+    "ru": "Не забудь выйти из своей учетной записи!",
+    "en": "Don't forget to sign out of your account!"
+  },
+  {
+    "_id": 8,
+    "ru": "Ну же, пошли!",
+    "en": "Come on, let's go!"
+  },
+  {
+    "_id": 9,
+    "ru": "Было объявлено, что самолет взлетит через час",
+    "en": "It was announced that the plane would take off in an hour"
+  },
+  {
+    "_id": 10,
+    "ru": "Используй свою учетную запись чтобы зайти",
+    "en": "Use your account to sign in"
+  },
+  {
+    "_id": 11,
+    "ru": "Кто компенсирует эти потери?",
+    "en": "Who will make up for these losses?"
+  },
+  {
+    "_id": 12,
+    "ru": "Ему нужно вернуть эти деньги",
+    "en": "He needs to give back this money"
+  },
+  {
+    "_id": 13,
+    "ru": "Ну же, давай поторопимся!",
+    "en": "Come on, let's hurry up!"
+  },
+  {
+    "_id": 14,
+    "ru": "Она так устала, что решила прилечь",
+    "en": "She was so tired that she decided to lie down"
+  },
+  {
+    "_id": 15,
+    "ru": "Я хотел бы прилечь на некоторое время",
+    "en": "I'd like to lie down for a while"
+  },
+  {
+    "_id": 16,
+    "ru": "Тебе нужно авторизоваться",
+    "en": "You need to sign in"
+  }
 ]

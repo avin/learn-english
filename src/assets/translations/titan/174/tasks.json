@@ -1,406 +1,507 @@
 [
-  [
-    "Ты знаешь, живет ли она там?",
-    "Do you know if she lives there?"
-  ],
-  [
-    "Я хочу знать, прав ли он",
-    "I want to know whether he is right"
-  ],
-  [
-    "Он спросил меня, хочу ли я туда пойти",
-    "He asked me whether I wanted to go there"
-  ],
-  [
-    "Он спросил меня, есть ли у меня какие-либо вопросы",
-    "He asked me if I had any questions"
-  ],
-  [
-    "Он сказал, что он прав",
-    "He said that he was right"
-  ],
-  [
-    "Я знал, что он прав",
-    "I knew that he was right"
-  ],
-  [
-    "Я думал, что они были заняты",
-    "I thought that they were busy"
-  ],
-  [
-    "Он сказал, что они делают это регулярно",
-    "He said that they did it regularly"
-  ],
-  [
-    "Я знал, что это произойдет",
-    "I knew that it would happen"
-  ],
-  [
-    "Он спросил моих друзей, приедут ли они",
-    "I asked my friends whether they would come"
-  ],
-  [
-    "Я не уверен, правильный ли это выбор",
-    "I'm not sure if it's the right choice"
-  ],
-  [
-    "Она спросила, был ли он там",
-    "She asked if he was there"
-  ],
-  [
-    "Я не знаю, дома она или нет",
-    "I don't know whether she is at home or not"
-  ],
-  [
-    "Я хотел знать, был ли он дома",
-    "I wanted to know if he was at home"
-  ],
-  [
-    "Она спросила меня, был ли я занят",
-    "She asked me if I was busy"
-  ],
-  [
-    "Я не знаю, следует ли мне делать это или нет",
-    "I don't know whether I should do it or not"
-  ],
-  [
-    "У меня нет никакой информации, когда конференция",
-    "I don't have any information when the conference is"
-  ],
-  [
-    "Я думал, что он опоздает",
-    "I thought that he would be late"
-  ],
-  [
-    "Он сказал, что все будет сделано правильно",
-    "He said that everything would be done properly"
-  ],
-  [
-    "Он спросил меня, есть ли у меня какие-либо вопросы",
-    "He asked me if I had any questions"
-  ],
-  [
-    "Я не знаю, согласятся они или нет",
-    "I don't know whether they will agree or not"
-  ],
-  [
-    "Я хотел бы знать, подходит ли тебе это время",
-    "I would like to know if this time is suitable for you"
-  ],
-  [
-    "Он сказал, что сделал бы это с большим удовольствием",
-    "He said that he would do it with great pleasure"
-  ],
-  [
-    "Он спросил меня, был ли я в Англии раньше",
-    "He asked me if I had been to England before"
-  ],
-  [
-    "Интересно, действительно ли это необходимо или нет",
-    "I wonder whether it's really necessary or not"
-  ],
-  [
-    "Я не знаю, следует ли мне это делать",
-    "I don't know if I should do it"
-  ],
-  [
-    "Я не знаю, дома ли он",
-    "I don't know if he is at home"
-  ],
-  [
-    "Я не знаю нравится ему это или нет",
-    "I don't know whether he likes it or not"
-  ],
-  [
-    "Он спросил меня, какого пола был хомяк",
-    "He asked me what sex the hamster was"
-  ],
-  [
-    "Интересно, это действительно необходимо?",
-    "I wonder if it's really necessary"
-  ],
-  [
-    "Скажи мне, где это место",
-    "Tell me where this place is"
-  ],
-  [
-    "Он спросил меня, было ли на улице холодно",
-    "He asked me if it was cold outside"
-  ],
-  [
-    "Он спросил, какая у меня была работа",
-    "He asked what my job was"
-  ],
-  [
-    "Я не знаю, какого пола их ребенок",
-    "I don't know what sex their baby is"
-  ],
-  [
-    "Он спросил меня, был ли я занят",
-    "He asked me if I was busy"
-  ],
-  [
-    "Он спросил меня, был ли я занят или нет",
-    "He asked me whether I was busy or not"
-  ],
-  [
-    "Он не знает, правда это или нет",
-    "He doesn't know whether it's true or not"
-  ],
-  [
-    "Она сказала, что она придет завтра",
-    "She said that she would come tomorrow"
-  ],
-  [
-    "Он спросил меня, сколько мне было лет",
-    "He asked me how old I was"
-  ],
-  [
-    "Она спросила меня, был ли я занят или нет",
-    "She asked me whether I was busy or not"
-  ],
-  [
-    "Она спросила меня, говорю ли я по-английски",
-    "She asked me if I spoke English"
-  ],
-  [
-    "Она спросила меня, какого пола был кролик",
-    "She asked me what sex the rabbit was"
-  ],
-  [
-    "Ты знаешь, кто сегодня отсутствует?",
-    "Do you know who is absent today?"
-  ],
-  [
-    "Я сказал ей, что они не поверят в это",
-    "I told her that they wouldn't believe it"
-  ],
-  [
-    "Я не был уверен, что это было правильное решение",
-    "I wasn't sure if it was the right decision"
-  ],
-  [
-    "Я хочу проверить, действительно ли это помогает",
-    "I want to check if it really helps"
-  ],
-  [
-    "Он спросил меня, шел ли дождь",
-    "He asked me if it was raining"
-  ],
-  [
-    "Я спросил ее, нравилось ли ей садоводство",
-    "I asked her if she liked gardening"
-  ],
-  [
-    "Я не был вполне уверен, буду ли я там в день теста",
-    "I wasn't quite sure if I would be there on the test day"
-  ],
-  [
-    "Ты знаешь, живет ли она там?",
-    "Do you know if she lives there?"
-  ],
-  [
-    "Она сказала, что не пойдет на выборы",
-    "She said that she wouldn't go to the elections"
-  ],
-  [
-    "Он сказал, что сделает паузу",
-    "He said that he would make a pause"
-  ],
-  [
-    "Она сказала, что сделает паузу на некоторое время",
-    "She said that she would make a pause for some time"
-  ],
-  [
-    "Он спросил меня, приму ли я участие в выборах",
-    "He asked me if I would take part in the elections"
-  ],
-  [
-    "Я хотел бы знать, какие у тебя планы",
-    "I would like to know what your plans are"
-  ],
-  [
-    "Я не знаю, какое значение у этого выражения",
-    "I don't know what the meaning of this expression is"
-  ],
-  [
-    "Я хотел бы спросить тебя, удобно ли это время для тебя",
-    "I'd like to ask you if this time is convenient for you"
-  ],
-  [
-    "Он сказал, что не сможет купить эту машину",
-    "He said that he wouldn't be able to buy this car"
-  ],
-  [
-    "Я не знаю, как далеко это место",
-    "I don't know how far this place is"
-  ],
-  [
-    "Я не знал, как далеко это было место",
-    "I didn't know how far this place was"
-  ],
-  [
-    "Я не помню, как далеко этот магазин",
-    "I don't remember how far this shop is"
-  ],
-  [
-    "Он спросил меня, было ли это срочно",
-    "He asked me if it was urgent"
-  ],
-  [
-    "Он спросил меня, было ли это необходимо",
-    "He asked me if it was necessary"
-  ],
-  [
-    "Он спросил ее, была ли она уставшей",
-    "He asked her if she was tired"
-  ],
-  [
-    "Ты знаешь, хочет ли он купить это или нет?",
-    "Do you know whether he wants to buy it or not?"
-  ],
-  [
-    "Ты знаешь, может ли он это сделать или нет?",
-    "Do you know whether he can do it or not?"
-  ],
-  [
-    "Я не знаю, хочет ли она купить это или нет",
-    "I don't know whether she wants to buy it or not"
-  ],
-  [
-    "Он сказал, что это было очень популярно в то время",
-    "He said that it was very popular at that time"
-  ],
-  [
-    "Он говорит, что это очень важно",
-    "He says that it is very important"
-  ],
-  [
-    "Он сказал, что он был очень знаменит в то время",
-    "He said that he was very famous at that time"
-  ],
-  [
-    "Было сказано, что это будет сделано",
-    "It was said that it would be done"
-  ],
-  [
-    "Было сказано, что это будет найдено",
-    "It was said that it would be found"
-  ],
-  [
-    "Было сказано, что это будет исправлено",
-    "It was said that it would be corrected"
-  ],
-  [
-    "Он спросил меня, могу ли я ему помочь",
-    "He asked me if I could help him"
-  ],
-  [
-    "Она спросила меня, помогу ли я ей",
-    "She asked me if I would help her"
-  ],
-  [
-    "Он спросил меня, могу ли я это сделать",
-    "He asked me if I could do it"
-  ],
-  [
-    "Он спрашивает меня, где я родился",
-    "He asks me where I was born"
-  ],
-  [
-    "Он спросил ее, где она живёт с того времени",
-    "He asked her where she had been living since that time"
-  ],
-  [
-    "Я решил, что сделаю это позже",
-    "I decided that I would do it later"
-  ],
-  [
-    "Я знал, что смогу сделать это позже",
-    "I knew that I could do it later"
-  ],
-  [
-    "Я решил, что спрошу его позже",
-    "I decided that I would ask him later"
-  ],
-  [
-    "Ты знаешь, есть ли у него машина?",
-    "Do you know if he has a car?"
-  ],
-  [
-    "Ты знаешь, есть ли у него новая работа?",
-    "Do you know if he has a new job?"
-  ],
-  [
-    "Я не знаю, есть ли у него это или нет",
-    "I don't know whether he has it or not"
-  ],
-  [
-    "Он спросил меня, был ли я там когда-либо",
-    "He asked me if I had ever been there"
-  ],
-  [
-    "Он спросил меня, был ли я когда-нибудь в этом месте",
-    "He asked me if I had ever been to this place"
-  ],
-  [
-    "Он сказал, что она никогда не была там",
-    "He said that she had never been there"
-  ],
-  [
-    "Я не знал, будет ли он дома",
-    "I didn't know if he would be at home"
-  ],
-  [
-    "Какая связь между этими двумя авариями?",
-    "What is the connection between these two accidents?"
-  ],
-  [
-    "Какая связь между этими двумя вещами?",
-    "What is the connection between these two things?"
-  ],
-  [
-    "Я спросил ее, где она родилась",
-    "I asked her where she had been born"
-  ],
-  [
-    "Я ответил, что я буду там на следующий день",
-    "I answered that I would be there the next day"
-  ],
-  [
-    "Я хочу знать, что на полке",
-    "I want to know what is on the shelf"
-  ],
-  [
-    "Я спросил, была ли она там раньше",
-    "I asked if she had been there before"
-  ],
-  [
-    "Она сказала, что была очень занята в тот день",
-    "She said that she was very busy that day"
-  ],
-  [
-    "Я посмотрю, что на книжной полке",
-    "I will see what is on the bookshelf"
-  ],
-  [
-    "Где аэропорт?",
-    "Where is the airport?"
-  ],
-  [
-    "Он спросил меня, встречал ли я ее раньше",
-    "He asked me if I had met her before"
-  ],
-  [
-    "Они спросили меня, почему она плачет",
-    "They asked me why she was crying"
-  ],
-  [
-    "Ты знаешь, где находится аэропорт?",
-    "Do you know where the airport is?"
-  ],
-  [
-    "Она спрашивает, свободно ли это место",
-    "She is asking if this seat is free"
-  ]
+  {
+    "_id": 1,
+    "ru": "Ты знаешь, живет ли она там?",
+    "en": "Do you know if she lives there?"
+  },
+  {
+    "_id": 2,
+    "ru": "Я хочу знать, прав ли он",
+    "en": "I want to know whether he is right"
+  },
+  {
+    "_id": 3,
+    "ru": "Он спросил меня, хочу ли я туда пойти",
+    "en": "He asked me whether I wanted to go there"
+  },
+  {
+    "_id": 4,
+    "ru": "Он спросил меня, есть ли у меня какие-либо вопросы",
+    "en": "He asked me if I had any questions"
+  },
+  {
+    "_id": 5,
+    "ru": "Он сказал, что он прав",
+    "en": "He said that he was right"
+  },
+  {
+    "_id": 6,
+    "ru": "Я знал, что он прав",
+    "en": "I knew that he was right"
+  },
+  {
+    "_id": 7,
+    "ru": "Я думал, что они были заняты",
+    "en": "I thought that they were busy"
+  },
+  {
+    "_id": 8,
+    "ru": "Он сказал, что они делают это регулярно",
+    "en": "He said that they did it regularly"
+  },
+  {
+    "_id": 9,
+    "ru": "Я знал, что это произойдет",
+    "en": "I knew that it would happen"
+  },
+  {
+    "_id": 10,
+    "ru": "Он спросил моих друзей, приедут ли они",
+    "en": "I asked my friends whether they would come"
+  },
+  {
+    "_id": 11,
+    "ru": "Я не уверен, правильный ли это выбор",
+    "en": "I'm not sure if it's the right choice"
+  },
+  {
+    "_id": 12,
+    "ru": "Она спросила, был ли он там",
+    "en": "She asked if he was there"
+  },
+  {
+    "_id": 13,
+    "ru": "Я не знаю, дома она или нет",
+    "en": "I don't know whether she is at home or not"
+  },
+  {
+    "_id": 14,
+    "ru": "Я хотел знать, был ли он дома",
+    "en": "I wanted to know if he was at home"
+  },
+  {
+    "_id": 15,
+    "ru": "Она спросила меня, был ли я занят",
+    "en": "She asked me if I was busy"
+  },
+  {
+    "_id": 16,
+    "ru": "Я не знаю, следует ли мне делать это или нет",
+    "en": "I don't know whether I should do it or not"
+  },
+  {
+    "_id": 17,
+    "ru": "У меня нет никакой информации, когда конференция",
+    "en": "I don't have any information when the conference is"
+  },
+  {
+    "_id": 18,
+    "ru": "Я думал, что он опоздает",
+    "en": "I thought that he would be late"
+  },
+  {
+    "_id": 19,
+    "ru": "Он сказал, что все будет сделано правильно",
+    "en": "He said that everything would be done properly"
+  },
+  {
+    "_id": 20,
+    "ru": "Он спросил меня, есть ли у меня какие-либо вопросы",
+    "en": "He asked me if I had any questions"
+  },
+  {
+    "_id": 21,
+    "ru": "Я не знаю, согласятся они или нет",
+    "en": "I don't know whether they will agree or not"
+  },
+  {
+    "_id": 22,
+    "ru": "Я хотел бы знать, подходит ли тебе это время",
+    "en": "I would like to know if this time is suitable for you"
+  },
+  {
+    "_id": 23,
+    "ru": "Он сказал, что сделал бы это с большим удовольствием",
+    "en": "He said that he would do it with great pleasure"
+  },
+  {
+    "_id": 24,
+    "ru": "Он спросил меня, был ли я в Англии раньше",
+    "en": "He asked me if I had been to England before"
+  },
+  {
+    "_id": 25,
+    "ru": "Интересно, действительно ли это необходимо или нет",
+    "en": "I wonder whether it's really necessary or not"
+  },
+  {
+    "_id": 26,
+    "ru": "Я не знаю, следует ли мне это делать",
+    "en": "I don't know if I should do it"
+  },
+  {
+    "_id": 27,
+    "ru": "Я не знаю, дома ли он",
+    "en": "I don't know if he is at home"
+  },
+  {
+    "_id": 28,
+    "ru": "Я не знаю нравится ему это или нет",
+    "en": "I don't know whether he likes it or not"
+  },
+  {
+    "_id": 29,
+    "ru": "Он спросил меня, какого пола был хомяк",
+    "en": "He asked me what sex the hamster was"
+  },
+  {
+    "_id": 30,
+    "ru": "Интересно, это действительно необходимо?",
+    "en": "I wonder if it's really necessary"
+  },
+  {
+    "_id": 31,
+    "ru": "Скажи мне, где это место",
+    "en": "Tell me where this place is"
+  },
+  {
+    "_id": 32,
+    "ru": "Он спросил меня, было ли на улице холодно",
+    "en": "He asked me if it was cold outside"
+  },
+  {
+    "_id": 33,
+    "ru": "Он спросил, какая у меня была работа",
+    "en": "He asked what my job was"
+  },
+  {
+    "_id": 34,
+    "ru": "Я не знаю, какого пола их ребенок",
+    "en": "I don't know what sex their baby is"
+  },
+  {
+    "_id": 35,
+    "ru": "Он спросил меня, был ли я занят",
+    "en": "He asked me if I was busy"
+  },
+  {
+    "_id": 36,
+    "ru": "Он спросил меня, был ли я занят или нет",
+    "en": "He asked me whether I was busy or not"
+  },
+  {
+    "_id": 37,
+    "ru": "Он не знает, правда это или нет",
+    "en": "He doesn't know whether it's true or not"
+  },
+  {
+    "_id": 38,
+    "ru": "Она сказала, что она придет завтра",
+    "en": "She said that she would come tomorrow"
+  },
+  {
+    "_id": 39,
+    "ru": "Он спросил меня, сколько мне было лет",
+    "en": "He asked me how old I was"
+  },
+  {
+    "_id": 40,
+    "ru": "Она спросила меня, был ли я занят или нет",
+    "en": "She asked me whether I was busy or not"
+  },
+  {
+    "_id": 41,
+    "ru": "Она спросила меня, говорю ли я по-английски",
+    "en": "She asked me if I spoke English"
+  },
+  {
+    "_id": 42,
+    "ru": "Она спросила меня, какого пола был кролик",
+    "en": "She asked me what sex the rabbit was"
+  },
+  {
+    "_id": 43,
+    "ru": "Ты знаешь, кто сегодня отсутствует?",
+    "en": "Do you know who is absent today?"
+  },
+  {
+    "_id": 44,
+    "ru": "Я сказал ей, что они не поверят в это",
+    "en": "I told her that they wouldn't believe it"
+  },
+  {
+    "_id": 45,
+    "ru": "Я не был уверен, что это было правильное решение",
+    "en": "I wasn't sure if it was the right decision"
+  },
+  {
+    "_id": 46,
+    "ru": "Я хочу проверить, действительно ли это помогает",
+    "en": "I want to check if it really helps"
+  },
+  {
+    "_id": 47,
+    "ru": "Он спросил меня, шел ли дождь",
+    "en": "He asked me if it was raining"
+  },
+  {
+    "_id": 48,
+    "ru": "Я спросил ее, нравилось ли ей садоводство",
+    "en": "I asked her if she liked gardening"
+  },
+  {
+    "_id": 49,
+    "ru": "Я не был вполне уверен, буду ли я там в день теста",
+    "en": "I wasn't quite sure if I would be there on the test day"
+  },
+  {
+    "_id": 50,
+    "ru": "Ты знаешь, живет ли она там?",
+    "en": "Do you know if she lives there?"
+  },
+  {
+    "_id": 51,
+    "ru": "Она сказала, что не пойдет на выборы",
+    "en": "She said that she wouldn't go to the elections"
+  },
+  {
+    "_id": 52,
+    "ru": "Он сказал, что сделает паузу",
+    "en": "He said that he would make a pause"
+  },
+  {
+    "_id": 53,
+    "ru": "Она сказала, что сделает паузу на некоторое время",
+    "en": "She said that she would make a pause for some time"
+  },
+  {
+    "_id": 54,
+    "ru": "Он спросил меня, приму ли я участие в выборах",
+    "en": "He asked me if I would take part in the elections"
+  },
+  {
+    "_id": 55,
+    "ru": "Я хотел бы знать, какие у тебя планы",
+    "en": "I would like to know what your plans are"
+  },
+  {
+    "_id": 56,
+    "ru": "Я не знаю, какое значение у этого выражения",
+    "en": "I don't know what the meaning of this expression is"
+  },
+  {
+    "_id": 57,
+    "ru": "Я хотел бы спросить тебя, удобно ли это время для тебя",
+    "en": "I'd like to ask you if this time is convenient for you"
+  },
+  {
+    "_id": 58,
+    "ru": "Он сказал, что не сможет купить эту машину",
+    "en": "He said that he wouldn't be able to buy this car"
+  },
+  {
+    "_id": 59,
+    "ru": "Я не знаю, как далеко это место",
+    "en": "I don't know how far this place is"
+  },
+  {
+    "_id": 60,
+    "ru": "Я не знал, как далеко это было место",
+    "en": "I didn't know how far this place was"
+  },
+  {
+    "_id": 61,
+    "ru": "Я не помню, как далеко этот магазин",
+    "en": "I don't remember how far this shop is"
+  },
+  {
+    "_id": 62,
+    "ru": "Он спросил меня, было ли это срочно",
+    "en": "He asked me if it was urgent"
+  },
+  {
+    "_id": 63,
+    "ru": "Он спросил меня, было ли это необходимо",
+    "en": "He asked me if it was necessary"
+  },
+  {
+    "_id": 64,
+    "ru": "Он спросил ее, была ли она уставшей",
+    "en": "He asked her if she was tired"
+  },
+  {
+    "_id": 65,
+    "ru": "Ты знаешь, хочет ли он купить это или нет?",
+    "en": "Do you know whether he wants to buy it or not?"
+  },
+  {
+    "_id": 66,
+    "ru": "Ты знаешь, может ли он это сделать или нет?",
+    "en": "Do you know whether he can do it or not?"
+  },
+  {
+    "_id": 67,
+    "ru": "Я не знаю, хочет ли она купить это или нет",
+    "en": "I don't know whether she wants to buy it or not"
+  },
+  {
+    "_id": 68,
+    "ru": "Он сказал, что это было очень популярно в то время",
+    "en": "He said that it was very popular at that time"
+  },
+  {
+    "_id": 69,
+    "ru": "Он говорит, что это очень важно",
+    "en": "He says that it is very important"
+  },
+  {
+    "_id": 70,
+    "ru": "Он сказал, что он был очень знаменит в то время",
+    "en": "He said that he was very famous at that time"
+  },
+  {
+    "_id": 71,
+    "ru": "Было сказано, что это будет сделано",
+    "en": "It was said that it would be done"
+  },
+  {
+    "_id": 72,
+    "ru": "Было сказано, что это будет найдено",
+    "en": "It was said that it would be found"
+  },
+  {
+    "_id": 73,
+    "ru": "Было сказано, что это будет исправлено",
+    "en": "It was said that it would be corrected"
+  },
+  {
+    "_id": 74,
+    "ru": "Он спросил меня, могу ли я ему помочь",
+    "en": "He asked me if I could help him"
+  },
+  {
+    "_id": 75,
+    "ru": "Она спросила меня, помогу ли я ей",
+    "en": "She asked me if I would help her"
+  },
+  {
+    "_id": 76,
+    "ru": "Он спросил меня, могу ли я это сделать",
+    "en": "He asked me if I could do it"
+  },
+  {
+    "_id": 77,
+    "ru": "Он спрашивает меня, где я родился",
+    "en": "He asks me where I was born"
+  },
+  {
+    "_id": 78,
+    "ru": "Он спросил ее, где она живёт с того времени",
+    "en": "He asked her where she had been living since that time"
+  },
+  {
+    "_id": 79,
+    "ru": "Я решил, что сделаю это позже",
+    "en": "I decided that I would do it later"
+  },
+  {
+    "_id": 80,
+    "ru": "Я знал, что смогу сделать это позже",
+    "en": "I knew that I could do it later"
+  },
+  {
+    "_id": 81,
+    "ru": "Я решил, что спрошу его позже",
+    "en": "I decided that I would ask him later"
+  },
+  {
+    "_id": 82,
+    "ru": "Ты знаешь, есть ли у него машина?",
+    "en": "Do you know if he has a car?"
+  },
+  {
+    "_id": 83,
+    "ru": "Ты знаешь, есть ли у него новая работа?",
+    "en": "Do you know if he has a new job?"
+  },
+  {
+    "_id": 84,
+    "ru": "Я не знаю, есть ли у него это или нет",
+    "en": "I don't know whether he has it or not"
+  },
+  {
+    "_id": 85,
+    "ru": "Он спросил меня, был ли я там когда-либо",
+    "en": "He asked me if I had ever been there"
+  },
+  {
+    "_id": 86,
+    "ru": "Он спросил меня, был ли я когда-нибудь в этом месте",
+    "en": "He asked me if I had ever been to this place"
+  },
+  {
+    "_id": 87,
+    "ru": "Он сказал, что она никогда не была там",
+    "en": "He said that she had never been there"
+  },
+  {
+    "_id": 88,
+    "ru": "Я не знал, будет ли он дома",
+    "en": "I didn't know if he would be at home"
+  },
+  {
+    "_id": 89,
+    "ru": "Какая связь между этими двумя авариями?",
+    "en": "What is the connection between these two accidents?"
+  },
+  {
+    "_id": 90,
+    "ru": "Какая связь между этими двумя вещами?",
+    "en": "What is the connection between these two things?"
+  },
+  {
+    "_id": 91,
+    "ru": "Я спросил ее, где она родилась",
+    "en": "I asked her where she had been born"
+  },
+  {
+    "_id": 92,
+    "ru": "Я ответил, что я буду там на следующий день",
+    "en": "I answered that I would be there the next day"
+  },
+  {
+    "_id": 93,
+    "ru": "Я хочу знать, что на полке",
+    "en": "I want to know what is on the shelf"
+  },
+  {
+    "_id": 94,
+    "ru": "Я спросил, была ли она там раньше",
+    "en": "I asked if she had been there before"
+  },
+  {
+    "_id": 95,
+    "ru": "Она сказала, что была очень занята в тот день",
+    "en": "She said that she was very busy that day"
+  },
+  {
+    "_id": 96,
+    "ru": "Я посмотрю, что на книжной полке",
+    "en": "I will see what is on the bookshelf"
+  },
+  {
+    "_id": 97,
+    "ru": "Где аэропорт?",
+    "en": "Where is the airport?"
+  },
+  {
+    "_id": 98,
+    "ru": "Он спросил меня, встречал ли я ее раньше",
+    "en": "He asked me if I had met her before"
+  },
+  {
+    "_id": 99,
+    "ru": "Они спросили меня, почему она плачет",
+    "en": "They asked me why she was crying"
+  },
+  {
+    "_id": 100,
+    "ru": "Ты знаешь, где находится аэропорт?",
+    "en": "Do you know where the airport is?"
+  },
+  {
+    "_id": 101,
+    "ru": "Она спрашивает, свободно ли это место",
+    "en": "She is asking if this seat is free"
+  }
 ]

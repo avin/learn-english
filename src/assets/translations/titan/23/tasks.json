@@ -1,350 +1,437 @@
 [
-  [
-    "Я не могу поверить своим глазам",
-    "I can't believe my eyes"
-  ],
-  [
-    "Ты веришь в Бога?",
-    "Do you believe in God?"
-  ],
-  [
-    "Как ты живешь на эти деньги?",
-    "How do you live on this money?"
-  ],
-  [
-    "Она получает слишком мало денег",
-    "She gets too little money"
-  ],
-  [
-    "Он ест слишком много",
-    "He eats too much"
-  ],
-  [
-    "Он делает ошибки снова и снова",
-    "He makes mistakes again and again"
-  ],
-  [
-    "Я часто хожу туда",
-    "I often go there"
-  ],
-  [
-    "Я могу слышать тебя сейчас",
-    "I can hear you now"
-  ],
-  [
-    "Ты можешь взять это",
-    "You can take it"
-  ],
-  [
-    "Я сплю более, чем достаточно",
-    "I sleep more than enough"
-  ],
-  [
-    "Он ест слишком много",
-    "He eats too much"
-  ],
-  [
-    "Я не могу в это поверить",
-    "I can't believe it"
-  ],
-  [
-    "Я часто беру его с собой",
-    "I often take him with me"
-  ],
-  [
-    "Я ем на работе с моими коллегами",
-    "I eat at work with my colleagues"
-  ],
-  [
-    "Ты можешь взять эти деньги",
-    "You can take this money"
-  ],
-  [
-    "Она слишком мало спит",
-    "She sleeps too little"
-  ],
-  [
-    "Я слышу тебя лучше сейчас",
-    "I hear you better now"
-  ],
-  [
-    "Я хочу путешествовать больше",
-    "I want to travel more"
-  ],
-  [
-    "Он тренируется слишком мало",
-    "He trains too little"
-  ],
-  [
-    "Мы часто ходим туда вместе",
-    "We often go there together"
-  ],
-  [
-    "Я чувствую себя таким счастливым",
-    "I feel so happy"
-  ],
-  [
-    "Она тратит слишком много денег",
-    "She spends too much money"
-  ],
-  [
-    "Как ты живешь на эти деньги?",
-    "How do you live on this money?"
-  ],
-  [
-    "Ты веришь в Бога?",
-    "Do you believe in God?"
-  ],
-  [
-    "Где она живет?",
-    "Where does she live?"
-  ],
-  [
-    "Он показывает плохие результаты",
-    "He shows bad results"
-  ],
-  [
-    "Сколько денег вы получаете?",
-    "How much money do you get?"
-  ],
-  [
-    "Мы можем поговорить об этом позже",
-    "We can talk about it later"
-  ],
-  [
-    "Мне нужно идти",
-    "I need to go"
-  ],
-  [
-    "Они показывают это по телевизору",
-    "They show it on TV"
-  ],
-  [
-    "Я хочу начать этот курс",
-    "I want to start this course"
-  ],
-  [
-    "Я тренируюсь очень интенсивно",
-    "I train very intensively"
-  ],
-  [
-    "Она получает слишком мало денег",
-    "She gets too little money"
-  ],
-  [
-    "Я не могу поверить своим глазам",
-    "I can't believe my eyes"
-  ],
-  [
-    "Я заканчиваю свою работу очень поздно",
-    "I finish my work very late"
-  ],
-  [
-    "Я часто делаю эти ошибки",
-    "I often make these mistakes"
-  ],
-  [
-    "Я верю тебе",
-    "I believe you"
-  ],
-  [
-    "Мы говорим о разных вещах",
-    "We talk about different things"
-  ],
-  [
-    "Она не ест мясо",
-    "She doesn't eat meat"
-  ],
-  [
-    "Нам нужно поговорить об этом",
-    "We need to talk about it"
-  ],
-  [
-    "Он хочет путешествовать",
-    "He wants to travel"
-  ],
-  [
-    "Я чувствую себя намного лучше",
-    "I feel much better"
-  ],
-  [
-    "Я чувствую себя очень счастливым",
-    "I feel very happy"
-  ],
-  [
-    "Она чувствует себя действительно счастливой",
-    "She feels really happy"
-  ],
-  [
-    "Мы часто ходим в школу вместе",
-    "We often go to school together"
-  ],
-  [
-    "Они часто ходят туда вместе",
-    "They often go there together"
-  ],
-  [
-    "Я не могу поверить своим глазам",
-    "I can't believe my eyes"
-  ],
-  [
-    "Он не может поверить своим глазам",
-    "He can't believe his eyes"
-  ],
-  [
-    "Она спит слишком много",
-    "She sleeps too much"
-  ],
-  [
-    "Я могу слышать его сейчас",
-    "I can hear him now"
-  ],
-  [
-    "Я могу слышать их сейчас",
-    "I can hear them now"
-  ],
-  [
-    "Она показывает это по телевизору",
-    "She shows it on TV"
-  ],
-  [
-    "Он показывает это по телевизору",
-    "He shows it on TV"
-  ],
-  [
-    "Он верит в Бога?",
-    "Does he believe in God?"
-  ],
-  [
-    "Они верят в Бога?",
-    "Do they believe in God?"
-  ],
-  [
-    "Я заканчиваю свою работу очень рано",
-    "I finish my work very early"
-  ],
-  [
-    "Он получает очень большие деньги",
-    "He gets very big money"
-  ],
-  [
-    "Я получаю очень большие деньги",
-    "I get very big money"
-  ],
-  [
-    "Ты можешь скачать это сейчас",
-    "You can download it now"
-  ],
-  [
-    "Я хочу скачать этот файл",
-    "I want to download this file"
-  ],
-  [
-    "Я хотел бы скачать это видео",
-    "I'd like to download this video"
-  ],
-  [
-    "Мне нужно заплатить за это",
-    "I need to pay for it"
-  ],
-  [
-    "Мне нужно заплатить за эту услугу",
-    "I need to pay for this service"
-  ],
-  [
-    "Она спит слишком мало",
-    "She sleeps too little"
-  ],
-  [
-    "Я сплю более чем достаточно",
-    "I sleep more than enough"
-  ],
-  [
-    "Ты умеешь водить машину?",
-    "Can you drive a car?"
-  ],
-  [
-    "У меня достаточно мотивации",
-    "I have enough motivation"
-  ],
-  [
-    "У него достаточно денег",
-    "He has enough money"
-  ],
-  [
-    "Ты согласен или нет?",
-    "Do you agree or not?"
-  ],
-  [
-    "Я согласен с ней",
-    "I agree with her"
-  ],
-  [
-    "Я полностью согласен с этим",
-    "I absolutely agree with it"
-  ],
-  [
-    "Давай говорить по-английски!",
-    "Let's speak English!"
-  ],
-  [
-    "Ты можешь сесть здесь",
-    "You can sit here"
-  ],
-  [
-    "Ты можешь сесть там",
-    "You can sit there"
-  ],
-  [
-    "Он преподает английский и немецкий",
-    "He teaches English and German"
-  ],
-  [
-    "Это стоит намного дороже",
-    "It costs much more"
-  ],
-  [
-    "Это стоит десять евро",
-    "It costs ten euros"
-  ],
-  [
-    "Это стоит пять тысяч фунтов",
-    "It costs five thousand pounds"
-  ],
-  [
-    "Это стоит четыреста долларов",
-    "It costs four hundred dollars"
-  ],
-  [
-    "Она часто готовит",
-    "She often cooks"
-  ],
-  [
-    "Это может произойти",
-    "It can happen"
-  ],
-  [
-    "Он учится в школе",
-    "He studies at school"
-  ],
-  [
-    "Он учится в университете",
-    "He studies at university"
-  ],
-  [
-    "Я знаю, что мне нужно начать это",
-    "I know that I need to start it"
-  ],
-  [
-    "Мне кажется, что ты прав",
-    "It seems to me that you're right"
-  ],
-  [
-    "Они часто присылают мне эти письма",
-    "They often send me these letters"
-  ],
-  [
-    "Я часто забываю эти вещи",
-    "I often forget these things"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я не могу поверить своим глазам",
+    "en": "I can't believe my eyes"
+  },
+  {
+    "_id": 2,
+    "ru": "Ты веришь в Бога?",
+    "en": "Do you believe in God?"
+  },
+  {
+    "_id": 3,
+    "ru": "Как ты живешь на эти деньги?",
+    "en": "How do you live on this money?"
+  },
+  {
+    "_id": 4,
+    "ru": "Она получает слишком мало денег",
+    "en": "She gets too little money"
+  },
+  {
+    "_id": 5,
+    "ru": "Он ест слишком много",
+    "en": "He eats too much"
+  },
+  {
+    "_id": 6,
+    "ru": "Он делает ошибки снова и снова",
+    "en": "He makes mistakes again and again"
+  },
+  {
+    "_id": 7,
+    "ru": "Я часто хожу туда",
+    "en": "I often go there"
+  },
+  {
+    "_id": 8,
+    "ru": "Я могу слышать тебя сейчас",
+    "en": "I can hear you now"
+  },
+  {
+    "_id": 9,
+    "ru": "Ты можешь взять это",
+    "en": "You can take it"
+  },
+  {
+    "_id": 10,
+    "ru": "Я сплю более, чем достаточно",
+    "en": "I sleep more than enough"
+  },
+  {
+    "_id": 11,
+    "ru": "Он ест слишком много",
+    "en": "He eats too much"
+  },
+  {
+    "_id": 12,
+    "ru": "Я не могу в это поверить",
+    "en": "I can't believe it"
+  },
+  {
+    "_id": 13,
+    "ru": "Я часто беру его с собой",
+    "en": "I often take him with me"
+  },
+  {
+    "_id": 14,
+    "ru": "Я ем на работе с моими коллегами",
+    "en": "I eat at work with my colleagues"
+  },
+  {
+    "_id": 15,
+    "ru": "Ты можешь взять эти деньги",
+    "en": "You can take this money"
+  },
+  {
+    "_id": 16,
+    "ru": "Она слишком мало спит",
+    "en": "She sleeps too little"
+  },
+  {
+    "_id": 17,
+    "ru": "Я слышу тебя лучше сейчас",
+    "en": "I hear you better now"
+  },
+  {
+    "_id": 18,
+    "ru": "Я хочу путешествовать больше",
+    "en": "I want to travel more"
+  },
+  {
+    "_id": 19,
+    "ru": "Он тренируется слишком мало",
+    "en": "He trains too little"
+  },
+  {
+    "_id": 20,
+    "ru": "Мы часто ходим туда вместе",
+    "en": "We often go there together"
+  },
+  {
+    "_id": 21,
+    "ru": "Я чувствую себя таким счастливым",
+    "en": "I feel so happy"
+  },
+  {
+    "_id": 22,
+    "ru": "Она тратит слишком много денег",
+    "en": "She spends too much money"
+  },
+  {
+    "_id": 23,
+    "ru": "Как ты живешь на эти деньги?",
+    "en": "How do you live on this money?"
+  },
+  {
+    "_id": 24,
+    "ru": "Ты веришь в Бога?",
+    "en": "Do you believe in God?"
+  },
+  {
+    "_id": 25,
+    "ru": "Где она живет?",
+    "en": "Where does she live?"
+  },
+  {
+    "_id": 26,
+    "ru": "Он показывает плохие результаты",
+    "en": "He shows bad results"
+  },
+  {
+    "_id": 27,
+    "ru": "Сколько денег вы получаете?",
+    "en": "How much money do you get?"
+  },
+  {
+    "_id": 28,
+    "ru": "Мы можем поговорить об этом позже",
+    "en": "We can talk about it later"
+  },
+  {
+    "_id": 29,
+    "ru": "Мне нужно идти",
+    "en": "I need to go"
+  },
+  {
+    "_id": 30,
+    "ru": "Они показывают это по телевизору",
+    "en": "They show it on TV"
+  },
+  {
+    "_id": 31,
+    "ru": "Я хочу начать этот курс",
+    "en": "I want to start this course"
+  },
+  {
+    "_id": 32,
+    "ru": "Я тренируюсь очень интенсивно",
+    "en": "I train very intensively"
+  },
+  {
+    "_id": 33,
+    "ru": "Она получает слишком мало денег",
+    "en": "She gets too little money"
+  },
+  {
+    "_id": 34,
+    "ru": "Я не могу поверить своим глазам",
+    "en": "I can't believe my eyes"
+  },
+  {
+    "_id": 35,
+    "ru": "Я заканчиваю свою работу очень поздно",
+    "en": "I finish my work very late"
+  },
+  {
+    "_id": 36,
+    "ru": "Я часто делаю эти ошибки",
+    "en": "I often make these mistakes"
+  },
+  {
+    "_id": 37,
+    "ru": "Я верю тебе",
+    "en": "I believe you"
+  },
+  {
+    "_id": 38,
+    "ru": "Мы говорим о разных вещах",
+    "en": "We talk about different things"
+  },
+  {
+    "_id": 39,
+    "ru": "Она не ест мясо",
+    "en": "She doesn't eat meat"
+  },
+  {
+    "_id": 40,
+    "ru": "Нам нужно поговорить об этом",
+    "en": "We need to talk about it"
+  },
+  {
+    "_id": 41,
+    "ru": "Он хочет путешествовать",
+    "en": "He wants to travel"
+  },
+  {
+    "_id": 42,
+    "ru": "Я чувствую себя намного лучше",
+    "en": "I feel much better"
+  },
+  {
+    "_id": 43,
+    "ru": "Я чувствую себя очень счастливым",
+    "en": "I feel very happy"
+  },
+  {
+    "_id": 44,
+    "ru": "Она чувствует себя действительно счастливой",
+    "en": "She feels really happy"
+  },
+  {
+    "_id": 45,
+    "ru": "Мы часто ходим в школу вместе",
+    "en": "We often go to school together"
+  },
+  {
+    "_id": 46,
+    "ru": "Они часто ходят туда вместе",
+    "en": "They often go there together"
+  },
+  {
+    "_id": 47,
+    "ru": "Я не могу поверить своим глазам",
+    "en": "I can't believe my eyes"
+  },
+  {
+    "_id": 48,
+    "ru": "Он не может поверить своим глазам",
+    "en": "He can't believe his eyes"
+  },
+  {
+    "_id": 49,
+    "ru": "Она спит слишком много",
+    "en": "She sleeps too much"
+  },
+  {
+    "_id": 50,
+    "ru": "Я могу слышать его сейчас",
+    "en": "I can hear him now"
+  },
+  {
+    "_id": 51,
+    "ru": "Я могу слышать их сейчас",
+    "en": "I can hear them now"
+  },
+  {
+    "_id": 52,
+    "ru": "Она показывает это по телевизору",
+    "en": "She shows it on TV"
+  },
+  {
+    "_id": 53,
+    "ru": "Он показывает это по телевизору",
+    "en": "He shows it on TV"
+  },
+  {
+    "_id": 54,
+    "ru": "Он верит в Бога?",
+    "en": "Does he believe in God?"
+  },
+  {
+    "_id": 55,
+    "ru": "Они верят в Бога?",
+    "en": "Do they believe in God?"
+  },
+  {
+    "_id": 56,
+    "ru": "Я заканчиваю свою работу очень рано",
+    "en": "I finish my work very early"
+  },
+  {
+    "_id": 57,
+    "ru": "Он получает очень большие деньги",
+    "en": "He gets very big money"
+  },
+  {
+    "_id": 58,
+    "ru": "Я получаю очень большие деньги",
+    "en": "I get very big money"
+  },
+  {
+    "_id": 59,
+    "ru": "Ты можешь скачать это сейчас",
+    "en": "You can download it now"
+  },
+  {
+    "_id": 60,
+    "ru": "Я хочу скачать этот файл",
+    "en": "I want to download this file"
+  },
+  {
+    "_id": 61,
+    "ru": "Я хотел бы скачать это видео",
+    "en": "I'd like to download this video"
+  },
+  {
+    "_id": 62,
+    "ru": "Мне нужно заплатить за это",
+    "en": "I need to pay for it"
+  },
+  {
+    "_id": 63,
+    "ru": "Мне нужно заплатить за эту услугу",
+    "en": "I need to pay for this service"
+  },
+  {
+    "_id": 64,
+    "ru": "Она спит слишком мало",
+    "en": "She sleeps too little"
+  },
+  {
+    "_id": 65,
+    "ru": "Я сплю более чем достаточно",
+    "en": "I sleep more than enough"
+  },
+  {
+    "_id": 66,
+    "ru": "Ты умеешь водить машину?",
+    "en": "Can you drive a car?"
+  },
+  {
+    "_id": 67,
+    "ru": "У меня достаточно мотивации",
+    "en": "I have enough motivation"
+  },
+  {
+    "_id": 68,
+    "ru": "У него достаточно денег",
+    "en": "He has enough money"
+  },
+  {
+    "_id": 69,
+    "ru": "Ты согласен или нет?",
+    "en": "Do you agree or not?"
+  },
+  {
+    "_id": 70,
+    "ru": "Я согласен с ней",
+    "en": "I agree with her"
+  },
+  {
+    "_id": 71,
+    "ru": "Я полностью согласен с этим",
+    "en": "I absolutely agree with it"
+  },
+  {
+    "_id": 72,
+    "ru": "Давай говорить по-английски!",
+    "en": "Let's speak English!"
+  },
+  {
+    "_id": 73,
+    "ru": "Ты можешь сесть здесь",
+    "en": "You can sit here"
+  },
+  {
+    "_id": 74,
+    "ru": "Ты можешь сесть там",
+    "en": "You can sit there"
+  },
+  {
+    "_id": 75,
+    "ru": "Он преподает английский и немецкий",
+    "en": "He teaches English and German"
+  },
+  {
+    "_id": 76,
+    "ru": "Это стоит намного дороже",
+    "en": "It costs much more"
+  },
+  {
+    "_id": 77,
+    "ru": "Это стоит десять евро",
+    "en": "It costs ten euros"
+  },
+  {
+    "_id": 78,
+    "ru": "Это стоит пять тысяч фунтов",
+    "en": "It costs five thousand pounds"
+  },
+  {
+    "_id": 79,
+    "ru": "Это стоит четыреста долларов",
+    "en": "It costs four hundred dollars"
+  },
+  {
+    "_id": 80,
+    "ru": "Она часто готовит",
+    "en": "She often cooks"
+  },
+  {
+    "_id": 81,
+    "ru": "Это может произойти",
+    "en": "It can happen"
+  },
+  {
+    "_id": 82,
+    "ru": "Он учится в школе",
+    "en": "He studies at school"
+  },
+  {
+    "_id": 83,
+    "ru": "Он учится в университете",
+    "en": "He studies at university"
+  },
+  {
+    "_id": 84,
+    "ru": "Я знаю, что мне нужно начать это",
+    "en": "I know that I need to start it"
+  },
+  {
+    "_id": 85,
+    "ru": "Мне кажется, что ты прав",
+    "en": "It seems to me that you're right"
+  },
+  {
+    "_id": 86,
+    "ru": "Они часто присылают мне эти письма",
+    "en": "They often send me these letters"
+  },
+  {
+    "_id": 87,
+    "ru": "Я часто забываю эти вещи",
+    "en": "I often forget these things"
+  }
 ]

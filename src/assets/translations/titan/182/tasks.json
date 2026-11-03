@@ -1,370 +1,462 @@
 [
-  [
-    "Он очень предан им",
-    "He is very loyal to them"
-  ],
-  [
-    "Они ищут трудолюбивых и талантливых людей",
-    "They are looking for hard-working and talented people"
-  ],
-  [
-    "Я совсем этим не обеспокоен",
-    "I'm not worried about it at all"
-  ],
-  [
-    "Что за глупый вопрос!",
-    "What a foolish question!"
-  ],
-  [
-    "У тебя такая мощная организация",
-    "You have such a powerful organization"
-  ],
-  [
-    "У нее очень мелодичный голос",
-    "She has a very melodic voice"
-  ],
-  [
-    "Это чрезвычайно важное решение",
-    "It's an extremely important decision"
-  ],
-  [
-    "Он взял пустой стакан",
-    "He took an empty glass"
-  ],
-  [
-    "Улицы были пусты",
-    "The streets were empty"
-  ],
-  [
-    "Ответ кажется правильным",
-    "The answer seems right"
-  ],
-  [
-    "Какая интересная идея!",
-    "What an interesting idea!"
-  ],
-  [
-    "Ему нужен белый карандаш",
-    "He needs a white pencil"
-  ],
-  [
-    "Это очень мелодичный язык",
-    "It's a very melodic language"
-  ],
-  [
-    "У него очень влиятельные связи",
-    "He has very powerful connections"
-  ],
-  [
-    "Это было очень отважное решение",
-    "It was a very courageous decision"
-  ],
-  [
-    "Это общий принцип",
-    "It's a general principle"
-  ],
-  [
-    "Дом довольно старый",
-    "The house is quite old"
-  ],
-  [
-    "Это такая нестабильная ситуация",
-    "It is such an unstable situation"
-  ],
-  [
-    "Это была чрезвычайно важная встреча",
-    "It was an extremely important meeting"
-  ],
-  [
-    "Он более трудолюбивый человек",
-    "He is a more hard-working person"
-  ],
-  [
-    "Это такая сложная проблема",
-    "It's such a complex problem"
-  ],
-  [
-    "Время такое драгоценное",
-    "Time is so precious"
-  ],
-  [
-    "Это неофициальный вопрос",
-    "It's an informal question"
-  ],
-  [
-    "Это международная организация",
-    "It's an international organization"
-  ],
-  [
-    "Результат был довольно хорошим",
-    "The result was pretty good"
-  ],
-  [
-    "Это такая хорошая идея",
-    "It's such a good idea"
-  ],
-  [
-    "Это такой прекрасный день",
-    "It is such a lovely day"
-  ],
-  [
-    "Он такой отважный человек",
-    "He is such a courageous person"
-  ],
-  [
-    "Это был исторический момент",
-    "It was a historical moment"
-  ],
-  [
-    "У нас неформальные отношения",
-    "We have informal relations"
-  ],
-  [
-    "Это драгоценный камень",
-    "It's a precious stone"
-  ],
-  [
-    "В комнате очень сухо",
-    "It is very dry in the room"
-  ],
-  [
-    "Я в основном пользуюсь электронным калькулятором",
-    "I mostly use an electronic calculator"
-  ],
-  [
-    "Чего ты боишься?",
-    "What are you frightened of?"
-  ],
-  [
-    "Там очень сухо",
-    "It is very dry there"
-  ],
-  [
-    "Твой английский идеален",
-    "Your English is perfect"
-  ],
-  [
-    "Я пришел туда позже, чем обычно",
-    "I came there later than usual"
-  ],
-  [
-    "Мой любимый цвет белый",
-    "My favourite colour is white"
-  ],
-  [
-    "Мы не можем отрицать этот исторический факт",
-    "We can't deny this historical fact"
-  ],
-  [
-    "Босс предан своим сотрудникам",
-    "The boss is loyal to his employees"
-  ],
-  [
-    "Я так взволнован этим предложением",
-    "I am so excited about this offer"
-  ],
-  [
-    "К счастью, я выбрал правильный ответ",
-    "Luckily, I chose the correct answer"
-  ],
-  [
-    "Эти меры достаточно эффективны",
-    "These measures are effective enough"
-  ],
-  [
-    "Я вижу, что вы всегда полны энергии",
-    "I see that you are always full of energy"
-  ],
-  [
-    "Тот метод кажется достаточно эффективным",
-    "That method seems effective enough"
-  ],
-  [
-    "Это идеальное решение этой проблемы",
-    "It's a perfect solution to this problem"
-  ],
-  [
-    "Мы жили в период политической стабильности",
-    "We lived in a period of political stability"
-  ],
-  [
-    "Они решили не делать этого по политическим причинам",
-    "They decided not to do it for political reasons"
-  ],
-  [
-    "Город известен своими музеями",
-    "The city is famous for its museums"
-  ],
-  [
-    "Она так взволнована этой новостью",
-    "She feels so excited about this news"
-  ],
-  [
-    "Они использовали в основном искусственные материалы",
-    "They used mostly artificial materials"
-  ],
-  [
-    "Это общее правило существует",
-    "This general rule exists"
-  ],
-  [
-    "Я вижу, он всегда полон энтузиазма",
-    "I see that he is always full of enthusiasm"
-  ],
-  [
-    "Она всегда полна энергии",
-    "She is always full of energy"
-  ],
-  [
-    "Я знаю, что он всегда полон идей",
-    "I know that he is always full of ideas"
-  ],
-  [
-    "Я действительно смущен этим",
-    "I am really confused about it"
-  ],
-  [
-    "Я был так смущен его решением",
-    "I was so confused about his decision"
-  ],
-  [
-    "Ты действительно смущен этим?",
-    "Are you really confused about it?"
-  ],
-  [
-    "Его дети так сильно любят электронные гаджеты",
-    "His kids like electronic gadgets so much"
-  ],
-  [
-    "Большинство детей часто используют электронные гаджеты",
-    "Most kids often use electronic gadgets"
-  ],
-  [
-    "Женщина боялась говорить",
-    "The woman was frightened to speak"
-  ],
-  [
-    "Мне страшно об этом говорить",
-    "I am frightened to talk about it"
-  ],
-  [
-    "Эта женщина не боялась говорить об этом",
-    "This woman wasn't frightened to speak about it"
-  ],
-  [
-    "Он опоздал на встречу",
-    "He was late for the meeting"
-  ],
-  [
-    "Она опоздала на урок",
-    "She was late for the lesson"
-  ],
-  [
-    "Почему ты опоздал на эту встречу?",
-    "Why were you late for this meeting?"
-  ],
-  [
-    "Ребенок абсолютно здоров",
-    "The baby is absolutely healthy"
-  ],
-  [
-    "Этот ребенок действительно здоров",
-    "This baby is really healthy"
-  ],
-  [
-    "Ребенок здоров?",
-    "Is the baby healthy?"
-  ],
-  [
-    "В основном ими используются искусственные материалы",
-    "Mostly artificial materials are used by them"
-  ],
-  [
-    "Эти искусственные материалы используются ими?",
-    "Are these artificial materials used by them?"
-  ],
-  [
-    "Они обычно используют натуральные материалы",
-    "They usually use natural materials"
-  ],
-  [
-    "Я не думаю, что это будет немедленный успех",
-    "I don't think that it will be an immediate success"
-  ],
-  [
-    "Я думаю, что это будет большой успех",
-    "I think that it will be a great success"
-  ],
-  [
-    "Я думаю, что это будет огромный успех",
-    "I think that it will be a huge success"
-  ],
-  [
-    "Она в хорошей физической форме, несмотря на свой возраст",
-    "She is physically fit despite her age"
-  ],
-  [
-    "Она в хорошей физической форме, несмотря на свой возраст",
-    "She is physically fit in spite of her age"
-  ],
-  [
-    "Она физически здорова, несмотря на свой возраст",
-    "She is physically healthy despite her age"
-  ],
-  [
-    "Босс очень предан своим сотрудникам",
-    "The boss is very loyal to his employees"
-  ],
-  [
-    "Наш босс очень предан всем нам",
-    "Our boss is very loyal to all of us"
-  ],
-  [
-    "Их босс всегда предан им",
-    "Their boss is always loyal to them"
-  ],
-  [
-    "Он был болен, но теперь он здоров",
-    "He was ill but he is healthy now"
-  ],
-  [
-    "Как ты относишься к пластической хирургии?",
-    "What is your attitude to plastic surgery?"
-  ],
-  [
-    "Она решила не делать пластическую операцию",
-    "She decided not to have a plastic operation"
-  ],
-  [
-    "Город известен своими небоскребами",
-    "The city is famous for its skyscrapers"
-  ],
-  [
-    "Какой правильный ответ на этот вопрос?",
-    "What's the correct answer to this question?"
-  ],
-  [
-    "Ситуация кажется очень нестабильной в наше время",
-    "The situation seems very unstable nowadays"
-  ],
-  [
-    "Я стараюсь держать себя в форме",
-    "I try to keep fit"
-  ],
-  [
-    "Это не прекрасное место?",
-    "Isn't it a lovely place?"
-  ],
-  [
-    "Это заставляет меня чувствовать себя действительно смущенным",
-    "It makes me feel really confused"
-  ],
-  [
-    "Это был немедленный успех",
-    "It was an immediate success"
-  ],
-  [
-    "Он сказал мне всю правду",
-    "He told me the whole truth"
-  ]
+  {
+    "_id": 1,
+    "ru": "Он очень предан им",
+    "en": "He is very loyal to them"
+  },
+  {
+    "_id": 2,
+    "ru": "Они ищут трудолюбивых и талантливых людей",
+    "en": "They are looking for hard-working and talented people"
+  },
+  {
+    "_id": 3,
+    "ru": "Я совсем этим не обеспокоен",
+    "en": "I'm not worried about it at all"
+  },
+  {
+    "_id": 4,
+    "ru": "Что за глупый вопрос!",
+    "en": "What a foolish question!"
+  },
+  {
+    "_id": 5,
+    "ru": "У тебя такая мощная организация",
+    "en": "You have such a powerful organization"
+  },
+  {
+    "_id": 6,
+    "ru": "У нее очень мелодичный голос",
+    "en": "She has a very melodic voice"
+  },
+  {
+    "_id": 7,
+    "ru": "Это чрезвычайно важное решение",
+    "en": "It's an extremely important decision"
+  },
+  {
+    "_id": 8,
+    "ru": "Он взял пустой стакан",
+    "en": "He took an empty glass"
+  },
+  {
+    "_id": 9,
+    "ru": "Улицы были пусты",
+    "en": "The streets were empty"
+  },
+  {
+    "_id": 10,
+    "ru": "Ответ кажется правильным",
+    "en": "The answer seems right"
+  },
+  {
+    "_id": 11,
+    "ru": "Какая интересная идея!",
+    "en": "What an interesting idea!"
+  },
+  {
+    "_id": 12,
+    "ru": "Ему нужен белый карандаш",
+    "en": "He needs a white pencil"
+  },
+  {
+    "_id": 13,
+    "ru": "Это очень мелодичный язык",
+    "en": "It's a very melodic language"
+  },
+  {
+    "_id": 14,
+    "ru": "У него очень влиятельные связи",
+    "en": "He has very powerful connections"
+  },
+  {
+    "_id": 15,
+    "ru": "Это было очень отважное решение",
+    "en": "It was a very courageous decision"
+  },
+  {
+    "_id": 16,
+    "ru": "Это общий принцип",
+    "en": "It's a general principle"
+  },
+  {
+    "_id": 17,
+    "ru": "Дом довольно старый",
+    "en": "The house is quite old"
+  },
+  {
+    "_id": 18,
+    "ru": "Это такая нестабильная ситуация",
+    "en": "It is such an unstable situation"
+  },
+  {
+    "_id": 19,
+    "ru": "Это была чрезвычайно важная встреча",
+    "en": "It was an extremely important meeting"
+  },
+  {
+    "_id": 20,
+    "ru": "Он более трудолюбивый человек",
+    "en": "He is a more hard-working person"
+  },
+  {
+    "_id": 21,
+    "ru": "Это такая сложная проблема",
+    "en": "It's such a complex problem"
+  },
+  {
+    "_id": 22,
+    "ru": "Время такое драгоценное",
+    "en": "Time is so precious"
+  },
+  {
+    "_id": 23,
+    "ru": "Это неофициальный вопрос",
+    "en": "It's an informal question"
+  },
+  {
+    "_id": 24,
+    "ru": "Это международная организация",
+    "en": "It's an international organization"
+  },
+  {
+    "_id": 25,
+    "ru": "Результат был довольно хорошим",
+    "en": "The result was pretty good"
+  },
+  {
+    "_id": 26,
+    "ru": "Это такая хорошая идея",
+    "en": "It's such a good idea"
+  },
+  {
+    "_id": 27,
+    "ru": "Это такой прекрасный день",
+    "en": "It is such a lovely day"
+  },
+  {
+    "_id": 28,
+    "ru": "Он такой отважный человек",
+    "en": "He is such a courageous person"
+  },
+  {
+    "_id": 29,
+    "ru": "Это был исторический момент",
+    "en": "It was a historical moment"
+  },
+  {
+    "_id": 30,
+    "ru": "У нас неформальные отношения",
+    "en": "We have informal relations"
+  },
+  {
+    "_id": 31,
+    "ru": "Это драгоценный камень",
+    "en": "It's a precious stone"
+  },
+  {
+    "_id": 32,
+    "ru": "В комнате очень сухо",
+    "en": "It is very dry in the room"
+  },
+  {
+    "_id": 33,
+    "ru": "Я в основном пользуюсь электронным калькулятором",
+    "en": "I mostly use an electronic calculator"
+  },
+  {
+    "_id": 34,
+    "ru": "Чего ты боишься?",
+    "en": "What are you frightened of?"
+  },
+  {
+    "_id": 35,
+    "ru": "Там очень сухо",
+    "en": "It is very dry there"
+  },
+  {
+    "_id": 36,
+    "ru": "Твой английский идеален",
+    "en": "Your English is perfect"
+  },
+  {
+    "_id": 37,
+    "ru": "Я пришел туда позже, чем обычно",
+    "en": "I came there later than usual"
+  },
+  {
+    "_id": 38,
+    "ru": "Мой любимый цвет белый",
+    "en": "My favourite colour is white"
+  },
+  {
+    "_id": 39,
+    "ru": "Мы не можем отрицать этот исторический факт",
+    "en": "We can't deny this historical fact"
+  },
+  {
+    "_id": 40,
+    "ru": "Босс предан своим сотрудникам",
+    "en": "The boss is loyal to his employees"
+  },
+  {
+    "_id": 41,
+    "ru": "Я так взволнован этим предложением",
+    "en": "I am so excited about this offer"
+  },
+  {
+    "_id": 42,
+    "ru": "К счастью, я выбрал правильный ответ",
+    "en": "Luckily, I chose the correct answer"
+  },
+  {
+    "_id": 43,
+    "ru": "Эти меры достаточно эффективны",
+    "en": "These measures are effective enough"
+  },
+  {
+    "_id": 44,
+    "ru": "Я вижу, что вы всегда полны энергии",
+    "en": "I see that you are always full of energy"
+  },
+  {
+    "_id": 45,
+    "ru": "Тот метод кажется достаточно эффективным",
+    "en": "That method seems effective enough"
+  },
+  {
+    "_id": 46,
+    "ru": "Это идеальное решение этой проблемы",
+    "en": "It's a perfect solution to this problem"
+  },
+  {
+    "_id": 47,
+    "ru": "Мы жили в период политической стабильности",
+    "en": "We lived in a period of political stability"
+  },
+  {
+    "_id": 48,
+    "ru": "Они решили не делать этого по политическим причинам",
+    "en": "They decided not to do it for political reasons"
+  },
+  {
+    "_id": 49,
+    "ru": "Город известен своими музеями",
+    "en": "The city is famous for its museums"
+  },
+  {
+    "_id": 50,
+    "ru": "Она так взволнована этой новостью",
+    "en": "She feels so excited about this news"
+  },
+  {
+    "_id": 51,
+    "ru": "Они использовали в основном искусственные материалы",
+    "en": "They used mostly artificial materials"
+  },
+  {
+    "_id": 52,
+    "ru": "Это общее правило существует",
+    "en": "This general rule exists"
+  },
+  {
+    "_id": 53,
+    "ru": "Я вижу, он всегда полон энтузиазма",
+    "en": "I see that he is always full of enthusiasm"
+  },
+  {
+    "_id": 54,
+    "ru": "Она всегда полна энергии",
+    "en": "She is always full of energy"
+  },
+  {
+    "_id": 55,
+    "ru": "Я знаю, что он всегда полон идей",
+    "en": "I know that he is always full of ideas"
+  },
+  {
+    "_id": 56,
+    "ru": "Я действительно смущен этим",
+    "en": "I am really confused about it"
+  },
+  {
+    "_id": 57,
+    "ru": "Я был так смущен его решением",
+    "en": "I was so confused about his decision"
+  },
+  {
+    "_id": 58,
+    "ru": "Ты действительно смущен этим?",
+    "en": "Are you really confused about it?"
+  },
+  {
+    "_id": 59,
+    "ru": "Его дети так сильно любят электронные гаджеты",
+    "en": "His kids like electronic gadgets so much"
+  },
+  {
+    "_id": 60,
+    "ru": "Большинство детей часто используют электронные гаджеты",
+    "en": "Most kids often use electronic gadgets"
+  },
+  {
+    "_id": 61,
+    "ru": "Женщина боялась говорить",
+    "en": "The woman was frightened to speak"
+  },
+  {
+    "_id": 62,
+    "ru": "Мне страшно об этом говорить",
+    "en": "I am frightened to talk about it"
+  },
+  {
+    "_id": 63,
+    "ru": "Эта женщина не боялась говорить об этом",
+    "en": "This woman wasn't frightened to speak about it"
+  },
+  {
+    "_id": 64,
+    "ru": "Он опоздал на встречу",
+    "en": "He was late for the meeting"
+  },
+  {
+    "_id": 65,
+    "ru": "Она опоздала на урок",
+    "en": "She was late for the lesson"
+  },
+  {
+    "_id": 66,
+    "ru": "Почему ты опоздал на эту встречу?",
+    "en": "Why were you late for this meeting?"
+  },
+  {
+    "_id": 67,
+    "ru": "Ребенок абсолютно здоров",
+    "en": "The baby is absolutely healthy"
+  },
+  {
+    "_id": 68,
+    "ru": "Этот ребенок действительно здоров",
+    "en": "This baby is really healthy"
+  },
+  {
+    "_id": 69,
+    "ru": "Ребенок здоров?",
+    "en": "Is the baby healthy?"
+  },
+  {
+    "_id": 70,
+    "ru": "В основном ими используются искусственные материалы",
+    "en": "Mostly artificial materials are used by them"
+  },
+  {
+    "_id": 71,
+    "ru": "Эти искусственные материалы используются ими?",
+    "en": "Are these artificial materials used by them?"
+  },
+  {
+    "_id": 72,
+    "ru": "Они обычно используют натуральные материалы",
+    "en": "They usually use natural materials"
+  },
+  {
+    "_id": 73,
+    "ru": "Я не думаю, что это будет немедленный успех",
+    "en": "I don't think that it will be an immediate success"
+  },
+  {
+    "_id": 74,
+    "ru": "Я думаю, что это будет большой успех",
+    "en": "I think that it will be a great success"
+  },
+  {
+    "_id": 75,
+    "ru": "Я думаю, что это будет огромный успех",
+    "en": "I think that it will be a huge success"
+  },
+  {
+    "_id": 76,
+    "ru": "Она в хорошей физической форме, несмотря на свой возраст",
+    "en": "She is physically fit despite her age"
+  },
+  {
+    "_id": 77,
+    "ru": "Она в хорошей физической форме, несмотря на свой возраст",
+    "en": "She is physically fit in spite of her age"
+  },
+  {
+    "_id": 78,
+    "ru": "Она физически здорова, несмотря на свой возраст",
+    "en": "She is physically healthy despite her age"
+  },
+  {
+    "_id": 79,
+    "ru": "Босс очень предан своим сотрудникам",
+    "en": "The boss is very loyal to his employees"
+  },
+  {
+    "_id": 80,
+    "ru": "Наш босс очень предан всем нам",
+    "en": "Our boss is very loyal to all of us"
+  },
+  {
+    "_id": 81,
+    "ru": "Их босс всегда предан им",
+    "en": "Their boss is always loyal to them"
+  },
+  {
+    "_id": 82,
+    "ru": "Он был болен, но теперь он здоров",
+    "en": "He was ill but he is healthy now"
+  },
+  {
+    "_id": 83,
+    "ru": "Как ты относишься к пластической хирургии?",
+    "en": "What is your attitude to plastic surgery?"
+  },
+  {
+    "_id": 84,
+    "ru": "Она решила не делать пластическую операцию",
+    "en": "She decided not to have a plastic operation"
+  },
+  {
+    "_id": 85,
+    "ru": "Город известен своими небоскребами",
+    "en": "The city is famous for its skyscrapers"
+  },
+  {
+    "_id": 86,
+    "ru": "Какой правильный ответ на этот вопрос?",
+    "en": "What's the correct answer to this question?"
+  },
+  {
+    "_id": 87,
+    "ru": "Ситуация кажется очень нестабильной в наше время",
+    "en": "The situation seems very unstable nowadays"
+  },
+  {
+    "_id": 88,
+    "ru": "Я стараюсь держать себя в форме",
+    "en": "I try to keep fit"
+  },
+  {
+    "_id": 89,
+    "ru": "Это не прекрасное место?",
+    "en": "Isn't it a lovely place?"
+  },
+  {
+    "_id": 90,
+    "ru": "Это заставляет меня чувствовать себя действительно смущенным",
+    "en": "It makes me feel really confused"
+  },
+  {
+    "_id": 91,
+    "ru": "Это был немедленный успех",
+    "en": "It was an immediate success"
+  },
+  {
+    "_id": 92,
+    "ru": "Он сказал мне всю правду",
+    "en": "He told me the whole truth"
+  }
 ]

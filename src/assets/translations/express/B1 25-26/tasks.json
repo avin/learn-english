@@ -1,78 +1,97 @@
 [
-  [
-    "На что он уставился?",
-    "What is he staring at?"
-  ],
-  [
-    "Некоторые затраты были минимизированы",
-    "Some of the costs were minimized"
-  ],
-  [
-    "Мы гуляем в парке с утра",
-    "We've been walking in the park since morning"
-  ],
-  [
-    "Посылку только что доставили",
-    "The parcel has just been delivered"
-  ],
-  [
-    "Было сказано, что он нарушил закон",
-    "It was said that he had violated the law"
-  ],
-  [
-    "Как я уже сказал, я выбросил это",
-    "As I've already said, I had thrown it away"
-  ],
-  [
-    "Как долго вы встречаетесь?",
-    "How long have you been dating?"
-  ],
-  [
-    "Я повесил свою куртку там",
-    "I hung my jacket there"
-  ],
-  [
-    "Он сказал, что это спасло ей жизнь",
-    "He said that it had saved her life"
-  ],
-  [
-    "Не могли бы вы помочь мне подвинуть коробку?",
-    "Could you help me move the box?"
-  ],
-  [
-    "Он сказал, что повредил колено",
-    "He said that he had hurt his knee"
-  ],
-  [
-    "Он сказал мне, что купил новый дом",
-    "He told me that he had bought a new house"
-  ],
-  [
-    "Как мы видим, он был действительно испуган",
-    "As we see, he was really frightened"
-  ],
-  [
-    "Ему помогают и поддерживают",
-    "He's helped and supported"
-  ],
-  [
-    "Прежде всего, я хотел поблагодарить вас за то, что пришли",
-    "First of all, I'd like to thank you for coming"
-  ],
-  [
-    "Я уже проснулся к тому времени, когда он мне позвонил",
-    "I had already woken up by the time he called me"
-  ],
-  [
-    "Он обнял ее очень крепко",
-    "He hugged her very tightly"
-  ],
-  [
-    "Я вижу, это платье тебе подходит идеально",
-    "I see this dress suits you perfectly"
-  ],
-  [
-    "Я думаю об этом со вчерашнего дня",
-    "I've been thinking about it since yesterday"
-  ]
+  {
+    "_id": 1,
+    "ru": "На что он уставился?",
+    "en": "What is he staring at?"
+  },
+  {
+    "_id": 2,
+    "ru": "Некоторые затраты были минимизированы",
+    "en": "Some of the costs were minimized"
+  },
+  {
+    "_id": 3,
+    "ru": "Мы гуляем в парке с утра",
+    "en": "We've been walking in the park since morning"
+  },
+  {
+    "_id": 4,
+    "ru": "Посылку только что доставили",
+    "en": "The parcel has just been delivered"
+  },
+  {
+    "_id": 5,
+    "ru": "Было сказано, что он нарушил закон",
+    "en": "It was said that he had violated the law"
+  },
+  {
+    "_id": 6,
+    "ru": "Как я уже сказал, я выбросил это",
+    "en": "As I've already said, I had thrown it away"
+  },
+  {
+    "_id": 7,
+    "ru": "Как долго вы встречаетесь?",
+    "en": "How long have you been dating?"
+  },
+  {
+    "_id": 8,
+    "ru": "Я повесил свою куртку там",
+    "en": "I hung my jacket there"
+  },
+  {
+    "_id": 9,
+    "ru": "Он сказал, что это спасло ей жизнь",
+    "en": "He said that it had saved her life"
+  },
+  {
+    "_id": 10,
+    "ru": "Не могли бы вы помочь мне подвинуть коробку?",
+    "en": "Could you help me move the box?"
+  },
+  {
+    "_id": 11,
+    "ru": "Он сказал, что повредил колено",
+    "en": "He said that he had hurt his knee"
+  },
+  {
+    "_id": 12,
+    "ru": "Он сказал мне, что купил новый дом",
+    "en": "He told me that he had bought a new house"
+  },
+  {
+    "_id": 13,
+    "ru": "Как мы видим, он был действительно испуган",
+    "en": "As we see, he was really frightened"
+  },
+  {
+    "_id": 14,
+    "ru": "Ему помогают и поддерживают",
+    "en": "He's helped and supported"
+  },
+  {
+    "_id": 15,
+    "ru": "Прежде всего, я хотел поблагодарить вас за то, что пришли",
+    "en": "First of all, I'd like to thank you for coming"
+  },
+  {
+    "_id": 16,
+    "ru": "Я уже проснулся к тому времени, когда он мне позвонил",
+    "en": "I had already woken up by the time he called me"
+  },
+  {
+    "_id": 17,
+    "ru": "Он обнял ее очень крепко",
+    "en": "He hugged her very tightly"
+  },
+  {
+    "_id": 18,
+    "ru": "Я вижу, это платье тебе подходит идеально",
+    "en": "I see this dress suits you perfectly"
+  },
+  {
+    "_id": 19,
+    "ru": "Я думаю об этом со вчерашнего дня",
+    "en": "I've been thinking about it since yesterday"
+  }
 ]

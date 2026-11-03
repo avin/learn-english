@@ -1,102 +1,127 @@
 [
-  [
-    "Она еще не простила его",
-    "She hasn't forgiven him yet"
-  ],
-  [
-    "Кто-то побил его очень сильно",
-    "Someone beat him very badly"
-  ],
-  [
-    "Вам нужно перейти улицу, и затем вы увидите это слева",
-    "You need to cross the street and then you'll see it on the left"
-  ],
-  [
-    "Он прервал ее, когда она начала говорить о политике",
-    "He interrupted her when she started talking about politics"
-  ],
-  [
-    "Мне кажется, что он прав сейчас",
-    "It seems to me that he is right now"
-  ],
-  [
-    "Он сказал мне, что они проиграли игру",
-    "He told me that they had lost the game"
-  ],
-  [
-    "Я пытаюсь решить эту проблему сейчас",
-    "I'm trying to solve this problem now"
-  ],
-  [
-    "Я постараюсь объяснить тебе это",
-    "I'll try to explain it to you"
-  ],
-  [
-    "Он сказал, что простил ее",
-    "He said that he had forgiven her"
-  ],
-  [
-    "Я предполагаю, что это случится однажды",
-    "I suppose that it'll happen one day"
-  ],
-  [
-    "Пока он смотрел то видео, она что-то готовила",
-    "While he was watching that video, she was cooking something"
-  ],
-  [
-    "Кто контролирует это сейчас?",
-    "Who is controlling it now?"
-  ],
-  [
-    "Что касается меня, я не представляю свою жизнь без этого",
-    "As for me, I can't imagine my life without it"
-  ],
-  [
-    "Ее сердце билось так быстро. Она очень нервничала",
-    "Her heart was beating so fast. She was very nervous"
-  ],
-  [
-    "Не перебивай меня, пожалуйста!",
-    "Don't interrupt me, please!"
-  ],
-  [
-    "Когда приехала полиция, они убегали",
-    "When the police came, they were running away"
-  ],
-  [
-    "Я пытался сосредоточиться, когда услышал странный шум",
-    "I was trying to concentrate when I heard a strange noise"
-  ],
-  [
-    "Я, в основном, заказывал это онлайн",
-    "I mostly ordered it online"
-  ],
-  [
-    "Он создал этот канал несколько лет назад.",
-    "He created this channel several years ago"
-  ],
-  [
-    "Я всегда уважал такого рода взгляды",
-    "I've always respected this kind of views"
-  ],
-  [
-    "Я никогда не говорил таких вещей",
-    "I've never said such things"
-  ],
-  [
-    "Действительно трудно представить это",
-    "It's really hard to imagine it"
-  ],
-  [
-    "Я уже поделился этим видео со своими друзьями",
-    "I've already shared this video with my friends"
-  ],
-  [
-    "Я получил очень странное сообщение",
-    "I got a very strange message"
-  ],
-  [
-    "Пожалуйста, не перебивай меня!",
-    "Please, don't interrupt me!"
-  ]
+  {
+    "_id": 1,
+    "ru": "Она еще не простила его",
+    "en": "She hasn't forgiven him yet"
+  },
+  {
+    "_id": 2,
+    "ru": "Кто-то побил его очень сильно",
+    "en": "Someone beat him very badly"
+  },
+  {
+    "_id": 3,
+    "ru": "Вам нужно перейти улицу, и затем вы увидите это слева",
+    "en": "You need to cross the street and then you'll see it on the left"
+  },
+  {
+    "_id": 4,
+    "ru": "Он прервал ее, когда она начала говорить о политике",
+    "en": "He interrupted her when she started talking about politics"
+  },
+  {
+    "_id": 5,
+    "ru": "Мне кажется, что он прав сейчас",
+    "en": "It seems to me that he is right now"
+  },
+  {
+    "_id": 6,
+    "ru": "Он сказал мне, что они проиграли игру",
+    "en": "He told me that they had lost the game"
+  },
+  {
+    "_id": 7,
+    "ru": "Я пытаюсь решить эту проблему сейчас",
+    "en": "I'm trying to solve this problem now"
+  },
+  {
+    "_id": 8,
+    "ru": "Я постараюсь объяснить тебе это",
+    "en": "I'll try to explain it to you"
+  },
+  {
+    "_id": 9,
+    "ru": "Он сказал, что простил ее",
+    "en": "He said that he had forgiven her"
+  },
+  {
+    "_id": 10,
+    "ru": "Я предполагаю, что это случится однажды",
+    "en": "I suppose that it'll happen one day"
+  },
+  {
+    "_id": 11,
+    "ru": "Пока он смотрел то видео, она что-то готовила",
+    "en": "While he was watching that video, she was cooking something"
+  },
+  {
+    "_id": 12,
+    "ru": "Кто контролирует это сейчас?",
+    "en": "Who is controlling it now?"
+  },
+  {
+    "_id": 13,
+    "ru": "Что касается меня, я не представляю свою жизнь без этого",
+    "en": "As for me, I can't imagine my life without it"
+  },
+  {
+    "_id": 14,
+    "ru": "Ее сердце билось так быстро. Она очень нервничала",
+    "en": "Her heart was beating so fast. She was very nervous"
+  },
+  {
+    "_id": 15,
+    "ru": "Не перебивай меня, пожалуйста!",
+    "en": "Don't interrupt me, please!"
+  },
+  {
+    "_id": 16,
+    "ru": "Когда приехала полиция, они убегали",
+    "en": "When the police came, they were running away"
+  },
+  {
+    "_id": 17,
+    "ru": "Я пытался сосредоточиться, когда услышал странный шум",
+    "en": "I was trying to concentrate when I heard a strange noise"
+  },
+  {
+    "_id": 18,
+    "ru": "Я, в основном, заказывал это онлайн",
+    "en": "I mostly ordered it online"
+  },
+  {
+    "_id": 19,
+    "ru": "Он создал этот канал несколько лет назад.",
+    "en": "He created this channel several years ago"
+  },
+  {
+    "_id": 20,
+    "ru": "Я всегда уважал такого рода взгляды",
+    "en": "I've always respected this kind of views"
+  },
+  {
+    "_id": 21,
+    "ru": "Я никогда не говорил таких вещей",
+    "en": "I've never said such things"
+  },
+  {
+    "_id": 22,
+    "ru": "Действительно трудно представить это",
+    "en": "It's really hard to imagine it"
+  },
+  {
+    "_id": 23,
+    "ru": "Я уже поделился этим видео со своими друзьями",
+    "en": "I've already shared this video with my friends"
+  },
+  {
+    "_id": 24,
+    "ru": "Я получил очень странное сообщение",
+    "en": "I got a very strange message"
+  },
+  {
+    "_id": 25,
+    "ru": "Пожалуйста, не перебивай меня!",
+    "en": "Please, don't interrupt me!"
+  }
 ]

@@ -1,402 +1,502 @@
 [
-  [
-    "Я не пью кофе сейчас",
-    "I am not drinking coffee now"
-  ],
-  [
-    "Они не ждут его сейчас",
-    "They are not waiting for him"
-  ],
-  [
-    "Он не учит английский сейчас",
-    "He is not learning English"
-  ],
-  [
-    "Я не танцую сейчас",
-    "I’m not dancing"
-  ],
-  [
-    "Они не смотрят телевизор сейчас",
-    "They aren’t watching TV"
-  ],
-  [
-    "Он не ждет тебя сейчас",
-    "He isn’t waiting for you"
-  ],
-  [
-    "Она не печет хлеб сейчас",
-    "She isn't baking bread now"
-  ],
-  [
-    "Я не думаю об этом в данный момент",
-    "I'm not thinking about it at the moment"
-  ],
-  [
-    "Она нам ничего не говорит",
-    "She isn't telling us anything"
-  ],
-  [
-    "Его английский не становится лучше",
-    "His English isn't getting better"
-  ],
-  [
-    "Он не пытается ничего изменить",
-    "He isn't trying to change anything"
-  ],
-  [
-    "Это не помогает мне сейчас",
-    "It is not helping me now"
-  ],
-  [
-    "Она там не работает в данный момент",
-    "She isn't working there at the moment"
-  ],
-  [
-    "Сегодня не идет снег",
-    "It isn't snowing today"
-  ],
-  [
-    "Она не носит джинсы сегодня",
-    "She isn't wearing jeans today"
-  ],
-  [
-    "Я сейчас не разговариваю по телефону",
-    "I'm not talking on the phone now"
-  ],
-  [
-    "Я не ухожу из дома сейчас",
-    "I'm not leaving home now"
-  ],
-  [
-    "Они не готовят сосиски сейчас",
-    "They aren't cooking sausages now"
-  ],
-  [
-    "Я сейчас не иду по улице",
-    "I'm not walking in the street now"
-  ],
-  [
-    "Он не разговаривает со своим другом",
-    "He isn't talking to his friend"
-  ],
-  [
-    "Она не идет с нами в парк",
-    "She isn't going to the park with us"
-  ],
-  [
-    "Они не играют во дворе",
-    "They aren't playing in the yard"
-  ],
-  [
-    "Я делаю эти упражнения сейчас",
-    "I'm doing these exercises now"
-  ],
-  [
-    "Они не критикуют его",
-    "They aren't criticizing him"
-  ],
-  [
-    "Она не улыбается сейчас",
-    "She isn't smiling now"
-  ],
-  [
-    "Мы сейчас не ужинаем",
-    "We aren't having dinner now"
-  ],
-  [
-    "Он не слушает меня",
-    "He isn't listening to me"
-  ],
-  [
-    "Он не готовит сосиски",
-    "He isn't cooking sausages"
-  ],
-  [
-    "Это не происходит в настоящее время",
-    "It isn't happening at present"
-  ],
-  [
-    "Она не печет торт",
-    "She isn't baking a cake"
-  ],
-  [
-    "Дождь не идет",
-    "It isn't raining"
-  ],
-  [
-    "Ты не говоришь это прямо",
-    "You aren't saying it directly"
-  ],
-  [
-    "Я не трачу время",
-    "I'm not wasting time"
-  ],
-  [
-    "Снег не идет",
-    "It isn't snowing"
-  ],
-  [
-    "Он ничего не говорит",
-    "He isn't saying anything"
-  ],
-  [
-    "Они не задают никаких вопросов",
-    "They aren't asking any questions"
-  ],
-  [
-    "Я не ухожу сейчас",
-    "I am not leaving now"
-  ],
-  [
-    "Мы не обсуждаем это в данный момент",
-    "We aren't discussing it at the moment"
-  ],
-  [
-    "Сегодня не идет дождь",
-    "It isn't raining today"
-  ],
-  [
-    "Он не носит галстук сегодня",
-    "He isn't wearing a tie today"
-  ],
-  [
-    "Он не едет быстро",
-    "He isn't driving fast"
-  ],
-  [
-    "Мы не ждем этого",
-    "We aren't waiting for it"
-  ],
-  [
-    "Я не обедаю сейчас",
-    "I'm not having lunch now"
-  ],
-  [
-    "Он сейчас не идет в спортзал",
-    "He isn't going to the gym now"
-  ],
-  [
-    "Я сейчас не смотрю телевизор",
-    "I'm not watching TV now"
-  ],
-  [
-    "Она сейчас не работает в этом отделе",
-    "She isn't working in this department now"
-  ],
-  [
-    "Он не сидит в кресле. Он сидит на табуретке",
-    "He isn't sitting in an armchair. He's sitting on a stool"
-  ],
-  [
-    "Я не читаю книгу. Я читаю статью",
-    "I'm not reading a book. I'm reading an article"
-  ],
-  [
-    "Сейчас он не играет на скрипке. Он играет на гитаре",
-    "He isn't playing the violin now. He's playing the guitar"
-  ],
-  [
-    "Я не думаю об этом. Я думаю о других вещах",
-    "I'm not thinking about it. I'm thinking about other things"
-  ],
-  [
-    "Они не плавают. Они лежат на пляже",
-    "They aren't swimming. They are lying on the beach"
-  ],
-  [
-    "Он не работает. Он отдыхает",
-    "He isn't working. He's having a rest"
-  ],
-  [
-    "Он не спит. Он учится",
-    "He isn't sleeping. He is studying"
-  ],
-  [
-    "Погода не улучшается",
-    "The weather isn't improving"
-  ],
-  [
-    "Я стараюсь не думать об этом",
-    "I'm trying not to think about it"
-  ],
-  [
-    "Она не танцует. Она поет",
-    "She isn't dancing. She is singing"
-  ],
-  [
-    "Большинство людей не становятся богаче",
-    "Most people aren't getting richer"
-  ],
-  [
-    "Дни не становятся теплее",
-    "The days aren't getting warmer"
-  ],
-  [
-    "Погода не становится лучше",
-    "The weather isn't getting better"
-  ],
-  [
-    "Дни не становятся длиннее",
-    "The days aren't getting longer"
-  ],
-  [
-    "Эти вещи не помогают мне сейчас",
-    "These things are not helping me now"
-  ],
-  [
-    "Он не помогает мне сейчас",
-    "He is not helping me now"
-  ],
-  [
-    "Эти уроки не помогают ему сейчас",
-    "These lessons are not helping him now"
-  ],
-  [
-    "Он не пишет письмо. Он пишет сообщение",
-    "He isn't writing a letter. He is writing a message"
-  ],
-  [
-    "Он не пишет сообщение. Он пишет письмо",
-    "He isn't writing a message. He is writing a letter"
-  ],
-  [
-    "Он не читает книгу. Он читает журнал",
-    "He isn't reading a book. He is reading a magazine"
-  ],
-  [
-    "Мальчики сейчас не играют во дворе",
-    "The boys aren't playing in the yard now"
-  ],
-  [
-    "Дети играют во дворе сейчас",
-    "The children are playing in the yard now"
-  ],
-  [
-    "Мальчики не играют в футбол сейчас",
-    "The boys aren't playing football now"
-  ],
-  [
-    "Я стараюсь не тратить время впустую",
-    "I'm trying not to waste time"
-  ],
-  [
-    "Я стараюсь не делать этого",
-    "I'm trying not to do it"
-  ],
-  [
-    "Я пытаюсь делать это очень хорошо",
-    "I'm trying to do it very well"
-  ],
-  [
-    "Она не лежит на диване. Она лежит в кровати",
-    "She isn't lying on the sofa. She is lying in bed"
-  ],
-  [
-    "Я не сижу на стуле. Я сижу в кресле",
-    "I'm not sitting on a chair. I'm sitting in an armchair"
-  ],
-  [
-    "Она лежит на диване в данный момент",
-    "She is lying on the sofa at the moment"
-  ],
-  [
-    "Собака не лает",
-    "The dog isn't barking"
-  ],
-  [
-    "Собака лает",
-    "The dog is barking"
-  ],
-  [
-    "Собака не лает очень громко",
-    "The dog isn't barking very loudly"
-  ],
-  [
-    "Он не пьет пиво сейчас. Он пьет сок",
-    "He isn't drinking beer now. He's drinking juice"
-  ],
-  [
-    "Я не пью кофе сейчас. Я пью чай",
-    "I'm not drinking coffee now. I'm drinking tea"
-  ],
-  [
-    "Он не пьет сок сейчас. Он пьет пиво",
-    "He isn't drinking juice now. He's drinking beer"
-  ],
-  [
-    "Это не приносит ему каких-либо денег сейчас",
-    "It isn't bringing him any money now"
-  ],
-  [
-    "Это приносит ему много денег сейчас",
-    "It is bringing him much money now"
-  ],
-  [
-    "Он не дает мне каких-либо денег сейчас",
-    "He isn't giving me any money now"
-  ],
-  [
-    "Эта вещь мне сейчас не помогает",
-    "This thing is not helping me now"
-  ],
-  [
-    "Эта вещь сейчас действительно мне помогает",
-    "This thing is really helping me now"
-  ],
-  [
-    "Она сейчас мне не помогает",
-    "She isn't helping me now"
-  ],
-  [
-    "Люди не покупают это сейчас",
-    "People aren't buying it now"
-  ],
-  [
-    "Цены не становятся ниже",
-    "The prices aren't getting lower"
-  ],
-  [
-    "Дождь не идет. Идет снег",
-    "It isn't raining. It is snowing"
-  ],
-  [
-    "Я не завтракаю сейчас",
-    "I'm not having breakfast now"
-  ],
-  [
-    "Он не изучает французский. Он изучает немецкий",
-    "He isn't learning French. He is learning German"
-  ],
-  [
-    "Я не отдыхаю. Я работаю",
-    "I'm not having a rest. I'm working"
-  ],
-  [
-    "Я не думаю об этом. Я думаю о другой вещи",
-    "I'm not thinking about it. I'm thinking about another thing"
-  ],
-  [
-    "Я не пью кофе сейчас, я пью чай",
-    "I'm not drinking coffee now, I'm drinking tea"
-  ],
-  [
-    "Дни не становятся солнечнее",
-    "The days aren't getting sunnier"
-  ],
-  [
-    "Ветер не дует сейчас",
-    "The wind isn't blowing now"
-  ],
-  [
-    "Собаки не лают",
-    "The dogs aren't barking"
-  ],
-  [
-    "Снег не идет. Идет дождь",
-    "It isn't snowing. It is raining"
-  ],
-  [
-    "Солнце не светит",
-    "The sun isn't shining"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я не пью кофе сейчас",
+    "en": "I am not drinking coffee now"
+  },
+  {
+    "_id": 2,
+    "ru": "Они не ждут его сейчас",
+    "en": "They are not waiting for him"
+  },
+  {
+    "_id": 3,
+    "ru": "Он не учит английский сейчас",
+    "en": "He is not learning English"
+  },
+  {
+    "_id": 4,
+    "ru": "Я не танцую сейчас",
+    "en": "I’m not dancing"
+  },
+  {
+    "_id": 5,
+    "ru": "Они не смотрят телевизор сейчас",
+    "en": "They aren’t watching TV"
+  },
+  {
+    "_id": 6,
+    "ru": "Он не ждет тебя сейчас",
+    "en": "He isn’t waiting for you"
+  },
+  {
+    "_id": 7,
+    "ru": "Она не печет хлеб сейчас",
+    "en": "She isn't baking bread now"
+  },
+  {
+    "_id": 8,
+    "ru": "Я не думаю об этом в данный момент",
+    "en": "I'm not thinking about it at the moment"
+  },
+  {
+    "_id": 9,
+    "ru": "Она нам ничего не говорит",
+    "en": "She isn't telling us anything"
+  },
+  {
+    "_id": 10,
+    "ru": "Его английский не становится лучше",
+    "en": "His English isn't getting better"
+  },
+  {
+    "_id": 11,
+    "ru": "Он не пытается ничего изменить",
+    "en": "He isn't trying to change anything"
+  },
+  {
+    "_id": 12,
+    "ru": "Это не помогает мне сейчас",
+    "en": "It is not helping me now"
+  },
+  {
+    "_id": 13,
+    "ru": "Она там не работает в данный момент",
+    "en": "She isn't working there at the moment"
+  },
+  {
+    "_id": 14,
+    "ru": "Сегодня не идет снег",
+    "en": "It isn't snowing today"
+  },
+  {
+    "_id": 15,
+    "ru": "Она не носит джинсы сегодня",
+    "en": "She isn't wearing jeans today"
+  },
+  {
+    "_id": 16,
+    "ru": "Я сейчас не разговариваю по телефону",
+    "en": "I'm not talking on the phone now"
+  },
+  {
+    "_id": 17,
+    "ru": "Я не ухожу из дома сейчас",
+    "en": "I'm not leaving home now"
+  },
+  {
+    "_id": 18,
+    "ru": "Они не готовят сосиски сейчас",
+    "en": "They aren't cooking sausages now"
+  },
+  {
+    "_id": 19,
+    "ru": "Я сейчас не иду по улице",
+    "en": "I'm not walking in the street now"
+  },
+  {
+    "_id": 20,
+    "ru": "Он не разговаривает со своим другом",
+    "en": "He isn't talking to his friend"
+  },
+  {
+    "_id": 21,
+    "ru": "Она не идет с нами в парк",
+    "en": "She isn't going to the park with us"
+  },
+  {
+    "_id": 22,
+    "ru": "Они не играют во дворе",
+    "en": "They aren't playing in the yard"
+  },
+  {
+    "_id": 23,
+    "ru": "Я делаю эти упражнения сейчас",
+    "en": "I'm doing these exercises now"
+  },
+  {
+    "_id": 24,
+    "ru": "Они не критикуют его",
+    "en": "They aren't criticizing him"
+  },
+  {
+    "_id": 25,
+    "ru": "Она не улыбается сейчас",
+    "en": "She isn't smiling now"
+  },
+  {
+    "_id": 26,
+    "ru": "Мы сейчас не ужинаем",
+    "en": "We aren't having dinner now"
+  },
+  {
+    "_id": 27,
+    "ru": "Он не слушает меня",
+    "en": "He isn't listening to me"
+  },
+  {
+    "_id": 28,
+    "ru": "Он не готовит сосиски",
+    "en": "He isn't cooking sausages"
+  },
+  {
+    "_id": 29,
+    "ru": "Это не происходит в настоящее время",
+    "en": "It isn't happening at present"
+  },
+  {
+    "_id": 30,
+    "ru": "Она не печет торт",
+    "en": "She isn't baking a cake"
+  },
+  {
+    "_id": 31,
+    "ru": "Дождь не идет",
+    "en": "It isn't raining"
+  },
+  {
+    "_id": 32,
+    "ru": "Ты не говоришь это прямо",
+    "en": "You aren't saying it directly"
+  },
+  {
+    "_id": 33,
+    "ru": "Я не трачу время",
+    "en": "I'm not wasting time"
+  },
+  {
+    "_id": 34,
+    "ru": "Снег не идет",
+    "en": "It isn't snowing"
+  },
+  {
+    "_id": 35,
+    "ru": "Он ничего не говорит",
+    "en": "He isn't saying anything"
+  },
+  {
+    "_id": 36,
+    "ru": "Они не задают никаких вопросов",
+    "en": "They aren't asking any questions"
+  },
+  {
+    "_id": 37,
+    "ru": "Я не ухожу сейчас",
+    "en": "I am not leaving now"
+  },
+  {
+    "_id": 38,
+    "ru": "Мы не обсуждаем это в данный момент",
+    "en": "We aren't discussing it at the moment"
+  },
+  {
+    "_id": 39,
+    "ru": "Сегодня не идет дождь",
+    "en": "It isn't raining today"
+  },
+  {
+    "_id": 40,
+    "ru": "Он не носит галстук сегодня",
+    "en": "He isn't wearing a tie today"
+  },
+  {
+    "_id": 41,
+    "ru": "Он не едет быстро",
+    "en": "He isn't driving fast"
+  },
+  {
+    "_id": 42,
+    "ru": "Мы не ждем этого",
+    "en": "We aren't waiting for it"
+  },
+  {
+    "_id": 43,
+    "ru": "Я не обедаю сейчас",
+    "en": "I'm not having lunch now"
+  },
+  {
+    "_id": 44,
+    "ru": "Он сейчас не идет в спортзал",
+    "en": "He isn't going to the gym now"
+  },
+  {
+    "_id": 45,
+    "ru": "Я сейчас не смотрю телевизор",
+    "en": "I'm not watching TV now"
+  },
+  {
+    "_id": 46,
+    "ru": "Она сейчас не работает в этом отделе",
+    "en": "She isn't working in this department now"
+  },
+  {
+    "_id": 47,
+    "ru": "Он не сидит в кресле. Он сидит на табуретке",
+    "en": "He isn't sitting in an armchair. He's sitting on a stool"
+  },
+  {
+    "_id": 48,
+    "ru": "Я не читаю книгу. Я читаю статью",
+    "en": "I'm not reading a book. I'm reading an article"
+  },
+  {
+    "_id": 49,
+    "ru": "Сейчас он не играет на скрипке. Он играет на гитаре",
+    "en": "He isn't playing the violin now. He's playing the guitar"
+  },
+  {
+    "_id": 50,
+    "ru": "Я не думаю об этом. Я думаю о других вещах",
+    "en": "I'm not thinking about it. I'm thinking about other things"
+  },
+  {
+    "_id": 51,
+    "ru": "Они не плавают. Они лежат на пляже",
+    "en": "They aren't swimming. They are lying on the beach"
+  },
+  {
+    "_id": 52,
+    "ru": "Он не работает. Он отдыхает",
+    "en": "He isn't working. He's having a rest"
+  },
+  {
+    "_id": 53,
+    "ru": "Он не спит. Он учится",
+    "en": "He isn't sleeping. He is studying"
+  },
+  {
+    "_id": 54,
+    "ru": "Погода не улучшается",
+    "en": "The weather isn't improving"
+  },
+  {
+    "_id": 55,
+    "ru": "Я стараюсь не думать об этом",
+    "en": "I'm trying not to think about it"
+  },
+  {
+    "_id": 56,
+    "ru": "Она не танцует. Она поет",
+    "en": "She isn't dancing. She is singing"
+  },
+  {
+    "_id": 57,
+    "ru": "Большинство людей не становятся богаче",
+    "en": "Most people aren't getting richer"
+  },
+  {
+    "_id": 58,
+    "ru": "Дни не становятся теплее",
+    "en": "The days aren't getting warmer"
+  },
+  {
+    "_id": 59,
+    "ru": "Погода не становится лучше",
+    "en": "The weather isn't getting better"
+  },
+  {
+    "_id": 60,
+    "ru": "Дни не становятся длиннее",
+    "en": "The days aren't getting longer"
+  },
+  {
+    "_id": 61,
+    "ru": "Эти вещи не помогают мне сейчас",
+    "en": "These things are not helping me now"
+  },
+  {
+    "_id": 62,
+    "ru": "Он не помогает мне сейчас",
+    "en": "He is not helping me now"
+  },
+  {
+    "_id": 63,
+    "ru": "Эти уроки не помогают ему сейчас",
+    "en": "These lessons are not helping him now"
+  },
+  {
+    "_id": 64,
+    "ru": "Он не пишет письмо. Он пишет сообщение",
+    "en": "He isn't writing a letter. He is writing a message"
+  },
+  {
+    "_id": 65,
+    "ru": "Он не пишет сообщение. Он пишет письмо",
+    "en": "He isn't writing a message. He is writing a letter"
+  },
+  {
+    "_id": 66,
+    "ru": "Он не читает книгу. Он читает журнал",
+    "en": "He isn't reading a book. He is reading a magazine"
+  },
+  {
+    "_id": 67,
+    "ru": "Мальчики сейчас не играют во дворе",
+    "en": "The boys aren't playing in the yard now"
+  },
+  {
+    "_id": 68,
+    "ru": "Дети играют во дворе сейчас",
+    "en": "The children are playing in the yard now"
+  },
+  {
+    "_id": 69,
+    "ru": "Мальчики не играют в футбол сейчас",
+    "en": "The boys aren't playing football now"
+  },
+  {
+    "_id": 70,
+    "ru": "Я стараюсь не тратить время впустую",
+    "en": "I'm trying not to waste time"
+  },
+  {
+    "_id": 71,
+    "ru": "Я стараюсь не делать этого",
+    "en": "I'm trying not to do it"
+  },
+  {
+    "_id": 72,
+    "ru": "Я пытаюсь делать это очень хорошо",
+    "en": "I'm trying to do it very well"
+  },
+  {
+    "_id": 73,
+    "ru": "Она не лежит на диване. Она лежит в кровати",
+    "en": "She isn't lying on the sofa. She is lying in bed"
+  },
+  {
+    "_id": 74,
+    "ru": "Я не сижу на стуле. Я сижу в кресле",
+    "en": "I'm not sitting on a chair. I'm sitting in an armchair"
+  },
+  {
+    "_id": 75,
+    "ru": "Она лежит на диване в данный момент",
+    "en": "She is lying on the sofa at the moment"
+  },
+  {
+    "_id": 76,
+    "ru": "Собака не лает",
+    "en": "The dog isn't barking"
+  },
+  {
+    "_id": 77,
+    "ru": "Собака лает",
+    "en": "The dog is barking"
+  },
+  {
+    "_id": 78,
+    "ru": "Собака не лает очень громко",
+    "en": "The dog isn't barking very loudly"
+  },
+  {
+    "_id": 79,
+    "ru": "Он не пьет пиво сейчас. Он пьет сок",
+    "en": "He isn't drinking beer now. He's drinking juice"
+  },
+  {
+    "_id": 80,
+    "ru": "Я не пью кофе сейчас. Я пью чай",
+    "en": "I'm not drinking coffee now. I'm drinking tea"
+  },
+  {
+    "_id": 81,
+    "ru": "Он не пьет сок сейчас. Он пьет пиво",
+    "en": "He isn't drinking juice now. He's drinking beer"
+  },
+  {
+    "_id": 82,
+    "ru": "Это не приносит ему каких-либо денег сейчас",
+    "en": "It isn't bringing him any money now"
+  },
+  {
+    "_id": 83,
+    "ru": "Это приносит ему много денег сейчас",
+    "en": "It is bringing him much money now"
+  },
+  {
+    "_id": 84,
+    "ru": "Он не дает мне каких-либо денег сейчас",
+    "en": "He isn't giving me any money now"
+  },
+  {
+    "_id": 85,
+    "ru": "Эта вещь мне сейчас не помогает",
+    "en": "This thing is not helping me now"
+  },
+  {
+    "_id": 86,
+    "ru": "Эта вещь сейчас действительно мне помогает",
+    "en": "This thing is really helping me now"
+  },
+  {
+    "_id": 87,
+    "ru": "Она сейчас мне не помогает",
+    "en": "She isn't helping me now"
+  },
+  {
+    "_id": 88,
+    "ru": "Люди не покупают это сейчас",
+    "en": "People aren't buying it now"
+  },
+  {
+    "_id": 89,
+    "ru": "Цены не становятся ниже",
+    "en": "The prices aren't getting lower"
+  },
+  {
+    "_id": 90,
+    "ru": "Дождь не идет. Идет снег",
+    "en": "It isn't raining. It is snowing"
+  },
+  {
+    "_id": 91,
+    "ru": "Я не завтракаю сейчас",
+    "en": "I'm not having breakfast now"
+  },
+  {
+    "_id": 92,
+    "ru": "Он не изучает французский. Он изучает немецкий",
+    "en": "He isn't learning French. He is learning German"
+  },
+  {
+    "_id": 93,
+    "ru": "Я не отдыхаю. Я работаю",
+    "en": "I'm not having a rest. I'm working"
+  },
+  {
+    "_id": 94,
+    "ru": "Я не думаю об этом. Я думаю о другой вещи",
+    "en": "I'm not thinking about it. I'm thinking about another thing"
+  },
+  {
+    "_id": 95,
+    "ru": "Я не пью кофе сейчас, я пью чай",
+    "en": "I'm not drinking coffee now, I'm drinking tea"
+  },
+  {
+    "_id": 96,
+    "ru": "Дни не становятся солнечнее",
+    "en": "The days aren't getting sunnier"
+  },
+  {
+    "_id": 97,
+    "ru": "Ветер не дует сейчас",
+    "en": "The wind isn't blowing now"
+  },
+  {
+    "_id": 98,
+    "ru": "Собаки не лают",
+    "en": "The dogs aren't barking"
+  },
+  {
+    "_id": 99,
+    "ru": "Снег не идет. Идет дождь",
+    "en": "It isn't snowing. It is raining"
+  },
+  {
+    "_id": 100,
+    "ru": "Солнце не светит",
+    "en": "The sun isn't shining"
+  }
 ]

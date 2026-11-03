@@ -1,98 +1,122 @@
 [
-  [
-    "Когда я увидел его, он нес очень тяжелую сумку",
-    "When I saw him, he was carrying a very heavy bag"
-  ],
-  [
-    "Что задержало тебя?",
-    "What delayed you?"
-  ],
-  [
-    "Я сумел решить такую сложную задачу с его помощью",
-    "I managed to solve such a difficult task with his help"
-  ],
-  [
-    "Я хотел бы прокомментировать эту проблему",
-    "I'd like to comment on this problem"
-  ],
-  [
-    "Это регулируется правительством",
-    "It's regulated by the government"
-  ],
-  [
-    "Тебе нужно проанализировать эти данные более тщательно",
-    "You need to analyze this data more carefully"
-  ],
-  [
-    "Солдаты сожгли мост",
-    "The soldiers burnt the bridge"
-  ],
-  [
-    "Она выяснила, что он обманывал ее годами",
-    "She found out that he had been deceiving her for years"
-  ],
-  [
-    "Не вините его за это!",
-    "Don't blame him for it!"
-  ],
-  [
-    "Где они смогут их разместить?",
-    "Where will they be able to place them?"
-  ],
-  [
-    "Они скрылись от полиции, но потом их поймали",
-    "They hid from the police but then they were caught"
-  ],
-  [
-    "Я только что поставил будильник на семь",
-    "I've just set the alarm clock for seven"
-  ],
-  [
-    "Часто говорят, что курение - это дурная привычка",
-    "It's often said that smoking is a bad habit"
-  ],
-  [
-    "С кем она танцует?",
-    "Who is she dancing with?"
-  ],
-  [
-    "Экзамен длился два часа",
-    "The exam lasted for two hours"
-  ],
-  [
-    "Это письмо еще не было получено",
-    "This letter hasn't been received yet"
-  ],
-  [
-    "Я не могу позволить себе купить это в данный момент",
-    "I can't afford to buy it at the moment"
-  ],
-  [
-    "Его также пригласили на вечеринку",
-    "He was also invited to the party"
-  ],
-  [
-    "Такие непопулярные меры могут ослабить экономику",
-    "Such unpopular measures can weaken the economy"
-  ],
-  [
-    "С тех пор ничего не было забыто",
-    "Nothing has been forgotten since that time"
-  ],
-  [
-    "Ее любят и уважают",
-    "She's loved and respected"
-  ],
-  [
-    "Я не совсем понимаю, о чем ты говоришь",
-    "I don't quite understand what you are talking about"
-  ],
-  [
-    "Ты когда-нибудь катался на верблюде?",
-    "Have you ever ridden a camel?"
-  ],
-  [
-    "Его прервали внезапно",
-    "He was interrupted suddenly"
-  ]
+  {
+    "_id": 1,
+    "ru": "Когда я увидел его, он нес очень тяжелую сумку",
+    "en": "When I saw him, he was carrying a very heavy bag"
+  },
+  {
+    "_id": 2,
+    "ru": "Что задержало тебя?",
+    "en": "What delayed you?"
+  },
+  {
+    "_id": 3,
+    "ru": "Я сумел решить такую сложную задачу с его помощью",
+    "en": "I managed to solve such a difficult task with his help"
+  },
+  {
+    "_id": 4,
+    "ru": "Я хотел бы прокомментировать эту проблему",
+    "en": "I'd like to comment on this problem"
+  },
+  {
+    "_id": 5,
+    "ru": "Это регулируется правительством",
+    "en": "It's regulated by the government"
+  },
+  {
+    "_id": 6,
+    "ru": "Тебе нужно проанализировать эти данные более тщательно",
+    "en": "You need to analyze this data more carefully"
+  },
+  {
+    "_id": 7,
+    "ru": "Солдаты сожгли мост",
+    "en": "The soldiers burnt the bridge"
+  },
+  {
+    "_id": 8,
+    "ru": "Она выяснила, что он обманывал ее годами",
+    "en": "She found out that he had been deceiving her for years"
+  },
+  {
+    "_id": 9,
+    "ru": "Не вините его за это!",
+    "en": "Don't blame him for it!"
+  },
+  {
+    "_id": 10,
+    "ru": "Где они смогут их разместить?",
+    "en": "Where will they be able to place them?"
+  },
+  {
+    "_id": 11,
+    "ru": "Они скрылись от полиции, но потом их поймали",
+    "en": "They hid from the police but then they were caught"
+  },
+  {
+    "_id": 12,
+    "ru": "Я только что поставил будильник на семь",
+    "en": "I've just set the alarm clock for seven"
+  },
+  {
+    "_id": 13,
+    "ru": "Часто говорят, что курение - это дурная привычка",
+    "en": "It's often said that smoking is a bad habit"
+  },
+  {
+    "_id": 14,
+    "ru": "С кем она танцует?",
+    "en": "Who is she dancing with?"
+  },
+  {
+    "_id": 15,
+    "ru": "Экзамен длился два часа",
+    "en": "The exam lasted for two hours"
+  },
+  {
+    "_id": 16,
+    "ru": "Это письмо еще не было получено",
+    "en": "This letter hasn't been received yet"
+  },
+  {
+    "_id": 17,
+    "ru": "Я не могу позволить себе купить это в данный момент",
+    "en": "I can't afford to buy it at the moment"
+  },
+  {
+    "_id": 18,
+    "ru": "Его также пригласили на вечеринку",
+    "en": "He was also invited to the party"
+  },
+  {
+    "_id": 19,
+    "ru": "Такие непопулярные меры могут ослабить экономику",
+    "en": "Such unpopular measures can weaken the economy"
+  },
+  {
+    "_id": 20,
+    "ru": "С тех пор ничего не было забыто",
+    "en": "Nothing has been forgotten since that time"
+  },
+  {
+    "_id": 21,
+    "ru": "Ее любят и уважают",
+    "en": "She's loved and respected"
+  },
+  {
+    "_id": 22,
+    "ru": "Я не совсем понимаю, о чем ты говоришь",
+    "en": "I don't quite understand what you are talking about"
+  },
+  {
+    "_id": 23,
+    "ru": "Ты когда-нибудь катался на верблюде?",
+    "en": "Have you ever ridden a camel?"
+  },
+  {
+    "_id": 24,
+    "ru": "Его прервали внезапно",
+    "en": "He was interrupted suddenly"
+  }
 ]

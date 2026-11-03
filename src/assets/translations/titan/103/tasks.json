@@ -1,398 +1,497 @@
 [
-  [
-    "Это зависит от меня",
-    "It depends on me"
-  ],
-  [
-    "Она подождет нас?",
-    "Will she wait for us?"
-  ],
-  [
-    "Он прибыл на вечеринку?",
-    "Did he arrive at the party?"
-  ],
-  [
-    "Я попросил совета",
-    "I asked for advice"
-  ],
-  [
-    "Когда ты прибудешь в аэропорт?",
-    "When will you arrive at the airport?"
-  ],
-  [
-    "Ты подписан на тот канал?",
-    "Are you subscribed to that channel?"
-  ],
-  [
-    "Все зависит от меня",
-    "Everything depends on me"
-  ],
-  [
-    "Мой отец верит в бога",
-    "My father believes in God"
-  ],
-  [
-    "Я не могу положиться на него",
-    "I can't rely on him"
-  ],
-  [
-    "Он хочет вложить свои деньги в этот проект",
-    "He wants to invest his money in this project"
-  ],
-  [
-    "Ты можешь рассчитывать на его помощь",
-    "You can count on his help"
-  ],
-  [
-    "Когда ты прибыл в Соединенные Штаты?",
-    "When did you arrive in the United States?"
-  ],
-  [
-    "Как он отреагирует на это?",
-    "How will he react to it?"
-  ],
-  [
-    "Я потратил так много денег на это",
-    "I spent so much money on it"
-  ],
-  [
-    "Ты всегда можешь рассчитывать на мою поддержку",
-    "You can always count on my support"
-  ],
-  [
-    "Она улыбнулась ему, и он улыбнулся ей",
-    "She smiled at him and he smiled at her"
-  ],
-  [
-    "Что зависит от меня?",
-    "What depends on me?"
-  ],
-  [
-    "Я разговаривал с ней",
-    "I talked to her"
-  ],
-  [
-    "Почему ты смеешься над этим?",
-    "Why do you laugh at it?"
-  ],
-  [
-    "Подожди меня немного!",
-    "Wait for me a bit!"
-  ],
-  [
-    "Ты будешь его ждать?",
-    "Will you wait for him?"
-  ],
-  [
-    "Подожди секунду!",
-    "Wait for a second!"
-  ],
-  [
-    "Он не может ждать этого больше",
-    "He can't wait for it any longer"
-  ],
-  [
-    "Ты можешь рассчитывать на меня",
-    "You can count on me"
-  ],
-  [
-    "Я подписан на этот канал",
-    "I am subscribed to this channel"
-  ],
-  [
-    "Ты подписался на этот канал?",
-    "Did you subscribe to this channel?"
-  ],
-  [
-    "Я разговаривал с ним вчера",
-    "I talked to him yesterday"
-  ],
-  [
-    "Как он реагирует на эту критику?",
-    "How does he react to this criticism?"
-  ],
-  [
-    "Ты платишь за свое образование?",
-    "Do you pay for your education?"
-  ],
-  [
-    "Это принадлежит ей?",
-    "Does it belong to her?"
-  ],
-  [
-    "Он попросил помощи",
-    "He asked for help"
-  ],
-  [
-    "Посмотри на эту страницу!",
-    "Look at this page!"
-  ],
-  [
-    "Я больше не хочу ждать этого",
-    "I don't want to wait for it anymore"
-  ],
-  [
-    "Он извинился за это",
-    "He apologised for it"
-  ],
-  [
-    "Как он отреагировал на это?",
-    "How did he react to it?"
-  ],
-  [
-    "Мы обычно ждем этого с нетерпением",
-    "We usually wait for it with impatience"
-  ],
-  [
-    "Это случилось со мной очень неожиданно",
-    "It happened to me very unexpectedly"
-  ],
-  [
-    "Я подписался на этот канал",
-    "I subscribed to this channel"
-  ],
-  [
-    "Послушай его!",
-    "Listen to him!"
-  ],
-  [
-    "Он не платит за это",
-    "He doesn't pay for it"
-  ],
-  [
-    "Он очень странно отреагировал на это замечание",
-    "He reacted to this remark very strangely"
-  ],
-  [
-    "Мне нужно посмотреть на это",
-    "I need to look at it"
-  ],
-  [
-    "Мне нужно как-то адаптироваться к этим условиям",
-    "I need to adapt to these conditions somehow"
-  ],
-  [
-    "Она с нетерпением ждет поездки в Соединенные Штаты",
-    "She looks forward to going to the United States"
-  ],
-  [
-    "Она хотела бы сосредоточиться на следующих вопросах",
-    "She'd like to concentrate on the following issues"
-  ],
-  [
-    "Он бросил в него камень",
-    "He threw a stone at him"
-  ],
-  [
-    "Он крикнул ей, но она не слышала его",
-    "He shouted to her but she didn't hear him"
-  ],
-  [
-    "Я с нетерпением жду моих каникул",
-    "I look forward to my holidays"
-  ],
-  [
-    "Я решил поговорить с ним",
-    "I decided to talk to him"
-  ],
-  [
-    "Они обвинили его в убийстве",
-    "They accused him of murder"
-  ],
-  [
-    "Я бы послушал его совет",
-    "I would listen to his advice"
-  ],
-  [
-    "Я с нетерпением жду твоего ответа",
-    "I look forward to your reply"
-  ],
-  [
-    "Он бросил то полотенце ему",
-    "He threw that towel to him"
-  ],
-  [
-    "Мне пришлось адаптироваться к этим новым условиям",
-    "I had to adapt to these new conditions"
-  ],
-  [
-    "Он предпочитает не жаловаться на это",
-    "He prefers not to complain about it"
-  ],
-  [
-    "Он обвинил их в грабеже",
-    "He accused them of robbery"
-  ],
-  [
-    "Я решил начать искать новую работу",
-    "I decided to start looking for a new job"
-  ],
-  [
-    "Мне нужно начать искать лучшую работу",
-    "I need to start looking for a better job"
-  ],
-  [
-    "Ты решил начать искать новую работу?",
-    "Did you decide to start looking for a new job?"
-  ],
-  [
-    "Мой учитель иногда кричит на меня",
-    "My teacher sometimes shouts at me"
-  ],
-  [
-    "Как часто твой учитель кричит на тебя?",
-    "How often does your teacher shout at you?"
-  ],
-  [
-    "Я хотел бы сосредоточиться на следующих проблемах",
-    "I'd like to concentrate on the following problems"
-  ],
-  [
-    "Мы должны сосредоточиться на следующих вопросах",
-    "We must concentrate on the following issues"
-  ],
-  [
-    "Мне нужно сосредоточиться на этих задачах",
-    "I need to concentrate on these tasks"
-  ],
-  [
-    "Он с нетерпением ждет твоего ответа",
-    "He looks forward to your answer"
-  ],
-  [
-    "Он с нетерпением ждет своих каникул",
-    "He looks forward to his holidays"
-  ],
-  [
-    "Я не хотел бы на этом настаивать",
-    "I wouldn't like to insist on it"
-  ],
-  [
-    "Тебе нужно было настоять на этом",
-    "You needed to insist on it"
-  ],
-  [
-    "Он не будет настаивать на этом",
-    "He won't insist on it"
-  ],
-  [
-    "Я с нетерпением жду следующего урока",
-    "I look forward to the next lesson"
-  ],
-  [
-    "Я с нетерпением жду встречи с тобой снова",
-    "I look forward to seeing you again"
-  ],
-  [
-    "Она с нетерпением ждет этих фотографий",
-    "She looks forward to these photos"
-  ],
-  [
-    "Я не хочу на этом настаивать",
-    "I don't want to insist on it"
-  ],
-  [
-    "Она не хотела на этом настаивать",
-    "She didn't want to insist on it"
-  ],
-  [
-    "Я не буду на этом настаивать",
-    "I won't insist on it"
-  ],
-  [
-    "Он никогда не жалуется на это",
-    "He never complains about it"
-  ],
-  [
-    "Он жаловался на это?",
-    "Did he complain about it?"
-  ],
-  [
-    "Я никогда не буду жаловаться на это",
-    "I will never complain about it"
-  ],
-  [
-    "Я не хочу настаивать на том, чтобы сделать это",
-    "I don't want to insist on doing it"
-  ],
-  [
-    "Он не хочет на этом настаивать",
-    "He doesn't want to insist on it"
-  ],
-  [
-    "Я должен настаивать на том, чтобы сделать это",
-    "I must insist on doing it"
-  ],
-  [
-    "Он крикнул ей очень тихо",
-    "He shouted to her very quietly"
-  ],
-  [
-    "Тебе нужно перестать кричать на него",
-    "You need to stop shouting at him"
-  ],
-  [
-    "Он тебе что-то крикнул?",
-    "Did he shout anything to you?"
-  ],
-  [
-    "Что он бросил в него?",
-    "What did he throw at him?"
-  ],
-  [
-    "Я с нетерпением жду поездки в отпуск",
-    "I look forward to going on holiday"
-  ],
-  [
-    "Они обвинили его в преступлении",
-    "They accused him of a crime"
-  ],
-  [
-    "Я с нетерпением жду твоего сообщения",
-    "I look forward to your message"
-  ],
-  [
-    "Я не хотел бы настаивать на том, чтобы сделать это",
-    "I wouldn't like to insist on doing it"
-  ],
-  [
-    "Я начал искать новую работу",
-    "I started looking for a new job"
-  ],
-  [
-    "Они обвинили его в очень серьезном преступлении",
-    "They accused him of a very serious crime"
-  ],
-  [
-    "Мы должны были приспособиться к этим изменениями",
-    "We had to adapt to these changes"
-  ],
-  [
-    "Я с нетерпением жду твоего ответа в ближайшее время",
-    "I look forward to hearing from you soon"
-  ],
-  [
-    "Он предпочитает не говорить об этом",
-    "He prefers not to talk about it"
-  ],
-  [
-    "Он бросил ему то полотенце",
-    "He threw him that towel"
-  ],
-  [
-    "Она обвинила его во лжи",
-    "She accused him of a lie"
-  ],
-  [
-    "Я с нетерпением жду следующей встречи",
-    "I look forward to the next meeting"
-  ],
-  [
-    "Он может пожаловаться на это",
-    "He can complain about it"
-  ],
-  [
-    "Не кричи на него!",
-    "Don't shout at him!"
-  ]
+  {
+    "_id": 1,
+    "ru": "Это зависит от меня",
+    "en": "It depends on me"
+  },
+  {
+    "_id": 2,
+    "ru": "Она подождет нас?",
+    "en": "Will she wait for us?"
+  },
+  {
+    "_id": 3,
+    "ru": "Он прибыл на вечеринку?",
+    "en": "Did he arrive at the party?"
+  },
+  {
+    "_id": 4,
+    "ru": "Я попросил совета",
+    "en": "I asked for advice"
+  },
+  {
+    "_id": 5,
+    "ru": "Когда ты прибудешь в аэропорт?",
+    "en": "When will you arrive at the airport?"
+  },
+  {
+    "_id": 6,
+    "ru": "Ты подписан на тот канал?",
+    "en": "Are you subscribed to that channel?"
+  },
+  {
+    "_id": 7,
+    "ru": "Все зависит от меня",
+    "en": "Everything depends on me"
+  },
+  {
+    "_id": 8,
+    "ru": "Мой отец верит в бога",
+    "en": "My father believes in God"
+  },
+  {
+    "_id": 9,
+    "ru": "Я не могу положиться на него",
+    "en": "I can't rely on him"
+  },
+  {
+    "_id": 10,
+    "ru": "Он хочет вложить свои деньги в этот проект",
+    "en": "He wants to invest his money in this project"
+  },
+  {
+    "_id": 11,
+    "ru": "Ты можешь рассчитывать на его помощь",
+    "en": "You can count on his help"
+  },
+  {
+    "_id": 12,
+    "ru": "Когда ты прибыл в Соединенные Штаты?",
+    "en": "When did you arrive in the United States?"
+  },
+  {
+    "_id": 13,
+    "ru": "Как он отреагирует на это?",
+    "en": "How will he react to it?"
+  },
+  {
+    "_id": 14,
+    "ru": "Я потратил так много денег на это",
+    "en": "I spent so much money on it"
+  },
+  {
+    "_id": 15,
+    "ru": "Ты всегда можешь рассчитывать на мою поддержку",
+    "en": "You can always count on my support"
+  },
+  {
+    "_id": 16,
+    "ru": "Она улыбнулась ему, и он улыбнулся ей",
+    "en": "She smiled at him and he smiled at her"
+  },
+  {
+    "_id": 17,
+    "ru": "Что зависит от меня?",
+    "en": "What depends on me?"
+  },
+  {
+    "_id": 18,
+    "ru": "Я разговаривал с ней",
+    "en": "I talked to her"
+  },
+  {
+    "_id": 19,
+    "ru": "Почему ты смеешься над этим?",
+    "en": "Why do you laugh at it?"
+  },
+  {
+    "_id": 20,
+    "ru": "Подожди меня немного!",
+    "en": "Wait for me a bit!"
+  },
+  {
+    "_id": 21,
+    "ru": "Ты будешь его ждать?",
+    "en": "Will you wait for him?"
+  },
+  {
+    "_id": 22,
+    "ru": "Подожди секунду!",
+    "en": "Wait for a second!"
+  },
+  {
+    "_id": 23,
+    "ru": "Он не может ждать этого больше",
+    "en": "He can't wait for it any longer"
+  },
+  {
+    "_id": 24,
+    "ru": "Ты можешь рассчитывать на меня",
+    "en": "You can count on me"
+  },
+  {
+    "_id": 25,
+    "ru": "Я подписан на этот канал",
+    "en": "I am subscribed to this channel"
+  },
+  {
+    "_id": 26,
+    "ru": "Ты подписался на этот канал?",
+    "en": "Did you subscribe to this channel?"
+  },
+  {
+    "_id": 27,
+    "ru": "Я разговаривал с ним вчера",
+    "en": "I talked to him yesterday"
+  },
+  {
+    "_id": 28,
+    "ru": "Как он реагирует на эту критику?",
+    "en": "How does he react to this criticism?"
+  },
+  {
+    "_id": 29,
+    "ru": "Ты платишь за свое образование?",
+    "en": "Do you pay for your education?"
+  },
+  {
+    "_id": 30,
+    "ru": "Это принадлежит ей?",
+    "en": "Does it belong to her?"
+  },
+  {
+    "_id": 31,
+    "ru": "Он попросил помощи",
+    "en": "He asked for help"
+  },
+  {
+    "_id": 32,
+    "ru": "Посмотри на эту страницу!",
+    "en": "Look at this page!"
+  },
+  {
+    "_id": 33,
+    "ru": "Я больше не хочу ждать этого",
+    "en": "I don't want to wait for it anymore"
+  },
+  {
+    "_id": 34,
+    "ru": "Он извинился за это",
+    "en": "He apologised for it"
+  },
+  {
+    "_id": 35,
+    "ru": "Как он отреагировал на это?",
+    "en": "How did he react to it?"
+  },
+  {
+    "_id": 36,
+    "ru": "Мы обычно ждем этого с нетерпением",
+    "en": "We usually wait for it with impatience"
+  },
+  {
+    "_id": 37,
+    "ru": "Это случилось со мной очень неожиданно",
+    "en": "It happened to me very unexpectedly"
+  },
+  {
+    "_id": 38,
+    "ru": "Я подписался на этот канал",
+    "en": "I subscribed to this channel"
+  },
+  {
+    "_id": 39,
+    "ru": "Послушай его!",
+    "en": "Listen to him!"
+  },
+  {
+    "_id": 40,
+    "ru": "Он не платит за это",
+    "en": "He doesn't pay for it"
+  },
+  {
+    "_id": 41,
+    "ru": "Он очень странно отреагировал на это замечание",
+    "en": "He reacted to this remark very strangely"
+  },
+  {
+    "_id": 42,
+    "ru": "Мне нужно посмотреть на это",
+    "en": "I need to look at it"
+  },
+  {
+    "_id": 43,
+    "ru": "Мне нужно как-то адаптироваться к этим условиям",
+    "en": "I need to adapt to these conditions somehow"
+  },
+  {
+    "_id": 44,
+    "ru": "Она с нетерпением ждет поездки в Соединенные Штаты",
+    "en": "She looks forward to going to the United States"
+  },
+  {
+    "_id": 45,
+    "ru": "Она хотела бы сосредоточиться на следующих вопросах",
+    "en": "She'd like to concentrate on the following issues"
+  },
+  {
+    "_id": 46,
+    "ru": "Он бросил в него камень",
+    "en": "He threw a stone at him"
+  },
+  {
+    "_id": 47,
+    "ru": "Он крикнул ей, но она не слышала его",
+    "en": "He shouted to her but she didn't hear him"
+  },
+  {
+    "_id": 48,
+    "ru": "Я с нетерпением жду моих каникул",
+    "en": "I look forward to my holidays"
+  },
+  {
+    "_id": 49,
+    "ru": "Я решил поговорить с ним",
+    "en": "I decided to talk to him"
+  },
+  {
+    "_id": 50,
+    "ru": "Они обвинили его в убийстве",
+    "en": "They accused him of murder"
+  },
+  {
+    "_id": 51,
+    "ru": "Я бы послушал его совет",
+    "en": "I would listen to his advice"
+  },
+  {
+    "_id": 52,
+    "ru": "Я с нетерпением жду твоего ответа",
+    "en": "I look forward to your reply"
+  },
+  {
+    "_id": 53,
+    "ru": "Он бросил то полотенце ему",
+    "en": "He threw that towel to him"
+  },
+  {
+    "_id": 54,
+    "ru": "Мне пришлось адаптироваться к этим новым условиям",
+    "en": "I had to adapt to these new conditions"
+  },
+  {
+    "_id": 55,
+    "ru": "Он предпочитает не жаловаться на это",
+    "en": "He prefers not to complain about it"
+  },
+  {
+    "_id": 56,
+    "ru": "Он обвинил их в грабеже",
+    "en": "He accused them of robbery"
+  },
+  {
+    "_id": 57,
+    "ru": "Я решил начать искать новую работу",
+    "en": "I decided to start looking for a new job"
+  },
+  {
+    "_id": 58,
+    "ru": "Мне нужно начать искать лучшую работу",
+    "en": "I need to start looking for a better job"
+  },
+  {
+    "_id": 59,
+    "ru": "Ты решил начать искать новую работу?",
+    "en": "Did you decide to start looking for a new job?"
+  },
+  {
+    "_id": 60,
+    "ru": "Мой учитель иногда кричит на меня",
+    "en": "My teacher sometimes shouts at me"
+  },
+  {
+    "_id": 61,
+    "ru": "Как часто твой учитель кричит на тебя?",
+    "en": "How often does your teacher shout at you?"
+  },
+  {
+    "_id": 62,
+    "ru": "Я хотел бы сосредоточиться на следующих проблемах",
+    "en": "I'd like to concentrate on the following problems"
+  },
+  {
+    "_id": 63,
+    "ru": "Мы должны сосредоточиться на следующих вопросах",
+    "en": "We must concentrate on the following issues"
+  },
+  {
+    "_id": 64,
+    "ru": "Мне нужно сосредоточиться на этих задачах",
+    "en": "I need to concentrate on these tasks"
+  },
+  {
+    "_id": 65,
+    "ru": "Он с нетерпением ждет твоего ответа",
+    "en": "He looks forward to your answer"
+  },
+  {
+    "_id": 66,
+    "ru": "Он с нетерпением ждет своих каникул",
+    "en": "He looks forward to his holidays"
+  },
+  {
+    "_id": 67,
+    "ru": "Я не хотел бы на этом настаивать",
+    "en": "I wouldn't like to insist on it"
+  },
+  {
+    "_id": 68,
+    "ru": "Тебе нужно было настоять на этом",
+    "en": "You needed to insist on it"
+  },
+  {
+    "_id": 69,
+    "ru": "Он не будет настаивать на этом",
+    "en": "He won't insist on it"
+  },
+  {
+    "_id": 70,
+    "ru": "Я с нетерпением жду следующего урока",
+    "en": "I look forward to the next lesson"
+  },
+  {
+    "_id": 71,
+    "ru": "Я с нетерпением жду встречи с тобой снова",
+    "en": "I look forward to seeing you again"
+  },
+  {
+    "_id": 72,
+    "ru": "Она с нетерпением ждет этих фотографий",
+    "en": "She looks forward to these photos"
+  },
+  {
+    "_id": 73,
+    "ru": "Я не хочу на этом настаивать",
+    "en": "I don't want to insist on it"
+  },
+  {
+    "_id": 74,
+    "ru": "Она не хотела на этом настаивать",
+    "en": "She didn't want to insist on it"
+  },
+  {
+    "_id": 75,
+    "ru": "Я не буду на этом настаивать",
+    "en": "I won't insist on it"
+  },
+  {
+    "_id": 76,
+    "ru": "Он никогда не жалуется на это",
+    "en": "He never complains about it"
+  },
+  {
+    "_id": 77,
+    "ru": "Он жаловался на это?",
+    "en": "Did he complain about it?"
+  },
+  {
+    "_id": 78,
+    "ru": "Я никогда не буду жаловаться на это",
+    "en": "I will never complain about it"
+  },
+  {
+    "_id": 79,
+    "ru": "Я не хочу настаивать на том, чтобы сделать это",
+    "en": "I don't want to insist on doing it"
+  },
+  {
+    "_id": 80,
+    "ru": "Он не хочет на этом настаивать",
+    "en": "He doesn't want to insist on it"
+  },
+  {
+    "_id": 81,
+    "ru": "Я должен настаивать на том, чтобы сделать это",
+    "en": "I must insist on doing it"
+  },
+  {
+    "_id": 82,
+    "ru": "Он крикнул ей очень тихо",
+    "en": "He shouted to her very quietly"
+  },
+  {
+    "_id": 83,
+    "ru": "Тебе нужно перестать кричать на него",
+    "en": "You need to stop shouting at him"
+  },
+  {
+    "_id": 84,
+    "ru": "Он тебе что-то крикнул?",
+    "en": "Did he shout anything to you?"
+  },
+  {
+    "_id": 85,
+    "ru": "Что он бросил в него?",
+    "en": "What did he throw at him?"
+  },
+  {
+    "_id": 86,
+    "ru": "Я с нетерпением жду поездки в отпуск",
+    "en": "I look forward to going on holiday"
+  },
+  {
+    "_id": 87,
+    "ru": "Они обвинили его в преступлении",
+    "en": "They accused him of a crime"
+  },
+  {
+    "_id": 88,
+    "ru": "Я с нетерпением жду твоего сообщения",
+    "en": "I look forward to your message"
+  },
+  {
+    "_id": 89,
+    "ru": "Я не хотел бы настаивать на том, чтобы сделать это",
+    "en": "I wouldn't like to insist on doing it"
+  },
+  {
+    "_id": 90,
+    "ru": "Я начал искать новую работу",
+    "en": "I started looking for a new job"
+  },
+  {
+    "_id": 91,
+    "ru": "Они обвинили его в очень серьезном преступлении",
+    "en": "They accused him of a very serious crime"
+  },
+  {
+    "_id": 92,
+    "ru": "Мы должны были приспособиться к этим изменениями",
+    "en": "We had to adapt to these changes"
+  },
+  {
+    "_id": 93,
+    "ru": "Я с нетерпением жду твоего ответа в ближайшее время",
+    "en": "I look forward to hearing from you soon"
+  },
+  {
+    "_id": 94,
+    "ru": "Он предпочитает не говорить об этом",
+    "en": "He prefers not to talk about it"
+  },
+  {
+    "_id": 95,
+    "ru": "Он бросил ему то полотенце",
+    "en": "He threw him that towel"
+  },
+  {
+    "_id": 96,
+    "ru": "Она обвинила его во лжи",
+    "en": "She accused him of a lie"
+  },
+  {
+    "_id": 97,
+    "ru": "Я с нетерпением жду следующей встречи",
+    "en": "I look forward to the next meeting"
+  },
+  {
+    "_id": 98,
+    "ru": "Он может пожаловаться на это",
+    "en": "He can complain about it"
+  },
+  {
+    "_id": 99,
+    "ru": "Не кричи на него!",
+    "en": "Don't shout at him!"
+  }
 ]

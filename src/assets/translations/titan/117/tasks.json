@@ -1,374 +1,467 @@
 [
-  [
-    "Когда он прибыл?",
-    "When did he arrive?"
-  ],
-  [
-    "Я посмотрел новый фильм вчера",
-    "I saw a new movie yesterday"
-  ],
-  [
-    "Я получил свой подарок, поэтому я счастлив",
-    "I have received my present so I’m happy"
-  ],
-  [
-    "Я только что закончил свою работу",
-    "I have just finished my work"
-  ],
-  [
-    "Мы уже посмотрели это видео",
-    "We have already watched this video"
-  ],
-  [
-    "Когда ты ходил туда?",
-    "When did you go there?"
-  ],
-  [
-    "Он жил в Англии с 1991 по 1998 год",
-    "He lived in England from 1991 to 1998"
-  ],
-  [
-    "Ты когда-нибудь был на этом острове?",
-    "Have you ever been to this island?"
-  ],
-  [
-    "Ты когда-нибудь пробовал суши?",
-    "Have you ever tasted sushi?"
-  ],
-  [
-    "Секретарь всегда связывался со мной",
-    "The receptionist has always contacted me"
-  ],
-  [
-    "Она была в этом городе много раз",
-    "She's been to this city many times"
-  ],
-  [
-    "Программа началась два часа назад",
-    "The program started two hours ago"
-  ],
-  [
-    "Ты был в Индии в прошлом году?",
-    "Were you in India last year?"
-  ],
-  [
-    "Я никогда в своей жизни не играл в гольф",
-    "I have never played golf in my life"
-  ],
-  [
-    "Я никогда не был в Испании",
-    "I have never been to Spain"
-  ],
-  [
-    "Я только что связался с секретарем",
-    "I have just contacted the receptionist"
-  ],
-  [
-    "Ты уже прибыл во Францию?",
-    "Have you already arrived in France?"
-  ],
-  [
-    "Он был в Италии в прошлом году",
-    "He was in Italy last year"
-  ],
-  [
-    "Ты когда-нибудь покупал очень дешевый ноутбук?",
-    "Have you ever bought a very cheap laptop?"
-  ],
-  [
-    "У моего отца было много работы на прошлой неделе",
-    "My father had lots of work last week"
-  ],
-  [
-    "Ты видел его в этом месяце?",
-    "Have you seen him this month?"
-  ],
-  [
-    "Ты когда-нибудь ел эту еду?",
-    "Have you ever eaten this food?"
-  ],
-  [
-    "Он хорошо спал прошлой ночью?",
-    "Did he sleep well last night?"
-  ],
-  [
-    "Я уже читал эту книгу",
-    "I have already read this book"
-  ],
-  [
-    "Я вчера видел отличный фильм",
-    "I saw a great film yesterday"
-  ],
-  [
-    "Когда ты услышал эту новость?",
-    "When did you hear this news?"
-  ],
-  [
-    "Я только что связался с персоналом",
-    "I have just contacted the staff"
-  ],
-  [
-    "Ты когда-нибудь выигрывал в лотерею?",
-    "Have you ever won the lottery?"
-  ],
-  [
-    "Когда он это узнал?",
-    "When did he know it?"
-  ],
-  [
-    "Когда ты вернулся?",
-    "When did you come back?"
-  ],
-  [
-    "Я только что связался с менеджером",
-    "I have just contacted the manager"
-  ],
-  [
-    "Когда ты прибыл?",
-    "When did you arrive?"
-  ],
-  [
-    "Она закончила свою работу два часа назад",
-    "She finished her work two hours ago"
-  ],
-  [
-    "Ты уже видел этот фильм?",
-    "Have you already seen this movie?"
-  ],
-  [
-    "Ты бывал в Индии?",
-    "Have you been to India?"
-  ],
-  [
-    "Он работал вчера?",
-    "Did he work yesterday?"
-  ],
-  [
-    "Она только что закончила свою работу",
-    "She has just finished her work"
-  ],
-  [
-    "Урок начался минуту назад",
-    "The lesson began a minute ago"
-  ],
-  [
-    "Ты видел ее сегодня утром?",
-    "Have you seen her this morning?"
-  ],
-  [
-    "Он ел суши позавчера",
-    "He ate sushi the day before yesterday"
-  ],
-  [
-    "Он купил свою первую машину в 2015 году",
-    "He bought his first car in 2015"
-  ],
-  [
-    "Урок уже начался",
-    "The lesson has already begun"
-  ],
-  [
-    "Когда ты был в этом месте в прошлый раз?",
-    "When were you in this place last time?"
-  ],
-  [
-    "Он был в Италии дважды",
-    "He has been to Italy twice"
-  ],
-  [
-    "Ты видел его в прошлом месяце?",
-    "Did you see him last month?"
-  ],
-  [
-    "Я закончил читать эту книгу вчера",
-    "I finished reading this book yesterday"
-  ],
-  [
-    "Погода была действительно ужасной на прошлых выходных",
-    "The weather was really awful last weekend"
-  ],
-  [
-    "Он потерял свой кошелек, и он не может заплатить за это",
-    "He's lost his wallet and he can't pay for it"
-  ],
-  [
-    "На прошлой неделе не шел дождь",
-    "It didn't rain last week"
-  ],
-  [
-    "Мы уже встречались пару раз",
-    "We have already met a couple of times"
-  ],
-  [
-    "Я не видел ее с прошлой недели",
-    "I haven't seen her since last week"
-  ],
-  [
-    "Его машина сломалась. Он не может ехать домой",
-    "His car has broken down. He can't drive home"
-  ],
-  [
-    "Я никогда не встречал ее, когда учился в университете",
-    "I never met her when I studied at university"
-  ],
-  [
-    "На этой неделе шел дождь",
-    "It has rained this week"
-  ],
-  [
-    "На этой неделе шел снег",
-    "It has snowed this week"
-  ],
-  [
-    "Прошлой ночью шел дождь",
-    "It rained last night"
-  ],
-  [
-    "Я не видел своих одноклассников два года",
-    "I haven't seen my groupmates for two years"
-  ],
-  [
-    "Я не был там уже два года",
-    "I haven't been there for two years"
-  ],
-  [
-    "Я не видел его с детства",
-    "I haven't seen him since childhood"
-  ],
-  [
-    "Я еще не закончил делать эти упражнения",
-    "I haven't finished doing these exercises yet"
-  ],
-  [
-    "Я еще не закончил делать домашнее задание",
-    "I haven't finished doing my homework yet"
-  ],
-  [
-    "Она еще не закончила готовить",
-    "She hasn't finished cooking yet"
-  ],
-  [
-    "У нее было много работы в эти дни",
-    "She has had a lot of work these days"
-  ],
-  [
-    "У нее было так много работы в эти дни",
-    "She has had so much work these days"
-  ],
-  [
-    "Она так много работала вчера",
-    "She worked so much yesterday"
-  ],
-  [
-    "Я потерял ключи и я не знаю, что делать",
-    "I've lost my keys and I don't know what to do"
-  ],
-  [
-    "Я потерял ключи и я не знаю, где их найти",
-    "I've lost my keys and I don't know where to find them"
-  ],
-  [
-    "Я потерял ключи и не могу войти в дом",
-    "I've lost my keys so I can't get into my house"
-  ],
-  [
-    "Я потерял свои деньги и не знаю, что делать",
-    "I've lost my money and I don't know what to do"
-  ],
-  [
-    "Она потеряла ключи и не может открыть свою машину",
-    "She's lost the keys and she can't open her car"
-  ],
-  [
-    "У меня было много работы на этой неделе",
-    "I have had a lot of work this week"
-  ],
-  [
-    "У меня было так много работы в этом месяце",
-    "I have had so much work this month"
-  ],
-  [
-    "У меня было много работы вчера",
-    "I had a lot of work yesterday"
-  ],
-  [
-    "Я не был там с детства",
-    "I haven't been there since my childhood"
-  ],
-  [
-    "Я не был в этом месте с 2000",
-    "I haven't been to this place since 2000"
-  ],
-  [
-    "Я никогда не был здесь",
-    "I have never been here"
-  ],
-  [
-    "Что ты мне только что сказал?",
-    "What have you just told me?"
-  ],
-  [
-    "Кто только что мне это сказал?",
-    "Who has just told me it?"
-  ],
-  [
-    "Что ты мне только что показал?",
-    "What have you just shown to me?"
-  ],
-  [
-    "Они переехали в этот дом в этом году",
-    "They have moved into this house this year"
-  ],
-  [
-    "На этой неделе не шел дождь",
-    "It hasn't rained this week"
-  ],
-  [
-    "Я жил там, когда я был ребенком",
-    "I lived there when I was a child"
-  ],
-  [
-    "Ты когда-нибудь пробовал эту еду?",
-    "Have you ever tasted this food?"
-  ],
-  [
-    "Я еще не был в США",
-    "I haven't been to the USA yet"
-  ],
-  [
-    "Он жил в маленьком городке, когда он был ребенком",
-    "He lived in a small town when he was a kid"
-  ],
-  [
-    "Я видел ее с этим парнем прошлой ночью",
-    "I saw her with this guy last night"
-  ],
-  [
-    "Я не видел своих одноклассников около года",
-    "I haven't seen my classmates for about a year"
-  ],
-  [
-    "Она выиграла в лотерею в прошлом году",
-    "She won the lottery last year"
-  ],
-  [
-    "Что ты только что сказал?",
-    "What have you just said?"
-  ],
-  [
-    "Я никогда не встречал ее",
-    "I have never met her"
-  ],
-  [
-    "Они переехали в этот дом в 2019 году",
-    "They moved into this house in 2019"
-  ],
-  [
-    "На прошлой неделе шел дождь",
-    "It rained last week"
-  ],
-  [
-    "Он ушел несколько минут назад",
-    "He left a few minutes ago"
-  ]
+  {
+    "_id": 1,
+    "ru": "Когда он прибыл?",
+    "en": "When did he arrive?"
+  },
+  {
+    "_id": 2,
+    "ru": "Я посмотрел новый фильм вчера",
+    "en": "I saw a new movie yesterday"
+  },
+  {
+    "_id": 3,
+    "ru": "Я получил свой подарок, поэтому я счастлив",
+    "en": "I have received my present so I’m happy"
+  },
+  {
+    "_id": 4,
+    "ru": "Я только что закончил свою работу",
+    "en": "I have just finished my work"
+  },
+  {
+    "_id": 5,
+    "ru": "Мы уже посмотрели это видео",
+    "en": "We have already watched this video"
+  },
+  {
+    "_id": 6,
+    "ru": "Когда ты ходил туда?",
+    "en": "When did you go there?"
+  },
+  {
+    "_id": 7,
+    "ru": "Он жил в Англии с 1991 по 1998 год",
+    "en": "He lived in England from 1991 to 1998"
+  },
+  {
+    "_id": 8,
+    "ru": "Ты когда-нибудь был на этом острове?",
+    "en": "Have you ever been to this island?"
+  },
+  {
+    "_id": 9,
+    "ru": "Ты когда-нибудь пробовал суши?",
+    "en": "Have you ever tasted sushi?"
+  },
+  {
+    "_id": 10,
+    "ru": "Секретарь всегда связывался со мной",
+    "en": "The receptionist has always contacted me"
+  },
+  {
+    "_id": 11,
+    "ru": "Она была в этом городе много раз",
+    "en": "She's been to this city many times"
+  },
+  {
+    "_id": 12,
+    "ru": "Программа началась два часа назад",
+    "en": "The program started two hours ago"
+  },
+  {
+    "_id": 13,
+    "ru": "Ты был в Индии в прошлом году?",
+    "en": "Were you in India last year?"
+  },
+  {
+    "_id": 14,
+    "ru": "Я никогда в своей жизни не играл в гольф",
+    "en": "I have never played golf in my life"
+  },
+  {
+    "_id": 15,
+    "ru": "Я никогда не был в Испании",
+    "en": "I have never been to Spain"
+  },
+  {
+    "_id": 16,
+    "ru": "Я только что связался с секретарем",
+    "en": "I have just contacted the receptionist"
+  },
+  {
+    "_id": 17,
+    "ru": "Ты уже прибыл во Францию?",
+    "en": "Have you already arrived in France?"
+  },
+  {
+    "_id": 18,
+    "ru": "Он был в Италии в прошлом году",
+    "en": "He was in Italy last year"
+  },
+  {
+    "_id": 19,
+    "ru": "Ты когда-нибудь покупал очень дешевый ноутбук?",
+    "en": "Have you ever bought a very cheap laptop?"
+  },
+  {
+    "_id": 20,
+    "ru": "У моего отца было много работы на прошлой неделе",
+    "en": "My father had lots of work last week"
+  },
+  {
+    "_id": 21,
+    "ru": "Ты видел его в этом месяце?",
+    "en": "Have you seen him this month?"
+  },
+  {
+    "_id": 22,
+    "ru": "Ты когда-нибудь ел эту еду?",
+    "en": "Have you ever eaten this food?"
+  },
+  {
+    "_id": 23,
+    "ru": "Он хорошо спал прошлой ночью?",
+    "en": "Did he sleep well last night?"
+  },
+  {
+    "_id": 24,
+    "ru": "Я уже читал эту книгу",
+    "en": "I have already read this book"
+  },
+  {
+    "_id": 25,
+    "ru": "Я вчера видел отличный фильм",
+    "en": "I saw a great film yesterday"
+  },
+  {
+    "_id": 26,
+    "ru": "Когда ты услышал эту новость?",
+    "en": "When did you hear this news?"
+  },
+  {
+    "_id": 27,
+    "ru": "Я только что связался с персоналом",
+    "en": "I have just contacted the staff"
+  },
+  {
+    "_id": 28,
+    "ru": "Ты когда-нибудь выигрывал в лотерею?",
+    "en": "Have you ever won the lottery?"
+  },
+  {
+    "_id": 29,
+    "ru": "Когда он это узнал?",
+    "en": "When did he know it?"
+  },
+  {
+    "_id": 30,
+    "ru": "Когда ты вернулся?",
+    "en": "When did you come back?"
+  },
+  {
+    "_id": 31,
+    "ru": "Я только что связался с менеджером",
+    "en": "I have just contacted the manager"
+  },
+  {
+    "_id": 32,
+    "ru": "Когда ты прибыл?",
+    "en": "When did you arrive?"
+  },
+  {
+    "_id": 33,
+    "ru": "Она закончила свою работу два часа назад",
+    "en": "She finished her work two hours ago"
+  },
+  {
+    "_id": 34,
+    "ru": "Ты уже видел этот фильм?",
+    "en": "Have you already seen this movie?"
+  },
+  {
+    "_id": 35,
+    "ru": "Ты бывал в Индии?",
+    "en": "Have you been to India?"
+  },
+  {
+    "_id": 36,
+    "ru": "Он работал вчера?",
+    "en": "Did he work yesterday?"
+  },
+  {
+    "_id": 37,
+    "ru": "Она только что закончила свою работу",
+    "en": "She has just finished her work"
+  },
+  {
+    "_id": 38,
+    "ru": "Урок начался минуту назад",
+    "en": "The lesson began a minute ago"
+  },
+  {
+    "_id": 39,
+    "ru": "Ты видел ее сегодня утром?",
+    "en": "Have you seen her this morning?"
+  },
+  {
+    "_id": 40,
+    "ru": "Он ел суши позавчера",
+    "en": "He ate sushi the day before yesterday"
+  },
+  {
+    "_id": 41,
+    "ru": "Он купил свою первую машину в 2015 году",
+    "en": "He bought his first car in 2015"
+  },
+  {
+    "_id": 42,
+    "ru": "Урок уже начался",
+    "en": "The lesson has already begun"
+  },
+  {
+    "_id": 43,
+    "ru": "Когда ты был в этом месте в прошлый раз?",
+    "en": "When were you in this place last time?"
+  },
+  {
+    "_id": 44,
+    "ru": "Он был в Италии дважды",
+    "en": "He has been to Italy twice"
+  },
+  {
+    "_id": 45,
+    "ru": "Ты видел его в прошлом месяце?",
+    "en": "Did you see him last month?"
+  },
+  {
+    "_id": 46,
+    "ru": "Я закончил читать эту книгу вчера",
+    "en": "I finished reading this book yesterday"
+  },
+  {
+    "_id": 47,
+    "ru": "Погода была действительно ужасной на прошлых выходных",
+    "en": "The weather was really awful last weekend"
+  },
+  {
+    "_id": 48,
+    "ru": "Он потерял свой кошелек, и он не может заплатить за это",
+    "en": "He's lost his wallet and he can't pay for it"
+  },
+  {
+    "_id": 49,
+    "ru": "На прошлой неделе не шел дождь",
+    "en": "It didn't rain last week"
+  },
+  {
+    "_id": 50,
+    "ru": "Мы уже встречались пару раз",
+    "en": "We have already met a couple of times"
+  },
+  {
+    "_id": 51,
+    "ru": "Я не видел ее с прошлой недели",
+    "en": "I haven't seen her since last week"
+  },
+  {
+    "_id": 52,
+    "ru": "Его машина сломалась. Он не может ехать домой",
+    "en": "His car has broken down. He can't drive home"
+  },
+  {
+    "_id": 53,
+    "ru": "Я никогда не встречал ее, когда учился в университете",
+    "en": "I never met her when I studied at university"
+  },
+  {
+    "_id": 54,
+    "ru": "На этой неделе шел дождь",
+    "en": "It has rained this week"
+  },
+  {
+    "_id": 55,
+    "ru": "На этой неделе шел снег",
+    "en": "It has snowed this week"
+  },
+  {
+    "_id": 56,
+    "ru": "Прошлой ночью шел дождь",
+    "en": "It rained last night"
+  },
+  {
+    "_id": 57,
+    "ru": "Я не видел своих одноклассников два года",
+    "en": "I haven't seen my groupmates for two years"
+  },
+  {
+    "_id": 58,
+    "ru": "Я не был там уже два года",
+    "en": "I haven't been there for two years"
+  },
+  {
+    "_id": 59,
+    "ru": "Я не видел его с детства",
+    "en": "I haven't seen him since childhood"
+  },
+  {
+    "_id": 60,
+    "ru": "Я еще не закончил делать эти упражнения",
+    "en": "I haven't finished doing these exercises yet"
+  },
+  {
+    "_id": 61,
+    "ru": "Я еще не закончил делать домашнее задание",
+    "en": "I haven't finished doing my homework yet"
+  },
+  {
+    "_id": 62,
+    "ru": "Она еще не закончила готовить",
+    "en": "She hasn't finished cooking yet"
+  },
+  {
+    "_id": 63,
+    "ru": "У нее было много работы в эти дни",
+    "en": "She has had a lot of work these days"
+  },
+  {
+    "_id": 64,
+    "ru": "У нее было так много работы в эти дни",
+    "en": "She has had so much work these days"
+  },
+  {
+    "_id": 65,
+    "ru": "Она так много работала вчера",
+    "en": "She worked so much yesterday"
+  },
+  {
+    "_id": 66,
+    "ru": "Я потерял ключи и я не знаю, что делать",
+    "en": "I've lost my keys and I don't know what to do"
+  },
+  {
+    "_id": 67,
+    "ru": "Я потерял ключи и я не знаю, где их найти",
+    "en": "I've lost my keys and I don't know where to find them"
+  },
+  {
+    "_id": 68,
+    "ru": "Я потерял ключи и не могу войти в дом",
+    "en": "I've lost my keys so I can't get into my house"
+  },
+  {
+    "_id": 69,
+    "ru": "Я потерял свои деньги и не знаю, что делать",
+    "en": "I've lost my money and I don't know what to do"
+  },
+  {
+    "_id": 70,
+    "ru": "Она потеряла ключи и не может открыть свою машину",
+    "en": "She's lost the keys and she can't open her car"
+  },
+  {
+    "_id": 71,
+    "ru": "У меня было много работы на этой неделе",
+    "en": "I have had a lot of work this week"
+  },
+  {
+    "_id": 72,
+    "ru": "У меня было так много работы в этом месяце",
+    "en": "I have had so much work this month"
+  },
+  {
+    "_id": 73,
+    "ru": "У меня было много работы вчера",
+    "en": "I had a lot of work yesterday"
+  },
+  {
+    "_id": 74,
+    "ru": "Я не был там с детства",
+    "en": "I haven't been there since my childhood"
+  },
+  {
+    "_id": 75,
+    "ru": "Я не был в этом месте с 2000",
+    "en": "I haven't been to this place since 2000"
+  },
+  {
+    "_id": 76,
+    "ru": "Я никогда не был здесь",
+    "en": "I have never been here"
+  },
+  {
+    "_id": 77,
+    "ru": "Что ты мне только что сказал?",
+    "en": "What have you just told me?"
+  },
+  {
+    "_id": 78,
+    "ru": "Кто только что мне это сказал?",
+    "en": "Who has just told me it?"
+  },
+  {
+    "_id": 79,
+    "ru": "Что ты мне только что показал?",
+    "en": "What have you just shown to me?"
+  },
+  {
+    "_id": 80,
+    "ru": "Они переехали в этот дом в этом году",
+    "en": "They have moved into this house this year"
+  },
+  {
+    "_id": 81,
+    "ru": "На этой неделе не шел дождь",
+    "en": "It hasn't rained this week"
+  },
+  {
+    "_id": 82,
+    "ru": "Я жил там, когда я был ребенком",
+    "en": "I lived there when I was a child"
+  },
+  {
+    "_id": 83,
+    "ru": "Ты когда-нибудь пробовал эту еду?",
+    "en": "Have you ever tasted this food?"
+  },
+  {
+    "_id": 84,
+    "ru": "Я еще не был в США",
+    "en": "I haven't been to the USA yet"
+  },
+  {
+    "_id": 85,
+    "ru": "Он жил в маленьком городке, когда он был ребенком",
+    "en": "He lived in a small town when he was a kid"
+  },
+  {
+    "_id": 86,
+    "ru": "Я видел ее с этим парнем прошлой ночью",
+    "en": "I saw her with this guy last night"
+  },
+  {
+    "_id": 87,
+    "ru": "Я не видел своих одноклассников около года",
+    "en": "I haven't seen my classmates for about a year"
+  },
+  {
+    "_id": 88,
+    "ru": "Она выиграла в лотерею в прошлом году",
+    "en": "She won the lottery last year"
+  },
+  {
+    "_id": 89,
+    "ru": "Что ты только что сказал?",
+    "en": "What have you just said?"
+  },
+  {
+    "_id": 90,
+    "ru": "Я никогда не встречал ее",
+    "en": "I have never met her"
+  },
+  {
+    "_id": 91,
+    "ru": "Они переехали в этот дом в 2019 году",
+    "en": "They moved into this house in 2019"
+  },
+  {
+    "_id": 92,
+    "ru": "На прошлой неделе шел дождь",
+    "en": "It rained last week"
+  },
+  {
+    "_id": 93,
+    "ru": "Он ушел несколько минут назад",
+    "en": "He left a few minutes ago"
+  }
 ]

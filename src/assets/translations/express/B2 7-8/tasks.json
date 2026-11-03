@@ -1,54 +1,67 @@
 [
-  [
-    "Как насчет того, чтобы поесть вне дома сегодня вечером? (1)",
-    "What about eating out eating out tonight? (1)"
-  ],
-  [
-    "Она весь день присматривала за детьми",
-    "She's been looking after the kids all day"
-  ],
-  [
-    "Она сказала, что присмотрит за детьми",
-    "She said that she would look after the kids"
-  ],
-  [
-    "Я еще не включил компьютер",
-    "I haven't turned on the computer yet"
-  ],
-  [
-    "Успокойся! Нет никакой нужды беспокоиться",
-    "Calm down! There is no need to worry"
-  ],
-  [
-    "Не могли бы вы включить свет, пожалуйста?",
-    "Could you switch on the light, please?"
-  ],
-  [
-    "Компьютер включен?",
-    "Is the computer turned on?"
-  ],
-  [
-    "Если ты не поторопишься, то можешь отстать",
-    "If you don't hurry up, you can fall behind"
-  ],
-  [
-    "Как насчет того, чтобы поесть вне дома сегодня вечером? (2)",
-    "How about eating out eating out tonight? (2)"
-  ],
-  [
-    "Тебе нужно успокоиться чуть-чуть!",
-    "You need to calm down a bit!"
-  ],
-  [
-    "Я раньше вставал очень рано, когда работал там",
-    "I used to get up very early when I worked there"
-  ],
-  [
-    "К тому времени, как он мне позвонил, я уже проснулся",
-    "By the time he called me, I had already woken up"
-  ],
-  [
-    "Меня попросили заполнить форму",
-    "I was asked to fill in the form"
-  ]
+  {
+    "_id": 1,
+    "ru": "Как насчет того, чтобы поесть вне дома сегодня вечером? (1)",
+    "en": "What about eating out eating out tonight? (1)"
+  },
+  {
+    "_id": 2,
+    "ru": "Она весь день присматривала за детьми",
+    "en": "She's been looking after the kids all day"
+  },
+  {
+    "_id": 3,
+    "ru": "Она сказала, что присмотрит за детьми",
+    "en": "She said that she would look after the kids"
+  },
+  {
+    "_id": 4,
+    "ru": "Я еще не включил компьютер",
+    "en": "I haven't turned on the computer yet"
+  },
+  {
+    "_id": 5,
+    "ru": "Успокойся! Нет никакой нужды беспокоиться",
+    "en": "Calm down! There is no need to worry"
+  },
+  {
+    "_id": 6,
+    "ru": "Не могли бы вы включить свет, пожалуйста?",
+    "en": "Could you switch on the light, please?"
+  },
+  {
+    "_id": 7,
+    "ru": "Компьютер включен?",
+    "en": "Is the computer turned on?"
+  },
+  {
+    "_id": 8,
+    "ru": "Если ты не поторопишься, то можешь отстать",
+    "en": "If you don't hurry up, you can fall behind"
+  },
+  {
+    "_id": 9,
+    "ru": "Как насчет того, чтобы поесть вне дома сегодня вечером? (2)",
+    "en": "How about eating out eating out tonight? (2)"
+  },
+  {
+    "_id": 10,
+    "ru": "Тебе нужно успокоиться чуть-чуть!",
+    "en": "You need to calm down a bit!"
+  },
+  {
+    "_id": 11,
+    "ru": "Я раньше вставал очень рано, когда работал там",
+    "en": "I used to get up very early when I worked there"
+  },
+  {
+    "_id": 12,
+    "ru": "К тому времени, как он мне позвонил, я уже проснулся",
+    "en": "By the time he called me, I had already woken up"
+  },
+  {
+    "_id": 13,
+    "ru": "Меня попросили заполнить форму",
+    "en": "I was asked to fill in the form"
+  }
 ]

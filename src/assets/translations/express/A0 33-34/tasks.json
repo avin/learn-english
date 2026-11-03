@@ -1,202 +1,252 @@
 [
-  [
-    "Я сделал это сразу же",
-    "I did it immediately"
-  ],
-  [
-    "Я сделал эту работу",
-    "I did this work"
-  ],
-  [
-    "Она купила дом",
-    "She bought a house"
-  ],
-  [
-    "Я понял это сразу",
-    "I understood it immediately"
-  ],
-  [
-    "Я вернулся",
-    "I came back"
-  ],
-  [
-    "Я прочитал эту историю",
-    "I read this story"
-  ],
-  [
-    "Я прочитал эту книгу",
-    "I read this book"
-  ],
-  [
-    "Я взял это с собой",
-    "I took it with me"
-  ],
-  [
-    "Ты сделал это очень хорошо",
-    "You did it very well"
-  ],
-  [
-    "Я сделал это для тебя",
-    "I did it for you"
-  ],
-  [
-    "Я получил письмо от него",
-    "I got a letter from him"
-  ],
-  [
-    "Я написал ей сообщение",
-    "I wrote her a message"
-  ],
-  [
-    "Я написал им письмо",
-    "I wrote them a letter"
-  ],
-  [
-    "Он сделал ошибку",
-    "He made a mistake"
-  ],
-  [
-    "Я знал это",
-    "I knew it"
-  ],
-  [
-    "Я знал ответ",
-    "I knew the answer"
-  ],
-  [
-    "Я пошел домой",
-    "I went home"
-  ],
-  [
-    "Я вернулся два часа назад",
-    "I came back two hours ago"
-  ],
-  [
-    "Я понял это только позже",
-    "I understood it only later"
-  ],
-  [
-    "Я прочитал эту статью",
-    "I read this article"
-  ],
-  [
-    "Я знал это очень хорошо",
-    "I knew it very well"
-  ],
-  [
-    "Она сказала это так громко",
-    "She said it so loudly"
-  ],
-  [
-    "Я понял это наконец",
-    "I understood it at last"
-  ],
-  [
-    "Она сказала это очень громко",
-    "She said it very loudly"
-  ],
-  [
-    "Он сказал это слишком тихо",
-    "He said it too quietly"
-  ],
-  [
-    "Я купил тебе подарок",
-    "I bought you a present"
-  ],
-  [
-    "Я получил сообщение от нее",
-    "I got a message from her"
-  ],
-  [
-    "Он сказал это снова",
-    "He said it again"
-  ],
-  [
-    "Он рассказал мне эту историю",
-    "He told me this story"
-  ],
-  [
-    "Я принял это предложение",
-    "I took this offer"
-  ],
-  [
-    "Я купил два билета",
-    "I bought two tickets"
-  ],
-  [
-    "Я понял эту речь",
-    "I understood this speech"
-  ],
-  [
-    "Я понял тебя",
-    "I understood you"
-  ],
-  [
-    "Он сказал это очень тихо",
-    "He said it very quietly"
-  ],
-  [
-    "Я ходил на работу вчера",
-    "I went to work yesterday"
-  ],
-  [
-    "Я получил твое сообщение",
-    "I got your message"
-  ],
-  [
-    "Он взял эти деньги",
-    "He took this money"
-  ],
-  [
-    "Я думаю, я сделал ошибку",
-    "I think I made a mistake"
-  ],
-  [
-    "Я купил подарок для тебя",
-    "I bought a present for you"
-  ],
-  [
-    "Я прочитал это онлайн",
-    "I read it online"
-  ],
-  [
-    "Я написал письмо",
-    "I wrote a letter"
-  ],
-  [
-    "Он купил машину",
-    "He bought a car"
-  ],
-  [
-    "Я получил твое письмо",
-    "I got your letter"
-  ],
-  [
-    "Я пошел домой после работы",
-    "I went home after work"
-  ],
-  [
-    "Я написал сообщение",
-    "I wrote a message"
-  ],
-  [
-    "Я видел его позавчера",
-    "I saw him the day before yesterday"
-  ],
-  [
-    "Она купила квартиру",
-    "She bought an apartment"
-  ],
-  [
-    "Я вернулся час назад",
-    "I came back an hour ago"
-  ],
-  [
-    "Я купил подарок",
-    "I bought a present"
-  ],
-  [
-    "Я видел ее вчера",
-    "I saw her yesterday"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я сделал это сразу же",
+    "en": "I did it immediately"
+  },
+  {
+    "_id": 2,
+    "ru": "Я сделал эту работу",
+    "en": "I did this work"
+  },
+  {
+    "_id": 3,
+    "ru": "Она купила дом",
+    "en": "She bought a house"
+  },
+  {
+    "_id": 4,
+    "ru": "Я понял это сразу",
+    "en": "I understood it immediately"
+  },
+  {
+    "_id": 5,
+    "ru": "Я вернулся",
+    "en": "I came back"
+  },
+  {
+    "_id": 6,
+    "ru": "Я прочитал эту историю",
+    "en": "I read this story"
+  },
+  {
+    "_id": 7,
+    "ru": "Я прочитал эту книгу",
+    "en": "I read this book"
+  },
+  {
+    "_id": 8,
+    "ru": "Я взял это с собой",
+    "en": "I took it with me"
+  },
+  {
+    "_id": 9,
+    "ru": "Ты сделал это очень хорошо",
+    "en": "You did it very well"
+  },
+  {
+    "_id": 10,
+    "ru": "Я сделал это для тебя",
+    "en": "I did it for you"
+  },
+  {
+    "_id": 11,
+    "ru": "Я получил письмо от него",
+    "en": "I got a letter from him"
+  },
+  {
+    "_id": 12,
+    "ru": "Я написал ей сообщение",
+    "en": "I wrote her a message"
+  },
+  {
+    "_id": 13,
+    "ru": "Я написал им письмо",
+    "en": "I wrote them a letter"
+  },
+  {
+    "_id": 14,
+    "ru": "Он сделал ошибку",
+    "en": "He made a mistake"
+  },
+  {
+    "_id": 15,
+    "ru": "Я знал это",
+    "en": "I knew it"
+  },
+  {
+    "_id": 16,
+    "ru": "Я знал ответ",
+    "en": "I knew the answer"
+  },
+  {
+    "_id": 17,
+    "ru": "Я пошел домой",
+    "en": "I went home"
+  },
+  {
+    "_id": 18,
+    "ru": "Я вернулся два часа назад",
+    "en": "I came back two hours ago"
+  },
+  {
+    "_id": 19,
+    "ru": "Я понял это только позже",
+    "en": "I understood it only later"
+  },
+  {
+    "_id": 20,
+    "ru": "Я прочитал эту статью",
+    "en": "I read this article"
+  },
+  {
+    "_id": 21,
+    "ru": "Я знал это очень хорошо",
+    "en": "I knew it very well"
+  },
+  {
+    "_id": 22,
+    "ru": "Она сказала это так громко",
+    "en": "She said it so loudly"
+  },
+  {
+    "_id": 23,
+    "ru": "Я понял это наконец",
+    "en": "I understood it at last"
+  },
+  {
+    "_id": 24,
+    "ru": "Она сказала это очень громко",
+    "en": "She said it very loudly"
+  },
+  {
+    "_id": 25,
+    "ru": "Он сказал это слишком тихо",
+    "en": "He said it too quietly"
+  },
+  {
+    "_id": 26,
+    "ru": "Я купил тебе подарок",
+    "en": "I bought you a present"
+  },
+  {
+    "_id": 27,
+    "ru": "Я получил сообщение от нее",
+    "en": "I got a message from her"
+  },
+  {
+    "_id": 28,
+    "ru": "Он сказал это снова",
+    "en": "He said it again"
+  },
+  {
+    "_id": 29,
+    "ru": "Он рассказал мне эту историю",
+    "en": "He told me this story"
+  },
+  {
+    "_id": 30,
+    "ru": "Я принял это предложение",
+    "en": "I took this offer"
+  },
+  {
+    "_id": 31,
+    "ru": "Я купил два билета",
+    "en": "I bought two tickets"
+  },
+  {
+    "_id": 32,
+    "ru": "Я понял эту речь",
+    "en": "I understood this speech"
+  },
+  {
+    "_id": 33,
+    "ru": "Я понял тебя",
+    "en": "I understood you"
+  },
+  {
+    "_id": 34,
+    "ru": "Он сказал это очень тихо",
+    "en": "He said it very quietly"
+  },
+  {
+    "_id": 35,
+    "ru": "Я ходил на работу вчера",
+    "en": "I went to work yesterday"
+  },
+  {
+    "_id": 36,
+    "ru": "Я получил твое сообщение",
+    "en": "I got your message"
+  },
+  {
+    "_id": 37,
+    "ru": "Он взял эти деньги",
+    "en": "He took this money"
+  },
+  {
+    "_id": 38,
+    "ru": "Я думаю, я сделал ошибку",
+    "en": "I think I made a mistake"
+  },
+  {
+    "_id": 39,
+    "ru": "Я купил подарок для тебя",
+    "en": "I bought a present for you"
+  },
+  {
+    "_id": 40,
+    "ru": "Я прочитал это онлайн",
+    "en": "I read it online"
+  },
+  {
+    "_id": 41,
+    "ru": "Я написал письмо",
+    "en": "I wrote a letter"
+  },
+  {
+    "_id": 42,
+    "ru": "Он купил машину",
+    "en": "He bought a car"
+  },
+  {
+    "_id": 43,
+    "ru": "Я получил твое письмо",
+    "en": "I got your letter"
+  },
+  {
+    "_id": 44,
+    "ru": "Я пошел домой после работы",
+    "en": "I went home after work"
+  },
+  {
+    "_id": 45,
+    "ru": "Я написал сообщение",
+    "en": "I wrote a message"
+  },
+  {
+    "_id": 46,
+    "ru": "Я видел его позавчера",
+    "en": "I saw him the day before yesterday"
+  },
+  {
+    "_id": 47,
+    "ru": "Она купила квартиру",
+    "en": "She bought an apartment"
+  },
+  {
+    "_id": 48,
+    "ru": "Я вернулся час назад",
+    "en": "I came back an hour ago"
+  },
+  {
+    "_id": 49,
+    "ru": "Я купил подарок",
+    "en": "I bought a present"
+  },
+  {
+    "_id": 50,
+    "ru": "Я видел ее вчера",
+    "en": "I saw her yesterday"
+  }
 ]

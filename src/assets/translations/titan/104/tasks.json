@@ -1,382 +1,477 @@
 [
-  [
-    "Мы одобряем твое решение",
-    "We approve of your decision"
-  ],
-  [
-    "Он попытался сбежать из тюрьмы",
-    "He tried to escape from prison"
-  ],
-  [
-    "Я говорил с ним вчера",
-    "I spoke to him yesterday"
-  ],
-  [
-    "Он обычно тратит так много денег на это",
-    "He usually spends so much money on it"
-  ],
-  [
-    "Он проголосовал за второго кандидата",
-    "He voted for the second candidate"
-  ],
-  [
-    "Его действительно не волнуют эти вещи",
-    "He doesn't really care about these things"
-  ],
-  [
-    "Он ответил на мое письмо немедленно",
-    "He replied to my letter immediately"
-  ],
-  [
-    "Это может привести нас к успеху",
-    "It can lead us to success"
-  ],
-  [
-    "Он ответил на твое сообщение?",
-    "Did he reply to your message?"
-  ],
-  [
-    "Меня действительно это не волнует",
-    "I don't really care about it"
-  ],
-  [
-    "Он одобряет этот выбор?",
-    "Does he approve of this choice?"
-  ],
-  [
-    "Я одобряю это решение",
-    "I approve of this decision"
-  ],
-  [
-    "Я хочу поздравить тебя с твоим днем рождения",
-    "I want to congratulate you on your birthday"
-  ],
-  [
-    "Меня это не волнует",
-    "I don't care about it"
-  ],
-  [
-    "Он страдает от очень серьезной болезни",
-    "He suffers from a very serious illness"
-  ],
-  [
-    "Ты подготовился к этому экзамену?",
-    "Did you prepare for this exam?"
-  ],
-  [
-    "Мне все равно",
-    "I don't care"
-  ],
-  [
-    "Он страдает от депрессии",
-    "He suffers from depression"
-  ],
-  [
-    "Она не заботится об этом",
-    "She doesn't care about it"
-  ],
-  [
-    "Я представил им своего друга",
-    "I introduced my friend to them"
-  ],
-  [
-    "Позволь мне представить его!",
-    "Let me introduce him!"
-  ],
-  [
-    "Он говорил со мной об этом вчера",
-    "He spoke to me about it yesterday"
-  ],
-  [
-    "Я надеюсь на твою поддержку",
-    "I hope for your support"
-  ],
-  [
-    "Он ответил на мое письмо почти сразу",
-    "He answered my letter almost immediately"
-  ],
-  [
-    "Ты одобряешь это решение?",
-    "Do you approve of this decision?"
-  ],
-  [
-    "Я проголосовал за первого кандидата",
-    "I voted for the first candidate"
-  ],
-  [
-    "Он надеется на твою помощь",
-    "He hopes for your help"
-  ],
-  [
-    "Я хочу послушать это еще раз",
-    "I want to listen to it one more time"
-  ],
-  [
-    "Это привело меня к успеху",
-    "It led me to success"
-  ],
-  [
-    "Тебе нравится слушать музыку?",
-    "Do you like listening to music?"
-  ],
-  [
-    "Не беспокойся об этом слишком сильно!",
-    "Don't worry about it too much!"
-  ],
-  [
-    "Я хочу представить моего друга тебе",
-    "I want to introduce my friend to you"
-  ],
-  [
-    "Что привело его к успеху?",
-    "What led him to success?"
-  ],
-  [
-    "Она страдает от головных болей",
-    "She suffers from headaches"
-  ],
-  [
-    "Он пытался бежать из этой страны",
-    "He tried to escape from this country"
-  ],
-  [
-    "Ты ответил на это письмо?",
-    "Did you reply to this letter?"
-  ],
-  [
-    "Она голосовала за другого кандидата",
-    "She voted for another candidate"
-  ],
-  [
-    "Как ты будешь готовиться к этому тесту?",
-    "How will you prepare for this test?"
-  ],
-  [
-    "Тебе совсем не нужно беспокоиться об этом",
-    "You don't need to worry about it at all"
-  ],
-  [
-    "Он одобряет этот выбор",
-    "He approves of this choice"
-  ],
-  [
-    "Я хотел бы поздравить тебя с твоим днем рождения",
-    "I'd like to congratulate you on your birthday"
-  ],
-  [
-    "Не все зависит от меня",
-    "Not everything depends on me"
-  ],
-  [
-    "Мне удалось получить эту работу",
-    "I succeeded in getting this job"
-  ],
-  [
-    "Книга состоит из пяти глав",
-    "The book consists of five chapters"
-  ],
-  [
-    "Я хотел бы поздравить тебя со сдачей теста",
-    "I'd like to congratulate you on passing the test"
-  ],
-  [
-    "Я хочу поздравить тебя со сдачей экзамена",
-    "I want to congratulate you on passing the exam"
-  ],
-  [
-    "Ему удалось сбежать из полиции",
-    "He managed to escape from the police"
-  ],
-  [
-    "Почему ты так сильно беспокоишься об этом?",
-    "Why do you worry about it so much?"
-  ],
-  [
-    "Постарайся не беспокоиться об этом",
-    "Try not to worry about it"
-  ],
-  [
-    "Он надеется на лучшее, но ожидает худшего",
-    "He hopes for the best but expects the worst"
-  ],
-  [
-    "Я с нетерпением жду следующих уроков",
-    "I look forward to the next lessons"
-  ],
-  [
-    "Кто голосовал за него?",
-    "Who voted for him?"
-  ],
-  [
-    "Мне удалось получить хорошую оценку",
-    "I succeeded in getting a good grade"
-  ],
-  [
-    "Мне удалось сделать это очень хорошо",
-    "I succeeded in doing it very well"
-  ],
-  [
-    "Ей удалось получить хорошую работу",
-    "She succeeded in getting a good job"
-  ],
-  [
-    "Кого это действительно волновало?",
-    "Who really cared about it?"
-  ],
-  [
-    "Тебя действительно это волновало?",
-    "Did you really care about it?"
-  ],
-  [
-    "Кого это волновало больше всего?",
-    "Who cared about it most of all?"
-  ],
-  [
-    "Я вижу, ты действительно беспокоишься об этом",
-    "I see you're really worried about it"
-  ],
-  [
-    "Ты действительно беспокоился об этом?",
-    "Did you really worry about it?"
-  ],
-  [
-    "Я вижу, ты не беспокоишься об этом",
-    "I see you don't worry about it"
-  ],
-  [
-    "Ему удалось заработать эту сумму денег",
-    "He succeeded in earning this sum of money"
-  ],
-  [
-    "Ему удалось выучить этот текст наизусть",
-    "He succeeded in learning this text by heart"
-  ],
-  [
-    "Мне удалось заработать так много денег",
-    "I succeeded in earning so much money"
-  ],
-  [
-    "Я с нетерпением жду просмотра следующих видео",
-    "I look forward to watching the next videos"
-  ],
-  [
-    "Я с нетерпением жду следующего урока",
-    "I look forward to the next lesson"
-  ],
-  [
-    "Я с нетерпением жду новой песни",
-    "I look forward to a new song"
-  ],
-  [
-    "Почему ты так беспокоишься об этом?",
-    "Why are you so worried about it?"
-  ],
-  [
-    "Ты так сильно беспокоился об этом?",
-    "Did you worry about it so much?"
-  ],
-  [
-    "Почему она так беспокоится об этом?",
-    "Why is she so worried about it?"
-  ],
-  [
-    "Мне удалось сдать этот экзамен",
-    "I succeeded in passing this exam"
-  ],
-  [
-    "Ей удалось пройти этот тест",
-    "She succeeded in passing this test"
-  ],
-  [
-    "Я преуспел в бизнесе",
-    "I succeeded in business"
-  ],
-  [
-    "Презентация состоит из десяти слайдов",
-    "The presentation consists of ten slides"
-  ],
-  [
-    "Эта книга состоит из десяти глав",
-    "This book consists of ten chapters"
-  ],
-  [
-    "Моя презентация состоит из двух частей",
-    "My presentation consists of two parts"
-  ],
-  [
-    "Я действительно надеюсь на твое понимание",
-    "I really hope for your understanding"
-  ],
-  [
-    "Я действительно надеюсь на его поддержку",
-    "I really hope for his support"
-  ],
-  [
-    "Я так сильно надеюсь на ее понимание",
-    "I hope for her understanding so much"
-  ],
-  [
-    "Мне удалось сдать тест",
-    "I succeeded in passing the test"
-  ],
-  [
-    "Мне удалось сдать тот экзамен",
-    "I succeeded in passing that exam"
-  ],
-  [
-    "Мне удалось решить эту задачу",
-    "I succeeded in solving this task"
-  ],
-  [
-    "Отчет состоит из двух частей",
-    "The report consists of two parts"
-  ],
-  [
-    "Мне нужно избавиться от этих глупых ошибок",
-    "I need to get rid of these silly mistakes"
-  ],
-  [
-    "Она часто страдает от головных болей",
-    "She often suffers from headaches"
-  ],
-  [
-    "Он преуспел в бизнесе",
-    "He succeeded in business"
-  ],
-  [
-    "Я предпочитаю надеяться на лучшее",
-    "I prefer to hope for the best"
-  ],
-  [
-    "Тебе удалось получить эту работу?",
-    "Did you succeed in getting this job?"
-  ],
-  [
-    "Это напоминает мне о моем прошлом",
-    "It reminds me of my past"
-  ],
-  [
-    "Он страдает от боли в спине",
-    "He suffers from a backache"
-  ],
-  [
-    "Я надеюсь на лучшее",
-    "I hope for the best"
-  ],
-  [
-    "Тебя это действительно волновало?",
-    "Did you really carry about it?"
-  ],
-  [
-    "Это напоминает мне о ней",
-    "It reminds me of her"
-  ],
-  [
-    "Кто смеется над ним?",
-    "Who laughs at him?"
-  ],
-  [
-    "Мне удалось это сделать",
-    "I succeeded in doing it"
-  ]
+  {
+    "_id": 1,
+    "ru": "Мы одобряем твое решение",
+    "en": "We approve of your decision"
+  },
+  {
+    "_id": 2,
+    "ru": "Он попытался сбежать из тюрьмы",
+    "en": "He tried to escape from prison"
+  },
+  {
+    "_id": 3,
+    "ru": "Я говорил с ним вчера",
+    "en": "I spoke to him yesterday"
+  },
+  {
+    "_id": 4,
+    "ru": "Он обычно тратит так много денег на это",
+    "en": "He usually spends so much money on it"
+  },
+  {
+    "_id": 5,
+    "ru": "Он проголосовал за второго кандидата",
+    "en": "He voted for the second candidate"
+  },
+  {
+    "_id": 6,
+    "ru": "Его действительно не волнуют эти вещи",
+    "en": "He doesn't really care about these things"
+  },
+  {
+    "_id": 7,
+    "ru": "Он ответил на мое письмо немедленно",
+    "en": "He replied to my letter immediately"
+  },
+  {
+    "_id": 8,
+    "ru": "Это может привести нас к успеху",
+    "en": "It can lead us to success"
+  },
+  {
+    "_id": 9,
+    "ru": "Он ответил на твое сообщение?",
+    "en": "Did he reply to your message?"
+  },
+  {
+    "_id": 10,
+    "ru": "Меня действительно это не волнует",
+    "en": "I don't really care about it"
+  },
+  {
+    "_id": 11,
+    "ru": "Он одобряет этот выбор?",
+    "en": "Does he approve of this choice?"
+  },
+  {
+    "_id": 12,
+    "ru": "Я одобряю это решение",
+    "en": "I approve of this decision"
+  },
+  {
+    "_id": 13,
+    "ru": "Я хочу поздравить тебя с твоим днем рождения",
+    "en": "I want to congratulate you on your birthday"
+  },
+  {
+    "_id": 14,
+    "ru": "Меня это не волнует",
+    "en": "I don't care about it"
+  },
+  {
+    "_id": 15,
+    "ru": "Он страдает от очень серьезной болезни",
+    "en": "He suffers from a very serious illness"
+  },
+  {
+    "_id": 16,
+    "ru": "Ты подготовился к этому экзамену?",
+    "en": "Did you prepare for this exam?"
+  },
+  {
+    "_id": 17,
+    "ru": "Мне все равно",
+    "en": "I don't care"
+  },
+  {
+    "_id": 18,
+    "ru": "Он страдает от депрессии",
+    "en": "He suffers from depression"
+  },
+  {
+    "_id": 19,
+    "ru": "Она не заботится об этом",
+    "en": "She doesn't care about it"
+  },
+  {
+    "_id": 20,
+    "ru": "Я представил им своего друга",
+    "en": "I introduced my friend to them"
+  },
+  {
+    "_id": 21,
+    "ru": "Позволь мне представить его!",
+    "en": "Let me introduce him!"
+  },
+  {
+    "_id": 22,
+    "ru": "Он говорил со мной об этом вчера",
+    "en": "He spoke to me about it yesterday"
+  },
+  {
+    "_id": 23,
+    "ru": "Я надеюсь на твою поддержку",
+    "en": "I hope for your support"
+  },
+  {
+    "_id": 24,
+    "ru": "Он ответил на мое письмо почти сразу",
+    "en": "He answered my letter almost immediately"
+  },
+  {
+    "_id": 25,
+    "ru": "Ты одобряешь это решение?",
+    "en": "Do you approve of this decision?"
+  },
+  {
+    "_id": 26,
+    "ru": "Я проголосовал за первого кандидата",
+    "en": "I voted for the first candidate"
+  },
+  {
+    "_id": 27,
+    "ru": "Он надеется на твою помощь",
+    "en": "He hopes for your help"
+  },
+  {
+    "_id": 28,
+    "ru": "Я хочу послушать это еще раз",
+    "en": "I want to listen to it one more time"
+  },
+  {
+    "_id": 29,
+    "ru": "Это привело меня к успеху",
+    "en": "It led me to success"
+  },
+  {
+    "_id": 30,
+    "ru": "Тебе нравится слушать музыку?",
+    "en": "Do you like listening to music?"
+  },
+  {
+    "_id": 31,
+    "ru": "Не беспокойся об этом слишком сильно!",
+    "en": "Don't worry about it too much!"
+  },
+  {
+    "_id": 32,
+    "ru": "Я хочу представить моего друга тебе",
+    "en": "I want to introduce my friend to you"
+  },
+  {
+    "_id": 33,
+    "ru": "Что привело его к успеху?",
+    "en": "What led him to success?"
+  },
+  {
+    "_id": 34,
+    "ru": "Она страдает от головных болей",
+    "en": "She suffers from headaches"
+  },
+  {
+    "_id": 35,
+    "ru": "Он пытался бежать из этой страны",
+    "en": "He tried to escape from this country"
+  },
+  {
+    "_id": 36,
+    "ru": "Ты ответил на это письмо?",
+    "en": "Did you reply to this letter?"
+  },
+  {
+    "_id": 37,
+    "ru": "Она голосовала за другого кандидата",
+    "en": "She voted for another candidate"
+  },
+  {
+    "_id": 38,
+    "ru": "Как ты будешь готовиться к этому тесту?",
+    "en": "How will you prepare for this test?"
+  },
+  {
+    "_id": 39,
+    "ru": "Тебе совсем не нужно беспокоиться об этом",
+    "en": "You don't need to worry about it at all"
+  },
+  {
+    "_id": 40,
+    "ru": "Он одобряет этот выбор",
+    "en": "He approves of this choice"
+  },
+  {
+    "_id": 41,
+    "ru": "Я хотел бы поздравить тебя с твоим днем рождения",
+    "en": "I'd like to congratulate you on your birthday"
+  },
+  {
+    "_id": 42,
+    "ru": "Не все зависит от меня",
+    "en": "Not everything depends on me"
+  },
+  {
+    "_id": 43,
+    "ru": "Мне удалось получить эту работу",
+    "en": "I succeeded in getting this job"
+  },
+  {
+    "_id": 44,
+    "ru": "Книга состоит из пяти глав",
+    "en": "The book consists of five chapters"
+  },
+  {
+    "_id": 45,
+    "ru": "Я хотел бы поздравить тебя со сдачей теста",
+    "en": "I'd like to congratulate you on passing the test"
+  },
+  {
+    "_id": 46,
+    "ru": "Я хочу поздравить тебя со сдачей экзамена",
+    "en": "I want to congratulate you on passing the exam"
+  },
+  {
+    "_id": 47,
+    "ru": "Ему удалось сбежать из полиции",
+    "en": "He managed to escape from the police"
+  },
+  {
+    "_id": 48,
+    "ru": "Почему ты так сильно беспокоишься об этом?",
+    "en": "Why do you worry about it so much?"
+  },
+  {
+    "_id": 49,
+    "ru": "Постарайся не беспокоиться об этом",
+    "en": "Try not to worry about it"
+  },
+  {
+    "_id": 50,
+    "ru": "Он надеется на лучшее, но ожидает худшего",
+    "en": "He hopes for the best but expects the worst"
+  },
+  {
+    "_id": 51,
+    "ru": "Я с нетерпением жду следующих уроков",
+    "en": "I look forward to the next lessons"
+  },
+  {
+    "_id": 52,
+    "ru": "Кто голосовал за него?",
+    "en": "Who voted for him?"
+  },
+  {
+    "_id": 53,
+    "ru": "Мне удалось получить хорошую оценку",
+    "en": "I succeeded in getting a good grade"
+  },
+  {
+    "_id": 54,
+    "ru": "Мне удалось сделать это очень хорошо",
+    "en": "I succeeded in doing it very well"
+  },
+  {
+    "_id": 55,
+    "ru": "Ей удалось получить хорошую работу",
+    "en": "She succeeded in getting a good job"
+  },
+  {
+    "_id": 56,
+    "ru": "Кого это действительно волновало?",
+    "en": "Who really cared about it?"
+  },
+  {
+    "_id": 57,
+    "ru": "Тебя действительно это волновало?",
+    "en": "Did you really care about it?"
+  },
+  {
+    "_id": 58,
+    "ru": "Кого это волновало больше всего?",
+    "en": "Who cared about it most of all?"
+  },
+  {
+    "_id": 59,
+    "ru": "Я вижу, ты действительно беспокоишься об этом",
+    "en": "I see you're really worried about it"
+  },
+  {
+    "_id": 60,
+    "ru": "Ты действительно беспокоился об этом?",
+    "en": "Did you really worry about it?"
+  },
+  {
+    "_id": 61,
+    "ru": "Я вижу, ты не беспокоишься об этом",
+    "en": "I see you don't worry about it"
+  },
+  {
+    "_id": 62,
+    "ru": "Ему удалось заработать эту сумму денег",
+    "en": "He succeeded in earning this sum of money"
+  },
+  {
+    "_id": 63,
+    "ru": "Ему удалось выучить этот текст наизусть",
+    "en": "He succeeded in learning this text by heart"
+  },
+  {
+    "_id": 64,
+    "ru": "Мне удалось заработать так много денег",
+    "en": "I succeeded in earning so much money"
+  },
+  {
+    "_id": 65,
+    "ru": "Я с нетерпением жду просмотра следующих видео",
+    "en": "I look forward to watching the next videos"
+  },
+  {
+    "_id": 66,
+    "ru": "Я с нетерпением жду следующего урока",
+    "en": "I look forward to the next lesson"
+  },
+  {
+    "_id": 67,
+    "ru": "Я с нетерпением жду новой песни",
+    "en": "I look forward to a new song"
+  },
+  {
+    "_id": 68,
+    "ru": "Почему ты так беспокоишься об этом?",
+    "en": "Why are you so worried about it?"
+  },
+  {
+    "_id": 69,
+    "ru": "Ты так сильно беспокоился об этом?",
+    "en": "Did you worry about it so much?"
+  },
+  {
+    "_id": 70,
+    "ru": "Почему она так беспокоится об этом?",
+    "en": "Why is she so worried about it?"
+  },
+  {
+    "_id": 71,
+    "ru": "Мне удалось сдать этот экзамен",
+    "en": "I succeeded in passing this exam"
+  },
+  {
+    "_id": 72,
+    "ru": "Ей удалось пройти этот тест",
+    "en": "She succeeded in passing this test"
+  },
+  {
+    "_id": 73,
+    "ru": "Я преуспел в бизнесе",
+    "en": "I succeeded in business"
+  },
+  {
+    "_id": 74,
+    "ru": "Презентация состоит из десяти слайдов",
+    "en": "The presentation consists of ten slides"
+  },
+  {
+    "_id": 75,
+    "ru": "Эта книга состоит из десяти глав",
+    "en": "This book consists of ten chapters"
+  },
+  {
+    "_id": 76,
+    "ru": "Моя презентация состоит из двух частей",
+    "en": "My presentation consists of two parts"
+  },
+  {
+    "_id": 77,
+    "ru": "Я действительно надеюсь на твое понимание",
+    "en": "I really hope for your understanding"
+  },
+  {
+    "_id": 78,
+    "ru": "Я действительно надеюсь на его поддержку",
+    "en": "I really hope for his support"
+  },
+  {
+    "_id": 79,
+    "ru": "Я так сильно надеюсь на ее понимание",
+    "en": "I hope for her understanding so much"
+  },
+  {
+    "_id": 80,
+    "ru": "Мне удалось сдать тест",
+    "en": "I succeeded in passing the test"
+  },
+  {
+    "_id": 81,
+    "ru": "Мне удалось сдать тот экзамен",
+    "en": "I succeeded in passing that exam"
+  },
+  {
+    "_id": 82,
+    "ru": "Мне удалось решить эту задачу",
+    "en": "I succeeded in solving this task"
+  },
+  {
+    "_id": 83,
+    "ru": "Отчет состоит из двух частей",
+    "en": "The report consists of two parts"
+  },
+  {
+    "_id": 84,
+    "ru": "Мне нужно избавиться от этих глупых ошибок",
+    "en": "I need to get rid of these silly mistakes"
+  },
+  {
+    "_id": 85,
+    "ru": "Она часто страдает от головных болей",
+    "en": "She often suffers from headaches"
+  },
+  {
+    "_id": 86,
+    "ru": "Он преуспел в бизнесе",
+    "en": "He succeeded in business"
+  },
+  {
+    "_id": 87,
+    "ru": "Я предпочитаю надеяться на лучшее",
+    "en": "I prefer to hope for the best"
+  },
+  {
+    "_id": 88,
+    "ru": "Тебе удалось получить эту работу?",
+    "en": "Did you succeed in getting this job?"
+  },
+  {
+    "_id": 89,
+    "ru": "Это напоминает мне о моем прошлом",
+    "en": "It reminds me of my past"
+  },
+  {
+    "_id": 90,
+    "ru": "Он страдает от боли в спине",
+    "en": "He suffers from a backache"
+  },
+  {
+    "_id": 91,
+    "ru": "Я надеюсь на лучшее",
+    "en": "I hope for the best"
+  },
+  {
+    "_id": 92,
+    "ru": "Тебя это действительно волновало?",
+    "en": "Did you really carry about it?"
+  },
+  {
+    "_id": 93,
+    "ru": "Это напоминает мне о ней",
+    "en": "It reminds me of her"
+  },
+  {
+    "_id": 94,
+    "ru": "Кто смеется над ним?",
+    "en": "Who laughs at him?"
+  },
+  {
+    "_id": 95,
+    "ru": "Мне удалось это сделать",
+    "en": "I succeeded in doing it"
+  }
 ]

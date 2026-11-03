@@ -1,162 +1,202 @@
 [
-  [
-    "Она не расскажет ему об этом",
-    "She won't tell him about it"
-  ],
-  [
-    "Она не согласится",
-    "She won't agree"
-  ],
-  [
-    "Они не будут слушать это",
-    "They won't listen to it"
-  ],
-  [
-    "Он не узнает об этом",
-    "He won't know about it"
-  ],
-  [
-    "Он не поймет это",
-    "He won't understand it"
-  ],
-  [
-    "Он не придет сюда завтра",
-    "He won't come here tomorrow"
-  ],
-  [
-    "Он не пойдет на встречу",
-    "He won't go to the meeting"
-  ],
-  [
-    "Я не буду отвечать на это сообщение",
-    "I won't answer this message"
-  ],
-  [
-    "Я не буду отвечать на это письмо",
-    "I won't answer this letter"
-  ],
-  [
-    "Я думаю, он не согласится",
-    "I think he won't agree"
-  ],
-  [
-    "Она не пойдет на работу",
-    "She won't go to work"
-  ],
-  [
-    "Они не будут говорить об этом",
-    "They won't talk about it"
-  ],
-  [
-    "Он не будет слушать это",
-    "He won't listen to it"
-  ],
-  [
-    "Мы не пойдем на пляж завтра",
-    "We won't go to the beach tomorrow"
-  ],
-  [
-    "Мы не будем встречаться завтра",
-    "We won't meet tomorrow"
-  ],
-  [
-    "Я не приду туда завтра",
-    "I won't come there tomorrow"
-  ],
-  [
-    "Мы не пойдем туда",
-    "We won't go there"
-  ],
-  [
-    "Я не пойду туда",
-    "I won't go there"
-  ],
-  [
-    "Это не будет интересно тебе",
-    "It won't be interesting for you"
-  ],
-  [
-    "Я не буду играть в эту игру",
-    "I won't play this game"
-  ],
-  [
-    "Я не поеду в город завтра",
-    "I won't go to the city tomorrow"
-  ],
-  [
-    "Я не буду делать это",
-    "I won't do it"
-  ],
-  [
-    "Я не буду платить за это",
-    "I won't pay for it"
-  ],
-  [
-    "Я думаю, ему не понравится эта идея",
-    "I think he won't like this idea"
-  ],
-  [
-    "Я не буду тратить свое время на это",
-    "I won't spend my time on it"
-  ],
-  [
-    "Он не скажет это",
-    "He won't say it"
-  ],
-  [
-    "Я не буду танцевать",
-    "I won't dance"
-  ],
-  [
-    "Я думаю, это не поможет тебе",
-    "I think it won't help you"
-  ],
-  [
-    "Я не буду ждать этого",
-    "I won't wait for it"
-  ],
-  [
-    "Они не будут играть",
-    "They won't play"
-  ],
-  [
-    "Он не поверит этому",
-    "He won't believe it"
-  ],
-  [
-    "Я не буду занят",
-    "I won't be busy"
-  ],
-  [
-    "Я не пойду в парк сегодня",
-    "I won't go to the park today"
-  ],
-  [
-    "Я не буду ждать его",
-    "I won't wait for him"
-  ],
-  [
-    "Я думаю, это не поможет ему",
-    "I think it won't help him"
-  ],
-  [
-    "Я не буду занят завтра",
-    "I won't be busy tomorrow"
-  ],
-  [
-    "Она не пойдет на вечеринку",
-    "She won't go to the party"
-  ],
-  [
-    "Мы не будем его ждать",
-    "We won't wait for him"
-  ],
-  [
-    "Я не пойду на пляж сегодня",
-    "I won't go to the beach today"
-  ],
-  [
-    "Я не буду отвечать",
-    "I won't answer"
-  ]
+  {
+    "_id": 1,
+    "ru": "Она не расскажет ему об этом",
+    "en": "She won't tell him about it"
+  },
+  {
+    "_id": 2,
+    "ru": "Она не согласится",
+    "en": "She won't agree"
+  },
+  {
+    "_id": 3,
+    "ru": "Они не будут слушать это",
+    "en": "They won't listen to it"
+  },
+  {
+    "_id": 4,
+    "ru": "Он не узнает об этом",
+    "en": "He won't know about it"
+  },
+  {
+    "_id": 5,
+    "ru": "Он не поймет это",
+    "en": "He won't understand it"
+  },
+  {
+    "_id": 6,
+    "ru": "Он не придет сюда завтра",
+    "en": "He won't come here tomorrow"
+  },
+  {
+    "_id": 7,
+    "ru": "Он не пойдет на встречу",
+    "en": "He won't go to the meeting"
+  },
+  {
+    "_id": 8,
+    "ru": "Я не буду отвечать на это сообщение",
+    "en": "I won't answer this message"
+  },
+  {
+    "_id": 9,
+    "ru": "Я не буду отвечать на это письмо",
+    "en": "I won't answer this letter"
+  },
+  {
+    "_id": 10,
+    "ru": "Я думаю, он не согласится",
+    "en": "I think he won't agree"
+  },
+  {
+    "_id": 11,
+    "ru": "Она не пойдет на работу",
+    "en": "She won't go to work"
+  },
+  {
+    "_id": 12,
+    "ru": "Они не будут говорить об этом",
+    "en": "They won't talk about it"
+  },
+  {
+    "_id": 13,
+    "ru": "Он не будет слушать это",
+    "en": "He won't listen to it"
+  },
+  {
+    "_id": 14,
+    "ru": "Мы не пойдем на пляж завтра",
+    "en": "We won't go to the beach tomorrow"
+  },
+  {
+    "_id": 15,
+    "ru": "Мы не будем встречаться завтра",
+    "en": "We won't meet tomorrow"
+  },
+  {
+    "_id": 16,
+    "ru": "Я не приду туда завтра",
+    "en": "I won't come there tomorrow"
+  },
+  {
+    "_id": 17,
+    "ru": "Мы не пойдем туда",
+    "en": "We won't go there"
+  },
+  {
+    "_id": 18,
+    "ru": "Я не пойду туда",
+    "en": "I won't go there"
+  },
+  {
+    "_id": 19,
+    "ru": "Это не будет интересно тебе",
+    "en": "It won't be interesting for you"
+  },
+  {
+    "_id": 20,
+    "ru": "Я не буду играть в эту игру",
+    "en": "I won't play this game"
+  },
+  {
+    "_id": 21,
+    "ru": "Я не поеду в город завтра",
+    "en": "I won't go to the city tomorrow"
+  },
+  {
+    "_id": 22,
+    "ru": "Я не буду делать это",
+    "en": "I won't do it"
+  },
+  {
+    "_id": 23,
+    "ru": "Я не буду платить за это",
+    "en": "I won't pay for it"
+  },
+  {
+    "_id": 24,
+    "ru": "Я думаю, ему не понравится эта идея",
+    "en": "I think he won't like this idea"
+  },
+  {
+    "_id": 25,
+    "ru": "Я не буду тратить свое время на это",
+    "en": "I won't spend my time on it"
+  },
+  {
+    "_id": 26,
+    "ru": "Он не скажет это",
+    "en": "He won't say it"
+  },
+  {
+    "_id": 27,
+    "ru": "Я не буду танцевать",
+    "en": "I won't dance"
+  },
+  {
+    "_id": 28,
+    "ru": "Я думаю, это не поможет тебе",
+    "en": "I think it won't help you"
+  },
+  {
+    "_id": 29,
+    "ru": "Я не буду ждать этого",
+    "en": "I won't wait for it"
+  },
+  {
+    "_id": 30,
+    "ru": "Они не будут играть",
+    "en": "They won't play"
+  },
+  {
+    "_id": 31,
+    "ru": "Он не поверит этому",
+    "en": "He won't believe it"
+  },
+  {
+    "_id": 32,
+    "ru": "Я не буду занят",
+    "en": "I won't be busy"
+  },
+  {
+    "_id": 33,
+    "ru": "Я не пойду в парк сегодня",
+    "en": "I won't go to the park today"
+  },
+  {
+    "_id": 34,
+    "ru": "Я не буду ждать его",
+    "en": "I won't wait for him"
+  },
+  {
+    "_id": 35,
+    "ru": "Я думаю, это не поможет ему",
+    "en": "I think it won't help him"
+  },
+  {
+    "_id": 36,
+    "ru": "Я не буду занят завтра",
+    "en": "I won't be busy tomorrow"
+  },
+  {
+    "_id": 37,
+    "ru": "Она не пойдет на вечеринку",
+    "en": "She won't go to the party"
+  },
+  {
+    "_id": 38,
+    "ru": "Мы не будем его ждать",
+    "en": "We won't wait for him"
+  },
+  {
+    "_id": 39,
+    "ru": "Я не пойду на пляж сегодня",
+    "en": "I won't go to the beach today"
+  },
+  {
+    "_id": 40,
+    "ru": "Я не буду отвечать",
+    "en": "I won't answer"
+  }
 ]

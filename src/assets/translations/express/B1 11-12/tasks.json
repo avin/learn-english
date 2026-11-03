@@ -1,90 +1,112 @@
 [
-  [
-    "Он ведет себя как ребенок сейчас",
-    "He's acting like a baby now"
-  ],
-  [
-    "Его поддерживает эта группа людей",
-    "He’s supported by this group of people"
-  ],
-  [
-    "Как я вижу, все работает надлежащим образом",
-    "As I see, everything functions properly"
-  ],
-  [
-    "Почему она плачет?",
-    "Why is she crying?"
-  ],
-  [
-    "Воры были пойманы полицией",
-    "The thieves were caught by the police"
-  ],
-  [
-    "Преступники не сумели скрыться от полиции",
-    "The criminals didn't manage to escape from the police"
-  ],
-  [
-    "Этот канал был создан им год назад",
-    "This channel was created by him a year ago"
-  ],
-  [
-    "Позволь мне объяснить тебе это!",
-    "Let me explain it to you!"
-  ],
-  [
-    "Забор покрасили вчера",
-    "The fence was painted yesterday"
-  ],
-  [
-    "Это защищено авторским правом",
-    "It's protected by copyright"
-  ],
-  [
-    "Он сказал, что вырос в Соединенном Королевстве",
-    "He said that he had grown up in the UK"
-  ],
-  [
-    "Файл только что был скачен",
-    "The file has just been downloaded"
-  ],
-  [
-    "Они отремонтируют часы к следующей неделе",
-    "They will have repaired the watch by next week"
-  ],
-  [
-    "Он не согласен с тобой сейчас",
-    "He doesn't agree with you now"
-  ],
-  [
-    "Это только что было объявлено",
-    "It has just been announced"
-  ],
-  [
-    "Он в основном имел дело с поставщиками",
-    "He mostly dealt with suppliers"
-  ],
-  [
-    "Ты уже закончил делать это?",
-    "Have you already finished doing it?"
-  ],
-  [
-    "Прекрати жаловаться все время!",
-    "Stop complaining all the time!"
-  ],
-  [
-    "Нет никакой необходимости удлинять этот курс",
-    "There is no need to lengthen this course"
-  ],
-  [
-    "Вычти 10 из 20, и ты получишь эту цифру",
-    "Subtract 10 from 20 and you'll get this figure"
-  ],
-  [
-    "Его ценят и уважают",
-    "He's valued and respected"
-  ],
-  [
-    "Он сказал, что проголосовал за второго кандидата",
-    "He said that he had voted for the second candidate"
-  ]
+  {
+    "_id": 1,
+    "ru": "Он ведет себя как ребенок сейчас",
+    "en": "He's acting like a baby now"
+  },
+  {
+    "_id": 2,
+    "ru": "Его поддерживает эта группа людей",
+    "en": "He’s supported by this group of people"
+  },
+  {
+    "_id": 3,
+    "ru": "Как я вижу, все работает надлежащим образом",
+    "en": "As I see, everything functions properly"
+  },
+  {
+    "_id": 4,
+    "ru": "Почему она плачет?",
+    "en": "Why is she crying?"
+  },
+  {
+    "_id": 5,
+    "ru": "Воры были пойманы полицией",
+    "en": "The thieves were caught by the police"
+  },
+  {
+    "_id": 6,
+    "ru": "Преступники не сумели скрыться от полиции",
+    "en": "The criminals didn't manage to escape from the police"
+  },
+  {
+    "_id": 7,
+    "ru": "Этот канал был создан им год назад",
+    "en": "This channel was created by him a year ago"
+  },
+  {
+    "_id": 8,
+    "ru": "Позволь мне объяснить тебе это!",
+    "en": "Let me explain it to you!"
+  },
+  {
+    "_id": 9,
+    "ru": "Забор покрасили вчера",
+    "en": "The fence was painted yesterday"
+  },
+  {
+    "_id": 10,
+    "ru": "Это защищено авторским правом",
+    "en": "It's protected by copyright"
+  },
+  {
+    "_id": 11,
+    "ru": "Он сказал, что вырос в Соединенном Королевстве",
+    "en": "He said that he had grown up in the UK"
+  },
+  {
+    "_id": 12,
+    "ru": "Файл только что был скачен",
+    "en": "The file has just been downloaded"
+  },
+  {
+    "_id": 13,
+    "ru": "Они отремонтируют часы к следующей неделе",
+    "en": "They will have repaired the watch by next week"
+  },
+  {
+    "_id": 14,
+    "ru": "Он не согласен с тобой сейчас",
+    "en": "He doesn't agree with you now"
+  },
+  {
+    "_id": 15,
+    "ru": "Это только что было объявлено",
+    "en": "It has just been announced"
+  },
+  {
+    "_id": 16,
+    "ru": "Он в основном имел дело с поставщиками",
+    "en": "He mostly dealt with suppliers"
+  },
+  {
+    "_id": 17,
+    "ru": "Ты уже закончил делать это?",
+    "en": "Have you already finished doing it?"
+  },
+  {
+    "_id": 18,
+    "ru": "Прекрати жаловаться все время!",
+    "en": "Stop complaining all the time!"
+  },
+  {
+    "_id": 19,
+    "ru": "Нет никакой необходимости удлинять этот курс",
+    "en": "There is no need to lengthen this course"
+  },
+  {
+    "_id": 20,
+    "ru": "Вычти 10 из 20, и ты получишь эту цифру",
+    "en": "Subtract 10 from 20 and you'll get this figure"
+  },
+  {
+    "_id": 21,
+    "ru": "Его ценят и уважают",
+    "en": "He's valued and respected"
+  },
+  {
+    "_id": 22,
+    "ru": "Он сказал, что проголосовал за второго кандидата",
+    "en": "He said that he had voted for the second candidate"
+  }
 ]

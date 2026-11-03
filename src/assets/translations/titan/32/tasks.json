@@ -1,338 +1,422 @@
 [
-  [
-    "Она тебе ответила?",
-    "Did she answer you?"
-  ],
-  [
-    "Ты написал письмо?",
-    "Did you write a letter?"
-  ],
-  [
-    "Ты видел это в начале?",
-    "Did you see it in the beginning?"
-  ],
-  [
-    "Ты читал об этом в конце?",
-    "Did you read about it in the end?"
-  ],
-  [
-    "Тебе было нужно больше денег?",
-    "Did you need more money?"
-  ],
-  [
-    "Ты согласился?",
-    "Did you agree?"
-  ],
-  [
-    "Ты вернулся домой позже?",
-    "Did you come back home later?"
-  ],
-  [
-    "Ты говорил о нашем обществе?",
-    "Did you talk about our society?"
-  ],
-  [
-    "Ты написал письмо?",
-    "Did you write a letter?"
-  ],
-  [
-    "Ты помнил ее фамилию?",
-    "Did you remember her surname?"
-  ],
-  [
-    "Ты получил мое сообщение?",
-    "Did you get my message?"
-  ],
-  [
-    "Ты закончил свою работу?",
-    "Did you finish your work?"
-  ],
-  [
-    "Ты купил квартиру?",
-    "Did you buy an apartment?"
-  ],
-  [
-    "Она тебе ответила?",
-    "Did she answer you?"
-  ],
-  [
-    "Они производили дешевые товары?",
-    "Did they produce cheap goods?"
-  ],
-  [
-    "Ты пошел на работу вчера?",
-    "Did you go to work yesterday?"
-  ],
-  [
-    "Ты сохранил этот документ?",
-    "Did you save this document?"
-  ],
-  [
-    "Ты пригласил своих друзей?",
-    "Did you invite your friends?"
-  ],
-  [
-    "Ты понял это?",
-    "Did you understand it?"
-  ],
-  [
-    "Ты помнил его фамилию?",
-    "Did you remember his last name?"
-  ],
-  [
-    "Ты сдал этот экзамен?",
-    "Did you pass this exam?"
-  ],
-  [
-    "Ты видел ее на прошлой неделе?",
-    "Did you see her last week?"
-  ],
-  [
-    "Они говорили по-английски?",
-    "Did they speak English?"
-  ],
-  [
-    "Она потратила слишком много денег?",
-    "Did she spend too much money?"
-  ],
-  [
-    "Ты водил машину вчера?",
-    "Did you drive a car yesterday?"
-  ],
-  [
-    "Это принесло тебе хорошие деньги?",
-    "Did it bring you good money?"
-  ],
-  [
-    "Вы все обсудили?",
-    "Did you discuss everything?"
-  ],
-  [
-    "Ты снимал квартиру?",
-    "Did you rent an apartment?"
-  ],
-  [
-    "Ты отправил ей сообщение?",
-    "Did you send her a message?"
-  ],
-  [
-    "Ты учился вчера?",
-    "Did you study yesterday?"
-  ],
-  [
-    "Это казалось очень странным?",
-    "Did it seem very strange?"
-  ],
-  [
-    "Тебе нужно было больше времени?",
-    "Did you need more time?"
-  ],
-  [
-    "Ты думал о той вещи?",
-    "Did you think about that thing?"
-  ],
-  [
-    "Ты работал вчера?",
-    "Did you work yesterday?"
-  ],
-  [
-    "Это случилось вчера?",
-    "Did it happen yesterday?"
-  ],
-  [
-    "Он купил большой дом?",
-    "Did he buy a large house?"
-  ],
-  [
-    "Тебе понравился этот фильм?",
-    "Did you like this movie?"
-  ],
-  [
-    "Ты ответил на это сообщение?",
-    "Did you answer this message?"
-  ],
-  [
-    "Ты хотел сменить работу?",
-    "Did you want to change a job?"
-  ],
-  [
-    "Он женился на ней?",
-    "Did he marry her?"
-  ],
-  [
-    "Ты переехал в другую страну?",
-    "Did you move to another country?"
-  ],
-  [
-    "Ты читал об этом в конце?",
-    "Did you read about it in the end?"
-  ],
-  [
-    "Это стоило намного меньше?",
-    "Did it cost much less?"
-  ],
-  [
-    "Ей была нужна твоя помощь?",
-    "Did she need your help?"
-  ],
-  [
-    "Ты слышал эту новость?",
-    "Did you hear this news?"
-  ],
-  [
-    "Ты купил те билеты?",
-    "Did you buy those tickets?"
-  ],
-  [
-    "Она переехала за границу?",
-    "Did she move abroad?"
-  ],
-  [
-    "Ты прибыл туда вовремя?",
-    "Did you arrive there on time?"
-  ],
-  [
-    "Ей нужно было больше практики?",
-    "Did she need more practice?"
-  ],
-  [
-    "Тебе нужно было найти это срочно?",
-    "Did you need to find it urgently?"
-  ],
-  [
-    "Ей нужно было сделать это срочно?",
-    "Did she need to do it urgently?"
-  ],
-  [
-    "Он выиграл в конце?",
-    "Did he win in the end?"
-  ],
-  [
-    "Ты выиграл?",
-    "Did you win?"
-  ],
-  [
-    "Это стоило намного больше?",
-    "Did it cost much more?"
-  ],
-  [
-    "Эта вещь стоила намного больше?",
-    "Did this thing cost much more?"
-  ],
-  [
-    "Это случилось или нет?",
-    "Did it happen or not?"
-  ],
-  [
-    "Это случилось?",
-    "Did it happen?"
-  ],
-  [
-    "Ты хотел найти новую работу?",
-    "Did you want to find a new job?"
-  ],
-  [
-    "Ты хотел найти работу?",
-    "Did you want to find a job?"
-  ],
-  [
-    "Ты пытался найти новую работу?",
-    "Did you try to find a new job?"
-  ],
-  [
-    "Ты подготовился к этому экзамену?",
-    "Did you prepare for this exam?"
-  ],
-  [
-    "Ты подготовился к тому экзамену?",
-    "Did you prepare for that exam?"
-  ],
-  [
-    "Он говорил это или нет?",
-    "Did he say it or not?"
-  ],
-  [
-    "Ты говорил это или нет?",
-    "Did you say it or not?"
-  ],
-  [
-    "Она хотела это или нет?",
-    "Did she want it or not?"
-  ],
-  [
-    "Это действительно интересовало тебя?",
-    "Did it really interest you?"
-  ],
-  [
-    "Это действительно интересовало его?",
-    "Did it really interest him?"
-  ],
-  [
-    "Ему нужны были деньги?",
-    "Did he need money?"
-  ],
-  [
-    "Ему нужно было больше денег?",
-    "Did he need more money?"
-  ],
-  [
-    "Она вышла за него замуж?",
-    "Did she marry him?"
-  ],
-  [
-    "Ты подготовился к этому тесту?",
-    "Did you prepare for this test?"
-  ],
-  [
-    "Это произошло в начале?",
-    "Did it happen in the beginning?"
-  ],
-  [
-    "Ты слушал этот урок?",
-    "Did you listen to this lesson?"
-  ],
-  [
-    "Ты пытался изменить это?",
-    "Did you try to change it?"
-  ],
-  [
-    "Он сказал тебе этот секрет?",
-    "Did he tell you this secret?"
-  ],
-  [
-    "У тебя были какие-либо проблемы?",
-    "Did you have any problems?"
-  ],
-  [
-    "Ты видел это в начале?",
-    "Did you see it in the beginning?"
-  ],
-  [
-    "Они поженились?",
-    "Did they get married?"
-  ],
-  [
-    "Тебе нужно было пойти туда?",
-    "Did you need to go there?"
-  ],
-  [
-    "Он переехал в Америку?",
-    "Did he move to America?"
-  ],
-  [
-    "У тебя были какие-либо вопросы?",
-    "Did you have any questions?"
-  ],
-  [
-    "Ты знал, как сделать это лучше?",
-    "Did you know how to do it better?"
-  ],
-  [
-    "Она рассказала ему тот секрет?",
-    "Did she tell him that secret?"
-  ],
-  [
-    "Ты хотел это увидеть?",
-    "Did you want to see it?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Она тебе ответила?",
+    "en": "Did she answer you?"
+  },
+  {
+    "_id": 2,
+    "ru": "Ты написал письмо?",
+    "en": "Did you write a letter?"
+  },
+  {
+    "_id": 3,
+    "ru": "Ты видел это в начале?",
+    "en": "Did you see it in the beginning?"
+  },
+  {
+    "_id": 4,
+    "ru": "Ты читал об этом в конце?",
+    "en": "Did you read about it in the end?"
+  },
+  {
+    "_id": 5,
+    "ru": "Тебе было нужно больше денег?",
+    "en": "Did you need more money?"
+  },
+  {
+    "_id": 6,
+    "ru": "Ты согласился?",
+    "en": "Did you agree?"
+  },
+  {
+    "_id": 7,
+    "ru": "Ты вернулся домой позже?",
+    "en": "Did you come back home later?"
+  },
+  {
+    "_id": 8,
+    "ru": "Ты говорил о нашем обществе?",
+    "en": "Did you talk about our society?"
+  },
+  {
+    "_id": 9,
+    "ru": "Ты написал письмо?",
+    "en": "Did you write a letter?"
+  },
+  {
+    "_id": 10,
+    "ru": "Ты помнил ее фамилию?",
+    "en": "Did you remember her surname?"
+  },
+  {
+    "_id": 11,
+    "ru": "Ты получил мое сообщение?",
+    "en": "Did you get my message?"
+  },
+  {
+    "_id": 12,
+    "ru": "Ты закончил свою работу?",
+    "en": "Did you finish your work?"
+  },
+  {
+    "_id": 13,
+    "ru": "Ты купил квартиру?",
+    "en": "Did you buy an apartment?"
+  },
+  {
+    "_id": 14,
+    "ru": "Она тебе ответила?",
+    "en": "Did she answer you?"
+  },
+  {
+    "_id": 15,
+    "ru": "Они производили дешевые товары?",
+    "en": "Did they produce cheap goods?"
+  },
+  {
+    "_id": 16,
+    "ru": "Ты пошел на работу вчера?",
+    "en": "Did you go to work yesterday?"
+  },
+  {
+    "_id": 17,
+    "ru": "Ты сохранил этот документ?",
+    "en": "Did you save this document?"
+  },
+  {
+    "_id": 18,
+    "ru": "Ты пригласил своих друзей?",
+    "en": "Did you invite your friends?"
+  },
+  {
+    "_id": 19,
+    "ru": "Ты понял это?",
+    "en": "Did you understand it?"
+  },
+  {
+    "_id": 20,
+    "ru": "Ты помнил его фамилию?",
+    "en": "Did you remember his last name?"
+  },
+  {
+    "_id": 21,
+    "ru": "Ты сдал этот экзамен?",
+    "en": "Did you pass this exam?"
+  },
+  {
+    "_id": 22,
+    "ru": "Ты видел ее на прошлой неделе?",
+    "en": "Did you see her last week?"
+  },
+  {
+    "_id": 23,
+    "ru": "Они говорили по-английски?",
+    "en": "Did they speak English?"
+  },
+  {
+    "_id": 24,
+    "ru": "Она потратила слишком много денег?",
+    "en": "Did she spend too much money?"
+  },
+  {
+    "_id": 25,
+    "ru": "Ты водил машину вчера?",
+    "en": "Did you drive a car yesterday?"
+  },
+  {
+    "_id": 26,
+    "ru": "Это принесло тебе хорошие деньги?",
+    "en": "Did it bring you good money?"
+  },
+  {
+    "_id": 27,
+    "ru": "Вы все обсудили?",
+    "en": "Did you discuss everything?"
+  },
+  {
+    "_id": 28,
+    "ru": "Ты снимал квартиру?",
+    "en": "Did you rent an apartment?"
+  },
+  {
+    "_id": 29,
+    "ru": "Ты отправил ей сообщение?",
+    "en": "Did you send her a message?"
+  },
+  {
+    "_id": 30,
+    "ru": "Ты учился вчера?",
+    "en": "Did you study yesterday?"
+  },
+  {
+    "_id": 31,
+    "ru": "Это казалось очень странным?",
+    "en": "Did it seem very strange?"
+  },
+  {
+    "_id": 32,
+    "ru": "Тебе нужно было больше времени?",
+    "en": "Did you need more time?"
+  },
+  {
+    "_id": 33,
+    "ru": "Ты думал о той вещи?",
+    "en": "Did you think about that thing?"
+  },
+  {
+    "_id": 34,
+    "ru": "Ты работал вчера?",
+    "en": "Did you work yesterday?"
+  },
+  {
+    "_id": 35,
+    "ru": "Это случилось вчера?",
+    "en": "Did it happen yesterday?"
+  },
+  {
+    "_id": 36,
+    "ru": "Он купил большой дом?",
+    "en": "Did he buy a large house?"
+  },
+  {
+    "_id": 37,
+    "ru": "Тебе понравился этот фильм?",
+    "en": "Did you like this movie?"
+  },
+  {
+    "_id": 38,
+    "ru": "Ты ответил на это сообщение?",
+    "en": "Did you answer this message?"
+  },
+  {
+    "_id": 39,
+    "ru": "Ты хотел сменить работу?",
+    "en": "Did you want to change a job?"
+  },
+  {
+    "_id": 40,
+    "ru": "Он женился на ней?",
+    "en": "Did he marry her?"
+  },
+  {
+    "_id": 41,
+    "ru": "Ты переехал в другую страну?",
+    "en": "Did you move to another country?"
+  },
+  {
+    "_id": 42,
+    "ru": "Ты читал об этом в конце?",
+    "en": "Did you read about it in the end?"
+  },
+  {
+    "_id": 43,
+    "ru": "Это стоило намного меньше?",
+    "en": "Did it cost much less?"
+  },
+  {
+    "_id": 44,
+    "ru": "Ей была нужна твоя помощь?",
+    "en": "Did she need your help?"
+  },
+  {
+    "_id": 45,
+    "ru": "Ты слышал эту новость?",
+    "en": "Did you hear this news?"
+  },
+  {
+    "_id": 46,
+    "ru": "Ты купил те билеты?",
+    "en": "Did you buy those tickets?"
+  },
+  {
+    "_id": 47,
+    "ru": "Она переехала за границу?",
+    "en": "Did she move abroad?"
+  },
+  {
+    "_id": 48,
+    "ru": "Ты прибыл туда вовремя?",
+    "en": "Did you arrive there on time?"
+  },
+  {
+    "_id": 49,
+    "ru": "Ей нужно было больше практики?",
+    "en": "Did she need more practice?"
+  },
+  {
+    "_id": 50,
+    "ru": "Тебе нужно было найти это срочно?",
+    "en": "Did you need to find it urgently?"
+  },
+  {
+    "_id": 51,
+    "ru": "Ей нужно было сделать это срочно?",
+    "en": "Did she need to do it urgently?"
+  },
+  {
+    "_id": 52,
+    "ru": "Он выиграл в конце?",
+    "en": "Did he win in the end?"
+  },
+  {
+    "_id": 53,
+    "ru": "Ты выиграл?",
+    "en": "Did you win?"
+  },
+  {
+    "_id": 54,
+    "ru": "Это стоило намного больше?",
+    "en": "Did it cost much more?"
+  },
+  {
+    "_id": 55,
+    "ru": "Эта вещь стоила намного больше?",
+    "en": "Did this thing cost much more?"
+  },
+  {
+    "_id": 56,
+    "ru": "Это случилось или нет?",
+    "en": "Did it happen or not?"
+  },
+  {
+    "_id": 57,
+    "ru": "Это случилось?",
+    "en": "Did it happen?"
+  },
+  {
+    "_id": 58,
+    "ru": "Ты хотел найти новую работу?",
+    "en": "Did you want to find a new job?"
+  },
+  {
+    "_id": 59,
+    "ru": "Ты хотел найти работу?",
+    "en": "Did you want to find a job?"
+  },
+  {
+    "_id": 60,
+    "ru": "Ты пытался найти новую работу?",
+    "en": "Did you try to find a new job?"
+  },
+  {
+    "_id": 61,
+    "ru": "Ты подготовился к этому экзамену?",
+    "en": "Did you prepare for this exam?"
+  },
+  {
+    "_id": 62,
+    "ru": "Ты подготовился к тому экзамену?",
+    "en": "Did you prepare for that exam?"
+  },
+  {
+    "_id": 63,
+    "ru": "Он говорил это или нет?",
+    "en": "Did he say it or not?"
+  },
+  {
+    "_id": 64,
+    "ru": "Ты говорил это или нет?",
+    "en": "Did you say it or not?"
+  },
+  {
+    "_id": 65,
+    "ru": "Она хотела это или нет?",
+    "en": "Did she want it or not?"
+  },
+  {
+    "_id": 66,
+    "ru": "Это действительно интересовало тебя?",
+    "en": "Did it really interest you?"
+  },
+  {
+    "_id": 67,
+    "ru": "Это действительно интересовало его?",
+    "en": "Did it really interest him?"
+  },
+  {
+    "_id": 68,
+    "ru": "Ему нужны были деньги?",
+    "en": "Did he need money?"
+  },
+  {
+    "_id": 69,
+    "ru": "Ему нужно было больше денег?",
+    "en": "Did he need more money?"
+  },
+  {
+    "_id": 70,
+    "ru": "Она вышла за него замуж?",
+    "en": "Did she marry him?"
+  },
+  {
+    "_id": 71,
+    "ru": "Ты подготовился к этому тесту?",
+    "en": "Did you prepare for this test?"
+  },
+  {
+    "_id": 72,
+    "ru": "Это произошло в начале?",
+    "en": "Did it happen in the beginning?"
+  },
+  {
+    "_id": 73,
+    "ru": "Ты слушал этот урок?",
+    "en": "Did you listen to this lesson?"
+  },
+  {
+    "_id": 74,
+    "ru": "Ты пытался изменить это?",
+    "en": "Did you try to change it?"
+  },
+  {
+    "_id": 75,
+    "ru": "Он сказал тебе этот секрет?",
+    "en": "Did he tell you this secret?"
+  },
+  {
+    "_id": 76,
+    "ru": "У тебя были какие-либо проблемы?",
+    "en": "Did you have any problems?"
+  },
+  {
+    "_id": 77,
+    "ru": "Ты видел это в начале?",
+    "en": "Did you see it in the beginning?"
+  },
+  {
+    "_id": 78,
+    "ru": "Они поженились?",
+    "en": "Did they get married?"
+  },
+  {
+    "_id": 79,
+    "ru": "Тебе нужно было пойти туда?",
+    "en": "Did you need to go there?"
+  },
+  {
+    "_id": 80,
+    "ru": "Он переехал в Америку?",
+    "en": "Did he move to America?"
+  },
+  {
+    "_id": 81,
+    "ru": "У тебя были какие-либо вопросы?",
+    "en": "Did you have any questions?"
+  },
+  {
+    "_id": 82,
+    "ru": "Ты знал, как сделать это лучше?",
+    "en": "Did you know how to do it better?"
+  },
+  {
+    "_id": 83,
+    "ru": "Она рассказала ему тот секрет?",
+    "en": "Did she tell him that secret?"
+  },
+  {
+    "_id": 84,
+    "ru": "Ты хотел это увидеть?",
+    "en": "Did you want to see it?"
+  }
 ]

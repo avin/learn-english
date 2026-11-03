@@ -1,334 +1,417 @@
 [
-  [
-    "Он так же умен как, и его сестра",
-    "He’s as smart as his sister"
-  ],
-  [
-    "Этот урок такой же интересный, как и этот фильм",
-    "This lesson is as interesting as this movie"
-  ],
-  [
-    "Это самое смешное видео, которое я когда-либо смотрел",
-    "It's the funniest video I have ever watched"
-  ],
-  [
-    "Сегодня день намного жарче",
-    "It's a much hotter day today"
-  ],
-  [
-    "Это решение лучше",
-    "It's a better decision"
-  ],
-  [
-    "Сегодня холоднее",
-    "It's colder today"
-  ],
-  [
-    "У меня такие же вопросы, как и у тебя",
-    "I have the same questions as you"
-  ],
-  [
-    "У нас такие же идеи",
-    "We have the same ideas"
-  ],
-  [
-    "Его машина дешевле, чем ее",
-    "His car is cheaper than hers"
-  ],
-  [
-    "У меня такой же уровень как и у тебя",
-    "I have the same level as you"
-  ],
-  [
-    "Эта презентация гораздо более красочная, чем та",
-    "This presentation is much more colourful than that one"
-  ],
-  [
-    "У меня те же проблемы, что и у тебя",
-    "I have the same problems as you"
-  ],
-  [
-    "Это одна из самых высоких башен",
-    "It's one of the highest towers"
-  ],
-  [
-    "Это гораздо более красочная презентация",
-    "It's a much more colourful presentation"
-  ],
-  [
-    "Это более серьезная экономическая проблема",
-    "It's a more serious economic problem"
-  ],
-  [
-    "Эта стиральная машина кажется более экономичной",
-    "This washing machine seems more economical"
-  ],
-  [
-    "Это один из самых высоких небоскребов в мире",
-    "It's one of the highest skyscrapers in the world"
-  ],
-  [
-    "Сейчас дождливо",
-    "It's rainy"
-  ],
-  [
-    "У него те же ошибки, что и у тебя",
-    "He has the same mistakes as you"
-  ],
-  [
-    "Он живет в большей квартире",
-    "He lives in a larger apartment"
-  ],
-  [
-    "Это одна из самых серьезных проблем",
-    "It is one of the most serious problems"
-  ],
-  [
-    "У него есть более надежная машина",
-    "He has a more reliable car"
-  ],
-  [
-    "Это более информативный курс",
-    "It's a more informative course"
-  ],
-  [
-    "Чем скорее, тем лучше",
-    "The sooner, the better"
-  ],
-  [
-    "Чем меньше мы учимся, тем меньше мы знаем",
-    "The less we study, the less we know"
-  ],
-  [
-    "Я более уверен в этом",
-    "I am more certain about it"
-  ],
-  [
-    "Это лучший выбор для тебя",
-    "It's the best choice for you"
-  ],
-  [
-    "Это наименее важная вещь для нас",
-    "It's the least important thing for us"
-  ],
-  [
-    "Его квартира в три раза больше их",
-    "His flat is three times larger than theirs"
-  ],
-  [
-    "Мой уровень выше, чем его",
-    "My level is higher than his"
-  ],
-  [
-    "Это была наименее интересная статья",
-    "It was the least interesting article"
-  ],
-  [
-    "У него такие же планы",
-    "He has the same plans"
-  ],
-  [
-    "Он один из моих лучших друзей",
-    "He is one of my best friends"
-  ],
-  [
-    "Его уровень ниже моего",
-    "His level is lower than mine"
-  ],
-  [
-    "Эта машина более экономична",
-    "This machine is more economical"
-  ],
-  [
-    "У нее больше времени, чем у меня",
-    "She has more time than me"
-  ],
-  [
-    "Сегодня теплее день",
-    "It's a warmer day today"
-  ],
-  [
-    "Это один из худших сценариев",
-    "It is one of the worst scenarios"
-  ],
-  [
-    "Сегодня более облачно",
-    "It is more cloudy today"
-  ],
-  [
-    "Твоя идея такая же, как у нее",
-    "Your idea is the same as hers"
-  ],
-  [
-    "Наш дом меньше, чем их",
-    "Our house is smaller than theirs"
-  ],
-  [
-    "Это более экономичная машина",
-    "It's a more economical machine"
-  ],
-  [
-    "Звук лучше, чем был",
-    "The sound is better than it was"
-  ],
-  [
-    "Качество продукта лучше, чем было",
-    "The quality of the product is better than it was"
-  ],
-  [
-    "Это один из самых больших городов в мире",
-    "It is one of the biggest cities in the world"
-  ],
-  [
-    "Чем меньше ты работаешь, тем меньше у тебя денег",
-    "The less you work, the less money you have"
-  ],
-  [
-    "Та машина не такая новая, как эта",
-    "That car isn't as new as this one"
-  ],
-  [
-    "Чем больше ты работаешь, тем больше у тебя денег",
-    "The more you work, the more money you have"
-  ],
-  [
-    "Качество лучше, чем было",
-    "The quality is better than it was"
-  ],
-  [
-    "Тот курс не так полезен, как этот",
-    "That course isn't as useful as this one"
-  ],
-  [
-    "Чем больше у тебя практики, тем лучше для тебя",
-    "The more practice you have, the better it is for you"
-  ],
-  [
-    "Этот компьютер стоит в два раза дешевле",
-    "This computer is twice as cheap"
-  ],
-  [
-    "Это одно из самых серьезных оружий",
-    "It is one of the most serious weapons"
-  ],
-  [
-    "Эта книга не такая интересная, как та",
-    "This book isn't as interesting as that one"
-  ],
-  [
-    "Тот фильм не так интересен, как этот",
-    "That movie isn't as interesting as this one"
-  ],
-  [
-    "Эта вещь не такая дорогая, как та",
-    "This thing isn't as expensive as that one"
-  ],
-  [
-    "Чем больше у нас есть, тем больше мы хотим",
-    "The more we have, the more we want"
-  ],
-  [
-    "Чем меньше у нас есть, тем больше мы хотим",
-    "The less we have, the more we want"
-  ],
-  [
-    "Чем больше ты учишься, тем больше ты знаешь",
-    "The more you study, the more you know"
-  ],
-  [
-    "Чем больше я учусь, тем лучше будет мой результат",
-    "The more I study, the better my result will be"
-  ],
-  [
-    "Чем больше книг я читаю, тем больше я понимаю",
-    "The more books I read, the more I understand"
-  ],
-  [
-    "Это очень опасное оружие",
-    "It is a very dangerous weapon"
-  ],
-  [
-    "Это очень дорогая вещь",
-    "It is a very expensive thing"
-  ],
-  [
-    "Это очень холодная вода",
-    "It is very cold water"
-  ],
-  [
-    "Чем больше ты тренируешься, тем больше устаешь",
-    "The more you train, the more tired you get"
-  ],
-  [
-    "Чем больше он курит, тем хуже себя чувствует",
-    "The more he smokes, the worse he feels"
-  ],
-  [
-    "Это одно из недавних открытий",
-    "It is one of the recent discoveries"
-  ],
-  [
-    "Он один из самых богатых людей",
-    "He is one of the richest people"
-  ],
-  [
-    "Это одно из самых полезных открытий",
-    "It is one of the most useful discoveries"
-  ],
-  [
-    "Чем меньше мы тренируемся, тем мы слабее",
-    "The less we train, the weaker we are"
-  ],
-  [
-    "Чем больше мы тренируемся, тем больше устаем",
-    "The more we train, the more tired we are"
-  ],
-  [
-    "Чем меньше я ем, тем я слабее",
-    "The less I eat, the weaker I am"
-  ],
-  [
-    "Чем больше я изучал это, тем больше понимал",
-    "The more I learned it, the more I understood"
-  ],
-  [
-    "Это одно из самых частых английских слов",
-    "It is one of the most frequent English words"
-  ],
-  [
-    "Я все больше и больше уверен в этом",
-    "I'm more and more certain about it"
-  ],
-  [
-    "Я полагаю, это гораздо лучше решение",
-    "I suppose it's a much better decision"
-  ],
-  [
-    "Чем дороже отель, тем лучше сервис",
-    "The more expensive the hotel, the better the service"
-  ],
-  [
-    "Это одно из самых интересных недавних открытий",
-    "It is one of the most interesting recent discoveries"
-  ],
-  [
-    "Мы выйдем, если погода станет лучше",
-    "We will go out if the weather becomes better"
-  ],
-  [
-    "Мы преодолели большее расстояние",
-    "We covered a longer distance"
-  ],
-  [
-    "Эта сумка в три раза дешевле той",
-    "This bag is three times cheaper than that one"
-  ],
-  [
-    "Это одно из самых употребляемых английских слов",
-    "It is one of the most used English words"
-  ],
-  [
-    "Эта машина не такая старая, как та",
-    "This car isn't as old as that one"
-  ]
+  {
+    "_id": 1,
+    "ru": "Он так же умен как, и его сестра",
+    "en": "He’s as smart as his sister"
+  },
+  {
+    "_id": 2,
+    "ru": "Этот урок такой же интересный, как и этот фильм",
+    "en": "This lesson is as interesting as this movie"
+  },
+  {
+    "_id": 3,
+    "ru": "Это самое смешное видео, которое я когда-либо смотрел",
+    "en": "It's the funniest video I have ever watched"
+  },
+  {
+    "_id": 4,
+    "ru": "Сегодня день намного жарче",
+    "en": "It's a much hotter day today"
+  },
+  {
+    "_id": 5,
+    "ru": "Это решение лучше",
+    "en": "It's a better decision"
+  },
+  {
+    "_id": 6,
+    "ru": "Сегодня холоднее",
+    "en": "It's colder today"
+  },
+  {
+    "_id": 7,
+    "ru": "У меня такие же вопросы, как и у тебя",
+    "en": "I have the same questions as you"
+  },
+  {
+    "_id": 8,
+    "ru": "У нас такие же идеи",
+    "en": "We have the same ideas"
+  },
+  {
+    "_id": 9,
+    "ru": "Его машина дешевле, чем ее",
+    "en": "His car is cheaper than hers"
+  },
+  {
+    "_id": 10,
+    "ru": "У меня такой же уровень как и у тебя",
+    "en": "I have the same level as you"
+  },
+  {
+    "_id": 11,
+    "ru": "Эта презентация гораздо более красочная, чем та",
+    "en": "This presentation is much more colourful than that one"
+  },
+  {
+    "_id": 12,
+    "ru": "У меня те же проблемы, что и у тебя",
+    "en": "I have the same problems as you"
+  },
+  {
+    "_id": 13,
+    "ru": "Это одна из самых высоких башен",
+    "en": "It's one of the highest towers"
+  },
+  {
+    "_id": 14,
+    "ru": "Это гораздо более красочная презентация",
+    "en": "It's a much more colourful presentation"
+  },
+  {
+    "_id": 15,
+    "ru": "Это более серьезная экономическая проблема",
+    "en": "It's a more serious economic problem"
+  },
+  {
+    "_id": 16,
+    "ru": "Эта стиральная машина кажется более экономичной",
+    "en": "This washing machine seems more economical"
+  },
+  {
+    "_id": 17,
+    "ru": "Это один из самых высоких небоскребов в мире",
+    "en": "It's one of the highest skyscrapers in the world"
+  },
+  {
+    "_id": 18,
+    "ru": "Сейчас дождливо",
+    "en": "It's rainy"
+  },
+  {
+    "_id": 19,
+    "ru": "У него те же ошибки, что и у тебя",
+    "en": "He has the same mistakes as you"
+  },
+  {
+    "_id": 20,
+    "ru": "Он живет в большей квартире",
+    "en": "He lives in a larger apartment"
+  },
+  {
+    "_id": 21,
+    "ru": "Это одна из самых серьезных проблем",
+    "en": "It is one of the most serious problems"
+  },
+  {
+    "_id": 22,
+    "ru": "У него есть более надежная машина",
+    "en": "He has a more reliable car"
+  },
+  {
+    "_id": 23,
+    "ru": "Это более информативный курс",
+    "en": "It's a more informative course"
+  },
+  {
+    "_id": 24,
+    "ru": "Чем скорее, тем лучше",
+    "en": "The sooner, the better"
+  },
+  {
+    "_id": 25,
+    "ru": "Чем меньше мы учимся, тем меньше мы знаем",
+    "en": "The less we study, the less we know"
+  },
+  {
+    "_id": 26,
+    "ru": "Я более уверен в этом",
+    "en": "I am more certain about it"
+  },
+  {
+    "_id": 27,
+    "ru": "Это лучший выбор для тебя",
+    "en": "It's the best choice for you"
+  },
+  {
+    "_id": 28,
+    "ru": "Это наименее важная вещь для нас",
+    "en": "It's the least important thing for us"
+  },
+  {
+    "_id": 29,
+    "ru": "Его квартира в три раза больше их",
+    "en": "His flat is three times larger than theirs"
+  },
+  {
+    "_id": 30,
+    "ru": "Мой уровень выше, чем его",
+    "en": "My level is higher than his"
+  },
+  {
+    "_id": 31,
+    "ru": "Это была наименее интересная статья",
+    "en": "It was the least interesting article"
+  },
+  {
+    "_id": 32,
+    "ru": "У него такие же планы",
+    "en": "He has the same plans"
+  },
+  {
+    "_id": 33,
+    "ru": "Он один из моих лучших друзей",
+    "en": "He is one of my best friends"
+  },
+  {
+    "_id": 34,
+    "ru": "Его уровень ниже моего",
+    "en": "His level is lower than mine"
+  },
+  {
+    "_id": 35,
+    "ru": "Эта машина более экономична",
+    "en": "This machine is more economical"
+  },
+  {
+    "_id": 36,
+    "ru": "У нее больше времени, чем у меня",
+    "en": "She has more time than me"
+  },
+  {
+    "_id": 37,
+    "ru": "Сегодня теплее день",
+    "en": "It's a warmer day today"
+  },
+  {
+    "_id": 38,
+    "ru": "Это один из худших сценариев",
+    "en": "It is one of the worst scenarios"
+  },
+  {
+    "_id": 39,
+    "ru": "Сегодня более облачно",
+    "en": "It is more cloudy today"
+  },
+  {
+    "_id": 40,
+    "ru": "Твоя идея такая же, как у нее",
+    "en": "Your idea is the same as hers"
+  },
+  {
+    "_id": 41,
+    "ru": "Наш дом меньше, чем их",
+    "en": "Our house is smaller than theirs"
+  },
+  {
+    "_id": 42,
+    "ru": "Это более экономичная машина",
+    "en": "It's a more economical machine"
+  },
+  {
+    "_id": 43,
+    "ru": "Звук лучше, чем был",
+    "en": "The sound is better than it was"
+  },
+  {
+    "_id": 44,
+    "ru": "Качество продукта лучше, чем было",
+    "en": "The quality of the product is better than it was"
+  },
+  {
+    "_id": 45,
+    "ru": "Это один из самых больших городов в мире",
+    "en": "It is one of the biggest cities in the world"
+  },
+  {
+    "_id": 46,
+    "ru": "Чем меньше ты работаешь, тем меньше у тебя денег",
+    "en": "The less you work, the less money you have"
+  },
+  {
+    "_id": 47,
+    "ru": "Та машина не такая новая, как эта",
+    "en": "That car isn't as new as this one"
+  },
+  {
+    "_id": 48,
+    "ru": "Чем больше ты работаешь, тем больше у тебя денег",
+    "en": "The more you work, the more money you have"
+  },
+  {
+    "_id": 49,
+    "ru": "Качество лучше, чем было",
+    "en": "The quality is better than it was"
+  },
+  {
+    "_id": 50,
+    "ru": "Тот курс не так полезен, как этот",
+    "en": "That course isn't as useful as this one"
+  },
+  {
+    "_id": 51,
+    "ru": "Чем больше у тебя практики, тем лучше для тебя",
+    "en": "The more practice you have, the better it is for you"
+  },
+  {
+    "_id": 52,
+    "ru": "Этот компьютер стоит в два раза дешевле",
+    "en": "This computer is twice as cheap"
+  },
+  {
+    "_id": 53,
+    "ru": "Это одно из самых серьезных оружий",
+    "en": "It is one of the most serious weapons"
+  },
+  {
+    "_id": 54,
+    "ru": "Эта книга не такая интересная, как та",
+    "en": "This book isn't as interesting as that one"
+  },
+  {
+    "_id": 55,
+    "ru": "Тот фильм не так интересен, как этот",
+    "en": "That movie isn't as interesting as this one"
+  },
+  {
+    "_id": 56,
+    "ru": "Эта вещь не такая дорогая, как та",
+    "en": "This thing isn't as expensive as that one"
+  },
+  {
+    "_id": 57,
+    "ru": "Чем больше у нас есть, тем больше мы хотим",
+    "en": "The more we have, the more we want"
+  },
+  {
+    "_id": 58,
+    "ru": "Чем меньше у нас есть, тем больше мы хотим",
+    "en": "The less we have, the more we want"
+  },
+  {
+    "_id": 59,
+    "ru": "Чем больше ты учишься, тем больше ты знаешь",
+    "en": "The more you study, the more you know"
+  },
+  {
+    "_id": 60,
+    "ru": "Чем больше я учусь, тем лучше будет мой результат",
+    "en": "The more I study, the better my result will be"
+  },
+  {
+    "_id": 61,
+    "ru": "Чем больше книг я читаю, тем больше я понимаю",
+    "en": "The more books I read, the more I understand"
+  },
+  {
+    "_id": 62,
+    "ru": "Это очень опасное оружие",
+    "en": "It is a very dangerous weapon"
+  },
+  {
+    "_id": 63,
+    "ru": "Это очень дорогая вещь",
+    "en": "It is a very expensive thing"
+  },
+  {
+    "_id": 64,
+    "ru": "Это очень холодная вода",
+    "en": "It is very cold water"
+  },
+  {
+    "_id": 65,
+    "ru": "Чем больше ты тренируешься, тем больше устаешь",
+    "en": "The more you train, the more tired you get"
+  },
+  {
+    "_id": 66,
+    "ru": "Чем больше он курит, тем хуже себя чувствует",
+    "en": "The more he smokes, the worse he feels"
+  },
+  {
+    "_id": 67,
+    "ru": "Это одно из недавних открытий",
+    "en": "It is one of the recent discoveries"
+  },
+  {
+    "_id": 68,
+    "ru": "Он один из самых богатых людей",
+    "en": "He is one of the richest people"
+  },
+  {
+    "_id": 69,
+    "ru": "Это одно из самых полезных открытий",
+    "en": "It is one of the most useful discoveries"
+  },
+  {
+    "_id": 70,
+    "ru": "Чем меньше мы тренируемся, тем мы слабее",
+    "en": "The less we train, the weaker we are"
+  },
+  {
+    "_id": 71,
+    "ru": "Чем больше мы тренируемся, тем больше устаем",
+    "en": "The more we train, the more tired we are"
+  },
+  {
+    "_id": 72,
+    "ru": "Чем меньше я ем, тем я слабее",
+    "en": "The less I eat, the weaker I am"
+  },
+  {
+    "_id": 73,
+    "ru": "Чем больше я изучал это, тем больше понимал",
+    "en": "The more I learned it, the more I understood"
+  },
+  {
+    "_id": 74,
+    "ru": "Это одно из самых частых английских слов",
+    "en": "It is one of the most frequent English words"
+  },
+  {
+    "_id": 75,
+    "ru": "Я все больше и больше уверен в этом",
+    "en": "I'm more and more certain about it"
+  },
+  {
+    "_id": 76,
+    "ru": "Я полагаю, это гораздо лучше решение",
+    "en": "I suppose it's a much better decision"
+  },
+  {
+    "_id": 77,
+    "ru": "Чем дороже отель, тем лучше сервис",
+    "en": "The more expensive the hotel, the better the service"
+  },
+  {
+    "_id": 78,
+    "ru": "Это одно из самых интересных недавних открытий",
+    "en": "It is one of the most interesting recent discoveries"
+  },
+  {
+    "_id": 79,
+    "ru": "Мы выйдем, если погода станет лучше",
+    "en": "We will go out if the weather becomes better"
+  },
+  {
+    "_id": 80,
+    "ru": "Мы преодолели большее расстояние",
+    "en": "We covered a longer distance"
+  },
+  {
+    "_id": 81,
+    "ru": "Эта сумка в три раза дешевле той",
+    "en": "This bag is three times cheaper than that one"
+  },
+  {
+    "_id": 82,
+    "ru": "Это одно из самых употребляемых английских слов",
+    "en": "It is one of the most used English words"
+  },
+  {
+    "_id": 83,
+    "ru": "Эта машина не такая старая, как та",
+    "en": "This car isn't as old as that one"
+  }
 ]

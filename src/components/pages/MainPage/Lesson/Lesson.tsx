@@ -19,7 +19,7 @@ interface Props {
 }
 
 const Lesson = ({ course, lesson }: Props) => {
-  const [translations, setTranslations] = useState<Translation | null>(null);
+  const [translations, setTranslations] = useState<Translation[] | null>(null);
   const [order, setOrder] = useState<number[]>([]);
   const [openSentences, setOpenSentences] = useState<number[] | null>(null);
   const prevOpenSentences = usePrevious(openSentences);
@@ -44,7 +44,7 @@ const Lesson = ({ course, lesson }: Props) => {
         return v;
       }
       const result = (() => {
-        const existingItem = v.find((i) => i[0] === translation[0] && i[1] === translation[1]);
+        const existingItem = v.find((i) => i.ru === translation.ru && i.en === translation.en);
         if (existingItem) {
           return v.filter((i) => i !== existingItem);
         } else {
@@ -135,10 +135,10 @@ const Lesson = ({ course, lesson }: Props) => {
         <table className="w-full">
           <tbody className="divide-y divide-gray5 bg-white">
             {order.map((idx) => {
-              const [ru, en] = translations[idx];
+              const { ru, en } = translations[idx];
 
               const isOpen = openSentences.includes(idx);
-              const isFavorite = favoriteTranslations.find((i) => i[0] === ru && i[1] === en);
+              const isFavorite = favoriteTranslations.find((i) => i.ru === ru && i.en === en);
               return (
                 <tr
                   key={`${course}_${lesson}_${idx}`}
@@ -147,7 +147,7 @@ const Lesson = ({ course, lesson }: Props) => {
                   <td
                     className="w-[1px] cursor-pointer px-2"
                     onClick={() => {
-                      addRemoveFromFavoriteTranslations([ru, en]);
+                      addRemoveFromFavoriteTranslations({ ru, en });
                     }}
                   >
                     {isFavorite ? (

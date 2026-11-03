@@ -1,318 +1,397 @@
 [
-  [
-    "Я много учился",
-    "I studied a lot"
-  ],
-  [
-    "Я закончил свою работу",
-    "I finished my work"
-  ],
-  [
-    "Я закрыл дверь",
-    "I closed the door"
-  ],
-  [
-    "Я много учился",
-    "I studied a lot"
-  ],
-  [
-    "Она училась очень мало",
-    "She studied very little"
-  ],
-  [
-    "Я сравнил эти цены",
-    "I compared these prices"
-  ],
-  [
-    "Я остановился возле того окна",
-    "I stopped near that window"
-  ],
-  [
-    "Он действительно любил ее",
-    "He really loved her"
-  ],
-  [
-    "Она закончила работу очень рано",
-    "She finished work very early"
-  ],
-  [
-    "Я согласился с этим",
-    "I agreed with it"
-  ],
-  [
-    "Тебе понравилась эта идея?",
-    "Did you like this idea?"
-  ],
-  [
-    "Тебе понравилось его предложение?",
-    "Did you like his offer?"
-  ],
-  [
-    "Мы остановились там",
-    "We stopped there"
-  ],
-  [
-    "Я учился очень усердно",
-    "I studied very hard"
-  ],
-  [
-    "Я сдал тот тест",
-    "I passed that test"
-  ],
-  [
-    "Все хотели продолжить",
-    "Everyone wanted to continue"
-  ],
-  [
-    "Он так много учился",
-    "He studied so much"
-  ],
-  [
-    "Она любила танцевать",
-    "She loved dancing"
-  ],
-  [
-    "Ты закрыл окно?",
-    "Did you close the window?"
-  ],
-  [
-    "Мы продолжили",
-    "We continued"
-  ],
-  [
-    "Что тебе понравилось больше?",
-    "What did you like more?"
-  ],
-  [
-    "Ты открыл этот сайт?",
-    "Did you open this website?"
-  ],
-  [
-    "Это действительно мотивировало меня",
-    "It really motivated me"
-  ],
-  [
-    "Когда ты закончил свою работу?",
-    "When did you finish your work?"
-  ],
-  [
-    "Он умер очень старым",
-    "He died very old"
-  ],
-  [
-    "Я сдал этот экзамен",
-    "I passed this exam"
-  ],
-  [
-    "Он рекомендовал тот отель",
-    "He recommended that hotel"
-  ],
-  [
-    "Он прыгнул так высоко",
-    "He jumped so high"
-  ],
-  [
-    "Он часто пользовался интернетом",
-    "He often used the Internet"
-  ],
-  [
-    "Эта машина остановилась здесь",
-    "This car stopped here"
-  ],
-  [
-    "Я также хотел продолжить",
-    "I also wanted to continue"
-  ],
-  [
-    "Мне нужно было больше практики",
-    "I needed more practice"
-  ],
-  [
-    "Он закончил свою работу очень поздно",
-    "He finished his work very late"
-  ],
-  [
-    "Я открыл дверь",
-    "I opened the door"
-  ],
-  [
-    "Он не хотел прыгать",
-    "He didn't want to jump"
-  ],
-  [
-    "Она умерла четыре месяца назад",
-    "She died four months ago"
-  ],
-  [
-    "Я действительно ненавидел это",
-    "I really hated it"
-  ],
-  [
-    "Мы сравнили те курсы",
-    "We compared those courses"
-  ],
-  [
-    "Я всегда верил ей",
-    "I always believed her"
-  ],
-  [
-    "Как ты скачал это?",
-    "How did you download it?"
-  ],
-  [
-    "Он пытался найти работу",
-    "He tried to find a job"
-  ],
-  [
-    "Как долго один урок длился?",
-    "How long did one lesson last?"
-  ],
-  [
-    "Я использовал тот сервис ранее",
-    "I used that service earlier"
-  ],
-  [
-    "Я скачал эти файлы",
-    "I downloaded these files"
-  ],
-  [
-    "Я пытался понять это",
-    "I tried to understand it"
-  ],
-  [
-    "Она вернулась раньше",
-    "She returned earlier"
-  ],
-  [
-    "Я решил использовать этот сервис",
-    "I decided to use this service"
-  ],
-  [
-    "Ты исправил эти ошибки?",
-    "Did you correct these mistakes?"
-  ],
-  [
-    "Я хотел достичь этой цели",
-    "I wanted to achieve this aim"
-  ],
-  [
-    "Я не отмечал этот праздник",
-    "I didn't celebrate this holiday"
-  ],
-  [
-    "Что ты ел в этом ресторане?",
-    "What did you eat in this restaurant?"
-  ],
-  [
-    "Что ты заказал в этом магазине?",
-    "What did you order in this shop?"
-  ],
-  [
-    "Я вернулся домой позже",
-    "I returned home later"
-  ],
-  [
-    "Он вернулся в школу позже",
-    "He returned to school later"
-  ],
-  [
-    "Они вернулись туда позже",
-    "They returned there later"
-  ],
-  [
-    "Я не думаю, что это помогло мне",
-    "I don't think that it helped me"
-  ],
-  [
-    "Ты добился своей цели?",
-    "Did you achieve your aim?"
-  ],
-  [
-    "Ты добился этой цели?",
-    "Did you achieve this aim?"
-  ],
-  [
-    "Она добилась своей цели?",
-    "Did she achieve her aim?"
-  ],
-  [
-    "Я скачал все вчера",
-    "I downloaded everything yesterday"
-  ],
-  [
-    "Я скачал все",
-    "I downloaded everything"
-  ],
-  [
-    "Я скачал это",
-    "I downloaded it"
-  ],
-  [
-    "Мы всегда помогали друг другу",
-    "We always helped each other"
-  ],
-  [
-    "Они всегда помогали друг другу",
-    "They always helped each other"
-  ],
-  [
-    "Они всегда помогали нам",
-    "They always helped us"
-  ],
-  [
-    "Это случилось со мной",
-    "It happened to me"
-  ],
-  [
-    "Это случилось со мной однажды",
-    "It happened to me one day"
-  ],
-  [
-    "Это случилось со мной вчера",
-    "It happened to me yesterday"
-  ],
-  [
-    "Я исправил свои ошибки",
-    "I corrected my mistakes"
-  ],
-  [
-    "Я изучал английский в школе",
-    "I studied English at school"
-  ],
-  [
-    "Ты согласился или нет?",
-    "Did you agree or not?"
-  ],
-  [
-    "Я достиг своей цели",
-    "I achieved my aim"
-  ],
-  [
-    "Этот урок длился дольше",
-    "This lesson lasted longer"
-  ],
-  [
-    "Как ты отметил этот праздник?",
-    "How did you celebrate this holiday?"
-  ],
-  [
-    "Я все исправил",
-    "I corrected everything"
-  ],
-  [
-    "Ты согласился сделать это?",
-    "Did you agree to do it?"
-  ],
-  [
-    "Мне нужно было сделать это срочно",
-    "I needed to do it urgently"
-  ],
-  [
-    "Ты скачал эту программу?",
-    "Did you download this program?"
-  ],
-  [
-    "Он согласился помочь тебе?",
-    "Did he agree to help you?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я много учился",
+    "en": "I studied a lot"
+  },
+  {
+    "_id": 2,
+    "ru": "Я закончил свою работу",
+    "en": "I finished my work"
+  },
+  {
+    "_id": 3,
+    "ru": "Я закрыл дверь",
+    "en": "I closed the door"
+  },
+  {
+    "_id": 4,
+    "ru": "Я много учился",
+    "en": "I studied a lot"
+  },
+  {
+    "_id": 5,
+    "ru": "Она училась очень мало",
+    "en": "She studied very little"
+  },
+  {
+    "_id": 6,
+    "ru": "Я сравнил эти цены",
+    "en": "I compared these prices"
+  },
+  {
+    "_id": 7,
+    "ru": "Я остановился возле того окна",
+    "en": "I stopped near that window"
+  },
+  {
+    "_id": 8,
+    "ru": "Он действительно любил ее",
+    "en": "He really loved her"
+  },
+  {
+    "_id": 9,
+    "ru": "Она закончила работу очень рано",
+    "en": "She finished work very early"
+  },
+  {
+    "_id": 10,
+    "ru": "Я согласился с этим",
+    "en": "I agreed with it"
+  },
+  {
+    "_id": 11,
+    "ru": "Тебе понравилась эта идея?",
+    "en": "Did you like this idea?"
+  },
+  {
+    "_id": 12,
+    "ru": "Тебе понравилось его предложение?",
+    "en": "Did you like his offer?"
+  },
+  {
+    "_id": 13,
+    "ru": "Мы остановились там",
+    "en": "We stopped there"
+  },
+  {
+    "_id": 14,
+    "ru": "Я учился очень усердно",
+    "en": "I studied very hard"
+  },
+  {
+    "_id": 15,
+    "ru": "Я сдал тот тест",
+    "en": "I passed that test"
+  },
+  {
+    "_id": 16,
+    "ru": "Все хотели продолжить",
+    "en": "Everyone wanted to continue"
+  },
+  {
+    "_id": 17,
+    "ru": "Он так много учился",
+    "en": "He studied so much"
+  },
+  {
+    "_id": 18,
+    "ru": "Она любила танцевать",
+    "en": "She loved dancing"
+  },
+  {
+    "_id": 19,
+    "ru": "Ты закрыл окно?",
+    "en": "Did you close the window?"
+  },
+  {
+    "_id": 20,
+    "ru": "Мы продолжили",
+    "en": "We continued"
+  },
+  {
+    "_id": 21,
+    "ru": "Что тебе понравилось больше?",
+    "en": "What did you like more?"
+  },
+  {
+    "_id": 22,
+    "ru": "Ты открыл этот сайт?",
+    "en": "Did you open this website?"
+  },
+  {
+    "_id": 23,
+    "ru": "Это действительно мотивировало меня",
+    "en": "It really motivated me"
+  },
+  {
+    "_id": 24,
+    "ru": "Когда ты закончил свою работу?",
+    "en": "When did you finish your work?"
+  },
+  {
+    "_id": 25,
+    "ru": "Он умер очень старым",
+    "en": "He died very old"
+  },
+  {
+    "_id": 26,
+    "ru": "Я сдал этот экзамен",
+    "en": "I passed this exam"
+  },
+  {
+    "_id": 27,
+    "ru": "Он рекомендовал тот отель",
+    "en": "He recommended that hotel"
+  },
+  {
+    "_id": 28,
+    "ru": "Он прыгнул так высоко",
+    "en": "He jumped so high"
+  },
+  {
+    "_id": 29,
+    "ru": "Он часто пользовался интернетом",
+    "en": "He often used the Internet"
+  },
+  {
+    "_id": 30,
+    "ru": "Эта машина остановилась здесь",
+    "en": "This car stopped here"
+  },
+  {
+    "_id": 31,
+    "ru": "Я также хотел продолжить",
+    "en": "I also wanted to continue"
+  },
+  {
+    "_id": 32,
+    "ru": "Мне нужно было больше практики",
+    "en": "I needed more practice"
+  },
+  {
+    "_id": 33,
+    "ru": "Он закончил свою работу очень поздно",
+    "en": "He finished his work very late"
+  },
+  {
+    "_id": 34,
+    "ru": "Я открыл дверь",
+    "en": "I opened the door"
+  },
+  {
+    "_id": 35,
+    "ru": "Он не хотел прыгать",
+    "en": "He didn't want to jump"
+  },
+  {
+    "_id": 36,
+    "ru": "Она умерла четыре месяца назад",
+    "en": "She died four months ago"
+  },
+  {
+    "_id": 37,
+    "ru": "Я действительно ненавидел это",
+    "en": "I really hated it"
+  },
+  {
+    "_id": 38,
+    "ru": "Мы сравнили те курсы",
+    "en": "We compared those courses"
+  },
+  {
+    "_id": 39,
+    "ru": "Я всегда верил ей",
+    "en": "I always believed her"
+  },
+  {
+    "_id": 40,
+    "ru": "Как ты скачал это?",
+    "en": "How did you download it?"
+  },
+  {
+    "_id": 41,
+    "ru": "Он пытался найти работу",
+    "en": "He tried to find a job"
+  },
+  {
+    "_id": 42,
+    "ru": "Как долго один урок длился?",
+    "en": "How long did one lesson last?"
+  },
+  {
+    "_id": 43,
+    "ru": "Я использовал тот сервис ранее",
+    "en": "I used that service earlier"
+  },
+  {
+    "_id": 44,
+    "ru": "Я скачал эти файлы",
+    "en": "I downloaded these files"
+  },
+  {
+    "_id": 45,
+    "ru": "Я пытался понять это",
+    "en": "I tried to understand it"
+  },
+  {
+    "_id": 46,
+    "ru": "Она вернулась раньше",
+    "en": "She returned earlier"
+  },
+  {
+    "_id": 47,
+    "ru": "Я решил использовать этот сервис",
+    "en": "I decided to use this service"
+  },
+  {
+    "_id": 48,
+    "ru": "Ты исправил эти ошибки?",
+    "en": "Did you correct these mistakes?"
+  },
+  {
+    "_id": 49,
+    "ru": "Я хотел достичь этой цели",
+    "en": "I wanted to achieve this aim"
+  },
+  {
+    "_id": 50,
+    "ru": "Я не отмечал этот праздник",
+    "en": "I didn't celebrate this holiday"
+  },
+  {
+    "_id": 51,
+    "ru": "Что ты ел в этом ресторане?",
+    "en": "What did you eat in this restaurant?"
+  },
+  {
+    "_id": 52,
+    "ru": "Что ты заказал в этом магазине?",
+    "en": "What did you order in this shop?"
+  },
+  {
+    "_id": 53,
+    "ru": "Я вернулся домой позже",
+    "en": "I returned home later"
+  },
+  {
+    "_id": 54,
+    "ru": "Он вернулся в школу позже",
+    "en": "He returned to school later"
+  },
+  {
+    "_id": 55,
+    "ru": "Они вернулись туда позже",
+    "en": "They returned there later"
+  },
+  {
+    "_id": 56,
+    "ru": "Я не думаю, что это помогло мне",
+    "en": "I don't think that it helped me"
+  },
+  {
+    "_id": 57,
+    "ru": "Ты добился своей цели?",
+    "en": "Did you achieve your aim?"
+  },
+  {
+    "_id": 58,
+    "ru": "Ты добился этой цели?",
+    "en": "Did you achieve this aim?"
+  },
+  {
+    "_id": 59,
+    "ru": "Она добилась своей цели?",
+    "en": "Did she achieve her aim?"
+  },
+  {
+    "_id": 60,
+    "ru": "Я скачал все вчера",
+    "en": "I downloaded everything yesterday"
+  },
+  {
+    "_id": 61,
+    "ru": "Я скачал все",
+    "en": "I downloaded everything"
+  },
+  {
+    "_id": 62,
+    "ru": "Я скачал это",
+    "en": "I downloaded it"
+  },
+  {
+    "_id": 63,
+    "ru": "Мы всегда помогали друг другу",
+    "en": "We always helped each other"
+  },
+  {
+    "_id": 64,
+    "ru": "Они всегда помогали друг другу",
+    "en": "They always helped each other"
+  },
+  {
+    "_id": 65,
+    "ru": "Они всегда помогали нам",
+    "en": "They always helped us"
+  },
+  {
+    "_id": 66,
+    "ru": "Это случилось со мной",
+    "en": "It happened to me"
+  },
+  {
+    "_id": 67,
+    "ru": "Это случилось со мной однажды",
+    "en": "It happened to me one day"
+  },
+  {
+    "_id": 68,
+    "ru": "Это случилось со мной вчера",
+    "en": "It happened to me yesterday"
+  },
+  {
+    "_id": 69,
+    "ru": "Я исправил свои ошибки",
+    "en": "I corrected my mistakes"
+  },
+  {
+    "_id": 70,
+    "ru": "Я изучал английский в школе",
+    "en": "I studied English at school"
+  },
+  {
+    "_id": 71,
+    "ru": "Ты согласился или нет?",
+    "en": "Did you agree or not?"
+  },
+  {
+    "_id": 72,
+    "ru": "Я достиг своей цели",
+    "en": "I achieved my aim"
+  },
+  {
+    "_id": 73,
+    "ru": "Этот урок длился дольше",
+    "en": "This lesson lasted longer"
+  },
+  {
+    "_id": 74,
+    "ru": "Как ты отметил этот праздник?",
+    "en": "How did you celebrate this holiday?"
+  },
+  {
+    "_id": 75,
+    "ru": "Я все исправил",
+    "en": "I corrected everything"
+  },
+  {
+    "_id": 76,
+    "ru": "Ты согласился сделать это?",
+    "en": "Did you agree to do it?"
+  },
+  {
+    "_id": 77,
+    "ru": "Мне нужно было сделать это срочно",
+    "en": "I needed to do it urgently"
+  },
+  {
+    "_id": 78,
+    "ru": "Ты скачал эту программу?",
+    "en": "Did you download this program?"
+  },
+  {
+    "_id": 79,
+    "ru": "Он согласился помочь тебе?",
+    "en": "Did he agree to help you?"
+  }
 ]

@@ -1,178 +1,222 @@
 [
-  [
-    "Я не хотел опаздывать на концерт",
-    "I didn’t want to be late for the concert"
-  ],
-  [
-    "Мне не понравилась эта идея сначала",
-    "I didn’t like this idea at first"
-  ],
-  [
-    "Она не хотела тратить время на это",
-    "She didn't want to spend time on it"
-  ],
-  [
-    "Я не смотрел этот фильм",
-    "I didn't watch this movie"
-  ],
-  [
-    "Это не принесло ему больших денег",
-    "It didn't bring him big money"
-  ],
-  [
-    "Мы не поняли это",
-    "We didn't understand it"
-  ],
-  [
-    "Он не спрашивал меня об этом",
-    "He didn't ask me about it"
-  ],
-  [
-    "Я не ходил по магазинам",
-    "I didn't go shopping"
-  ],
-  [
-    "Он не понял этот урок",
-    "He didn't understand this lesson"
-  ],
-  [
-    "Это не помогло мне",
-    "It didn’t help me"
-  ],
-  [
-    "Я не хотел ждать это",
-    "I didn't want to wait for it"
-  ],
-  [
-    "Я не ходил на прогулку вчера",
-    "I didn't go for a walk yesterday"
-  ],
-  [
-    "Я не пил чай. Я выпил кофе",
-    "I didn't drink tea. I drank coffee"
-  ],
-  [
-    "Я не хотел опаздывать на урок",
-    "I didn't want to be late for the lesson"
-  ],
-  [
-    "Она не ходила по магазинам вчера",
-    "She didn't go shopping yesterday"
-  ],
-  [
-    "У меня не было достаточно времени",
-    "I didn't have enough time"
-  ],
-  [
-    "Мне не понравилось это сначала",
-    "I didn't like it at first"
-  ],
-  [
-    "У него не было достаточно денег",
-    "He didn't have enough money"
-  ],
-  [
-    "Я не думал об этом всерьез",
-    "I didn't think about it seriously"
-  ],
-  [
-    "Я не ходил на работу два дня назад",
-    "I didn't go to work two days ago"
-  ],
-  [
-    "Она не чувствовала себя счастливой",
-    "She didn't feel happy"
-  ],
-  [
-    "Это не произошло",
-    "It didn't happen"
-  ],
-  [
-    "У меня не было времени",
-    "I didn't have time"
-  ],
-  [
-    "Я не хотел делать это",
-    "I didn't want to do it"
-  ],
-  [
-    "Он не ходил в школу вчера",
-    "He didn't go to school yesterday"
-  ],
-  [
-    "Эта вещь не помогла нам",
-    "This thing didn't help us"
-  ],
-  [
-    "Мне не понравился тот отель",
-    "I didn't like that hotel"
-  ],
-  [
-    "Я не знал об этом",
-    "I didn't know about it"
-  ],
-  [
-    "Я не сделал какие-либо ошибки",
-    "I didn't make any mistakes"
-  ],
-  [
-    "Я не хотел опаздывать",
-    "I didn’t want to be late"
-  ],
-  [
-    "Я не нашел эту информацию",
-    "I didn't find this information"
-  ],
-  [
-    "Я не нашел это",
-    "I didn't find it"
-  ],
-  [
-    "У меня не было каких-либо проблем",
-    "I didn't have any problems"
-  ],
-  [
-    "Он не хотел там работать",
-    "He didn't want to work there"
-  ],
-  [
-    "Я не смотрел это видео",
-    "I didn't watch this video"
-  ],
-  [
-    "У меня не было каких-либо вопросов",
-    "I didn't have any questions"
-  ],
-  [
-    "Я не поверил ему сначала",
-    "I didn't believe him at first"
-  ],
-  [
-    "Они не проиграли",
-    "They didn't lose"
-  ],
-  [
-    "Я не платил за это",
-    "I didn't pay for it"
-  ],
-  [
-    "Я не хотел туда идти",
-    "I didn't want to go there"
-  ],
-  [
-    "Мне не понравилось это в начале",
-    "I didn't like it in the beginning"
-  ],
-  [
-    "Она не выглядела счастливой",
-    "She didn't look happy"
-  ],
-  [
-    "Я не хотел ждать",
-    "I didn't want to wait"
-  ],
-  [
-    "Я не поверил этому в начале",
-    "I didn't believe it in the beginning"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я не хотел опаздывать на концерт",
+    "en": "I didn’t want to be late for the concert"
+  },
+  {
+    "_id": 2,
+    "ru": "Мне не понравилась эта идея сначала",
+    "en": "I didn’t like this idea at first"
+  },
+  {
+    "_id": 3,
+    "ru": "Она не хотела тратить время на это",
+    "en": "She didn't want to spend time on it"
+  },
+  {
+    "_id": 4,
+    "ru": "Я не смотрел этот фильм",
+    "en": "I didn't watch this movie"
+  },
+  {
+    "_id": 5,
+    "ru": "Это не принесло ему больших денег",
+    "en": "It didn't bring him big money"
+  },
+  {
+    "_id": 6,
+    "ru": "Мы не поняли это",
+    "en": "We didn't understand it"
+  },
+  {
+    "_id": 7,
+    "ru": "Он не спрашивал меня об этом",
+    "en": "He didn't ask me about it"
+  },
+  {
+    "_id": 8,
+    "ru": "Я не ходил по магазинам",
+    "en": "I didn't go shopping"
+  },
+  {
+    "_id": 9,
+    "ru": "Он не понял этот урок",
+    "en": "He didn't understand this lesson"
+  },
+  {
+    "_id": 10,
+    "ru": "Это не помогло мне",
+    "en": "It didn’t help me"
+  },
+  {
+    "_id": 11,
+    "ru": "Я не хотел ждать это",
+    "en": "I didn't want to wait for it"
+  },
+  {
+    "_id": 12,
+    "ru": "Я не ходил на прогулку вчера",
+    "en": "I didn't go for a walk yesterday"
+  },
+  {
+    "_id": 13,
+    "ru": "Я не пил чай. Я выпил кофе",
+    "en": "I didn't drink tea. I drank coffee"
+  },
+  {
+    "_id": 14,
+    "ru": "Я не хотел опаздывать на урок",
+    "en": "I didn't want to be late for the lesson"
+  },
+  {
+    "_id": 15,
+    "ru": "Она не ходила по магазинам вчера",
+    "en": "She didn't go shopping yesterday"
+  },
+  {
+    "_id": 16,
+    "ru": "У меня не было достаточно времени",
+    "en": "I didn't have enough time"
+  },
+  {
+    "_id": 17,
+    "ru": "Мне не понравилось это сначала",
+    "en": "I didn't like it at first"
+  },
+  {
+    "_id": 18,
+    "ru": "У него не было достаточно денег",
+    "en": "He didn't have enough money"
+  },
+  {
+    "_id": 19,
+    "ru": "Я не думал об этом всерьез",
+    "en": "I didn't think about it seriously"
+  },
+  {
+    "_id": 20,
+    "ru": "Я не ходил на работу два дня назад",
+    "en": "I didn't go to work two days ago"
+  },
+  {
+    "_id": 21,
+    "ru": "Она не чувствовала себя счастливой",
+    "en": "She didn't feel happy"
+  },
+  {
+    "_id": 22,
+    "ru": "Это не произошло",
+    "en": "It didn't happen"
+  },
+  {
+    "_id": 23,
+    "ru": "У меня не было времени",
+    "en": "I didn't have time"
+  },
+  {
+    "_id": 24,
+    "ru": "Я не хотел делать это",
+    "en": "I didn't want to do it"
+  },
+  {
+    "_id": 25,
+    "ru": "Он не ходил в школу вчера",
+    "en": "He didn't go to school yesterday"
+  },
+  {
+    "_id": 26,
+    "ru": "Эта вещь не помогла нам",
+    "en": "This thing didn't help us"
+  },
+  {
+    "_id": 27,
+    "ru": "Мне не понравился тот отель",
+    "en": "I didn't like that hotel"
+  },
+  {
+    "_id": 28,
+    "ru": "Я не знал об этом",
+    "en": "I didn't know about it"
+  },
+  {
+    "_id": 29,
+    "ru": "Я не сделал какие-либо ошибки",
+    "en": "I didn't make any mistakes"
+  },
+  {
+    "_id": 30,
+    "ru": "Я не хотел опаздывать",
+    "en": "I didn’t want to be late"
+  },
+  {
+    "_id": 31,
+    "ru": "Я не нашел эту информацию",
+    "en": "I didn't find this information"
+  },
+  {
+    "_id": 32,
+    "ru": "Я не нашел это",
+    "en": "I didn't find it"
+  },
+  {
+    "_id": 33,
+    "ru": "У меня не было каких-либо проблем",
+    "en": "I didn't have any problems"
+  },
+  {
+    "_id": 34,
+    "ru": "Он не хотел там работать",
+    "en": "He didn't want to work there"
+  },
+  {
+    "_id": 35,
+    "ru": "Я не смотрел это видео",
+    "en": "I didn't watch this video"
+  },
+  {
+    "_id": 36,
+    "ru": "У меня не было каких-либо вопросов",
+    "en": "I didn't have any questions"
+  },
+  {
+    "_id": 37,
+    "ru": "Я не поверил ему сначала",
+    "en": "I didn't believe him at first"
+  },
+  {
+    "_id": 38,
+    "ru": "Они не проиграли",
+    "en": "They didn't lose"
+  },
+  {
+    "_id": 39,
+    "ru": "Я не платил за это",
+    "en": "I didn't pay for it"
+  },
+  {
+    "_id": 40,
+    "ru": "Я не хотел туда идти",
+    "en": "I didn't want to go there"
+  },
+  {
+    "_id": 41,
+    "ru": "Мне не понравилось это в начале",
+    "en": "I didn't like it in the beginning"
+  },
+  {
+    "_id": 42,
+    "ru": "Она не выглядела счастливой",
+    "en": "She didn't look happy"
+  },
+  {
+    "_id": 43,
+    "ru": "Я не хотел ждать",
+    "en": "I didn't want to wait"
+  },
+  {
+    "_id": 44,
+    "ru": "Я не поверил этому в начале",
+    "en": "I didn't believe it in the beginning"
+  }
 ]

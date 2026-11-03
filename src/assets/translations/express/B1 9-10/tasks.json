@@ -1,66 +1,82 @@
 [
-  [
-    "Все контролируется сейчас",
-    "Everything is being controlled now"
-  ],
-  [
-    "Это только что было сделано",
-    "It has just been done"
-  ],
-  [
-    "Следующий уровень будет достигнут довольно скоро",
-    "The next level will be reached quite soon"
-  ],
-  [
-    "Их проинформируют завтра",
-    "They'll be informed tomorrow"
-  ],
-  [
-    "Его критикуют очень резко в эти дни",
-    "He's being criticized very sharply these days"
-  ],
-  [
-    "Она сказала, что все ошибки были исправлены",
-    "She said that all the mistakes had been corrected"
-  ],
-  [
-    "Эти цифры анализируются сейчас",
-    "These figures are being analyzed now"
-  ],
-  [
-    "Не все было понято сразу",
-    "Not everything was understood immediately"
-  ],
-  [
-    "Он сказал, что проблема была решена",
-    "He said that the problem had been solved"
-  ],
-  [
-    "Я ждал, пока проверяли его работу",
-    "I was waiting while his work was being checked"
-  ],
-  [
-    "Выяснилось, что сумку украли",
-    "It was found out that the bag had been stolen"
-  ],
-  [
-    "Как уже говорили, ситуация не такая простая",
-    "As it has already been said, the situation isn't so simple"
-  ],
-  [
-    "Сказали, что он был награжден",
-    "It was said that he had been awarded"
-  ],
-  [
-    "Это уже было сказано",
-    "It has already been said"
-  ],
-  [
-    "Он сказал, что не все было понято правильно",
-    "He said that not everything had been understood correctly"
-  ],
-  [
-    "Как уже упоминалось, не все зависит от нас",
-    "As it has already been mentioned, not everything depends on us"
-  ]
+  {
+    "_id": 1,
+    "ru": "Все контролируется сейчас",
+    "en": "Everything is being controlled now"
+  },
+  {
+    "_id": 2,
+    "ru": "Это только что было сделано",
+    "en": "It has just been done"
+  },
+  {
+    "_id": 3,
+    "ru": "Следующий уровень будет достигнут довольно скоро",
+    "en": "The next level will be reached quite soon"
+  },
+  {
+    "_id": 4,
+    "ru": "Их проинформируют завтра",
+    "en": "They'll be informed tomorrow"
+  },
+  {
+    "_id": 5,
+    "ru": "Его критикуют очень резко в эти дни",
+    "en": "He's being criticized very sharply these days"
+  },
+  {
+    "_id": 6,
+    "ru": "Она сказала, что все ошибки были исправлены",
+    "en": "She said that all the mistakes had been corrected"
+  },
+  {
+    "_id": 7,
+    "ru": "Эти цифры анализируются сейчас",
+    "en": "These figures are being analyzed now"
+  },
+  {
+    "_id": 8,
+    "ru": "Не все было понято сразу",
+    "en": "Not everything was understood immediately"
+  },
+  {
+    "_id": 9,
+    "ru": "Он сказал, что проблема была решена",
+    "en": "He said that the problem had been solved"
+  },
+  {
+    "_id": 10,
+    "ru": "Я ждал, пока проверяли его работу",
+    "en": "I was waiting while his work was being checked"
+  },
+  {
+    "_id": 11,
+    "ru": "Выяснилось, что сумку украли",
+    "en": "It was found out that the bag had been stolen"
+  },
+  {
+    "_id": 12,
+    "ru": "Как уже говорили, ситуация не такая простая",
+    "en": "As it has already been said, the situation isn't so simple"
+  },
+  {
+    "_id": 13,
+    "ru": "Сказали, что он был награжден",
+    "en": "It was said that he had been awarded"
+  },
+  {
+    "_id": 14,
+    "ru": "Это уже было сказано",
+    "en": "It has already been said"
+  },
+  {
+    "_id": 15,
+    "ru": "Он сказал, что не все было понято правильно",
+    "en": "He said that not everything had been understood correctly"
+  },
+  {
+    "_id": 16,
+    "ru": "Как уже упоминалось, не все зависит от нас",
+    "en": "As it has already been mentioned, not everything depends on us"
+  }
 ]

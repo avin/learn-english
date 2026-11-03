@@ -1,338 +1,422 @@
 [
-  [
-    "Посмотри на это!",
-    "Look at it!"
-  ],
-  [
-    "Я люблю такого рода еду",
-    "I love this kind of food"
-  ],
-  [
-    "Подожди меня!",
-    "Wait for me!"
-  ],
-  [
-    "Он работает мало",
-    "He works little"
-  ],
-  [
-    "Я хочу обсудить это с тобой",
-    "I want to discuss it with you"
-  ],
-  [
-    "Он бегает очень быстро",
-    "He runs very fast"
-  ],
-  [
-    "Что тебе нравится больше?",
-    "What do you like more?"
-  ],
-  [
-    "Она хочет продать свою квартиру",
-    "She wants to sell her apartment"
-  ],
-  [
-    "Они продают это очень дешево",
-    "They sell it very cheaply"
-  ],
-  [
-    "Она не танцует профессионально",
-    "She doesn't dance professionally"
-  ],
-  [
-    "Встань, пожалуйста!",
-    "Stand up, please!"
-  ],
-  [
-    "Он бегает быстрее",
-    "He runs faster"
-  ],
-  [
-    "Я могу позвонить тебе сейчас",
-    "I can call you now"
-  ],
-  [
-    "Посмотри на это!",
-    "Look at it!"
-  ],
-  [
-    "Они строят дома",
-    "They build houses"
-  ],
-  [
-    "Ей нравится ее новое платье?",
-    "Does she like her new dress?"
-  ],
-  [
-    "Он действительно ненавидит это?",
-    "Does he really hate it?"
-  ],
-  [
-    "Мы можем обсудить это прямо сейчас",
-    "We can discuss it right now"
-  ],
-  [
-    "Это может начаться скоро",
-    "It can begin soon"
-  ],
-  [
-    "Мне нужно позвонить ему сейчас",
-    "I need to call him now"
-  ],
-  [
-    "Ты можешь посмотреть на это",
-    "You can look at it"
-  ],
-  [
-    "Посмотри на этот слайд!",
-    "Look at this slide!"
-  ],
-  [
-    "Встань!",
-    "Stand up!"
-  ],
-  [
-    "Посмотри на него!",
-    "Look at him!"
-  ],
-  [
-    "Он строит очень хорошие дома",
-    "He builds very good houses"
-  ],
-  [
-    "Смотри на меня!",
-    "Look at me!"
-  ],
-  [
-    "Тебе нравится эта музыка?",
-    "Do you like this music?"
-  ],
-  [
-    "Он продает это очень дорого",
-    "He sells it very expensively"
-  ],
-  [
-    "Я хочу встать",
-    "I want to stand up"
-  ],
-  [
-    "Я могу бежать очень быстро",
-    "I can run very fast"
-  ],
-  [
-    "Что ты думаешь об этой идее?",
-    "What do you think about this idea?"
-  ],
-  [
-    "Я часто пользуюсь этой услугой",
-    "I often use this service"
-  ],
-  [
-    "Смотри!",
-    "Look!"
-  ],
-  [
-    "Я действительно ненавижу эту вещь",
-    "I really hate this thing"
-  ],
-  [
-    "Мне не нравится танцевать",
-    "I don't like dancing"
-  ],
-  [
-    "Я часто пользуюсь интернетом",
-    "I often use the Internet"
-  ],
-  [
-    "Ты можешь встать здесь",
-    "You can stand here"
-  ],
-  [
-    "Ей нравится танцевать",
-    "She likes dancing"
-  ],
-  [
-    "Не беспокойся об этом!",
-    "Don't worry about it!"
-  ],
-  [
-    "Я пишу по-английски очень редко",
-    "I write in English very rarely"
-  ],
-  [
-    "Я хочу улучшить свою речь",
-    "I want to improve my speaking"
-  ],
-  [
-    "Когда ты просыпаешься?",
-    "When do you wake up?"
-  ],
-  [
-    "Я делаю это очень редко",
-    "I do it very rarely"
-  ],
-  [
-    "Мне нужно запомнить эти правила",
-    "I need to remember these rules"
-  ],
-  [
-    "Я хотел бы улучшить свою речь",
-    "I'd like to improve my speaking"
-  ],
-  [
-    "Ему нужно запомнить это",
-    "He needs to remember it"
-  ],
-  [
-    "Я думаю, мы можем ждать этого",
-    "I think we can wait for it"
-  ],
-  [
-    "Как ты находишь эту идею?",
-    "How do you find this idea?"
-  ],
-  [
-    "Я часто гуляю в парке",
-    "I often walk in the park"
-  ],
-  [
-    "Я хочу улучшить свое аудирование",
-    "I want to improve my listening"
-  ],
-  [
-    "Я хочу выпить чашку чая",
-    "I want to drink a cup of tea"
-  ],
-  [
-    "Я не беспокоюсь об этих вещах",
-    "I don't worry about these things"
-  ],
-  [
-    "Я предпочитаю изучать русский здесь",
-    "I prefer to learn Russian here"
-  ],
-  [
-    "Я хотел бы выпить немного воды",
-    "I'd like to drink some water"
-  ],
-  [
-    "Он хотел бы выпить немного чая",
-    "He'd like to drink some tea"
-  ],
-  [
-    "Я хотел бы выпить чашку кофе",
-    "I'd like to drink a cup of coffee"
-  ],
-  [
-    "В какое время он встаёт?",
-    "What time does he get up?"
-  ],
-  [
-    "В какое время ты встаешь?",
-    "What time do you get up?"
-  ],
-  [
-    "Когда она просыпается?",
-    "When does she wake up?"
-  ],
-  [
-    "Я хотел бы выпить стакан сока",
-    "I'd like to drink a glass of juice"
-  ],
-  [
-    "Я хотел бы выпить стакан воды",
-    "I'd like to drink a glass of water"
-  ],
-  [
-    "Он хотел бы выпить чашку чая",
-    "He'd like to drink a cup of tea"
-  ],
-  [
-    "Я не знаю, где я могу найти это",
-    "I don't know where I can find it"
-  ],
-  [
-    "Я пытаюсь запомнить это правило",
-    "I try to remember this rule"
-  ],
-  [
-    "Он пытается запомнить эти правила",
-    "He tries to remember these rules"
-  ],
-  [
-    "Я могу найти это очень легко",
-    "I can find it very easily"
-  ],
-  [
-    "Ты можешь найти это очень легко",
-    "You can find it very easily"
-  ],
-  [
-    "Он не может найти это сейчас",
-    "He can't find it now"
-  ],
-  [
-    "Не беспокойся!",
-    "Don't worry!"
-  ],
-  [
-    "Не пей это!",
-    "Don't drink it!"
-  ],
-  [
-    "Подожди меня!",
-    "Wait for me!"
-  ],
-  [
-    "Как часто ты гуляешь в парке?",
-    "How often do you walk in the park?"
-  ],
-  [
-    "Как часто она гуляет в парке?",
-    "How often does she walk in the park?"
-  ],
-  [
-    "Когда ты гуляешь в парке?",
-    "When do you walk in the park?"
-  ],
-  [
-    "Они действительно любят друг друга",
-    "They really love each other"
-  ],
-  [
-    "Я люблю такого рода фильмы",
-    "I love this kind of movies"
-  ],
-  [
-    "Подожди этого!",
-    "Wait for it!"
-  ],
-  [
-    "Я не хочу ждать этого",
-    "I don't want to wait for it"
-  ],
-  [
-    "Я люблю такого рода музыку",
-    "I love this kind of music"
-  ],
-  [
-    "Я хотел бы улучшить свое аудирование",
-    "I'd like to improve my listening"
-  ],
-  [
-    "Я хочу улучшить свой английский",
-    "I want to improve my English"
-  ],
-  [
-    "Я люблю такую еду",
-    "I love this kind of food"
-  ],
-  [
-    "Она хочет выпить чашку кофе",
-    "She wants to drink a cup of coffee"
-  ],
-  [
-    "Когда ты обычно встаешь?",
-    "When do you usually get up?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Посмотри на это!",
+    "en": "Look at it!"
+  },
+  {
+    "_id": 2,
+    "ru": "Я люблю такого рода еду",
+    "en": "I love this kind of food"
+  },
+  {
+    "_id": 3,
+    "ru": "Подожди меня!",
+    "en": "Wait for me!"
+  },
+  {
+    "_id": 4,
+    "ru": "Он работает мало",
+    "en": "He works little"
+  },
+  {
+    "_id": 5,
+    "ru": "Я хочу обсудить это с тобой",
+    "en": "I want to discuss it with you"
+  },
+  {
+    "_id": 6,
+    "ru": "Он бегает очень быстро",
+    "en": "He runs very fast"
+  },
+  {
+    "_id": 7,
+    "ru": "Что тебе нравится больше?",
+    "en": "What do you like more?"
+  },
+  {
+    "_id": 8,
+    "ru": "Она хочет продать свою квартиру",
+    "en": "She wants to sell her apartment"
+  },
+  {
+    "_id": 9,
+    "ru": "Они продают это очень дешево",
+    "en": "They sell it very cheaply"
+  },
+  {
+    "_id": 10,
+    "ru": "Она не танцует профессионально",
+    "en": "She doesn't dance professionally"
+  },
+  {
+    "_id": 11,
+    "ru": "Встань, пожалуйста!",
+    "en": "Stand up, please!"
+  },
+  {
+    "_id": 12,
+    "ru": "Он бегает быстрее",
+    "en": "He runs faster"
+  },
+  {
+    "_id": 13,
+    "ru": "Я могу позвонить тебе сейчас",
+    "en": "I can call you now"
+  },
+  {
+    "_id": 14,
+    "ru": "Посмотри на это!",
+    "en": "Look at it!"
+  },
+  {
+    "_id": 15,
+    "ru": "Они строят дома",
+    "en": "They build houses"
+  },
+  {
+    "_id": 16,
+    "ru": "Ей нравится ее новое платье?",
+    "en": "Does she like her new dress?"
+  },
+  {
+    "_id": 17,
+    "ru": "Он действительно ненавидит это?",
+    "en": "Does he really hate it?"
+  },
+  {
+    "_id": 18,
+    "ru": "Мы можем обсудить это прямо сейчас",
+    "en": "We can discuss it right now"
+  },
+  {
+    "_id": 19,
+    "ru": "Это может начаться скоро",
+    "en": "It can begin soon"
+  },
+  {
+    "_id": 20,
+    "ru": "Мне нужно позвонить ему сейчас",
+    "en": "I need to call him now"
+  },
+  {
+    "_id": 21,
+    "ru": "Ты можешь посмотреть на это",
+    "en": "You can look at it"
+  },
+  {
+    "_id": 22,
+    "ru": "Посмотри на этот слайд!",
+    "en": "Look at this slide!"
+  },
+  {
+    "_id": 23,
+    "ru": "Встань!",
+    "en": "Stand up!"
+  },
+  {
+    "_id": 24,
+    "ru": "Посмотри на него!",
+    "en": "Look at him!"
+  },
+  {
+    "_id": 25,
+    "ru": "Он строит очень хорошие дома",
+    "en": "He builds very good houses"
+  },
+  {
+    "_id": 26,
+    "ru": "Смотри на меня!",
+    "en": "Look at me!"
+  },
+  {
+    "_id": 27,
+    "ru": "Тебе нравится эта музыка?",
+    "en": "Do you like this music?"
+  },
+  {
+    "_id": 28,
+    "ru": "Он продает это очень дорого",
+    "en": "He sells it very expensively"
+  },
+  {
+    "_id": 29,
+    "ru": "Я хочу встать",
+    "en": "I want to stand up"
+  },
+  {
+    "_id": 30,
+    "ru": "Я могу бежать очень быстро",
+    "en": "I can run very fast"
+  },
+  {
+    "_id": 31,
+    "ru": "Что ты думаешь об этой идее?",
+    "en": "What do you think about this idea?"
+  },
+  {
+    "_id": 32,
+    "ru": "Я часто пользуюсь этой услугой",
+    "en": "I often use this service"
+  },
+  {
+    "_id": 33,
+    "ru": "Смотри!",
+    "en": "Look!"
+  },
+  {
+    "_id": 34,
+    "ru": "Я действительно ненавижу эту вещь",
+    "en": "I really hate this thing"
+  },
+  {
+    "_id": 35,
+    "ru": "Мне не нравится танцевать",
+    "en": "I don't like dancing"
+  },
+  {
+    "_id": 36,
+    "ru": "Я часто пользуюсь интернетом",
+    "en": "I often use the Internet"
+  },
+  {
+    "_id": 37,
+    "ru": "Ты можешь встать здесь",
+    "en": "You can stand here"
+  },
+  {
+    "_id": 38,
+    "ru": "Ей нравится танцевать",
+    "en": "She likes dancing"
+  },
+  {
+    "_id": 39,
+    "ru": "Не беспокойся об этом!",
+    "en": "Don't worry about it!"
+  },
+  {
+    "_id": 40,
+    "ru": "Я пишу по-английски очень редко",
+    "en": "I write in English very rarely"
+  },
+  {
+    "_id": 41,
+    "ru": "Я хочу улучшить свою речь",
+    "en": "I want to improve my speaking"
+  },
+  {
+    "_id": 42,
+    "ru": "Когда ты просыпаешься?",
+    "en": "When do you wake up?"
+  },
+  {
+    "_id": 43,
+    "ru": "Я делаю это очень редко",
+    "en": "I do it very rarely"
+  },
+  {
+    "_id": 44,
+    "ru": "Мне нужно запомнить эти правила",
+    "en": "I need to remember these rules"
+  },
+  {
+    "_id": 45,
+    "ru": "Я хотел бы улучшить свою речь",
+    "en": "I'd like to improve my speaking"
+  },
+  {
+    "_id": 46,
+    "ru": "Ему нужно запомнить это",
+    "en": "He needs to remember it"
+  },
+  {
+    "_id": 47,
+    "ru": "Я думаю, мы можем ждать этого",
+    "en": "I think we can wait for it"
+  },
+  {
+    "_id": 48,
+    "ru": "Как ты находишь эту идею?",
+    "en": "How do you find this idea?"
+  },
+  {
+    "_id": 49,
+    "ru": "Я часто гуляю в парке",
+    "en": "I often walk in the park"
+  },
+  {
+    "_id": 50,
+    "ru": "Я хочу улучшить свое аудирование",
+    "en": "I want to improve my listening"
+  },
+  {
+    "_id": 51,
+    "ru": "Я хочу выпить чашку чая",
+    "en": "I want to drink a cup of tea"
+  },
+  {
+    "_id": 52,
+    "ru": "Я не беспокоюсь об этих вещах",
+    "en": "I don't worry about these things"
+  },
+  {
+    "_id": 53,
+    "ru": "Я предпочитаю изучать русский здесь",
+    "en": "I prefer to learn Russian here"
+  },
+  {
+    "_id": 54,
+    "ru": "Я хотел бы выпить немного воды",
+    "en": "I'd like to drink some water"
+  },
+  {
+    "_id": 55,
+    "ru": "Он хотел бы выпить немного чая",
+    "en": "He'd like to drink some tea"
+  },
+  {
+    "_id": 56,
+    "ru": "Я хотел бы выпить чашку кофе",
+    "en": "I'd like to drink a cup of coffee"
+  },
+  {
+    "_id": 57,
+    "ru": "В какое время он встаёт?",
+    "en": "What time does he get up?"
+  },
+  {
+    "_id": 58,
+    "ru": "В какое время ты встаешь?",
+    "en": "What time do you get up?"
+  },
+  {
+    "_id": 59,
+    "ru": "Когда она просыпается?",
+    "en": "When does she wake up?"
+  },
+  {
+    "_id": 60,
+    "ru": "Я хотел бы выпить стакан сока",
+    "en": "I'd like to drink a glass of juice"
+  },
+  {
+    "_id": 61,
+    "ru": "Я хотел бы выпить стакан воды",
+    "en": "I'd like to drink a glass of water"
+  },
+  {
+    "_id": 62,
+    "ru": "Он хотел бы выпить чашку чая",
+    "en": "He'd like to drink a cup of tea"
+  },
+  {
+    "_id": 63,
+    "ru": "Я не знаю, где я могу найти это",
+    "en": "I don't know where I can find it"
+  },
+  {
+    "_id": 64,
+    "ru": "Я пытаюсь запомнить это правило",
+    "en": "I try to remember this rule"
+  },
+  {
+    "_id": 65,
+    "ru": "Он пытается запомнить эти правила",
+    "en": "He tries to remember these rules"
+  },
+  {
+    "_id": 66,
+    "ru": "Я могу найти это очень легко",
+    "en": "I can find it very easily"
+  },
+  {
+    "_id": 67,
+    "ru": "Ты можешь найти это очень легко",
+    "en": "You can find it very easily"
+  },
+  {
+    "_id": 68,
+    "ru": "Он не может найти это сейчас",
+    "en": "He can't find it now"
+  },
+  {
+    "_id": 69,
+    "ru": "Не беспокойся!",
+    "en": "Don't worry!"
+  },
+  {
+    "_id": 70,
+    "ru": "Не пей это!",
+    "en": "Don't drink it!"
+  },
+  {
+    "_id": 71,
+    "ru": "Подожди меня!",
+    "en": "Wait for me!"
+  },
+  {
+    "_id": 72,
+    "ru": "Как часто ты гуляешь в парке?",
+    "en": "How often do you walk in the park?"
+  },
+  {
+    "_id": 73,
+    "ru": "Как часто она гуляет в парке?",
+    "en": "How often does she walk in the park?"
+  },
+  {
+    "_id": 74,
+    "ru": "Когда ты гуляешь в парке?",
+    "en": "When do you walk in the park?"
+  },
+  {
+    "_id": 75,
+    "ru": "Они действительно любят друг друга",
+    "en": "They really love each other"
+  },
+  {
+    "_id": 76,
+    "ru": "Я люблю такого рода фильмы",
+    "en": "I love this kind of movies"
+  },
+  {
+    "_id": 77,
+    "ru": "Подожди этого!",
+    "en": "Wait for it!"
+  },
+  {
+    "_id": 78,
+    "ru": "Я не хочу ждать этого",
+    "en": "I don't want to wait for it"
+  },
+  {
+    "_id": 79,
+    "ru": "Я люблю такого рода музыку",
+    "en": "I love this kind of music"
+  },
+  {
+    "_id": 80,
+    "ru": "Я хотел бы улучшить свое аудирование",
+    "en": "I'd like to improve my listening"
+  },
+  {
+    "_id": 81,
+    "ru": "Я хочу улучшить свой английский",
+    "en": "I want to improve my English"
+  },
+  {
+    "_id": 82,
+    "ru": "Я люблю такую еду",
+    "en": "I love this kind of food"
+  },
+  {
+    "_id": 83,
+    "ru": "Она хочет выпить чашку кофе",
+    "en": "She wants to drink a cup of coffee"
+  },
+  {
+    "_id": 84,
+    "ru": "Когда ты обычно встаешь?",
+    "en": "When do you usually get up?"
+  }
 ]

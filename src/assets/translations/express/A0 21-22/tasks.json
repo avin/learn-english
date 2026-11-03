@@ -1,210 +1,262 @@
 [
-  [
-    "Я расскажу тебе эту историю",
-    "I'll tell you this story"
-  ],
-  [
-    "Я буду в другом городе завтра",
-    "I'll be in another city tomorrow"
-  ],
-  [
-    "Я расскажу тебе об этом сейчас",
-    "I'll tell you about it now"
-  ],
-  [
-    "Я посмотрю этот фильм",
-    "I'll watch this movie"
-  ],
-  [
-    "Я закажу эту модель онлайн",
-    "I'll order this model online"
-  ],
-  [
-    "Я отправлю ей сообщение",
-    "I'll send her a message"
-  ],
-  [
-    "Я прочитаю эту статью",
-    "I'll read this article"
-  ],
-  [
-    "Я открою окно",
-    "I'll open the window"
-  ],
-  [
-    "Я подожду их ответа",
-    "I'll wait for their answer"
-  ],
-  [
-    "Он будет на работе",
-    "He'll be at work"
-  ],
-  [
-    "Я отправлю ему письмо",
-    "I'll send him a letter"
-  ],
-  [
-    "Она будет в отъезде",
-    "She'll be away"
-  ],
-  [
-    "Я думаю, он победит",
-    "I think he'll win"
-  ],
-  [
-    "Он скажет это сейчас",
-    "He'll say it now"
-  ],
-  [
-    "Я скоро сделаю это",
-    "I'll do it soon"
-  ],
-  [
-    "Я думаю, они проиграют",
-    "I think they'll lose"
-  ],
-  [
-    "Я думаю, это скоро случится",
-    "I think it'll happen soon"
-  ],
-  [
-    "Тебе понравится это место",
-    "You'll like this place"
-  ],
-  [
-    "Я подумаю об этом",
-    "I'll think about it"
-  ],
-  [
-    "Я пойду туда завтра",
-    "I'll go there tomorrow"
-  ],
-  [
-    "Я скоро поеду в этот город",
-    "I'll go to this city soon"
-  ],
-  [
-    "Они сделают это",
-    "They'll do it"
-  ],
-  [
-    "Я открою дверь",
-    "I'll open the door"
-  ],
-  [
-    "Это скоро случится",
-    "It'll happen soon"
-  ],
-  [
-    "Ему понравится эта идея",
-    "He'll like this idea"
-  ],
-  [
-    "Они будут говорить о разных вещах",
-    "They'll talk about different things"
-  ],
-  [
-    "Я закрою окно",
-    "I'll close the window"
-  ],
-  [
-    "Я буду занят завтра",
-    "I'll be busy tomorrow"
-  ],
-  [
-    "Мы будем говорить по-английски там",
-    "We'll speak English there"
-  ],
-  [
-    "Это будет лучше",
-    "It'll be better"
-  ],
-  [
-    "Она будет очень занята завтра",
-    "She'll be very busy tomorrow"
-  ],
-  [
-    "Я буду там завтра",
-    "I'll be there tomorrow"
-  ],
-  [
-    "Я закрою дверь",
-    "I'll close the door"
-  ],
-  [
-    "Мы скоро увидим это",
-    "We'll see it soon"
-  ],
-  [
-    "Я подожду этого",
-    "I'll wait for it"
-  ],
-  [
-    "Я думаю, это скоро будет дороже",
-    "I think it'll be more expensive soon"
-  ],
-  [
-    "Я посмотрю это видео",
-    "I'll watch this video"
-  ],
-  [
-    "Я поеду в Англию в этом году",
-    "I'll go to England this year"
-  ],
-  [
-    "Она расскажет мне об этом",
-    "She'll tell me about it"
-  ],
-  [
-    "Я буду дома",
-    "I'll be at home"
-  ],
-  [
-    "Я подожду тебя",
-    "I'll wait for you"
-  ],
-  [
-    "Я поеду в Америку в следующем году",
-    "I'll go to America next year"
-  ],
-  [
-    "Я куплю эти билеты онлайн",
-    "I'll buy these tickets online"
-  ],
-  [
-    "Я скоро позвоню ему",
-    "I'll call him soon"
-  ],
-  [
-    "Ты скоро узнаешь это",
-    "You'll know it soon"
-  ],
-  [
-    "Я не думаю, что это будет дешевле",
-    "I don't think that it'll be cheaper"
-  ],
-  [
-    "Я думаю, это скоро будет стоить дороже",
-    "I think it'll cost more soon"
-  ],
-  [
-    "Я завтра пойду на работу",
-    "I'll go to work tomorrow"
-  ],
-  [
-    "Я увижу его завтра",
-    "I'll see him tomorrow"
-  ],
-  [
-    "Это будет очень интересно",
-    "It'll be very interesting"
-  ],
-  [
-    "Я куплю это онлайн",
-    "I'll buy it online"
-  ],
-  [
-    "Я думаю, тебе понравится это",
-    "I think you'll like it"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я расскажу тебе эту историю",
+    "en": "I'll tell you this story"
+  },
+  {
+    "_id": 2,
+    "ru": "Я буду в другом городе завтра",
+    "en": "I'll be in another city tomorrow"
+  },
+  {
+    "_id": 3,
+    "ru": "Я расскажу тебе об этом сейчас",
+    "en": "I'll tell you about it now"
+  },
+  {
+    "_id": 4,
+    "ru": "Я посмотрю этот фильм",
+    "en": "I'll watch this movie"
+  },
+  {
+    "_id": 5,
+    "ru": "Я закажу эту модель онлайн",
+    "en": "I'll order this model online"
+  },
+  {
+    "_id": 6,
+    "ru": "Я отправлю ей сообщение",
+    "en": "I'll send her a message"
+  },
+  {
+    "_id": 7,
+    "ru": "Я прочитаю эту статью",
+    "en": "I'll read this article"
+  },
+  {
+    "_id": 8,
+    "ru": "Я открою окно",
+    "en": "I'll open the window"
+  },
+  {
+    "_id": 9,
+    "ru": "Я подожду их ответа",
+    "en": "I'll wait for their answer"
+  },
+  {
+    "_id": 10,
+    "ru": "Он будет на работе",
+    "en": "He'll be at work"
+  },
+  {
+    "_id": 11,
+    "ru": "Я отправлю ему письмо",
+    "en": "I'll send him a letter"
+  },
+  {
+    "_id": 12,
+    "ru": "Она будет в отъезде",
+    "en": "She'll be away"
+  },
+  {
+    "_id": 13,
+    "ru": "Я думаю, он победит",
+    "en": "I think he'll win"
+  },
+  {
+    "_id": 14,
+    "ru": "Он скажет это сейчас",
+    "en": "He'll say it now"
+  },
+  {
+    "_id": 15,
+    "ru": "Я скоро сделаю это",
+    "en": "I'll do it soon"
+  },
+  {
+    "_id": 16,
+    "ru": "Я думаю, они проиграют",
+    "en": "I think they'll lose"
+  },
+  {
+    "_id": 17,
+    "ru": "Я думаю, это скоро случится",
+    "en": "I think it'll happen soon"
+  },
+  {
+    "_id": 18,
+    "ru": "Тебе понравится это место",
+    "en": "You'll like this place"
+  },
+  {
+    "_id": 19,
+    "ru": "Я подумаю об этом",
+    "en": "I'll think about it"
+  },
+  {
+    "_id": 20,
+    "ru": "Я пойду туда завтра",
+    "en": "I'll go there tomorrow"
+  },
+  {
+    "_id": 21,
+    "ru": "Я скоро поеду в этот город",
+    "en": "I'll go to this city soon"
+  },
+  {
+    "_id": 22,
+    "ru": "Они сделают это",
+    "en": "They'll do it"
+  },
+  {
+    "_id": 23,
+    "ru": "Я открою дверь",
+    "en": "I'll open the door"
+  },
+  {
+    "_id": 24,
+    "ru": "Это скоро случится",
+    "en": "It'll happen soon"
+  },
+  {
+    "_id": 25,
+    "ru": "Ему понравится эта идея",
+    "en": "He'll like this idea"
+  },
+  {
+    "_id": 26,
+    "ru": "Они будут говорить о разных вещах",
+    "en": "They'll talk about different things"
+  },
+  {
+    "_id": 27,
+    "ru": "Я закрою окно",
+    "en": "I'll close the window"
+  },
+  {
+    "_id": 28,
+    "ru": "Я буду занят завтра",
+    "en": "I'll be busy tomorrow"
+  },
+  {
+    "_id": 29,
+    "ru": "Мы будем говорить по-английски там",
+    "en": "We'll speak English there"
+  },
+  {
+    "_id": 30,
+    "ru": "Это будет лучше",
+    "en": "It'll be better"
+  },
+  {
+    "_id": 31,
+    "ru": "Она будет очень занята завтра",
+    "en": "She'll be very busy tomorrow"
+  },
+  {
+    "_id": 32,
+    "ru": "Я буду там завтра",
+    "en": "I'll be there tomorrow"
+  },
+  {
+    "_id": 33,
+    "ru": "Я закрою дверь",
+    "en": "I'll close the door"
+  },
+  {
+    "_id": 34,
+    "ru": "Мы скоро увидим это",
+    "en": "We'll see it soon"
+  },
+  {
+    "_id": 35,
+    "ru": "Я подожду этого",
+    "en": "I'll wait for it"
+  },
+  {
+    "_id": 36,
+    "ru": "Я думаю, это скоро будет дороже",
+    "en": "I think it'll be more expensive soon"
+  },
+  {
+    "_id": 37,
+    "ru": "Я посмотрю это видео",
+    "en": "I'll watch this video"
+  },
+  {
+    "_id": 38,
+    "ru": "Я поеду в Англию в этом году",
+    "en": "I'll go to England this year"
+  },
+  {
+    "_id": 39,
+    "ru": "Она расскажет мне об этом",
+    "en": "She'll tell me about it"
+  },
+  {
+    "_id": 40,
+    "ru": "Я буду дома",
+    "en": "I'll be at home"
+  },
+  {
+    "_id": 41,
+    "ru": "Я подожду тебя",
+    "en": "I'll wait for you"
+  },
+  {
+    "_id": 42,
+    "ru": "Я поеду в Америку в следующем году",
+    "en": "I'll go to America next year"
+  },
+  {
+    "_id": 43,
+    "ru": "Я куплю эти билеты онлайн",
+    "en": "I'll buy these tickets online"
+  },
+  {
+    "_id": 44,
+    "ru": "Я скоро позвоню ему",
+    "en": "I'll call him soon"
+  },
+  {
+    "_id": 45,
+    "ru": "Ты скоро узнаешь это",
+    "en": "You'll know it soon"
+  },
+  {
+    "_id": 46,
+    "ru": "Я не думаю, что это будет дешевле",
+    "en": "I don't think that it'll be cheaper"
+  },
+  {
+    "_id": 47,
+    "ru": "Я думаю, это скоро будет стоить дороже",
+    "en": "I think it'll cost more soon"
+  },
+  {
+    "_id": 48,
+    "ru": "Я завтра пойду на работу",
+    "en": "I'll go to work tomorrow"
+  },
+  {
+    "_id": 49,
+    "ru": "Я увижу его завтра",
+    "en": "I'll see him tomorrow"
+  },
+  {
+    "_id": 50,
+    "ru": "Это будет очень интересно",
+    "en": "It'll be very interesting"
+  },
+  {
+    "_id": 51,
+    "ru": "Я куплю это онлайн",
+    "en": "I'll buy it online"
+  },
+  {
+    "_id": 52,
+    "ru": "Я думаю, тебе понравится это",
+    "en": "I think you'll like it"
+  }
 ]

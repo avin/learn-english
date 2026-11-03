@@ -1,426 +1,532 @@
 [
-  [
-    "Он умный мальчик",
-    "He is a smart boy"
-  ],
-  [
-    "Она красивая девушка",
-    "She is a beautiful girl"
-  ],
-  [
-    "Это холодная вода",
-    "It’s cold water"
-  ],
-  [
-    "Это горячий кофе",
-    "It’s hot coffee"
-  ],
-  [
-    "Они гостеприимные люди",
-    "They are hospitable people"
-  ],
-  [
-    "Вы хорошие друзья",
-    "You are good friends"
-  ],
-  [
-    "Он очень богатый человек",
-    "He’s a very rich person"
-  ],
-  [
-    "Она умная девушка",
-    "She's a smart girl"
-  ],
-  [
-    "Это долгий процесс",
-    "It is a long process"
-  ],
-  [
-    "Это наше лучшее достижение",
-    "It's our best achievement"
-  ],
-  [
-    "Они очень профессиональные работники",
-    "They're very professional workers"
-  ],
-  [
-    "Это лучший выбор",
-    "It is the best choice"
-  ],
-  [
-    "Это большая ошибка",
-    "It's a big mistake"
-  ],
-  [
-    "Это смешное видео",
-    "It is a funny video"
-  ],
-  [
-    "Я абсолютно уверен",
-    "I am absolutely sure"
-  ],
-  [
-    "Это высокая цена",
-    "It is a high price"
-  ],
-  [
-    "Ты такой умный",
-    "You're so smart"
-  ],
-  [
-    "Это маленькая ошибка",
-    "It's a small mistake"
-  ],
-  [
-    "Они партнеры",
-    "They're partners"
-  ],
-  [
-    "Он прав",
-    "He is right"
-  ],
-  [
-    "Это интересный факт",
-    "It's an interesting fact"
-  ],
-  [
-    "Он очень дружелюбный",
-    "He is very friendly"
-  ],
-  [
-    "Они очень гостеприимные",
-    "They're very hospitable"
-  ],
-  [
-    "Это мой лучший результат",
-    "It's my best result"
-  ],
-  [
-    "Они женаты",
-    "They're married"
-  ],
-  [
-    "Это слишком дорого для него",
-    "It's too expensive for him"
-  ],
-  [
-    "Она профессиональный учитель",
-    "She's a professional teacher"
-  ],
-  [
-    "Это бесплатный курс",
-    "It's a free course"
-  ],
-  [
-    "Они очень молоды",
-    "They're very young"
-  ],
-  [
-    "Это большие деньги",
-    "It's big money"
-  ],
-  [
-    "Он умный парень",
-    "He's a smart guy"
-  ],
-  [
-    "Это лучший результат",
-    "It's the best result"
-  ],
-  [
-    "Это интересное предложение",
-    "It's an interesting offer"
-  ],
-  [
-    "Мы друзья",
-    "We're friends"
-  ],
-  [
-    "Это лучшее решение",
-    "It's the best decision"
-  ],
-  [
-    "Это очень большие деньги",
-    "It's very big money"
-  ],
-  [
-    "Это маленький город",
-    "It's a small town"
-  ],
-  [
-    "Я в парке",
-    "I'm in the park"
-  ],
-  [
-    "Это так хорошо",
-    "It is so good"
-  ],
-  [
-    "Это дорогой отель",
-    "It's an expensive hotel"
-  ],
-  [
-    "Это важная вещь",
-    "It's an important thing"
-  ],
-  [
-    "Это бесплатный урок",
-    "It is a free lesson"
-  ],
-  [
-    "Это дешевый отель",
-    "It's a cheap hotel"
-  ],
-  [
-    "Это скучная книга",
-    "It's a boring book"
-  ],
-  [
-    "Это его лучшее достижение",
-    "It's his best achievement"
-  ],
-  [
-    "Ты такой щедрый",
-    "You are so generous"
-  ],
-  [
-    "Это интересная идея",
-    "It's an interesting idea"
-  ],
-  [
-    "Это очень важная деталь",
-    "It is a very important detail"
-  ],
-  [
-    "Я думаю, это очень скучная книга",
-    "I think it's a very boring book"
-  ],
-  [
-    "Это очень богатая компания",
-    "It is a very rich company"
-  ],
-  [
-    "Это потрясающий результат",
-    "It's an amazing result"
-  ],
-  [
-    "Ты очень хороший человек",
-    "You are a very good person"
-  ],
-  [
-    "Я чувствую, что она настоящий эксперт в этой области",
-    "I feel that she is a real expert in this area"
-  ],
-  [
-    "Он очень профессиональный учитель",
-    "He is a very professional teacher"
-  ],
-  [
-    "Я прекрасно осознаю, что это очень важное решение",
-    "I perfectly realise that it's a very important decision"
-  ],
-  [
-    "Это настоящее достижение для меня",
-    "It is a real achievement for me"
-  ],
-  [
-    "Это очень дорогой отель",
-    "It's a very expensive hotel"
-  ],
-  [
-    "Она очень красивая девушка",
-    "She's a very beautiful girl"
-  ],
-  [
-    "У него очень большой дом",
-    "He has a very large house"
-  ],
-  [
-    "Это очень хороший вопрос",
-    "It's a very good question"
-  ],
-  [
-    "Это важное событие в моей жизни",
-    "It's an important event in my life"
-  ],
-  [
-    "Он очень позитивный человек",
-    "He is a very positive person"
-  ],
-  [
-    "Они очень позитивные люди",
-    "They are very positive people"
-  ],
-  [
-    "Она очень позитивный человек",
-    "She is a very positive person"
-  ],
-  [
-    "Это важное событие",
-    "It's an important event"
-  ],
-  [
-    "Это очень важное событие",
-    "It's a very important event"
-  ],
-  [
-    "Это самое важное событие",
-    "It's the most important event"
-  ],
-  [
-    "У нее потрясающий голос",
-    "She has an amazing voice"
-  ],
-  [
-    "У них потрясающие голоса",
-    "They have amazing voices"
-  ],
-  [
-    "У него потрясающий голос",
-    "He has an amazing voice"
-  ],
-  [
-    "Он очень ленивый студент",
-    "He is a very lazy student"
-  ],
-  [
-    "Она очень ленивая студентка",
-    "She is a very lazy student"
-  ],
-  [
-    "Они очень ленивые студенты",
-    "They are very lazy students"
-  ],
-  [
-    "Это бесплатный курс английского языка",
-    "It's a free English course"
-  ],
-  [
-    "Это хороший курс английского языка",
-    "It's a good English course"
-  ],
-  [
-    "Это бесплатный урок английского",
-    "It's a free English lesson"
-  ],
-  [
-    "Это уникальная возможность",
-    "It is a unique opportunity"
-  ],
-  [
-    "Это действительно уникальная возможность",
-    "It is a really unique opportunity"
-  ],
-  [
-    "Это отличная возможность",
-    "It is a great opportunity"
-  ],
-  [
-    "Я думаю, это очень интересный факт",
-    "I think it's a very interesting fact"
-  ],
-  [
-    "Я думаю, что это очень интересный факт",
-    "I think that it's a very interesting fact"
-  ],
-  [
-    "Она думает, это очень интересный факт",
-    "She thinks it's a very interesting fact"
-  ],
-  [
-    "Я прекрасно осознаю, что это уникальный шанс",
-    "I perfectly realise that it's a unique chance"
-  ],
-  [
-    "Она прекрасно осознает, что это уникальный шанс",
-    "She perfectly realises that it's a unique chance"
-  ],
-  [
-    "Я прекрасно осознаю, что это лучший шанс",
-    "I perfectly realise that it's the best chance"
-  ],
-  [
-    "Он очень щедрый человек",
-    "He is a very generous person"
-  ],
-  [
-    "Ты очень щедрый человек",
-    "You are a very generous person"
-  ],
-  [
-    "Она очень щедрый человек",
-    "She is a very generous person"
-  ],
-  [
-    "Это распространенная ошибка",
-    "It is a common mistake"
-  ],
-  [
-    "Это действительно распространенная ошибка",
-    "It is a really common mistake"
-  ],
-  [
-    "Это самая распространенная ошибка",
-    "It is the most common mistake"
-  ],
-  [
-    "Это важная деталь",
-    "It is an important detail"
-  ],
-  [
-    "Это очень высокая цена",
-    "It's a very high price"
-  ],
-  [
-    "Я думаю, это реальное достижение для нас",
-    "I think it's a real achievement for us"
-  ],
-  [
-    "Это очень важная вещь",
-    "It is a very important thing"
-  ],
-  [
-    "Она очень добрый человек",
-    "She's a very kind person"
-  ],
-  [
-    "Мне кажется, что это плохая идея",
-    "It seems to me that it's a bad idea"
-  ],
-  [
-    "Это очень смешное видео",
-    "It is a very funny video"
-  ],
-  [
-    "Он очень сильный мужчина",
-    "He is a very strong man"
-  ],
-  [
-    "Это очень распространенная ошибка",
-    "It is a very common mistake"
-  ],
-  [
-    "Это очень большое число",
-    "It's a very large number"
-  ],
-  [
-    "Он очень добр к нам",
-    "He's very kind to us"
-  ],
-  [
-    "Он настоящий эксперт в этой области",
-    "He's a real expert in this area"
-  ],
-  [
-    "Ты очень добр ко мне",
-    "You're very kind to me"
-  ],
-  [
-    "Это уникальный шанс",
-    "It's a unique chance"
-  ],
-  [
-    "Это удивительная вещь",
-    "It's an amazing thing"
-  ]
+  {
+    "_id": 1,
+    "ru": "Он умный мальчик",
+    "en": "He is a smart boy"
+  },
+  {
+    "_id": 2,
+    "ru": "Она красивая девушка",
+    "en": "She is a beautiful girl"
+  },
+  {
+    "_id": 3,
+    "ru": "Это холодная вода",
+    "en": "It’s cold water"
+  },
+  {
+    "_id": 4,
+    "ru": "Это горячий кофе",
+    "en": "It’s hot coffee"
+  },
+  {
+    "_id": 5,
+    "ru": "Они гостеприимные люди",
+    "en": "They are hospitable people"
+  },
+  {
+    "_id": 6,
+    "ru": "Вы хорошие друзья",
+    "en": "You are good friends"
+  },
+  {
+    "_id": 7,
+    "ru": "Он очень богатый человек",
+    "en": "He’s a very rich person"
+  },
+  {
+    "_id": 8,
+    "ru": "Она умная девушка",
+    "en": "She's a smart girl"
+  },
+  {
+    "_id": 9,
+    "ru": "Это долгий процесс",
+    "en": "It is a long process"
+  },
+  {
+    "_id": 10,
+    "ru": "Это наше лучшее достижение",
+    "en": "It's our best achievement"
+  },
+  {
+    "_id": 11,
+    "ru": "Они очень профессиональные работники",
+    "en": "They're very professional workers"
+  },
+  {
+    "_id": 12,
+    "ru": "Это лучший выбор",
+    "en": "It is the best choice"
+  },
+  {
+    "_id": 13,
+    "ru": "Это большая ошибка",
+    "en": "It's a big mistake"
+  },
+  {
+    "_id": 14,
+    "ru": "Это смешное видео",
+    "en": "It is a funny video"
+  },
+  {
+    "_id": 15,
+    "ru": "Я абсолютно уверен",
+    "en": "I am absolutely sure"
+  },
+  {
+    "_id": 16,
+    "ru": "Это высокая цена",
+    "en": "It is a high price"
+  },
+  {
+    "_id": 17,
+    "ru": "Ты такой умный",
+    "en": "You're so smart"
+  },
+  {
+    "_id": 18,
+    "ru": "Это маленькая ошибка",
+    "en": "It's a small mistake"
+  },
+  {
+    "_id": 19,
+    "ru": "Они партнеры",
+    "en": "They're partners"
+  },
+  {
+    "_id": 20,
+    "ru": "Он прав",
+    "en": "He is right"
+  },
+  {
+    "_id": 21,
+    "ru": "Это интересный факт",
+    "en": "It's an interesting fact"
+  },
+  {
+    "_id": 22,
+    "ru": "Он очень дружелюбный",
+    "en": "He is very friendly"
+  },
+  {
+    "_id": 23,
+    "ru": "Они очень гостеприимные",
+    "en": "They're very hospitable"
+  },
+  {
+    "_id": 24,
+    "ru": "Это мой лучший результат",
+    "en": "It's my best result"
+  },
+  {
+    "_id": 25,
+    "ru": "Они женаты",
+    "en": "They're married"
+  },
+  {
+    "_id": 26,
+    "ru": "Это слишком дорого для него",
+    "en": "It's too expensive for him"
+  },
+  {
+    "_id": 27,
+    "ru": "Она профессиональный учитель",
+    "en": "She's a professional teacher"
+  },
+  {
+    "_id": 28,
+    "ru": "Это бесплатный курс",
+    "en": "It's a free course"
+  },
+  {
+    "_id": 29,
+    "ru": "Они очень молоды",
+    "en": "They're very young"
+  },
+  {
+    "_id": 30,
+    "ru": "Это большие деньги",
+    "en": "It's big money"
+  },
+  {
+    "_id": 31,
+    "ru": "Он умный парень",
+    "en": "He's a smart guy"
+  },
+  {
+    "_id": 32,
+    "ru": "Это лучший результат",
+    "en": "It's the best result"
+  },
+  {
+    "_id": 33,
+    "ru": "Это интересное предложение",
+    "en": "It's an interesting offer"
+  },
+  {
+    "_id": 34,
+    "ru": "Мы друзья",
+    "en": "We're friends"
+  },
+  {
+    "_id": 35,
+    "ru": "Это лучшее решение",
+    "en": "It's the best decision"
+  },
+  {
+    "_id": 36,
+    "ru": "Это очень большие деньги",
+    "en": "It's very big money"
+  },
+  {
+    "_id": 37,
+    "ru": "Это маленький город",
+    "en": "It's a small town"
+  },
+  {
+    "_id": 38,
+    "ru": "Я в парке",
+    "en": "I'm in the park"
+  },
+  {
+    "_id": 39,
+    "ru": "Это так хорошо",
+    "en": "It is so good"
+  },
+  {
+    "_id": 40,
+    "ru": "Это дорогой отель",
+    "en": "It's an expensive hotel"
+  },
+  {
+    "_id": 41,
+    "ru": "Это важная вещь",
+    "en": "It's an important thing"
+  },
+  {
+    "_id": 42,
+    "ru": "Это бесплатный урок",
+    "en": "It is a free lesson"
+  },
+  {
+    "_id": 43,
+    "ru": "Это дешевый отель",
+    "en": "It's a cheap hotel"
+  },
+  {
+    "_id": 44,
+    "ru": "Это скучная книга",
+    "en": "It's a boring book"
+  },
+  {
+    "_id": 45,
+    "ru": "Это его лучшее достижение",
+    "en": "It's his best achievement"
+  },
+  {
+    "_id": 46,
+    "ru": "Ты такой щедрый",
+    "en": "You are so generous"
+  },
+  {
+    "_id": 47,
+    "ru": "Это интересная идея",
+    "en": "It's an interesting idea"
+  },
+  {
+    "_id": 48,
+    "ru": "Это очень важная деталь",
+    "en": "It is a very important detail"
+  },
+  {
+    "_id": 49,
+    "ru": "Я думаю, это очень скучная книга",
+    "en": "I think it's a very boring book"
+  },
+  {
+    "_id": 50,
+    "ru": "Это очень богатая компания",
+    "en": "It is a very rich company"
+  },
+  {
+    "_id": 51,
+    "ru": "Это потрясающий результат",
+    "en": "It's an amazing result"
+  },
+  {
+    "_id": 52,
+    "ru": "Ты очень хороший человек",
+    "en": "You are a very good person"
+  },
+  {
+    "_id": 53,
+    "ru": "Я чувствую, что она настоящий эксперт в этой области",
+    "en": "I feel that she is a real expert in this area"
+  },
+  {
+    "_id": 54,
+    "ru": "Он очень профессиональный учитель",
+    "en": "He is a very professional teacher"
+  },
+  {
+    "_id": 55,
+    "ru": "Я прекрасно осознаю, что это очень важное решение",
+    "en": "I perfectly realise that it's a very important decision"
+  },
+  {
+    "_id": 56,
+    "ru": "Это настоящее достижение для меня",
+    "en": "It is a real achievement for me"
+  },
+  {
+    "_id": 57,
+    "ru": "Это очень дорогой отель",
+    "en": "It's a very expensive hotel"
+  },
+  {
+    "_id": 58,
+    "ru": "Она очень красивая девушка",
+    "en": "She's a very beautiful girl"
+  },
+  {
+    "_id": 59,
+    "ru": "У него очень большой дом",
+    "en": "He has a very large house"
+  },
+  {
+    "_id": 60,
+    "ru": "Это очень хороший вопрос",
+    "en": "It's a very good question"
+  },
+  {
+    "_id": 61,
+    "ru": "Это важное событие в моей жизни",
+    "en": "It's an important event in my life"
+  },
+  {
+    "_id": 62,
+    "ru": "Он очень позитивный человек",
+    "en": "He is a very positive person"
+  },
+  {
+    "_id": 63,
+    "ru": "Они очень позитивные люди",
+    "en": "They are very positive people"
+  },
+  {
+    "_id": 64,
+    "ru": "Она очень позитивный человек",
+    "en": "She is a very positive person"
+  },
+  {
+    "_id": 65,
+    "ru": "Это важное событие",
+    "en": "It's an important event"
+  },
+  {
+    "_id": 66,
+    "ru": "Это очень важное событие",
+    "en": "It's a very important event"
+  },
+  {
+    "_id": 67,
+    "ru": "Это самое важное событие",
+    "en": "It's the most important event"
+  },
+  {
+    "_id": 68,
+    "ru": "У нее потрясающий голос",
+    "en": "She has an amazing voice"
+  },
+  {
+    "_id": 69,
+    "ru": "У них потрясающие голоса",
+    "en": "They have amazing voices"
+  },
+  {
+    "_id": 70,
+    "ru": "У него потрясающий голос",
+    "en": "He has an amazing voice"
+  },
+  {
+    "_id": 71,
+    "ru": "Он очень ленивый студент",
+    "en": "He is a very lazy student"
+  },
+  {
+    "_id": 72,
+    "ru": "Она очень ленивая студентка",
+    "en": "She is a very lazy student"
+  },
+  {
+    "_id": 73,
+    "ru": "Они очень ленивые студенты",
+    "en": "They are very lazy students"
+  },
+  {
+    "_id": 74,
+    "ru": "Это бесплатный курс английского языка",
+    "en": "It's a free English course"
+  },
+  {
+    "_id": 75,
+    "ru": "Это хороший курс английского языка",
+    "en": "It's a good English course"
+  },
+  {
+    "_id": 76,
+    "ru": "Это бесплатный урок английского",
+    "en": "It's a free English lesson"
+  },
+  {
+    "_id": 77,
+    "ru": "Это уникальная возможность",
+    "en": "It is a unique opportunity"
+  },
+  {
+    "_id": 78,
+    "ru": "Это действительно уникальная возможность",
+    "en": "It is a really unique opportunity"
+  },
+  {
+    "_id": 79,
+    "ru": "Это отличная возможность",
+    "en": "It is a great opportunity"
+  },
+  {
+    "_id": 80,
+    "ru": "Я думаю, это очень интересный факт",
+    "en": "I think it's a very interesting fact"
+  },
+  {
+    "_id": 81,
+    "ru": "Я думаю, что это очень интересный факт",
+    "en": "I think that it's a very interesting fact"
+  },
+  {
+    "_id": 82,
+    "ru": "Она думает, это очень интересный факт",
+    "en": "She thinks it's a very interesting fact"
+  },
+  {
+    "_id": 83,
+    "ru": "Я прекрасно осознаю, что это уникальный шанс",
+    "en": "I perfectly realise that it's a unique chance"
+  },
+  {
+    "_id": 84,
+    "ru": "Она прекрасно осознает, что это уникальный шанс",
+    "en": "She perfectly realises that it's a unique chance"
+  },
+  {
+    "_id": 85,
+    "ru": "Я прекрасно осознаю, что это лучший шанс",
+    "en": "I perfectly realise that it's the best chance"
+  },
+  {
+    "_id": 86,
+    "ru": "Он очень щедрый человек",
+    "en": "He is a very generous person"
+  },
+  {
+    "_id": 87,
+    "ru": "Ты очень щедрый человек",
+    "en": "You are a very generous person"
+  },
+  {
+    "_id": 88,
+    "ru": "Она очень щедрый человек",
+    "en": "She is a very generous person"
+  },
+  {
+    "_id": 89,
+    "ru": "Это распространенная ошибка",
+    "en": "It is a common mistake"
+  },
+  {
+    "_id": 90,
+    "ru": "Это действительно распространенная ошибка",
+    "en": "It is a really common mistake"
+  },
+  {
+    "_id": 91,
+    "ru": "Это самая распространенная ошибка",
+    "en": "It is the most common mistake"
+  },
+  {
+    "_id": 92,
+    "ru": "Это важная деталь",
+    "en": "It is an important detail"
+  },
+  {
+    "_id": 93,
+    "ru": "Это очень высокая цена",
+    "en": "It's a very high price"
+  },
+  {
+    "_id": 94,
+    "ru": "Я думаю, это реальное достижение для нас",
+    "en": "I think it's a real achievement for us"
+  },
+  {
+    "_id": 95,
+    "ru": "Это очень важная вещь",
+    "en": "It is a very important thing"
+  },
+  {
+    "_id": 96,
+    "ru": "Она очень добрый человек",
+    "en": "She's a very kind person"
+  },
+  {
+    "_id": 97,
+    "ru": "Мне кажется, что это плохая идея",
+    "en": "It seems to me that it's a bad idea"
+  },
+  {
+    "_id": 98,
+    "ru": "Это очень смешное видео",
+    "en": "It is a very funny video"
+  },
+  {
+    "_id": 99,
+    "ru": "Он очень сильный мужчина",
+    "en": "He is a very strong man"
+  },
+  {
+    "_id": 100,
+    "ru": "Это очень распространенная ошибка",
+    "en": "It is a very common mistake"
+  },
+  {
+    "_id": 101,
+    "ru": "Это очень большое число",
+    "en": "It's a very large number"
+  },
+  {
+    "_id": 102,
+    "ru": "Он очень добр к нам",
+    "en": "He's very kind to us"
+  },
+  {
+    "_id": 103,
+    "ru": "Он настоящий эксперт в этой области",
+    "en": "He's a real expert in this area"
+  },
+  {
+    "_id": 104,
+    "ru": "Ты очень добр ко мне",
+    "en": "You're very kind to me"
+  },
+  {
+    "_id": 105,
+    "ru": "Это уникальный шанс",
+    "en": "It's a unique chance"
+  },
+  {
+    "_id": 106,
+    "ru": "Это удивительная вещь",
+    "en": "It's an amazing thing"
+  }
 ]

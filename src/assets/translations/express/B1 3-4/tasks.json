@@ -1,58 +1,72 @@
 [
-  [
-    "Она окончит университет к следующему году",
-    "She will have graduated from university by next year"
-  ],
-  [
-    "Я предполагаю, они построят мост к следующему лету",
-    "I suppose they will have built the bridge by next summer"
-  ],
-  [
-    "Я буду ждать последних новостей",
-    "I'll be waiting for the latest news"
-  ],
-  [
-    "Самолет приземлится к тому времени",
-    "The plane will have landed by that time"
-  ],
-  [
-    "Он закончит школу к следующему году",
-    "He will have finished school by next year"
-  ],
-  [
-    "Я буду ждать тебя",
-    "I'll be waiting for you"
-  ],
-  [
-    "Я буду ждать твоего звонка",
-    "I'll be waiting for your call"
-  ],
-  [
-    "Я буду ждать твоего сообщения",
-    "I'll be waiting for your message"
-  ],
-  [
-    "В то время как они будут отдыхать, я буду работать",
-    "While they’re having a rest, I'll be working"
-  ],
-  [
-    "Я буду ждать твоего ответа",
-    "I'll be waiting for your answer"
-  ],
-  [
-    "Я буду ждать твоего имейла",
-    "I'll be waiting for your email"
-  ],
-  [
-    "Он придет в офис к десяти",
-    "He will have come to the office by ten"
-  ],
-  [
-    "Я достигну среднего уровня к следующему месяцу",
-    "I will have reached an Intermediate level by next month"
-  ],
-  [
-    "Я закончу все к следующей неделе",
-    "I will have finished everything by next week"
-  ]
+  {
+    "_id": 1,
+    "ru": "Она окончит университет к следующему году",
+    "en": "She will have graduated from university by next year"
+  },
+  {
+    "_id": 2,
+    "ru": "Я предполагаю, они построят мост к следующему лету",
+    "en": "I suppose they will have built the bridge by next summer"
+  },
+  {
+    "_id": 3,
+    "ru": "Я буду ждать последних новостей",
+    "en": "I'll be waiting for the latest news"
+  },
+  {
+    "_id": 4,
+    "ru": "Самолет приземлится к тому времени",
+    "en": "The plane will have landed by that time"
+  },
+  {
+    "_id": 5,
+    "ru": "Он закончит школу к следующему году",
+    "en": "He will have finished school by next year"
+  },
+  {
+    "_id": 6,
+    "ru": "Я буду ждать тебя",
+    "en": "I'll be waiting for you"
+  },
+  {
+    "_id": 7,
+    "ru": "Я буду ждать твоего звонка",
+    "en": "I'll be waiting for your call"
+  },
+  {
+    "_id": 8,
+    "ru": "Я буду ждать твоего сообщения",
+    "en": "I'll be waiting for your message"
+  },
+  {
+    "_id": 9,
+    "ru": "В то время как они будут отдыхать, я буду работать",
+    "en": "While they’re having a rest, I'll be working"
+  },
+  {
+    "_id": 10,
+    "ru": "Я буду ждать твоего ответа",
+    "en": "I'll be waiting for your answer"
+  },
+  {
+    "_id": 11,
+    "ru": "Я буду ждать твоего имейла",
+    "en": "I'll be waiting for your email"
+  },
+  {
+    "_id": 12,
+    "ru": "Он придет в офис к десяти",
+    "en": "He will have come to the office by ten"
+  },
+  {
+    "_id": 13,
+    "ru": "Я достигну среднего уровня к следующему месяцу",
+    "en": "I will have reached an Intermediate level by next month"
+  },
+  {
+    "_id": 14,
+    "ru": "Я закончу все к следующей неделе",
+    "en": "I will have finished everything by next week"
+  }
 ]

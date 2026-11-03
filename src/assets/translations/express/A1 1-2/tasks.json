@@ -1,118 +1,147 @@
 [
-  [
-    "Я хотел бы сказать, что эта вещь действительно имеет значение",
-    "I'd like to say that this thing really matters"
-  ],
-  [
-    "Ты знаешь, у меня такая же проблема",
-    "You know, I have the same problem"
-  ],
-  [
-    "Я знаю, такая теория существует",
-    "I know such a theory exists"
-  ],
-  [
-    "Я вижу, такая проблема существует",
-    "I see such a problem exists"
-  ],
-  [
-    "Я хочу сказать тебе, что это действительно вдохновляет меня",
-    "I want to tell you that it really inspires me"
-  ],
-  [
-    "Я должен сказать, что это лучший отель в этом районе",
-    "I have to say that it's the best hotel in this area"
-  ],
-  [
-    "Я думаю, что не все зависит от нас",
-    "I think that not everything depends on us"
-  ],
-  [
-    "Ты знаешь, это прекрасное чувство!",
-    "You know, it's a wonderful feeling!"
-  ],
-  [
-    "Ты знаешь, у меня такая же идея",
-    "You know, I have the same idea"
-  ],
-  [
-    "Я думаю, что это очень важная вещь",
-    "I think that it's a very important thing"
-  ],
-  [
-    "Я не думаю, что это действительно работает",
-    "I don't think that it really works"
-  ],
-  [
-    "Я должен сказать, что это предложение такое привлекательное для меня",
-    "I have to say that this offer is so attractive for me"
-  ],
-  [
-    "Я чувствую, что я прав",
-    "I feel that I'm right"
-  ],
-  [
-    "Мне кажется, что все зависит от нас",
-    "It seems to me that everything depends on us"
-  ],
-  [
-    "Я не думаю, что этот метод действительно работает",
-    "I don't think that this method really works"
-  ],
-  [
-    "Я действительно думаю, что это довольно хорошо для начала",
-    "I really think that it's quite good for a start"
-  ],
-  [
-    "Мне кажется, что это действительно возможно",
-    "It seems to me that it's really possible"
-  ],
-  [
-    "Ты знаешь, у меня такое же мнение",
-    "You know, I have the same opinion"
-  ],
-  [
-    "Я понимаю, это может случиться с каждым из нас",
-    "I understand it can happen to each one of us"
-  ],
-  [
-    "Мне кажется, что это лучший выбор",
-    "It seems to me that it's the best choice"
-  ],
-  [
-    "Я чувствую, что он очень надежный человек",
-    "I feel that he’s a very reliable person"
-  ],
-  [
-    "Я хочу сказать, что я хотел бы повидать мир",
-    "I want to say that I'd like to see the world"
-  ],
-  [
-    "Я знаю, что он работает менеджером",
-    "I know that he works as a manager"
-  ],
-  [
-    "Я хочу сказать, что это действительно имеет значение",
-    "I want to say that it really matters"
-  ],
-  [
-    "Ты знаешь, я тоже так думаю",
-    "You know, I also think so"
-  ],
-  [
-    "Мне кажется, что это довольно хорошо для начала",
-    "It seems to me that it's quite good for a start"
-  ],
-  [
-    "Я не думаю, что это действительно имеет значение",
-    "I don't think that it really matters"
-  ],
-  [
-    "Ты знаешь, я хочу повидать мир",
-    "You know, I want to see the world"
-  ],
-  [
-    "Я хочу сказать, что это довольно хорошо особенно в начале",
-    "I want to say that it's quite good especially in the beginning"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я хотел бы сказать, что эта вещь действительно имеет значение",
+    "en": "I'd like to say that this thing really matters"
+  },
+  {
+    "_id": 2,
+    "ru": "Ты знаешь, у меня такая же проблема",
+    "en": "You know, I have the same problem"
+  },
+  {
+    "_id": 3,
+    "ru": "Я знаю, такая теория существует",
+    "en": "I know such a theory exists"
+  },
+  {
+    "_id": 4,
+    "ru": "Я вижу, такая проблема существует",
+    "en": "I see such a problem exists"
+  },
+  {
+    "_id": 5,
+    "ru": "Я хочу сказать тебе, что это действительно вдохновляет меня",
+    "en": "I want to tell you that it really inspires me"
+  },
+  {
+    "_id": 6,
+    "ru": "Я должен сказать, что это лучший отель в этом районе",
+    "en": "I have to say that it's the best hotel in this area"
+  },
+  {
+    "_id": 7,
+    "ru": "Я думаю, что не все зависит от нас",
+    "en": "I think that not everything depends on us"
+  },
+  {
+    "_id": 8,
+    "ru": "Ты знаешь, это прекрасное чувство!",
+    "en": "You know, it's a wonderful feeling!"
+  },
+  {
+    "_id": 9,
+    "ru": "Ты знаешь, у меня такая же идея",
+    "en": "You know, I have the same idea"
+  },
+  {
+    "_id": 10,
+    "ru": "Я думаю, что это очень важная вещь",
+    "en": "I think that it's a very important thing"
+  },
+  {
+    "_id": 11,
+    "ru": "Я не думаю, что это действительно работает",
+    "en": "I don't think that it really works"
+  },
+  {
+    "_id": 12,
+    "ru": "Я должен сказать, что это предложение такое привлекательное для меня",
+    "en": "I have to say that this offer is so attractive for me"
+  },
+  {
+    "_id": 13,
+    "ru": "Я чувствую, что я прав",
+    "en": "I feel that I'm right"
+  },
+  {
+    "_id": 14,
+    "ru": "Мне кажется, что все зависит от нас",
+    "en": "It seems to me that everything depends on us"
+  },
+  {
+    "_id": 15,
+    "ru": "Я не думаю, что этот метод действительно работает",
+    "en": "I don't think that this method really works"
+  },
+  {
+    "_id": 16,
+    "ru": "Я действительно думаю, что это довольно хорошо для начала",
+    "en": "I really think that it's quite good for a start"
+  },
+  {
+    "_id": 17,
+    "ru": "Мне кажется, что это действительно возможно",
+    "en": "It seems to me that it's really possible"
+  },
+  {
+    "_id": 18,
+    "ru": "Ты знаешь, у меня такое же мнение",
+    "en": "You know, I have the same opinion"
+  },
+  {
+    "_id": 19,
+    "ru": "Я понимаю, это может случиться с каждым из нас",
+    "en": "I understand it can happen to each one of us"
+  },
+  {
+    "_id": 20,
+    "ru": "Мне кажется, что это лучший выбор",
+    "en": "It seems to me that it's the best choice"
+  },
+  {
+    "_id": 21,
+    "ru": "Я чувствую, что он очень надежный человек",
+    "en": "I feel that he’s a very reliable person"
+  },
+  {
+    "_id": 22,
+    "ru": "Я хочу сказать, что я хотел бы повидать мир",
+    "en": "I want to say that I'd like to see the world"
+  },
+  {
+    "_id": 23,
+    "ru": "Я знаю, что он работает менеджером",
+    "en": "I know that he works as a manager"
+  },
+  {
+    "_id": 24,
+    "ru": "Я хочу сказать, что это действительно имеет значение",
+    "en": "I want to say that it really matters"
+  },
+  {
+    "_id": 25,
+    "ru": "Ты знаешь, я тоже так думаю",
+    "en": "You know, I also think so"
+  },
+  {
+    "_id": 26,
+    "ru": "Мне кажется, что это довольно хорошо для начала",
+    "en": "It seems to me that it's quite good for a start"
+  },
+  {
+    "_id": 27,
+    "ru": "Я не думаю, что это действительно имеет значение",
+    "en": "I don't think that it really matters"
+  },
+  {
+    "_id": 28,
+    "ru": "Ты знаешь, я хочу повидать мир",
+    "en": "You know, I want to see the world"
+  },
+  {
+    "_id": 29,
+    "ru": "Я хочу сказать, что это довольно хорошо особенно в начале",
+    "en": "I want to say that it's quite good especially in the beginning"
+  }
 ]

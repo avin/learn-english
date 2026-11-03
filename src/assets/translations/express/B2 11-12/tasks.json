@@ -1,70 +1,87 @@
 [
-  [
-    "Я вышел из автобуса",
-    "I got off the bus"
-  ],
-  [
-    "К счастью, я сумел поступить в этот университет",
-    "Luckily, I managed to get into this university"
-  ],
-  [
-    "Мы вышли из поезда",
-    "We got off the train"
-  ],
-  [
-    "Мы сели в самолет",
-    "We got on the plane"
-  ],
-  [
-    "Замок сломался, и мы не смогли попасть в дом",
-    "The lock broke down and we weren't able to get into the house"
-  ],
-  [
-    "Он сказал, что кто-то срубил дерево",
-    "He said that someone had cut down the tree"
-  ],
-  [
-    "Давайте продолжим наше обсуждение!",
-    "Let's carry on our discussion!"
-  ],
-  [
-    "Взбодрись! Новости не такие плохи, как кажется",
-    "Cheer up! The news isn't as bad as it seems"
-  ],
-  [
-    "Мы сели в поезд",
-    "We got on the train"
-  ],
-  [
-    "Я сел в такси",
-    "I got into a taxi"
-  ],
-  [
-    "Тебе нужно пристегнуть ремень безопасности",
-    "You need to do up your seat belt"
-  ],
-  [
-    "Я сел в автобус",
-    "I got on the bus"
-  ],
-  [
-    "Застегни пальто, а то можешь простудиться!",
-    "Do up your coat or you can get get cold!"
-  ],
-  [
-    "Ты знаешь, мне пришла в голову очень необычная идея",
-    "You know, I came up with a very unusual idea"
-  ],
-  [
-    "Взбодрись! Новости не такие плохие, как может показаться",
-    "Cheer up! The news isn't as bad as it may seem"
-  ],
-  [
-    "Дерево было срублено на этой неделе",
-    "The tree has been cut down this week"
-  ],
-  [
-    "Я конечно продолжу делать это (2)",
-    "I'll certainly carry on doing it"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я вышел из автобуса",
+    "en": "I got off the bus"
+  },
+  {
+    "_id": 2,
+    "ru": "К счастью, я сумел поступить в этот университет",
+    "en": "Luckily, I managed to get into this university"
+  },
+  {
+    "_id": 3,
+    "ru": "Мы вышли из поезда",
+    "en": "We got off the train"
+  },
+  {
+    "_id": 4,
+    "ru": "Мы сели в самолет",
+    "en": "We got on the plane"
+  },
+  {
+    "_id": 5,
+    "ru": "Замок сломался, и мы не смогли попасть в дом",
+    "en": "The lock broke down and we weren't able to get into the house"
+  },
+  {
+    "_id": 6,
+    "ru": "Он сказал, что кто-то срубил дерево",
+    "en": "He said that someone had cut down the tree"
+  },
+  {
+    "_id": 7,
+    "ru": "Давайте продолжим наше обсуждение!",
+    "en": "Let's carry on our discussion!"
+  },
+  {
+    "_id": 8,
+    "ru": "Взбодрись! Новости не такие плохи, как кажется",
+    "en": "Cheer up! The news isn't as bad as it seems"
+  },
+  {
+    "_id": 9,
+    "ru": "Мы сели в поезд",
+    "en": "We got on the train"
+  },
+  {
+    "_id": 10,
+    "ru": "Я сел в такси",
+    "en": "I got into a taxi"
+  },
+  {
+    "_id": 11,
+    "ru": "Тебе нужно пристегнуть ремень безопасности",
+    "en": "You need to do up your seat belt"
+  },
+  {
+    "_id": 12,
+    "ru": "Я сел в автобус",
+    "en": "I got on the bus"
+  },
+  {
+    "_id": 13,
+    "ru": "Застегни пальто, а то можешь простудиться!",
+    "en": "Do up your coat or you can get get cold!"
+  },
+  {
+    "_id": 14,
+    "ru": "Ты знаешь, мне пришла в голову очень необычная идея",
+    "en": "You know, I came up with a very unusual idea"
+  },
+  {
+    "_id": 15,
+    "ru": "Взбодрись! Новости не такие плохие, как может показаться",
+    "en": "Cheer up! The news isn't as bad as it may seem"
+  },
+  {
+    "_id": 16,
+    "ru": "Дерево было срублено на этой неделе",
+    "en": "The tree has been cut down this week"
+  },
+  {
+    "_id": 17,
+    "ru": "Я конечно продолжу делать это (2)",
+    "en": "I'll certainly carry on doing it"
+  }
 ]

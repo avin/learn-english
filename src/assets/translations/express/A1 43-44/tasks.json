@@ -1,134 +1,167 @@
 [
-  [
-    "Это происходит каждый день",
-    "It happens every day"
-  ],
-  [
-    "Ты всегда говоришь это",
-    "You always say it"
-  ],
-  [
-    "Я редко встречаю с ним",
-    "I rarely meet him"
-  ],
-  [
-    "Я думаю об этом время от времени",
-    "I think about it from time to time"
-  ],
-  [
-    "Я обычно провожу время со своими друзьями на выходных",
-    "I usually spend time with my friends at the weekend"
-  ],
-  [
-    "Мы в основном всё обсуждаем на работе",
-    "We mostly discuss everything at work"
-  ],
-  [
-    "Я часто обращаю внимание на это",
-    "I often pay attention to it"
-  ],
-  [
-    "Я хожу в этот клуб два раза в неделю",
-    "I go to this club two times a week"
-  ],
-  [
-    "Они публикуют эти новости ежедневно",
-    "They publish this news daily"
-  ],
-  [
-    "Они встречаются по воскресеньям",
-    "They meet on Sundays"
-  ],
-  [
-    "Он ходит в спортзал два или три раза в неделю",
-    "He goes two the gym two or three times a week"
-  ],
-  [
-    "Я вижу, что это происходит снова и снова",
-    "I see that it happens again and again"
-  ],
-  [
-    "Я предпочитаю проводить время с семьей по выходным",
-    "I prefer to spend time with my family at the weekend"
-  ],
-  [
-    "Он старается ездить за границу каждый год",
-    "He tries to go abroad every year"
-  ],
-  [
-    "Я никогда не делаю это",
-    "I never do it"
-  ],
-  [
-    "Он жалуется очень редко",
-    "He complains very rarely"
-  ],
-  [
-    "Я обычно заказываю такие вещи онлайн",
-    "I usually order such things online"
-  ],
-  [
-    "Я в основном стараюсь не обращать внимания на такие вещи",
-    "I mostly try not to pay attention to such things"
-  ],
-  [
-    "Я стараюсь делать это, когда у меня есть свободное время",
-    "I try to do it when I have free time"
-  ],
-  [
-    "Он приходит к нам дважды в неделю",
-    "He comes to us twice a week"
-  ],
-  [
-    "Я работаю по понедельникам",
-    "I work on Mondays"
-  ],
-  [
-    "Я редко покупаю такого рода вещи",
-    "I rarely buy this kind of thing"
-  ],
-  [
-    "Я часто слышу такие вещи",
-    "I often hear such things"
-  ],
-  [
-    "Я пользуюсь словарем очень редко",
-    "I use a dictionary very rarely"
-  ],
-  [
-    "Я иногда думаю об этом",
-    "I sometimes think about it"
-  ],
-  [
-    "Я в основном пользуюсь этим приложением",
-    "I mostly use this application"
-  ],
-  [
-    "Я хожу туда три раза в неделю",
-    "I go there three times a week"
-  ],
-  [
-    "Я смотрю телевизор очень редко",
-    "I watch TV very rarely"
-  ],
-  [
-    "Он никогда не замечает этого",
-    "He never notices it"
-  ],
-  [
-    "Я никогда не обращаю внимание на это",
-    "I never pay attention to it"
-  ],
-  [
-    "Она часто жалуется",
-    "She often complains"
-  ],
-  [
-    "Она никогда не замечает такого рода вещи",
-    "She never notices this kind of thing"
-  ],
-  [
-    "Мы в основном встречаемся по вечерам",
-    "We mostly meet in the evenings"
-  ]
+  {
+    "_id": 1,
+    "ru": "Это происходит каждый день",
+    "en": "It happens every day"
+  },
+  {
+    "_id": 2,
+    "ru": "Ты всегда говоришь это",
+    "en": "You always say it"
+  },
+  {
+    "_id": 3,
+    "ru": "Я редко встречаю с ним",
+    "en": "I rarely meet him"
+  },
+  {
+    "_id": 4,
+    "ru": "Я думаю об этом время от времени",
+    "en": "I think about it from time to time"
+  },
+  {
+    "_id": 5,
+    "ru": "Я обычно провожу время со своими друзьями на выходных",
+    "en": "I usually spend time with my friends at the weekend"
+  },
+  {
+    "_id": 6,
+    "ru": "Мы в основном всё обсуждаем на работе",
+    "en": "We mostly discuss everything at work"
+  },
+  {
+    "_id": 7,
+    "ru": "Я часто обращаю внимание на это",
+    "en": "I often pay attention to it"
+  },
+  {
+    "_id": 8,
+    "ru": "Я хожу в этот клуб два раза в неделю",
+    "en": "I go to this club two times a week"
+  },
+  {
+    "_id": 9,
+    "ru": "Они публикуют эти новости ежедневно",
+    "en": "They publish this news daily"
+  },
+  {
+    "_id": 10,
+    "ru": "Они встречаются по воскресеньям",
+    "en": "They meet on Sundays"
+  },
+  {
+    "_id": 11,
+    "ru": "Он ходит в спортзал два или три раза в неделю",
+    "en": "He goes two the gym two or three times a week"
+  },
+  {
+    "_id": 12,
+    "ru": "Я вижу, что это происходит снова и снова",
+    "en": "I see that it happens again and again"
+  },
+  {
+    "_id": 13,
+    "ru": "Я предпочитаю проводить время с семьей по выходным",
+    "en": "I prefer to spend time with my family at the weekend"
+  },
+  {
+    "_id": 14,
+    "ru": "Он старается ездить за границу каждый год",
+    "en": "He tries to go abroad every year"
+  },
+  {
+    "_id": 15,
+    "ru": "Я никогда не делаю это",
+    "en": "I never do it"
+  },
+  {
+    "_id": 16,
+    "ru": "Он жалуется очень редко",
+    "en": "He complains very rarely"
+  },
+  {
+    "_id": 17,
+    "ru": "Я обычно заказываю такие вещи онлайн",
+    "en": "I usually order such things online"
+  },
+  {
+    "_id": 18,
+    "ru": "Я в основном стараюсь не обращать внимания на такие вещи",
+    "en": "I mostly try not to pay attention to such things"
+  },
+  {
+    "_id": 19,
+    "ru": "Я стараюсь делать это, когда у меня есть свободное время",
+    "en": "I try to do it when I have free time"
+  },
+  {
+    "_id": 20,
+    "ru": "Он приходит к нам дважды в неделю",
+    "en": "He comes to us twice a week"
+  },
+  {
+    "_id": 21,
+    "ru": "Я работаю по понедельникам",
+    "en": "I work on Mondays"
+  },
+  {
+    "_id": 22,
+    "ru": "Я редко покупаю такого рода вещи",
+    "en": "I rarely buy this kind of thing"
+  },
+  {
+    "_id": 23,
+    "ru": "Я часто слышу такие вещи",
+    "en": "I often hear such things"
+  },
+  {
+    "_id": 24,
+    "ru": "Я пользуюсь словарем очень редко",
+    "en": "I use a dictionary very rarely"
+  },
+  {
+    "_id": 25,
+    "ru": "Я иногда думаю об этом",
+    "en": "I sometimes think about it"
+  },
+  {
+    "_id": 26,
+    "ru": "Я в основном пользуюсь этим приложением",
+    "en": "I mostly use this application"
+  },
+  {
+    "_id": 27,
+    "ru": "Я хожу туда три раза в неделю",
+    "en": "I go there three times a week"
+  },
+  {
+    "_id": 28,
+    "ru": "Я смотрю телевизор очень редко",
+    "en": "I watch TV very rarely"
+  },
+  {
+    "_id": 29,
+    "ru": "Он никогда не замечает этого",
+    "en": "He never notices it"
+  },
+  {
+    "_id": 30,
+    "ru": "Я никогда не обращаю внимание на это",
+    "en": "I never pay attention to it"
+  },
+  {
+    "_id": 31,
+    "ru": "Она часто жалуется",
+    "en": "She often complains"
+  },
+  {
+    "_id": 32,
+    "ru": "Она никогда не замечает такого рода вещи",
+    "en": "She never notices this kind of thing"
+  },
+  {
+    "_id": 33,
+    "ru": "Мы в основном встречаемся по вечерам",
+    "en": "We mostly meet in the evenings"
+  }
 ]

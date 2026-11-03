@@ -1,346 +1,432 @@
 [
-  [
-    "Он приедет к нам?",
-    "Will he come to us?"
-  ],
-  [
-    "Он будет изучать английский онлайн?",
-    "Will he learn English online?"
-  ],
-  [
-    "Они присоединятся к нам?",
-    "Will they join us?"
-  ],
-  [
-    "Ты пойдешь за покупками сейчас?",
-    "Will you go shopping now?"
-  ],
-  [
-    "Ты поедешь в отпуск в этом месяце?",
-    "Will you go on holiday this month?"
-  ],
-  [
-    "Он будет смеяться над ней?",
-    "Will he laugh at her?"
-  ],
-  [
-    "Мы будем играть в волейбол?",
-    "Will we play volleyball?"
-  ],
-  [
-    "Я увижу свой прогресс?",
-    "Will I see my progress?"
-  ],
-  [
-    "Ты будешь изучать английский здесь?",
-    "Will you learn English here?"
-  ],
-  [
-    "Ты будешь свободен сегодня вечером?",
-    "Will you be free tonight?"
-  ],
-  [
-    "Он будет изучать английский онлайн?",
-    "Will he learn English online?"
-  ],
-  [
-    "Это поможет мне?",
-    "Will it help me?"
-  ],
-  [
-    "Он придет к нам?",
-    "Will he come to us?"
-  ],
-  [
-    "Это будет полезно для нас?",
-    "Will it be useful for us?"
-  ],
-  [
-    "Твои родители будут там?",
-    "Will your parents be there?"
-  ],
-  [
-    "Это действительно поможет мне?",
-    "Will it really help me?"
-  ],
-  [
-    "Это будет очень популярно?",
-    "Will it be very popular?"
-  ],
-  [
-    "У меня будут лучше результаты?",
-    "Will I have better results?"
-  ],
-  [
-    "Они присоединятся к нам?",
-    "Will they join us?"
-  ],
-  [
-    "Она скоро к нам присоединится?",
-    "Will she join us soon?"
-  ],
-  [
-    "Он будет не согласен?",
-    "Will he disagree?"
-  ],
-  [
-    "Ты пойдешь за покупками сейчас?",
-    "Will you go shopping now?"
-  ],
-  [
-    "Они скоро приедут?",
-    "Will they arrive soon?"
-  ],
-  [
-    "Это будет очень смешно?",
-    "Will it be very funny?"
-  ],
-  [
-    "Ты будешь смотреть этот матч?",
-    "Will you watch this match?"
-  ],
-  [
-    "Ты будешь есть сейчас?",
-    "Will you eat now?"
-  ],
-  [
-    "Мы встретимся сегодня?",
-    "Will we meet today?"
-  ],
-  [
-    "Он будет жить в этом доме?",
-    "Will he live in this house?"
-  ],
-  [
-    "Ты купишь машину?",
-    "Will you buy a car?"
-  ],
-  [
-    "Это будет полезно?",
-    "Will it be useful?"
-  ],
-  [
-    "Вы придете туда рано?",
-    "Will you come there early?"
-  ],
-  [
-    "Ты будешь говорить по-английски?",
-    "Will you speak English?"
-  ],
-  [
-    "Он купит дом?",
-    "Will he buy a house?"
-  ],
-  [
-    "Мы будем играть в баскетбол?",
-    "Will we play basketball?"
-  ],
-  [
-    "Это будет легко?",
-    "Will it be easy?"
-  ],
-  [
-    "Он скоро прибудет?",
-    "Will he arrive soon?"
-  ],
-  [
-    "Ты скоро будешь готов?",
-    "Will you be ready soon?"
-  ],
-  [
-    "Это будет легко для тебя?",
-    "Will it be easy for you?"
-  ],
-  [
-    "Ты посмотришь этот новый фильм?",
-    "Will you watch this new movie?"
-  ],
-  [
-    "У меня будут хорошие результаты?",
-    "Will I have good results?"
-  ],
-  [
-    "Мои результаты скоро будут лучше?",
-    "Will my results be better soon?"
-  ],
-  [
-    "Это будет дороже?",
-    "Will it be more expensive?"
-  ],
-  [
-    "Это будет бесплатно?",
-    "Will it be free?"
-  ],
-  [
-    "Он поедет в отпуск этим летом?",
-    "Will he go on holiday this summer?"
-  ],
-  [
-    "Ты решишь эту проблему?",
-    "Will you solve this problem?"
-  ],
-  [
-    "Это действительно поможет нам?",
-    "Will it really help us?"
-  ],
-  [
-    "Это будет слишком сложно для них?",
-    "Will it be too difficult for them?"
-  ],
-  [
-    "Мы будем плавать в океане сегодня?",
-    "Will we swim in the ocean today?"
-  ],
-  [
-    "Это будет удобно для тебя?",
-    "Will it be convenient for you?"
-  ],
-  [
-    "Они будут смеяться над этим?",
-    "Will they laugh at it?"
-  ],
-  [
-    "Ты будешь учиться намного усерднее?",
-    "Will you study much harder?"
-  ],
-  [
-    "Ты пойдешь на море сейчас?",
-    "Will you go to the sea now?"
-  ],
-  [
-    "Мы будем арендовать эту машину?",
-    "Will we rent this car?"
-  ],
-  [
-    "Ты будешь свободен завтра?",
-    "Will you be free tomorrow?"
-  ],
-  [
-    "Мой английский будет лучше?",
-    "Will my English be better?"
-  ],
-  [
-    "Ты будешь арендовать машину?",
-    "Will you rent a car?"
-  ],
-  [
-    "Это будет необходимо?",
-    "Will it be necessary?"
-  ],
-  [
-    "Это будет необходимо сделать?",
-    "Will it be necessary to do it?"
-  ],
-  [
-    "Это необходимо будет покупать?",
-    "Will it be necessary to buy it?"
-  ],
-  [
-    "Он будет смеяться над ней?",
-    "Will he laugh at her?"
-  ],
-  [
-    "Он посмотрит на нее?",
-    "Will he look at her?"
-  ],
-  [
-    "Ты будешь снимать эту квартиру?",
-    "Will you rent this apartment?"
-  ],
-  [
-    "Ты будешь снимать ту квартиру?",
-    "Will you rent that apartment?"
-  ],
-  [
-    "Это будет правильный ответ?",
-    "Will it be the right answer?"
-  ],
-  [
-    "Это будет лучшее решение?",
-    "Will it be the best decision?"
-  ],
-  [
-    "Ты будешь учиться усерднее?",
-    "Will you study harder?"
-  ],
-  [
-    "Ты будешь учиться очень усердно?",
-    "Will you study very hard?"
-  ],
-  [
-    "Ты будешь учиться действительно усердно?",
-    "Will you study really hard?"
-  ],
-  [
-    "Мой уровень будет выше скоро?",
-    "Will my level be higher soon?"
-  ],
-  [
-    "Это будет удобно для него?",
-    "Will it be convenient for him?"
-  ],
-  [
-    "Это будет удобно для нее?",
-    "Will it be convenient for her?"
-  ],
-  [
-    "Это принесет тебе больше денег?",
-    "Will it bring you more money?"
-  ],
-  [
-    "Это будет дешевле?",
-    "Will it be cheaper?"
-  ],
-  [
-    "Это будет труднее?",
-    "Will it be harder?"
-  ],
-  [
-    "Мой английский станет лучше?",
-    "Will my English become better?"
-  ],
-  [
-    "Это будет правильно?",
-    "Will it be right?"
-  ],
-  [
-    "Это будет правильно?",
-    "Will it be correct?"
-  ],
-  [
-    "Ты будешь говорить только по-английски?",
-    "Will you speak only English?"
-  ],
-  [
-    "Ты пойдешь туда или нет?",
-    "Will you go there or not?"
-  ],
-  [
-    "Мы поедем к океану?",
-    "Will we go to the ocean?"
-  ],
-  [
-    "Ты купишь это или нет?",
-    "Will you buy it or not?"
-  ],
-  [
-    "Ты будешь арендовать квартиру?",
-    "Will you rent an apartment?"
-  ],
-  [
-    "Она будет смеяться над этими вещами?",
-    "Will she laugh at these things?"
-  ],
-  [
-    "Ты останешься в этом отеле?",
-    "Will you stay in this hotel?"
-  ],
-  [
-    "Ты решишь ту проблему?",
-    "Will you solve that problem?"
-  ],
-  [
-    "Это будет правильный ответ?",
-    "Will it be the correct answer?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Он приедет к нам?",
+    "en": "Will he come to us?"
+  },
+  {
+    "_id": 2,
+    "ru": "Он будет изучать английский онлайн?",
+    "en": "Will he learn English online?"
+  },
+  {
+    "_id": 3,
+    "ru": "Они присоединятся к нам?",
+    "en": "Will they join us?"
+  },
+  {
+    "_id": 4,
+    "ru": "Ты пойдешь за покупками сейчас?",
+    "en": "Will you go shopping now?"
+  },
+  {
+    "_id": 5,
+    "ru": "Ты поедешь в отпуск в этом месяце?",
+    "en": "Will you go on holiday this month?"
+  },
+  {
+    "_id": 6,
+    "ru": "Он будет смеяться над ней?",
+    "en": "Will he laugh at her?"
+  },
+  {
+    "_id": 7,
+    "ru": "Мы будем играть в волейбол?",
+    "en": "Will we play volleyball?"
+  },
+  {
+    "_id": 8,
+    "ru": "Я увижу свой прогресс?",
+    "en": "Will I see my progress?"
+  },
+  {
+    "_id": 9,
+    "ru": "Ты будешь изучать английский здесь?",
+    "en": "Will you learn English here?"
+  },
+  {
+    "_id": 10,
+    "ru": "Ты будешь свободен сегодня вечером?",
+    "en": "Will you be free tonight?"
+  },
+  {
+    "_id": 11,
+    "ru": "Он будет изучать английский онлайн?",
+    "en": "Will he learn English online?"
+  },
+  {
+    "_id": 12,
+    "ru": "Это поможет мне?",
+    "en": "Will it help me?"
+  },
+  {
+    "_id": 13,
+    "ru": "Он придет к нам?",
+    "en": "Will he come to us?"
+  },
+  {
+    "_id": 14,
+    "ru": "Это будет полезно для нас?",
+    "en": "Will it be useful for us?"
+  },
+  {
+    "_id": 15,
+    "ru": "Твои родители будут там?",
+    "en": "Will your parents be there?"
+  },
+  {
+    "_id": 16,
+    "ru": "Это действительно поможет мне?",
+    "en": "Will it really help me?"
+  },
+  {
+    "_id": 17,
+    "ru": "Это будет очень популярно?",
+    "en": "Will it be very popular?"
+  },
+  {
+    "_id": 18,
+    "ru": "У меня будут лучше результаты?",
+    "en": "Will I have better results?"
+  },
+  {
+    "_id": 19,
+    "ru": "Они присоединятся к нам?",
+    "en": "Will they join us?"
+  },
+  {
+    "_id": 20,
+    "ru": "Она скоро к нам присоединится?",
+    "en": "Will she join us soon?"
+  },
+  {
+    "_id": 21,
+    "ru": "Он будет не согласен?",
+    "en": "Will he disagree?"
+  },
+  {
+    "_id": 22,
+    "ru": "Ты пойдешь за покупками сейчас?",
+    "en": "Will you go shopping now?"
+  },
+  {
+    "_id": 23,
+    "ru": "Они скоро приедут?",
+    "en": "Will they arrive soon?"
+  },
+  {
+    "_id": 24,
+    "ru": "Это будет очень смешно?",
+    "en": "Will it be very funny?"
+  },
+  {
+    "_id": 25,
+    "ru": "Ты будешь смотреть этот матч?",
+    "en": "Will you watch this match?"
+  },
+  {
+    "_id": 26,
+    "ru": "Ты будешь есть сейчас?",
+    "en": "Will you eat now?"
+  },
+  {
+    "_id": 27,
+    "ru": "Мы встретимся сегодня?",
+    "en": "Will we meet today?"
+  },
+  {
+    "_id": 28,
+    "ru": "Он будет жить в этом доме?",
+    "en": "Will he live in this house?"
+  },
+  {
+    "_id": 29,
+    "ru": "Ты купишь машину?",
+    "en": "Will you buy a car?"
+  },
+  {
+    "_id": 30,
+    "ru": "Это будет полезно?",
+    "en": "Will it be useful?"
+  },
+  {
+    "_id": 31,
+    "ru": "Вы придете туда рано?",
+    "en": "Will you come there early?"
+  },
+  {
+    "_id": 32,
+    "ru": "Ты будешь говорить по-английски?",
+    "en": "Will you speak English?"
+  },
+  {
+    "_id": 33,
+    "ru": "Он купит дом?",
+    "en": "Will he buy a house?"
+  },
+  {
+    "_id": 34,
+    "ru": "Мы будем играть в баскетбол?",
+    "en": "Will we play basketball?"
+  },
+  {
+    "_id": 35,
+    "ru": "Это будет легко?",
+    "en": "Will it be easy?"
+  },
+  {
+    "_id": 36,
+    "ru": "Он скоро прибудет?",
+    "en": "Will he arrive soon?"
+  },
+  {
+    "_id": 37,
+    "ru": "Ты скоро будешь готов?",
+    "en": "Will you be ready soon?"
+  },
+  {
+    "_id": 38,
+    "ru": "Это будет легко для тебя?",
+    "en": "Will it be easy for you?"
+  },
+  {
+    "_id": 39,
+    "ru": "Ты посмотришь этот новый фильм?",
+    "en": "Will you watch this new movie?"
+  },
+  {
+    "_id": 40,
+    "ru": "У меня будут хорошие результаты?",
+    "en": "Will I have good results?"
+  },
+  {
+    "_id": 41,
+    "ru": "Мои результаты скоро будут лучше?",
+    "en": "Will my results be better soon?"
+  },
+  {
+    "_id": 42,
+    "ru": "Это будет дороже?",
+    "en": "Will it be more expensive?"
+  },
+  {
+    "_id": 43,
+    "ru": "Это будет бесплатно?",
+    "en": "Will it be free?"
+  },
+  {
+    "_id": 44,
+    "ru": "Он поедет в отпуск этим летом?",
+    "en": "Will he go on holiday this summer?"
+  },
+  {
+    "_id": 45,
+    "ru": "Ты решишь эту проблему?",
+    "en": "Will you solve this problem?"
+  },
+  {
+    "_id": 46,
+    "ru": "Это действительно поможет нам?",
+    "en": "Will it really help us?"
+  },
+  {
+    "_id": 47,
+    "ru": "Это будет слишком сложно для них?",
+    "en": "Will it be too difficult for them?"
+  },
+  {
+    "_id": 48,
+    "ru": "Мы будем плавать в океане сегодня?",
+    "en": "Will we swim in the ocean today?"
+  },
+  {
+    "_id": 49,
+    "ru": "Это будет удобно для тебя?",
+    "en": "Will it be convenient for you?"
+  },
+  {
+    "_id": 50,
+    "ru": "Они будут смеяться над этим?",
+    "en": "Will they laugh at it?"
+  },
+  {
+    "_id": 51,
+    "ru": "Ты будешь учиться намного усерднее?",
+    "en": "Will you study much harder?"
+  },
+  {
+    "_id": 52,
+    "ru": "Ты пойдешь на море сейчас?",
+    "en": "Will you go to the sea now?"
+  },
+  {
+    "_id": 53,
+    "ru": "Мы будем арендовать эту машину?",
+    "en": "Will we rent this car?"
+  },
+  {
+    "_id": 54,
+    "ru": "Ты будешь свободен завтра?",
+    "en": "Will you be free tomorrow?"
+  },
+  {
+    "_id": 55,
+    "ru": "Мой английский будет лучше?",
+    "en": "Will my English be better?"
+  },
+  {
+    "_id": 56,
+    "ru": "Ты будешь арендовать машину?",
+    "en": "Will you rent a car?"
+  },
+  {
+    "_id": 57,
+    "ru": "Это будет необходимо?",
+    "en": "Will it be necessary?"
+  },
+  {
+    "_id": 58,
+    "ru": "Это будет необходимо сделать?",
+    "en": "Will it be necessary to do it?"
+  },
+  {
+    "_id": 59,
+    "ru": "Это необходимо будет покупать?",
+    "en": "Will it be necessary to buy it?"
+  },
+  {
+    "_id": 60,
+    "ru": "Он будет смеяться над ней?",
+    "en": "Will he laugh at her?"
+  },
+  {
+    "_id": 61,
+    "ru": "Он посмотрит на нее?",
+    "en": "Will he look at her?"
+  },
+  {
+    "_id": 62,
+    "ru": "Ты будешь снимать эту квартиру?",
+    "en": "Will you rent this apartment?"
+  },
+  {
+    "_id": 63,
+    "ru": "Ты будешь снимать ту квартиру?",
+    "en": "Will you rent that apartment?"
+  },
+  {
+    "_id": 64,
+    "ru": "Это будет правильный ответ?",
+    "en": "Will it be the right answer?"
+  },
+  {
+    "_id": 65,
+    "ru": "Это будет лучшее решение?",
+    "en": "Will it be the best decision?"
+  },
+  {
+    "_id": 66,
+    "ru": "Ты будешь учиться усерднее?",
+    "en": "Will you study harder?"
+  },
+  {
+    "_id": 67,
+    "ru": "Ты будешь учиться очень усердно?",
+    "en": "Will you study very hard?"
+  },
+  {
+    "_id": 68,
+    "ru": "Ты будешь учиться действительно усердно?",
+    "en": "Will you study really hard?"
+  },
+  {
+    "_id": 69,
+    "ru": "Мой уровень будет выше скоро?",
+    "en": "Will my level be higher soon?"
+  },
+  {
+    "_id": 70,
+    "ru": "Это будет удобно для него?",
+    "en": "Will it be convenient for him?"
+  },
+  {
+    "_id": 71,
+    "ru": "Это будет удобно для нее?",
+    "en": "Will it be convenient for her?"
+  },
+  {
+    "_id": 72,
+    "ru": "Это принесет тебе больше денег?",
+    "en": "Will it bring you more money?"
+  },
+  {
+    "_id": 73,
+    "ru": "Это будет дешевле?",
+    "en": "Will it be cheaper?"
+  },
+  {
+    "_id": 74,
+    "ru": "Это будет труднее?",
+    "en": "Will it be harder?"
+  },
+  {
+    "_id": 75,
+    "ru": "Мой английский станет лучше?",
+    "en": "Will my English become better?"
+  },
+  {
+    "_id": 76,
+    "ru": "Это будет правильно?",
+    "en": "Will it be right?"
+  },
+  {
+    "_id": 77,
+    "ru": "Это будет правильно?",
+    "en": "Will it be correct?"
+  },
+  {
+    "_id": 78,
+    "ru": "Ты будешь говорить только по-английски?",
+    "en": "Will you speak only English?"
+  },
+  {
+    "_id": 79,
+    "ru": "Ты пойдешь туда или нет?",
+    "en": "Will you go there or not?"
+  },
+  {
+    "_id": 80,
+    "ru": "Мы поедем к океану?",
+    "en": "Will we go to the ocean?"
+  },
+  {
+    "_id": 81,
+    "ru": "Ты купишь это или нет?",
+    "en": "Will you buy it or not?"
+  },
+  {
+    "_id": 82,
+    "ru": "Ты будешь арендовать квартиру?",
+    "en": "Will you rent an apartment?"
+  },
+  {
+    "_id": 83,
+    "ru": "Она будет смеяться над этими вещами?",
+    "en": "Will she laugh at these things?"
+  },
+  {
+    "_id": 84,
+    "ru": "Ты останешься в этом отеле?",
+    "en": "Will you stay in this hotel?"
+  },
+  {
+    "_id": 85,
+    "ru": "Ты решишь ту проблему?",
+    "en": "Will you solve that problem?"
+  },
+  {
+    "_id": 86,
+    "ru": "Это будет правильный ответ?",
+    "en": "Will it be the correct answer?"
+  }
 ]

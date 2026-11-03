@@ -1,410 +1,512 @@
 [
-  [
-    "Он никогда не ходит туда",
-    "He never goes there"
-  ],
-  [
-    "Я никогда не поеду туда",
-    "I will never go there"
-  ],
-  [
-    "Кто-то знает это",
-    "Somebody knows it"
-  ],
-  [
-    "Всё здесь",
-    "Everything is here"
-  ],
-  [
-    "Что-то неправильно",
-    "Something is wrong"
-  ],
-  [
-    "Он может говорить как по-английски, так и по-испански",
-    "He can speak both English and Spanish"
-  ],
-  [
-    "Его ничего не интересует",
-    "Nothing interests him"
-  ],
-  [
-    "Все люди это знают",
-    "All people know it"
-  ],
-  [
-    "Все поддерживают эту идею",
-    "Everyone supports this idea"
-  ],
-  [
-    "Там были все дети",
-    "All the children were there"
-  ],
-  [
-    "Он ест и мясо, и рыбу",
-    "He eats both meat and fish"
-  ],
-  [
-    "Никто из моих друзей этого не знает",
-    "Neither of my friends knows it"
-  ],
-  [
-    "Он также очень занят там",
-    "He is also very busy there"
-  ],
-  [
-    "Никто этого не хочет",
-    "Nobody wants it"
-  ],
-  [
-    "Многие люди живут в бедности",
-    "Many people live in poverty"
-  ],
-  [
-    "Ни один из них действительно не заботится об этом",
-    "None of them really cares about it"
-  ],
-  [
-    "Все были очень заняты",
-    "Everyone was very busy"
-  ],
-  [
-    "Все люди поддерживают эту идею",
-    "All people support this idea"
-  ],
-  [
-    "Большинство людей это понимают",
-    "Most people understand it"
-  ],
-  [
-    "Все это прекрасно понимают",
-    "Everyone perfectly understands it"
-  ],
-  [
-    "Либо он, либо она это сделали",
-    "Either he or she did it"
-  ],
-  [
-    "Никто не заинтересован в этом",
-    "No one is interested in it"
-  ],
-  [
-    "Кто-то ждет тебя",
-    "Someone is waiting for you"
-  ],
-  [
-    "Ничто ему не помогает",
-    "Nothing helps him"
-  ],
-  [
-    "Оба моих друга живут в Германии",
-    "Both of my friends live in Germany"
-  ],
-  [
-    "Ничего действительно не беспокоило меня",
-    "Nothing really worried me"
-  ],
-  [
-    "Все готовы",
-    "Everyone is ready"
-  ],
-  [
-    "Ни одна из этих вещей не интересует меня",
-    "None of these things interests me"
-  ],
-  [
-    "Большинство из нас думает так",
-    "Most of us think so"
-  ],
-  [
-    "Им обоим это нравится",
-    "Both of them like it"
-  ],
-  [
-    "Большинство из них хотят этого",
-    "Most of them want it"
-  ],
-  [
-    "Каждый из них думает так",
-    "Each of them thinks so"
-  ],
-  [
-    "Кто-то это знает",
-    "Somebody knows it"
-  ],
-  [
-    "Что-то беспокоит его",
-    "Something worries him"
-  ],
-  [
-    "Никто из них не хочет этого",
-    "None of them wants it"
-  ],
-  [
-    "Либо он, либо она может сделать это",
-    "Either he or she can do it"
-  ],
-  [
-    "Он говорит на обоих этих языках",
-    "He speaks both these languages"
-  ],
-  [
-    "Это знают все",
-    "Everyone knows it"
-  ],
-  [
-    "Я никогда не был заинтересован в этом",
-    "I have never been interested in it"
-  ],
-  [
-    "Не всем это нравится",
-    "Not everyone likes it"
-  ],
-  [
-    "Большинство моих друзей поддерживают меня",
-    "Most of my friends support me"
-  ],
-  [
-    "Все студенты присутствовали",
-    "All the students were present"
-  ],
-  [
-    "Меня это никогда не интересовало",
-    "It has never interested me"
-  ],
-  [
-    "Большинство из нас это понимают",
-    "Most of us understand it"
-  ],
-  [
-    "Оба эти отеля очень популярны среди туристов",
-    "Both these hotels are very popular among tourists"
-  ],
-  [
-    "Не все понимают важность этой вещи",
-    "Not everyone understands the importance of this thing"
-  ],
-  [
-    "Ни ему, ни ей не нравится эта идея",
-    "Neither he nor she likes this idea"
-  ],
-  [
-    "Все мои коллеги были рады этому решению",
-    "All my colleagues were happy about this decision"
-  ],
-  [
-    "Большинство из них поддержали эту инициативу",
-    "Most of them supported this initiative"
-  ],
-  [
-    "Все ошибки будут исправлены скоро",
-    "All the mistakes will be corrected soon"
-  ],
-  [
-    "Все мои друзья были в восторге от этих новостей",
-    "All my friends were excited about this news"
-  ],
-  [
-    "Все сотрудники были довольны этим решением",
-    "All the employees were satisfied with this decision"
-  ],
-  [
-    "Ни один из них не носит очки",
-    "Neither of them wears glasses"
-  ],
-  [
-    "Ни мне, ни моим друзьям не понравилась эта идея",
-    "Neither my friends nor I liked this idea"
-  ],
-  [
-    "У некоторых из них другое мнение",
-    "Some of them have another opinion"
-  ],
-  [
-    "Некоторые из них думают по-другому",
-    "Some of them think differently"
-  ],
-  [
-    "Многие из этих вещей хорошо известны",
-    "Many of these things are well-known"
-  ],
-  [
-    "Большая часть информации была действительно полезной",
-    "Most of the information was really useful"
-  ],
-  [
-    "Вся эта информация была действительно полезной",
-    "All this information was really useful"
-  ],
-  [
-    "Ничто из информации не было полезно",
-    "None of the information was useful"
-  ],
-  [
-    "Ни одно из предложений не является правильным",
-    "Neither of the sentences is correct"
-  ],
-  [
-    "Все эти предложения верны",
-    "All these sentences are correct"
-  ],
-  [
-    "Большинство предложений неверны",
-    "Most of the sentences are incorrect"
-  ],
-  [
-    "Такие вещи никогда не беспокоили меня",
-    "Such things have never worried me"
-  ],
-  [
-    "Эти проблемы меня никогда не беспокоили",
-    "These problems have never worried me"
-  ],
-  [
-    "Я никогда не беспокоился о таких вещах",
-    "I have never worried about such things"
-  ],
-  [
-    "Многие из моих друзей просто игнорируют это",
-    "Many of my friends simply ignore it"
-  ],
-  [
-    "Все мои друзья всегда игнорируют это",
-    "All my friends always ignore it"
-  ],
-  [
-    "Каждый из моих друзей просто игнорирует это",
-    "Each of my friends simply ignores it"
-  ],
-  [
-    "Даже она никогда не слышала об этом",
-    "Even she has never heard about it"
-  ],
-  [
-    "Никто из них еще не слышал об этом",
-    "Neither of them has heard about it yet"
-  ],
-  [
-    "Некоторые из моих друзей уже слышали об этом",
-    "Some of my friends have already heard about it"
-  ],
-  [
-    "Он пригласил нас обоих",
-    "He invited both of us"
-  ],
-  [
-    "Он пригласил всех моих друзей",
-    "He invited all my friends"
-  ],
-  [
-    "Он не пригласил никого из нас",
-    "He invited neither of us"
-  ],
-  [
-    "Некоторые из студентов отсутствовали",
-    "Some of the students were absent"
-  ],
-  [
-    "Все эти студенты отсутствовали",
-    "All these students were absent"
-  ],
-  [
-    "Никто не присутствовал",
-    "Nobody was present"
-  ],
-  [
-    "Многие из моих друзей тоже думают так",
-    "Many of my friends also think so"
-  ],
-  [
-    "Никто из моих друзей не думает иначе",
-    "None of my friends think differently"
-  ],
-  [
-    "Большинство из них тоже думают так",
-    "Most of them also think so"
-  ],
-  [
-    "Никто из моих друзей не понимает этого",
-    "None of my friends understand it"
-  ],
-  [
-    "Большинство моих друзей понимают это",
-    "Most of my friends understand it"
-  ],
-  [
-    "Каждый из моих друзей понимает это",
-    "Each of my friends understands it"
-  ],
-  [
-    "Большинство этой информации полезна",
-    "Most of this information is useful"
-  ],
-  [
-    "Ничто из этой информации не важно",
-    "None of this information is important"
-  ],
-  [
-    "Вся эта информация действительно полезна",
-    "All this information is really useful"
-  ],
-  [
-    "Я чувствую, что тебя что-то беспокоит",
-    "I feel that something worries you"
-  ],
-  [
-    "С того времени ничего не изменилось",
-    "Nothing has changed since that time"
-  ],
-  [
-    "Кто-то только что постучал в дверь",
-    "Someone has just knocked at the door"
-  ],
-  [
-    "Я живу здесь всю свою жизнь",
-    "I have been living here all my life"
-  ],
-  [
-    "Ни одно из утверждений не является верным",
-    "Neither of the statements is true"
-  ],
-  [
-    "Она пригласила их обоих",
-    "She invited both of them"
-  ],
-  [
-    "Даже он никогда не слышал об этой вещи",
-    "Even he has never heard about this thing"
-  ],
-  [
-    "Все молоко было выпито",
-    "All the milk was drunk"
-  ],
-  [
-    "Такого рода вещи никогда не беспокоили меня",
-    "This kind of things have never worried me"
-  ],
-  [
-    "Я никогда не хотел делать это, когда я жил там",
-    "I never wanted to do it when I lived there"
-  ],
-  [
-    "Никто из нас не был голоден",
-    "Neither of us was hungry"
-  ],
-  [
-    "Весь хлеб был съеден",
-    "All the bread was eaten"
-  ],
-  [
-    "Она приветствовала всех гостей",
-    "She welcomed all the guests"
-  ],
-  [
-    "Каждый из нас это понимает",
-    "Each of us understands it"
-  ],
-  [
-    "Ничто не может остановить его",
-    "Nothing can stop him"
-  ]
+  {
+    "_id": 1,
+    "ru": "Он никогда не ходит туда",
+    "en": "He never goes there"
+  },
+  {
+    "_id": 2,
+    "ru": "Я никогда не поеду туда",
+    "en": "I will never go there"
+  },
+  {
+    "_id": 3,
+    "ru": "Кто-то знает это",
+    "en": "Somebody knows it"
+  },
+  {
+    "_id": 4,
+    "ru": "Всё здесь",
+    "en": "Everything is here"
+  },
+  {
+    "_id": 5,
+    "ru": "Что-то неправильно",
+    "en": "Something is wrong"
+  },
+  {
+    "_id": 6,
+    "ru": "Он может говорить как по-английски, так и по-испански",
+    "en": "He can speak both English and Spanish"
+  },
+  {
+    "_id": 7,
+    "ru": "Его ничего не интересует",
+    "en": "Nothing interests him"
+  },
+  {
+    "_id": 8,
+    "ru": "Все люди это знают",
+    "en": "All people know it"
+  },
+  {
+    "_id": 9,
+    "ru": "Все поддерживают эту идею",
+    "en": "Everyone supports this idea"
+  },
+  {
+    "_id": 10,
+    "ru": "Там были все дети",
+    "en": "All the children were there"
+  },
+  {
+    "_id": 11,
+    "ru": "Он ест и мясо, и рыбу",
+    "en": "He eats both meat and fish"
+  },
+  {
+    "_id": 12,
+    "ru": "Никто из моих друзей этого не знает",
+    "en": "Neither of my friends knows it"
+  },
+  {
+    "_id": 13,
+    "ru": "Он также очень занят там",
+    "en": "He is also very busy there"
+  },
+  {
+    "_id": 14,
+    "ru": "Никто этого не хочет",
+    "en": "Nobody wants it"
+  },
+  {
+    "_id": 15,
+    "ru": "Многие люди живут в бедности",
+    "en": "Many people live in poverty"
+  },
+  {
+    "_id": 16,
+    "ru": "Ни один из них действительно не заботится об этом",
+    "en": "None of them really cares about it"
+  },
+  {
+    "_id": 17,
+    "ru": "Все были очень заняты",
+    "en": "Everyone was very busy"
+  },
+  {
+    "_id": 18,
+    "ru": "Все люди поддерживают эту идею",
+    "en": "All people support this idea"
+  },
+  {
+    "_id": 19,
+    "ru": "Большинство людей это понимают",
+    "en": "Most people understand it"
+  },
+  {
+    "_id": 20,
+    "ru": "Все это прекрасно понимают",
+    "en": "Everyone perfectly understands it"
+  },
+  {
+    "_id": 21,
+    "ru": "Либо он, либо она это сделали",
+    "en": "Either he or she did it"
+  },
+  {
+    "_id": 22,
+    "ru": "Никто не заинтересован в этом",
+    "en": "No one is interested in it"
+  },
+  {
+    "_id": 23,
+    "ru": "Кто-то ждет тебя",
+    "en": "Someone is waiting for you"
+  },
+  {
+    "_id": 24,
+    "ru": "Ничто ему не помогает",
+    "en": "Nothing helps him"
+  },
+  {
+    "_id": 25,
+    "ru": "Оба моих друга живут в Германии",
+    "en": "Both of my friends live in Germany"
+  },
+  {
+    "_id": 26,
+    "ru": "Ничего действительно не беспокоило меня",
+    "en": "Nothing really worried me"
+  },
+  {
+    "_id": 27,
+    "ru": "Все готовы",
+    "en": "Everyone is ready"
+  },
+  {
+    "_id": 28,
+    "ru": "Ни одна из этих вещей не интересует меня",
+    "en": "None of these things interests me"
+  },
+  {
+    "_id": 29,
+    "ru": "Большинство из нас думает так",
+    "en": "Most of us think so"
+  },
+  {
+    "_id": 30,
+    "ru": "Им обоим это нравится",
+    "en": "Both of them like it"
+  },
+  {
+    "_id": 31,
+    "ru": "Большинство из них хотят этого",
+    "en": "Most of them want it"
+  },
+  {
+    "_id": 32,
+    "ru": "Каждый из них думает так",
+    "en": "Each of them thinks so"
+  },
+  {
+    "_id": 33,
+    "ru": "Кто-то это знает",
+    "en": "Somebody knows it"
+  },
+  {
+    "_id": 34,
+    "ru": "Что-то беспокоит его",
+    "en": "Something worries him"
+  },
+  {
+    "_id": 35,
+    "ru": "Никто из них не хочет этого",
+    "en": "None of them wants it"
+  },
+  {
+    "_id": 36,
+    "ru": "Либо он, либо она может сделать это",
+    "en": "Either he or she can do it"
+  },
+  {
+    "_id": 37,
+    "ru": "Он говорит на обоих этих языках",
+    "en": "He speaks both these languages"
+  },
+  {
+    "_id": 38,
+    "ru": "Это знают все",
+    "en": "Everyone knows it"
+  },
+  {
+    "_id": 39,
+    "ru": "Я никогда не был заинтересован в этом",
+    "en": "I have never been interested in it"
+  },
+  {
+    "_id": 40,
+    "ru": "Не всем это нравится",
+    "en": "Not everyone likes it"
+  },
+  {
+    "_id": 41,
+    "ru": "Большинство моих друзей поддерживают меня",
+    "en": "Most of my friends support me"
+  },
+  {
+    "_id": 42,
+    "ru": "Все студенты присутствовали",
+    "en": "All the students were present"
+  },
+  {
+    "_id": 43,
+    "ru": "Меня это никогда не интересовало",
+    "en": "It has never interested me"
+  },
+  {
+    "_id": 44,
+    "ru": "Большинство из нас это понимают",
+    "en": "Most of us understand it"
+  },
+  {
+    "_id": 45,
+    "ru": "Оба эти отеля очень популярны среди туристов",
+    "en": "Both these hotels are very popular among tourists"
+  },
+  {
+    "_id": 46,
+    "ru": "Не все понимают важность этой вещи",
+    "en": "Not everyone understands the importance of this thing"
+  },
+  {
+    "_id": 47,
+    "ru": "Ни ему, ни ей не нравится эта идея",
+    "en": "Neither he nor she likes this idea"
+  },
+  {
+    "_id": 48,
+    "ru": "Все мои коллеги были рады этому решению",
+    "en": "All my colleagues were happy about this decision"
+  },
+  {
+    "_id": 49,
+    "ru": "Большинство из них поддержали эту инициативу",
+    "en": "Most of them supported this initiative"
+  },
+  {
+    "_id": 50,
+    "ru": "Все ошибки будут исправлены скоро",
+    "en": "All the mistakes will be corrected soon"
+  },
+  {
+    "_id": 51,
+    "ru": "Все мои друзья были в восторге от этих новостей",
+    "en": "All my friends were excited about this news"
+  },
+  {
+    "_id": 52,
+    "ru": "Все сотрудники были довольны этим решением",
+    "en": "All the employees were satisfied with this decision"
+  },
+  {
+    "_id": 53,
+    "ru": "Ни один из них не носит очки",
+    "en": "Neither of them wears glasses"
+  },
+  {
+    "_id": 54,
+    "ru": "Ни мне, ни моим друзьям не понравилась эта идея",
+    "en": "Neither my friends nor I liked this idea"
+  },
+  {
+    "_id": 55,
+    "ru": "У некоторых из них другое мнение",
+    "en": "Some of them have another opinion"
+  },
+  {
+    "_id": 56,
+    "ru": "Некоторые из них думают по-другому",
+    "en": "Some of them think differently"
+  },
+  {
+    "_id": 57,
+    "ru": "Многие из этих вещей хорошо известны",
+    "en": "Many of these things are well-known"
+  },
+  {
+    "_id": 58,
+    "ru": "Большая часть информации была действительно полезной",
+    "en": "Most of the information was really useful"
+  },
+  {
+    "_id": 59,
+    "ru": "Вся эта информация была действительно полезной",
+    "en": "All this information was really useful"
+  },
+  {
+    "_id": 60,
+    "ru": "Ничто из информации не было полезно",
+    "en": "None of the information was useful"
+  },
+  {
+    "_id": 61,
+    "ru": "Ни одно из предложений не является правильным",
+    "en": "Neither of the sentences is correct"
+  },
+  {
+    "_id": 62,
+    "ru": "Все эти предложения верны",
+    "en": "All these sentences are correct"
+  },
+  {
+    "_id": 63,
+    "ru": "Большинство предложений неверны",
+    "en": "Most of the sentences are incorrect"
+  },
+  {
+    "_id": 64,
+    "ru": "Такие вещи никогда не беспокоили меня",
+    "en": "Such things have never worried me"
+  },
+  {
+    "_id": 65,
+    "ru": "Эти проблемы меня никогда не беспокоили",
+    "en": "These problems have never worried me"
+  },
+  {
+    "_id": 66,
+    "ru": "Я никогда не беспокоился о таких вещах",
+    "en": "I have never worried about such things"
+  },
+  {
+    "_id": 67,
+    "ru": "Многие из моих друзей просто игнорируют это",
+    "en": "Many of my friends simply ignore it"
+  },
+  {
+    "_id": 68,
+    "ru": "Все мои друзья всегда игнорируют это",
+    "en": "All my friends always ignore it"
+  },
+  {
+    "_id": 69,
+    "ru": "Каждый из моих друзей просто игнорирует это",
+    "en": "Each of my friends simply ignores it"
+  },
+  {
+    "_id": 70,
+    "ru": "Даже она никогда не слышала об этом",
+    "en": "Even she has never heard about it"
+  },
+  {
+    "_id": 71,
+    "ru": "Никто из них еще не слышал об этом",
+    "en": "Neither of them has heard about it yet"
+  },
+  {
+    "_id": 72,
+    "ru": "Некоторые из моих друзей уже слышали об этом",
+    "en": "Some of my friends have already heard about it"
+  },
+  {
+    "_id": 73,
+    "ru": "Он пригласил нас обоих",
+    "en": "He invited both of us"
+  },
+  {
+    "_id": 74,
+    "ru": "Он пригласил всех моих друзей",
+    "en": "He invited all my friends"
+  },
+  {
+    "_id": 75,
+    "ru": "Он не пригласил никого из нас",
+    "en": "He invited neither of us"
+  },
+  {
+    "_id": 76,
+    "ru": "Некоторые из студентов отсутствовали",
+    "en": "Some of the students were absent"
+  },
+  {
+    "_id": 77,
+    "ru": "Все эти студенты отсутствовали",
+    "en": "All these students were absent"
+  },
+  {
+    "_id": 78,
+    "ru": "Никто не присутствовал",
+    "en": "Nobody was present"
+  },
+  {
+    "_id": 79,
+    "ru": "Многие из моих друзей тоже думают так",
+    "en": "Many of my friends also think so"
+  },
+  {
+    "_id": 80,
+    "ru": "Никто из моих друзей не думает иначе",
+    "en": "None of my friends think differently"
+  },
+  {
+    "_id": 81,
+    "ru": "Большинство из них тоже думают так",
+    "en": "Most of them also think so"
+  },
+  {
+    "_id": 82,
+    "ru": "Никто из моих друзей не понимает этого",
+    "en": "None of my friends understand it"
+  },
+  {
+    "_id": 83,
+    "ru": "Большинство моих друзей понимают это",
+    "en": "Most of my friends understand it"
+  },
+  {
+    "_id": 84,
+    "ru": "Каждый из моих друзей понимает это",
+    "en": "Each of my friends understands it"
+  },
+  {
+    "_id": 85,
+    "ru": "Большинство этой информации полезна",
+    "en": "Most of this information is useful"
+  },
+  {
+    "_id": 86,
+    "ru": "Ничто из этой информации не важно",
+    "en": "None of this information is important"
+  },
+  {
+    "_id": 87,
+    "ru": "Вся эта информация действительно полезна",
+    "en": "All this information is really useful"
+  },
+  {
+    "_id": 88,
+    "ru": "Я чувствую, что тебя что-то беспокоит",
+    "en": "I feel that something worries you"
+  },
+  {
+    "_id": 89,
+    "ru": "С того времени ничего не изменилось",
+    "en": "Nothing has changed since that time"
+  },
+  {
+    "_id": 90,
+    "ru": "Кто-то только что постучал в дверь",
+    "en": "Someone has just knocked at the door"
+  },
+  {
+    "_id": 91,
+    "ru": "Я живу здесь всю свою жизнь",
+    "en": "I have been living here all my life"
+  },
+  {
+    "_id": 92,
+    "ru": "Ни одно из утверждений не является верным",
+    "en": "Neither of the statements is true"
+  },
+  {
+    "_id": 93,
+    "ru": "Она пригласила их обоих",
+    "en": "She invited both of them"
+  },
+  {
+    "_id": 94,
+    "ru": "Даже он никогда не слышал об этой вещи",
+    "en": "Even he has never heard about this thing"
+  },
+  {
+    "_id": 95,
+    "ru": "Все молоко было выпито",
+    "en": "All the milk was drunk"
+  },
+  {
+    "_id": 96,
+    "ru": "Такого рода вещи никогда не беспокоили меня",
+    "en": "This kind of things have never worried me"
+  },
+  {
+    "_id": 97,
+    "ru": "Я никогда не хотел делать это, когда я жил там",
+    "en": "I never wanted to do it when I lived there"
+  },
+  {
+    "_id": 98,
+    "ru": "Никто из нас не был голоден",
+    "en": "Neither of us was hungry"
+  },
+  {
+    "_id": 99,
+    "ru": "Весь хлеб был съеден",
+    "en": "All the bread was eaten"
+  },
+  {
+    "_id": 100,
+    "ru": "Она приветствовала всех гостей",
+    "en": "She welcomed all the guests"
+  },
+  {
+    "_id": 101,
+    "ru": "Каждый из нас это понимает",
+    "en": "Each of us understands it"
+  },
+  {
+    "_id": 102,
+    "ru": "Ничто не может остановить его",
+    "en": "Nothing can stop him"
+  }
 ]

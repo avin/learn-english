@@ -1,390 +1,487 @@
 [
-  [
-    "Я готов к этому",
-    "I'm ready for it"
-  ],
-  [
-    "Она замужем за моим другом",
-    "She’s married to my friend"
-  ],
-  [
-    "Он был виновен в убийстве",
-    "He was guilty of murder"
-  ],
-  [
-    "Руководство осведомлено об этих проблемах",
-    "The management are aware of these problems"
-  ],
-  [
-    "Ему не было стыдно за такое поведение",
-    "He wasn't ashamed of such behaviour"
-  ],
-  [
-    "Он был виновен в этом преступлении",
-    "He was guilty of this crime"
-  ],
-  [
-    "Это очень вредно для твоего здоровья",
-    "It's very harmful to your health"
-  ],
-  [
-    "Руководство было осведомлено об этих трудностях",
-    "The management were aware of these difficulties"
-  ],
-  [
-    "Это может быть очень вредно для твоего здоровья",
-    "It can be very harmful to your health"
-  ],
-  [
-    "Ему должно быть стыдно за это",
-    "He should be ashamed of it"
-  ],
-  [
-    "Он не был виновен в преступлении",
-    "He wasn't guilty of the crime"
-  ],
-  [
-    "Я еще не готов к этому",
-    "I'm not ready for it yet"
-  ],
-  [
-    "Это очень эгоистично с его стороны",
-    "It's very selfish of him"
-  ],
-  [
-    "Он занят своим домашним заданием",
-    "He is busy with his homework"
-  ],
-  [
-    "Это очень жестоко с его стороны",
-    "It's very cruel of him"
-  ],
-  [
-    "Она знает об этих рисках",
-    "She's aware of these risks"
-  ],
-  [
-    "Я не рад этим результатам",
-    "I'm not happy about these results"
-  ],
-  [
-    "Я был поражен красотой этого места",
-    "I was amazed by the beauty of this place"
-  ],
-  [
-    "Он действительно рад этому",
-    "He's really happy about it"
-  ],
-  [
-    "Ей действительно стыдно за это",
-    "She is really ashamed of it"
-  ],
-  [
-    "Тебе нужно быть более осторожным с этим",
-    "You need to be more careful with it"
-  ],
-  [
-    "Они действительно были вдохновлены его словами",
-    "They were really inspired by his words"
-  ],
-  [
-    "Это очень вредно для детей",
-    "It's very harmful to children"
-  ],
-  [
-    "Эти две вещи тесно связаны друг с другом",
-    "These two things are closely connected with each other"
-  ],
-  [
-    "Он очень занят этой работой",
-    "He is very busy with this work"
-  ],
-  [
-    "Он очень увлечен этой идеей",
-    "He is very enthusiastic about this idea"
-  ],
-  [
-    "Я был поражен результатами",
-    "I was amazed by the results"
-  ],
-  [
-    "Что с этим не так?",
-    "What's wrong with it?"
-  ],
-  [
-    "Что-то не так с двигателем",
-    "Something is wrong with the engine"
-  ],
-  [
-    "Он очень успешен в бизнесе",
-    "He is very successful in business"
-  ],
-  [
-    "Город всегда переполнен туристами",
-    "The city is always crowded with tourists"
-  ],
-  [
-    "Я полностью удовлетворен этими результатами",
-    "I'm fully satisfied with these results"
-  ],
-  [
-    "Наш босс очень дружелюбен со своими сотрудниками",
-    "Our boss is very friendly with his employees"
-  ],
-  [
-    "Я знаю об этих изменениях",
-    "I'm aware of these changes"
-  ],
-  [
-    "Эта книга подходит для начинающих",
-    "This book is suitable for beginners"
-  ],
-  [
-    "Кто ответственный за все это?",
-    "Who is responsible for all this?"
-  ],
-  [
-    "Я был действительно вдохновлен этой речью",
-    "I was really inspired by this speech"
-  ],
-  [
-    "Эта программа не подходит для детей",
-    "This program isn't suitable for children"
-  ],
-  [
-    "Это место переполнено туристами",
-    "This place is crowded with tourists"
-  ],
-  [
-    "Он очень жесток с этим беднягой",
-    "He is very cruel to this poor man"
-  ],
-  [
-    "Что-то не так с лифтом",
-    "Something is wrong with the elevator"
-  ],
-  [
-    "Я был поражен моими результатами",
-    "I was amazed by my results"
-  ],
-  [
-    "Он боится неизвестности",
-    "He's scared of the unknown"
-  ],
-  [
-    "Он женат на ней пять лет",
-    "He has been married to her for five years"
-  ],
-  [
-    "Он недоволен результатами теста",
-    "He is dissatisfied with the results of the test"
-  ],
-  [
-    "Она замужем за ним более тридцати лет",
-    "She has been married to him for over thirty years"
-  ],
-  [
-    "Я недоволен качеством этого сервиса",
-    "I'm dissatisfied with the quality of this service"
-  ],
-  [
-    "Она очень подозрительна к нему",
-    "She is very suspicious of him"
-  ],
-  [
-    "Это близко к этому месту",
-    "It is close to this place"
-  ],
-  [
-    "Чем ты обожаешь заниматься?",
-    "What are you fond of doing?"
-  ],
-  [
-    "Он очень вежлив с ней",
-    "He is very polite to her"
-  ],
-  [
-    "В чем ты заинтересован?",
-    "What are you interested in?"
-  ],
-  [
-    "Она очень подозрительно относится к другим людям",
-    "She is very suspicious of other people"
-  ],
-  [
-    "Я думаю, что-то с ним не так",
-    "I think something is wrong with him"
-  ],
-  [
-    "Я думаю, что-то не так с этой вещью",
-    "I think something is wrong with this thing"
-  ],
-  [
-    "С ней что-то не так?",
-    "Is something wrong with her?"
-  ],
-  [
-    "Она живет близко к нему",
-    "She lives close to him"
-  ],
-  [
-    "Она живет ближе к тому парку",
-    "She lives closer to that park"
-  ],
-  [
-    "Они живут близко ко мне",
-    "They live close to me"
-  ],
-  [
-    "Чем ты обеспокоен?",
-    "What are you worried about?"
-  ],
-  [
-    "Я не беспокоюсь о своих результатах",
-    "I don't worry about my results"
-  ],
-  [
-    "Ты обеспокоен результатом этого теста?",
-    "Are you worried about the result of this test?"
-  ],
-  [
-    "Чем ты увлекаешься?",
-    "What are you keen on?"
-  ],
-  [
-    "Я увлекаюсь чтением на английском",
-    "I'm keen on reading in English"
-  ],
-  [
-    "Ты увлекаешься музыкой?",
-    "Are you keen on music?"
-  ],
-  [
-    "Он ничего не боится",
-    "He isn't scared of anything"
-  ],
-  [
-    "Я боюсь темноты",
-    "I'm scared of darkness"
-  ],
-  [
-    "Она боится неизвестности",
-    "She is scared of the unknown"
-  ],
-  [
-    "Чего ты боишься?",
-    "What are you afraid of?"
-  ],
-  [
-    "Я действительно боюсь пауков",
-    "I'm really afraid of spiders"
-  ],
-  [
-    "Ты боишься пауков?",
-    "Are you afraid of spiders?"
-  ],
-  [
-    "За что ей стыдно?",
-    "What is she ashamed of?"
-  ],
-  [
-    "Ей стыдно за свое поведение",
-    "She is ashamed of her behaviour"
-  ],
-  [
-    "Ей стыдно за это?",
-    "Is she ashamed of it?"
-  ],
-  [
-    "За кем она замужем?",
-    "Who is she married to?"
-  ],
-  [
-    "Она замужем за моим братом",
-    "She is married to my brother"
-  ],
-  [
-    "На ком он женат?",
-    "Who is he married to?"
-  ],
-  [
-    "Чего он боялся?",
-    "What was he frightened of?"
-  ],
-  [
-    "Чего он боится?",
-    "What is he frightened of?"
-  ],
-  [
-    "Он боялся этого?",
-    "Was he frightened of it?"
-  ],
-  [
-    "На что она злится?",
-    "What is she angry with?"
-  ],
-  [
-    "Она злится на меня?",
-    "Is she angry with me?"
-  ],
-  [
-    "Я больше не злюсь на тебя",
-    "I'm not angry with you anymore"
-  ],
-  [
-    "Тебе нужно быть более вежливы с ним",
-    "You need to be more polite to him"
-  ],
-  [
-    "Она действительно боится неизвестности",
-    "She's really scared of the unknown"
-  ],
-  [
-    "Я был полностью удовлетворен результатами того теста",
-    "I was fully satisfied with the results of that test"
-  ],
-  [
-    "Это очень эгоистично с его стороны вести себя так",
-    "It's very selfish of him to behave so"
-  ],
-  [
-    "Он очень подозрителен к другим",
-    "He is very suspicious of others"
-  ],
-  [
-    "Не принимай это близко к сердцу!",
-    "Don't take it to your heart!"
-  ],
-  [
-    "Я вижу, ты в восторге от этого проекта",
-    "I see you are very enthusiastic about this project"
-  ],
-  [
-    "Я не удовлетворен качеством этих продуктов",
-    "I'm not satisfied with the quality of these products"
-  ],
-  [
-    "Тебе следует быть более вежливым со своими коллегами",
-    "You should be more polite to your colleagues"
-  ],
-  [
-    "На ком он женат?",
-    "Who is he married to?"
-  ],
-  [
-    "Что с этим не так?",
-    "What's wrong with it?"
-  ],
-  [
-    "Чем они удивлены?",
-    "What are they surprised by?"
-  ],
-  [
-    "Из-за чего он злится?",
-    "What is he angry about?"
-  ],
-  [
-    "Что ты любишь?",
-    "What are you fond of?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я готов к этому",
+    "en": "I'm ready for it"
+  },
+  {
+    "_id": 2,
+    "ru": "Она замужем за моим другом",
+    "en": "She’s married to my friend"
+  },
+  {
+    "_id": 3,
+    "ru": "Он был виновен в убийстве",
+    "en": "He was guilty of murder"
+  },
+  {
+    "_id": 4,
+    "ru": "Руководство осведомлено об этих проблемах",
+    "en": "The management are aware of these problems"
+  },
+  {
+    "_id": 5,
+    "ru": "Ему не было стыдно за такое поведение",
+    "en": "He wasn't ashamed of such behaviour"
+  },
+  {
+    "_id": 6,
+    "ru": "Он был виновен в этом преступлении",
+    "en": "He was guilty of this crime"
+  },
+  {
+    "_id": 7,
+    "ru": "Это очень вредно для твоего здоровья",
+    "en": "It's very harmful to your health"
+  },
+  {
+    "_id": 8,
+    "ru": "Руководство было осведомлено об этих трудностях",
+    "en": "The management were aware of these difficulties"
+  },
+  {
+    "_id": 9,
+    "ru": "Это может быть очень вредно для твоего здоровья",
+    "en": "It can be very harmful to your health"
+  },
+  {
+    "_id": 10,
+    "ru": "Ему должно быть стыдно за это",
+    "en": "He should be ashamed of it"
+  },
+  {
+    "_id": 11,
+    "ru": "Он не был виновен в преступлении",
+    "en": "He wasn't guilty of the crime"
+  },
+  {
+    "_id": 12,
+    "ru": "Я еще не готов к этому",
+    "en": "I'm not ready for it yet"
+  },
+  {
+    "_id": 13,
+    "ru": "Это очень эгоистично с его стороны",
+    "en": "It's very selfish of him"
+  },
+  {
+    "_id": 14,
+    "ru": "Он занят своим домашним заданием",
+    "en": "He is busy with his homework"
+  },
+  {
+    "_id": 15,
+    "ru": "Это очень жестоко с его стороны",
+    "en": "It's very cruel of him"
+  },
+  {
+    "_id": 16,
+    "ru": "Она знает об этих рисках",
+    "en": "She's aware of these risks"
+  },
+  {
+    "_id": 17,
+    "ru": "Я не рад этим результатам",
+    "en": "I'm not happy about these results"
+  },
+  {
+    "_id": 18,
+    "ru": "Я был поражен красотой этого места",
+    "en": "I was amazed by the beauty of this place"
+  },
+  {
+    "_id": 19,
+    "ru": "Он действительно рад этому",
+    "en": "He's really happy about it"
+  },
+  {
+    "_id": 20,
+    "ru": "Ей действительно стыдно за это",
+    "en": "She is really ashamed of it"
+  },
+  {
+    "_id": 21,
+    "ru": "Тебе нужно быть более осторожным с этим",
+    "en": "You need to be more careful with it"
+  },
+  {
+    "_id": 22,
+    "ru": "Они действительно были вдохновлены его словами",
+    "en": "They were really inspired by his words"
+  },
+  {
+    "_id": 23,
+    "ru": "Это очень вредно для детей",
+    "en": "It's very harmful to children"
+  },
+  {
+    "_id": 24,
+    "ru": "Эти две вещи тесно связаны друг с другом",
+    "en": "These two things are closely connected with each other"
+  },
+  {
+    "_id": 25,
+    "ru": "Он очень занят этой работой",
+    "en": "He is very busy with this work"
+  },
+  {
+    "_id": 26,
+    "ru": "Он очень увлечен этой идеей",
+    "en": "He is very enthusiastic about this idea"
+  },
+  {
+    "_id": 27,
+    "ru": "Я был поражен результатами",
+    "en": "I was amazed by the results"
+  },
+  {
+    "_id": 28,
+    "ru": "Что с этим не так?",
+    "en": "What's wrong with it?"
+  },
+  {
+    "_id": 29,
+    "ru": "Что-то не так с двигателем",
+    "en": "Something is wrong with the engine"
+  },
+  {
+    "_id": 30,
+    "ru": "Он очень успешен в бизнесе",
+    "en": "He is very successful in business"
+  },
+  {
+    "_id": 31,
+    "ru": "Город всегда переполнен туристами",
+    "en": "The city is always crowded with tourists"
+  },
+  {
+    "_id": 32,
+    "ru": "Я полностью удовлетворен этими результатами",
+    "en": "I'm fully satisfied with these results"
+  },
+  {
+    "_id": 33,
+    "ru": "Наш босс очень дружелюбен со своими сотрудниками",
+    "en": "Our boss is very friendly with his employees"
+  },
+  {
+    "_id": 34,
+    "ru": "Я знаю об этих изменениях",
+    "en": "I'm aware of these changes"
+  },
+  {
+    "_id": 35,
+    "ru": "Эта книга подходит для начинающих",
+    "en": "This book is suitable for beginners"
+  },
+  {
+    "_id": 36,
+    "ru": "Кто ответственный за все это?",
+    "en": "Who is responsible for all this?"
+  },
+  {
+    "_id": 37,
+    "ru": "Я был действительно вдохновлен этой речью",
+    "en": "I was really inspired by this speech"
+  },
+  {
+    "_id": 38,
+    "ru": "Эта программа не подходит для детей",
+    "en": "This program isn't suitable for children"
+  },
+  {
+    "_id": 39,
+    "ru": "Это место переполнено туристами",
+    "en": "This place is crowded with tourists"
+  },
+  {
+    "_id": 40,
+    "ru": "Он очень жесток с этим беднягой",
+    "en": "He is very cruel to this poor man"
+  },
+  {
+    "_id": 41,
+    "ru": "Что-то не так с лифтом",
+    "en": "Something is wrong with the elevator"
+  },
+  {
+    "_id": 42,
+    "ru": "Я был поражен моими результатами",
+    "en": "I was amazed by my results"
+  },
+  {
+    "_id": 43,
+    "ru": "Он боится неизвестности",
+    "en": "He's scared of the unknown"
+  },
+  {
+    "_id": 44,
+    "ru": "Он женат на ней пять лет",
+    "en": "He has been married to her for five years"
+  },
+  {
+    "_id": 45,
+    "ru": "Он недоволен результатами теста",
+    "en": "He is dissatisfied with the results of the test"
+  },
+  {
+    "_id": 46,
+    "ru": "Она замужем за ним более тридцати лет",
+    "en": "She has been married to him for over thirty years"
+  },
+  {
+    "_id": 47,
+    "ru": "Я недоволен качеством этого сервиса",
+    "en": "I'm dissatisfied with the quality of this service"
+  },
+  {
+    "_id": 48,
+    "ru": "Она очень подозрительна к нему",
+    "en": "She is very suspicious of him"
+  },
+  {
+    "_id": 49,
+    "ru": "Это близко к этому месту",
+    "en": "It is close to this place"
+  },
+  {
+    "_id": 50,
+    "ru": "Чем ты обожаешь заниматься?",
+    "en": "What are you fond of doing?"
+  },
+  {
+    "_id": 51,
+    "ru": "Он очень вежлив с ней",
+    "en": "He is very polite to her"
+  },
+  {
+    "_id": 52,
+    "ru": "В чем ты заинтересован?",
+    "en": "What are you interested in?"
+  },
+  {
+    "_id": 53,
+    "ru": "Она очень подозрительно относится к другим людям",
+    "en": "She is very suspicious of other people"
+  },
+  {
+    "_id": 54,
+    "ru": "Я думаю, что-то с ним не так",
+    "en": "I think something is wrong with him"
+  },
+  {
+    "_id": 55,
+    "ru": "Я думаю, что-то не так с этой вещью",
+    "en": "I think something is wrong with this thing"
+  },
+  {
+    "_id": 56,
+    "ru": "С ней что-то не так?",
+    "en": "Is something wrong with her?"
+  },
+  {
+    "_id": 57,
+    "ru": "Она живет близко к нему",
+    "en": "She lives close to him"
+  },
+  {
+    "_id": 58,
+    "ru": "Она живет ближе к тому парку",
+    "en": "She lives closer to that park"
+  },
+  {
+    "_id": 59,
+    "ru": "Они живут близко ко мне",
+    "en": "They live close to me"
+  },
+  {
+    "_id": 60,
+    "ru": "Чем ты обеспокоен?",
+    "en": "What are you worried about?"
+  },
+  {
+    "_id": 61,
+    "ru": "Я не беспокоюсь о своих результатах",
+    "en": "I don't worry about my results"
+  },
+  {
+    "_id": 62,
+    "ru": "Ты обеспокоен результатом этого теста?",
+    "en": "Are you worried about the result of this test?"
+  },
+  {
+    "_id": 63,
+    "ru": "Чем ты увлекаешься?",
+    "en": "What are you keen on?"
+  },
+  {
+    "_id": 64,
+    "ru": "Я увлекаюсь чтением на английском",
+    "en": "I'm keen on reading in English"
+  },
+  {
+    "_id": 65,
+    "ru": "Ты увлекаешься музыкой?",
+    "en": "Are you keen on music?"
+  },
+  {
+    "_id": 66,
+    "ru": "Он ничего не боится",
+    "en": "He isn't scared of anything"
+  },
+  {
+    "_id": 67,
+    "ru": "Я боюсь темноты",
+    "en": "I'm scared of darkness"
+  },
+  {
+    "_id": 68,
+    "ru": "Она боится неизвестности",
+    "en": "She is scared of the unknown"
+  },
+  {
+    "_id": 69,
+    "ru": "Чего ты боишься?",
+    "en": "What are you afraid of?"
+  },
+  {
+    "_id": 70,
+    "ru": "Я действительно боюсь пауков",
+    "en": "I'm really afraid of spiders"
+  },
+  {
+    "_id": 71,
+    "ru": "Ты боишься пауков?",
+    "en": "Are you afraid of spiders?"
+  },
+  {
+    "_id": 72,
+    "ru": "За что ей стыдно?",
+    "en": "What is she ashamed of?"
+  },
+  {
+    "_id": 73,
+    "ru": "Ей стыдно за свое поведение",
+    "en": "She is ashamed of her behaviour"
+  },
+  {
+    "_id": 74,
+    "ru": "Ей стыдно за это?",
+    "en": "Is she ashamed of it?"
+  },
+  {
+    "_id": 75,
+    "ru": "За кем она замужем?",
+    "en": "Who is she married to?"
+  },
+  {
+    "_id": 76,
+    "ru": "Она замужем за моим братом",
+    "en": "She is married to my brother"
+  },
+  {
+    "_id": 77,
+    "ru": "На ком он женат?",
+    "en": "Who is he married to?"
+  },
+  {
+    "_id": 78,
+    "ru": "Чего он боялся?",
+    "en": "What was he frightened of?"
+  },
+  {
+    "_id": 79,
+    "ru": "Чего он боится?",
+    "en": "What is he frightened of?"
+  },
+  {
+    "_id": 80,
+    "ru": "Он боялся этого?",
+    "en": "Was he frightened of it?"
+  },
+  {
+    "_id": 81,
+    "ru": "На что она злится?",
+    "en": "What is she angry with?"
+  },
+  {
+    "_id": 82,
+    "ru": "Она злится на меня?",
+    "en": "Is she angry with me?"
+  },
+  {
+    "_id": 83,
+    "ru": "Я больше не злюсь на тебя",
+    "en": "I'm not angry with you anymore"
+  },
+  {
+    "_id": 84,
+    "ru": "Тебе нужно быть более вежливы с ним",
+    "en": "You need to be more polite to him"
+  },
+  {
+    "_id": 85,
+    "ru": "Она действительно боится неизвестности",
+    "en": "She's really scared of the unknown"
+  },
+  {
+    "_id": 86,
+    "ru": "Я был полностью удовлетворен результатами того теста",
+    "en": "I was fully satisfied with the results of that test"
+  },
+  {
+    "_id": 87,
+    "ru": "Это очень эгоистично с его стороны вести себя так",
+    "en": "It's very selfish of him to behave so"
+  },
+  {
+    "_id": 88,
+    "ru": "Он очень подозрителен к другим",
+    "en": "He is very suspicious of others"
+  },
+  {
+    "_id": 89,
+    "ru": "Не принимай это близко к сердцу!",
+    "en": "Don't take it to your heart!"
+  },
+  {
+    "_id": 90,
+    "ru": "Я вижу, ты в восторге от этого проекта",
+    "en": "I see you are very enthusiastic about this project"
+  },
+  {
+    "_id": 91,
+    "ru": "Я не удовлетворен качеством этих продуктов",
+    "en": "I'm not satisfied with the quality of these products"
+  },
+  {
+    "_id": 92,
+    "ru": "Тебе следует быть более вежливым со своими коллегами",
+    "en": "You should be more polite to your colleagues"
+  },
+  {
+    "_id": 93,
+    "ru": "На ком он женат?",
+    "en": "Who is he married to?"
+  },
+  {
+    "_id": 94,
+    "ru": "Что с этим не так?",
+    "en": "What's wrong with it?"
+  },
+  {
+    "_id": 95,
+    "ru": "Чем они удивлены?",
+    "en": "What are they surprised by?"
+  },
+  {
+    "_id": 96,
+    "ru": "Из-за чего он злится?",
+    "en": "What is he angry about?"
+  },
+  {
+    "_id": 97,
+    "ru": "Что ты любишь?",
+    "en": "What are you fond of?"
+  }
 ]

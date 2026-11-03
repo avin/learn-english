@@ -1,82 +1,102 @@
 [
-  [
-    "Это лучший сценарий",
-    "It's the best scenario"
-  ],
-  [
-    "Это худший сценарий",
-    "It's the worst scenario"
-  ],
-  [
-    "Эта вещь гораздо важнее",
-    "This thing is much more important"
-  ],
-  [
-    "Он собирается найти более хорошо оплачиваемую работу",
-    "He's going to find a more well-paid job"
-  ],
-  [
-    "Это намного дешевле",
-    "It's much cheaper"
-  ],
-  [
-    "Это гораздо лучше",
-    "It's much better"
-  ],
-  [
-    "Это более формальный ответ",
-    "It's a more formal answer"
-  ],
-  [
-    "Это место намного красивее",
-    "This place is much more beautiful"
-  ],
-  [
-    "Это дешевле",
-    "It's cheaper"
-  ],
-  [
-    "Это дороже",
-    "It's more expensive"
-  ],
-  [
-    "Этот дом больше",
-    "This house is bigger"
-  ],
-  [
-    "Это более важная вещь",
-    "It's a more important thing"
-  ],
-  [
-    "Это более надежный источник дохода",
-    "It's a more reliable source of income"
-  ],
-  [
-    "Эта цена намного ниже",
-    "This price is much lower"
-  ],
-  [
-    "Этот путь намного дольше",
-    "This way is much longer"
-  ],
-  [
-    "Это гораздо более красивое место",
-    "It's a much more beautiful place"
-  ],
-  [
-    "Это намного дороже",
-    "It's much more expensive"
-  ],
-  [
-    "Тот дом меньше",
-    "That house is smaller"
-  ],
-  [
-    "Этот источник дохода более надежный",
-    "This source of income is more reliable"
-  ],
-  [
-    "Ситуация может быть хуже",
-    "The situation can be worse"
-  ]
+  {
+    "_id": 1,
+    "ru": "Это лучший сценарий",
+    "en": "It's the best scenario"
+  },
+  {
+    "_id": 2,
+    "ru": "Это худший сценарий",
+    "en": "It's the worst scenario"
+  },
+  {
+    "_id": 3,
+    "ru": "Эта вещь гораздо важнее",
+    "en": "This thing is much more important"
+  },
+  {
+    "_id": 4,
+    "ru": "Он собирается найти более хорошо оплачиваемую работу",
+    "en": "He's going to find a more well-paid job"
+  },
+  {
+    "_id": 5,
+    "ru": "Это намного дешевле",
+    "en": "It's much cheaper"
+  },
+  {
+    "_id": 6,
+    "ru": "Это гораздо лучше",
+    "en": "It's much better"
+  },
+  {
+    "_id": 7,
+    "ru": "Это более формальный ответ",
+    "en": "It's a more formal answer"
+  },
+  {
+    "_id": 8,
+    "ru": "Это место намного красивее",
+    "en": "This place is much more beautiful"
+  },
+  {
+    "_id": 9,
+    "ru": "Это дешевле",
+    "en": "It's cheaper"
+  },
+  {
+    "_id": 10,
+    "ru": "Это дороже",
+    "en": "It's more expensive"
+  },
+  {
+    "_id": 11,
+    "ru": "Этот дом больше",
+    "en": "This house is bigger"
+  },
+  {
+    "_id": 12,
+    "ru": "Это более важная вещь",
+    "en": "It's a more important thing"
+  },
+  {
+    "_id": 13,
+    "ru": "Это более надежный источник дохода",
+    "en": "It's a more reliable source of income"
+  },
+  {
+    "_id": 14,
+    "ru": "Эта цена намного ниже",
+    "en": "This price is much lower"
+  },
+  {
+    "_id": 15,
+    "ru": "Этот путь намного дольше",
+    "en": "This way is much longer"
+  },
+  {
+    "_id": 16,
+    "ru": "Это гораздо более красивое место",
+    "en": "It's a much more beautiful place"
+  },
+  {
+    "_id": 17,
+    "ru": "Это намного дороже",
+    "en": "It's much more expensive"
+  },
+  {
+    "_id": 18,
+    "ru": "Тот дом меньше",
+    "en": "That house is smaller"
+  },
+  {
+    "_id": 19,
+    "ru": "Этот источник дохода более надежный",
+    "en": "This source of income is more reliable"
+  },
+  {
+    "_id": 20,
+    "ru": "Ситуация может быть хуже",
+    "en": "The situation can be worse"
+  }
 ]

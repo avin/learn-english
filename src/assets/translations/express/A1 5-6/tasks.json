@@ -1,202 +1,252 @@
 [
-  [
-    "Я думаю, что счастье значит больше, чем деньги",
-    "I think that happiness matters more than money"
-  ],
-  [
-    "Любовь — это прекрасное чувство",
-    "Love is a wonderful feeling"
-  ],
-  [
-    "Я часто слышу, что время – деньги",
-    "I often hear that time is money"
-  ],
-  [
-    "Погода чудесная сейчас",
-    "The weather is wonderful now"
-  ],
-  [
-    "Видео очень смешное",
-    "The video is very funny"
-  ],
-  [
-    "Уровень очень низкий",
-    "The level is very low"
-  ],
-  [
-    "Это очень низкий уровень",
-    "It's a very low level"
-  ],
-  [
-    "Уровень очень высокий",
-    "The level is very high"
-  ],
-  [
-    "Деньги важны",
-    "Money is important"
-  ],
-  [
-    "Этот курс такой интенсивный",
-    "This course is so intensive"
-  ],
-  [
-    "Время — деньги",
-    "Time is money"
-  ],
-  [
-    "Еда очень дорогая в наше время",
-    "Food is very expensive nowadays"
-  ],
-  [
-    "Дети дома",
-    "The children are at home"
-  ],
-  [
-    "У меня отличный результат",
-    "I have an excellent result"
-  ],
-  [
-    "Банк закрыт",
-    "The bank is closed"
-  ],
-  [
-    "Эти билеты очень дешевые",
-    "These tickets are very cheap"
-  ],
-  [
-    "Я вижу, что у меня отличные результаты",
-    "I see that I have excellent results"
-  ],
-  [
-    "Еда такая вкусная",
-    "The food is so tasty"
-  ],
-  [
-    "Это низкий уровень",
-    "It's a low level"
-  ],
-  [
-    "Этот билет очень дорогой",
-    "This ticket is very expensive"
-  ],
-  [
-    "Книга очень скучная",
-    "The book is very boring"
-  ],
-  [
-    "Мне кажется, что это блестящая идея",
-    "It's seems to me that it's a brilliant idea"
-  ],
-  [
-    "Это очень интенсивный курс",
-    "It's a very intensive course"
-  ],
-  [
-    "Эта еда очень вкусная",
-    "This food is very tasty"
-  ],
-  [
-    "Результат очень хороший",
-    "The result is very good"
-  ],
-  [
-    "Этот банк открыт",
-    "This bank is open"
-  ],
-  [
-    "Это отличный результат",
-    "It's an excellent result"
-  ],
-  [
-    "Это интенсивный курс",
-    "It's an intensive course"
-  ],
-  [
-    "Билеты слишком дорогие",
-    "The tickets are too expensive"
-  ],
-  [
-    "Это здание очень высокое",
-    "This building is very high"
-  ],
-  [
-    "Этот результат очень хороший",
-    "This result is very good"
-  ],
-  [
-    "Этот магазин закрыт",
-    "That shop is closed"
-  ],
-  [
-    "Видео такое смешное",
-    "The video is so funny"
-  ],
-  [
-    "Люди часто говорят, что время — деньги",
-    "People often say that time is money"
-  ],
-  [
-    "Эта книга действительно скучная",
-    "This book is really boring"
-  ],
-  [
-    "Я знаю, что еда очень дорогая в наше время",
-    "I know that food is expensive nowadays"
-  ],
-  [
-    "Погода хорошая",
-    "The weather is fine"
-  ],
-  [
-    "Здание очень высокое",
-    "The building is very high"
-  ],
-  [
-    "Машина новая",
-    "The car is new"
-  ],
-  [
-    "Это старый дом",
-    "It's an old house"
-  ],
-  [
-    "Еда очень вкусная",
-    "The food is very tasty"
-  ],
-  [
-    "Это новая машина",
-    "It's a new car"
-  ],
-  [
-    "Я согласен, что деньги важны",
-    "I agree that money is important"
-  ],
-  [
-    "Это очень высокий уровень",
-    "It's a very high level"
-  ],
-  [
-    "Билеты очень дешевые",
-    "The tickets are very cheap"
-  ],
-  [
-    "Это высокий уровень",
-    "It's a high level"
-  ],
-  [
-    "Магазин открыт",
-    "The shop is open"
-  ],
-  [
-    "Эта машина старая",
-    "This car is old"
-  ],
-  [
-    "Я думаю, что это блестящая идея",
-    "I think that it's a brilliant idea"
-  ],
-  [
-    "Счастье — это важнее, чем деньги",
-    "Happiness is more important than money"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я думаю, что счастье значит больше, чем деньги",
+    "en": "I think that happiness matters more than money"
+  },
+  {
+    "_id": 2,
+    "ru": "Любовь — это прекрасное чувство",
+    "en": "Love is a wonderful feeling"
+  },
+  {
+    "_id": 3,
+    "ru": "Я часто слышу, что время – деньги",
+    "en": "I often hear that time is money"
+  },
+  {
+    "_id": 4,
+    "ru": "Погода чудесная сейчас",
+    "en": "The weather is wonderful now"
+  },
+  {
+    "_id": 5,
+    "ru": "Видео очень смешное",
+    "en": "The video is very funny"
+  },
+  {
+    "_id": 6,
+    "ru": "Уровень очень низкий",
+    "en": "The level is very low"
+  },
+  {
+    "_id": 7,
+    "ru": "Это очень низкий уровень",
+    "en": "It's a very low level"
+  },
+  {
+    "_id": 8,
+    "ru": "Уровень очень высокий",
+    "en": "The level is very high"
+  },
+  {
+    "_id": 9,
+    "ru": "Деньги важны",
+    "en": "Money is important"
+  },
+  {
+    "_id": 10,
+    "ru": "Этот курс такой интенсивный",
+    "en": "This course is so intensive"
+  },
+  {
+    "_id": 11,
+    "ru": "Время — деньги",
+    "en": "Time is money"
+  },
+  {
+    "_id": 12,
+    "ru": "Еда очень дорогая в наше время",
+    "en": "Food is very expensive nowadays"
+  },
+  {
+    "_id": 13,
+    "ru": "Дети дома",
+    "en": "The children are at home"
+  },
+  {
+    "_id": 14,
+    "ru": "У меня отличный результат",
+    "en": "I have an excellent result"
+  },
+  {
+    "_id": 15,
+    "ru": "Банк закрыт",
+    "en": "The bank is closed"
+  },
+  {
+    "_id": 16,
+    "ru": "Эти билеты очень дешевые",
+    "en": "These tickets are very cheap"
+  },
+  {
+    "_id": 17,
+    "ru": "Я вижу, что у меня отличные результаты",
+    "en": "I see that I have excellent results"
+  },
+  {
+    "_id": 18,
+    "ru": "Еда такая вкусная",
+    "en": "The food is so tasty"
+  },
+  {
+    "_id": 19,
+    "ru": "Это низкий уровень",
+    "en": "It's a low level"
+  },
+  {
+    "_id": 20,
+    "ru": "Этот билет очень дорогой",
+    "en": "This ticket is very expensive"
+  },
+  {
+    "_id": 21,
+    "ru": "Книга очень скучная",
+    "en": "The book is very boring"
+  },
+  {
+    "_id": 22,
+    "ru": "Мне кажется, что это блестящая идея",
+    "en": "It's seems to me that it's a brilliant idea"
+  },
+  {
+    "_id": 23,
+    "ru": "Это очень интенсивный курс",
+    "en": "It's a very intensive course"
+  },
+  {
+    "_id": 24,
+    "ru": "Эта еда очень вкусная",
+    "en": "This food is very tasty"
+  },
+  {
+    "_id": 25,
+    "ru": "Результат очень хороший",
+    "en": "The result is very good"
+  },
+  {
+    "_id": 26,
+    "ru": "Этот банк открыт",
+    "en": "This bank is open"
+  },
+  {
+    "_id": 27,
+    "ru": "Это отличный результат",
+    "en": "It's an excellent result"
+  },
+  {
+    "_id": 28,
+    "ru": "Это интенсивный курс",
+    "en": "It's an intensive course"
+  },
+  {
+    "_id": 29,
+    "ru": "Билеты слишком дорогие",
+    "en": "The tickets are too expensive"
+  },
+  {
+    "_id": 30,
+    "ru": "Это здание очень высокое",
+    "en": "This building is very high"
+  },
+  {
+    "_id": 31,
+    "ru": "Этот результат очень хороший",
+    "en": "This result is very good"
+  },
+  {
+    "_id": 32,
+    "ru": "Этот магазин закрыт",
+    "en": "That shop is closed"
+  },
+  {
+    "_id": 33,
+    "ru": "Видео такое смешное",
+    "en": "The video is so funny"
+  },
+  {
+    "_id": 34,
+    "ru": "Люди часто говорят, что время — деньги",
+    "en": "People often say that time is money"
+  },
+  {
+    "_id": 35,
+    "ru": "Эта книга действительно скучная",
+    "en": "This book is really boring"
+  },
+  {
+    "_id": 36,
+    "ru": "Я знаю, что еда очень дорогая в наше время",
+    "en": "I know that food is expensive nowadays"
+  },
+  {
+    "_id": 37,
+    "ru": "Погода хорошая",
+    "en": "The weather is fine"
+  },
+  {
+    "_id": 38,
+    "ru": "Здание очень высокое",
+    "en": "The building is very high"
+  },
+  {
+    "_id": 39,
+    "ru": "Машина новая",
+    "en": "The car is new"
+  },
+  {
+    "_id": 40,
+    "ru": "Это старый дом",
+    "en": "It's an old house"
+  },
+  {
+    "_id": 41,
+    "ru": "Еда очень вкусная",
+    "en": "The food is very tasty"
+  },
+  {
+    "_id": 42,
+    "ru": "Это новая машина",
+    "en": "It's a new car"
+  },
+  {
+    "_id": 43,
+    "ru": "Я согласен, что деньги важны",
+    "en": "I agree that money is important"
+  },
+  {
+    "_id": 44,
+    "ru": "Это очень высокий уровень",
+    "en": "It's a very high level"
+  },
+  {
+    "_id": 45,
+    "ru": "Билеты очень дешевые",
+    "en": "The tickets are very cheap"
+  },
+  {
+    "_id": 46,
+    "ru": "Это высокий уровень",
+    "en": "It's a high level"
+  },
+  {
+    "_id": 47,
+    "ru": "Магазин открыт",
+    "en": "The shop is open"
+  },
+  {
+    "_id": 48,
+    "ru": "Эта машина старая",
+    "en": "This car is old"
+  },
+  {
+    "_id": 49,
+    "ru": "Я думаю, что это блестящая идея",
+    "en": "I think that it's a brilliant idea"
+  },
+  {
+    "_id": 50,
+    "ru": "Счастье — это важнее, чем деньги",
+    "en": "Happiness is more important than money"
+  }
 ]

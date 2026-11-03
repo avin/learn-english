@@ -1,178 +1,222 @@
 [
-  [
-    "Что ты увидел там?",
-    "What did you see there?"
-  ],
-  [
-    "Какие ошибки он сделал?",
-    "What mistakes did he make?"
-  ],
-  [
-    "Когда ты видел его в последний раз?",
-    "When did you see him last time?"
-  ],
-  [
-    "Что ты делал вчера?",
-    "What did you do yesterday?"
-  ],
-  [
-    "Где ты нашел эту информацию?",
-    "Where did you find this information?"
-  ],
-  [
-    "Когда она пришла на встречу?",
-    "When did she come to the meeting?"
-  ],
-  [
-    "Как ты сделал это?",
-    "How did you do it?"
-  ],
-  [
-    "Какую еду ты купил?",
-    "What food did you buy?"
-  ],
-  [
-    "Какие ошибки ты сделал?",
-    "What mistakes did you make?"
-  ],
-  [
-    "Что ты ел на обед?",
-    "What did you eat for lunch?"
-  ],
-  [
-    "Когда он пришел на ту вечеринку?",
-    "When did he come to that party?"
-  ],
-  [
-    "Которую модель ты заказал?",
-    "Which model did you order?"
-  ],
-  [
-    "Где ты жил?",
-    "Where did you live?"
-  ],
-  [
-    "Когда они пришли?",
-    "When did they come?"
-  ],
-  [
-    "Как это помогло тебе?",
-    "How did it help you?"
-  ],
-  [
-    "Сколько ты заплатил за это?",
-    "How much did you pay for it?"
-  ],
-  [
-    "Что ты ел на завтрак?",
-    "What did you eat for breakfast?"
-  ],
-  [
-    "Куда ты ездил прошлой зимой?",
-    "Where did you go last winter?"
-  ],
-  [
-    "Где ты купил это?",
-    "Where did you buy it?"
-  ],
-  [
-    "Когда ты пришел на вечеринку?",
-    "When did you come to the party?"
-  ],
-  [
-    "Как ты решил эту проблему?",
-    "How did you solve this problem?"
-  ],
-  [
-    "Что ты делал позавчера?",
-    "What did you do the day before yesterday?"
-  ],
-  [
-    "Когда ты это понял?",
-    "When did you understand it?"
-  ],
-  [
-    "Какие результаты у тебя были?",
-    "What results did you have?"
-  ],
-  [
-    "Что он сказал тебе?",
-    "What did he tell you?"
-  ],
-  [
-    "Что ты ел на ужин?",
-    "What did you eat for dinner?"
-  ],
-  [
-    "Зачем ты сделал это?",
-    "Why did you do it?"
-  ],
-  [
-    "Где вы встречались в прошлый раз?",
-    "Where did you meet last time?"
-  ],
-  [
-    "Как ты говорил по-английски?",
-    "How did you speak English?"
-  ],
-  [
-    "Какие результаты у него были?",
-    "What results did he have?"
-  ],
-  [
-    "Как ты отмечал этот праздник?",
-    "How did you celebrate this holiday?"
-  ],
-  [
-    "Когда вы прибыли в аэропорт?",
-    "When did you arrive at the airport?"
-  ],
-  [
-    "Как ты узнал об этом?",
-    "How did you know about it?"
-  ],
-  [
-    "Когда ты пришел домой?",
-    "When did you come home?"
-  ],
-  [
-    "Какие билеты ты купил?",
-    "What tickets did you buy?"
-  ],
-  [
-    "Когда он пришел на эту встречу?",
-    "When did he come to this meeting?"
-  ],
-  [
-    "Во сколько ты пришел домой?",
-    "What time did you come home?"
-  ],
-  [
-    "Что она сказала?",
-    "What did she say?"
-  ],
-  [
-    "Сколько это стоило?",
-    "How much did it cost?"
-  ],
-  [
-    "Куда ты ездил прошлым летом?",
-    "Where did you go last summer?"
-  ],
-  [
-    "Как вы встретились?",
-    "How did you meet?"
-  ],
-  [
-    "Какие места вы посетили?",
-    "What places did you visit?"
-  ],
-  [
-    "Как часто ты ходил туда?",
-    "How often did you go there?"
-  ],
-  [
-    "Которое платье ты выбрал?",
-    "Which dress did you choose?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Что ты увидел там?",
+    "en": "What did you see there?"
+  },
+  {
+    "_id": 2,
+    "ru": "Какие ошибки он сделал?",
+    "en": "What mistakes did he make?"
+  },
+  {
+    "_id": 3,
+    "ru": "Когда ты видел его в последний раз?",
+    "en": "When did you see him last time?"
+  },
+  {
+    "_id": 4,
+    "ru": "Что ты делал вчера?",
+    "en": "What did you do yesterday?"
+  },
+  {
+    "_id": 5,
+    "ru": "Где ты нашел эту информацию?",
+    "en": "Where did you find this information?"
+  },
+  {
+    "_id": 6,
+    "ru": "Когда она пришла на встречу?",
+    "en": "When did she come to the meeting?"
+  },
+  {
+    "_id": 7,
+    "ru": "Как ты сделал это?",
+    "en": "How did you do it?"
+  },
+  {
+    "_id": 8,
+    "ru": "Какую еду ты купил?",
+    "en": "What food did you buy?"
+  },
+  {
+    "_id": 9,
+    "ru": "Какие ошибки ты сделал?",
+    "en": "What mistakes did you make?"
+  },
+  {
+    "_id": 10,
+    "ru": "Что ты ел на обед?",
+    "en": "What did you eat for lunch?"
+  },
+  {
+    "_id": 11,
+    "ru": "Когда он пришел на ту вечеринку?",
+    "en": "When did he come to that party?"
+  },
+  {
+    "_id": 12,
+    "ru": "Которую модель ты заказал?",
+    "en": "Which model did you order?"
+  },
+  {
+    "_id": 13,
+    "ru": "Где ты жил?",
+    "en": "Where did you live?"
+  },
+  {
+    "_id": 14,
+    "ru": "Когда они пришли?",
+    "en": "When did they come?"
+  },
+  {
+    "_id": 15,
+    "ru": "Как это помогло тебе?",
+    "en": "How did it help you?"
+  },
+  {
+    "_id": 16,
+    "ru": "Сколько ты заплатил за это?",
+    "en": "How much did you pay for it?"
+  },
+  {
+    "_id": 17,
+    "ru": "Что ты ел на завтрак?",
+    "en": "What did you eat for breakfast?"
+  },
+  {
+    "_id": 18,
+    "ru": "Куда ты ездил прошлой зимой?",
+    "en": "Where did you go last winter?"
+  },
+  {
+    "_id": 19,
+    "ru": "Где ты купил это?",
+    "en": "Where did you buy it?"
+  },
+  {
+    "_id": 20,
+    "ru": "Когда ты пришел на вечеринку?",
+    "en": "When did you come to the party?"
+  },
+  {
+    "_id": 21,
+    "ru": "Как ты решил эту проблему?",
+    "en": "How did you solve this problem?"
+  },
+  {
+    "_id": 22,
+    "ru": "Что ты делал позавчера?",
+    "en": "What did you do the day before yesterday?"
+  },
+  {
+    "_id": 23,
+    "ru": "Когда ты это понял?",
+    "en": "When did you understand it?"
+  },
+  {
+    "_id": 24,
+    "ru": "Какие результаты у тебя были?",
+    "en": "What results did you have?"
+  },
+  {
+    "_id": 25,
+    "ru": "Что он сказал тебе?",
+    "en": "What did he tell you?"
+  },
+  {
+    "_id": 26,
+    "ru": "Что ты ел на ужин?",
+    "en": "What did you eat for dinner?"
+  },
+  {
+    "_id": 27,
+    "ru": "Зачем ты сделал это?",
+    "en": "Why did you do it?"
+  },
+  {
+    "_id": 28,
+    "ru": "Где вы встречались в прошлый раз?",
+    "en": "Where did you meet last time?"
+  },
+  {
+    "_id": 29,
+    "ru": "Как ты говорил по-английски?",
+    "en": "How did you speak English?"
+  },
+  {
+    "_id": 30,
+    "ru": "Какие результаты у него были?",
+    "en": "What results did he have?"
+  },
+  {
+    "_id": 31,
+    "ru": "Как ты отмечал этот праздник?",
+    "en": "How did you celebrate this holiday?"
+  },
+  {
+    "_id": 32,
+    "ru": "Когда вы прибыли в аэропорт?",
+    "en": "When did you arrive at the airport?"
+  },
+  {
+    "_id": 33,
+    "ru": "Как ты узнал об этом?",
+    "en": "How did you know about it?"
+  },
+  {
+    "_id": 34,
+    "ru": "Когда ты пришел домой?",
+    "en": "When did you come home?"
+  },
+  {
+    "_id": 35,
+    "ru": "Какие билеты ты купил?",
+    "en": "What tickets did you buy?"
+  },
+  {
+    "_id": 36,
+    "ru": "Когда он пришел на эту встречу?",
+    "en": "When did he come to this meeting?"
+  },
+  {
+    "_id": 37,
+    "ru": "Во сколько ты пришел домой?",
+    "en": "What time did you come home?"
+  },
+  {
+    "_id": 38,
+    "ru": "Что она сказала?",
+    "en": "What did she say?"
+  },
+  {
+    "_id": 39,
+    "ru": "Сколько это стоило?",
+    "en": "How much did it cost?"
+  },
+  {
+    "_id": 40,
+    "ru": "Куда ты ездил прошлым летом?",
+    "en": "Where did you go last summer?"
+  },
+  {
+    "_id": 41,
+    "ru": "Как вы встретились?",
+    "en": "How did you meet?"
+  },
+  {
+    "_id": 42,
+    "ru": "Какие места вы посетили?",
+    "en": "What places did you visit?"
+  },
+  {
+    "_id": 43,
+    "ru": "Как часто ты ходил туда?",
+    "en": "How often did you go there?"
+  },
+  {
+    "_id": 44,
+    "ru": "Которое платье ты выбрал?",
+    "en": "Which dress did you choose?"
+  }
 ]

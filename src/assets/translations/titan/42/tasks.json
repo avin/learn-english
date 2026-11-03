@@ -1,362 +1,452 @@
 [
-  [
-    "Она была замужем?",
-    "Was she married?"
-  ],
-  [
-    "Ты был готов?",
-    "Were you ready?"
-  ],
-  [
-    "Это было нормально для тебя?",
-    "Was it normal for you?"
-  ],
-  [
-    "Он был прав?",
-    "Was he right?"
-  ],
-  [
-    "Это было действительно дорого?",
-    "Was it really expensive?"
-  ],
-  [
-    "Это было вчера?",
-    "Was it yesterday?"
-  ],
-  [
-    "Он был действительно уверен?",
-    "Was he really sure?"
-  ],
-  [
-    "Это было очень далеко?",
-    "Was it very far?"
-  ],
-  [
-    "Это было странно?",
-    "Was it strange?"
-  ],
-  [
-    "Это было действительно важно?",
-    "Was it really important?"
-  ],
-  [
-    "Это было в прошлом веке?",
-    "Was it last century?"
-  ],
-  [
-    "Ты был готов?",
-    "Were you ready?"
-  ],
-  [
-    "Это было очень популярно?",
-    "Was it very popular?"
-  ],
-  [
-    "Он был холост?",
-    "Was he single?"
-  ],
-  [
-    "Это была игра?",
-    "Was it a game?"
-  ],
-  [
-    "Ты был уверен?",
-    "Were you sure?"
-  ],
-  [
-    "Это было на прошлой неделе?",
-    "Was it last week?"
-  ],
-  [
-    "Он был твоим лучшим другом?",
-    "Was he your best friend?"
-  ],
-  [
-    "Ты был действительно счастлив?",
-    "Were you really happy?"
-  ],
-  [
-    "Они были в школе?",
-    "Were they at school?"
-  ],
-  [
-    "Ты был в университете?",
-    "Were you at university?"
-  ],
-  [
-    "Она была замужем?",
-    "Was she married?"
-  ],
-  [
-    "Это было действительно возможно?",
-    "Was it really possible?"
-  ],
-  [
-    "Ты был очень занят в пятницу?",
-    "Were you very busy on Friday?"
-  ],
-  [
-    "Это было дорого?",
-    "Was it expensive?"
-  ],
-  [
-    "Они были очень хорошими учителями?",
-    "Were they very good teachers?"
-  ],
-  [
-    "Это было интересно?",
-    "Was it interesting?"
-  ],
-  [
-    "Ты был оптимистичен?",
-    "Were you optimistic?"
-  ],
-  [
-    "Он был действительно зол?",
-    "Was he really angry?"
-  ],
-  [
-    "Это было два века назад?",
-    "Was it two centuries ago?"
-  ],
-  [
-    "Она была пессимистична?",
-    "Was she pessimistic?"
-  ],
-  [
-    "Это было очень забавно?",
-    "Was it very funny?"
-  ],
-  [
-    "Они были очень бедные?",
-    "Were they very poor?"
-  ],
-  [
-    "Я был прав?",
-    "Was I right?"
-  ],
-  [
-    "Это было действительно так?",
-    "Was it really so?"
-  ],
-  [
-    "Он был слишком пессимистичен?",
-    "Was he too pessimistic?"
-  ],
-  [
-    "Это действительно было так сложно?",
-    "Was it really so difficult?"
-  ],
-  [
-    "Она болела на прошлой неделе?",
-    "Was she ill last week?"
-  ],
-  [
-    "Это была здоровая еда?",
-    "Was it healthy food?"
-  ],
-  [
-    "Это был неправильный ответ?",
-    "Was it the wrong answer?"
-  ],
-  [
-    "Ты был рад этому?",
-    "Were you happy about it?"
-  ],
-  [
-    "Он был в отпуске в прошлом месяце?",
-    "Was he on holiday last month?"
-  ],
-  [
-    "Он был в аэропорту?",
-    "Was he at the airport?"
-  ],
-  [
-    "Ты действительно был уставший?",
-    "Were you really tired?"
-  ],
-  [
-    "Это было хорошо или плохо?",
-    "Was it good or bad?"
-  ],
-  [
-    "Ты был в музее?",
-    "Were you in the museum?"
-  ],
-  [
-    "Это было действительно так ужасно?",
-    "Was it really so terrible?"
-  ],
-  [
-    "Это было дорого или нет?",
-    "Was it expensive or not?"
-  ],
-  [
-    "Они были очень профессиональны?",
-    "Were they very professional?"
-  ],
-  [
-    "Она действительно боялась этого?",
-    "Was she really afraid of it?"
-  ],
-  [
-    "Это был правильный ответ?",
-    "Was it the correct answer?"
-  ],
-  [
-    "Они часто бывали в том месте?",
-    "Were they often in that place?"
-  ],
-  [
-    "Он был в ванной?",
-    "Was he in the bathroom?"
-  ],
-  [
-    "Ты был в гостиной?",
-    "Were you in the living room?"
-  ],
-  [
-    "Ты был на кухне?",
-    "Were you in the kitchen?"
-  ],
-  [
-    "Он был в комнате?",
-    "Was he in the room?"
-  ],
-  [
-    "Они были в своей комнате?",
-    "Were they in their room?"
-  ],
-  [
-    "Она была на кухне?",
-    "Was she in the kitchen?"
-  ],
-  [
-    "Он боялся?",
-    "Was he afraid?"
-  ],
-  [
-    "Она действительно боялась?",
-    "Was she really afraid?"
-  ],
-  [
-    "Они боялись?",
-    "Were they afraid?"
-  ],
-  [
-    "Он был в гостиной?",
-    "Was he in the living room?"
-  ],
-  [
-    "Ты был в театре?",
-    "Were you in the theatre?"
-  ],
-  [
-    "Ты был в зоопарке?",
-    "Were you in the zoo?"
-  ],
-  [
-    "Он был в своем саду?",
-    "Was he in his garden?"
-  ],
-  [
-    "Это была хорошая еда?",
-    "Was it good food?"
-  ],
-  [
-    "Они были хорошими друзьями?",
-    "Were they good friends?"
-  ],
-  [
-    "Ты был в отпуске на прошлой неделе?",
-    "Were you on holiday last week?"
-  ],
-  [
-    "Они были в отпуске в прошлом году?",
-    "Were they on holiday last year?"
-  ],
-  [
-    "Он был дома на прошлой неделе?",
-    "Was he at home last week?"
-  ],
-  [
-    "Это был правильный ответ?",
-    "Was it the right answer?"
-  ],
-  [
-    "Это был правильный вопрос?",
-    "Was it the right question?"
-  ],
-  [
-    "Они были хорошими работниками?",
-    "Were they good workers?"
-  ],
-  [
-    "Он был хорошим тренером?",
-    "Was he a good trainer?"
-  ],
-  [
-    "Мы были хорошими учителями?",
-    "Were we good teachers?"
-  ],
-  [
-    "Это было слишком легко для тебя?",
-    "Was it too easy for you?"
-  ],
-  [
-    "Она была в театре?",
-    "Was she in the theatre?"
-  ],
-  [
-    "Ты рад был своим результатом?",
-    "Were you happy about your result?"
-  ],
-  [
-    "Она была в отпуске?",
-    "Was she on holiday?"
-  ],
-  [
-    "Ты был уставшим?",
-    "Were you tired?"
-  ],
-  [
-    "Вы часто были вместе?",
-    "Were you often together?"
-  ],
-  [
-    "Это было дешево или нет?",
-    "Was it cheap or not?"
-  ],
-  [
-    "Она была в музее вчера?",
-    "Was she in the museum yesterday?"
-  ],
-  [
-    "Ты был в саду?",
-    "Were you in the garden?"
-  ],
-  [
-    "Это было рядом с этим местом?",
-    "Was it near this place?"
-  ],
-  [
-    "Ты был готов к этому?",
-    "Were you ready for it?"
-  ],
-  [
-    "Это было далеко отсюда?",
-    "Was it far from here?"
-  ],
-  [
-    "Ты был в аэропорту?",
-    "Were you at the airport?"
-  ],
-  [
-    "Это было эффективно или нет?",
-    "Was it effective or not?"
-  ],
-  [
-    "Ты был в ванной?",
-    "Were you in the bathroom?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Она была замужем?",
+    "en": "Was she married?"
+  },
+  {
+    "_id": 2,
+    "ru": "Ты был готов?",
+    "en": "Were you ready?"
+  },
+  {
+    "_id": 3,
+    "ru": "Это было нормально для тебя?",
+    "en": "Was it normal for you?"
+  },
+  {
+    "_id": 4,
+    "ru": "Он был прав?",
+    "en": "Was he right?"
+  },
+  {
+    "_id": 5,
+    "ru": "Это было действительно дорого?",
+    "en": "Was it really expensive?"
+  },
+  {
+    "_id": 6,
+    "ru": "Это было вчера?",
+    "en": "Was it yesterday?"
+  },
+  {
+    "_id": 7,
+    "ru": "Он был действительно уверен?",
+    "en": "Was he really sure?"
+  },
+  {
+    "_id": 8,
+    "ru": "Это было очень далеко?",
+    "en": "Was it very far?"
+  },
+  {
+    "_id": 9,
+    "ru": "Это было странно?",
+    "en": "Was it strange?"
+  },
+  {
+    "_id": 10,
+    "ru": "Это было действительно важно?",
+    "en": "Was it really important?"
+  },
+  {
+    "_id": 11,
+    "ru": "Это было в прошлом веке?",
+    "en": "Was it last century?"
+  },
+  {
+    "_id": 12,
+    "ru": "Ты был готов?",
+    "en": "Were you ready?"
+  },
+  {
+    "_id": 13,
+    "ru": "Это было очень популярно?",
+    "en": "Was it very popular?"
+  },
+  {
+    "_id": 14,
+    "ru": "Он был холост?",
+    "en": "Was he single?"
+  },
+  {
+    "_id": 15,
+    "ru": "Это была игра?",
+    "en": "Was it a game?"
+  },
+  {
+    "_id": 16,
+    "ru": "Ты был уверен?",
+    "en": "Were you sure?"
+  },
+  {
+    "_id": 17,
+    "ru": "Это было на прошлой неделе?",
+    "en": "Was it last week?"
+  },
+  {
+    "_id": 18,
+    "ru": "Он был твоим лучшим другом?",
+    "en": "Was he your best friend?"
+  },
+  {
+    "_id": 19,
+    "ru": "Ты был действительно счастлив?",
+    "en": "Were you really happy?"
+  },
+  {
+    "_id": 20,
+    "ru": "Они были в школе?",
+    "en": "Were they at school?"
+  },
+  {
+    "_id": 21,
+    "ru": "Ты был в университете?",
+    "en": "Were you at university?"
+  },
+  {
+    "_id": 22,
+    "ru": "Она была замужем?",
+    "en": "Was she married?"
+  },
+  {
+    "_id": 23,
+    "ru": "Это было действительно возможно?",
+    "en": "Was it really possible?"
+  },
+  {
+    "_id": 24,
+    "ru": "Ты был очень занят в пятницу?",
+    "en": "Were you very busy on Friday?"
+  },
+  {
+    "_id": 25,
+    "ru": "Это было дорого?",
+    "en": "Was it expensive?"
+  },
+  {
+    "_id": 26,
+    "ru": "Они были очень хорошими учителями?",
+    "en": "Were they very good teachers?"
+  },
+  {
+    "_id": 27,
+    "ru": "Это было интересно?",
+    "en": "Was it interesting?"
+  },
+  {
+    "_id": 28,
+    "ru": "Ты был оптимистичен?",
+    "en": "Were you optimistic?"
+  },
+  {
+    "_id": 29,
+    "ru": "Он был действительно зол?",
+    "en": "Was he really angry?"
+  },
+  {
+    "_id": 30,
+    "ru": "Это было два века назад?",
+    "en": "Was it two centuries ago?"
+  },
+  {
+    "_id": 31,
+    "ru": "Она была пессимистична?",
+    "en": "Was she pessimistic?"
+  },
+  {
+    "_id": 32,
+    "ru": "Это было очень забавно?",
+    "en": "Was it very funny?"
+  },
+  {
+    "_id": 33,
+    "ru": "Они были очень бедные?",
+    "en": "Were they very poor?"
+  },
+  {
+    "_id": 34,
+    "ru": "Я был прав?",
+    "en": "Was I right?"
+  },
+  {
+    "_id": 35,
+    "ru": "Это было действительно так?",
+    "en": "Was it really so?"
+  },
+  {
+    "_id": 36,
+    "ru": "Он был слишком пессимистичен?",
+    "en": "Was he too pessimistic?"
+  },
+  {
+    "_id": 37,
+    "ru": "Это действительно было так сложно?",
+    "en": "Was it really so difficult?"
+  },
+  {
+    "_id": 38,
+    "ru": "Она болела на прошлой неделе?",
+    "en": "Was she ill last week?"
+  },
+  {
+    "_id": 39,
+    "ru": "Это была здоровая еда?",
+    "en": "Was it healthy food?"
+  },
+  {
+    "_id": 40,
+    "ru": "Это был неправильный ответ?",
+    "en": "Was it the wrong answer?"
+  },
+  {
+    "_id": 41,
+    "ru": "Ты был рад этому?",
+    "en": "Were you happy about it?"
+  },
+  {
+    "_id": 42,
+    "ru": "Он был в отпуске в прошлом месяце?",
+    "en": "Was he on holiday last month?"
+  },
+  {
+    "_id": 43,
+    "ru": "Он был в аэропорту?",
+    "en": "Was he at the airport?"
+  },
+  {
+    "_id": 44,
+    "ru": "Ты действительно был уставший?",
+    "en": "Were you really tired?"
+  },
+  {
+    "_id": 45,
+    "ru": "Это было хорошо или плохо?",
+    "en": "Was it good or bad?"
+  },
+  {
+    "_id": 46,
+    "ru": "Ты был в музее?",
+    "en": "Were you in the museum?"
+  },
+  {
+    "_id": 47,
+    "ru": "Это было действительно так ужасно?",
+    "en": "Was it really so terrible?"
+  },
+  {
+    "_id": 48,
+    "ru": "Это было дорого или нет?",
+    "en": "Was it expensive or not?"
+  },
+  {
+    "_id": 49,
+    "ru": "Они были очень профессиональны?",
+    "en": "Were they very professional?"
+  },
+  {
+    "_id": 50,
+    "ru": "Она действительно боялась этого?",
+    "en": "Was she really afraid of it?"
+  },
+  {
+    "_id": 51,
+    "ru": "Это был правильный ответ?",
+    "en": "Was it the correct answer?"
+  },
+  {
+    "_id": 52,
+    "ru": "Они часто бывали в том месте?",
+    "en": "Were they often in that place?"
+  },
+  {
+    "_id": 53,
+    "ru": "Он был в ванной?",
+    "en": "Was he in the bathroom?"
+  },
+  {
+    "_id": 54,
+    "ru": "Ты был в гостиной?",
+    "en": "Were you in the living room?"
+  },
+  {
+    "_id": 55,
+    "ru": "Ты был на кухне?",
+    "en": "Were you in the kitchen?"
+  },
+  {
+    "_id": 56,
+    "ru": "Он был в комнате?",
+    "en": "Was he in the room?"
+  },
+  {
+    "_id": 57,
+    "ru": "Они были в своей комнате?",
+    "en": "Were they in their room?"
+  },
+  {
+    "_id": 58,
+    "ru": "Она была на кухне?",
+    "en": "Was she in the kitchen?"
+  },
+  {
+    "_id": 59,
+    "ru": "Он боялся?",
+    "en": "Was he afraid?"
+  },
+  {
+    "_id": 60,
+    "ru": "Она действительно боялась?",
+    "en": "Was she really afraid?"
+  },
+  {
+    "_id": 61,
+    "ru": "Они боялись?",
+    "en": "Were they afraid?"
+  },
+  {
+    "_id": 62,
+    "ru": "Он был в гостиной?",
+    "en": "Was he in the living room?"
+  },
+  {
+    "_id": 63,
+    "ru": "Ты был в театре?",
+    "en": "Were you in the theatre?"
+  },
+  {
+    "_id": 64,
+    "ru": "Ты был в зоопарке?",
+    "en": "Were you in the zoo?"
+  },
+  {
+    "_id": 65,
+    "ru": "Он был в своем саду?",
+    "en": "Was he in his garden?"
+  },
+  {
+    "_id": 66,
+    "ru": "Это была хорошая еда?",
+    "en": "Was it good food?"
+  },
+  {
+    "_id": 67,
+    "ru": "Они были хорошими друзьями?",
+    "en": "Were they good friends?"
+  },
+  {
+    "_id": 68,
+    "ru": "Ты был в отпуске на прошлой неделе?",
+    "en": "Were you on holiday last week?"
+  },
+  {
+    "_id": 69,
+    "ru": "Они были в отпуске в прошлом году?",
+    "en": "Were they on holiday last year?"
+  },
+  {
+    "_id": 70,
+    "ru": "Он был дома на прошлой неделе?",
+    "en": "Was he at home last week?"
+  },
+  {
+    "_id": 71,
+    "ru": "Это был правильный ответ?",
+    "en": "Was it the right answer?"
+  },
+  {
+    "_id": 72,
+    "ru": "Это был правильный вопрос?",
+    "en": "Was it the right question?"
+  },
+  {
+    "_id": 73,
+    "ru": "Они были хорошими работниками?",
+    "en": "Were they good workers?"
+  },
+  {
+    "_id": 74,
+    "ru": "Он был хорошим тренером?",
+    "en": "Was he a good trainer?"
+  },
+  {
+    "_id": 75,
+    "ru": "Мы были хорошими учителями?",
+    "en": "Were we good teachers?"
+  },
+  {
+    "_id": 76,
+    "ru": "Это было слишком легко для тебя?",
+    "en": "Was it too easy for you?"
+  },
+  {
+    "_id": 77,
+    "ru": "Она была в театре?",
+    "en": "Was she in the theatre?"
+  },
+  {
+    "_id": 78,
+    "ru": "Ты рад был своим результатом?",
+    "en": "Were you happy about your result?"
+  },
+  {
+    "_id": 79,
+    "ru": "Она была в отпуске?",
+    "en": "Was she on holiday?"
+  },
+  {
+    "_id": 80,
+    "ru": "Ты был уставшим?",
+    "en": "Were you tired?"
+  },
+  {
+    "_id": 81,
+    "ru": "Вы часто были вместе?",
+    "en": "Were you often together?"
+  },
+  {
+    "_id": 82,
+    "ru": "Это было дешево или нет?",
+    "en": "Was it cheap or not?"
+  },
+  {
+    "_id": 83,
+    "ru": "Она была в музее вчера?",
+    "en": "Was she in the museum yesterday?"
+  },
+  {
+    "_id": 84,
+    "ru": "Ты был в саду?",
+    "en": "Were you in the garden?"
+  },
+  {
+    "_id": 85,
+    "ru": "Это было рядом с этим местом?",
+    "en": "Was it near this place?"
+  },
+  {
+    "_id": 86,
+    "ru": "Ты был готов к этому?",
+    "en": "Were you ready for it?"
+  },
+  {
+    "_id": 87,
+    "ru": "Это было далеко отсюда?",
+    "en": "Was it far from here?"
+  },
+  {
+    "_id": 88,
+    "ru": "Ты был в аэропорту?",
+    "en": "Were you at the airport?"
+  },
+  {
+    "_id": 89,
+    "ru": "Это было эффективно или нет?",
+    "en": "Was it effective or not?"
+  },
+  {
+    "_id": 90,
+    "ru": "Ты был в ванной?",
+    "en": "Were you in the bathroom?"
+  }
 ]

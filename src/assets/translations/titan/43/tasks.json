@@ -1,370 +1,462 @@
 [
-  [
-    "Кто был твоим учителем?",
-    "Who was your teacher?"
-  ],
-  [
-    "Где ты был вчера?",
-    "Where were you yesterday?"
-  ],
-  [
-    "Кто был твоим учителем?",
-    "Who was your teacher?"
-  ],
-  [
-    "Почему это было так необычно?",
-    "Why was it so unusual?"
-  ],
-  [
-    "Как он был?",
-    "How was he?"
-  ],
-  [
-    "Кто был твоим тренером?",
-    "Who was your trainer?"
-  ],
-  [
-    "Где он был прошлой ночью?",
-    "Where was he last night?"
-  ],
-  [
-    "Почему ты был там?",
-    "Why were you there?"
-  ],
-  [
-    "Где это было?",
-    "Where was it?"
-  ],
-  [
-    "Кто был прав?",
-    "Who was right?"
-  ],
-  [
-    "Почему это было неправильно?",
-    "Why was it wrong?"
-  ],
-  [
-    "Где ты был вчера?",
-    "Where were you yesterday?"
-  ],
-  [
-    "Почему она была так расстроена?",
-    "Why was she so upset?"
-  ],
-  [
-    "Почему ты был таким уставшим?",
-    "Why were you so tired?"
-  ],
-  [
-    "Что было лучше?",
-    "What was better?"
-  ],
-  [
-    "Почему это было так скучно?",
-    "Why was it so boring?"
-  ],
-  [
-    "Когда ты был дома?",
-    "When were you at home?"
-  ],
-  [
-    "Сколько это стоило?",
-    "How much was it?"
-  ],
-  [
-    "Почему он был такой грустный?",
-    "Why was he so sad?"
-  ],
-  [
-    "Где ты был в прошлом году?",
-    "Where were you last year?"
-  ],
-  [
-    "Почему это было так дешево?",
-    "Why was it so cheap?"
-  ],
-  [
-    "Кто был с тобой?",
-    "Who was with you?"
-  ],
-  [
-    "Они были хорошими студентами?",
-    "Were they good students?"
-  ],
-  [
-    "Почему это было так важно?",
-    "Why was it so important?"
-  ],
-  [
-    "Где он был вчера утром?",
-    "Where was he yesterday morning?"
-  ],
-  [
-    "Как у нее были дела?",
-    "How was she?"
-  ],
-  [
-    "Почему это было неправильно?",
-    "Why was it incorrect?"
-  ],
-  [
-    "Кто был не прав?",
-    "Who was wrong?"
-  ],
-  [
-    "Что было так сложно для тебя?",
-    "What was so difficult for you?"
-  ],
-  [
-    "Как это было?",
-    "How was it?"
-  ],
-  [
-    "Что было так необычно для тебя?",
-    "What was so unusual for you?"
-  ],
-  [
-    "Когда ты был болен?",
-    "When were you ill?"
-  ],
-  [
-    "Почему это было так дорого?",
-    "Why was it so expensive?"
-  ],
-  [
-    "Кто был с твоим братом?",
-    "Who was with your brother?"
-  ],
-  [
-    "Почему ты был так счастлив?",
-    "Why were you so happy?"
-  ],
-  [
-    "Почему он был так зол?",
-    "Why was he so angry?"
-  ],
-  [
-    "Когда ты был там последний раз?",
-    "When were you there last time?"
-  ],
-  [
-    "Как долго это было?",
-    "How long was it?"
-  ],
-  [
-    "Сколько было времени?",
-    "What time was it?"
-  ],
-  [
-    "Как далеко это было?",
-    "How far was it?"
-  ],
-  [
-    "Какой ответ был правильным?",
-    "Which answer was correct?"
-  ],
-  [
-    "Что было в углу?",
-    "What was in the corner?"
-  ],
-  [
-    "Ты тоже был на вечеринке?",
-    "Were you also at the party?"
-  ],
-  [
-    "Сколько ей было лет?",
-    "How old was she?"
-  ],
-  [
-    "Когда она была во дворе?",
-    "When was she in the yard?"
-  ],
-  [
-    "Что было в классе?",
-    "What was in the classroom?"
-  ],
-  [
-    "Что было на письменном столе?",
-    "What was on the desk?"
-  ],
-  [
-    "Она тоже была в том месте?",
-    "Was she also in that place?"
-  ],
-  [
-    "Что было за коробкой?",
-    "What was behind the box?"
-  ],
-  [
-    "Что было в том углу?",
-    "What was in that corner?"
-  ],
-  [
-    "Сколько ему было лет?",
-    "How old was he?"
-  ],
-  [
-    "Кто был в классе?",
-    "Who was in the classroom?"
-  ],
-  [
-    "Как часто ты был там?",
-    "How often were you there?"
-  ],
-  [
-    "Он тоже там был?",
-    "Was he also there?"
-  ],
-  [
-    "Она тоже там была?",
-    "Was she also there?"
-  ],
-  [
-    "Он был там вчера?",
-    "Was he there yesterday?"
-  ],
-  [
-    "Когда ты был во дворе?",
-    "When were you in the yard?"
-  ],
-  [
-    "Когда ты был в саду?",
-    "When were you in the garden?"
-  ],
-  [
-    "Что было на столе?",
-    "What was on the table?"
-  ],
-  [
-    "Кто был на столе?",
-    "Who was on the table?"
-  ],
-  [
-    "Что было на стуле?",
-    "What was on the chair?"
-  ],
-  [
-    "Какая у него была работа?",
-    "What was his job?"
-  ],
-  [
-    "Какой была ее работа?",
-    "What was her job?"
-  ],
-  [
-    "Кто был его другом?",
-    "Who was his friend?"
-  ],
-  [
-    "Чья идея была лучше?",
-    "Whose idea was better?"
-  ],
-  [
-    "Чья идея лучшая?",
-    "Whose idea is the best?"
-  ],
-  [
-    "Кто был в парке?",
-    "Who was in the park?"
-  ],
-  [
-    "Кто был в доме?",
-    "Who was in the house?"
-  ],
-  [
-    "Что было на дереве?",
-    "What was in(on) the tree?"
-  ],
-  [
-    "Во сколько ты был там?",
-    "What time were you there?"
-  ],
-  [
-    "Во сколько ты был здесь?",
-    "What time were you here?"
-  ],
-  [
-    "Во сколько он был дома?",
-    "What time was he at home?"
-  ],
-  [
-    "Чья книга была интереснее?",
-    "Whose book was more interesting?"
-  ],
-  [
-    "Которая книга была там?",
-    "Which book was there?"
-  ],
-  [
-    "Какой был ее ответ?",
-    "What was her answer?"
-  ],
-  [
-    "Какой ответ был правильным?",
-    "Which answer was right?"
-  ],
-  [
-    "Какой вопрос был правильным?",
-    "Which question was correct?"
-  ],
-  [
-    "Какие ответы были неправильными?",
-    "Which answers were wrong?"
-  ],
-  [
-    "Сколько тебе было лет?",
-    "How old were you?"
-  ],
-  [
-    "Какой билет был дороже?",
-    "Which ticket was more expensive?"
-  ],
-  [
-    "Кто был во дворе?",
-    "Who was in the yard?"
-  ],
-  [
-    "Насколько это было трудно для тебя?",
-    "How difficult was it for you?"
-  ],
-  [
-    "Он был на вечеринке?",
-    "Was he at the party?"
-  ],
-  [
-    "Что было в коробке?",
-    "What was in the box?"
-  ],
-  [
-    "Насколько это было эффективно?",
-    "How effective was it?"
-  ],
-  [
-    "Кто был за тем деревом?",
-    "Who was behind that tree?"
-  ],
-  [
-    "Кто был в лесу?",
-    "Who was in the forest?"
-  ],
-  [
-    "Что было на полу?",
-    "What was on the floor?"
-  ],
-  [
-    "Кто был в саду?",
-    "Who was in the garden?"
-  ],
-  [
-    "Ты был также с ними?",
-    "Were you also with them?"
-  ],
-  [
-    "Что было за той коробкой?",
-    "What was behind that box?"
-  ],
-  [
-    "Насколько это было интересно?",
-    "How interesting was it?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Кто был твоим учителем?",
+    "en": "Who was your teacher?"
+  },
+  {
+    "_id": 2,
+    "ru": "Где ты был вчера?",
+    "en": "Where were you yesterday?"
+  },
+  {
+    "_id": 3,
+    "ru": "Кто был твоим учителем?",
+    "en": "Who was your teacher?"
+  },
+  {
+    "_id": 4,
+    "ru": "Почему это было так необычно?",
+    "en": "Why was it so unusual?"
+  },
+  {
+    "_id": 5,
+    "ru": "Как он был?",
+    "en": "How was he?"
+  },
+  {
+    "_id": 6,
+    "ru": "Кто был твоим тренером?",
+    "en": "Who was your trainer?"
+  },
+  {
+    "_id": 7,
+    "ru": "Где он был прошлой ночью?",
+    "en": "Where was he last night?"
+  },
+  {
+    "_id": 8,
+    "ru": "Почему ты был там?",
+    "en": "Why were you there?"
+  },
+  {
+    "_id": 9,
+    "ru": "Где это было?",
+    "en": "Where was it?"
+  },
+  {
+    "_id": 10,
+    "ru": "Кто был прав?",
+    "en": "Who was right?"
+  },
+  {
+    "_id": 11,
+    "ru": "Почему это было неправильно?",
+    "en": "Why was it wrong?"
+  },
+  {
+    "_id": 12,
+    "ru": "Где ты был вчера?",
+    "en": "Where were you yesterday?"
+  },
+  {
+    "_id": 13,
+    "ru": "Почему она была так расстроена?",
+    "en": "Why was she so upset?"
+  },
+  {
+    "_id": 14,
+    "ru": "Почему ты был таким уставшим?",
+    "en": "Why were you so tired?"
+  },
+  {
+    "_id": 15,
+    "ru": "Что было лучше?",
+    "en": "What was better?"
+  },
+  {
+    "_id": 16,
+    "ru": "Почему это было так скучно?",
+    "en": "Why was it so boring?"
+  },
+  {
+    "_id": 17,
+    "ru": "Когда ты был дома?",
+    "en": "When were you at home?"
+  },
+  {
+    "_id": 18,
+    "ru": "Сколько это стоило?",
+    "en": "How much was it?"
+  },
+  {
+    "_id": 19,
+    "ru": "Почему он был такой грустный?",
+    "en": "Why was he so sad?"
+  },
+  {
+    "_id": 20,
+    "ru": "Где ты был в прошлом году?",
+    "en": "Where were you last year?"
+  },
+  {
+    "_id": 21,
+    "ru": "Почему это было так дешево?",
+    "en": "Why was it so cheap?"
+  },
+  {
+    "_id": 22,
+    "ru": "Кто был с тобой?",
+    "en": "Who was with you?"
+  },
+  {
+    "_id": 23,
+    "ru": "Они были хорошими студентами?",
+    "en": "Were they good students?"
+  },
+  {
+    "_id": 24,
+    "ru": "Почему это было так важно?",
+    "en": "Why was it so important?"
+  },
+  {
+    "_id": 25,
+    "ru": "Где он был вчера утром?",
+    "en": "Where was he yesterday morning?"
+  },
+  {
+    "_id": 26,
+    "ru": "Как у нее были дела?",
+    "en": "How was she?"
+  },
+  {
+    "_id": 27,
+    "ru": "Почему это было неправильно?",
+    "en": "Why was it incorrect?"
+  },
+  {
+    "_id": 28,
+    "ru": "Кто был не прав?",
+    "en": "Who was wrong?"
+  },
+  {
+    "_id": 29,
+    "ru": "Что было так сложно для тебя?",
+    "en": "What was so difficult for you?"
+  },
+  {
+    "_id": 30,
+    "ru": "Как это было?",
+    "en": "How was it?"
+  },
+  {
+    "_id": 31,
+    "ru": "Что было так необычно для тебя?",
+    "en": "What was so unusual for you?"
+  },
+  {
+    "_id": 32,
+    "ru": "Когда ты был болен?",
+    "en": "When were you ill?"
+  },
+  {
+    "_id": 33,
+    "ru": "Почему это было так дорого?",
+    "en": "Why was it so expensive?"
+  },
+  {
+    "_id": 34,
+    "ru": "Кто был с твоим братом?",
+    "en": "Who was with your brother?"
+  },
+  {
+    "_id": 35,
+    "ru": "Почему ты был так счастлив?",
+    "en": "Why were you so happy?"
+  },
+  {
+    "_id": 36,
+    "ru": "Почему он был так зол?",
+    "en": "Why was he so angry?"
+  },
+  {
+    "_id": 37,
+    "ru": "Когда ты был там последний раз?",
+    "en": "When were you there last time?"
+  },
+  {
+    "_id": 38,
+    "ru": "Как долго это было?",
+    "en": "How long was it?"
+  },
+  {
+    "_id": 39,
+    "ru": "Сколько было времени?",
+    "en": "What time was it?"
+  },
+  {
+    "_id": 40,
+    "ru": "Как далеко это было?",
+    "en": "How far was it?"
+  },
+  {
+    "_id": 41,
+    "ru": "Какой ответ был правильным?",
+    "en": "Which answer was correct?"
+  },
+  {
+    "_id": 42,
+    "ru": "Что было в углу?",
+    "en": "What was in the corner?"
+  },
+  {
+    "_id": 43,
+    "ru": "Ты тоже был на вечеринке?",
+    "en": "Were you also at the party?"
+  },
+  {
+    "_id": 44,
+    "ru": "Сколько ей было лет?",
+    "en": "How old was she?"
+  },
+  {
+    "_id": 45,
+    "ru": "Когда она была во дворе?",
+    "en": "When was she in the yard?"
+  },
+  {
+    "_id": 46,
+    "ru": "Что было в классе?",
+    "en": "What was in the classroom?"
+  },
+  {
+    "_id": 47,
+    "ru": "Что было на письменном столе?",
+    "en": "What was on the desk?"
+  },
+  {
+    "_id": 48,
+    "ru": "Она тоже была в том месте?",
+    "en": "Was she also in that place?"
+  },
+  {
+    "_id": 49,
+    "ru": "Что было за коробкой?",
+    "en": "What was behind the box?"
+  },
+  {
+    "_id": 50,
+    "ru": "Что было в том углу?",
+    "en": "What was in that corner?"
+  },
+  {
+    "_id": 51,
+    "ru": "Сколько ему было лет?",
+    "en": "How old was he?"
+  },
+  {
+    "_id": 52,
+    "ru": "Кто был в классе?",
+    "en": "Who was in the classroom?"
+  },
+  {
+    "_id": 53,
+    "ru": "Как часто ты был там?",
+    "en": "How often were you there?"
+  },
+  {
+    "_id": 54,
+    "ru": "Он тоже там был?",
+    "en": "Was he also there?"
+  },
+  {
+    "_id": 55,
+    "ru": "Она тоже там была?",
+    "en": "Was she also there?"
+  },
+  {
+    "_id": 56,
+    "ru": "Он был там вчера?",
+    "en": "Was he there yesterday?"
+  },
+  {
+    "_id": 57,
+    "ru": "Когда ты был во дворе?",
+    "en": "When were you in the yard?"
+  },
+  {
+    "_id": 58,
+    "ru": "Когда ты был в саду?",
+    "en": "When were you in the garden?"
+  },
+  {
+    "_id": 59,
+    "ru": "Что было на столе?",
+    "en": "What was on the table?"
+  },
+  {
+    "_id": 60,
+    "ru": "Кто был на столе?",
+    "en": "Who was on the table?"
+  },
+  {
+    "_id": 61,
+    "ru": "Что было на стуле?",
+    "en": "What was on the chair?"
+  },
+  {
+    "_id": 62,
+    "ru": "Какая у него была работа?",
+    "en": "What was his job?"
+  },
+  {
+    "_id": 63,
+    "ru": "Какой была ее работа?",
+    "en": "What was her job?"
+  },
+  {
+    "_id": 64,
+    "ru": "Кто был его другом?",
+    "en": "Who was his friend?"
+  },
+  {
+    "_id": 65,
+    "ru": "Чья идея была лучше?",
+    "en": "Whose idea was better?"
+  },
+  {
+    "_id": 66,
+    "ru": "Чья идея лучшая?",
+    "en": "Whose idea is the best?"
+  },
+  {
+    "_id": 67,
+    "ru": "Кто был в парке?",
+    "en": "Who was in the park?"
+  },
+  {
+    "_id": 68,
+    "ru": "Кто был в доме?",
+    "en": "Who was in the house?"
+  },
+  {
+    "_id": 69,
+    "ru": "Что было на дереве?",
+    "en": "What was in(on) the tree?"
+  },
+  {
+    "_id": 70,
+    "ru": "Во сколько ты был там?",
+    "en": "What time were you there?"
+  },
+  {
+    "_id": 71,
+    "ru": "Во сколько ты был здесь?",
+    "en": "What time were you here?"
+  },
+  {
+    "_id": 72,
+    "ru": "Во сколько он был дома?",
+    "en": "What time was he at home?"
+  },
+  {
+    "_id": 73,
+    "ru": "Чья книга была интереснее?",
+    "en": "Whose book was more interesting?"
+  },
+  {
+    "_id": 74,
+    "ru": "Которая книга была там?",
+    "en": "Which book was there?"
+  },
+  {
+    "_id": 75,
+    "ru": "Какой был ее ответ?",
+    "en": "What was her answer?"
+  },
+  {
+    "_id": 76,
+    "ru": "Какой ответ был правильным?",
+    "en": "Which answer was right?"
+  },
+  {
+    "_id": 77,
+    "ru": "Какой вопрос был правильным?",
+    "en": "Which question was correct?"
+  },
+  {
+    "_id": 78,
+    "ru": "Какие ответы были неправильными?",
+    "en": "Which answers were wrong?"
+  },
+  {
+    "_id": 79,
+    "ru": "Сколько тебе было лет?",
+    "en": "How old were you?"
+  },
+  {
+    "_id": 80,
+    "ru": "Какой билет был дороже?",
+    "en": "Which ticket was more expensive?"
+  },
+  {
+    "_id": 81,
+    "ru": "Кто был во дворе?",
+    "en": "Who was in the yard?"
+  },
+  {
+    "_id": 82,
+    "ru": "Насколько это было трудно для тебя?",
+    "en": "How difficult was it for you?"
+  },
+  {
+    "_id": 83,
+    "ru": "Он был на вечеринке?",
+    "en": "Was he at the party?"
+  },
+  {
+    "_id": 84,
+    "ru": "Что было в коробке?",
+    "en": "What was in the box?"
+  },
+  {
+    "_id": 85,
+    "ru": "Насколько это было эффективно?",
+    "en": "How effective was it?"
+  },
+  {
+    "_id": 86,
+    "ru": "Кто был за тем деревом?",
+    "en": "Who was behind that tree?"
+  },
+  {
+    "_id": 87,
+    "ru": "Кто был в лесу?",
+    "en": "Who was in the forest?"
+  },
+  {
+    "_id": 88,
+    "ru": "Что было на полу?",
+    "en": "What was on the floor?"
+  },
+  {
+    "_id": 89,
+    "ru": "Кто был в саду?",
+    "en": "Who was in the garden?"
+  },
+  {
+    "_id": 90,
+    "ru": "Ты был также с ними?",
+    "en": "Were you also with them?"
+  },
+  {
+    "_id": 91,
+    "ru": "Что было за той коробкой?",
+    "en": "What was behind that box?"
+  },
+  {
+    "_id": 92,
+    "ru": "Насколько это было интересно?",
+    "en": "How interesting was it?"
+  }
 ]

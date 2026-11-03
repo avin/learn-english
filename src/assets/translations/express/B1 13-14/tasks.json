@@ -1,98 +1,122 @@
 [
-  [
-    "Все мы видим, что этот бизнес расширяется сейчас",
-    "We all see that this business is expanding now"
-  ],
-  [
-    "Когда я вошел в комнату, он кричал на кого-то",
-    "When I entered the room, he was shouting at someone"
-  ],
-  [
-    "Сколько денег было пожертвовано?",
-    "How much money was donated?"
-  ],
-  [
-    "Я только что перепутал эти слова",
-    "I've just confused these words"
-  ],
-  [
-    "Он сказал, что они строят этот дом два месяца",
-    "He said that they had been building this house for two months"
-  ],
-  [
-    "Сказали, что его застрелили",
-    "It was said that he had been shot"
-  ],
-  [
-    "Он сказал, что здание было разрушено в том году",
-    "He said that the building had been destroyed that year"
-  ],
-  [
-    "Что впечатлило тебя больше всего?",
-    "What impressed you most of all?"
-  ],
-  [
-    "Это преступление было предотвращено полицией",
-    "This crime was prevented by the police"
-  ],
-  [
-    "Подарок был обернут очень тщательно",
-    "The present was wrapped very carefully"
-  ],
-  [
-    "Меня только что поздравили",
-    "I have just been congratulated"
-  ],
-  [
-    "Он сказал, что провалил тест",
-    "He said that he had failed the test"
-  ],
-  [
-    "Такие проблемы часто игнорируются",
-    "Such problems are often ignored"
-  ],
-  [
-    "Они решили исследовать остров",
-    "They decided to explore the island"
-  ],
-  [
-    "Их арестовала полиция",
-    "They were arrested by the police"
-  ],
-  [
-    "Я пользуюсь этим приложением около года",
-    "I've been using this application for about a year"
-  ],
-  [
-    "Ему только что дали эти деньги",
-    "He has just been given this money"
-  ],
-  [
-    "Я просто хотел высказать свою точку зрения",
-    "I just wanted to express my point of view"
-  ],
-  [
-    "Очень глубокая яма была вырыта кем-то",
-    "A very deep hole was dug by someone"
-  ],
-  [
-    "Я родился в этом городе",
-    "I was born in this city"
-  ],
-  [
-    "Это лекарство было прописано моим врачом",
-    "This medicine was prescribed by my doctor"
-  ],
-  [
-    "Добро пожаловать на эту вечеринку!",
-    "Welcome to this party!"
-  ],
-  [
-    "Он сказал, что еще не зарегистрировался",
-    "He said that he hadn't registered yet"
-  ],
-  [
-    "Вам нужно перейти улицу вон там",
-    "You need to cross the street over there"
-  ]
+  {
+    "_id": 1,
+    "ru": "Все мы видим, что этот бизнес расширяется сейчас",
+    "en": "We all see that this business is expanding now"
+  },
+  {
+    "_id": 2,
+    "ru": "Когда я вошел в комнату, он кричал на кого-то",
+    "en": "When I entered the room, he was shouting at someone"
+  },
+  {
+    "_id": 3,
+    "ru": "Сколько денег было пожертвовано?",
+    "en": "How much money was donated?"
+  },
+  {
+    "_id": 4,
+    "ru": "Я только что перепутал эти слова",
+    "en": "I've just confused these words"
+  },
+  {
+    "_id": 5,
+    "ru": "Он сказал, что они строят этот дом два месяца",
+    "en": "He said that they had been building this house for two months"
+  },
+  {
+    "_id": 6,
+    "ru": "Сказали, что его застрелили",
+    "en": "It was said that he had been shot"
+  },
+  {
+    "_id": 7,
+    "ru": "Он сказал, что здание было разрушено в том году",
+    "en": "He said that the building had been destroyed that year"
+  },
+  {
+    "_id": 8,
+    "ru": "Что впечатлило тебя больше всего?",
+    "en": "What impressed you most of all?"
+  },
+  {
+    "_id": 9,
+    "ru": "Это преступление было предотвращено полицией",
+    "en": "This crime was prevented by the police"
+  },
+  {
+    "_id": 10,
+    "ru": "Подарок был обернут очень тщательно",
+    "en": "The present was wrapped very carefully"
+  },
+  {
+    "_id": 11,
+    "ru": "Меня только что поздравили",
+    "en": "I have just been congratulated"
+  },
+  {
+    "_id": 12,
+    "ru": "Он сказал, что провалил тест",
+    "en": "He said that he had failed the test"
+  },
+  {
+    "_id": 13,
+    "ru": "Такие проблемы часто игнорируются",
+    "en": "Such problems are often ignored"
+  },
+  {
+    "_id": 14,
+    "ru": "Они решили исследовать остров",
+    "en": "They decided to explore the island"
+  },
+  {
+    "_id": 15,
+    "ru": "Их арестовала полиция",
+    "en": "They were arrested by the police"
+  },
+  {
+    "_id": 16,
+    "ru": "Я пользуюсь этим приложением около года",
+    "en": "I've been using this application for about a year"
+  },
+  {
+    "_id": 17,
+    "ru": "Ему только что дали эти деньги",
+    "en": "He has just been given this money"
+  },
+  {
+    "_id": 18,
+    "ru": "Я просто хотел высказать свою точку зрения",
+    "en": "I just wanted to express my point of view"
+  },
+  {
+    "_id": 19,
+    "ru": "Очень глубокая яма была вырыта кем-то",
+    "en": "A very deep hole was dug by someone"
+  },
+  {
+    "_id": 20,
+    "ru": "Я родился в этом городе",
+    "en": "I was born in this city"
+  },
+  {
+    "_id": 21,
+    "ru": "Это лекарство было прописано моим врачом",
+    "en": "This medicine was prescribed by my doctor"
+  },
+  {
+    "_id": 22,
+    "ru": "Добро пожаловать на эту вечеринку!",
+    "en": "Welcome to this party!"
+  },
+  {
+    "_id": 23,
+    "ru": "Он сказал, что еще не зарегистрировался",
+    "en": "He said that he hadn't registered yet"
+  },
+  {
+    "_id": 24,
+    "ru": "Вам нужно перейти улицу вон там",
+    "en": "You need to cross the street over there"
+  }
 ]

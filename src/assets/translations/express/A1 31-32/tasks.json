@@ -1,162 +1,202 @@
 [
-  [
-    "Я вовсе не был удивлен",
-    "I wasn't surprised at all"
-  ],
-  [
-    "Они не жили вместе",
-    "They didn't live together"
-  ],
-  [
-    "Они не были гостеприимными",
-    "They weren't hospitable"
-  ],
-  [
-    "Они не были вместе",
-    "They weren't together"
-  ],
-  [
-    "Я не устал вчера",
-    "I wasn't tired yesterday"
-  ],
-  [
-    "Она не закрыла окно",
-    "She didn't close the window"
-  ],
-  [
-    "Это не казалось правильным решением",
-    "It didn't seem the right decision"
-  ],
-  [
-    "Это не привлекало мое внимание",
-    "It didn't attract my attention"
-  ],
-  [
-    "Это вовсе не было интересно мне",
-    "It wasn't interesting for me at all"
-  ],
-  [
-    "Это не было бесполезно",
-    "It wasn't useless"
-  ],
-  [
-    "Я не боялся этого",
-    "I wasn't afraid of it"
-  ],
-  [
-    "Я не чувствовал себя уставшим",
-    "I didn't feel tired"
-  ],
-  [
-    "Это было не лучшее решение",
-    "It wasn't the best decision"
-  ],
-  [
-    "Они не казались такими гостеприимными",
-    "They didn't seem so hospitable"
-  ],
-  [
-    "Детей не было дома",
-    "The children weren't at home"
-  ],
-  [
-    "Этих денег не было достаточно",
-    "This money wasn't enough"
-  ],
-  [
-    "Это вовсе не интересовало меня",
-    "It didn't interest me it all"
-  ],
-  [
-    "То предложение не выглядело действительно привлекательным",
-    "That offer didn't look really attractive"
-  ],
-  [
-    "Такие вещи не были привлекательными для меня",
-    "Such things weren't attractive for me"
-  ],
-  [
-    "Это не было так привлекательно для меня",
-    "It wasn't so attractive for me"
-  ],
-  [
-    "Это не казалось лучшим решением",
-    "It didn't seem the best decision"
-  ],
-  [
-    "Это был не лучший выбор в той ситуации",
-    "It wasn't the best choice in that situation"
-  ],
-  [
-    "Это не казалось бесполезным",
-    "It didn't seem useless"
-  ],
-  [
-    "Это не казалось лучшим выбором в той ситуации",
-    "It didn't seem the best choice in that situation"
-  ],
-  [
-    "Я вовсе не устал",
-    "I wasn't tired at all"
-  ],
-  [
-    "Это не было правильным решением",
-    "It wasn't the right decision"
-  ],
-  [
-    "Такие вещи не привлекали мое внимание",
-    "Such things didn't attract my attention"
-  ],
-  [
-    "Это предложение не было таким привлекательным для меня",
-    "This offer wasn't so attractive for me"
-  ],
-  [
-    "Дети не хотели оставаться дома",
-    "The children didn't want to stay at home"
-  ],
-  [
-    "Я не был согласен с ним",
-    "I didn't agree with him"
-  ],
-  [
-    "Их предложение не было действительно привлекательным",
-    "Their offer wasn't really attractive"
-  ],
-  [
-    "Магазин не был открыт",
-    "The shop wasn't open"
-  ],
-  [
-    "Он не открыл дверь",
-    "He didn't open the door"
-  ],
-  [
-    "Этот бизнес не был прибыльным",
-    "This business wasn't profitable"
-  ],
-  [
-    "Он не чувствовал себя счастливым",
-    "He didn't feel happy"
-  ],
-  [
-    "У него не было этой суммы денег",
-    "He didn't have this sum of money"
-  ],
-  [
-    "Тот бизнес не казался таким прибыльным",
-    "That business didn't seem so profitable"
-  ],
-  [
-    "Он не был счастлив",
-    "He wasn't happy"
-  ],
-  [
-    "Магазин не был закрыт",
-    "The shop wasn't closed"
-  ],
-  [
-    "Эти новости не удивили меня",
-    "This news didn't surprise me"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я вовсе не был удивлен",
+    "en": "I wasn't surprised at all"
+  },
+  {
+    "_id": 2,
+    "ru": "Они не жили вместе",
+    "en": "They didn't live together"
+  },
+  {
+    "_id": 3,
+    "ru": "Они не были гостеприимными",
+    "en": "They weren't hospitable"
+  },
+  {
+    "_id": 4,
+    "ru": "Они не были вместе",
+    "en": "They weren't together"
+  },
+  {
+    "_id": 5,
+    "ru": "Я не устал вчера",
+    "en": "I wasn't tired yesterday"
+  },
+  {
+    "_id": 6,
+    "ru": "Она не закрыла окно",
+    "en": "She didn't close the window"
+  },
+  {
+    "_id": 7,
+    "ru": "Это не казалось правильным решением",
+    "en": "It didn't seem the right decision"
+  },
+  {
+    "_id": 8,
+    "ru": "Это не привлекало мое внимание",
+    "en": "It didn't attract my attention"
+  },
+  {
+    "_id": 9,
+    "ru": "Это вовсе не было интересно мне",
+    "en": "It wasn't interesting for me at all"
+  },
+  {
+    "_id": 10,
+    "ru": "Это не было бесполезно",
+    "en": "It wasn't useless"
+  },
+  {
+    "_id": 11,
+    "ru": "Я не боялся этого",
+    "en": "I wasn't afraid of it"
+  },
+  {
+    "_id": 12,
+    "ru": "Я не чувствовал себя уставшим",
+    "en": "I didn't feel tired"
+  },
+  {
+    "_id": 13,
+    "ru": "Это было не лучшее решение",
+    "en": "It wasn't the best decision"
+  },
+  {
+    "_id": 14,
+    "ru": "Они не казались такими гостеприимными",
+    "en": "They didn't seem so hospitable"
+  },
+  {
+    "_id": 15,
+    "ru": "Детей не было дома",
+    "en": "The children weren't at home"
+  },
+  {
+    "_id": 16,
+    "ru": "Этих денег не было достаточно",
+    "en": "This money wasn't enough"
+  },
+  {
+    "_id": 17,
+    "ru": "Это вовсе не интересовало меня",
+    "en": "It didn't interest me it all"
+  },
+  {
+    "_id": 18,
+    "ru": "То предложение не выглядело действительно привлекательным",
+    "en": "That offer didn't look really attractive"
+  },
+  {
+    "_id": 19,
+    "ru": "Такие вещи не были привлекательными для меня",
+    "en": "Such things weren't attractive for me"
+  },
+  {
+    "_id": 20,
+    "ru": "Это не было так привлекательно для меня",
+    "en": "It wasn't so attractive for me"
+  },
+  {
+    "_id": 21,
+    "ru": "Это не казалось лучшим решением",
+    "en": "It didn't seem the best decision"
+  },
+  {
+    "_id": 22,
+    "ru": "Это был не лучший выбор в той ситуации",
+    "en": "It wasn't the best choice in that situation"
+  },
+  {
+    "_id": 23,
+    "ru": "Это не казалось бесполезным",
+    "en": "It didn't seem useless"
+  },
+  {
+    "_id": 24,
+    "ru": "Это не казалось лучшим выбором в той ситуации",
+    "en": "It didn't seem the best choice in that situation"
+  },
+  {
+    "_id": 25,
+    "ru": "Я вовсе не устал",
+    "en": "I wasn't tired at all"
+  },
+  {
+    "_id": 26,
+    "ru": "Это не было правильным решением",
+    "en": "It wasn't the right decision"
+  },
+  {
+    "_id": 27,
+    "ru": "Такие вещи не привлекали мое внимание",
+    "en": "Such things didn't attract my attention"
+  },
+  {
+    "_id": 28,
+    "ru": "Это предложение не было таким привлекательным для меня",
+    "en": "This offer wasn't so attractive for me"
+  },
+  {
+    "_id": 29,
+    "ru": "Дети не хотели оставаться дома",
+    "en": "The children didn't want to stay at home"
+  },
+  {
+    "_id": 30,
+    "ru": "Я не был согласен с ним",
+    "en": "I didn't agree with him"
+  },
+  {
+    "_id": 31,
+    "ru": "Их предложение не было действительно привлекательным",
+    "en": "Their offer wasn't really attractive"
+  },
+  {
+    "_id": 32,
+    "ru": "Магазин не был открыт",
+    "en": "The shop wasn't open"
+  },
+  {
+    "_id": 33,
+    "ru": "Он не открыл дверь",
+    "en": "He didn't open the door"
+  },
+  {
+    "_id": 34,
+    "ru": "Этот бизнес не был прибыльным",
+    "en": "This business wasn't profitable"
+  },
+  {
+    "_id": 35,
+    "ru": "Он не чувствовал себя счастливым",
+    "en": "He didn't feel happy"
+  },
+  {
+    "_id": 36,
+    "ru": "У него не было этой суммы денег",
+    "en": "He didn't have this sum of money"
+  },
+  {
+    "_id": 37,
+    "ru": "Тот бизнес не казался таким прибыльным",
+    "en": "That business didn't seem so profitable"
+  },
+  {
+    "_id": 38,
+    "ru": "Он не был счастлив",
+    "en": "He wasn't happy"
+  },
+  {
+    "_id": 39,
+    "ru": "Магазин не был закрыт",
+    "en": "The shop wasn't closed"
+  },
+  {
+    "_id": 40,
+    "ru": "Эти новости не удивили меня",
+    "en": "This news didn't surprise me"
+  }
 ]

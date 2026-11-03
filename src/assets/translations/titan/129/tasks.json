@@ -1,382 +1,477 @@
 [
-  [
-    "Он ответил на твое письмо?",
-    "Did he reply to your letter?"
-  ],
-  [
-    "Тебе нужно разделить это на три части",
-    "You need to divide it into three parts"
-  ],
-  [
-    "Они выпустили новый альбом на этой неделе",
-    "They have released a new album this week"
-  ],
-  [
-    "Это стало причиной его смерти",
-    "It caused his death"
-  ],
-  [
-    "Учитель разделил нас на четыре группы",
-    "The teacher divided us into four groups"
-  ],
-  [
-    "Он ненавидит вставать рано",
-    "He hates getting up early"
-  ],
-  [
-    "Я учу английский самостоятельно",
-    "I learn English on my own"
-  ],
-  [
-    "Во сколько ты встал позавчера?",
-    "What time did you get up the day before yesterday?"
-  ],
-  [
-    "Он обнял ее очень крепко",
-    "He hugged her very tightly"
-  ],
-  [
-    "Когда они поженились?",
-    "When did they get married?"
-  ],
-  [
-    "Я не шучу",
-    "I am not joking"
-  ],
-  [
-    "Это может привлечь новых клиентов",
-    "It can attract new customers"
-  ],
-  [
-    "Ты можешь угадать ее возраст?",
-    "Can you guess her age?"
-  ],
-  [
-    "Я протестировал свои знания",
-    "I tested my knowledge"
-  ],
-  [
-    "Как долго он изучает английский?",
-    "How long has he been learning English?"
-  ],
-  [
-    "Мальчик посчитал от одного до десяти",
-    "The boy counted from one to ten"
-  ],
-  [
-    "Это кажется невозможным сейчас",
-    "It seems impossible now"
-  ],
-  [
-    "Они обняли друг друга в конце",
-    "They hugged each other in the end"
-  ],
-  [
-    "Она решила выйти за него замуж",
-    "She decided to marry him"
-  ],
-  [
-    "Она хочет стать переводчиком",
-    "She wants to become a translator"
-  ],
-  [
-    "Сколько рыбы ты поймал?",
-    "How many fish did you catch?"
-  ],
-  [
-    "Он не угадал правильный ответ",
-    "He didn't guess the correct answer"
-  ],
-  [
-    "Он часто страдал от депрессии",
-    "He often suffered from depression"
-  ],
-  [
-    "Та вещь принадлежит тебе?",
-    "Does that thing belong to you?"
-  ],
-  [
-    "Они напечатали каталог",
-    "They printed the catalogue"
-  ],
-  [
-    "Вода скоро закипит",
-    "The water will boil soon"
-  ],
-  [
-    "Она страдает от этой болезни",
-    "She suffers from this disease"
-  ],
-  [
-    "Мне нужно повесить эту картину",
-    "I need to hang this picture"
-  ],
-  [
-    "Это может вызвать серьезные проблемы в будущем",
-    "It can cause serious problems in the future"
-  ],
-  [
-    "Они ударили его очень сильно",
-    "They hit him very hard"
-  ],
-  [
-    "Ты меня хорошо слышишь сейчас?",
-    "Do you hear me well now?"
-  ],
-  [
-    "Это становится все более и более дорогим",
-    "It is becoming more and more expensive"
-  ],
-  [
-    "Что принесло им больше денег?",
-    "What brought them more money?"
-  ],
-  [
-    "Ты всегда можете рассчитывать на нас",
-    "You can always count on us"
-  ],
-  [
-    "Что принадлежит тебе?",
-    "What belongs to you?"
-  ],
-  [
-    "Мне нужно распечатать этот документ",
-    "I need to print this document"
-  ],
-  [
-    "Я рассматриваю разные возможности",
-    "I am considering different possibilities"
-  ],
-  [
-    "Он был действительно шокирован",
-    "He was really shocked"
-  ],
-  [
-    "Он решил проверить свои знания",
-    "He decided to test his knowledge"
-  ],
-  [
-    "Ты шутишь?",
-    "Are you joking?"
-  ],
-  [
-    "Воры были пойманы и отправлены в тюрьму",
-    "The thieves were caught and sent to prison"
-  ],
-  [
-    "Он преподает английский более десяти лет",
-    "He has been teaching English for over ten years"
-  ],
-  [
-    "Вода кипит около двадцати минут",
-    "The water has been boiling for about twenty minutes"
-  ],
-  [
-    "Их новый альбом скоро будет выпущен",
-    "Their new album will be released soon"
-  ],
-  [
-    "Я еще не исправил эти ошибки",
-    "I haven't corrected these mistakes yet"
-  ],
-  [
-    "Слишком много времени тратится на это",
-    "Too much time is spent on it"
-  ],
-  [
-    "Она еще не ответила на мое сообщение",
-    "She hasn't replied to my message yet"
-  ],
-  [
-    "Я слышал это так много раз",
-    "I've heard it so many times"
-  ],
-  [
-    "Я не думаю, что это принесет ему настоящее счастье",
-    "I don't think that it will bring him real happiness"
-  ],
-  [
-    "Я поздравил его со сдачей теста",
-    "I congratulated him on passing the test"
-  ],
-  [
-    "Он не видел ее в последнее время",
-    "He hasn't seen her lately"
-  ],
-  [
-    "Слишком много денег было потрачено на это",
-    "Too much money was spent on it"
-  ],
-  [
-    "Слишком много денег тратится на это",
-    "Too much money is spent on it"
-  ],
-  [
-    "Сколько денег было потрачено на это?",
-    "How much money was spent on it?"
-  ],
-  [
-    "Было не так легко адаптироваться к тем условиям",
-    "It wasn't so easy to adapt to those conditions"
-  ],
-  [
-    "Было слишком легко адаптироваться к этим изменениям",
-    "It was too easy to adapt to these changes"
-  ],
-  [
-    "Не легко адаптироваться к этим условиям",
-    "It isn't easy to adapt to these conditions"
-  ],
-  [
-    "Кто-то стучит в дверь",
-    "Someone is knocking at the door"
-  ],
-  [
-    "Кто-то стучал в окно",
-    "Someone was knocking at the window"
-  ],
-  [
-    "Кто стучит в дверь сейчас?",
-    "Who is knocking at the door now?"
-  ],
-  [
-    "Дай это письмо ему",
-    "Give this letter to him!"
-  ],
-  [
-    "Я дам это письмо ему",
-    "I will give this letter to him"
-  ],
-  [
-    "Ты можешь дать эту вещь мне?",
-    "Can you give this thing to me?"
-  ],
-  [
-    "Он всегда хотел быть музыкантом",
-    "He has always wanted to be a musician"
-  ],
-  [
-    "Он никогда не хотел стать учителем",
-    "He has never wanted to become a teacher"
-  ],
-  [
-    "Ты когда-нибудь хотел стать музыкантом?",
-    "Have you ever wanted to be a musician?"
-  ],
-  [
-    "Я решил не выбрасывать это",
-    "I decided not to throw it away"
-  ],
-  [
-    "Я решил сделать это в любом случае",
-    "I decided to do it anyway"
-  ],
-  [
-    "Я решил больше не делать этого",
-    "I decided not to do it anymore"
-  ],
-  [
-    "Я думаю, эта новость шокирует его",
-    "I think this news will shock him"
-  ],
-  [
-    "Я боюсь, что эта новость шокирует его",
-    "I am afraid that this news will shock him"
-  ],
-  [
-    "Я думаю, эта новость напугает его",
-    "I think this news will frighten him"
-  ],
-  [
-    "Он предложил пойти в кино",
-    "He suggested going to the cinema"
-  ],
-  [
-    "Он предложил посмотреть фильм",
-    "He suggested watching a movie"
-  ],
-  [
-    "Он решил пойти в кино",
-    "He decided to go to the cinema"
-  ],
-  [
-    "Как долго ты преподаешь английский?",
-    "How long have you been teaching English?"
-  ],
-  [
-    "Как долго ты изучаешь английский там?",
-    "How long have you been learning English there?"
-  ],
-  [
-    "Я изучаю английский около двух лет",
-    "I have been learning English for about 2 years"
-  ],
-  [
-    "Кто стучит в дверь?",
-    "Who is knocking at the door?"
-  ],
-  [
-    "Я не знаю, кто стучал в дверь",
-    "I don't know who was knocking at the door"
-  ],
-  [
-    "Кто-то стучит с мою дверь",
-    "Someone is knocking at my door"
-  ],
-  [
-    "Я видел его недавно",
-    "I have seen him recently"
-  ],
-  [
-    "Он сказал нам, что он уже все решил",
-    "He told us that he had already decided everything"
-  ],
-  [
-    "Мне кажется, мы не можем это изменить",
-    "It seems to me we can't change it"
-  ],
-  [
-    "Она повесила плакат на стену",
-    "She hung the poster on the wall"
-  ],
-  [
-    "Ты можешь выбросить это, если тебе это не нужно",
-    "You can throw it away if you don't need it"
-  ],
-  [
-    "Я хотел бы поздравить тебя со сдачей экзамена",
-    "I would like to congratulate you on passing the exam"
-  ],
-  [
-    "Ему был дан еще один шанс",
-    "He was given one more chance"
-  ],
-  [
-    "Лестница ведет на крышу",
-    "The stairs lead to the roof"
-  ],
-  [
-    "Все ошибки были исправлены",
-    "All the mistakes were corrected"
-  ],
-  [
-    "Я предлагаю пойти в парк сейчас",
-    "I suggest going to the park now"
-  ],
-  [
-    "Я всегда считал это неважным",
-    "I have always considered it unimportant"
-  ],
-  [
-    "Я решу что делать позже",
-    "I will decide what to do later"
-  ],
-  [
-    "Она была сбита машиной",
-    "She was hit by a car"
-  ],
-  [
-    "Что обычно привлекает наше внимание?",
-    "What usually attracts our attention?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Он ответил на твое письмо?",
+    "en": "Did he reply to your letter?"
+  },
+  {
+    "_id": 2,
+    "ru": "Тебе нужно разделить это на три части",
+    "en": "You need to divide it into three parts"
+  },
+  {
+    "_id": 3,
+    "ru": "Они выпустили новый альбом на этой неделе",
+    "en": "They have released a new album this week"
+  },
+  {
+    "_id": 4,
+    "ru": "Это стало причиной его смерти",
+    "en": "It caused his death"
+  },
+  {
+    "_id": 5,
+    "ru": "Учитель разделил нас на четыре группы",
+    "en": "The teacher divided us into four groups"
+  },
+  {
+    "_id": 6,
+    "ru": "Он ненавидит вставать рано",
+    "en": "He hates getting up early"
+  },
+  {
+    "_id": 7,
+    "ru": "Я учу английский самостоятельно",
+    "en": "I learn English on my own"
+  },
+  {
+    "_id": 8,
+    "ru": "Во сколько ты встал позавчера?",
+    "en": "What time did you get up the day before yesterday?"
+  },
+  {
+    "_id": 9,
+    "ru": "Он обнял ее очень крепко",
+    "en": "He hugged her very tightly"
+  },
+  {
+    "_id": 10,
+    "ru": "Когда они поженились?",
+    "en": "When did they get married?"
+  },
+  {
+    "_id": 11,
+    "ru": "Я не шучу",
+    "en": "I am not joking"
+  },
+  {
+    "_id": 12,
+    "ru": "Это может привлечь новых клиентов",
+    "en": "It can attract new customers"
+  },
+  {
+    "_id": 13,
+    "ru": "Ты можешь угадать ее возраст?",
+    "en": "Can you guess her age?"
+  },
+  {
+    "_id": 14,
+    "ru": "Я протестировал свои знания",
+    "en": "I tested my knowledge"
+  },
+  {
+    "_id": 15,
+    "ru": "Как долго он изучает английский?",
+    "en": "How long has he been learning English?"
+  },
+  {
+    "_id": 16,
+    "ru": "Мальчик посчитал от одного до десяти",
+    "en": "The boy counted from one to ten"
+  },
+  {
+    "_id": 17,
+    "ru": "Это кажется невозможным сейчас",
+    "en": "It seems impossible now"
+  },
+  {
+    "_id": 18,
+    "ru": "Они обняли друг друга в конце",
+    "en": "They hugged each other in the end"
+  },
+  {
+    "_id": 19,
+    "ru": "Она решила выйти за него замуж",
+    "en": "She decided to marry him"
+  },
+  {
+    "_id": 20,
+    "ru": "Она хочет стать переводчиком",
+    "en": "She wants to become a translator"
+  },
+  {
+    "_id": 21,
+    "ru": "Сколько рыбы ты поймал?",
+    "en": "How many fish did you catch?"
+  },
+  {
+    "_id": 22,
+    "ru": "Он не угадал правильный ответ",
+    "en": "He didn't guess the correct answer"
+  },
+  {
+    "_id": 23,
+    "ru": "Он часто страдал от депрессии",
+    "en": "He often suffered from depression"
+  },
+  {
+    "_id": 24,
+    "ru": "Та вещь принадлежит тебе?",
+    "en": "Does that thing belong to you?"
+  },
+  {
+    "_id": 25,
+    "ru": "Они напечатали каталог",
+    "en": "They printed the catalogue"
+  },
+  {
+    "_id": 26,
+    "ru": "Вода скоро закипит",
+    "en": "The water will boil soon"
+  },
+  {
+    "_id": 27,
+    "ru": "Она страдает от этой болезни",
+    "en": "She suffers from this disease"
+  },
+  {
+    "_id": 28,
+    "ru": "Мне нужно повесить эту картину",
+    "en": "I need to hang this picture"
+  },
+  {
+    "_id": 29,
+    "ru": "Это может вызвать серьезные проблемы в будущем",
+    "en": "It can cause serious problems in the future"
+  },
+  {
+    "_id": 30,
+    "ru": "Они ударили его очень сильно",
+    "en": "They hit him very hard"
+  },
+  {
+    "_id": 31,
+    "ru": "Ты меня хорошо слышишь сейчас?",
+    "en": "Do you hear me well now?"
+  },
+  {
+    "_id": 32,
+    "ru": "Это становится все более и более дорогим",
+    "en": "It is becoming more and more expensive"
+  },
+  {
+    "_id": 33,
+    "ru": "Что принесло им больше денег?",
+    "en": "What brought them more money?"
+  },
+  {
+    "_id": 34,
+    "ru": "Ты всегда можете рассчитывать на нас",
+    "en": "You can always count on us"
+  },
+  {
+    "_id": 35,
+    "ru": "Что принадлежит тебе?",
+    "en": "What belongs to you?"
+  },
+  {
+    "_id": 36,
+    "ru": "Мне нужно распечатать этот документ",
+    "en": "I need to print this document"
+  },
+  {
+    "_id": 37,
+    "ru": "Я рассматриваю разные возможности",
+    "en": "I am considering different possibilities"
+  },
+  {
+    "_id": 38,
+    "ru": "Он был действительно шокирован",
+    "en": "He was really shocked"
+  },
+  {
+    "_id": 39,
+    "ru": "Он решил проверить свои знания",
+    "en": "He decided to test his knowledge"
+  },
+  {
+    "_id": 40,
+    "ru": "Ты шутишь?",
+    "en": "Are you joking?"
+  },
+  {
+    "_id": 41,
+    "ru": "Воры были пойманы и отправлены в тюрьму",
+    "en": "The thieves were caught and sent to prison"
+  },
+  {
+    "_id": 42,
+    "ru": "Он преподает английский более десяти лет",
+    "en": "He has been teaching English for over ten years"
+  },
+  {
+    "_id": 43,
+    "ru": "Вода кипит около двадцати минут",
+    "en": "The water has been boiling for about twenty minutes"
+  },
+  {
+    "_id": 44,
+    "ru": "Их новый альбом скоро будет выпущен",
+    "en": "Their new album will be released soon"
+  },
+  {
+    "_id": 45,
+    "ru": "Я еще не исправил эти ошибки",
+    "en": "I haven't corrected these mistakes yet"
+  },
+  {
+    "_id": 46,
+    "ru": "Слишком много времени тратится на это",
+    "en": "Too much time is spent on it"
+  },
+  {
+    "_id": 47,
+    "ru": "Она еще не ответила на мое сообщение",
+    "en": "She hasn't replied to my message yet"
+  },
+  {
+    "_id": 48,
+    "ru": "Я слышал это так много раз",
+    "en": "I've heard it so many times"
+  },
+  {
+    "_id": 49,
+    "ru": "Я не думаю, что это принесет ему настоящее счастье",
+    "en": "I don't think that it will bring him real happiness"
+  },
+  {
+    "_id": 50,
+    "ru": "Я поздравил его со сдачей теста",
+    "en": "I congratulated him on passing the test"
+  },
+  {
+    "_id": 51,
+    "ru": "Он не видел ее в последнее время",
+    "en": "He hasn't seen her lately"
+  },
+  {
+    "_id": 52,
+    "ru": "Слишком много денег было потрачено на это",
+    "en": "Too much money was spent on it"
+  },
+  {
+    "_id": 53,
+    "ru": "Слишком много денег тратится на это",
+    "en": "Too much money is spent on it"
+  },
+  {
+    "_id": 54,
+    "ru": "Сколько денег было потрачено на это?",
+    "en": "How much money was spent on it?"
+  },
+  {
+    "_id": 55,
+    "ru": "Было не так легко адаптироваться к тем условиям",
+    "en": "It wasn't so easy to adapt to those conditions"
+  },
+  {
+    "_id": 56,
+    "ru": "Было слишком легко адаптироваться к этим изменениям",
+    "en": "It was too easy to adapt to these changes"
+  },
+  {
+    "_id": 57,
+    "ru": "Не легко адаптироваться к этим условиям",
+    "en": "It isn't easy to adapt to these conditions"
+  },
+  {
+    "_id": 58,
+    "ru": "Кто-то стучит в дверь",
+    "en": "Someone is knocking at the door"
+  },
+  {
+    "_id": 59,
+    "ru": "Кто-то стучал в окно",
+    "en": "Someone was knocking at the window"
+  },
+  {
+    "_id": 60,
+    "ru": "Кто стучит в дверь сейчас?",
+    "en": "Who is knocking at the door now?"
+  },
+  {
+    "_id": 61,
+    "ru": "Дай это письмо ему",
+    "en": "Give this letter to him!"
+  },
+  {
+    "_id": 62,
+    "ru": "Я дам это письмо ему",
+    "en": "I will give this letter to him"
+  },
+  {
+    "_id": 63,
+    "ru": "Ты можешь дать эту вещь мне?",
+    "en": "Can you give this thing to me?"
+  },
+  {
+    "_id": 64,
+    "ru": "Он всегда хотел быть музыкантом",
+    "en": "He has always wanted to be a musician"
+  },
+  {
+    "_id": 65,
+    "ru": "Он никогда не хотел стать учителем",
+    "en": "He has never wanted to become a teacher"
+  },
+  {
+    "_id": 66,
+    "ru": "Ты когда-нибудь хотел стать музыкантом?",
+    "en": "Have you ever wanted to be a musician?"
+  },
+  {
+    "_id": 67,
+    "ru": "Я решил не выбрасывать это",
+    "en": "I decided not to throw it away"
+  },
+  {
+    "_id": 68,
+    "ru": "Я решил сделать это в любом случае",
+    "en": "I decided to do it anyway"
+  },
+  {
+    "_id": 69,
+    "ru": "Я решил больше не делать этого",
+    "en": "I decided not to do it anymore"
+  },
+  {
+    "_id": 70,
+    "ru": "Я думаю, эта новость шокирует его",
+    "en": "I think this news will shock him"
+  },
+  {
+    "_id": 71,
+    "ru": "Я боюсь, что эта новость шокирует его",
+    "en": "I am afraid that this news will shock him"
+  },
+  {
+    "_id": 72,
+    "ru": "Я думаю, эта новость напугает его",
+    "en": "I think this news will frighten him"
+  },
+  {
+    "_id": 73,
+    "ru": "Он предложил пойти в кино",
+    "en": "He suggested going to the cinema"
+  },
+  {
+    "_id": 74,
+    "ru": "Он предложил посмотреть фильм",
+    "en": "He suggested watching a movie"
+  },
+  {
+    "_id": 75,
+    "ru": "Он решил пойти в кино",
+    "en": "He decided to go to the cinema"
+  },
+  {
+    "_id": 76,
+    "ru": "Как долго ты преподаешь английский?",
+    "en": "How long have you been teaching English?"
+  },
+  {
+    "_id": 77,
+    "ru": "Как долго ты изучаешь английский там?",
+    "en": "How long have you been learning English there?"
+  },
+  {
+    "_id": 78,
+    "ru": "Я изучаю английский около двух лет",
+    "en": "I have been learning English for about 2 years"
+  },
+  {
+    "_id": 79,
+    "ru": "Кто стучит в дверь?",
+    "en": "Who is knocking at the door?"
+  },
+  {
+    "_id": 80,
+    "ru": "Я не знаю, кто стучал в дверь",
+    "en": "I don't know who was knocking at the door"
+  },
+  {
+    "_id": 81,
+    "ru": "Кто-то стучит с мою дверь",
+    "en": "Someone is knocking at my door"
+  },
+  {
+    "_id": 82,
+    "ru": "Я видел его недавно",
+    "en": "I have seen him recently"
+  },
+  {
+    "_id": 83,
+    "ru": "Он сказал нам, что он уже все решил",
+    "en": "He told us that he had already decided everything"
+  },
+  {
+    "_id": 84,
+    "ru": "Мне кажется, мы не можем это изменить",
+    "en": "It seems to me we can't change it"
+  },
+  {
+    "_id": 85,
+    "ru": "Она повесила плакат на стену",
+    "en": "She hung the poster on the wall"
+  },
+  {
+    "_id": 86,
+    "ru": "Ты можешь выбросить это, если тебе это не нужно",
+    "en": "You can throw it away if you don't need it"
+  },
+  {
+    "_id": 87,
+    "ru": "Я хотел бы поздравить тебя со сдачей экзамена",
+    "en": "I would like to congratulate you on passing the exam"
+  },
+  {
+    "_id": 88,
+    "ru": "Ему был дан еще один шанс",
+    "en": "He was given one more chance"
+  },
+  {
+    "_id": 89,
+    "ru": "Лестница ведет на крышу",
+    "en": "The stairs lead to the roof"
+  },
+  {
+    "_id": 90,
+    "ru": "Все ошибки были исправлены",
+    "en": "All the mistakes were corrected"
+  },
+  {
+    "_id": 91,
+    "ru": "Я предлагаю пойти в парк сейчас",
+    "en": "I suggest going to the park now"
+  },
+  {
+    "_id": 92,
+    "ru": "Я всегда считал это неважным",
+    "en": "I have always considered it unimportant"
+  },
+  {
+    "_id": 93,
+    "ru": "Я решу что делать позже",
+    "en": "I will decide what to do later"
+  },
+  {
+    "_id": 94,
+    "ru": "Она была сбита машиной",
+    "en": "She was hit by a car"
+  },
+  {
+    "_id": 95,
+    "ru": "Что обычно привлекает наше внимание?",
+    "en": "What usually attracts our attention?"
+  }
 ]

@@ -1,90 +1,112 @@
 [
-  [
-    "Корабль затонул неожиданно",
-    "The ship sank unexpectedly"
-  ],
-  [
-    "Он сказал, что присоединится к нам",
-    "He said that he would join us"
-  ],
-  [
-    "Давайте продолжим говорить об этом!",
-    "Let's continue talking about it!"
-  ],
-  [
-    "Я надеюсь, что все вернется к норме скоро",
-    "I hope that everything will get back to normal soon"
-  ],
-  [
-    "Я читаю эту книгу около двух недель",
-    "I've been reading this book for about two weeks"
-  ],
-  [
-    "Его имя не было включено в список",
-    "His name wasn't included in the list"
-  ],
-  [
-    "Ситуация могла бы быть хуже сейчас",
-    "The situation could be worse now"
-  ],
-  [
-    "Когда будет установлена эта программа?",
-    "When will this program be installed?"
-  ],
-  [
-    "Он кивнул одобрительно",
-    "He nodded approvingly"
-  ],
-  [
-    "Он только что переплыл реку",
-    "He's just swum across the river"
-  ],
-  [
-    "Я только что присел",
-    "I've just sat down"
-  ],
-  [
-    "Этот файл был прикреплен к письму",
-    "This file was attached to the letter"
-  ],
-  [
-    "Офис расположен в этом районе",
-    "The office is located in this area"
-  ],
-  [
-    "Кто выиграл в конце концов?",
-    "Who won in the end?"
-  ],
-  [
-    "Я не смог связаться с ним по телефону",
-    "I wasn't able to contact him by phone"
-  ],
-  [
-    "Я еще не адаптировался к этим условиям",
-    "I haven't adapted to these conditions yet"
-  ],
-  [
-    "Было сказано, что он нарушил закон",
-    "It was said that he had broken the law"
-  ],
-  [
-    "Как я вижу, так много вещей объединяет нас",
-    "As I see, so many things unite us"
-  ],
-  [
-    "Его попросили убрать комнату",
-    "He was asked to clean the room"
-  ],
-  [
-    "Сколько денег было вложено в этот проект?",
-    "How much money was invested in this project?"
-  ],
-  [
-    "Войска были атакованы противником",
-    "The troops were attacked by the enemy"
-  ],
-  [
-    "От чего он страдает?",
-    "What does he suffer from?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Корабль затонул неожиданно",
+    "en": "The ship sank unexpectedly"
+  },
+  {
+    "_id": 2,
+    "ru": "Он сказал, что присоединится к нам",
+    "en": "He said that he would join us"
+  },
+  {
+    "_id": 3,
+    "ru": "Давайте продолжим говорить об этом!",
+    "en": "Let's continue talking about it!"
+  },
+  {
+    "_id": 4,
+    "ru": "Я надеюсь, что все вернется к норме скоро",
+    "en": "I hope that everything will get back to normal soon"
+  },
+  {
+    "_id": 5,
+    "ru": "Я читаю эту книгу около двух недель",
+    "en": "I've been reading this book for about two weeks"
+  },
+  {
+    "_id": 6,
+    "ru": "Его имя не было включено в список",
+    "en": "His name wasn't included in the list"
+  },
+  {
+    "_id": 7,
+    "ru": "Ситуация могла бы быть хуже сейчас",
+    "en": "The situation could be worse now"
+  },
+  {
+    "_id": 8,
+    "ru": "Когда будет установлена эта программа?",
+    "en": "When will this program be installed?"
+  },
+  {
+    "_id": 9,
+    "ru": "Он кивнул одобрительно",
+    "en": "He nodded approvingly"
+  },
+  {
+    "_id": 10,
+    "ru": "Он только что переплыл реку",
+    "en": "He's just swum across the river"
+  },
+  {
+    "_id": 11,
+    "ru": "Я только что присел",
+    "en": "I've just sat down"
+  },
+  {
+    "_id": 12,
+    "ru": "Этот файл был прикреплен к письму",
+    "en": "This file was attached to the letter"
+  },
+  {
+    "_id": 13,
+    "ru": "Офис расположен в этом районе",
+    "en": "The office is located in this area"
+  },
+  {
+    "_id": 14,
+    "ru": "Кто выиграл в конце концов?",
+    "en": "Who won in the end?"
+  },
+  {
+    "_id": 15,
+    "ru": "Я не смог связаться с ним по телефону",
+    "en": "I wasn't able to contact him by phone"
+  },
+  {
+    "_id": 16,
+    "ru": "Я еще не адаптировался к этим условиям",
+    "en": "I haven't adapted to these conditions yet"
+  },
+  {
+    "_id": 17,
+    "ru": "Было сказано, что он нарушил закон",
+    "en": "It was said that he had broken the law"
+  },
+  {
+    "_id": 18,
+    "ru": "Как я вижу, так много вещей объединяет нас",
+    "en": "As I see, so many things unite us"
+  },
+  {
+    "_id": 19,
+    "ru": "Его попросили убрать комнату",
+    "en": "He was asked to clean the room"
+  },
+  {
+    "_id": 20,
+    "ru": "Сколько денег было вложено в этот проект?",
+    "en": "How much money was invested in this project?"
+  },
+  {
+    "_id": 21,
+    "ru": "Войска были атакованы противником",
+    "en": "The troops were attacked by the enemy"
+  },
+  {
+    "_id": 22,
+    "ru": "От чего он страдает?",
+    "en": "What does he suffer from?"
+  }
 ]

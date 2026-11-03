@@ -1,410 +1,512 @@
 [
-  [
-    "Я вернусь через минуту",
-    "I'll be back in a minute"
-  ],
-  [
-    "Я обычно покупаю это на рынке",
-    "I usually buy it at the market"
-  ],
-  [
-    "Мы можем встретиться в субботу",
-    "We can meet on Saturday"
-  ],
-  [
-    "Он часто ездит в свой загородный дом",
-    "He often goes to his country house"
-  ],
-  [
-    "Мы могли бы встретиться в субботу вечером",
-    "We could meet on Saturday evening"
-  ],
-  [
-    "Это рядом с дорогой",
-    "It's near the road"
-  ],
-  [
-    "Что ты обычно делаешь зимой?",
-    "What do you usually do in winter?"
-  ],
-  [
-    "Она села в кресло",
-    "She sat in an armchair"
-  ],
-  [
-    "Она уехала в Англию",
-    "She left for England"
-  ],
-  [
-    "Я обычно останавливаюсь в этом отеле",
-    "I usually stay at this hotel"
-  ],
-  [
-    "Мы переехали в новую квартиру",
-    "We moved into a new apartment"
-  ],
-  [
-    "Давайте встретимся во вторник утром",
-    "Let's meet on Tuesday morning"
-  ],
-  [
-    "Она обычно вставала очень рано утром",
-    "She usually got up very early in the morning"
-  ],
-  [
-    "Давай встретимся в пятницу",
-    "Let's meet on Friday"
-  ],
-  [
-    "Весной он часто ездит в свой загородный дом",
-    "He often goes to his country house in spring"
-  ],
-  [
-    "Он обычно просыпается очень рано утром",
-    "He usually wakes up very early in the morning"
-  ],
-  [
-    "Обычно он уходит на работу в восемь часов утра",
-    "He usually leaves for work at eight o'clock in the morning"
-  ],
-  [
-    "Я переехал в новый дом",
-    "I moved into a new house"
-  ],
-  [
-    "Я взял такси",
-    "I took a taxi"
-  ],
-  [
-    "Она переехала в Чикаго",
-    "She moved to Chicago"
-  ],
-  [
-    "Я не хочу работать ночью",
-    "I don't want to work at night"
-  ],
-  [
-    "Я обычно прихожу домой в семь часов вечера",
-    "I usually come home at seven o'clock in the evening"
-  ],
-  [
-    "У меня встреча в шесть",
-    "I have a meeting at six"
-  ],
-  [
-    "Он уехал в Штаты",
-    "He left for the States"
-  ],
-  [
-    "Это рядом с банком",
-    "It's near the bank"
-  ],
-  [
-    "Куда ты обычно ездишь осенью?",
-    "Where do you usually go in autumn?"
-  ],
-  [
-    "Он переехал в Бирмингем",
-    "He moved to Birmingham"
-  ],
-  [
-    "Она уехала в Испанию",
-    "She left for Spain"
-  ],
-  [
-    "Я обычно езжу куда-то за границу летом",
-    "I usually go somewhere abroad in summer"
-  ],
-  [
-    "Он покинул страну",
-    "He left the country"
-  ],
-  [
-    "Он сел на стул",
-    "He sat on a chair"
-  ],
-  [
-    "Я сел в его машину",
-    "I got in his car"
-  ],
-  [
-    "Это рядом с отелем",
-    "It's near the hotel"
-  ],
-  [
-    "Я обычно прихожу на работу в десять часов дня",
-    "I usually come to work at ten o'clock in the afternoon"
-  ],
-  [
-    "Я сел в такси",
-    "I got in a taxi"
-  ],
-  [
-    "Она уехала в другой город",
-    "She left for another city"
-  ],
-  [
-    "Он ушел из дома очень рано",
-    "He left - home very early"
-  ],
-  [
-    "Он в здании",
-    "He's in the building"
-  ],
-  [
-    "Он уехал в Россию",
-    "He left for Russia"
-  ],
-  [
-    "Мы в лесу",
-    "We're in the forest"
-  ],
-  [
-    "Я сел в машину",
-    "I got in a car"
-  ],
-  [
-    "Я покинул город",
-    "I left the city"
-  ],
-  [
-    "Он родился в Лос-Анджелесе",
-    "He was born in Los Angeles"
-  ],
-  [
-    "Ты можешь дать эту ручку мне?",
-    "Can you give this pen to me?"
-  ],
-  [
-    "Она родилась 1 января",
-    "She was born on January 1st"
-  ],
-  [
-    "Я вернусь через минуту",
-    "I'll be back in a minute"
-  ],
-  [
-    "Я обычно покупаю это на рынке",
-    "I usually buy it at the market"
-  ],
-  [
-    "Я перезвоню тебе через час",
-    "I'll call you back in an hour"
-  ],
-  [
-    "Я обычно покупаю свежие фрукты и овощи на рынке",
-    "I usually buy fresh fruit and vegetables at the market"
-  ],
-  [
-    "Я свяжусь с тобой примерно через десять минут",
-    "I'll get in touch with you in about ten minutes"
-  ],
-  [
-    "Ему нравится кататься на лыжах зимой",
-    "He likes skiing in winter"
-  ],
-  [
-    "Ей нужно перевести это с английского на русский",
-    "She needs to translate it from English into Russian"
-  ],
-  [
-    "Я сошел с самолета",
-    "I got off the plane"
-  ],
-  [
-    "Она вошла в комнату",
-    "She came into the room"
-  ],
-  [
-    "Пациент должен быть в постели",
-    "The patient must be in bed"
-  ],
-  [
-    "Пульт дистанционного управления лежит на диване",
-    "The remote control lies on the sofa"
-  ],
-  [
-    "Я родился 15 марта",
-    "I was born on March 15th"
-  ],
-  [
-    "Он прочитал это в новостях",
-    "He read it in the news"
-  ],
-  [
-    "Что ты обычно делаешь в Новый год?",
-    "What do you usually do on New Year's Day?"
-  ],
-  [
-    "Где ты обычно празднуешь Новый год?",
-    "Where do you usually celebrate New Year?"
-  ],
-  [
-    "Что ты обычно делаешь по понедельникам?",
-    "What do you usually do on Mondays?"
-  ],
-  [
-    "Я вышел из автобуса",
-    "I got off the bus"
-  ],
-  [
-    "Ты вышел из автобуса?",
-    "Did you get off the bus?"
-  ],
-  [
-    "Я обычно ходил на рынок один раз в неделю",
-    "I usually went to the market once a week"
-  ],
-  [
-    "Я всегда хожу на рынок два раза в неделю",
-    "I always go to the market twice a week"
-  ],
-  [
-    "Как часто ты ходил на рынок?",
-    "How often did you go to the market?"
-  ],
-  [
-    "Я вышел из машины",
-    "I got out of the car"
-  ],
-  [
-    "Она вышла из машины?",
-    "Did she get out of the car?"
-  ],
-  [
-    "Я не выходил из этой машины",
-    "I didn't get out of this car"
-  ],
-  [
-    "Что он обычно делает на Новый год?",
-    "What does he usually do at New Year?"
-  ],
-  [
-    "Как ты обычно празднуешь Новый год?",
-    "How do you usually celebrate New Year?"
-  ],
-  [
-    "Что ты делал на Новый Год?",
-    "What did you do at New Year?"
-  ],
-  [
-    "Мне нужно перевести это с русского на английский",
-    "I need to translate it from Russian into English"
-  ],
-  [
-    "Я хочу перевести это с русского на английский",
-    "I want to translate it from Russian into English"
-  ],
-  [
-    "Мне нужно перевести это с английского на русский",
-    "I need to translate it from English into Russian"
-  ],
-  [
-    "Тебе нравится путешествовать на машине?",
-    "Do you like travelling by car?"
-  ],
-  [
-    "Тебе нравится путешествовать на самолете?",
-    "Do you like travelling by plane?"
-  ],
-  [
-    "Как часто ты путешествуешь на машине?",
-    "How often do you travel by car?"
-  ],
-  [
-    "Я часто вижу это в новостях",
-    "I often see it in the news"
-  ],
-  [
-    "Я часто слышу это в новостях",
-    "I often hear it in the news"
-  ],
-  [
-    "Как часто ты видишь это в новостях?",
-    "How often do you see it in the news?"
-  ],
-  [
-    "Мой отец в офисе в данный момент",
-    "My father is in the office at the moment"
-  ],
-  [
-    "Моего отца в этот момент не было в офисе",
-    "My father wasn't in the office at this moment"
-  ],
-  [
-    "Мой отец был в своем офисе вчера",
-    "My father was in his office yesterday"
-  ],
-  [
-    "Все продается",
-    "Everything is on sale"
-  ],
-  [
-    "Вся эта одежда продается",
-    "All these clothes are on sale"
-  ],
-  [
-    "Эта вещь продается?",
-    "Is this thing on sale?"
-  ],
-  [
-    "Пульт дистанционного управления лежит на столе",
-    "The remote control lies on the table"
-  ],
-  [
-    "Я хочу перевести это на английский",
-    "I want to translate it into English"
-  ],
-  [
-    "Мне не нравится путешествовать на автобусе",
-    "I don't like travelling by bus"
-  ],
-  [
-    "Я сел в самолет",
-    "I got on the plane"
-  ],
-  [
-    "Ей нужно идти на рынок завтра",
-    "She needs to go to the market tomorrow"
-  ],
-  [
-    "Я свяжусь с тобой через пару минут",
-    "I'll get in touch with you in a couple of minutes"
-  ],
-  [
-    "Эта сумка продается",
-    "This bag is on sale"
-  ],
-  [
-    "Он обычно покупает рыбу и мясо на рынке",
-    "He usually buys fish and meat at the market"
-  ],
-  [
-    "Она хочет пойти в театр",
-    "She wants to go to the theatre"
-  ],
-  [
-    "Кто вошел в здание?",
-    "Who entered the building?"
-  ],
-  [
-    "Он родился 10 декабря",
-    "He was born on December 10th"
-  ],
-  [
-    "Ты можешь дать мне эту ручку?",
-    "Can you give me this pen?"
-  ],
-  [
-    "Все в этом магазине продается",
-    "Everything in this store is on sale"
-  ],
-  [
-    "Я сел в автобус",
-    "I got on the bus"
-  ],
-  [
-    "Я пойду на рынок сегодня",
-    "I'll go to the market today"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я вернусь через минуту",
+    "en": "I'll be back in a minute"
+  },
+  {
+    "_id": 2,
+    "ru": "Я обычно покупаю это на рынке",
+    "en": "I usually buy it at the market"
+  },
+  {
+    "_id": 3,
+    "ru": "Мы можем встретиться в субботу",
+    "en": "We can meet on Saturday"
+  },
+  {
+    "_id": 4,
+    "ru": "Он часто ездит в свой загородный дом",
+    "en": "He often goes to his country house"
+  },
+  {
+    "_id": 5,
+    "ru": "Мы могли бы встретиться в субботу вечером",
+    "en": "We could meet on Saturday evening"
+  },
+  {
+    "_id": 6,
+    "ru": "Это рядом с дорогой",
+    "en": "It's near the road"
+  },
+  {
+    "_id": 7,
+    "ru": "Что ты обычно делаешь зимой?",
+    "en": "What do you usually do in winter?"
+  },
+  {
+    "_id": 8,
+    "ru": "Она села в кресло",
+    "en": "She sat in an armchair"
+  },
+  {
+    "_id": 9,
+    "ru": "Она уехала в Англию",
+    "en": "She left for England"
+  },
+  {
+    "_id": 10,
+    "ru": "Я обычно останавливаюсь в этом отеле",
+    "en": "I usually stay at this hotel"
+  },
+  {
+    "_id": 11,
+    "ru": "Мы переехали в новую квартиру",
+    "en": "We moved into a new apartment"
+  },
+  {
+    "_id": 12,
+    "ru": "Давайте встретимся во вторник утром",
+    "en": "Let's meet on Tuesday morning"
+  },
+  {
+    "_id": 13,
+    "ru": "Она обычно вставала очень рано утром",
+    "en": "She usually got up very early in the morning"
+  },
+  {
+    "_id": 14,
+    "ru": "Давай встретимся в пятницу",
+    "en": "Let's meet on Friday"
+  },
+  {
+    "_id": 15,
+    "ru": "Весной он часто ездит в свой загородный дом",
+    "en": "He often goes to his country house in spring"
+  },
+  {
+    "_id": 16,
+    "ru": "Он обычно просыпается очень рано утром",
+    "en": "He usually wakes up very early in the morning"
+  },
+  {
+    "_id": 17,
+    "ru": "Обычно он уходит на работу в восемь часов утра",
+    "en": "He usually leaves for work at eight o'clock in the morning"
+  },
+  {
+    "_id": 18,
+    "ru": "Я переехал в новый дом",
+    "en": "I moved into a new house"
+  },
+  {
+    "_id": 19,
+    "ru": "Я взял такси",
+    "en": "I took a taxi"
+  },
+  {
+    "_id": 20,
+    "ru": "Она переехала в Чикаго",
+    "en": "She moved to Chicago"
+  },
+  {
+    "_id": 21,
+    "ru": "Я не хочу работать ночью",
+    "en": "I don't want to work at night"
+  },
+  {
+    "_id": 22,
+    "ru": "Я обычно прихожу домой в семь часов вечера",
+    "en": "I usually come home at seven o'clock in the evening"
+  },
+  {
+    "_id": 23,
+    "ru": "У меня встреча в шесть",
+    "en": "I have a meeting at six"
+  },
+  {
+    "_id": 24,
+    "ru": "Он уехал в Штаты",
+    "en": "He left for the States"
+  },
+  {
+    "_id": 25,
+    "ru": "Это рядом с банком",
+    "en": "It's near the bank"
+  },
+  {
+    "_id": 26,
+    "ru": "Куда ты обычно ездишь осенью?",
+    "en": "Where do you usually go in autumn?"
+  },
+  {
+    "_id": 27,
+    "ru": "Он переехал в Бирмингем",
+    "en": "He moved to Birmingham"
+  },
+  {
+    "_id": 28,
+    "ru": "Она уехала в Испанию",
+    "en": "She left for Spain"
+  },
+  {
+    "_id": 29,
+    "ru": "Я обычно езжу куда-то за границу летом",
+    "en": "I usually go somewhere abroad in summer"
+  },
+  {
+    "_id": 30,
+    "ru": "Он покинул страну",
+    "en": "He left the country"
+  },
+  {
+    "_id": 31,
+    "ru": "Он сел на стул",
+    "en": "He sat on a chair"
+  },
+  {
+    "_id": 32,
+    "ru": "Я сел в его машину",
+    "en": "I got in his car"
+  },
+  {
+    "_id": 33,
+    "ru": "Это рядом с отелем",
+    "en": "It's near the hotel"
+  },
+  {
+    "_id": 34,
+    "ru": "Я обычно прихожу на работу в десять часов дня",
+    "en": "I usually come to work at ten o'clock in the afternoon"
+  },
+  {
+    "_id": 35,
+    "ru": "Я сел в такси",
+    "en": "I got in a taxi"
+  },
+  {
+    "_id": 36,
+    "ru": "Она уехала в другой город",
+    "en": "She left for another city"
+  },
+  {
+    "_id": 37,
+    "ru": "Он ушел из дома очень рано",
+    "en": "He left - home very early"
+  },
+  {
+    "_id": 38,
+    "ru": "Он в здании",
+    "en": "He's in the building"
+  },
+  {
+    "_id": 39,
+    "ru": "Он уехал в Россию",
+    "en": "He left for Russia"
+  },
+  {
+    "_id": 40,
+    "ru": "Мы в лесу",
+    "en": "We're in the forest"
+  },
+  {
+    "_id": 41,
+    "ru": "Я сел в машину",
+    "en": "I got in a car"
+  },
+  {
+    "_id": 42,
+    "ru": "Я покинул город",
+    "en": "I left the city"
+  },
+  {
+    "_id": 43,
+    "ru": "Он родился в Лос-Анджелесе",
+    "en": "He was born in Los Angeles"
+  },
+  {
+    "_id": 44,
+    "ru": "Ты можешь дать эту ручку мне?",
+    "en": "Can you give this pen to me?"
+  },
+  {
+    "_id": 45,
+    "ru": "Она родилась 1 января",
+    "en": "She was born on January 1st"
+  },
+  {
+    "_id": 46,
+    "ru": "Я вернусь через минуту",
+    "en": "I'll be back in a minute"
+  },
+  {
+    "_id": 47,
+    "ru": "Я обычно покупаю это на рынке",
+    "en": "I usually buy it at the market"
+  },
+  {
+    "_id": 48,
+    "ru": "Я перезвоню тебе через час",
+    "en": "I'll call you back in an hour"
+  },
+  {
+    "_id": 49,
+    "ru": "Я обычно покупаю свежие фрукты и овощи на рынке",
+    "en": "I usually buy fresh fruit and vegetables at the market"
+  },
+  {
+    "_id": 50,
+    "ru": "Я свяжусь с тобой примерно через десять минут",
+    "en": "I'll get in touch with you in about ten minutes"
+  },
+  {
+    "_id": 51,
+    "ru": "Ему нравится кататься на лыжах зимой",
+    "en": "He likes skiing in winter"
+  },
+  {
+    "_id": 52,
+    "ru": "Ей нужно перевести это с английского на русский",
+    "en": "She needs to translate it from English into Russian"
+  },
+  {
+    "_id": 53,
+    "ru": "Я сошел с самолета",
+    "en": "I got off the plane"
+  },
+  {
+    "_id": 54,
+    "ru": "Она вошла в комнату",
+    "en": "She came into the room"
+  },
+  {
+    "_id": 55,
+    "ru": "Пациент должен быть в постели",
+    "en": "The patient must be in bed"
+  },
+  {
+    "_id": 56,
+    "ru": "Пульт дистанционного управления лежит на диване",
+    "en": "The remote control lies on the sofa"
+  },
+  {
+    "_id": 57,
+    "ru": "Я родился 15 марта",
+    "en": "I was born on March 15th"
+  },
+  {
+    "_id": 58,
+    "ru": "Он прочитал это в новостях",
+    "en": "He read it in the news"
+  },
+  {
+    "_id": 59,
+    "ru": "Что ты обычно делаешь в Новый год?",
+    "en": "What do you usually do on New Year's Day?"
+  },
+  {
+    "_id": 60,
+    "ru": "Где ты обычно празднуешь Новый год?",
+    "en": "Where do you usually celebrate New Year?"
+  },
+  {
+    "_id": 61,
+    "ru": "Что ты обычно делаешь по понедельникам?",
+    "en": "What do you usually do on Mondays?"
+  },
+  {
+    "_id": 62,
+    "ru": "Я вышел из автобуса",
+    "en": "I got off the bus"
+  },
+  {
+    "_id": 63,
+    "ru": "Ты вышел из автобуса?",
+    "en": "Did you get off the bus?"
+  },
+  {
+    "_id": 64,
+    "ru": "Я обычно ходил на рынок один раз в неделю",
+    "en": "I usually went to the market once a week"
+  },
+  {
+    "_id": 65,
+    "ru": "Я всегда хожу на рынок два раза в неделю",
+    "en": "I always go to the market twice a week"
+  },
+  {
+    "_id": 66,
+    "ru": "Как часто ты ходил на рынок?",
+    "en": "How often did you go to the market?"
+  },
+  {
+    "_id": 67,
+    "ru": "Я вышел из машины",
+    "en": "I got out of the car"
+  },
+  {
+    "_id": 68,
+    "ru": "Она вышла из машины?",
+    "en": "Did she get out of the car?"
+  },
+  {
+    "_id": 69,
+    "ru": "Я не выходил из этой машины",
+    "en": "I didn't get out of this car"
+  },
+  {
+    "_id": 70,
+    "ru": "Что он обычно делает на Новый год?",
+    "en": "What does he usually do at New Year?"
+  },
+  {
+    "_id": 71,
+    "ru": "Как ты обычно празднуешь Новый год?",
+    "en": "How do you usually celebrate New Year?"
+  },
+  {
+    "_id": 72,
+    "ru": "Что ты делал на Новый Год?",
+    "en": "What did you do at New Year?"
+  },
+  {
+    "_id": 73,
+    "ru": "Мне нужно перевести это с русского на английский",
+    "en": "I need to translate it from Russian into English"
+  },
+  {
+    "_id": 74,
+    "ru": "Я хочу перевести это с русского на английский",
+    "en": "I want to translate it from Russian into English"
+  },
+  {
+    "_id": 75,
+    "ru": "Мне нужно перевести это с английского на русский",
+    "en": "I need to translate it from English into Russian"
+  },
+  {
+    "_id": 76,
+    "ru": "Тебе нравится путешествовать на машине?",
+    "en": "Do you like travelling by car?"
+  },
+  {
+    "_id": 77,
+    "ru": "Тебе нравится путешествовать на самолете?",
+    "en": "Do you like travelling by plane?"
+  },
+  {
+    "_id": 78,
+    "ru": "Как часто ты путешествуешь на машине?",
+    "en": "How often do you travel by car?"
+  },
+  {
+    "_id": 79,
+    "ru": "Я часто вижу это в новостях",
+    "en": "I often see it in the news"
+  },
+  {
+    "_id": 80,
+    "ru": "Я часто слышу это в новостях",
+    "en": "I often hear it in the news"
+  },
+  {
+    "_id": 81,
+    "ru": "Как часто ты видишь это в новостях?",
+    "en": "How often do you see it in the news?"
+  },
+  {
+    "_id": 82,
+    "ru": "Мой отец в офисе в данный момент",
+    "en": "My father is in the office at the moment"
+  },
+  {
+    "_id": 83,
+    "ru": "Моего отца в этот момент не было в офисе",
+    "en": "My father wasn't in the office at this moment"
+  },
+  {
+    "_id": 84,
+    "ru": "Мой отец был в своем офисе вчера",
+    "en": "My father was in his office yesterday"
+  },
+  {
+    "_id": 85,
+    "ru": "Все продается",
+    "en": "Everything is on sale"
+  },
+  {
+    "_id": 86,
+    "ru": "Вся эта одежда продается",
+    "en": "All these clothes are on sale"
+  },
+  {
+    "_id": 87,
+    "ru": "Эта вещь продается?",
+    "en": "Is this thing on sale?"
+  },
+  {
+    "_id": 88,
+    "ru": "Пульт дистанционного управления лежит на столе",
+    "en": "The remote control lies on the table"
+  },
+  {
+    "_id": 89,
+    "ru": "Я хочу перевести это на английский",
+    "en": "I want to translate it into English"
+  },
+  {
+    "_id": 90,
+    "ru": "Мне не нравится путешествовать на автобусе",
+    "en": "I don't like travelling by bus"
+  },
+  {
+    "_id": 91,
+    "ru": "Я сел в самолет",
+    "en": "I got on the plane"
+  },
+  {
+    "_id": 92,
+    "ru": "Ей нужно идти на рынок завтра",
+    "en": "She needs to go to the market tomorrow"
+  },
+  {
+    "_id": 93,
+    "ru": "Я свяжусь с тобой через пару минут",
+    "en": "I'll get in touch with you in a couple of minutes"
+  },
+  {
+    "_id": 94,
+    "ru": "Эта сумка продается",
+    "en": "This bag is on sale"
+  },
+  {
+    "_id": 95,
+    "ru": "Он обычно покупает рыбу и мясо на рынке",
+    "en": "He usually buys fish and meat at the market"
+  },
+  {
+    "_id": 96,
+    "ru": "Она хочет пойти в театр",
+    "en": "She wants to go to the theatre"
+  },
+  {
+    "_id": 97,
+    "ru": "Кто вошел в здание?",
+    "en": "Who entered the building?"
+  },
+  {
+    "_id": 98,
+    "ru": "Он родился 10 декабря",
+    "en": "He was born on December 10th"
+  },
+  {
+    "_id": 99,
+    "ru": "Ты можешь дать мне эту ручку?",
+    "en": "Can you give me this pen?"
+  },
+  {
+    "_id": 100,
+    "ru": "Все в этом магазине продается",
+    "en": "Everything in this store is on sale"
+  },
+  {
+    "_id": 101,
+    "ru": "Я сел в автобус",
+    "en": "I got on the bus"
+  },
+  {
+    "_id": 102,
+    "ru": "Я пойду на рынок сегодня",
+    "en": "I'll go to the market today"
+  }
 ]

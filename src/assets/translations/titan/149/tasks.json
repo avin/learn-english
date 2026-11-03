@@ -1,414 +1,517 @@
 [
-  [
-    "Это хорошо, не так ли?",
-    "It is good, isn’t it?"
-  ],
-  [
-    "Это так интересно, не так ли?",
-    "It’s so interesting, isn’t it?"
-  ],
-  [
-    "Они знают это, не так ли?",
-    "They know it, don’t they?"
-  ],
-  [
-    "Она помогла тебе, не так ли?",
-    "She helped you, didn’t she?"
-  ],
-  [
-    "Он не ходил туда, не так ли?",
-    "He didn’t go there, did he?"
-  ],
-  [
-    "Они не знают это, не так ли?",
-    "They don’t know it, do they?"
-  ],
-  [
-    "Она не помогла тебе, не так ли?",
-    "She didn’t help you, did she?"
-  ],
-  [
-    "Ты никогда туда не ходишь, не так ли?",
-    "You never go there, do you?"
-  ],
-  [
-    "У него есть машина, не так ли?",
-    "He has got a car, hasn't he?"
-  ],
-  [
-    "Ты действительно счастлив, не так ли?",
-    "You are really happy, aren't you?"
-  ],
-  [
-    "Он будет там до трех, не так ли?",
-    "He will be there until three, won't he?"
-  ],
-  [
-    "Я поступил правильно, не так ли?",
-    "I did the right thing, didn't I?"
-  ],
-  [
-    "Это хорошая идея, не так ли?",
-    "It's a good idea, isn't it?"
-  ],
-  [
-    "Он изучает архитектуру, не так ли?",
-    "He is studying architecture, isn't he?"
-  ],
-  [
-    "У него есть идея, не так ли?",
-    "He has an idea, doesn't he?"
-  ],
-  [
-    "Это действительно помогает тебе, не так ли?",
-    "It really helps you, doesn't it?"
-  ],
-  [
-    "Тебе нужны вилка и нож, не так ли?",
-    "You need a fork and a knife, don't you?"
-  ],
-  [
-    "Ты этого не понимаешь, не так ли?",
-    "You don't understand it, do you?"
-  ],
-  [
-    "Он больше не покупает сигарет, не так ли?",
-    "He doesn't buy cigarettes anymore, does he?"
-  ],
-  [
-    "Это действительно интересно, не так ли?",
-    "It is really interesting, isn't it?"
-  ],
-  [
-    "Он также хочет туда поехать, не так ли?",
-    "He also wants to go there, doesn't he?"
-  ],
-  [
-    "У тебя есть машина, не так ли?",
-    "You've got a car, haven't you?"
-  ],
-  [
-    "Мне не следует этого делать, не так ли?",
-    "I shouldn't do it, should I?"
-  ],
-  [
-    "У него высокая температура, не так ли?",
-    "He has a high temperature, doesn't he?"
-  ],
-  [
-    "Это хорошо, не так ли?",
-    "It's good, isn't it?"
-  ],
-  [
-    "Ты учишь английский самостоятельно, не так ли?",
-    "You learn English by yourself, don't you?"
-  ],
-  [
-    "Температура сейчас ниже нуля, не так ли?",
-    "The temperature is below zero now, isn't it?"
-  ],
-  [
-    "У тебя есть кот, не так ли?",
-    "You have a cat, don't you?"
-  ],
-  [
-    "Тебе нужен лимон, не так ли?",
-    "You need a lemon, don't you?"
-  ],
-  [
-    "Она работает официанткой, не так ли?",
-    "She works as a waitress, doesn't she?"
-  ],
-  [
-    "Ты не из США, не так ли?",
-    "You aren't from the USA, are you?"
-  ],
-  [
-    "Это действительно тебя интересует, не так ли?",
-    "It really interests you, doesn't it?"
-  ],
-  [
-    "Ты чувствуешь себя действительно счастливым, не так ли?",
-    "You feel really happy, don't you?"
-  ],
-  [
-    "Ты хочешь чай с лимоном, не так ли?",
-    "You want tea with lemon, don't you?"
-  ],
-  [
-    "Он действительно этого хочет, не так ли?",
-    "He really wants it, doesn't he?"
-  ],
-  [
-    "Это действительно невероятно, не так ли?",
-    "It is really unbelievable, isn't it?"
-  ],
-  [
-    "Он не должен этого делать, не так ли?",
-    "He mustn't do it, must he?"
-  ],
-  [
-    "У тебя есть машина, не так ли?",
-    "You have a car, don't you?"
-  ],
-  [
-    "Сегодня очень ветрено, не так ли?",
-    "It's very windy today, isn't it?"
-  ],
-  [
-    "Он купил новый мотоцикл, не так ли?",
-    "He bought a new motorcycle, didn't he?"
-  ],
-  [
-    "Она не права, не так ли?",
-    "She isn't right, is she?"
-  ],
-  [
-    "Они ничего не ответили, не так ли?",
-    "They didn't answer anything, did they?"
-  ],
-  [
-    "Это тебе совсем не помогает, не так ли?",
-    "It doesn't help you at all, does it?"
-  ],
-  [
-    "Это кажется действительно невероятным, не так ли?",
-    "It seems really unbelievable, doesn't it?"
-  ],
-  [
-    "Ты изучаешь графический дизайн, не так ли?",
-    "You are studying graphic design, aren't you?"
-  ],
-  [
-    "Тебе нужна вилка, не так ли?",
-    "You need a fork, don't you?"
-  ],
-  [
-    "Ты хочешь чай с сахаром, не так ли?",
-    "You want tea with sugar, don't you?"
-  ],
-  [
-    "Ты не опоздал, не так ли?",
-    "You weren't late, were you?"
-  ],
-  [
-    "Изучение английского языка - это интересно, не так ли?",
-    "Learning English is interesting, isn't it?"
-  ],
-  [
-    "В доме никто не живет, не так ли?",
-    "Nobody lives in the house, do they?"
-  ],
-  [
-    "Вы прекрасно провели время вместе, не так ли?",
-    "You had a great time together, didn't you?"
-  ],
-  [
-    "Ты ведь никогда не был в этом месте, не так ли?",
-    "You have never been to this place, have you?"
-  ],
-  [
-    "Не было никаких серьезных трудностей, не так ли?",
-    "There weren't any serious difficulties, were there?"
-  ],
-  [
-    "Он никогда не пьет алкоголь, не так ли?",
-    "He never drinks alcohol, does he?"
-  ],
-  [
-    "У него были очень серьезные проблемы, не так ли?",
-    "He had very serious problems, didn't he?"
-  ],
-  [
-    "Ты работал весь день, не так ли?",
-    "You have been working all day, haven't you?"
-  ],
-  [
-    "Ты уже был там, не так ли?",
-    "You have already been there, haven't you?"
-  ],
-  [
-    "Я нахожусь в нужном месте, не так ли?",
-    "I am in the right place, aren't I?"
-  ],
-  [
-    "Все там, не так ли?",
-    "Everyone is there, aren't they?"
-  ],
-  [
-    "В твоей работе не было никаких ошибок, не так ли?",
-    "There weren't any mistakes in your work, were there?"
-  ],
-  [
-    "Она опоздала на встречу, не так ли?",
-    "She was late for the meeting, wasn't she?"
-  ],
-  [
-    "На дорогах много льда, не так ли?",
-    "There is much ice on the roads, isn't there?"
-  ],
-  [
-    "В этой комнате много грязи, не так ли?",
-    "There is much dirt in this room, isn't there?"
-  ],
-  [
-    "На полу было так много воды, не правда ли?",
-    "There was so much water on the floor, wasn't there?"
-  ],
-  [
-    "Мы никогда не узнаем этого, не так ли?",
-    "We will never know it, will we?"
-  ],
-  [
-    "Мы узнаем это, не так ли?",
-    "We will know it, won't we?"
-  ],
-  [
-    "Мы никогда этого не сделаем, не так ли?",
-    "We will never do it, will we?"
-  ],
-  [
-    "Здесь слишком много соли, не так ли?",
-    "There is too much salt here, isn't there?"
-  ],
-  [
-    "У нее слишком много одежды, не так ли?",
-    "She has too many clothes, doesn't she?"
-  ],
-  [
-    "Здесь слишком много сахара, не так ли?",
-    "There is too much sugar here, isn't there?"
-  ],
-  [
-    "Давай сделаем это, хорошо?",
-    "Let's do it, shall we?"
-  ],
-  [
-    "Давай пойдем туда, хорошо?",
-    "Let's go there, shall we?"
-  ],
-  [
-    "Давай сделаем это вместе, хорошо?",
-    "Let's do it together, shall we?"
-  ],
-  [
-    "Все дети любят сладости, не так ли?",
-    "All children love sweets, don't they?"
-  ],
-  [
-    "Твой сын любит сладости, не так ли?",
-    "Your son loves sweets, doesn't he?"
-  ],
-  [
-    "Все люди любят вкусную еду, не так ли?",
-    "All people love tasty food, don't they?"
-  ],
-  [
-    "Давай поедем на следующем автобусе, хорошо?",
-    "Let's take the next bus, shall we?"
-  ],
-  [
-    "Давай возьмем такси, ладно?",
-    "Let's take a taxi, shall we?"
-  ],
-  [
-    "Давай пойдем в кино, хорошо?",
-    "Let's go to the cinema, shall we?"
-  ],
-  [
-    "Ничего плохого не случилось, не так ли?",
-    "Nothing bad happened, did it?"
-  ],
-  [
-    "Случилось что-то плохое, не так ли?",
-    "Something bad happened, didn't it?"
-  ],
-  [
-    "Ничего плохого не случится, правда?",
-    "Nothing bad will happen, will it?"
-  ],
-  [
-    "Давай подождем,пока дождь прекратится, хорошо?",
-    "Let's wait till the rain stops, shall we?"
-  ],
-  [
-    "Давай пойдем в парк, хорошо?",
-    "Let's go to the park, shall we?"
-  ],
-  [
-    "Давай пойдем туда вместе, хорошо?",
-    "Let's go there together, shall we?"
-  ],
-  [
-    "Давай подождем, пока снег не прекратится, хорошо?",
-    "Let's wait till the snow stops, shall we?"
-  ],
-  [
-    "Давай подождем его вместе, хорошо?",
-    "Let's wait for him together, shall we?"
-  ],
-  [
-    "Все это знают, не так ли?",
-    "Everyone knows it, don't they?"
-  ],
-  [
-    "Никто этого не знает, не так ли?",
-    "Nobody knows it, do they?"
-  ],
-  [
-    "Ты это знаешь, не так ли?",
-    "You know it, don't you?"
-  ],
-  [
-    "Никто не пошел на встречу, не так ли?",
-    "Nobody went to the meeting, did they?"
-  ],
-  [
-    "Ты еще не посетил это место, не так ли?",
-    "You haven't visited this place yet, have you?"
-  ],
-  [
-    "Давай позовем официанта, хорошо?",
-    "Let's call the waiter, shall we?"
-  ],
-  [
-    "Мне действительно везет, не так ли?",
-    "I am really lucky, aren't I?"
-  ],
-  [
-    "Он не опоздал на встречу, не так ли?",
-    "He wasn't late for the meeting, was he?"
-  ],
-  [
-    "Там никого не было, не так ли?",
-    "Nobody was there, were they?"
-  ],
-  [
-    "Постарайся быть осторожнее, ладно?",
-    "Try to be more careful, will you?"
-  ],
-  [
-    "Не забудь сделать это, ладно?",
-    "Don't forget to do it, will you?"
-  ],
-  [
-    "В супе не достаточно соли, не так ли?",
-    "There isn't enough salt in the soup, is there?"
-  ],
-  [
-    "Ты никогда этого не делаешь, не так ли?",
-    "You never do it, do you?"
-  ],
-  [
-    "Никто этого не знает, не так ли?",
-    "No one knows it, do they?"
-  ],
-  [
-    "Я прав, не так ли?",
-    "I am right, aren't I?"
-  ],
-  [
-    "Ничего не готово, не так ли?",
-    "Nothing is ready, is it?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Это хорошо, не так ли?",
+    "en": "It is good, isn’t it?"
+  },
+  {
+    "_id": 2,
+    "ru": "Это так интересно, не так ли?",
+    "en": "It’s so interesting, isn’t it?"
+  },
+  {
+    "_id": 3,
+    "ru": "Они знают это, не так ли?",
+    "en": "They know it, don’t they?"
+  },
+  {
+    "_id": 4,
+    "ru": "Она помогла тебе, не так ли?",
+    "en": "She helped you, didn’t she?"
+  },
+  {
+    "_id": 5,
+    "ru": "Он не ходил туда, не так ли?",
+    "en": "He didn’t go there, did he?"
+  },
+  {
+    "_id": 6,
+    "ru": "Они не знают это, не так ли?",
+    "en": "They don’t know it, do they?"
+  },
+  {
+    "_id": 7,
+    "ru": "Она не помогла тебе, не так ли?",
+    "en": "She didn’t help you, did she?"
+  },
+  {
+    "_id": 8,
+    "ru": "Ты никогда туда не ходишь, не так ли?",
+    "en": "You never go there, do you?"
+  },
+  {
+    "_id": 9,
+    "ru": "У него есть машина, не так ли?",
+    "en": "He has got a car, hasn't he?"
+  },
+  {
+    "_id": 10,
+    "ru": "Ты действительно счастлив, не так ли?",
+    "en": "You are really happy, aren't you?"
+  },
+  {
+    "_id": 11,
+    "ru": "Он будет там до трех, не так ли?",
+    "en": "He will be there until three, won't he?"
+  },
+  {
+    "_id": 12,
+    "ru": "Я поступил правильно, не так ли?",
+    "en": "I did the right thing, didn't I?"
+  },
+  {
+    "_id": 13,
+    "ru": "Это хорошая идея, не так ли?",
+    "en": "It's a good idea, isn't it?"
+  },
+  {
+    "_id": 14,
+    "ru": "Он изучает архитектуру, не так ли?",
+    "en": "He is studying architecture, isn't he?"
+  },
+  {
+    "_id": 15,
+    "ru": "У него есть идея, не так ли?",
+    "en": "He has an idea, doesn't he?"
+  },
+  {
+    "_id": 16,
+    "ru": "Это действительно помогает тебе, не так ли?",
+    "en": "It really helps you, doesn't it?"
+  },
+  {
+    "_id": 17,
+    "ru": "Тебе нужны вилка и нож, не так ли?",
+    "en": "You need a fork and a knife, don't you?"
+  },
+  {
+    "_id": 18,
+    "ru": "Ты этого не понимаешь, не так ли?",
+    "en": "You don't understand it, do you?"
+  },
+  {
+    "_id": 19,
+    "ru": "Он больше не покупает сигарет, не так ли?",
+    "en": "He doesn't buy cigarettes anymore, does he?"
+  },
+  {
+    "_id": 20,
+    "ru": "Это действительно интересно, не так ли?",
+    "en": "It is really interesting, isn't it?"
+  },
+  {
+    "_id": 21,
+    "ru": "Он также хочет туда поехать, не так ли?",
+    "en": "He also wants to go there, doesn't he?"
+  },
+  {
+    "_id": 22,
+    "ru": "У тебя есть машина, не так ли?",
+    "en": "You've got a car, haven't you?"
+  },
+  {
+    "_id": 23,
+    "ru": "Мне не следует этого делать, не так ли?",
+    "en": "I shouldn't do it, should I?"
+  },
+  {
+    "_id": 24,
+    "ru": "У него высокая температура, не так ли?",
+    "en": "He has a high temperature, doesn't he?"
+  },
+  {
+    "_id": 25,
+    "ru": "Это хорошо, не так ли?",
+    "en": "It's good, isn't it?"
+  },
+  {
+    "_id": 26,
+    "ru": "Ты учишь английский самостоятельно, не так ли?",
+    "en": "You learn English by yourself, don't you?"
+  },
+  {
+    "_id": 27,
+    "ru": "Температура сейчас ниже нуля, не так ли?",
+    "en": "The temperature is below zero now, isn't it?"
+  },
+  {
+    "_id": 28,
+    "ru": "У тебя есть кот, не так ли?",
+    "en": "You have a cat, don't you?"
+  },
+  {
+    "_id": 29,
+    "ru": "Тебе нужен лимон, не так ли?",
+    "en": "You need a lemon, don't you?"
+  },
+  {
+    "_id": 30,
+    "ru": "Она работает официанткой, не так ли?",
+    "en": "She works as a waitress, doesn't she?"
+  },
+  {
+    "_id": 31,
+    "ru": "Ты не из США, не так ли?",
+    "en": "You aren't from the USA, are you?"
+  },
+  {
+    "_id": 32,
+    "ru": "Это действительно тебя интересует, не так ли?",
+    "en": "It really interests you, doesn't it?"
+  },
+  {
+    "_id": 33,
+    "ru": "Ты чувствуешь себя действительно счастливым, не так ли?",
+    "en": "You feel really happy, don't you?"
+  },
+  {
+    "_id": 34,
+    "ru": "Ты хочешь чай с лимоном, не так ли?",
+    "en": "You want tea with lemon, don't you?"
+  },
+  {
+    "_id": 35,
+    "ru": "Он действительно этого хочет, не так ли?",
+    "en": "He really wants it, doesn't he?"
+  },
+  {
+    "_id": 36,
+    "ru": "Это действительно невероятно, не так ли?",
+    "en": "It is really unbelievable, isn't it?"
+  },
+  {
+    "_id": 37,
+    "ru": "Он не должен этого делать, не так ли?",
+    "en": "He mustn't do it, must he?"
+  },
+  {
+    "_id": 38,
+    "ru": "У тебя есть машина, не так ли?",
+    "en": "You have a car, don't you?"
+  },
+  {
+    "_id": 39,
+    "ru": "Сегодня очень ветрено, не так ли?",
+    "en": "It's very windy today, isn't it?"
+  },
+  {
+    "_id": 40,
+    "ru": "Он купил новый мотоцикл, не так ли?",
+    "en": "He bought a new motorcycle, didn't he?"
+  },
+  {
+    "_id": 41,
+    "ru": "Она не права, не так ли?",
+    "en": "She isn't right, is she?"
+  },
+  {
+    "_id": 42,
+    "ru": "Они ничего не ответили, не так ли?",
+    "en": "They didn't answer anything, did they?"
+  },
+  {
+    "_id": 43,
+    "ru": "Это тебе совсем не помогает, не так ли?",
+    "en": "It doesn't help you at all, does it?"
+  },
+  {
+    "_id": 44,
+    "ru": "Это кажется действительно невероятным, не так ли?",
+    "en": "It seems really unbelievable, doesn't it?"
+  },
+  {
+    "_id": 45,
+    "ru": "Ты изучаешь графический дизайн, не так ли?",
+    "en": "You are studying graphic design, aren't you?"
+  },
+  {
+    "_id": 46,
+    "ru": "Тебе нужна вилка, не так ли?",
+    "en": "You need a fork, don't you?"
+  },
+  {
+    "_id": 47,
+    "ru": "Ты хочешь чай с сахаром, не так ли?",
+    "en": "You want tea with sugar, don't you?"
+  },
+  {
+    "_id": 48,
+    "ru": "Ты не опоздал, не так ли?",
+    "en": "You weren't late, were you?"
+  },
+  {
+    "_id": 49,
+    "ru": "Изучение английского языка - это интересно, не так ли?",
+    "en": "Learning English is interesting, isn't it?"
+  },
+  {
+    "_id": 50,
+    "ru": "В доме никто не живет, не так ли?",
+    "en": "Nobody lives in the house, do they?"
+  },
+  {
+    "_id": 51,
+    "ru": "Вы прекрасно провели время вместе, не так ли?",
+    "en": "You had a great time together, didn't you?"
+  },
+  {
+    "_id": 52,
+    "ru": "Ты ведь никогда не был в этом месте, не так ли?",
+    "en": "You have never been to this place, have you?"
+  },
+  {
+    "_id": 53,
+    "ru": "Не было никаких серьезных трудностей, не так ли?",
+    "en": "There weren't any serious difficulties, were there?"
+  },
+  {
+    "_id": 54,
+    "ru": "Он никогда не пьет алкоголь, не так ли?",
+    "en": "He never drinks alcohol, does he?"
+  },
+  {
+    "_id": 55,
+    "ru": "У него были очень серьезные проблемы, не так ли?",
+    "en": "He had very serious problems, didn't he?"
+  },
+  {
+    "_id": 56,
+    "ru": "Ты работал весь день, не так ли?",
+    "en": "You have been working all day, haven't you?"
+  },
+  {
+    "_id": 57,
+    "ru": "Ты уже был там, не так ли?",
+    "en": "You have already been there, haven't you?"
+  },
+  {
+    "_id": 58,
+    "ru": "Я нахожусь в нужном месте, не так ли?",
+    "en": "I am in the right place, aren't I?"
+  },
+  {
+    "_id": 59,
+    "ru": "Все там, не так ли?",
+    "en": "Everyone is there, aren't they?"
+  },
+  {
+    "_id": 60,
+    "ru": "В твоей работе не было никаких ошибок, не так ли?",
+    "en": "There weren't any mistakes in your work, were there?"
+  },
+  {
+    "_id": 61,
+    "ru": "Она опоздала на встречу, не так ли?",
+    "en": "She was late for the meeting, wasn't she?"
+  },
+  {
+    "_id": 62,
+    "ru": "На дорогах много льда, не так ли?",
+    "en": "There is much ice on the roads, isn't there?"
+  },
+  {
+    "_id": 63,
+    "ru": "В этой комнате много грязи, не так ли?",
+    "en": "There is much dirt in this room, isn't there?"
+  },
+  {
+    "_id": 64,
+    "ru": "На полу было так много воды, не правда ли?",
+    "en": "There was so much water on the floor, wasn't there?"
+  },
+  {
+    "_id": 65,
+    "ru": "Мы никогда не узнаем этого, не так ли?",
+    "en": "We will never know it, will we?"
+  },
+  {
+    "_id": 66,
+    "ru": "Мы узнаем это, не так ли?",
+    "en": "We will know it, won't we?"
+  },
+  {
+    "_id": 67,
+    "ru": "Мы никогда этого не сделаем, не так ли?",
+    "en": "We will never do it, will we?"
+  },
+  {
+    "_id": 68,
+    "ru": "Здесь слишком много соли, не так ли?",
+    "en": "There is too much salt here, isn't there?"
+  },
+  {
+    "_id": 69,
+    "ru": "У нее слишком много одежды, не так ли?",
+    "en": "She has too many clothes, doesn't she?"
+  },
+  {
+    "_id": 70,
+    "ru": "Здесь слишком много сахара, не так ли?",
+    "en": "There is too much sugar here, isn't there?"
+  },
+  {
+    "_id": 71,
+    "ru": "Давай сделаем это, хорошо?",
+    "en": "Let's do it, shall we?"
+  },
+  {
+    "_id": 72,
+    "ru": "Давай пойдем туда, хорошо?",
+    "en": "Let's go there, shall we?"
+  },
+  {
+    "_id": 73,
+    "ru": "Давай сделаем это вместе, хорошо?",
+    "en": "Let's do it together, shall we?"
+  },
+  {
+    "_id": 74,
+    "ru": "Все дети любят сладости, не так ли?",
+    "en": "All children love sweets, don't they?"
+  },
+  {
+    "_id": 75,
+    "ru": "Твой сын любит сладости, не так ли?",
+    "en": "Your son loves sweets, doesn't he?"
+  },
+  {
+    "_id": 76,
+    "ru": "Все люди любят вкусную еду, не так ли?",
+    "en": "All people love tasty food, don't they?"
+  },
+  {
+    "_id": 77,
+    "ru": "Давай поедем на следующем автобусе, хорошо?",
+    "en": "Let's take the next bus, shall we?"
+  },
+  {
+    "_id": 78,
+    "ru": "Давай возьмем такси, ладно?",
+    "en": "Let's take a taxi, shall we?"
+  },
+  {
+    "_id": 79,
+    "ru": "Давай пойдем в кино, хорошо?",
+    "en": "Let's go to the cinema, shall we?"
+  },
+  {
+    "_id": 80,
+    "ru": "Ничего плохого не случилось, не так ли?",
+    "en": "Nothing bad happened, did it?"
+  },
+  {
+    "_id": 81,
+    "ru": "Случилось что-то плохое, не так ли?",
+    "en": "Something bad happened, didn't it?"
+  },
+  {
+    "_id": 82,
+    "ru": "Ничего плохого не случится, правда?",
+    "en": "Nothing bad will happen, will it?"
+  },
+  {
+    "_id": 83,
+    "ru": "Давай подождем,пока дождь прекратится, хорошо?",
+    "en": "Let's wait till the rain stops, shall we?"
+  },
+  {
+    "_id": 84,
+    "ru": "Давай пойдем в парк, хорошо?",
+    "en": "Let's go to the park, shall we?"
+  },
+  {
+    "_id": 85,
+    "ru": "Давай пойдем туда вместе, хорошо?",
+    "en": "Let's go there together, shall we?"
+  },
+  {
+    "_id": 86,
+    "ru": "Давай подождем, пока снег не прекратится, хорошо?",
+    "en": "Let's wait till the snow stops, shall we?"
+  },
+  {
+    "_id": 87,
+    "ru": "Давай подождем его вместе, хорошо?",
+    "en": "Let's wait for him together, shall we?"
+  },
+  {
+    "_id": 88,
+    "ru": "Все это знают, не так ли?",
+    "en": "Everyone knows it, don't they?"
+  },
+  {
+    "_id": 89,
+    "ru": "Никто этого не знает, не так ли?",
+    "en": "Nobody knows it, do they?"
+  },
+  {
+    "_id": 90,
+    "ru": "Ты это знаешь, не так ли?",
+    "en": "You know it, don't you?"
+  },
+  {
+    "_id": 91,
+    "ru": "Никто не пошел на встречу, не так ли?",
+    "en": "Nobody went to the meeting, did they?"
+  },
+  {
+    "_id": 92,
+    "ru": "Ты еще не посетил это место, не так ли?",
+    "en": "You haven't visited this place yet, have you?"
+  },
+  {
+    "_id": 93,
+    "ru": "Давай позовем официанта, хорошо?",
+    "en": "Let's call the waiter, shall we?"
+  },
+  {
+    "_id": 94,
+    "ru": "Мне действительно везет, не так ли?",
+    "en": "I am really lucky, aren't I?"
+  },
+  {
+    "_id": 95,
+    "ru": "Он не опоздал на встречу, не так ли?",
+    "en": "He wasn't late for the meeting, was he?"
+  },
+  {
+    "_id": 96,
+    "ru": "Там никого не было, не так ли?",
+    "en": "Nobody was there, were they?"
+  },
+  {
+    "_id": 97,
+    "ru": "Постарайся быть осторожнее, ладно?",
+    "en": "Try to be more careful, will you?"
+  },
+  {
+    "_id": 98,
+    "ru": "Не забудь сделать это, ладно?",
+    "en": "Don't forget to do it, will you?"
+  },
+  {
+    "_id": 99,
+    "ru": "В супе не достаточно соли, не так ли?",
+    "en": "There isn't enough salt in the soup, is there?"
+  },
+  {
+    "_id": 100,
+    "ru": "Ты никогда этого не делаешь, не так ли?",
+    "en": "You never do it, do you?"
+  },
+  {
+    "_id": 101,
+    "ru": "Никто этого не знает, не так ли?",
+    "en": "No one knows it, do they?"
+  },
+  {
+    "_id": 102,
+    "ru": "Я прав, не так ли?",
+    "en": "I am right, aren't I?"
+  },
+  {
+    "_id": 103,
+    "ru": "Ничего не готово, не так ли?",
+    "en": "Nothing is ready, is it?"
+  }
 ]

@@ -1,406 +1,507 @@
 [
-  [
-    "Они не живут вместе?",
-    "Don’t they live together?"
-  ],
-  [
-    "Ты не счастлив?",
-    "Aren’t you happy?"
-  ],
-  [
-    "Он не был там?",
-    "Wasn’t he there?"
-  ],
-  [
-    "Он не жалеет об этом?",
-    "Doesn't he regret it?"
-  ],
-  [
-    "Тебя не интересует эта вещь?",
-    "Doesn't this thing interest you?"
-  ],
-  [
-    "Тебе не будет трудно?",
-    "Won't it be difficult for you?"
-  ],
-  [
-    "Он не ищет работу?",
-    "Isn't he looking for a job?"
-  ],
-  [
-    "Он не живет один?",
-    "Doesn't he live alone?"
-  ],
-  [
-    "Тебе это не интересно?",
-    "Isn't it interesting for you?"
-  ],
-  [
-    "Ты не ждешь этого?",
-    "Aren't you waiting for it?"
-  ],
-  [
-    "Ты не был там вчера?",
-    "Weren't you there yesterday?"
-  ],
-  [
-    "Он не может сказать тебе эту вещь прямо?",
-    "Can't he tell you this thing directly?"
-  ],
-  [
-    "Ты не согласен с этим?",
-    "Don't you agree with it?"
-  ],
-  [
-    "Ты не поедешь туда завтра?",
-    "Won't you go there tomorrow?"
-  ],
-  [
-    "Ты этого не знаешь?",
-    "Don't you know it?"
-  ],
-  [
-    "Она не жалеет об этой вещи?",
-    "Doesn't she regret this thing?"
-  ],
-  [
-    "Я не прав?",
-    "Am I not right?"
-  ],
-  [
-    "Почему ты этого не делаешь?",
-    "Why don't you do it?"
-  ],
-  [
-    "Он не врач?",
-    "Isn't he a doctor?"
-  ],
-  [
-    "Он не видит этого?",
-    "Doesn't he see it?"
-  ],
-  [
-    "Он не готов?",
-    "Isn't he ready?"
-  ],
-  [
-    "Ты не устал?",
-    "Aren't you tired?"
-  ],
-  [
-    "Тебе не нравится это?",
-    "Don't you like it?"
-  ],
-  [
-    "Она не профессор?",
-    "Isn't she a professor?"
-  ],
-  [
-    "Ты не сказал ему эту вещь?",
-    "Didn't you tell him this thing?"
-  ],
-  [
-    "Он не согласится сделать это?",
-    "Won't he agree to do it?"
-  ],
-  [
-    "Ты не любишь пиццу?",
-    "Don't you like pizza?"
-  ],
-  [
-    "Они не счастливы вместе?",
-    "Aren't they happy together?"
-  ],
-  [
-    "Ты не знаешь этого правила?",
-    "Don't you know this rule?"
-  ],
-  [
-    "Ты не любишь шоколад?",
-    "Don't you like chocolate?"
-  ],
-  [
-    "Она этого не понимает?",
-    "Doesn't she understand it?"
-  ],
-  [
-    "Ей не тринадцать?",
-    "Isn't she thirteen?"
-  ],
-  [
-    "Ей не нравится эта идея?",
-    "Doesn't she like this idea?"
-  ],
-  [
-    "Они не живут в одном городе?",
-    "Don't they live in the same city?"
-  ],
-  [
-    "Ему не будет одиннадцать в этом году?",
-    "Won't he be eleven this year?"
-  ],
-  [
-    "Она не может сказать это прямо?",
-    "Can't she say it directly?"
-  ],
-  [
-    "Ей не будет двенадцать в следующем году?",
-    "Won't she be twelve next year?"
-  ],
-  [
-    "Твои родители не помогают ей?",
-    "Don't your parents help her?"
-  ],
-  [
-    "Ты не чувствуешь себя уставшим?",
-    "Don't you feel tired?"
-  ],
-  [
-    "Твоему брату не шестнадцать?",
-    "Isn't your brother sixteen?"
-  ],
-  [
-    "Разве он не профессор?",
-    "Isn't he a professor?"
-  ],
-  [
-    "Почему ты не хочешь сделать это?",
-    "Why don't you want to do it?"
-  ],
-  [
-    "Твоему старшему брату не четырнадцать?",
-    "Isn't your elder brother fourteen?"
-  ],
-  [
-    "У тебя нет друга, который живет в Англии?",
-    "Don't you have a friend who lives in England?"
-  ],
-  [
-    "Тебе не хотелось бы жить в таком доме?",
-    "Wouldn't you like to live in such a house?"
-  ],
-  [
-    "Ты не был в Италии в прошлом месяце?",
-    "Weren't you in Italy last month?"
-  ],
-  [
-    "Эта сумка не твоя?",
-    "Isn't this bag yours?"
-  ],
-  [
-    "Эта ошибка не была исправлена?",
-    "Wasn't this mistake corrected?"
-  ],
-  [
-    "Не лучше было бы сделать это сейчас?",
-    "Wouldn't it be better to do it now?"
-  ],
-  [
-    "Ты еще не съел обед?",
-    "Haven't you eaten lunch yet?"
-  ],
-  [
-    "Ей не было семнадцати, когда они познакомились?",
-    "Wasn't she seventeen when they met?"
-  ],
-  [
-    "Тебе не хотелось бы жить в такой квартире?",
-    "Wouldn't you like to live in such an apartment?"
-  ],
-  [
-    "Это не сделано в Японии?",
-    "Isn't it made in Japan?"
-  ],
-  [
-    "Эти цифры не точны?",
-    "Aren't these figures exact?"
-  ],
-  [
-    "Это не будет скоро объявлено?",
-    "Won't it be announced soon?"
-  ],
-  [
-    "Ему не было девятнадцати, когда он встретил ее?",
-    "Wasn't he nineteen when he met her?"
-  ],
-  [
-    "Почему ты его не слушал?",
-    "Why didn't you listen to him?"
-  ],
-  [
-    "Он не работает менеджером?",
-    "Doesn't he work as a manager?"
-  ],
-  [
-    "Он не работает тренером?",
-    "Doesn't he work as a trainer?"
-  ],
-  [
-    "Она не работает учителем?",
-    "Doesn't she work as a teacher?"
-  ],
-  [
-    "Этот дом не ее?",
-    "Isn't this house hers?"
-  ],
-  [
-    "Этот дом не твой?",
-    "Isn't this house yours?"
-  ],
-  [
-    "Этот дом не мой",
-    "This house isn't mine"
-  ],
-  [
-    "Тебе не следует идти на работу сейчас?",
-    "Shouldn't you go to work now?"
-  ],
-  [
-    "Ты не пойдешь туда сейчас?",
-    "Won't you go there now?"
-  ],
-  [
-    "Ты не ходил на работу вчера?",
-    "Didn't you go to work yesterday?"
-  ],
-  [
-    "Ты там не был?",
-    "Haven't you been there?"
-  ],
-  [
-    "Она еще не была здесь?",
-    "Hasn't she been here yet?"
-  ],
-  [
-    "Ты еще не сделал этого?",
-    "Haven't you done it yet?"
-  ],
-  [
-    "Почему он не может этого сказать?",
-    "Why can't he say it?"
-  ],
-  [
-    "Почему он не может этого сделать?",
-    "Why can't he do it?"
-  ],
-  [
-    "Почему она не может встретить его?",
-    "Why can't she meet him?"
-  ],
-  [
-    "Он не может объяснить это нам?",
-    "Can't he explain it to us?"
-  ],
-  [
-    "Он не может показать это мне?",
-    "Can't he show it to me?"
-  ],
-  [
-    "Ты не можешь рекомендовать это нам?",
-    "Can't you recommend it to us?"
-  ],
-  [
-    "Он не ошибается?",
-    "Isn't he mistaken?"
-  ],
-  [
-    "Я не был прав?",
-    "Wasn't I right?"
-  ],
-  [
-    "Ей не повезло?",
-    "Isn't she lucky?"
-  ],
-  [
-    "Этот сайт не популярен?",
-    "Isn't this site popular?"
-  ],
-  [
-    "Этот фильм действительно не интересный?",
-    "Isn't this movie really interesting?"
-  ],
-  [
-    "Эта книга не новая?",
-    "Isn't this book new?"
-  ],
-  [
-    "У тебя нет наличных?",
-    "Haven't you got cash?"
-  ],
-  [
-    "У тебя нет денег?",
-    "Haven't you got any money?"
-  ],
-  [
-    "У тебя нет наличных?",
-    "Don't you have cash?"
-  ],
-  [
-    "Ты не знаешь, что это правда?",
-    "Don't you know that it's true?"
-  ],
-  [
-    "Ты не знал, что это была правда?",
-    "Didn't you know that it was true?"
-  ],
-  [
-    "Ты не знаешь, что это очень плохо?",
-    "Don't you know that it's very bad?"
-  ],
-  [
-    "Почему вы не откажетесь это сделать?",
-    "Why won't you refuse to do it?"
-  ],
-  [
-    "Это еще не случилось?",
-    "Hasn't it happened yet?"
-  ],
-  [
-    "Дети не в школе?",
-    "Aren't the children at school?"
-  ],
-  [
-    "Ты не хотел бы что-нибудь выпить?",
-    "Wouldn't you like something to drink?"
-  ],
-  [
-    "Он не может этого понять?",
-    "Can't he understand it?"
-  ],
-  [
-    "Ты еще не встретил его?",
-    "Haven't you met him yet?"
-  ],
-  [
-    "Она еще там не была?",
-    "Hasn't she been there yet?"
-  ],
-  [
-    "Он не может сказать тебе правду?",
-    "Can't he tell you the truth?"
-  ],
-  [
-    "Ты еще не сказал это?",
-    "Haven't you said it yet?"
-  ],
-  [
-    "Я не прав?",
-    "Aren't I right?"
-  ],
-  [
-    "Это не бесплатно?",
-    "Isn't it free?"
-  ],
-  [
-    "Мне не везет?",
-    "Aren't I lucky?"
-  ],
-  [
-    "Почему мы не можем этого сделать?",
-    "Why can't we do it?"
-  ],
-  [
-    "Мне не следует этого делать?",
-    "Shouldn't I do it?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Они не живут вместе?",
+    "en": "Don’t they live together?"
+  },
+  {
+    "_id": 2,
+    "ru": "Ты не счастлив?",
+    "en": "Aren’t you happy?"
+  },
+  {
+    "_id": 3,
+    "ru": "Он не был там?",
+    "en": "Wasn’t he there?"
+  },
+  {
+    "_id": 4,
+    "ru": "Он не жалеет об этом?",
+    "en": "Doesn't he regret it?"
+  },
+  {
+    "_id": 5,
+    "ru": "Тебя не интересует эта вещь?",
+    "en": "Doesn't this thing interest you?"
+  },
+  {
+    "_id": 6,
+    "ru": "Тебе не будет трудно?",
+    "en": "Won't it be difficult for you?"
+  },
+  {
+    "_id": 7,
+    "ru": "Он не ищет работу?",
+    "en": "Isn't he looking for a job?"
+  },
+  {
+    "_id": 8,
+    "ru": "Он не живет один?",
+    "en": "Doesn't he live alone?"
+  },
+  {
+    "_id": 9,
+    "ru": "Тебе это не интересно?",
+    "en": "Isn't it interesting for you?"
+  },
+  {
+    "_id": 10,
+    "ru": "Ты не ждешь этого?",
+    "en": "Aren't you waiting for it?"
+  },
+  {
+    "_id": 11,
+    "ru": "Ты не был там вчера?",
+    "en": "Weren't you there yesterday?"
+  },
+  {
+    "_id": 12,
+    "ru": "Он не может сказать тебе эту вещь прямо?",
+    "en": "Can't he tell you this thing directly?"
+  },
+  {
+    "_id": 13,
+    "ru": "Ты не согласен с этим?",
+    "en": "Don't you agree with it?"
+  },
+  {
+    "_id": 14,
+    "ru": "Ты не поедешь туда завтра?",
+    "en": "Won't you go there tomorrow?"
+  },
+  {
+    "_id": 15,
+    "ru": "Ты этого не знаешь?",
+    "en": "Don't you know it?"
+  },
+  {
+    "_id": 16,
+    "ru": "Она не жалеет об этой вещи?",
+    "en": "Doesn't she regret this thing?"
+  },
+  {
+    "_id": 17,
+    "ru": "Я не прав?",
+    "en": "Am I not right?"
+  },
+  {
+    "_id": 18,
+    "ru": "Почему ты этого не делаешь?",
+    "en": "Why don't you do it?"
+  },
+  {
+    "_id": 19,
+    "ru": "Он не врач?",
+    "en": "Isn't he a doctor?"
+  },
+  {
+    "_id": 20,
+    "ru": "Он не видит этого?",
+    "en": "Doesn't he see it?"
+  },
+  {
+    "_id": 21,
+    "ru": "Он не готов?",
+    "en": "Isn't he ready?"
+  },
+  {
+    "_id": 22,
+    "ru": "Ты не устал?",
+    "en": "Aren't you tired?"
+  },
+  {
+    "_id": 23,
+    "ru": "Тебе не нравится это?",
+    "en": "Don't you like it?"
+  },
+  {
+    "_id": 24,
+    "ru": "Она не профессор?",
+    "en": "Isn't she a professor?"
+  },
+  {
+    "_id": 25,
+    "ru": "Ты не сказал ему эту вещь?",
+    "en": "Didn't you tell him this thing?"
+  },
+  {
+    "_id": 26,
+    "ru": "Он не согласится сделать это?",
+    "en": "Won't he agree to do it?"
+  },
+  {
+    "_id": 27,
+    "ru": "Ты не любишь пиццу?",
+    "en": "Don't you like pizza?"
+  },
+  {
+    "_id": 28,
+    "ru": "Они не счастливы вместе?",
+    "en": "Aren't they happy together?"
+  },
+  {
+    "_id": 29,
+    "ru": "Ты не знаешь этого правила?",
+    "en": "Don't you know this rule?"
+  },
+  {
+    "_id": 30,
+    "ru": "Ты не любишь шоколад?",
+    "en": "Don't you like chocolate?"
+  },
+  {
+    "_id": 31,
+    "ru": "Она этого не понимает?",
+    "en": "Doesn't she understand it?"
+  },
+  {
+    "_id": 32,
+    "ru": "Ей не тринадцать?",
+    "en": "Isn't she thirteen?"
+  },
+  {
+    "_id": 33,
+    "ru": "Ей не нравится эта идея?",
+    "en": "Doesn't she like this idea?"
+  },
+  {
+    "_id": 34,
+    "ru": "Они не живут в одном городе?",
+    "en": "Don't they live in the same city?"
+  },
+  {
+    "_id": 35,
+    "ru": "Ему не будет одиннадцать в этом году?",
+    "en": "Won't he be eleven this year?"
+  },
+  {
+    "_id": 36,
+    "ru": "Она не может сказать это прямо?",
+    "en": "Can't she say it directly?"
+  },
+  {
+    "_id": 37,
+    "ru": "Ей не будет двенадцать в следующем году?",
+    "en": "Won't she be twelve next year?"
+  },
+  {
+    "_id": 38,
+    "ru": "Твои родители не помогают ей?",
+    "en": "Don't your parents help her?"
+  },
+  {
+    "_id": 39,
+    "ru": "Ты не чувствуешь себя уставшим?",
+    "en": "Don't you feel tired?"
+  },
+  {
+    "_id": 40,
+    "ru": "Твоему брату не шестнадцать?",
+    "en": "Isn't your brother sixteen?"
+  },
+  {
+    "_id": 41,
+    "ru": "Разве он не профессор?",
+    "en": "Isn't he a professor?"
+  },
+  {
+    "_id": 42,
+    "ru": "Почему ты не хочешь сделать это?",
+    "en": "Why don't you want to do it?"
+  },
+  {
+    "_id": 43,
+    "ru": "Твоему старшему брату не четырнадцать?",
+    "en": "Isn't your elder brother fourteen?"
+  },
+  {
+    "_id": 44,
+    "ru": "У тебя нет друга, который живет в Англии?",
+    "en": "Don't you have a friend who lives in England?"
+  },
+  {
+    "_id": 45,
+    "ru": "Тебе не хотелось бы жить в таком доме?",
+    "en": "Wouldn't you like to live in such a house?"
+  },
+  {
+    "_id": 46,
+    "ru": "Ты не был в Италии в прошлом месяце?",
+    "en": "Weren't you in Italy last month?"
+  },
+  {
+    "_id": 47,
+    "ru": "Эта сумка не твоя?",
+    "en": "Isn't this bag yours?"
+  },
+  {
+    "_id": 48,
+    "ru": "Эта ошибка не была исправлена?",
+    "en": "Wasn't this mistake corrected?"
+  },
+  {
+    "_id": 49,
+    "ru": "Не лучше было бы сделать это сейчас?",
+    "en": "Wouldn't it be better to do it now?"
+  },
+  {
+    "_id": 50,
+    "ru": "Ты еще не съел обед?",
+    "en": "Haven't you eaten lunch yet?"
+  },
+  {
+    "_id": 51,
+    "ru": "Ей не было семнадцати, когда они познакомились?",
+    "en": "Wasn't she seventeen when they met?"
+  },
+  {
+    "_id": 52,
+    "ru": "Тебе не хотелось бы жить в такой квартире?",
+    "en": "Wouldn't you like to live in such an apartment?"
+  },
+  {
+    "_id": 53,
+    "ru": "Это не сделано в Японии?",
+    "en": "Isn't it made in Japan?"
+  },
+  {
+    "_id": 54,
+    "ru": "Эти цифры не точны?",
+    "en": "Aren't these figures exact?"
+  },
+  {
+    "_id": 55,
+    "ru": "Это не будет скоро объявлено?",
+    "en": "Won't it be announced soon?"
+  },
+  {
+    "_id": 56,
+    "ru": "Ему не было девятнадцати, когда он встретил ее?",
+    "en": "Wasn't he nineteen when he met her?"
+  },
+  {
+    "_id": 57,
+    "ru": "Почему ты его не слушал?",
+    "en": "Why didn't you listen to him?"
+  },
+  {
+    "_id": 58,
+    "ru": "Он не работает менеджером?",
+    "en": "Doesn't he work as a manager?"
+  },
+  {
+    "_id": 59,
+    "ru": "Он не работает тренером?",
+    "en": "Doesn't he work as a trainer?"
+  },
+  {
+    "_id": 60,
+    "ru": "Она не работает учителем?",
+    "en": "Doesn't she work as a teacher?"
+  },
+  {
+    "_id": 61,
+    "ru": "Этот дом не ее?",
+    "en": "Isn't this house hers?"
+  },
+  {
+    "_id": 62,
+    "ru": "Этот дом не твой?",
+    "en": "Isn't this house yours?"
+  },
+  {
+    "_id": 63,
+    "ru": "Этот дом не мой",
+    "en": "This house isn't mine"
+  },
+  {
+    "_id": 64,
+    "ru": "Тебе не следует идти на работу сейчас?",
+    "en": "Shouldn't you go to work now?"
+  },
+  {
+    "_id": 65,
+    "ru": "Ты не пойдешь туда сейчас?",
+    "en": "Won't you go there now?"
+  },
+  {
+    "_id": 66,
+    "ru": "Ты не ходил на работу вчера?",
+    "en": "Didn't you go to work yesterday?"
+  },
+  {
+    "_id": 67,
+    "ru": "Ты там не был?",
+    "en": "Haven't you been there?"
+  },
+  {
+    "_id": 68,
+    "ru": "Она еще не была здесь?",
+    "en": "Hasn't she been here yet?"
+  },
+  {
+    "_id": 69,
+    "ru": "Ты еще не сделал этого?",
+    "en": "Haven't you done it yet?"
+  },
+  {
+    "_id": 70,
+    "ru": "Почему он не может этого сказать?",
+    "en": "Why can't he say it?"
+  },
+  {
+    "_id": 71,
+    "ru": "Почему он не может этого сделать?",
+    "en": "Why can't he do it?"
+  },
+  {
+    "_id": 72,
+    "ru": "Почему она не может встретить его?",
+    "en": "Why can't she meet him?"
+  },
+  {
+    "_id": 73,
+    "ru": "Он не может объяснить это нам?",
+    "en": "Can't he explain it to us?"
+  },
+  {
+    "_id": 74,
+    "ru": "Он не может показать это мне?",
+    "en": "Can't he show it to me?"
+  },
+  {
+    "_id": 75,
+    "ru": "Ты не можешь рекомендовать это нам?",
+    "en": "Can't you recommend it to us?"
+  },
+  {
+    "_id": 76,
+    "ru": "Он не ошибается?",
+    "en": "Isn't he mistaken?"
+  },
+  {
+    "_id": 77,
+    "ru": "Я не был прав?",
+    "en": "Wasn't I right?"
+  },
+  {
+    "_id": 78,
+    "ru": "Ей не повезло?",
+    "en": "Isn't she lucky?"
+  },
+  {
+    "_id": 79,
+    "ru": "Этот сайт не популярен?",
+    "en": "Isn't this site popular?"
+  },
+  {
+    "_id": 80,
+    "ru": "Этот фильм действительно не интересный?",
+    "en": "Isn't this movie really interesting?"
+  },
+  {
+    "_id": 81,
+    "ru": "Эта книга не новая?",
+    "en": "Isn't this book new?"
+  },
+  {
+    "_id": 82,
+    "ru": "У тебя нет наличных?",
+    "en": "Haven't you got cash?"
+  },
+  {
+    "_id": 83,
+    "ru": "У тебя нет денег?",
+    "en": "Haven't you got any money?"
+  },
+  {
+    "_id": 84,
+    "ru": "У тебя нет наличных?",
+    "en": "Don't you have cash?"
+  },
+  {
+    "_id": 85,
+    "ru": "Ты не знаешь, что это правда?",
+    "en": "Don't you know that it's true?"
+  },
+  {
+    "_id": 86,
+    "ru": "Ты не знал, что это была правда?",
+    "en": "Didn't you know that it was true?"
+  },
+  {
+    "_id": 87,
+    "ru": "Ты не знаешь, что это очень плохо?",
+    "en": "Don't you know that it's very bad?"
+  },
+  {
+    "_id": 88,
+    "ru": "Почему вы не откажетесь это сделать?",
+    "en": "Why won't you refuse to do it?"
+  },
+  {
+    "_id": 89,
+    "ru": "Это еще не случилось?",
+    "en": "Hasn't it happened yet?"
+  },
+  {
+    "_id": 90,
+    "ru": "Дети не в школе?",
+    "en": "Aren't the children at school?"
+  },
+  {
+    "_id": 91,
+    "ru": "Ты не хотел бы что-нибудь выпить?",
+    "en": "Wouldn't you like something to drink?"
+  },
+  {
+    "_id": 92,
+    "ru": "Он не может этого понять?",
+    "en": "Can't he understand it?"
+  },
+  {
+    "_id": 93,
+    "ru": "Ты еще не встретил его?",
+    "en": "Haven't you met him yet?"
+  },
+  {
+    "_id": 94,
+    "ru": "Она еще там не была?",
+    "en": "Hasn't she been there yet?"
+  },
+  {
+    "_id": 95,
+    "ru": "Он не может сказать тебе правду?",
+    "en": "Can't he tell you the truth?"
+  },
+  {
+    "_id": 96,
+    "ru": "Ты еще не сказал это?",
+    "en": "Haven't you said it yet?"
+  },
+  {
+    "_id": 97,
+    "ru": "Я не прав?",
+    "en": "Aren't I right?"
+  },
+  {
+    "_id": 98,
+    "ru": "Это не бесплатно?",
+    "en": "Isn't it free?"
+  },
+  {
+    "_id": 99,
+    "ru": "Мне не везет?",
+    "en": "Aren't I lucky?"
+  },
+  {
+    "_id": 100,
+    "ru": "Почему мы не можем этого сделать?",
+    "en": "Why can't we do it?"
+  },
+  {
+    "_id": 101,
+    "ru": "Мне не следует этого делать?",
+    "en": "Shouldn't I do it?"
+  }
 ]

@@ -1,74 +1,92 @@
 [
-  [
-    "Если я заработаю достаточно денег, я смогу это купить",
-    "If I earn enough money, I'll be able to buy it"
-  ],
-  [
-    "Если ничего не изменится, ситуация будет очень неприятной",
-    "If nothing changes, the situation will be very unpleasant"
-  ],
-  [
-    "Если ты не поторопишься, ты опоздаешь",
-    "If you don't hurry up, you'll be late"
-  ],
-  [
-    "Если пойдет дождь, я останусь дома",
-    "If it rains, I'll stay at home"
-  ],
-  [
-    "Если у меня есть свободное время, я обычно посвящаю его своим хобби",
-    "If I have free time, I usually devote it to my hobbies"
-  ],
-  [
-    "Если идет дождь, я обычно сижу дома",
-    "If it rains, I usually stay at home"
-  ],
-  [
-    "Если он позвонит мне, я буду очень удивлен",
-    "If he calls me, I'll be very surprised"
-  ],
-  [
-    "Она будет очень разочарована, если узнает это",
-    "She’ll be very disappointed if she knows it"
-  ],
-  [
-    "Когда ты тренируешься слишком много, ты устаешь очень быстро",
-    "When you train too much, you get tired very quickly"
-  ],
-  [
-    "Я устаю, если работаю слишком много",
-    "I get tired if I work too much"
-  ],
-  [
-    "Если вода достигает ста градусов, она закипает",
-    "If water reaches one hundred degrees, it boils"
-  ],
-  [
-    "Если все останется по-прежнему, не произойдет ничего хорошего",
-    "If everything remains the same, nothing good will happen"
-  ],
-  [
-    "Он будет шокирован, если узнает правду",
-    "He’ll be shocked if he knows the truth"
-  ],
-  [
-    "Если пойдет дождь, они могут отменить матч",
-    "If it rains, they can cancel the match"
-  ],
-  [
-    "Если ты будешь заниматься действительно усердно, ты сдашь экзамен",
-    "If you study really hard, you'll pass the exam"
-  ],
-  [
-    "Когда у меня есть свободное время, я обычно посвящаю его своей семье",
-    "When I have free time, I usually devote it to my family"
-  ],
-  [
-    "Если я занимаюсь английским регулярно, я чувствую реальный прогресс",
-    "If I learn English regularly, I feel real progress"
-  ],
-  [
-    "Если это произойдет, это будет очень странно",
-    "If it happens, it'll be very strange"
-  ]
+  {
+    "_id": 1,
+    "ru": "Если я заработаю достаточно денег, я смогу это купить",
+    "en": "If I earn enough money, I'll be able to buy it"
+  },
+  {
+    "_id": 2,
+    "ru": "Если ничего не изменится, ситуация будет очень неприятной",
+    "en": "If nothing changes, the situation will be very unpleasant"
+  },
+  {
+    "_id": 3,
+    "ru": "Если ты не поторопишься, ты опоздаешь",
+    "en": "If you don't hurry up, you'll be late"
+  },
+  {
+    "_id": 4,
+    "ru": "Если пойдет дождь, я останусь дома",
+    "en": "If it rains, I'll stay at home"
+  },
+  {
+    "_id": 5,
+    "ru": "Если у меня есть свободное время, я обычно посвящаю его своим хобби",
+    "en": "If I have free time, I usually devote it to my hobbies"
+  },
+  {
+    "_id": 6,
+    "ru": "Если идет дождь, я обычно сижу дома",
+    "en": "If it rains, I usually stay at home"
+  },
+  {
+    "_id": 7,
+    "ru": "Если он позвонит мне, я буду очень удивлен",
+    "en": "If he calls me, I'll be very surprised"
+  },
+  {
+    "_id": 8,
+    "ru": "Она будет очень разочарована, если узнает это",
+    "en": "She’ll be very disappointed if she knows it"
+  },
+  {
+    "_id": 9,
+    "ru": "Когда ты тренируешься слишком много, ты устаешь очень быстро",
+    "en": "When you train too much, you get tired very quickly"
+  },
+  {
+    "_id": 10,
+    "ru": "Я устаю, если работаю слишком много",
+    "en": "I get tired if I work too much"
+  },
+  {
+    "_id": 11,
+    "ru": "Если вода достигает ста градусов, она закипает",
+    "en": "If water reaches one hundred degrees, it boils"
+  },
+  {
+    "_id": 12,
+    "ru": "Если все останется по-прежнему, не произойдет ничего хорошего",
+    "en": "If everything remains the same, nothing good will happen"
+  },
+  {
+    "_id": 13,
+    "ru": "Он будет шокирован, если узнает правду",
+    "en": "He’ll be shocked if he knows the truth"
+  },
+  {
+    "_id": 14,
+    "ru": "Если пойдет дождь, они могут отменить матч",
+    "en": "If it rains, they can cancel the match"
+  },
+  {
+    "_id": 15,
+    "ru": "Если ты будешь заниматься действительно усердно, ты сдашь экзамен",
+    "en": "If you study really hard, you'll pass the exam"
+  },
+  {
+    "_id": 16,
+    "ru": "Когда у меня есть свободное время, я обычно посвящаю его своей семье",
+    "en": "When I have free time, I usually devote it to my family"
+  },
+  {
+    "_id": 17,
+    "ru": "Если я занимаюсь английским регулярно, я чувствую реальный прогресс",
+    "en": "If I learn English regularly, I feel real progress"
+  },
+  {
+    "_id": 18,
+    "ru": "Если это произойдет, это будет очень странно",
+    "en": "If it happens, it'll be very strange"
+  }
 ]

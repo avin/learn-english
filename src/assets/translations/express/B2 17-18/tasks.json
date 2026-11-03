@@ -1,62 +1,77 @@
 [
-  [
-    "Я бы хотел обсудить это с тобой",
-    "I'd like to talk it over with you"
-  ],
-  [
-    "Он забрался на дерево, и затем слез с него",
-    "He climbed up the tree and then climbed it down"
-  ],
-  [
-    "Было решено закрыть завод",
-    "It was decided to close down the factory"
-  ],
-  [
-    "Как лучше всего добраться до этого места?",
-    "What is the best way to get to this place?"
-  ],
-  [
-    "Дети выросли из этой одежды",
-    "The kids grew out of these clothes"
-  ],
-  [
-    "Как долго ты добираешься до работы?",
-    "How long does it take you to get to work?"
-  ],
-  [
-    "Давай обсудим это!",
-    "Let's talk it over!"
-  ],
-  [
-    "Я провожу тебя, если ты не против",
-    "I'll see you off if you don't mind"
-  ],
-  [
-    "Я позабочусь об этом, пока его не будет",
-    "I'll take care of it while he is away"
-  ],
-  [
-    "Единственный способ добраться до этого места - пешком.",
-    "The only way to get to this place is on foot"
-  ],
-  [
-    "Как ты обычно добираешься до работы? На машине",
-    "Автобусом"
-  ],
-  [
-    "Он сказал, что позаботится об этом, пока ее не будет",
-    "He said that he would take care of it while she was away"
-  ],
-  [
-    "Я провожу тебя",
-    "I'll see you off"
-  ],
-  [
-    "Она сказала, что он вырос из этой одежды",
-    "She said that he had grown out of these clothes"
-  ],
-  [
-    "How do you usually get to work? By car",
-    "By bus"
-  ]
+  {
+    "_id": 1,
+    "ru": "Я бы хотел обсудить это с тобой",
+    "en": "I'd like to talk it over with you"
+  },
+  {
+    "_id": 2,
+    "ru": "Он забрался на дерево, и затем слез с него",
+    "en": "He climbed up the tree and then climbed it down"
+  },
+  {
+    "_id": 3,
+    "ru": "Было решено закрыть завод",
+    "en": "It was decided to close down the factory"
+  },
+  {
+    "_id": 4,
+    "ru": "Как лучше всего добраться до этого места?",
+    "en": "What is the best way to get to this place?"
+  },
+  {
+    "_id": 5,
+    "ru": "Дети выросли из этой одежды",
+    "en": "The kids grew out of these clothes"
+  },
+  {
+    "_id": 6,
+    "ru": "Как долго ты добираешься до работы?",
+    "en": "How long does it take you to get to work?"
+  },
+  {
+    "_id": 7,
+    "ru": "Давай обсудим это!",
+    "en": "Let's talk it over!"
+  },
+  {
+    "_id": 8,
+    "ru": "Я провожу тебя, если ты не против",
+    "en": "I'll see you off if you don't mind"
+  },
+  {
+    "_id": 9,
+    "ru": "Я позабочусь об этом, пока его не будет",
+    "en": "I'll take care of it while he is away"
+  },
+  {
+    "_id": 10,
+    "ru": "Единственный способ добраться до этого места - пешком.",
+    "en": "The only way to get to this place is on foot"
+  },
+  {
+    "_id": 11,
+    "ru": "Как ты обычно добираешься до работы? На машине",
+    "en": "Автобусом"
+  },
+  {
+    "_id": 12,
+    "ru": "Он сказал, что позаботится об этом, пока ее не будет",
+    "en": "He said that he would take care of it while she was away"
+  },
+  {
+    "_id": 13,
+    "ru": "Я провожу тебя",
+    "en": "I'll see you off"
+  },
+  {
+    "_id": 14,
+    "ru": "Она сказала, что он вырос из этой одежды",
+    "en": "She said that he had grown out of these clothes"
+  },
+  {
+    "_id": 15,
+    "ru": "How do you usually get to work? By car",
+    "en": "By bus"
+  }
 ]

@@ -1,214 +1,267 @@
 [
-  [
-    "Сколько стоит платье?",
-    "How much is the dress?"
-  ],
-  [
-    "Что находится в коробке?",
-    "What's in the box?"
-  ],
-  [
-    "Где находится супермаркет?",
-    "Where is the supermarket?"
-  ],
-  [
-    "Что находится на полу?",
-    "What's on the floor?"
-  ],
-  [
-    "Как его зовут?",
-    "What's his name?"
-  ],
-  [
-    "Откуда ты? Я из России",
-    "Where are you from? I'm from Russia"
-  ],
-  [
-    "Как у нее дела? (Как она?)",
-    "How is she?"
-  ],
-  [
-    "Где этот магазин?",
-    "Where is this shop?"
-  ],
-  [
-    "Где ты сейчас?",
-    "Where are you now?"
-  ],
-  [
-    "Что находится на этом столе?",
-    "What's on this table?"
-  ],
-  [
-    "Откуда ты? Я из Бразилии",
-    "Where are you from? I'm from Brazil"
-  ],
-  [
-    "Когда ты на работе?",
-    "When are you at work?"
-  ],
-  [
-    "Кем она работает?",
-    "What's her job?"
-  ],
-  [
-    "Как у него дела? (Как он?)",
-    "How is he?"
-  ],
-  [
-    "Где это место?",
-    "Where is this place?"
-  ],
-  [
-    "Когда ты свободен?",
-    "When are you free?"
-  ],
-  [
-    "Где это?",
-    "Where is it?"
-  ],
-  [
-    "Где находится ближайший банк?",
-    "Where is the nearest bank?"
-  ],
-  [
-    "Как у них дела (Как они?)",
-    "How are they?"
-  ],
-  [
-    "Что находится на столе?",
-    "What's on the table?"
-  ],
-  [
-    "Кем он работает?",
-    "What's his job?"
-  ],
-  [
-    "Почему это так важно?",
-    "Why is it so important?"
-  ],
-  [
-    "Где банк?",
-    "Where is the bank?"
-  ],
-  [
-    "Где находится этот отель?",
-    "Where is this hotel?"
-  ],
-  [
-    "Где находится ближайший магазин?",
-    "Where is the nearest shop?"
-  ],
-  [
-    "Откуда она? Она из Германии",
-    "Where is she from? She's from Germany"
-  ],
-  [
-    "Сколько стоит это платье?",
-    "How much is this dress?"
-  ],
-  [
-    "Сколько это стоит?",
-    "How much is it?"
-  ],
-  [
-    "Сколько ей лет?",
-    "How old is she?"
-  ],
-  [
-    "Что здесь?",
-    "What's here?"
-  ],
-  [
-    "Где она?",
-    "Where is she?"
-  ],
-  [
-    "Где аэропорт?",
-    "Where is the airport?"
-  ],
-  [
-    "Кем ты работаешь?",
-    "What's your job?"
-  ],
-  [
-    "Сколько тебе лет?",
-    "How old are you?"
-  ],
-  [
-    "Сколько ему лет?",
-    "How old is he?"
-  ],
-  [
-    "Где он?",
-    "Where is he?"
-  ],
-  [
-    "Как дела? (Как ты?)",
-    "How are you?"
-  ],
-  [
-    "Как ее зовут?",
-    "What's her name?"
-  ],
-  [
-    "Почему это так дорого?",
-    "Why is it so expensive?"
-  ],
-  [
-    "Где ты?",
-    "Where are you?"
-  ],
-  [
-    "Откуда ты? Я из Англии",
-    "Where are you from? I'm from England"
-  ],
-  [
-    "Где этот банк?",
-    "Where is this bank?"
-  ],
-  [
-    "Откуда ты?",
-    "Where are you from?"
-  ],
-  [
-    "Кто он?",
-    "Who is he?"
-  ],
-  [
-    "Что находится в этой коробке?",
-    "What's in this box?"
-  ],
-  [
-    "Что там?",
-    "What's there?"
-  ],
-  [
-    "Кто прав?",
-    "Who is right?"
-  ],
-  [
-    "Как тебя зовут?",
-    "What's your name?"
-  ],
-  [
-    "Кто она?",
-    "Who is she?"
-  ],
-  [
-    "Сколько стоит сумка",
-    "How much is the bag?"
-  ],
-  [
-    "Сколько стоит билет?",
-    "How much is the ticket?"
-  ],
-  [
-    "Сколько стоит эта суика?",
-    "How much is this bag?"
-  ],
-  [
-    "Сколько стоит этот билет?",
-    "How much is this ticket?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Сколько стоит платье?",
+    "en": "How much is the dress?"
+  },
+  {
+    "_id": 2,
+    "ru": "Что находится в коробке?",
+    "en": "What's in the box?"
+  },
+  {
+    "_id": 3,
+    "ru": "Где находится супермаркет?",
+    "en": "Where is the supermarket?"
+  },
+  {
+    "_id": 4,
+    "ru": "Что находится на полу?",
+    "en": "What's on the floor?"
+  },
+  {
+    "_id": 5,
+    "ru": "Как его зовут?",
+    "en": "What's his name?"
+  },
+  {
+    "_id": 6,
+    "ru": "Откуда ты? Я из России",
+    "en": "Where are you from? I'm from Russia"
+  },
+  {
+    "_id": 7,
+    "ru": "Как у нее дела? (Как она?)",
+    "en": "How is she?"
+  },
+  {
+    "_id": 8,
+    "ru": "Где этот магазин?",
+    "en": "Where is this shop?"
+  },
+  {
+    "_id": 9,
+    "ru": "Где ты сейчас?",
+    "en": "Where are you now?"
+  },
+  {
+    "_id": 10,
+    "ru": "Что находится на этом столе?",
+    "en": "What's on this table?"
+  },
+  {
+    "_id": 11,
+    "ru": "Откуда ты? Я из Бразилии",
+    "en": "Where are you from? I'm from Brazil"
+  },
+  {
+    "_id": 12,
+    "ru": "Когда ты на работе?",
+    "en": "When are you at work?"
+  },
+  {
+    "_id": 13,
+    "ru": "Кем она работает?",
+    "en": "What's her job?"
+  },
+  {
+    "_id": 14,
+    "ru": "Как у него дела? (Как он?)",
+    "en": "How is he?"
+  },
+  {
+    "_id": 15,
+    "ru": "Где это место?",
+    "en": "Where is this place?"
+  },
+  {
+    "_id": 16,
+    "ru": "Когда ты свободен?",
+    "en": "When are you free?"
+  },
+  {
+    "_id": 17,
+    "ru": "Где это?",
+    "en": "Where is it?"
+  },
+  {
+    "_id": 18,
+    "ru": "Где находится ближайший банк?",
+    "en": "Where is the nearest bank?"
+  },
+  {
+    "_id": 19,
+    "ru": "Как у них дела (Как они?)",
+    "en": "How are they?"
+  },
+  {
+    "_id": 20,
+    "ru": "Что находится на столе?",
+    "en": "What's on the table?"
+  },
+  {
+    "_id": 21,
+    "ru": "Кем он работает?",
+    "en": "What's his job?"
+  },
+  {
+    "_id": 22,
+    "ru": "Почему это так важно?",
+    "en": "Why is it so important?"
+  },
+  {
+    "_id": 23,
+    "ru": "Где банк?",
+    "en": "Where is the bank?"
+  },
+  {
+    "_id": 24,
+    "ru": "Где находится этот отель?",
+    "en": "Where is this hotel?"
+  },
+  {
+    "_id": 25,
+    "ru": "Где находится ближайший магазин?",
+    "en": "Where is the nearest shop?"
+  },
+  {
+    "_id": 26,
+    "ru": "Откуда она? Она из Германии",
+    "en": "Where is she from? She's from Germany"
+  },
+  {
+    "_id": 27,
+    "ru": "Сколько стоит это платье?",
+    "en": "How much is this dress?"
+  },
+  {
+    "_id": 28,
+    "ru": "Сколько это стоит?",
+    "en": "How much is it?"
+  },
+  {
+    "_id": 29,
+    "ru": "Сколько ей лет?",
+    "en": "How old is she?"
+  },
+  {
+    "_id": 30,
+    "ru": "Что здесь?",
+    "en": "What's here?"
+  },
+  {
+    "_id": 31,
+    "ru": "Где она?",
+    "en": "Where is she?"
+  },
+  {
+    "_id": 32,
+    "ru": "Где аэропорт?",
+    "en": "Where is the airport?"
+  },
+  {
+    "_id": 33,
+    "ru": "Кем ты работаешь?",
+    "en": "What's your job?"
+  },
+  {
+    "_id": 34,
+    "ru": "Сколько тебе лет?",
+    "en": "How old are you?"
+  },
+  {
+    "_id": 35,
+    "ru": "Сколько ему лет?",
+    "en": "How old is he?"
+  },
+  {
+    "_id": 36,
+    "ru": "Где он?",
+    "en": "Where is he?"
+  },
+  {
+    "_id": 37,
+    "ru": "Как дела? (Как ты?)",
+    "en": "How are you?"
+  },
+  {
+    "_id": 38,
+    "ru": "Как ее зовут?",
+    "en": "What's her name?"
+  },
+  {
+    "_id": 39,
+    "ru": "Почему это так дорого?",
+    "en": "Why is it so expensive?"
+  },
+  {
+    "_id": 40,
+    "ru": "Где ты?",
+    "en": "Where are you?"
+  },
+  {
+    "_id": 41,
+    "ru": "Откуда ты? Я из Англии",
+    "en": "Where are you from? I'm from England"
+  },
+  {
+    "_id": 42,
+    "ru": "Где этот банк?",
+    "en": "Where is this bank?"
+  },
+  {
+    "_id": 43,
+    "ru": "Откуда ты?",
+    "en": "Where are you from?"
+  },
+  {
+    "_id": 44,
+    "ru": "Кто он?",
+    "en": "Who is he?"
+  },
+  {
+    "_id": 45,
+    "ru": "Что находится в этой коробке?",
+    "en": "What's in this box?"
+  },
+  {
+    "_id": 46,
+    "ru": "Что там?",
+    "en": "What's there?"
+  },
+  {
+    "_id": 47,
+    "ru": "Кто прав?",
+    "en": "Who is right?"
+  },
+  {
+    "_id": 48,
+    "ru": "Как тебя зовут?",
+    "en": "What's your name?"
+  },
+  {
+    "_id": 49,
+    "ru": "Кто она?",
+    "en": "Who is she?"
+  },
+  {
+    "_id": 50,
+    "ru": "Сколько стоит сумка",
+    "en": "How much is the bag?"
+  },
+  {
+    "_id": 51,
+    "ru": "Сколько стоит билет?",
+    "en": "How much is the ticket?"
+  },
+  {
+    "_id": 52,
+    "ru": "Сколько стоит эта суика?",
+    "en": "How much is this bag?"
+  },
+  {
+    "_id": 53,
+    "ru": "Сколько стоит этот билет?",
+    "en": "How much is this ticket?"
+  }
 ]

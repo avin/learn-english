@@ -1,82 +1,102 @@
 [
-  [
-    "Он сказал не трогать это",
-    "He said not to touch it"
-  ],
-  [
-    "Цена упала очень резко",
-    "The price dropped very sharply"
-  ],
-  [
-    "Он очень плохо спал прошлой ночью",
-    "He slept very badly last night"
-  ],
-  [
-    "Полиция сообщила, что он бесследно исчез",
-    "The police reported that he had disappeared without a trace"
-  ],
-  [
-    "Платье ей сейчас идет",
-    "The dress fits her now"
-  ],
-  [
-    "Я хотел бы извиниться за задержку",
-    "I'd like to apologize for the delay"
-  ],
-  [
-    "Тебе нужно заполнить форму сначала",
-    "You need to fill in the the form first"
-  ],
-  [
-    "Она чувствовала, что он предал ее",
-    "She felt that he had betrayed her"
-  ],
-  [
-    "Мост соорудили в этом году",
-    "The bridge has been constructed this year"
-  ],
-  [
-    "Как говорится, о вкусах не спорят",
-    "As they say, tastes differ"
-  ],
-  [
-    "Если честно, я сомневаюсь, что он скоро уйдет на пенсию",
-    "To be honest, I doubt that he'll retire soon"
-  ],
-  [
-    "Все уже было решено",
-    "Everything has already been decided"
-  ],
-  [
-    "Ожидается, что продажи удвоятся в следующем году",
-    "It's expected that the sales will double next year"
-  ],
-  [
-    "Было проведено несколько экспериментов этим ученым",
-    "Several experiments were conducted by this scientist"
-  ],
-  [
-    "Я сожалею, что не сделал этого раньше",
-    "I regret that I hadn't done it before"
-  ],
-  [
-    "Он сказал, что пришлет мне копию",
-    "He said that he would send me a copy"
-  ],
-  [
-    "Как мы все знаем, на английском говорят во всем мире",
-    "As we all know, English is spoken all over the world"
-  ],
-  [
-    "Если ты не поторопишься, то опоздаешь на поезд",
-    "If you don't hurry up, you'll be late for the train"
-  ],
-  [
-    "Слишком много денег было потрачено на это",
-    "Too much money was spent on it"
-  ],
-  [
-    "Полиция сообщила, что его избили очень сильно",
-    "The police reported that he had been beaten very badly"
-  ]
+  {
+    "_id": 1,
+    "ru": "Он сказал не трогать это",
+    "en": "He said not to touch it"
+  },
+  {
+    "_id": 2,
+    "ru": "Цена упала очень резко",
+    "en": "The price dropped very sharply"
+  },
+  {
+    "_id": 3,
+    "ru": "Он очень плохо спал прошлой ночью",
+    "en": "He slept very badly last night"
+  },
+  {
+    "_id": 4,
+    "ru": "Полиция сообщила, что он бесследно исчез",
+    "en": "The police reported that he had disappeared without a trace"
+  },
+  {
+    "_id": 5,
+    "ru": "Платье ей сейчас идет",
+    "en": "The dress fits her now"
+  },
+  {
+    "_id": 6,
+    "ru": "Я хотел бы извиниться за задержку",
+    "en": "I'd like to apologize for the delay"
+  },
+  {
+    "_id": 7,
+    "ru": "Тебе нужно заполнить форму сначала",
+    "en": "You need to fill in the the form first"
+  },
+  {
+    "_id": 8,
+    "ru": "Она чувствовала, что он предал ее",
+    "en": "She felt that he had betrayed her"
+  },
+  {
+    "_id": 9,
+    "ru": "Мост соорудили в этом году",
+    "en": "The bridge has been constructed this year"
+  },
+  {
+    "_id": 10,
+    "ru": "Как говорится, о вкусах не спорят",
+    "en": "As they say, tastes differ"
+  },
+  {
+    "_id": 11,
+    "ru": "Если честно, я сомневаюсь, что он скоро уйдет на пенсию",
+    "en": "To be honest, I doubt that he'll retire soon"
+  },
+  {
+    "_id": 12,
+    "ru": "Все уже было решено",
+    "en": "Everything has already been decided"
+  },
+  {
+    "_id": 13,
+    "ru": "Ожидается, что продажи удвоятся в следующем году",
+    "en": "It's expected that the sales will double next year"
+  },
+  {
+    "_id": 14,
+    "ru": "Было проведено несколько экспериментов этим ученым",
+    "en": "Several experiments were conducted by this scientist"
+  },
+  {
+    "_id": 15,
+    "ru": "Я сожалею, что не сделал этого раньше",
+    "en": "I regret that I hadn't done it before"
+  },
+  {
+    "_id": 16,
+    "ru": "Он сказал, что пришлет мне копию",
+    "en": "He said that he would send me a copy"
+  },
+  {
+    "_id": 17,
+    "ru": "Как мы все знаем, на английском говорят во всем мире",
+    "en": "As we all know, English is spoken all over the world"
+  },
+  {
+    "_id": 18,
+    "ru": "Если ты не поторопишься, то опоздаешь на поезд",
+    "en": "If you don't hurry up, you'll be late for the train"
+  },
+  {
+    "_id": 19,
+    "ru": "Слишком много денег было потрачено на это",
+    "en": "Too much money was spent on it"
+  },
+  {
+    "_id": 20,
+    "ru": "Полиция сообщила, что его избили очень сильно",
+    "en": "The police reported that he had been beaten very badly"
+  }
 ]

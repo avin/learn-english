@@ -1,190 +1,237 @@
 [
-  [
-    "Тебе понравилась экскурсия?",
-    "Did you like the excursion?"
-  ],
-  [
-    "Он сделал ошибку?",
-    "Did he make a mistake?"
-  ],
-  [
-    "Тебе понравился этот урок?",
-    "Did you like this lesson?"
-  ],
-  [
-    "Тебе понравилась эта экскурсия?",
-    "Did you like this excursion?"
-  ],
-  [
-    "Тебе понравилось это видео?",
-    "Did you like this video?"
-  ],
-  [
-    "Ты решил эти проблемы?",
-    "Did you solve these problems?"
-  ],
-  [
-    "Тебе понравилась книга?",
-    "Did you like the book?"
-  ],
-  [
-    "Я правильно написал это?",
-    "Did I write it correctly?"
-  ],
-  [
-    "Ты понял это?",
-    "Did you understand it?"
-  ],
-  [
-    "Тебе понравился этот фильм?",
-    "Did you like this movie?"
-  ],
-  [
-    "Они приехали туда?",
-    "Did they come there?"
-  ],
-  [
-    "Ты сдал тот экзамен?",
-    "Did you pass that exam?"
-  ],
-  [
-    "Тебе понравилась эта программа?",
-    "Did you like this program?"
-  ],
-  [
-    "Ты прошел тест?",
-    "Did you pass the test?"
-  ],
-  [
-    "Ты показал лучший результат?",
-    "Did you show the best result?"
-  ],
-  [
-    "Тебе понравилась эта книга?",
-    "Did you like this book?"
-  ],
-  [
-    "Это действительно помогло тебе?",
-    "Did it really help you?"
-  ],
-  [
-    "Тебе понравился этот матч?",
-    "Did you like this match?"
-  ],
-  [
-    "Он решил те проблемы?",
-    "Did he solve those problems?"
-  ],
-  [
-    "Ему понравилась та экскурсия?",
-    "Did he like that excursion?"
-  ],
-  [
-    "Тебе понравилась игра?",
-    "Did you like the game?"
-  ],
-  [
-    "Ты сдал экзамен?",
-    "Did you pass the exam?"
-  ],
-  [
-    "Она знала это?",
-    "Did she know it?"
-  ],
-  [
-    "Это случилось вчера?",
-    "Did it happen yesterday?"
-  ],
-  [
-    "Ты решил эту проблему?",
-    "Did you solve this problem?"
-  ],
-  [
-    "Он купил машину?",
-    "Did he buy a car?"
-  ],
-  [
-    "Тебе понравилась эта игра?",
-    "Did you like this game?"
-  ],
-  [
-    "Мы ответили на это правильно?",
-    "Did we answer it correctly?"
-  ],
-  [
-    "Он решил ту проблему?",
-    "Did he solve that problem?"
-  ],
-  [
-    "Он действительно помог тебе?",
-    "Did he really help you?"
-  ],
-  [
-    "Ты вчера ходил на работу?",
-    "Did you go to work yesterday?"
-  ],
-  [
-    "Ты заплатил за это?",
-    "Did you pay for it?"
-  ],
-  [
-    "Тебе понравилась поездка?",
-    "Did you like the trip?"
-  ],
-  [
-    "Мы правильно сказали это?",
-    "Did we say it correctly?"
-  ],
-  [
-    "Ты заказал это онлайн?",
-    "Did you order it online?"
-  ],
-  [
-    "Тебе понравилась эта идея?",
-    "Did you like this idea?"
-  ],
-  [
-    "Ты купил это онлайн?",
-    "Did you buy it online?"
-  ],
-  [
-    "Я сделал какие-либо ошибки?",
-    "Did I make any mistakes?"
-  ],
-  [
-    "Ты решил те проблемы?",
-    "Did you solve those problems?"
-  ],
-  [
-    "Ты сделал свое домашнее задание?",
-    "Did you do your homework?"
-  ],
-  [
-    "Ты ходил туда?",
-    "Did you go there?"
-  ],
-  [
-    "Тебе понравился урок?",
-    "Did you like the lesson?"
-  ],
-  [
-    "Тебе понравилась эта поездка?",
-    "Did you like this trip?"
-  ],
-  [
-    "Это помогло тебе?",
-    "Did it help you?"
-  ],
-  [
-    "Я правильно сказал это?",
-    "Did I say it correctly?"
-  ],
-  [
-    "Он работал с тобой?",
-    "Did he work with you?"
-  ],
-  [
-    "Ты сдал этот тест?",
-    "Did you pass this test?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Тебе понравилась экскурсия?",
+    "en": "Did you like the excursion?"
+  },
+  {
+    "_id": 2,
+    "ru": "Он сделал ошибку?",
+    "en": "Did he make a mistake?"
+  },
+  {
+    "_id": 3,
+    "ru": "Тебе понравился этот урок?",
+    "en": "Did you like this lesson?"
+  },
+  {
+    "_id": 4,
+    "ru": "Тебе понравилась эта экскурсия?",
+    "en": "Did you like this excursion?"
+  },
+  {
+    "_id": 5,
+    "ru": "Тебе понравилось это видео?",
+    "en": "Did you like this video?"
+  },
+  {
+    "_id": 6,
+    "ru": "Ты решил эти проблемы?",
+    "en": "Did you solve these problems?"
+  },
+  {
+    "_id": 7,
+    "ru": "Тебе понравилась книга?",
+    "en": "Did you like the book?"
+  },
+  {
+    "_id": 8,
+    "ru": "Я правильно написал это?",
+    "en": "Did I write it correctly?"
+  },
+  {
+    "_id": 9,
+    "ru": "Ты понял это?",
+    "en": "Did you understand it?"
+  },
+  {
+    "_id": 10,
+    "ru": "Тебе понравился этот фильм?",
+    "en": "Did you like this movie?"
+  },
+  {
+    "_id": 11,
+    "ru": "Они приехали туда?",
+    "en": "Did they come there?"
+  },
+  {
+    "_id": 12,
+    "ru": "Ты сдал тот экзамен?",
+    "en": "Did you pass that exam?"
+  },
+  {
+    "_id": 13,
+    "ru": "Тебе понравилась эта программа?",
+    "en": "Did you like this program?"
+  },
+  {
+    "_id": 14,
+    "ru": "Ты прошел тест?",
+    "en": "Did you pass the test?"
+  },
+  {
+    "_id": 15,
+    "ru": "Ты показал лучший результат?",
+    "en": "Did you show the best result?"
+  },
+  {
+    "_id": 16,
+    "ru": "Тебе понравилась эта книга?",
+    "en": "Did you like this book?"
+  },
+  {
+    "_id": 17,
+    "ru": "Это действительно помогло тебе?",
+    "en": "Did it really help you?"
+  },
+  {
+    "_id": 18,
+    "ru": "Тебе понравился этот матч?",
+    "en": "Did you like this match?"
+  },
+  {
+    "_id": 19,
+    "ru": "Он решил те проблемы?",
+    "en": "Did he solve those problems?"
+  },
+  {
+    "_id": 20,
+    "ru": "Ему понравилась та экскурсия?",
+    "en": "Did he like that excursion?"
+  },
+  {
+    "_id": 21,
+    "ru": "Тебе понравилась игра?",
+    "en": "Did you like the game?"
+  },
+  {
+    "_id": 22,
+    "ru": "Ты сдал экзамен?",
+    "en": "Did you pass the exam?"
+  },
+  {
+    "_id": 23,
+    "ru": "Она знала это?",
+    "en": "Did she know it?"
+  },
+  {
+    "_id": 24,
+    "ru": "Это случилось вчера?",
+    "en": "Did it happen yesterday?"
+  },
+  {
+    "_id": 25,
+    "ru": "Ты решил эту проблему?",
+    "en": "Did you solve this problem?"
+  },
+  {
+    "_id": 26,
+    "ru": "Он купил машину?",
+    "en": "Did he buy a car?"
+  },
+  {
+    "_id": 27,
+    "ru": "Тебе понравилась эта игра?",
+    "en": "Did you like this game?"
+  },
+  {
+    "_id": 28,
+    "ru": "Мы ответили на это правильно?",
+    "en": "Did we answer it correctly?"
+  },
+  {
+    "_id": 29,
+    "ru": "Он решил ту проблему?",
+    "en": "Did he solve that problem?"
+  },
+  {
+    "_id": 30,
+    "ru": "Он действительно помог тебе?",
+    "en": "Did he really help you?"
+  },
+  {
+    "_id": 31,
+    "ru": "Ты вчера ходил на работу?",
+    "en": "Did you go to work yesterday?"
+  },
+  {
+    "_id": 32,
+    "ru": "Ты заплатил за это?",
+    "en": "Did you pay for it?"
+  },
+  {
+    "_id": 33,
+    "ru": "Тебе понравилась поездка?",
+    "en": "Did you like the trip?"
+  },
+  {
+    "_id": 34,
+    "ru": "Мы правильно сказали это?",
+    "en": "Did we say it correctly?"
+  },
+  {
+    "_id": 35,
+    "ru": "Ты заказал это онлайн?",
+    "en": "Did you order it online?"
+  },
+  {
+    "_id": 36,
+    "ru": "Тебе понравилась эта идея?",
+    "en": "Did you like this idea?"
+  },
+  {
+    "_id": 37,
+    "ru": "Ты купил это онлайн?",
+    "en": "Did you buy it online?"
+  },
+  {
+    "_id": 38,
+    "ru": "Я сделал какие-либо ошибки?",
+    "en": "Did I make any mistakes?"
+  },
+  {
+    "_id": 39,
+    "ru": "Ты решил те проблемы?",
+    "en": "Did you solve those problems?"
+  },
+  {
+    "_id": 40,
+    "ru": "Ты сделал свое домашнее задание?",
+    "en": "Did you do your homework?"
+  },
+  {
+    "_id": 41,
+    "ru": "Ты ходил туда?",
+    "en": "Did you go there?"
+  },
+  {
+    "_id": 42,
+    "ru": "Тебе понравился урок?",
+    "en": "Did you like the lesson?"
+  },
+  {
+    "_id": 43,
+    "ru": "Тебе понравилась эта поездка?",
+    "en": "Did you like this trip?"
+  },
+  {
+    "_id": 44,
+    "ru": "Это помогло тебе?",
+    "en": "Did it help you?"
+  },
+  {
+    "_id": 45,
+    "ru": "Я правильно сказал это?",
+    "en": "Did I say it correctly?"
+  },
+  {
+    "_id": 46,
+    "ru": "Он работал с тобой?",
+    "en": "Did he work with you?"
+  },
+  {
+    "_id": 47,
+    "ru": "Ты сдал этот тест?",
+    "en": "Did you pass this test?"
+  }
 ]

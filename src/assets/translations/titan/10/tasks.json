@@ -1,366 +1,457 @@
 [
-  [
-    "Он живет в том доме?",
-    "Does he live in that house?"
-  ],
-  [
-    "Это кажется очень странным?",
-    "Does it seem very strange?"
-  ],
-  [
-    "Он учится?",
-    "Does he study?"
-  ],
-  [
-    "Это кажется важным?",
-    "Does it seem important?"
-  ],
-  [
-    "Ты живешь рядом с этим местом?",
-    "Do you live near this place?"
-  ],
-  [
-    "Он живет в другой стране?",
-    "Does he live in another country?"
-  ],
-  [
-    "У него есть девушка?",
-    "Does he have a girlfriend?"
-  ],
-  [
-    "У него есть свободное время?",
-    "Does he have free time?"
-  ],
-  [
-    "Это стоит три тысячи фунтов?",
-    "Does it cost three thousand pounds?"
-  ],
-  [
-    "Она чувствует себя счастливой?",
-    "Does she feel happy?"
-  ],
-  [
-    "Он живет в доме?",
-    "Does he live in a house?"
-  ],
-  [
-    "Это стоит сорок фунтов?",
-    "Does it cost forty pounds?"
-  ],
-  [
-    "Это кажется странным?",
-    "Does it seem strange?"
-  ],
-  [
-    "Это стоит тридцать евро?",
-    "Does it cost thirty euros?"
-  ],
-  [
-    "Это действительно помогает тебе?",
-    "Does it really help you?"
-  ],
-  [
-    "Он живет очень далеко отсюда?",
-    "Does he live very far from here?"
-  ],
-  [
-    "Ты живешь далеко?",
-    "Do you live far?"
-  ],
-  [
-    "У нее есть парень?",
-    "Does she have a boyfriend?"
-  ],
-  [
-    "Он выглядит счастливым?",
-    "Does he look happy?"
-  ],
-  [
-    "Это помогает тебе?",
-    "Does it help you?"
-  ],
-  [
-    "Он работает?",
-    "Does he work?"
-  ],
-  [
-    "Это беспокоит тебя?",
-    "Does it worry you?"
-  ],
-  [
-    "Это стоит семьсот евро?",
-    "Does it cost seven hundred euros?"
-  ],
-  [
-    "У нее есть собака?",
-    "Does she have a dog?"
-  ],
-  [
-    "Ты живешь рядом?",
-    "Do you live near?"
-  ],
-  [
-    "Ему нравится тот метод?",
-    "Does he like that method?"
-  ],
-  [
-    "Это стоит больше?",
-    "Does it cost more?"
-  ],
-  [
-    "Она живет в другом месте?",
-    "Does she live in another place?"
-  ],
-  [
-    "У него есть машина?",
-    "Does he have a car?"
-  ],
-  [
-    "Это кажется интересным?",
-    "Does it seem interesting?"
-  ],
-  [
-    "Это кажется очень важным?",
-    "Does it seem very important?"
-  ],
-  [
-    "Ей нравится этот метод?",
-    "Does she like this method?"
-  ],
-  [
-    "У него есть кот?",
-    "Does he have a cat?"
-  ],
-  [
-    "Он живет около того места?",
-    "Does he live near that place?"
-  ],
-  [
-    "Это действительно тебя беспокоит?",
-    "Does it really worry you?"
-  ],
-  [
-    "Ты живешь в доме?",
-    "Do you live in a house?"
-  ],
-  [
-    "Это кажется скучным?",
-    "Does it seem boring?"
-  ],
-  [
-    "Она живет в квартире?",
-    "Does she live in an apartment?"
-  ],
-  [
-    "Это стоит пятьсот долларов?",
-    "Does it cost five hundred dollars?"
-  ],
-  [
-    "Он занимается бизнесом?",
-    "Does he do business?"
-  ],
-  [
-    "Это кажется действительно странным?",
-    "Does it seem really strange?"
-  ],
-  [
-    "Вы живете вместе?",
-    "Do you live together?"
-  ],
-  [
-    "Он видит их?",
-    "Does he see them?"
-  ],
-  [
-    "Он тебе помогает?",
-    "Does he help you?"
-  ],
-  [
-    "Он покупает очень дешевые вещи?",
-    "Does he buy very cheap things?"
-  ],
-  [
-    "Ты часто слушаешь музыку?",
-    "Do you often listen to music?"
-  ],
-  [
-    "Он делает так много ошибок?",
-    "Does he make so many mistakes?"
-  ],
-  [
-    "Это действительно интересует тебя?",
-    "Does it really interest you?"
-  ],
-  [
-    "Он покупает те вещи?",
-    "Does he buy those things?"
-  ],
-  [
-    "Вы часто проводите время вместе?",
-    "Do you often spend time together?"
-  ],
-  [
-    "Он хочет стать актером?",
-    "Does he want to become an actor?"
-  ],
-  [
-    "Он работает или учится?",
-    "Does he work or study?"
-  ],
-  [
-    "Он помогает ему?",
-    "Does he help him?"
-  ],
-  [
-    "Он тоже так думает?",
-    "Does he also think so?"
-  ],
-  [
-    "Они тоже так думают?",
-    "Do they also think so?"
-  ],
-  [
-    "Она тоже так думает?",
-    "Does she also think so?"
-  ],
-  [
-    "Она хочет это обсудить?",
-    "Does she want to discuss it?"
-  ],
-  [
-    "Ты хочешь это обсудить?",
-    "Do you want to discuss it?"
-  ],
-  [
-    "Он хочет это обсудить?",
-    "Does he want to discuss it?"
-  ],
-  [
-    "Она покупает более хорошие вещи?",
-    "Does she buy better things?"
-  ],
-  [
-    "Он покупает очень дорогую вещь?",
-    "Does he buy a very expensive thing?"
-  ],
-  [
-    "Ты покупаешь очень дорогие вещи?",
-    "Do you buy very expensive things?"
-  ],
-  [
-    "Он делает разные упражнения?",
-    "Does he do different exercises?"
-  ],
-  [
-    "Она делает разные упражнения?",
-    "Does she do different exercises?"
-  ],
-  [
-    "Ты делаешь разные упражнения?",
-    "Do you do different exercises?"
-  ],
-  [
-    "Она тоже делает это?",
-    "Does she also do it?"
-  ],
-  [
-    "Они тоже делают это?",
-    "Do they also do it?"
-  ],
-  [
-    "Ему тоже это нравится?",
-    "Does he also like it?"
-  ],
-  [
-    "Это действительно мотивирует тебя?",
-    "Does it really motivate you?"
-  ],
-  [
-    "Это действительно мотивирует их?",
-    "Does it really motivate them?"
-  ],
-  [
-    "Это мотивирует тебя?",
-    "Does it motivate you?"
-  ],
-  [
-    "Это стоит так много денег?",
-    "Does it cost so much money?"
-  ],
-  [
-    "Он часто звонит тебе?",
-    "Does he often call you?"
-  ],
-  [
-    "Ты часто звонишь ему?",
-    "Do you often call him?"
-  ],
-  [
-    "Она часто звонит им?",
-    "Does she often call them?"
-  ],
-  [
-    "Он хочет сменить свою работу?",
-    "Does he want to change his job?"
-  ],
-  [
-    "Ты хочешь сменить свою работу?",
-    "Do you want to change your job?"
-  ],
-  [
-    "Это интересует тебя?",
-    "Does it interest you?"
-  ],
-  [
-    "Это интересует его",
-    "It interests him"
-  ],
-  [
-    "Это интересует их?",
-    "Does it interest them?"
-  ],
-  [
-    "Она хочет быть актрисой?",
-    "Does she want to be an actress?"
-  ],
-  [
-    "Это мотивирует его?",
-    "Does it motivate him?"
-  ],
-  [
-    "Он помогает своему другу?",
-    "Does he help his friend?"
-  ],
-  [
-    "Он учится или работает?",
-    "Does he study or work?"
-  ],
-  [
-    "Она хочет поменять свою работу?",
-    "Does she want to change her job?"
-  ],
-  [
-    "Она хочет найти новую работу?",
-    "Does she want to find a new job?"
-  ],
-  [
-    "Он хочет посмотреть этот фильм?",
-    "Does he want to watch this movie?"
-  ],
-  [
-    "Она часто слушает музыку?",
-    "Does she often listen to music?"
-  ],
-  [
-    "Она покупает дорогие вещи?",
-    "Does she buy expensive things?"
-  ],
-  [
-    "Она тренируется очень интенсивно?",
-    "Does she train very intensively?"
-  ],
-  [
-    "Ей нравится та музыка?",
-    "Does she like that music?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Он живет в том доме?",
+    "en": "Does he live in that house?"
+  },
+  {
+    "_id": 2,
+    "ru": "Это кажется очень странным?",
+    "en": "Does it seem very strange?"
+  },
+  {
+    "_id": 3,
+    "ru": "Он учится?",
+    "en": "Does he study?"
+  },
+  {
+    "_id": 4,
+    "ru": "Это кажется важным?",
+    "en": "Does it seem important?"
+  },
+  {
+    "_id": 5,
+    "ru": "Ты живешь рядом с этим местом?",
+    "en": "Do you live near this place?"
+  },
+  {
+    "_id": 6,
+    "ru": "Он живет в другой стране?",
+    "en": "Does he live in another country?"
+  },
+  {
+    "_id": 7,
+    "ru": "У него есть девушка?",
+    "en": "Does he have a girlfriend?"
+  },
+  {
+    "_id": 8,
+    "ru": "У него есть свободное время?",
+    "en": "Does he have free time?"
+  },
+  {
+    "_id": 9,
+    "ru": "Это стоит три тысячи фунтов?",
+    "en": "Does it cost three thousand pounds?"
+  },
+  {
+    "_id": 10,
+    "ru": "Она чувствует себя счастливой?",
+    "en": "Does she feel happy?"
+  },
+  {
+    "_id": 11,
+    "ru": "Он живет в доме?",
+    "en": "Does he live in a house?"
+  },
+  {
+    "_id": 12,
+    "ru": "Это стоит сорок фунтов?",
+    "en": "Does it cost forty pounds?"
+  },
+  {
+    "_id": 13,
+    "ru": "Это кажется странным?",
+    "en": "Does it seem strange?"
+  },
+  {
+    "_id": 14,
+    "ru": "Это стоит тридцать евро?",
+    "en": "Does it cost thirty euros?"
+  },
+  {
+    "_id": 15,
+    "ru": "Это действительно помогает тебе?",
+    "en": "Does it really help you?"
+  },
+  {
+    "_id": 16,
+    "ru": "Он живет очень далеко отсюда?",
+    "en": "Does he live very far from here?"
+  },
+  {
+    "_id": 17,
+    "ru": "Ты живешь далеко?",
+    "en": "Do you live far?"
+  },
+  {
+    "_id": 18,
+    "ru": "У нее есть парень?",
+    "en": "Does she have a boyfriend?"
+  },
+  {
+    "_id": 19,
+    "ru": "Он выглядит счастливым?",
+    "en": "Does he look happy?"
+  },
+  {
+    "_id": 20,
+    "ru": "Это помогает тебе?",
+    "en": "Does it help you?"
+  },
+  {
+    "_id": 21,
+    "ru": "Он работает?",
+    "en": "Does he work?"
+  },
+  {
+    "_id": 22,
+    "ru": "Это беспокоит тебя?",
+    "en": "Does it worry you?"
+  },
+  {
+    "_id": 23,
+    "ru": "Это стоит семьсот евро?",
+    "en": "Does it cost seven hundred euros?"
+  },
+  {
+    "_id": 24,
+    "ru": "У нее есть собака?",
+    "en": "Does she have a dog?"
+  },
+  {
+    "_id": 25,
+    "ru": "Ты живешь рядом?",
+    "en": "Do you live near?"
+  },
+  {
+    "_id": 26,
+    "ru": "Ему нравится тот метод?",
+    "en": "Does he like that method?"
+  },
+  {
+    "_id": 27,
+    "ru": "Это стоит больше?",
+    "en": "Does it cost more?"
+  },
+  {
+    "_id": 28,
+    "ru": "Она живет в другом месте?",
+    "en": "Does she live in another place?"
+  },
+  {
+    "_id": 29,
+    "ru": "У него есть машина?",
+    "en": "Does he have a car?"
+  },
+  {
+    "_id": 30,
+    "ru": "Это кажется интересным?",
+    "en": "Does it seem interesting?"
+  },
+  {
+    "_id": 31,
+    "ru": "Это кажется очень важным?",
+    "en": "Does it seem very important?"
+  },
+  {
+    "_id": 32,
+    "ru": "Ей нравится этот метод?",
+    "en": "Does she like this method?"
+  },
+  {
+    "_id": 33,
+    "ru": "У него есть кот?",
+    "en": "Does he have a cat?"
+  },
+  {
+    "_id": 34,
+    "ru": "Он живет около того места?",
+    "en": "Does he live near that place?"
+  },
+  {
+    "_id": 35,
+    "ru": "Это действительно тебя беспокоит?",
+    "en": "Does it really worry you?"
+  },
+  {
+    "_id": 36,
+    "ru": "Ты живешь в доме?",
+    "en": "Do you live in a house?"
+  },
+  {
+    "_id": 37,
+    "ru": "Это кажется скучным?",
+    "en": "Does it seem boring?"
+  },
+  {
+    "_id": 38,
+    "ru": "Она живет в квартире?",
+    "en": "Does she live in an apartment?"
+  },
+  {
+    "_id": 39,
+    "ru": "Это стоит пятьсот долларов?",
+    "en": "Does it cost five hundred dollars?"
+  },
+  {
+    "_id": 40,
+    "ru": "Он занимается бизнесом?",
+    "en": "Does he do business?"
+  },
+  {
+    "_id": 41,
+    "ru": "Это кажется действительно странным?",
+    "en": "Does it seem really strange?"
+  },
+  {
+    "_id": 42,
+    "ru": "Вы живете вместе?",
+    "en": "Do you live together?"
+  },
+  {
+    "_id": 43,
+    "ru": "Он видит их?",
+    "en": "Does he see them?"
+  },
+  {
+    "_id": 44,
+    "ru": "Он тебе помогает?",
+    "en": "Does he help you?"
+  },
+  {
+    "_id": 45,
+    "ru": "Он покупает очень дешевые вещи?",
+    "en": "Does he buy very cheap things?"
+  },
+  {
+    "_id": 46,
+    "ru": "Ты часто слушаешь музыку?",
+    "en": "Do you often listen to music?"
+  },
+  {
+    "_id": 47,
+    "ru": "Он делает так много ошибок?",
+    "en": "Does he make so many mistakes?"
+  },
+  {
+    "_id": 48,
+    "ru": "Это действительно интересует тебя?",
+    "en": "Does it really interest you?"
+  },
+  {
+    "_id": 49,
+    "ru": "Он покупает те вещи?",
+    "en": "Does he buy those things?"
+  },
+  {
+    "_id": 50,
+    "ru": "Вы часто проводите время вместе?",
+    "en": "Do you often spend time together?"
+  },
+  {
+    "_id": 51,
+    "ru": "Он хочет стать актером?",
+    "en": "Does he want to become an actor?"
+  },
+  {
+    "_id": 52,
+    "ru": "Он работает или учится?",
+    "en": "Does he work or study?"
+  },
+  {
+    "_id": 53,
+    "ru": "Он помогает ему?",
+    "en": "Does he help him?"
+  },
+  {
+    "_id": 54,
+    "ru": "Он тоже так думает?",
+    "en": "Does he also think so?"
+  },
+  {
+    "_id": 55,
+    "ru": "Они тоже так думают?",
+    "en": "Do they also think so?"
+  },
+  {
+    "_id": 56,
+    "ru": "Она тоже так думает?",
+    "en": "Does she also think so?"
+  },
+  {
+    "_id": 57,
+    "ru": "Она хочет это обсудить?",
+    "en": "Does she want to discuss it?"
+  },
+  {
+    "_id": 58,
+    "ru": "Ты хочешь это обсудить?",
+    "en": "Do you want to discuss it?"
+  },
+  {
+    "_id": 59,
+    "ru": "Он хочет это обсудить?",
+    "en": "Does he want to discuss it?"
+  },
+  {
+    "_id": 60,
+    "ru": "Она покупает более хорошие вещи?",
+    "en": "Does she buy better things?"
+  },
+  {
+    "_id": 61,
+    "ru": "Он покупает очень дорогую вещь?",
+    "en": "Does he buy a very expensive thing?"
+  },
+  {
+    "_id": 62,
+    "ru": "Ты покупаешь очень дорогие вещи?",
+    "en": "Do you buy very expensive things?"
+  },
+  {
+    "_id": 63,
+    "ru": "Он делает разные упражнения?",
+    "en": "Does he do different exercises?"
+  },
+  {
+    "_id": 64,
+    "ru": "Она делает разные упражнения?",
+    "en": "Does she do different exercises?"
+  },
+  {
+    "_id": 65,
+    "ru": "Ты делаешь разные упражнения?",
+    "en": "Do you do different exercises?"
+  },
+  {
+    "_id": 66,
+    "ru": "Она тоже делает это?",
+    "en": "Does she also do it?"
+  },
+  {
+    "_id": 67,
+    "ru": "Они тоже делают это?",
+    "en": "Do they also do it?"
+  },
+  {
+    "_id": 68,
+    "ru": "Ему тоже это нравится?",
+    "en": "Does he also like it?"
+  },
+  {
+    "_id": 69,
+    "ru": "Это действительно мотивирует тебя?",
+    "en": "Does it really motivate you?"
+  },
+  {
+    "_id": 70,
+    "ru": "Это действительно мотивирует их?",
+    "en": "Does it really motivate them?"
+  },
+  {
+    "_id": 71,
+    "ru": "Это мотивирует тебя?",
+    "en": "Does it motivate you?"
+  },
+  {
+    "_id": 72,
+    "ru": "Это стоит так много денег?",
+    "en": "Does it cost so much money?"
+  },
+  {
+    "_id": 73,
+    "ru": "Он часто звонит тебе?",
+    "en": "Does he often call you?"
+  },
+  {
+    "_id": 74,
+    "ru": "Ты часто звонишь ему?",
+    "en": "Do you often call him?"
+  },
+  {
+    "_id": 75,
+    "ru": "Она часто звонит им?",
+    "en": "Does she often call them?"
+  },
+  {
+    "_id": 76,
+    "ru": "Он хочет сменить свою работу?",
+    "en": "Does he want to change his job?"
+  },
+  {
+    "_id": 77,
+    "ru": "Ты хочешь сменить свою работу?",
+    "en": "Do you want to change your job?"
+  },
+  {
+    "_id": 78,
+    "ru": "Это интересует тебя?",
+    "en": "Does it interest you?"
+  },
+  {
+    "_id": 79,
+    "ru": "Это интересует его",
+    "en": "It interests him"
+  },
+  {
+    "_id": 80,
+    "ru": "Это интересует их?",
+    "en": "Does it interest them?"
+  },
+  {
+    "_id": 81,
+    "ru": "Она хочет быть актрисой?",
+    "en": "Does she want to be an actress?"
+  },
+  {
+    "_id": 82,
+    "ru": "Это мотивирует его?",
+    "en": "Does it motivate him?"
+  },
+  {
+    "_id": 83,
+    "ru": "Он помогает своему другу?",
+    "en": "Does he help his friend?"
+  },
+  {
+    "_id": 84,
+    "ru": "Он учится или работает?",
+    "en": "Does he study or work?"
+  },
+  {
+    "_id": 85,
+    "ru": "Она хочет поменять свою работу?",
+    "en": "Does she want to change her job?"
+  },
+  {
+    "_id": 86,
+    "ru": "Она хочет найти новую работу?",
+    "en": "Does she want to find a new job?"
+  },
+  {
+    "_id": 87,
+    "ru": "Он хочет посмотреть этот фильм?",
+    "en": "Does he want to watch this movie?"
+  },
+  {
+    "_id": 88,
+    "ru": "Она часто слушает музыку?",
+    "en": "Does she often listen to music?"
+  },
+  {
+    "_id": 89,
+    "ru": "Она покупает дорогие вещи?",
+    "en": "Does she buy expensive things?"
+  },
+  {
+    "_id": 90,
+    "ru": "Она тренируется очень интенсивно?",
+    "en": "Does she train very intensively?"
+  },
+  {
+    "_id": 91,
+    "ru": "Ей нравится та музыка?",
+    "en": "Does she like that music?"
+  }
 ]

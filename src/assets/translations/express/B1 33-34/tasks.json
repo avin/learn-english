@@ -1,86 +1,107 @@
 [
-  [
-    "Он владеет этим бизнесом сейчас",
-    "He owns this business now"
-  ],
-  [
-    "Она сказала, что он вспомнил его имя",
-    "She said that he had remembered his name"
-  ],
-  [
-    "Он сказал, что ему нужно лететь в Лондон",
-    "He said that he needed to fly to London"
-  ],
-  [
-    "Полиция сейчас расследует это преступление",
-    "The police are investigating this crime now"
-  ],
-  [
-    "Он сказал, что мне нужно там расписаться",
-    "He said that I needed to sign there"
-  ],
-  [
-    "Я действительно ненавижу ждать в длинных очередях",
-    "I really hate waiting in long queues"
-  ],
-  [
-    "Его еще не уведомили",
-    "He hasn't been notified yet"
-  ],
-  [
-    "С ней обращаются очень несправедливо",
-    "She's treated very unfairly"
-  ],
-  [
-    "Эта книга состоит из десяти глав",
-    "This book consists of ten chapters"
-  ],
-  [
-    "Они сказали, что убрали диван",
-    "They said that they had removed the sofa"
-  ],
-  [
-    "Я никогда в жизни не чувствовал себя таким счастливым",
-    "I've never felt so happy in my life"
-  ],
-  [
-    "Если бы я был на твоем месте, я бы не доверял этой статистике",
-    "If I were you, I wouldn't trust these statistics"
-  ],
-  [
-    "Деньги ему одолжили",
-    "The money was lent to him"
-  ],
-  [
-    "Недостаточно было сказано об этом",
-    "Not enough was said about it"
-  ],
-  [
-    "Он говорит, что страховка не покроет эти убытки",
-    "He says that the insurance won't cover these losses"
-  ],
-  [
-    "Это обсуждается сейчас",
-    "It's being discusses now"
-  ],
-  [
-    "Предполагается, что он выиграет",
-    "He's supposed to win"
-  ],
-  [
-    "К моему удивлению, ничего не заметили",
-    "To my surprise, nothing was noticed"
-  ],
-  [
-    "Чайник кипит",
-    "The kettle is boiling"
-  ],
-  [
-    "Он сказал, что это испортило его планы",
-    "He said that it had spoilt his plans"
-  ],
-  [
-    "Она сказала, что положила ключи на стол",
-    "She said that she had put the keys on the table"
-  ]
+  {
+    "_id": 1,
+    "ru": "Он владеет этим бизнесом сейчас",
+    "en": "He owns this business now"
+  },
+  {
+    "_id": 2,
+    "ru": "Она сказала, что он вспомнил его имя",
+    "en": "She said that he had remembered his name"
+  },
+  {
+    "_id": 3,
+    "ru": "Он сказал, что ему нужно лететь в Лондон",
+    "en": "He said that he needed to fly to London"
+  },
+  {
+    "_id": 4,
+    "ru": "Полиция сейчас расследует это преступление",
+    "en": "The police are investigating this crime now"
+  },
+  {
+    "_id": 5,
+    "ru": "Он сказал, что мне нужно там расписаться",
+    "en": "He said that I needed to sign there"
+  },
+  {
+    "_id": 6,
+    "ru": "Я действительно ненавижу ждать в длинных очередях",
+    "en": "I really hate waiting in long queues"
+  },
+  {
+    "_id": 7,
+    "ru": "Его еще не уведомили",
+    "en": "He hasn't been notified yet"
+  },
+  {
+    "_id": 8,
+    "ru": "С ней обращаются очень несправедливо",
+    "en": "She's treated very unfairly"
+  },
+  {
+    "_id": 9,
+    "ru": "Эта книга состоит из десяти глав",
+    "en": "This book consists of ten chapters"
+  },
+  {
+    "_id": 10,
+    "ru": "Они сказали, что убрали диван",
+    "en": "They said that they had removed the sofa"
+  },
+  {
+    "_id": 11,
+    "ru": "Я никогда в жизни не чувствовал себя таким счастливым",
+    "en": "I've never felt so happy in my life"
+  },
+  {
+    "_id": 12,
+    "ru": "Если бы я был на твоем месте, я бы не доверял этой статистике",
+    "en": "If I were you, I wouldn't trust these statistics"
+  },
+  {
+    "_id": 13,
+    "ru": "Деньги ему одолжили",
+    "en": "The money was lent to him"
+  },
+  {
+    "_id": 14,
+    "ru": "Недостаточно было сказано об этом",
+    "en": "Not enough was said about it"
+  },
+  {
+    "_id": 15,
+    "ru": "Он говорит, что страховка не покроет эти убытки",
+    "en": "He says that the insurance won't cover these losses"
+  },
+  {
+    "_id": 16,
+    "ru": "Это обсуждается сейчас",
+    "en": "It's being discusses now"
+  },
+  {
+    "_id": 17,
+    "ru": "Предполагается, что он выиграет",
+    "en": "He's supposed to win"
+  },
+  {
+    "_id": 18,
+    "ru": "К моему удивлению, ничего не заметили",
+    "en": "To my surprise, nothing was noticed"
+  },
+  {
+    "_id": 19,
+    "ru": "Чайник кипит",
+    "en": "The kettle is boiling"
+  },
+  {
+    "_id": 20,
+    "ru": "Он сказал, что это испортило его планы",
+    "en": "He said that it had spoilt his plans"
+  },
+  {
+    "_id": 21,
+    "ru": "Она сказала, что положила ключи на стол",
+    "en": "She said that she had put the keys on the table"
+  }
 ]

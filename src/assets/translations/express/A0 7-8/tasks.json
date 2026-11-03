@@ -1,182 +1,227 @@
 [
-  [
-    "У меня нет вопросов",
-    "I don't have any questions"
-  ],
-  [
-    "Она не знает ответа",
-    "She doesn't know the answer"
-  ],
-  [
-    "У меня нет времени",
-    "I don't have time"
-  ],
-  [
-    "Он не думает об этом",
-    "He doesn't think about it"
-  ],
-  [
-    "Он не знает ответа",
-    "He doesn't know the answer"
-  ],
-  [
-    "Он не хочет говорить это",
-    "He doesn't want to say it"
-  ],
-  [
-    "Она не понимает это",
-    "She doesn't understand it"
-  ],
-  [
-    "Ему не нравится эта идея",
-    "He doesn't like this idea"
-  ],
-  [
-    "Я не спрашиваю его об этом",
-    "I don't ask him about it"
-  ],
-  [
-    "Она не работает так много",
-    "She doesn't work so much"
-  ],
-  [
-    "Мне не нравится эта еда",
-    "I don't like this food"
-  ],
-  [
-    "Это не помогает мне",
-    "It doesn't help me"
-  ],
-  [
-    "Я не путешествую так часто",
-    "I don't travel so often"
-  ],
-  [
-    "Я вижу, ты не хочешь это",
-    "I see you don't want it"
-  ],
-  [
-    "Я вижу, что это не работает",
-    "I see that it doesn't work"
-  ],
-  [
-    "У него нет машины",
-    "He doesn't have a car"
-  ],
-  [
-    "Ей не нравится этот ресторан",
-    "She doesn't like this restaurant"
-  ],
-  [
-    "У меня нет много свободного времени",
-    "I don't have much free time"
-  ],
-  [
-    "Она не хочет делать это",
-    "She doesn't want to do it"
-  ],
-  [
-    "Это не работает",
-    "It doesn't work"
-  ],
-  [
-    "Я вижу, что это не помогает мне",
-    "I see that it doesn't help me"
-  ],
-  [
-    "Ей не нравится этот магазин",
-    "She doesn't like this shop"
-  ],
-  [
-    "Мы не видим каких-либо изменений",
-    "We don't see any changes"
-  ],
-  [
-    "Я не хочу идти туда сейчас",
-    "I don't want to go there now"
-  ],
-  [
-    "Это не стоит этих денег",
-    "It doesn't cost this money"
-  ],
-  [
-    "Ему не нравится эта песня",
-    "He doesn't like this song"
-  ],
-  [
-    "Они не хотят говорить это",
-    "They don't want to say it"
-  ],
-  [
-    "Я не думаю об этом",
-    "I don't think about it"
-  ],
-  [
-    "Я не согласен с этим",
-    "I don't agree with it"
-  ],
-  [
-    "Она не говорит по-английски",
-    "She doesn't speak English"
-  ],
-  [
-    "Ему не нравится эта еда",
-    "He doesn't like this food"
-  ],
-  [
-    "Я не хочу говорить об этом",
-    "I don't want to talk about it"
-  ],
-  [
-    "У него нет денег",
-    "He doesn't have money"
-  ],
-  [
-    "Он не говорит мне эту вещь",
-    "He doesn't tell me this thing"
-  ],
-  [
-    "У него нет этих денег",
-    "He doesn't have this money"
-  ],
-  [
-    "Он не говорит по-английски",
-    "He doesn't speak English"
-  ],
-  [
-    "Он не говорит это",
-    "He doesn't say it"
-  ],
-  [
-    "Я не вижу каких-либо изменений",
-    "I don't see any changes"
-  ],
-  [
-    "Она не говорит это",
-    "She doesn't tell me about it"
-  ],
-  [
-    "Я так не думаю",
-    "I don't think so"
-  ],
-  [
-    "Я не знаю ответа",
-    "I don't know the answer"
-  ],
-  [
-    "Она не говорит это",
-    "She doesn't say this thing"
-  ],
-  [
-    "Он не чувствует себя счастливым",
-    "He doesn't feel happy"
-  ],
-  [
-    "Он не хочет говорить",
-    "He doesn't want to talk about it"
-  ],
-  [
-    "Она не хочет идти туда сейчас",
-    "She doesn't want to go there now"
-  ]
+  {
+    "_id": 1,
+    "ru": "У меня нет вопросов",
+    "en": "I don't have any questions"
+  },
+  {
+    "_id": 2,
+    "ru": "Она не знает ответа",
+    "en": "She doesn't know the answer"
+  },
+  {
+    "_id": 3,
+    "ru": "У меня нет времени",
+    "en": "I don't have time"
+  },
+  {
+    "_id": 4,
+    "ru": "Он не думает об этом",
+    "en": "He doesn't think about it"
+  },
+  {
+    "_id": 5,
+    "ru": "Он не знает ответа",
+    "en": "He doesn't know the answer"
+  },
+  {
+    "_id": 6,
+    "ru": "Он не хочет говорить это",
+    "en": "He doesn't want to say it"
+  },
+  {
+    "_id": 7,
+    "ru": "Она не понимает это",
+    "en": "She doesn't understand it"
+  },
+  {
+    "_id": 8,
+    "ru": "Ему не нравится эта идея",
+    "en": "He doesn't like this idea"
+  },
+  {
+    "_id": 9,
+    "ru": "Я не спрашиваю его об этом",
+    "en": "I don't ask him about it"
+  },
+  {
+    "_id": 10,
+    "ru": "Она не работает так много",
+    "en": "She doesn't work so much"
+  },
+  {
+    "_id": 11,
+    "ru": "Мне не нравится эта еда",
+    "en": "I don't like this food"
+  },
+  {
+    "_id": 12,
+    "ru": "Это не помогает мне",
+    "en": "It doesn't help me"
+  },
+  {
+    "_id": 13,
+    "ru": "Я не путешествую так часто",
+    "en": "I don't travel so often"
+  },
+  {
+    "_id": 14,
+    "ru": "Я вижу, ты не хочешь это",
+    "en": "I see you don't want it"
+  },
+  {
+    "_id": 15,
+    "ru": "Я вижу, что это не работает",
+    "en": "I see that it doesn't work"
+  },
+  {
+    "_id": 16,
+    "ru": "У него нет машины",
+    "en": "He doesn't have a car"
+  },
+  {
+    "_id": 17,
+    "ru": "Ей не нравится этот ресторан",
+    "en": "She doesn't like this restaurant"
+  },
+  {
+    "_id": 18,
+    "ru": "У меня нет много свободного времени",
+    "en": "I don't have much free time"
+  },
+  {
+    "_id": 19,
+    "ru": "Она не хочет делать это",
+    "en": "She doesn't want to do it"
+  },
+  {
+    "_id": 20,
+    "ru": "Это не работает",
+    "en": "It doesn't work"
+  },
+  {
+    "_id": 21,
+    "ru": "Я вижу, что это не помогает мне",
+    "en": "I see that it doesn't help me"
+  },
+  {
+    "_id": 22,
+    "ru": "Ей не нравится этот магазин",
+    "en": "She doesn't like this shop"
+  },
+  {
+    "_id": 23,
+    "ru": "Мы не видим каких-либо изменений",
+    "en": "We don't see any changes"
+  },
+  {
+    "_id": 24,
+    "ru": "Я не хочу идти туда сейчас",
+    "en": "I don't want to go there now"
+  },
+  {
+    "_id": 25,
+    "ru": "Это не стоит этих денег",
+    "en": "It doesn't cost this money"
+  },
+  {
+    "_id": 26,
+    "ru": "Ему не нравится эта песня",
+    "en": "He doesn't like this song"
+  },
+  {
+    "_id": 27,
+    "ru": "Они не хотят говорить это",
+    "en": "They don't want to say it"
+  },
+  {
+    "_id": 28,
+    "ru": "Я не думаю об этом",
+    "en": "I don't think about it"
+  },
+  {
+    "_id": 29,
+    "ru": "Я не согласен с этим",
+    "en": "I don't agree with it"
+  },
+  {
+    "_id": 30,
+    "ru": "Она не говорит по-английски",
+    "en": "She doesn't speak English"
+  },
+  {
+    "_id": 31,
+    "ru": "Ему не нравится эта еда",
+    "en": "He doesn't like this food"
+  },
+  {
+    "_id": 32,
+    "ru": "Я не хочу говорить об этом",
+    "en": "I don't want to talk about it"
+  },
+  {
+    "_id": 33,
+    "ru": "У него нет денег",
+    "en": "He doesn't have money"
+  },
+  {
+    "_id": 34,
+    "ru": "Он не говорит мне эту вещь",
+    "en": "He doesn't tell me this thing"
+  },
+  {
+    "_id": 35,
+    "ru": "У него нет этих денег",
+    "en": "He doesn't have this money"
+  },
+  {
+    "_id": 36,
+    "ru": "Он не говорит по-английски",
+    "en": "He doesn't speak English"
+  },
+  {
+    "_id": 37,
+    "ru": "Он не говорит это",
+    "en": "He doesn't say it"
+  },
+  {
+    "_id": 38,
+    "ru": "Я не вижу каких-либо изменений",
+    "en": "I don't see any changes"
+  },
+  {
+    "_id": 39,
+    "ru": "Она не говорит это",
+    "en": "She doesn't tell me about it"
+  },
+  {
+    "_id": 40,
+    "ru": "Я так не думаю",
+    "en": "I don't think so"
+  },
+  {
+    "_id": 41,
+    "ru": "Я не знаю ответа",
+    "en": "I don't know the answer"
+  },
+  {
+    "_id": 42,
+    "ru": "Она не говорит это",
+    "en": "She doesn't say this thing"
+  },
+  {
+    "_id": 43,
+    "ru": "Он не чувствует себя счастливым",
+    "en": "He doesn't feel happy"
+  },
+  {
+    "_id": 44,
+    "ru": "Он не хочет говорить",
+    "en": "He doesn't want to talk about it"
+  },
+  {
+    "_id": 45,
+    "ru": "Она не хочет идти туда сейчас",
+    "en": "She doesn't want to go there now"
+  }
 ]

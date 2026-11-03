@@ -1,342 +1,427 @@
 [
-  [
-    "Что ты видел там?",
-    "What did you see there?"
-  ],
-  [
-    "Как ты выучил английский?",
-    "How did you learn English?"
-  ],
-  [
-    "Когда ты вернулся домой?",
-    "When did you return home?"
-  ],
-  [
-    "Что ты ел на ужин?",
-    "What did you eat for dinner?"
-  ],
-  [
-    "Что ты сказал?",
-    "What did you say?"
-  ],
-  [
-    "Когда ты вернулся домой?",
-    "When did you return home?"
-  ],
-  [
-    "Что вы обсуждали?",
-    "What did you discuss?"
-  ],
-  [
-    "Когда ты закончил свою работу?",
-    "When did you finish your work?"
-  ],
-  [
-    "Почему ты пришел домой так поздно?",
-    "Why did you come home so late?"
-  ],
-  [
-    "Как ты понял это?",
-    "How did you understand it?"
-  ],
-  [
-    "Где ты работал раньше?",
-    "Where did you work earlier?"
-  ],
-  [
-    "Почему ты пошел в то место?",
-    "Why did you go to that place?"
-  ],
-  [
-    "Как ты выучил английский?",
-    "How did you learn English?"
-  ],
-  [
-    "Что ты видел там?",
-    "What did you see there?"
-  ],
-  [
-    "Ты видел своих друзей вчера?",
-    "Did you see your friends yesterday?"
-  ],
-  [
-    "Когда это началось?",
-    "When did it start?"
-  ],
-  [
-    "Где ты жил раньше?",
-    "Where did you live earlier?"
-  ],
-  [
-    "Кого ты видел там?",
-    "Who did you see there?"
-  ],
-  [
-    "Что ты делал вчера?",
-    "What did you do yesterday?"
-  ],
-  [
-    "Что они тебя спросили?",
-    "What did they ask you?"
-  ],
-  [
-    "Как ты улучшил свою речь?",
-    "How did you improve your speaking?"
-  ],
-  [
-    "Что ты делал прошлым летом?",
-    "What did you do last summer?"
-  ],
-  [
-    "Почему ты сделал это?",
-    "Why did you do it?"
-  ],
-  [
-    "Ты посетил Италию в прошлом году?",
-    "Did you visit Italy last year?"
-  ],
-  [
-    "Почему ты купил этот свитер?",
-    "Why did you buy this sweater?"
-  ],
-  [
-    "Что ты купил?",
-    "What did you buy?"
-  ],
-  [
-    "Когда он вернулся домой?",
-    "When did he come back home?"
-  ],
-  [
-    "Что ты оставил дома?",
-    "What did you leave at home?"
-  ],
-  [
-    "Где ты играл?",
-    "Where did you play?"
-  ],
-  [
-    "Как это началось?",
-    "How did it begin?"
-  ],
-  [
-    "Что она ответила?",
-    "What did she answer?"
-  ],
-  [
-    "Что ты делал прошлой зимой?",
-    "What did you do last winter?"
-  ],
-  [
-    "Что он ответил тебе?",
-    "What did he answer you?"
-  ],
-  [
-    "Что ты выбрал?",
-    "What did you choose?"
-  ],
-  [
-    "Что он сказал тебе?",
-    "What did he tell you?"
-  ],
-  [
-    "Когда ты последний раз его видел?",
-    "When did you see him last time?"
-  ],
-  [
-    "Почему ты поверил этому?",
-    "Why did you believe it?"
-  ],
-  [
-    "Как она себя чувствовала?",
-    "How did she feel?"
-  ],
-  [
-    "Когда ты получил это письмо?",
-    "When did you get this letter?"
-  ],
-  [
-    "Где вы встретились?",
-    "Where did you meet?"
-  ],
-  [
-    "Почему это стало так популярно?",
-    "Why did it become so popular?"
-  ],
-  [
-    "Где ты нашел эту информацию?",
-    "Where did you find this information?"
-  ],
-  [
-    "Когда ты получил этот ответ?",
-    "When did you get this answer?"
-  ],
-  [
-    "Что ей было нужно?",
-    "What did she need?"
-  ],
-  [
-    "Когда ты прибыл домой?",
-    "When did you arrive home?"
-  ],
-  [
-    "Что ты делал на выходных?",
-    "What did you do at the weekend?"
-  ],
-  [
-    "Сколько денег это им принесло?",
-    "How much money did it bring them?"
-  ],
-  [
-    "Во сколько ты проснулся?",
-    "What time did you wake up?"
-  ],
-  [
-    "В какие игры ты играл?",
-    "What games did you play?"
-  ],
-  [
-    "Что у тебя было на ужин?",
-    "What did you have for dinner?"
-  ],
-  [
-    "Ты получил это письмо или нет?",
-    "Did you get this letter or not?"
-  ],
-  [
-    "Что ты делал на прошлых выходных?",
-    "What did you do last weekend?"
-  ],
-  [
-    "Что тебе нужно было сделать?",
-    "What did you need to do?"
-  ],
-  [
-    "Какой отель ты выбрал?",
-    "What hotel did you choose?"
-  ],
-  [
-    "Как часто ты тренировался?",
-    "How often did you train?"
-  ],
-  [
-    "Как регулярно она тренировалась?",
-    "How regularly did she train?"
-  ],
-  [
-    "Сколько он заплатил?",
-    "How much did he pay?"
-  ],
-  [
-    "Сколько она заплатила за это?",
-    "How much did she pay for it?"
-  ],
-  [
-    "Сколько ты заплатил?",
-    "How much did you pay?"
-  ],
-  [
-    "Что он ел на обед?",
-    "What did he eat for lunch?"
-  ],
-  [
-    "Что он ел на завтрак?",
-    "What did he eat for breakfast?"
-  ],
-  [
-    "Что ты ел на ужин?",
-    "What did you eat for dinner?"
-  ],
-  [
-    "Сколько у тебя было денег?",
-    "How much money did you have?"
-  ],
-  [
-    "Сколько у тебя было времени?",
-    "How much time did you have?"
-  ],
-  [
-    "Когда ты ходил в спортивный зал?",
-    "When did you go to the gym?"
-  ],
-  [
-    "Во сколько ты пришел на работу?",
-    "What time did you come to work?"
-  ],
-  [
-    "Когда ты пришел на работу?",
-    "When did you come to work?"
-  ],
-  [
-    "Что ты ел на завтрак?",
-    "What did you eat for breakfast?"
-  ],
-  [
-    "Как ты ответил на этот вопрос?",
-    "How did you answer this question?"
-  ],
-  [
-    "Что ты решил делать?",
-    "What did you decide to do?"
-  ],
-  [
-    "Что он решил делать?",
-    "What did he decide to do?"
-  ],
-  [
-    "Что ты решил купить?",
-    "What did you decide to buy?"
-  ],
-  [
-    "Как часто ты играл в футбол?",
-    "How often did you play football?"
-  ],
-  [
-    "Как ты сюда добрался?",
-    "How did you get here?"
-  ],
-  [
-    "Почему ты решил остаться дома?",
-    "Why did you decide to stay at home?"
-  ],
-  [
-    "Сколько ошибок он сделал?",
-    "How many mistakes did he make?"
-  ],
-  [
-    "Сколько ты заплатил за это?",
-    "How much did you pay for it?"
-  ],
-  [
-    "Во сколько ты пришел домой?",
-    "What time did you come home?"
-  ],
-  [
-    "Сколько ты работал?",
-    "How much did you work?"
-  ],
-  [
-    "Что ты хотел сделать?",
-    "What did you want to do?"
-  ],
-  [
-    "Какую книгу ты прочитал?",
-    "What book did you read?"
-  ],
-  [
-    "Сколько ошибок ты сделал?",
-    "How many mistakes did you make?"
-  ],
-  [
-    "Как ты жил на эти деньги?",
-    "How did you live on this money?"
-  ],
-  [
-    "Сколько это стоило?",
-    "How much did it cost?"
-  ],
-  [
-    "Во сколько ты пришел домой?",
-    "What time did you come home?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Что ты видел там?",
+    "en": "What did you see there?"
+  },
+  {
+    "_id": 2,
+    "ru": "Как ты выучил английский?",
+    "en": "How did you learn English?"
+  },
+  {
+    "_id": 3,
+    "ru": "Когда ты вернулся домой?",
+    "en": "When did you return home?"
+  },
+  {
+    "_id": 4,
+    "ru": "Что ты ел на ужин?",
+    "en": "What did you eat for dinner?"
+  },
+  {
+    "_id": 5,
+    "ru": "Что ты сказал?",
+    "en": "What did you say?"
+  },
+  {
+    "_id": 6,
+    "ru": "Когда ты вернулся домой?",
+    "en": "When did you return home?"
+  },
+  {
+    "_id": 7,
+    "ru": "Что вы обсуждали?",
+    "en": "What did you discuss?"
+  },
+  {
+    "_id": 8,
+    "ru": "Когда ты закончил свою работу?",
+    "en": "When did you finish your work?"
+  },
+  {
+    "_id": 9,
+    "ru": "Почему ты пришел домой так поздно?",
+    "en": "Why did you come home so late?"
+  },
+  {
+    "_id": 10,
+    "ru": "Как ты понял это?",
+    "en": "How did you understand it?"
+  },
+  {
+    "_id": 11,
+    "ru": "Где ты работал раньше?",
+    "en": "Where did you work earlier?"
+  },
+  {
+    "_id": 12,
+    "ru": "Почему ты пошел в то место?",
+    "en": "Why did you go to that place?"
+  },
+  {
+    "_id": 13,
+    "ru": "Как ты выучил английский?",
+    "en": "How did you learn English?"
+  },
+  {
+    "_id": 14,
+    "ru": "Что ты видел там?",
+    "en": "What did you see there?"
+  },
+  {
+    "_id": 15,
+    "ru": "Ты видел своих друзей вчера?",
+    "en": "Did you see your friends yesterday?"
+  },
+  {
+    "_id": 16,
+    "ru": "Когда это началось?",
+    "en": "When did it start?"
+  },
+  {
+    "_id": 17,
+    "ru": "Где ты жил раньше?",
+    "en": "Where did you live earlier?"
+  },
+  {
+    "_id": 18,
+    "ru": "Кого ты видел там?",
+    "en": "Who did you see there?"
+  },
+  {
+    "_id": 19,
+    "ru": "Что ты делал вчера?",
+    "en": "What did you do yesterday?"
+  },
+  {
+    "_id": 20,
+    "ru": "Что они тебя спросили?",
+    "en": "What did they ask you?"
+  },
+  {
+    "_id": 21,
+    "ru": "Как ты улучшил свою речь?",
+    "en": "How did you improve your speaking?"
+  },
+  {
+    "_id": 22,
+    "ru": "Что ты делал прошлым летом?",
+    "en": "What did you do last summer?"
+  },
+  {
+    "_id": 23,
+    "ru": "Почему ты сделал это?",
+    "en": "Why did you do it?"
+  },
+  {
+    "_id": 24,
+    "ru": "Ты посетил Италию в прошлом году?",
+    "en": "Did you visit Italy last year?"
+  },
+  {
+    "_id": 25,
+    "ru": "Почему ты купил этот свитер?",
+    "en": "Why did you buy this sweater?"
+  },
+  {
+    "_id": 26,
+    "ru": "Что ты купил?",
+    "en": "What did you buy?"
+  },
+  {
+    "_id": 27,
+    "ru": "Когда он вернулся домой?",
+    "en": "When did he come back home?"
+  },
+  {
+    "_id": 28,
+    "ru": "Что ты оставил дома?",
+    "en": "What did you leave at home?"
+  },
+  {
+    "_id": 29,
+    "ru": "Где ты играл?",
+    "en": "Where did you play?"
+  },
+  {
+    "_id": 30,
+    "ru": "Как это началось?",
+    "en": "How did it begin?"
+  },
+  {
+    "_id": 31,
+    "ru": "Что она ответила?",
+    "en": "What did she answer?"
+  },
+  {
+    "_id": 32,
+    "ru": "Что ты делал прошлой зимой?",
+    "en": "What did you do last winter?"
+  },
+  {
+    "_id": 33,
+    "ru": "Что он ответил тебе?",
+    "en": "What did he answer you?"
+  },
+  {
+    "_id": 34,
+    "ru": "Что ты выбрал?",
+    "en": "What did you choose?"
+  },
+  {
+    "_id": 35,
+    "ru": "Что он сказал тебе?",
+    "en": "What did he tell you?"
+  },
+  {
+    "_id": 36,
+    "ru": "Когда ты последний раз его видел?",
+    "en": "When did you see him last time?"
+  },
+  {
+    "_id": 37,
+    "ru": "Почему ты поверил этому?",
+    "en": "Why did you believe it?"
+  },
+  {
+    "_id": 38,
+    "ru": "Как она себя чувствовала?",
+    "en": "How did she feel?"
+  },
+  {
+    "_id": 39,
+    "ru": "Когда ты получил это письмо?",
+    "en": "When did you get this letter?"
+  },
+  {
+    "_id": 40,
+    "ru": "Где вы встретились?",
+    "en": "Where did you meet?"
+  },
+  {
+    "_id": 41,
+    "ru": "Почему это стало так популярно?",
+    "en": "Why did it become so popular?"
+  },
+  {
+    "_id": 42,
+    "ru": "Где ты нашел эту информацию?",
+    "en": "Where did you find this information?"
+  },
+  {
+    "_id": 43,
+    "ru": "Когда ты получил этот ответ?",
+    "en": "When did you get this answer?"
+  },
+  {
+    "_id": 44,
+    "ru": "Что ей было нужно?",
+    "en": "What did she need?"
+  },
+  {
+    "_id": 45,
+    "ru": "Когда ты прибыл домой?",
+    "en": "When did you arrive home?"
+  },
+  {
+    "_id": 46,
+    "ru": "Что ты делал на выходных?",
+    "en": "What did you do at the weekend?"
+  },
+  {
+    "_id": 47,
+    "ru": "Сколько денег это им принесло?",
+    "en": "How much money did it bring them?"
+  },
+  {
+    "_id": 48,
+    "ru": "Во сколько ты проснулся?",
+    "en": "What time did you wake up?"
+  },
+  {
+    "_id": 49,
+    "ru": "В какие игры ты играл?",
+    "en": "What games did you play?"
+  },
+  {
+    "_id": 50,
+    "ru": "Что у тебя было на ужин?",
+    "en": "What did you have for dinner?"
+  },
+  {
+    "_id": 51,
+    "ru": "Ты получил это письмо или нет?",
+    "en": "Did you get this letter or not?"
+  },
+  {
+    "_id": 52,
+    "ru": "Что ты делал на прошлых выходных?",
+    "en": "What did you do last weekend?"
+  },
+  {
+    "_id": 53,
+    "ru": "Что тебе нужно было сделать?",
+    "en": "What did you need to do?"
+  },
+  {
+    "_id": 54,
+    "ru": "Какой отель ты выбрал?",
+    "en": "What hotel did you choose?"
+  },
+  {
+    "_id": 55,
+    "ru": "Как часто ты тренировался?",
+    "en": "How often did you train?"
+  },
+  {
+    "_id": 56,
+    "ru": "Как регулярно она тренировалась?",
+    "en": "How regularly did she train?"
+  },
+  {
+    "_id": 57,
+    "ru": "Сколько он заплатил?",
+    "en": "How much did he pay?"
+  },
+  {
+    "_id": 58,
+    "ru": "Сколько она заплатила за это?",
+    "en": "How much did she pay for it?"
+  },
+  {
+    "_id": 59,
+    "ru": "Сколько ты заплатил?",
+    "en": "How much did you pay?"
+  },
+  {
+    "_id": 60,
+    "ru": "Что он ел на обед?",
+    "en": "What did he eat for lunch?"
+  },
+  {
+    "_id": 61,
+    "ru": "Что он ел на завтрак?",
+    "en": "What did he eat for breakfast?"
+  },
+  {
+    "_id": 62,
+    "ru": "Что ты ел на ужин?",
+    "en": "What did you eat for dinner?"
+  },
+  {
+    "_id": 63,
+    "ru": "Сколько у тебя было денег?",
+    "en": "How much money did you have?"
+  },
+  {
+    "_id": 64,
+    "ru": "Сколько у тебя было времени?",
+    "en": "How much time did you have?"
+  },
+  {
+    "_id": 65,
+    "ru": "Когда ты ходил в спортивный зал?",
+    "en": "When did you go to the gym?"
+  },
+  {
+    "_id": 66,
+    "ru": "Во сколько ты пришел на работу?",
+    "en": "What time did you come to work?"
+  },
+  {
+    "_id": 67,
+    "ru": "Когда ты пришел на работу?",
+    "en": "When did you come to work?"
+  },
+  {
+    "_id": 68,
+    "ru": "Что ты ел на завтрак?",
+    "en": "What did you eat for breakfast?"
+  },
+  {
+    "_id": 69,
+    "ru": "Как ты ответил на этот вопрос?",
+    "en": "How did you answer this question?"
+  },
+  {
+    "_id": 70,
+    "ru": "Что ты решил делать?",
+    "en": "What did you decide to do?"
+  },
+  {
+    "_id": 71,
+    "ru": "Что он решил делать?",
+    "en": "What did he decide to do?"
+  },
+  {
+    "_id": 72,
+    "ru": "Что ты решил купить?",
+    "en": "What did you decide to buy?"
+  },
+  {
+    "_id": 73,
+    "ru": "Как часто ты играл в футбол?",
+    "en": "How often did you play football?"
+  },
+  {
+    "_id": 74,
+    "ru": "Как ты сюда добрался?",
+    "en": "How did you get here?"
+  },
+  {
+    "_id": 75,
+    "ru": "Почему ты решил остаться дома?",
+    "en": "Why did you decide to stay at home?"
+  },
+  {
+    "_id": 76,
+    "ru": "Сколько ошибок он сделал?",
+    "en": "How many mistakes did he make?"
+  },
+  {
+    "_id": 77,
+    "ru": "Сколько ты заплатил за это?",
+    "en": "How much did you pay for it?"
+  },
+  {
+    "_id": 78,
+    "ru": "Во сколько ты пришел домой?",
+    "en": "What time did you come home?"
+  },
+  {
+    "_id": 79,
+    "ru": "Сколько ты работал?",
+    "en": "How much did you work?"
+  },
+  {
+    "_id": 80,
+    "ru": "Что ты хотел сделать?",
+    "en": "What did you want to do?"
+  },
+  {
+    "_id": 81,
+    "ru": "Какую книгу ты прочитал?",
+    "en": "What book did you read?"
+  },
+  {
+    "_id": 82,
+    "ru": "Сколько ошибок ты сделал?",
+    "en": "How many mistakes did you make?"
+  },
+  {
+    "_id": 83,
+    "ru": "Как ты жил на эти деньги?",
+    "en": "How did you live on this money?"
+  },
+  {
+    "_id": 84,
+    "ru": "Сколько это стоило?",
+    "en": "How much did it cost?"
+  },
+  {
+    "_id": 85,
+    "ru": "Во сколько ты пришел домой?",
+    "en": "What time did you come home?"
+  }
 ]

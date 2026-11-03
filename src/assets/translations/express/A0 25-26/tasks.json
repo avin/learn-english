@@ -1,182 +1,227 @@
 [
-  [
-    "Ты поможешь мне?",
-    "Will you help me?"
-  ],
-  [
-    "Ты пойдешь в это место?",
-    "Will you go to this place?"
-  ],
-  [
-    "Это будет лучший выбор?",
-    "Will it be the best choice?"
-  ],
-  [
-    "Мы узнаем это?",
-    "Will we know it?"
-  ],
-  [
-    "Ты будешь покупать дом?",
-    "Will you buy a house?"
-  ],
-  [
-    "Ты пойдешь на пляж?",
-    "Will you go to the beach?"
-  ],
-  [
-    "Ты будешь проверять это снова?",
-    "Will you check it again?"
-  ],
-  [
-    "Ты будешь дома?",
-    "Will you be at home?"
-  ],
-  [
-    "Ты будешь там?",
-    "Will you be there?"
-  ],
-  [
-    "Ты скажешь ей эту вещь?",
-    "Will you tell her this thing?"
-  ],
-  [
-    "Ты купишь эти билеты?",
-    "Will you buy these tickets?"
-  ],
-  [
-    "Они присоединятся к нашей компании?",
-    "Will they join our company?"
-  ],
-  [
-    "Он поймет это?",
-    "Will he understand it?"
-  ],
-  [
-    "Ты пойдешь туда?",
-    "Will you go there?"
-  ],
-  [
-    "Это будет лучше?",
-    "Will it be better?"
-  ],
-  [
-    "Ты будешь там завтра?",
-    "Will you be there tomorrow?"
-  ],
-  [
-    "Это будет скоро возможно?",
-    "Will it be possible soon?"
-  ],
-  [
-    "Ты будешь покупать машину?",
-    "Will you buy a car?"
-  ],
-  [
-    "Ты пойдешь в парк?",
-    "Will you go to the park?"
-  ],
-  [
-    "Они будут снимать квартиру?",
-    "Will they rent an apartment?"
-  ],
-  [
-    "Они будут там?",
-    "Will they be there?"
-  ],
-  [
-    "Это будет правильно?",
-    "Will it be right?"
-  ],
-  [
-    "Ты поедешь во Францию в этом году?",
-    "Will you go to France this year?"
-  ],
-  [
-    "Он купит другую машину?",
-    "Will he buy another car?"
-  ],
-  [
-    "Это будет бесплатно?",
-    "Will it be free?"
-  ],
-  [
-    "Ты отправишь ему сообщение?",
-    "Will you send him a message?"
-  ],
-  [
-    "Это будет дешевле?",
-    "Will it be cheaper?"
-  ],
-  [
-    "Они присоединятся к нам?",
-    "Will they join us?"
-  ],
-  [
-    "Ты будешь на работе завтра?",
-    "Will you be at work tomorrow?"
-  ],
-  [
-    "Он скоро вернется?",
-    "Will he come back soon?"
-  ],
-  [
-    "Ты будешь играть?",
-    "Will you play?"
-  ],
-  [
-    "Она скоро придет домой?",
-    "Will she come home soon?"
-  ],
-  [
-    "Ты будешь делать это?",
-    "Will you do it?"
-  ],
-  [
-    "Вы будете снимать дом?",
-    "Will you rent a house?"
-  ],
-  [
-    "Это будет дороже?",
-    "Will it be more expensive?"
-  ],
-  [
-    "Ты будешь покупать это?",
-    "Will you buy it?"
-  ],
-  [
-    "Ты останешься дома?",
-    "Will you stay at home?"
-  ],
-  [
-    "Она будет покупать квартиру?",
-    "Will she buy an apartment?"
-  ],
-  [
-    "Ты будешь танцевать?",
-    "Will you dance?"
-  ],
-  [
-    "Ты отправишь ей письмо?",
-    "Will you send her a letter?"
-  ],
-  [
-    "Он будет с тобой?",
-    "Will he be with you?"
-  ],
-  [
-    "Ты позвонишь ему?",
-    "Will you call him?"
-  ],
-  [
-    "Это будет возможно?",
-    "Will it be possible?"
-  ],
-  [
-    "Ты проверишь эту информацию?",
-    "Will you check this information?"
-  ],
-  [
-    "Это будет лучшее решение?",
-    "Will it be the best decision?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Ты поможешь мне?",
+    "en": "Will you help me?"
+  },
+  {
+    "_id": 2,
+    "ru": "Ты пойдешь в это место?",
+    "en": "Will you go to this place?"
+  },
+  {
+    "_id": 3,
+    "ru": "Это будет лучший выбор?",
+    "en": "Will it be the best choice?"
+  },
+  {
+    "_id": 4,
+    "ru": "Мы узнаем это?",
+    "en": "Will we know it?"
+  },
+  {
+    "_id": 5,
+    "ru": "Ты будешь покупать дом?",
+    "en": "Will you buy a house?"
+  },
+  {
+    "_id": 6,
+    "ru": "Ты пойдешь на пляж?",
+    "en": "Will you go to the beach?"
+  },
+  {
+    "_id": 7,
+    "ru": "Ты будешь проверять это снова?",
+    "en": "Will you check it again?"
+  },
+  {
+    "_id": 8,
+    "ru": "Ты будешь дома?",
+    "en": "Will you be at home?"
+  },
+  {
+    "_id": 9,
+    "ru": "Ты будешь там?",
+    "en": "Will you be there?"
+  },
+  {
+    "_id": 10,
+    "ru": "Ты скажешь ей эту вещь?",
+    "en": "Will you tell her this thing?"
+  },
+  {
+    "_id": 11,
+    "ru": "Ты купишь эти билеты?",
+    "en": "Will you buy these tickets?"
+  },
+  {
+    "_id": 12,
+    "ru": "Они присоединятся к нашей компании?",
+    "en": "Will they join our company?"
+  },
+  {
+    "_id": 13,
+    "ru": "Он поймет это?",
+    "en": "Will he understand it?"
+  },
+  {
+    "_id": 14,
+    "ru": "Ты пойдешь туда?",
+    "en": "Will you go there?"
+  },
+  {
+    "_id": 15,
+    "ru": "Это будет лучше?",
+    "en": "Will it be better?"
+  },
+  {
+    "_id": 16,
+    "ru": "Ты будешь там завтра?",
+    "en": "Will you be there tomorrow?"
+  },
+  {
+    "_id": 17,
+    "ru": "Это будет скоро возможно?",
+    "en": "Will it be possible soon?"
+  },
+  {
+    "_id": 18,
+    "ru": "Ты будешь покупать машину?",
+    "en": "Will you buy a car?"
+  },
+  {
+    "_id": 19,
+    "ru": "Ты пойдешь в парк?",
+    "en": "Will you go to the park?"
+  },
+  {
+    "_id": 20,
+    "ru": "Они будут снимать квартиру?",
+    "en": "Will they rent an apartment?"
+  },
+  {
+    "_id": 21,
+    "ru": "Они будут там?",
+    "en": "Will they be there?"
+  },
+  {
+    "_id": 22,
+    "ru": "Это будет правильно?",
+    "en": "Will it be right?"
+  },
+  {
+    "_id": 23,
+    "ru": "Ты поедешь во Францию в этом году?",
+    "en": "Will you go to France this year?"
+  },
+  {
+    "_id": 24,
+    "ru": "Он купит другую машину?",
+    "en": "Will he buy another car?"
+  },
+  {
+    "_id": 25,
+    "ru": "Это будет бесплатно?",
+    "en": "Will it be free?"
+  },
+  {
+    "_id": 26,
+    "ru": "Ты отправишь ему сообщение?",
+    "en": "Will you send him a message?"
+  },
+  {
+    "_id": 27,
+    "ru": "Это будет дешевле?",
+    "en": "Will it be cheaper?"
+  },
+  {
+    "_id": 28,
+    "ru": "Они присоединятся к нам?",
+    "en": "Will they join us?"
+  },
+  {
+    "_id": 29,
+    "ru": "Ты будешь на работе завтра?",
+    "en": "Will you be at work tomorrow?"
+  },
+  {
+    "_id": 30,
+    "ru": "Он скоро вернется?",
+    "en": "Will he come back soon?"
+  },
+  {
+    "_id": 31,
+    "ru": "Ты будешь играть?",
+    "en": "Will you play?"
+  },
+  {
+    "_id": 32,
+    "ru": "Она скоро придет домой?",
+    "en": "Will she come home soon?"
+  },
+  {
+    "_id": 33,
+    "ru": "Ты будешь делать это?",
+    "en": "Will you do it?"
+  },
+  {
+    "_id": 34,
+    "ru": "Вы будете снимать дом?",
+    "en": "Will you rent a house?"
+  },
+  {
+    "_id": 35,
+    "ru": "Это будет дороже?",
+    "en": "Will it be more expensive?"
+  },
+  {
+    "_id": 36,
+    "ru": "Ты будешь покупать это?",
+    "en": "Will you buy it?"
+  },
+  {
+    "_id": 37,
+    "ru": "Ты останешься дома?",
+    "en": "Will you stay at home?"
+  },
+  {
+    "_id": 38,
+    "ru": "Она будет покупать квартиру?",
+    "en": "Will she buy an apartment?"
+  },
+  {
+    "_id": 39,
+    "ru": "Ты будешь танцевать?",
+    "en": "Will you dance?"
+  },
+  {
+    "_id": 40,
+    "ru": "Ты отправишь ей письмо?",
+    "en": "Will you send her a letter?"
+  },
+  {
+    "_id": 41,
+    "ru": "Он будет с тобой?",
+    "en": "Will he be with you?"
+  },
+  {
+    "_id": 42,
+    "ru": "Ты позвонишь ему?",
+    "en": "Will you call him?"
+  },
+  {
+    "_id": 43,
+    "ru": "Это будет возможно?",
+    "en": "Will it be possible?"
+  },
+  {
+    "_id": 44,
+    "ru": "Ты проверишь эту информацию?",
+    "en": "Will you check this information?"
+  },
+  {
+    "_id": 45,
+    "ru": "Это будет лучшее решение?",
+    "en": "Will it be the best decision?"
+  }
 ]

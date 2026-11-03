@@ -1,206 +1,257 @@
 [
-  [
-    "Она болела на прошлой неделе",
-    "She was ill last week"
-  ],
-  [
-    "Я был на работе",
-    "I was at work"
-  ],
-  [
-    "Он был болен",
-    "He was ill"
-  ],
-  [
-    "Она была так счастлива",
-    "She was so happy"
-  ],
-  [
-    "Она была действительно рассержена",
-    "She was really angry"
-  ],
-  [
-    "Я был в парке",
-    "I was in the park"
-  ],
-  [
-    "Я был действительно удивлен",
-    "I was really surprised"
-  ],
-  [
-    "Он был на работе",
-    "He was at work"
-  ],
-  [
-    "Я был очень удивлен",
-    "I was very surprised"
-  ],
-  [
-    "Он был очень удивлен",
-    "He was very surprised"
-  ],
-  [
-    "Он был очень грустный",
-    "He was very sad"
-  ],
-  [
-    "Он был очень зол",
-    "He was very angry"
-  ],
-  [
-    "Это было очень сложно",
-    "It was very difficult"
-  ],
-  [
-    "Это был лучший результат",
-    "It was the best result"
-  ],
-  [
-    "Я очень устал",
-    "I was very tired"
-  ],
-  [
-    "Это было действительно странно",
-    "It was really strange"
-  ],
-  [
-    "Это было важно",
-    "It was important"
-  ],
-  [
-    "Этот урок был очень полезным",
-    "This lesson was very useful"
-  ],
-  [
-    "Она была грустная",
-    "She was sad"
-  ],
-  [
-    "Я очень устал вчера",
-    "I was very tired yesterday"
-  ],
-  [
-    "Они были в городе",
-    "They were in the city"
-  ],
-  [
-    "Это было очень важно",
-    "It was very important"
-  ],
-  [
-    "Это было так необычно",
-    "It was so unusual"
-  ],
-  [
-    "Мы были в городе",
-    "We were in the city"
-  ],
-  [
-    "Это было очень легко",
-    "It was very easy"
-  ],
-  [
-    "Эта еда была очень дешевой",
-    "This food was very cheap"
-  ],
-  [
-    "Эта идея была очень интересная",
-    "This idea was very interesting"
-  ],
-  [
-    "Это было лучшее решение",
-    "It was the best decision"
-  ],
-  [
-    "Это было действительно важно",
-    "It was really important"
-  ],
-  [
-    "Это был лучший выбор",
-    "It was the best choice"
-  ],
-  [
-    "Ты был совершенно прав",
-    "You were absolutely right"
-  ],
-  [
-    "Это было легко",
-    "It was easy"
-  ],
-  [
-    "Я был очень занят",
-    "I was very busy"
-  ],
-  [
-    "Они были в другом городе",
-    "They were in another city"
-  ],
-  [
-    "Я очень устал после работы",
-    "I was very tired after work"
-  ],
-  [
-    "Он был очень счастлив",
-    "He was very happy"
-  ],
-  [
-    "Я был очень занят весь день",
-    "I was very busy all day"
-  ],
-  [
-    "Это был мой лучший результат",
-    "It was my best result"
-  ],
-  [
-    "Мы были вместе",
-    "We were together"
-  ],
-  [
-    "Он был в школе",
-    "He was at school"
-  ],
-  [
-    "Это было так легко",
-    "It was so easy"
-  ],
-  [
-    "Ты был прав",
-    "You were right"
-  ],
-  [
-    "Это платье было очень дорогое",
-    "This dress was very expensive"
-  ],
-  [
-    "Я был очень счастлив",
-    "I was very happy"
-  ],
-  [
-    "Это было действительно интересно",
-    "It was really interesting"
-  ],
-  [
-    "Эти уроки были очень полезные",
-    "These lessons were very useful"
-  ],
-  [
-    "Этот билет был таким дорогим",
-    "This ticket was so expensive"
-  ],
-  [
-    "Это было слишком сложно",
-    "It was too difficult"
-  ],
-  [
-    "Это было сложно",
-    "It was difficult"
-  ],
-  [
-    "Мы были в парке",
-    "We were in the park"
-  ],
-  [
-    "Эти билеты были очень дорогими",
-    "These tickets were very expensive"
-  ]
+  {
+    "_id": 1,
+    "ru": "Она болела на прошлой неделе",
+    "en": "She was ill last week"
+  },
+  {
+    "_id": 2,
+    "ru": "Я был на работе",
+    "en": "I was at work"
+  },
+  {
+    "_id": 3,
+    "ru": "Он был болен",
+    "en": "He was ill"
+  },
+  {
+    "_id": 4,
+    "ru": "Она была так счастлива",
+    "en": "She was so happy"
+  },
+  {
+    "_id": 5,
+    "ru": "Она была действительно рассержена",
+    "en": "She was really angry"
+  },
+  {
+    "_id": 6,
+    "ru": "Я был в парке",
+    "en": "I was in the park"
+  },
+  {
+    "_id": 7,
+    "ru": "Я был действительно удивлен",
+    "en": "I was really surprised"
+  },
+  {
+    "_id": 8,
+    "ru": "Он был на работе",
+    "en": "He was at work"
+  },
+  {
+    "_id": 9,
+    "ru": "Я был очень удивлен",
+    "en": "I was very surprised"
+  },
+  {
+    "_id": 10,
+    "ru": "Он был очень удивлен",
+    "en": "He was very surprised"
+  },
+  {
+    "_id": 11,
+    "ru": "Он был очень грустный",
+    "en": "He was very sad"
+  },
+  {
+    "_id": 12,
+    "ru": "Он был очень зол",
+    "en": "He was very angry"
+  },
+  {
+    "_id": 13,
+    "ru": "Это было очень сложно",
+    "en": "It was very difficult"
+  },
+  {
+    "_id": 14,
+    "ru": "Это был лучший результат",
+    "en": "It was the best result"
+  },
+  {
+    "_id": 15,
+    "ru": "Я очень устал",
+    "en": "I was very tired"
+  },
+  {
+    "_id": 16,
+    "ru": "Это было действительно странно",
+    "en": "It was really strange"
+  },
+  {
+    "_id": 17,
+    "ru": "Это было важно",
+    "en": "It was important"
+  },
+  {
+    "_id": 18,
+    "ru": "Этот урок был очень полезным",
+    "en": "This lesson was very useful"
+  },
+  {
+    "_id": 19,
+    "ru": "Она была грустная",
+    "en": "She was sad"
+  },
+  {
+    "_id": 20,
+    "ru": "Я очень устал вчера",
+    "en": "I was very tired yesterday"
+  },
+  {
+    "_id": 21,
+    "ru": "Они были в городе",
+    "en": "They were in the city"
+  },
+  {
+    "_id": 22,
+    "ru": "Это было очень важно",
+    "en": "It was very important"
+  },
+  {
+    "_id": 23,
+    "ru": "Это было так необычно",
+    "en": "It was so unusual"
+  },
+  {
+    "_id": 24,
+    "ru": "Мы были в городе",
+    "en": "We were in the city"
+  },
+  {
+    "_id": 25,
+    "ru": "Это было очень легко",
+    "en": "It was very easy"
+  },
+  {
+    "_id": 26,
+    "ru": "Эта еда была очень дешевой",
+    "en": "This food was very cheap"
+  },
+  {
+    "_id": 27,
+    "ru": "Эта идея была очень интересная",
+    "en": "This idea was very interesting"
+  },
+  {
+    "_id": 28,
+    "ru": "Это было лучшее решение",
+    "en": "It was the best decision"
+  },
+  {
+    "_id": 29,
+    "ru": "Это было действительно важно",
+    "en": "It was really important"
+  },
+  {
+    "_id": 30,
+    "ru": "Это был лучший выбор",
+    "en": "It was the best choice"
+  },
+  {
+    "_id": 31,
+    "ru": "Ты был совершенно прав",
+    "en": "You were absolutely right"
+  },
+  {
+    "_id": 32,
+    "ru": "Это было легко",
+    "en": "It was easy"
+  },
+  {
+    "_id": 33,
+    "ru": "Я был очень занят",
+    "en": "I was very busy"
+  },
+  {
+    "_id": 34,
+    "ru": "Они были в другом городе",
+    "en": "They were in another city"
+  },
+  {
+    "_id": 35,
+    "ru": "Я очень устал после работы",
+    "en": "I was very tired after work"
+  },
+  {
+    "_id": 36,
+    "ru": "Он был очень счастлив",
+    "en": "He was very happy"
+  },
+  {
+    "_id": 37,
+    "ru": "Я был очень занят весь день",
+    "en": "I was very busy all day"
+  },
+  {
+    "_id": 38,
+    "ru": "Это был мой лучший результат",
+    "en": "It was my best result"
+  },
+  {
+    "_id": 39,
+    "ru": "Мы были вместе",
+    "en": "We were together"
+  },
+  {
+    "_id": 40,
+    "ru": "Он был в школе",
+    "en": "He was at school"
+  },
+  {
+    "_id": 41,
+    "ru": "Это было так легко",
+    "en": "It was so easy"
+  },
+  {
+    "_id": 42,
+    "ru": "Ты был прав",
+    "en": "You were right"
+  },
+  {
+    "_id": 43,
+    "ru": "Это платье было очень дорогое",
+    "en": "This dress was very expensive"
+  },
+  {
+    "_id": 44,
+    "ru": "Я был очень счастлив",
+    "en": "I was very happy"
+  },
+  {
+    "_id": 45,
+    "ru": "Это было действительно интересно",
+    "en": "It was really interesting"
+  },
+  {
+    "_id": 46,
+    "ru": "Эти уроки были очень полезные",
+    "en": "These lessons were very useful"
+  },
+  {
+    "_id": 47,
+    "ru": "Этот билет был таким дорогим",
+    "en": "This ticket was so expensive"
+  },
+  {
+    "_id": 48,
+    "ru": "Это было слишком сложно",
+    "en": "It was too difficult"
+  },
+  {
+    "_id": 49,
+    "ru": "Это было сложно",
+    "en": "It was difficult"
+  },
+  {
+    "_id": 50,
+    "ru": "Мы были в парке",
+    "en": "We were in the park"
+  },
+  {
+    "_id": 51,
+    "ru": "Эти билеты были очень дорогими",
+    "en": "These tickets were very expensive"
+  }
 ]

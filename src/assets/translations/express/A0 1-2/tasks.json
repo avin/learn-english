@@ -1,202 +1,252 @@
 [
-  [
-    "У меня есть зонт",
-    "I have an umbrella"
-  ],
-  [
-    "Мне нравится английский",
-    "I like English"
-  ],
-  [
-    "Ты делаешь это очень хорошо",
-    "You do it very well"
-  ],
-  [
-    "Они хотят большего",
-    "They want more"
-  ],
-  [
-    "У нас есть работа",
-    "We have a job"
-  ],
-  [
-    "У меня есть мечта",
-    "I have a dream"
-  ],
-  [
-    "Я вижу супермаркет",
-    "I see a supermarket"
-  ],
-  [
-    "Я вижу отель",
-    "I see a hotel"
-  ],
-  [
-    "Мне очень нравится это",
-    "I really like it"
-  ],
-  [
-    "Мы видим университет",
-    "We see a university"
-  ],
-  [
-    "Мы видим эту проблему",
-    "We see this problem"
-  ],
-  [
-    "Мы видим сообщение",
-    "We see a message"
-  ],
-  [
-    "Я работаю в этой компании",
-    "I work in this company"
-  ],
-  [
-    "Я согласен с тобой",
-    "I agree with you"
-  ],
-  [
-    "Я работаю в компании",
-    "I work in a company"
-  ],
-  [
-    "Мне нравится эта еда",
-    "I like this food"
-  ],
-  [
-    "Мне очень нравится английский",
-    "I really like English"
-  ],
-  [
-    "Мы видим аэропорт",
-    "We see an airport"
-  ],
-  [
-    "Мне очень нравится эта страна",
-    "I really like this country"
-  ],
-  [
-    "У меня есть результат",
-    "I have a result"
-  ],
-  [
-    "У меня есть работа",
-    "I have a job"
-  ],
-  [
-    "У меня есть друг",
-    "I have a friend"
-  ],
-  [
-    "Я очень хочу это",
-    "I really want it"
-  ],
-  [
-    "Мне нравится это место",
-    "I like this place"
-  ],
-  [
-    "Я вижу автобус",
-    "I see a bus"
-  ],
-  [
-    "У них есть работа",
-    "They have a job"
-  ],
-  [
-    "У меня есть семья",
-    "I have a family"
-  ],
-  [
-    "Я поддерживаю тебя",
-    "I support you"
-  ],
-  [
-    "Мы поддерживаем тебя",
-    "We support you"
-  ],
-  [
-    "Я согласен",
-    "I agree"
-  ],
-  [
-    "У меня есть цель",
-    "I have an aim"
-  ],
-  [
-    "У меня проблема",
-    "I have a problem"
-  ],
-  [
-    "У меня вопрос",
-    "I have a question"
-  ],
-  [
-    "У нас есть цель",
-    "We have an aim"
-  ],
-  [
-    "У них есть мечта",
-    "They have a dream"
-  ],
-  [
-    "Мне очень нравится этот город",
-    "I really like this city"
-  ],
-  [
-    "Я знаю",
-    "I know"
-  ],
-  [
-    "Я вижу поезд",
-    "I see a train"
-  ],
-  [
-    "У меня есть идея",
-    "I have an idea"
-  ],
-  [
-    "Они работают в компании",
-    "They work in a company"
-  ],
-  [
-    "У нас есть мечта",
-    "We have a dream"
-  ],
-  [
-    "У вас есть талант",
-    "You have a talent"
-  ],
-  [
-    "У них есть идея",
-    "They have an idea"
-  ],
-  [
-    "Мне очень нравится этот курс",
-    "I really like this course"
-  ],
-  [
-    "Я вижу аэропорт",
-    "I see an airport"
-  ],
-  [
-    "Они работают в этом месте",
-    "They work in this place"
-  ],
-  [
-    "Я вижу университет",
-    "I see a university"
-  ],
-  [
-    "Я вижу сообщение",
-    "I see a message"
-  ],
-  [
-    "У меня есть билет",
-    "I have a ticket"
-  ],
-  [
-    "Я понимаю",
-    "I understand"
-  ]
+  {
+    "_id": 1,
+    "ru": "У меня есть зонт",
+    "en": "I have an umbrella"
+  },
+  {
+    "_id": 2,
+    "ru": "Мне нравится английский",
+    "en": "I like English"
+  },
+  {
+    "_id": 3,
+    "ru": "Ты делаешь это очень хорошо",
+    "en": "You do it very well"
+  },
+  {
+    "_id": 4,
+    "ru": "Они хотят большего",
+    "en": "They want more"
+  },
+  {
+    "_id": 5,
+    "ru": "У нас есть работа",
+    "en": "We have a job"
+  },
+  {
+    "_id": 6,
+    "ru": "У меня есть мечта",
+    "en": "I have a dream"
+  },
+  {
+    "_id": 7,
+    "ru": "Я вижу супермаркет",
+    "en": "I see a supermarket"
+  },
+  {
+    "_id": 8,
+    "ru": "Я вижу отель",
+    "en": "I see a hotel"
+  },
+  {
+    "_id": 9,
+    "ru": "Мне очень нравится это",
+    "en": "I really like it"
+  },
+  {
+    "_id": 10,
+    "ru": "Мы видим университет",
+    "en": "We see a university"
+  },
+  {
+    "_id": 11,
+    "ru": "Мы видим эту проблему",
+    "en": "We see this problem"
+  },
+  {
+    "_id": 12,
+    "ru": "Мы видим сообщение",
+    "en": "We see a message"
+  },
+  {
+    "_id": 13,
+    "ru": "Я работаю в этой компании",
+    "en": "I work in this company"
+  },
+  {
+    "_id": 14,
+    "ru": "Я согласен с тобой",
+    "en": "I agree with you"
+  },
+  {
+    "_id": 15,
+    "ru": "Я работаю в компании",
+    "en": "I work in a company"
+  },
+  {
+    "_id": 16,
+    "ru": "Мне нравится эта еда",
+    "en": "I like this food"
+  },
+  {
+    "_id": 17,
+    "ru": "Мне очень нравится английский",
+    "en": "I really like English"
+  },
+  {
+    "_id": 18,
+    "ru": "Мы видим аэропорт",
+    "en": "We see an airport"
+  },
+  {
+    "_id": 19,
+    "ru": "Мне очень нравится эта страна",
+    "en": "I really like this country"
+  },
+  {
+    "_id": 20,
+    "ru": "У меня есть результат",
+    "en": "I have a result"
+  },
+  {
+    "_id": 21,
+    "ru": "У меня есть работа",
+    "en": "I have a job"
+  },
+  {
+    "_id": 22,
+    "ru": "У меня есть друг",
+    "en": "I have a friend"
+  },
+  {
+    "_id": 23,
+    "ru": "Я очень хочу это",
+    "en": "I really want it"
+  },
+  {
+    "_id": 24,
+    "ru": "Мне нравится это место",
+    "en": "I like this place"
+  },
+  {
+    "_id": 25,
+    "ru": "Я вижу автобус",
+    "en": "I see a bus"
+  },
+  {
+    "_id": 26,
+    "ru": "У них есть работа",
+    "en": "They have a job"
+  },
+  {
+    "_id": 27,
+    "ru": "У меня есть семья",
+    "en": "I have a family"
+  },
+  {
+    "_id": 28,
+    "ru": "Я поддерживаю тебя",
+    "en": "I support you"
+  },
+  {
+    "_id": 29,
+    "ru": "Мы поддерживаем тебя",
+    "en": "We support you"
+  },
+  {
+    "_id": 30,
+    "ru": "Я согласен",
+    "en": "I agree"
+  },
+  {
+    "_id": 31,
+    "ru": "У меня есть цель",
+    "en": "I have an aim"
+  },
+  {
+    "_id": 32,
+    "ru": "У меня проблема",
+    "en": "I have a problem"
+  },
+  {
+    "_id": 33,
+    "ru": "У меня вопрос",
+    "en": "I have a question"
+  },
+  {
+    "_id": 34,
+    "ru": "У нас есть цель",
+    "en": "We have an aim"
+  },
+  {
+    "_id": 35,
+    "ru": "У них есть мечта",
+    "en": "They have a dream"
+  },
+  {
+    "_id": 36,
+    "ru": "Мне очень нравится этот город",
+    "en": "I really like this city"
+  },
+  {
+    "_id": 37,
+    "ru": "Я знаю",
+    "en": "I know"
+  },
+  {
+    "_id": 38,
+    "ru": "Я вижу поезд",
+    "en": "I see a train"
+  },
+  {
+    "_id": 39,
+    "ru": "У меня есть идея",
+    "en": "I have an idea"
+  },
+  {
+    "_id": 40,
+    "ru": "Они работают в компании",
+    "en": "They work in a company"
+  },
+  {
+    "_id": 41,
+    "ru": "У нас есть мечта",
+    "en": "We have a dream"
+  },
+  {
+    "_id": 42,
+    "ru": "У вас есть талант",
+    "en": "You have a talent"
+  },
+  {
+    "_id": 43,
+    "ru": "У них есть идея",
+    "en": "They have an idea"
+  },
+  {
+    "_id": 44,
+    "ru": "Мне очень нравится этот курс",
+    "en": "I really like this course"
+  },
+  {
+    "_id": 45,
+    "ru": "Я вижу аэропорт",
+    "en": "I see an airport"
+  },
+  {
+    "_id": 46,
+    "ru": "Они работают в этом месте",
+    "en": "They work in this place"
+  },
+  {
+    "_id": 47,
+    "ru": "Я вижу университет",
+    "en": "I see a university"
+  },
+  {
+    "_id": 48,
+    "ru": "Я вижу сообщение",
+    "en": "I see a message"
+  },
+  {
+    "_id": 49,
+    "ru": "У меня есть билет",
+    "en": "I have a ticket"
+  },
+  {
+    "_id": 50,
+    "ru": "Я понимаю",
+    "en": "I understand"
+  }
 ]

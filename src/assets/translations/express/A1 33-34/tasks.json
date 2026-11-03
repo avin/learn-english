@@ -1,166 +1,207 @@
 [
-  [
-    "Это действительно было интересно тебе?",
-    "Was it really interesting for you?"
-  ],
-  [
-    "Он работал инструктором?",
-    "Did he work as an instructor?"
-  ],
-  [
-    "Почему это было так интересно тебе?",
-    "Why was it so interesting for you?"
-  ],
-  [
-    "Это звучало действительно интересно?",
-    "Did it sound really interesting?"
-  ],
-  [
-    "Ты чувствовал себя действительно счастливым?",
-    "Did you feel really happy?"
-  ],
-  [
-    "Он был инструктором?",
-    "Was he an instructor?"
-  ],
-  [
-    "Когда ты был там?",
-    "When were you there?"
-  ],
-  [
-    "Ты купил эти билеты?",
-    "Did you buy these tickets?"
-  ],
-  [
-    "Она была продавцом?",
-    "Was she a shop assistant?"
-  ],
-  [
-    "Ты закрыл окно?",
-    "Did you close the window?"
-  ],
-  [
-    "Эта информация была действительно полезной для тебя?",
-    "Was this information really useful for you?"
-  ],
-  [
-    "Это было на кровати?",
-    "Was it on the bed?"
-  ],
-  [
-    "Ты хотел найти новую работу?",
-    "Did you want to find a new job?"
-  ],
-  [
-    "Это было скучно?",
-    "Was it boring?"
-  ],
-  [
-    "Ты был действительно счастлив?",
-    "Were you really happy?"
-  ],
-  [
-    "Это было действительно странно?",
-    "Was it really strange?"
-  ],
-  [
-    "Тебе действительно понравился этот фильм?",
-    "Did you really like this movie?"
-  ],
-  [
-    "Это было действительно лучше?",
-    "Was it really better?"
-  ],
-  [
-    "Это был полезный пример?",
-    "Was it a useful example?"
-  ],
-  [
-    "Это было действительно возможно?",
-    "Was it really possible?"
-  ],
-  [
-    "Почему это интересовало тебя так сильно?",
-    "Why did it interest you so much?"
-  ],
-  [
-    "Почему это стоило так дорого?",
-    "Why did it cost so much?"
-  ],
-  [
-    "Это был высокий уровень?",
-    "Was it a high level?"
-  ],
-  [
-    "Почему это было так дорого?",
-    "Why was it so expensive?"
-  ],
-  [
-    "Он был согласен сделать это?",
-    "Did he agree to do it?"
-  ],
-  [
-    "Это лежало на кровати?",
-    "Did it lie on the bed?"
-  ],
-  [
-    "Тебе понравился этот пример?",
-    "Did you like this example?"
-  ],
-  [
-    "Это было летом?",
-    "Was it in summer?"
-  ],
-  [
-    "Это казалось действительно странным?",
-    "Did it seem really strange?"
-  ],
-  [
-    "Окно было закрыто?",
-    "Was the window closed?"
-  ],
-  [
-    "Ты нашел эту информацию?",
-    "Did you find this information?"
-  ],
-  [
-    "Это казалось действительно возможным?",
-    "Did it seem really possible?"
-  ],
-  [
-    "Это действительно интересовало тебя?",
-    "Did it really interest you?"
-  ],
-  [
-    "Кто был на вечеринке?",
-    "Who was at the party?"
-  ],
-  [
-    "Она работала продавцом ?",
-    "Did she work as a shop assistant?"
-  ],
-  [
-    "Дверь была открыта?",
-    "Was the door open?"
-  ],
-  [
-    "Это произошло прошлым летом?",
-    "Did it happen last summer?"
-  ],
-  [
-    "Это казалось очень высоким уровнем?",
-    "Did it seem a very high level?"
-  ],
-  [
-    "Когда ты ходил туда в последний раз?",
-    "When did you go there last time?"
-  ],
-  [
-    "Это была хорошо оплачиваемая работа?",
-    "Was it a well-paid job?"
-  ],
-  [
-    "Ты открыл дверь?",
-    "Did you open the door?"
-  ]
+  {
+    "_id": 1,
+    "ru": "Это действительно было интересно тебе?",
+    "en": "Was it really interesting for you?"
+  },
+  {
+    "_id": 2,
+    "ru": "Он работал инструктором?",
+    "en": "Did he work as an instructor?"
+  },
+  {
+    "_id": 3,
+    "ru": "Почему это было так интересно тебе?",
+    "en": "Why was it so interesting for you?"
+  },
+  {
+    "_id": 4,
+    "ru": "Это звучало действительно интересно?",
+    "en": "Did it sound really interesting?"
+  },
+  {
+    "_id": 5,
+    "ru": "Ты чувствовал себя действительно счастливым?",
+    "en": "Did you feel really happy?"
+  },
+  {
+    "_id": 6,
+    "ru": "Он был инструктором?",
+    "en": "Was he an instructor?"
+  },
+  {
+    "_id": 7,
+    "ru": "Когда ты был там?",
+    "en": "When were you there?"
+  },
+  {
+    "_id": 8,
+    "ru": "Ты купил эти билеты?",
+    "en": "Did you buy these tickets?"
+  },
+  {
+    "_id": 9,
+    "ru": "Она была продавцом?",
+    "en": "Was she a shop assistant?"
+  },
+  {
+    "_id": 10,
+    "ru": "Ты закрыл окно?",
+    "en": "Did you close the window?"
+  },
+  {
+    "_id": 11,
+    "ru": "Эта информация была действительно полезной для тебя?",
+    "en": "Was this information really useful for you?"
+  },
+  {
+    "_id": 12,
+    "ru": "Это было на кровати?",
+    "en": "Was it on the bed?"
+  },
+  {
+    "_id": 13,
+    "ru": "Ты хотел найти новую работу?",
+    "en": "Did you want to find a new job?"
+  },
+  {
+    "_id": 14,
+    "ru": "Это было скучно?",
+    "en": "Was it boring?"
+  },
+  {
+    "_id": 15,
+    "ru": "Ты был действительно счастлив?",
+    "en": "Were you really happy?"
+  },
+  {
+    "_id": 16,
+    "ru": "Это было действительно странно?",
+    "en": "Was it really strange?"
+  },
+  {
+    "_id": 17,
+    "ru": "Тебе действительно понравился этот фильм?",
+    "en": "Did you really like this movie?"
+  },
+  {
+    "_id": 18,
+    "ru": "Это было действительно лучше?",
+    "en": "Was it really better?"
+  },
+  {
+    "_id": 19,
+    "ru": "Это был полезный пример?",
+    "en": "Was it a useful example?"
+  },
+  {
+    "_id": 20,
+    "ru": "Это было действительно возможно?",
+    "en": "Was it really possible?"
+  },
+  {
+    "_id": 21,
+    "ru": "Почему это интересовало тебя так сильно?",
+    "en": "Why did it interest you so much?"
+  },
+  {
+    "_id": 22,
+    "ru": "Почему это стоило так дорого?",
+    "en": "Why did it cost so much?"
+  },
+  {
+    "_id": 23,
+    "ru": "Это был высокий уровень?",
+    "en": "Was it a high level?"
+  },
+  {
+    "_id": 24,
+    "ru": "Почему это было так дорого?",
+    "en": "Why was it so expensive?"
+  },
+  {
+    "_id": 25,
+    "ru": "Он был согласен сделать это?",
+    "en": "Did he agree to do it?"
+  },
+  {
+    "_id": 26,
+    "ru": "Это лежало на кровати?",
+    "en": "Did it lie on the bed?"
+  },
+  {
+    "_id": 27,
+    "ru": "Тебе понравился этот пример?",
+    "en": "Did you like this example?"
+  },
+  {
+    "_id": 28,
+    "ru": "Это было летом?",
+    "en": "Was it in summer?"
+  },
+  {
+    "_id": 29,
+    "ru": "Это казалось действительно странным?",
+    "en": "Did it seem really strange?"
+  },
+  {
+    "_id": 30,
+    "ru": "Окно было закрыто?",
+    "en": "Was the window closed?"
+  },
+  {
+    "_id": 31,
+    "ru": "Ты нашел эту информацию?",
+    "en": "Did you find this information?"
+  },
+  {
+    "_id": 32,
+    "ru": "Это казалось действительно возможным?",
+    "en": "Did it seem really possible?"
+  },
+  {
+    "_id": 33,
+    "ru": "Это действительно интересовало тебя?",
+    "en": "Did it really interest you?"
+  },
+  {
+    "_id": 34,
+    "ru": "Кто был на вечеринке?",
+    "en": "Who was at the party?"
+  },
+  {
+    "_id": 35,
+    "ru": "Она работала продавцом ?",
+    "en": "Did she work as a shop assistant?"
+  },
+  {
+    "_id": 36,
+    "ru": "Дверь была открыта?",
+    "en": "Was the door open?"
+  },
+  {
+    "_id": 37,
+    "ru": "Это произошло прошлым летом?",
+    "en": "Did it happen last summer?"
+  },
+  {
+    "_id": 38,
+    "ru": "Это казалось очень высоким уровнем?",
+    "en": "Did it seem a very high level?"
+  },
+  {
+    "_id": 39,
+    "ru": "Когда ты ходил туда в последний раз?",
+    "en": "When did you go there last time?"
+  },
+  {
+    "_id": 40,
+    "ru": "Это была хорошо оплачиваемая работа?",
+    "en": "Was it a well-paid job?"
+  },
+  {
+    "_id": 41,
+    "ru": "Ты открыл дверь?",
+    "en": "Did you open the door?"
+  }
 ]

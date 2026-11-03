@@ -1,390 +1,487 @@
 [
-  [
-    "Он почти сдал экзамен",
-    "He nearly passed the exam"
-  ],
-  [
-    "Ты говоришь по-английски очень естественно",
-    "You speak English very naturally"
-  ],
-  [
-    "Это прямой рейс в Нью-Йорк",
-    "It is a direct flight to New York"
-  ],
-  [
-    "Я действительно был очень рад",
-    "I was very glad indeed"
-  ],
-  [
-    "Эти цветы очень хорошо пахнут",
-    "These flowers smell very good"
-  ],
-  [
-    "Его английский звучит очень естественно",
-    "His English sounds very natural"
-  ],
-  [
-    "Я хочу говорить по-английски быстро и правильно",
-    "I want to speak English fast and correctly"
-  ],
-  [
-    "Кто сказал это правильно?",
-    "Who said it right?"
-  ],
-  [
-    "Это совершенно неправильно",
-    "It is completely wrong"
-  ],
-  [
-    "Действительно, ты прав",
-    "Indeed, you are right"
-  ],
-  [
-    "Это правильно или неправильно?",
-    "Is it right or wrong?"
-  ],
-  [
-    "Это место совсем рядом",
-    "This place is quite near"
-  ],
-  [
-    "Они немного повысили цену",
-    "They increased the price slightly"
-  ],
-  [
-    "Это высокооплачиваемая работа",
-    "It is a highly paid job"
-  ],
-  [
-    "Это правильно или неправильно?",
-    "Is it correct or incorrect?"
-  ],
-  [
-    "Я почти получил этот балл",
-    "I nearly got this score"
-  ],
-  [
-    "Это рядом",
-    "It is near"
-  ],
-  [
-    "Это очень глубокое озеро",
-    "It is a very deep lake"
-  ],
-  [
-    "Это правильно или нет?",
-    "Is it right or not?"
-  ],
-  [
-    "Та еда очень плохо пахнет",
-    "That food smells very bad"
-  ],
-  [
-    "Она сказала это неправильно",
-    "She said it incorrectly"
-  ],
-  [
-    "Здесь очень глубоко",
-    "It is very deep here"
-  ],
-  [
-    "У нее небольшая зубная боль",
-    "She has a slight toothache"
-  ],
-  [
-    "Действительно, все может измениться очень быстро",
-    "Indeed, everything can change very quickly"
-  ],
-  [
-    "Ты можешь сказать мне эту вещь напрямую",
-    "You can tell me this thing directly"
-  ],
-  [
-    "Почему ты пришел так поздно?",
-    "Why did you come so late?"
-  ],
-  [
-    "Я почти достиг этой цели",
-    "I nearly achieved this aim"
-  ],
-  [
-    "У него была небольшая головная боль",
-    "He had a slight headache"
-  ],
-  [
-    "Все было неправильно",
-    "Everything was wrong"
-  ],
-  [
-    "Рыба плохо пахнет",
-    "The fish smells bad"
-  ],
-  [
-    "Это совершенно неправильное предложение",
-    "It is a completely wrong sentence"
-  ],
-  [
-    "Была небольшая задержка",
-    "There was a slight delay"
-  ],
-  [
-    "Она написала это правильно",
-    "She wrote it correctly"
-  ],
-  [
-    "Тебе не следует ехать так быстро",
-    "You shouldn't drive so fast"
-  ],
-  [
-    "Она глубоко религиозный человек",
-    "She is a deeply religious person"
-  ],
-  [
-    "Мальчик подпрыгнул очень высоко",
-    "The boy jumped very high"
-  ],
-  [
-    "Здесь очень высоко",
-    "It is very high here"
-  ],
-  [
-    "Я глубоко сожалею об этом",
-    "I deeply regret it"
-  ],
-  [
-    "Он действительно был прав",
-    "He was right indeed"
-  ],
-  [
-    "Он сказал это неправильно",
-    "He said it wrongly"
-  ],
-  [
-    "Несомненно, это стоит нашего внимания",
-    "Undoubtedly, it's worth our attention"
-  ],
-  [
-    "Тем не менее, я смог сделать то, что хотел",
-    "Nevertheless, I was able to do what I wanted"
-  ],
-  [
-    "Трудно поверить, что это может быть возможно",
-    "It is hard to believe that it can be possible"
-  ],
-  [
-    "Несомненно, это стоит восхищения",
-    "Undoubtedly, it's worth of admiration"
-  ],
-  [
-    "Ответ правильный или нет?",
-    "Is the answer correct or not?"
-  ],
-  [
-    "Где ты был в последнее время?",
-    "Where have you been lately?"
-  ],
-  [
-    "Несомненно, это была настоящая сенсация",
-    "Undoubtedly, it was a real sensation"
-  ],
-  [
-    "Она ищет высокооплачиваемую работу",
-    "She is looking for a highly paid job"
-  ],
-  [
-    "Тем не менее, это было немного несправедливо",
-    "Nevertheless, it was a little unfair"
-  ],
-  [
-    "Он очень успешный предприниматель",
-    "He is a highly successful entrepreneur"
-  ],
-  [
-    "Это немного формальное предложение",
-    "It is a slightly formal sentence"
-  ],
-  [
-    "Однако, эта ситуация может повториться",
-    "However, this situation can repeat itself"
-  ],
-  [
-    "Что он делал в последнее время?",
-    "What has he been doing lately?"
-  ],
-  [
-    "Он высоко образованный человек",
-    "He is a highly educated person"
-  ],
-  [
-    "Он высоко профессиональный работник",
-    "He is a highly professional worker"
-  ],
-  [
-    "Однако, мы полны оптимизма",
-    "However, we are full of optimism"
-  ],
-  [
-    "Однако, мы полны энергии",
-    "However, we are full of energy"
-  ],
-  [
-    "Честно говоря, я полон оптимизма",
-    "Honestly, I am full of optimism"
-  ],
-  [
-    "Я полностью согласен с тобой",
-    "I fully agree with you"
-  ],
-  [
-    "Я абсолютно согласен с тобой",
-    "I absolutely agree with you"
-  ],
-  [
-    "Отчасти я согласен с тобой",
-    "I partly agree with you"
-  ],
-  [
-    "Он очень сильно повредил ногу",
-    "He hurt his leg very badly"
-  ],
-  [
-    "Он очень сильно ушибся",
-    "He hurt himself very badly"
-  ],
-  [
-    "Он сильно повредил руку?",
-    "Did he hurt his arm badly?"
-  ],
-  [
-    "Несомненно, это был огромный успех",
-    "Undoubtedly, it was a huge success"
-  ],
-  [
-    "Несомненно, это настоящий успех",
-    "Undoubtedly, it is a real success"
-  ],
-  [
-    "Тем не менее, это был отличный результат",
-    "Nevertheless, it was a great result"
-  ],
-  [
-    "Я частично согласен с ним",
-    "I partly agree with him"
-  ],
-  [
-    "Я полностью согласен с ним",
-    "I fully agree with him"
-  ],
-  [
-    "Я абсолютно согласен с ним",
-    "I absolutely agree with him"
-  ],
-  [
-    "Наконец, я добрался до этого места",
-    "Finally, I got to this place"
-  ],
-  [
-    "Наконец я покинул это место",
-    "Finally, I left this place"
-  ],
-  [
-    "Наконец я закончил свою работу",
-    "Finally, I finished my work"
-  ],
-  [
-    "Тем не менее, мне удалось это сделать",
-    "Nevertheless, I managed to do it"
-  ],
-  [
-    "Тем не менее, я предпочел этого не делать",
-    "Nevertheless, I preferred not to do it"
-  ],
-  [
-    "Тем не менее, мне удалось заработать эти деньги",
-    "Nevertheless, I managed to earn this money"
-  ],
-  [
-    "Это было сказано неправильно",
-    "It was said wrongly"
-  ],
-  [
-    "Это было сказано правильно",
-    "It was said correctly"
-  ],
-  [
-    "Это было написано неправильно",
-    "It was written wrongly"
-  ],
-  [
-    "Это было написано неправильно",
-    "It was written incorrectly"
-  ],
-  [
-    "Это было написано правильно",
-    "It was written correctly"
-  ],
-  [
-    "Это было сказано неправильно",
-    "It was said incorrectly"
-  ],
-  [
-    "Она посещает это место довольно часто",
-    "She visits this place quite often"
-  ],
-  [
-    "Это очень эффективный метод",
-    "It is a highly effective method"
-  ],
-  [
-    "Я наконец получил его разрешение",
-    "I finally got his permission"
-  ],
-  [
-    "У него легкий иностранный акцент",
-    "He has a slight foreign accent"
-  ],
-  [
-    "Однако, ситуация все еще нестабильна",
-    "However, the situation is still unstable"
-  ],
-  [
-    "Он очень успешный бизнесмен",
-    "He is a highly successful businessman"
-  ],
-  [
-    "Это было сказано правильно или неправильно?",
-    "Was it said correctly or incorrectly?"
-  ],
-  [
-    "Кто-то очень сильно его избил",
-    "Someone beat him very badly"
-  ],
-  [
-    "Он высокопрофессиональный учитель",
-    "He is a highly professional teacher"
-  ],
-  [
-    "Он ходит в спортзал довольно регулярно",
-    "He goes to the gym quite regularly"
-  ],
-  [
-    "Все эти вещи были сделаны неправильно",
-    "All these things were done wrongly"
-  ],
-  [
-    "Наконец, она все осознала",
-    "Finally, she realized everything"
-  ],
-  [
-    "Это было сделано правильно или неправильно?",
-    "Was it done correctly or incorrectly?"
-  ],
-  [
-    "Это немного неформальный ответ",
-    "It is a slightly informal answer"
-  ],
-  [
-    "Он частично согласен с этим утверждением",
-    "He partly agrees with this statement"
-  ]
+  {
+    "_id": 1,
+    "ru": "Он почти сдал экзамен",
+    "en": "He nearly passed the exam"
+  },
+  {
+    "_id": 2,
+    "ru": "Ты говоришь по-английски очень естественно",
+    "en": "You speak English very naturally"
+  },
+  {
+    "_id": 3,
+    "ru": "Это прямой рейс в Нью-Йорк",
+    "en": "It is a direct flight to New York"
+  },
+  {
+    "_id": 4,
+    "ru": "Я действительно был очень рад",
+    "en": "I was very glad indeed"
+  },
+  {
+    "_id": 5,
+    "ru": "Эти цветы очень хорошо пахнут",
+    "en": "These flowers smell very good"
+  },
+  {
+    "_id": 6,
+    "ru": "Его английский звучит очень естественно",
+    "en": "His English sounds very natural"
+  },
+  {
+    "_id": 7,
+    "ru": "Я хочу говорить по-английски быстро и правильно",
+    "en": "I want to speak English fast and correctly"
+  },
+  {
+    "_id": 8,
+    "ru": "Кто сказал это правильно?",
+    "en": "Who said it right?"
+  },
+  {
+    "_id": 9,
+    "ru": "Это совершенно неправильно",
+    "en": "It is completely wrong"
+  },
+  {
+    "_id": 10,
+    "ru": "Действительно, ты прав",
+    "en": "Indeed, you are right"
+  },
+  {
+    "_id": 11,
+    "ru": "Это правильно или неправильно?",
+    "en": "Is it right or wrong?"
+  },
+  {
+    "_id": 12,
+    "ru": "Это место совсем рядом",
+    "en": "This place is quite near"
+  },
+  {
+    "_id": 13,
+    "ru": "Они немного повысили цену",
+    "en": "They increased the price slightly"
+  },
+  {
+    "_id": 14,
+    "ru": "Это высокооплачиваемая работа",
+    "en": "It is a highly paid job"
+  },
+  {
+    "_id": 15,
+    "ru": "Это правильно или неправильно?",
+    "en": "Is it correct or incorrect?"
+  },
+  {
+    "_id": 16,
+    "ru": "Я почти получил этот балл",
+    "en": "I nearly got this score"
+  },
+  {
+    "_id": 17,
+    "ru": "Это рядом",
+    "en": "It is near"
+  },
+  {
+    "_id": 18,
+    "ru": "Это очень глубокое озеро",
+    "en": "It is a very deep lake"
+  },
+  {
+    "_id": 19,
+    "ru": "Это правильно или нет?",
+    "en": "Is it right or not?"
+  },
+  {
+    "_id": 20,
+    "ru": "Та еда очень плохо пахнет",
+    "en": "That food smells very bad"
+  },
+  {
+    "_id": 21,
+    "ru": "Она сказала это неправильно",
+    "en": "She said it incorrectly"
+  },
+  {
+    "_id": 22,
+    "ru": "Здесь очень глубоко",
+    "en": "It is very deep here"
+  },
+  {
+    "_id": 23,
+    "ru": "У нее небольшая зубная боль",
+    "en": "She has a slight toothache"
+  },
+  {
+    "_id": 24,
+    "ru": "Действительно, все может измениться очень быстро",
+    "en": "Indeed, everything can change very quickly"
+  },
+  {
+    "_id": 25,
+    "ru": "Ты можешь сказать мне эту вещь напрямую",
+    "en": "You can tell me this thing directly"
+  },
+  {
+    "_id": 26,
+    "ru": "Почему ты пришел так поздно?",
+    "en": "Why did you come so late?"
+  },
+  {
+    "_id": 27,
+    "ru": "Я почти достиг этой цели",
+    "en": "I nearly achieved this aim"
+  },
+  {
+    "_id": 28,
+    "ru": "У него была небольшая головная боль",
+    "en": "He had a slight headache"
+  },
+  {
+    "_id": 29,
+    "ru": "Все было неправильно",
+    "en": "Everything was wrong"
+  },
+  {
+    "_id": 30,
+    "ru": "Рыба плохо пахнет",
+    "en": "The fish smells bad"
+  },
+  {
+    "_id": 31,
+    "ru": "Это совершенно неправильное предложение",
+    "en": "It is a completely wrong sentence"
+  },
+  {
+    "_id": 32,
+    "ru": "Была небольшая задержка",
+    "en": "There was a slight delay"
+  },
+  {
+    "_id": 33,
+    "ru": "Она написала это правильно",
+    "en": "She wrote it correctly"
+  },
+  {
+    "_id": 34,
+    "ru": "Тебе не следует ехать так быстро",
+    "en": "You shouldn't drive so fast"
+  },
+  {
+    "_id": 35,
+    "ru": "Она глубоко религиозный человек",
+    "en": "She is a deeply religious person"
+  },
+  {
+    "_id": 36,
+    "ru": "Мальчик подпрыгнул очень высоко",
+    "en": "The boy jumped very high"
+  },
+  {
+    "_id": 37,
+    "ru": "Здесь очень высоко",
+    "en": "It is very high here"
+  },
+  {
+    "_id": 38,
+    "ru": "Я глубоко сожалею об этом",
+    "en": "I deeply regret it"
+  },
+  {
+    "_id": 39,
+    "ru": "Он действительно был прав",
+    "en": "He was right indeed"
+  },
+  {
+    "_id": 40,
+    "ru": "Он сказал это неправильно",
+    "en": "He said it wrongly"
+  },
+  {
+    "_id": 41,
+    "ru": "Несомненно, это стоит нашего внимания",
+    "en": "Undoubtedly, it's worth our attention"
+  },
+  {
+    "_id": 42,
+    "ru": "Тем не менее, я смог сделать то, что хотел",
+    "en": "Nevertheless, I was able to do what I wanted"
+  },
+  {
+    "_id": 43,
+    "ru": "Трудно поверить, что это может быть возможно",
+    "en": "It is hard to believe that it can be possible"
+  },
+  {
+    "_id": 44,
+    "ru": "Несомненно, это стоит восхищения",
+    "en": "Undoubtedly, it's worth of admiration"
+  },
+  {
+    "_id": 45,
+    "ru": "Ответ правильный или нет?",
+    "en": "Is the answer correct or not?"
+  },
+  {
+    "_id": 46,
+    "ru": "Где ты был в последнее время?",
+    "en": "Where have you been lately?"
+  },
+  {
+    "_id": 47,
+    "ru": "Несомненно, это была настоящая сенсация",
+    "en": "Undoubtedly, it was a real sensation"
+  },
+  {
+    "_id": 48,
+    "ru": "Она ищет высокооплачиваемую работу",
+    "en": "She is looking for a highly paid job"
+  },
+  {
+    "_id": 49,
+    "ru": "Тем не менее, это было немного несправедливо",
+    "en": "Nevertheless, it was a little unfair"
+  },
+  {
+    "_id": 50,
+    "ru": "Он очень успешный предприниматель",
+    "en": "He is a highly successful entrepreneur"
+  },
+  {
+    "_id": 51,
+    "ru": "Это немного формальное предложение",
+    "en": "It is a slightly formal sentence"
+  },
+  {
+    "_id": 52,
+    "ru": "Однако, эта ситуация может повториться",
+    "en": "However, this situation can repeat itself"
+  },
+  {
+    "_id": 53,
+    "ru": "Что он делал в последнее время?",
+    "en": "What has he been doing lately?"
+  },
+  {
+    "_id": 54,
+    "ru": "Он высоко образованный человек",
+    "en": "He is a highly educated person"
+  },
+  {
+    "_id": 55,
+    "ru": "Он высоко профессиональный работник",
+    "en": "He is a highly professional worker"
+  },
+  {
+    "_id": 56,
+    "ru": "Однако, мы полны оптимизма",
+    "en": "However, we are full of optimism"
+  },
+  {
+    "_id": 57,
+    "ru": "Однако, мы полны энергии",
+    "en": "However, we are full of energy"
+  },
+  {
+    "_id": 58,
+    "ru": "Честно говоря, я полон оптимизма",
+    "en": "Honestly, I am full of optimism"
+  },
+  {
+    "_id": 59,
+    "ru": "Я полностью согласен с тобой",
+    "en": "I fully agree with you"
+  },
+  {
+    "_id": 60,
+    "ru": "Я абсолютно согласен с тобой",
+    "en": "I absolutely agree with you"
+  },
+  {
+    "_id": 61,
+    "ru": "Отчасти я согласен с тобой",
+    "en": "I partly agree with you"
+  },
+  {
+    "_id": 62,
+    "ru": "Он очень сильно повредил ногу",
+    "en": "He hurt his leg very badly"
+  },
+  {
+    "_id": 63,
+    "ru": "Он очень сильно ушибся",
+    "en": "He hurt himself very badly"
+  },
+  {
+    "_id": 64,
+    "ru": "Он сильно повредил руку?",
+    "en": "Did he hurt his arm badly?"
+  },
+  {
+    "_id": 65,
+    "ru": "Несомненно, это был огромный успех",
+    "en": "Undoubtedly, it was a huge success"
+  },
+  {
+    "_id": 66,
+    "ru": "Несомненно, это настоящий успех",
+    "en": "Undoubtedly, it is a real success"
+  },
+  {
+    "_id": 67,
+    "ru": "Тем не менее, это был отличный результат",
+    "en": "Nevertheless, it was a great result"
+  },
+  {
+    "_id": 68,
+    "ru": "Я частично согласен с ним",
+    "en": "I partly agree with him"
+  },
+  {
+    "_id": 69,
+    "ru": "Я полностью согласен с ним",
+    "en": "I fully agree with him"
+  },
+  {
+    "_id": 70,
+    "ru": "Я абсолютно согласен с ним",
+    "en": "I absolutely agree with him"
+  },
+  {
+    "_id": 71,
+    "ru": "Наконец, я добрался до этого места",
+    "en": "Finally, I got to this place"
+  },
+  {
+    "_id": 72,
+    "ru": "Наконец я покинул это место",
+    "en": "Finally, I left this place"
+  },
+  {
+    "_id": 73,
+    "ru": "Наконец я закончил свою работу",
+    "en": "Finally, I finished my work"
+  },
+  {
+    "_id": 74,
+    "ru": "Тем не менее, мне удалось это сделать",
+    "en": "Nevertheless, I managed to do it"
+  },
+  {
+    "_id": 75,
+    "ru": "Тем не менее, я предпочел этого не делать",
+    "en": "Nevertheless, I preferred not to do it"
+  },
+  {
+    "_id": 76,
+    "ru": "Тем не менее, мне удалось заработать эти деньги",
+    "en": "Nevertheless, I managed to earn this money"
+  },
+  {
+    "_id": 77,
+    "ru": "Это было сказано неправильно",
+    "en": "It was said wrongly"
+  },
+  {
+    "_id": 78,
+    "ru": "Это было сказано правильно",
+    "en": "It was said correctly"
+  },
+  {
+    "_id": 79,
+    "ru": "Это было написано неправильно",
+    "en": "It was written wrongly"
+  },
+  {
+    "_id": 80,
+    "ru": "Это было написано неправильно",
+    "en": "It was written incorrectly"
+  },
+  {
+    "_id": 81,
+    "ru": "Это было написано правильно",
+    "en": "It was written correctly"
+  },
+  {
+    "_id": 82,
+    "ru": "Это было сказано неправильно",
+    "en": "It was said incorrectly"
+  },
+  {
+    "_id": 83,
+    "ru": "Она посещает это место довольно часто",
+    "en": "She visits this place quite often"
+  },
+  {
+    "_id": 84,
+    "ru": "Это очень эффективный метод",
+    "en": "It is a highly effective method"
+  },
+  {
+    "_id": 85,
+    "ru": "Я наконец получил его разрешение",
+    "en": "I finally got his permission"
+  },
+  {
+    "_id": 86,
+    "ru": "У него легкий иностранный акцент",
+    "en": "He has a slight foreign accent"
+  },
+  {
+    "_id": 87,
+    "ru": "Однако, ситуация все еще нестабильна",
+    "en": "However, the situation is still unstable"
+  },
+  {
+    "_id": 88,
+    "ru": "Он очень успешный бизнесмен",
+    "en": "He is a highly successful businessman"
+  },
+  {
+    "_id": 89,
+    "ru": "Это было сказано правильно или неправильно?",
+    "en": "Was it said correctly or incorrectly?"
+  },
+  {
+    "_id": 90,
+    "ru": "Кто-то очень сильно его избил",
+    "en": "Someone beat him very badly"
+  },
+  {
+    "_id": 91,
+    "ru": "Он высокопрофессиональный учитель",
+    "en": "He is a highly professional teacher"
+  },
+  {
+    "_id": 92,
+    "ru": "Он ходит в спортзал довольно регулярно",
+    "en": "He goes to the gym quite regularly"
+  },
+  {
+    "_id": 93,
+    "ru": "Все эти вещи были сделаны неправильно",
+    "en": "All these things were done wrongly"
+  },
+  {
+    "_id": 94,
+    "ru": "Наконец, она все осознала",
+    "en": "Finally, she realized everything"
+  },
+  {
+    "_id": 95,
+    "ru": "Это было сделано правильно или неправильно?",
+    "en": "Was it done correctly or incorrectly?"
+  },
+  {
+    "_id": 96,
+    "ru": "Это немного неформальный ответ",
+    "en": "It is a slightly informal answer"
+  },
+  {
+    "_id": 97,
+    "ru": "Он частично согласен с этим утверждением",
+    "en": "He partly agrees with this statement"
+  }
 ]

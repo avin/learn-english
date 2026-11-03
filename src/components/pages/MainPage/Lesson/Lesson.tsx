@@ -65,7 +65,7 @@ const Lesson = ({ course, lesson }: Props) => {
         if (course === 'favorites') {
           return loadFavoriteTranslations();
         } else {
-          return (await import(`../../../../assets/translations/${course}/${lesson}.json`)).default;
+          return (await import(`../../../../assets/translations/${course}/${lesson}/tasks.json`)).default;
         }
       })();
       setTranslations(newTranslations);

@@ -207,11 +207,10 @@ const Lesson = ({ course, lesson }: Props) => {
                     {ruAudio ? (
                       <button
                         type="button"
-                        className="text-right underline decoration-gray5 decoration-dashed underline-offset-4"
+                        className="text-right"
                         onClick={() => playAudio(ruAudio)}
-                        title="Озвучить фразу"
                       >
-                        {ru}
+                        <span className="audio-phrase">{ru}</span>
                       </button>
                     ) : (
                       ru
@@ -233,14 +232,10 @@ const Lesson = ({ course, lesson }: Props) => {
                       {enAudio ? (
                         <button
                           type="button"
-                          className={cn('text-left', {
-                            'underline decoration-gray5 decoration-dashed underline-offset-4':
-                              isOpen,
-                          })}
+                          className="text-left"
                           onClick={() => playAudio(enAudio)}
-                          title="Озвучить фразу"
                         >
-                          {en}
+                          <span className={cn({ 'audio-phrase': isOpen })}>{en}</span>
                         </button>
                       ) : (
                         en

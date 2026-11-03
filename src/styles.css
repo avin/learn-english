@@ -24,6 +24,20 @@ html, body, #root{
   animation: fadeIn 0.15s cubic-bezier(0.4, 0, 0.2, 1) forwards;
 }
 
+.audio-phrase {
+  padding-bottom: 4px;
+  background-image: repeating-linear-gradient(
+    to right,
+    theme('colors.gray5') 0 4px,
+    transparent 4px 6px
+  );
+  background-position: left bottom;
+  background-size: 6px 1px;
+  background-repeat: repeat-x;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
 select {
   -webkit-appearance: none;
   -moz-appearance: none;

@@ -1,4 +1,4 @@
-import React, { useEffect, useLayoutEffect, useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import { HiArrowUp } from 'react-icons/hi';
 import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner.tsx';
 import Select from '@/components/common/Select/Select.tsx';

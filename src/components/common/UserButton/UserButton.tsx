@@ -7,7 +7,6 @@ const UserButton = ({}: Props) => {
   const handleClickLogout = async () => {
     try {
       await auth.signOut();
-      console.log('Вы вышли из системы');
     } catch (error) {
       console.error('Ошибка при выходе из системы:', error);
     }

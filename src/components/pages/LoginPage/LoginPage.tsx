@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { FaGoogle } from 'react-icons/fa';
-import { GoogleAuthProvider, getAuth, signInWithPopup } from 'firebase/auth';
+import { GoogleAuthProvider, signInWithPopup } from 'firebase/auth';
 import Spinner from '@/components/common/Spinner/Spinner.tsx';
 import { auth } from '@/firebase-config.ts';
 

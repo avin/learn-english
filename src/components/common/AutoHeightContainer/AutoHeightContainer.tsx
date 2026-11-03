@@ -1,5 +1,4 @@
 import React, {useLayoutEffect, useRef} from 'react';
-import { useEffectOnce } from 'react-use';
 import cn from 'clsx';
 
 interface Props extends React.ComponentPropsWithoutRef<'div'> {

@@ -18,12 +18,6 @@ interface Props {
   lesson: string;
 }
 
-const audioFiles = import.meta.glob<string>('/src/assets/translations/*/*/audio/*.m4a', {
-  eager: true,
-  query: '?url',
-  import: 'default',
-});
-
 const Lesson = ({ course, lesson }: Props) => {
   const [translations, setTranslations] = useState<Translation[] | null>(null);
   const [order, setOrder] = useState<number[]>([]);
@@ -40,10 +34,8 @@ const Lesson = ({ course, lesson }: Props) => {
   }, [course, lesson]);
 
   const playAudio = (path: string) => {
-    const url = audioFiles[path];
-    if (!url) {
-      return;
-    }
+    const relativePath = path.replace(/^\/src\/assets\//, '');
+    const url = `${import.meta.env.BASE_URL}${relativePath}`;
 
     audioRef.current?.pause();
     const audio = new Audio(url);
@@ -89,6 +81,7 @@ const Lesson = ({ course, lesson }: Props) => {
   };
 
   useEffect(() => {
+    let active = true;
     void (async () => {
       setTranslations(null);
 
@@ -96,12 +89,15 @@ const Lesson = ({ course, lesson }: Props) => {
         if (course === 'favorites') {
           return loadFavoriteTranslations();
         } else {
-          const tasks: TranslationTask[] = (
-            await import(`../../../../assets/translations/${course}/${lesson}/tasks.json`)
-          ).default;
+          const lessonPath = `translations/${encodeURIComponent(course)}/${encodeURIComponent(lesson)}`;
+          const response = await fetch(`${import.meta.env.BASE_URL}${lessonPath}/tasks.json`);
+          if (!response.ok) {
+            throw new Error(`Failed to load translations: ${response.status}`);
+          }
+          const tasks: TranslationTask[] = await response.json();
           return tasks.map(({ id, ru, en }) => {
             const audio: Translation['audio'] = {};
-            const audioPath = `/src/assets/translations/${course}/${lesson}/audio/${String(id).padStart(3, '0')}`;
+            const audioPath = `${lessonPath}/audio/${String(id).padStart(3, '0')}`;
             if (ru.audio) {
               audio.ru = `${audioPath}_ru.m4a`;
             }
@@ -112,9 +108,14 @@ const Lesson = ({ course, lesson }: Props) => {
           });
         }
       })();
-      setTranslations(newTranslations);
-      setOrder(new Array(newTranslations.length).fill(0).map((_, idx) => idx));
+      if (active) {
+        setTranslations(newTranslations);
+        setOrder(new Array(newTranslations.length).fill(0).map((_, idx) => idx));
+      }
     })();
+    return () => {
+      active = false;
+    };
   }, [course, lesson]);
 
   const handleClickEnSentence = (e: React.MouseEvent<HTMLTableCellElement>) => {

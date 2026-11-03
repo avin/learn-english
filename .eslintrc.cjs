@@ -13,6 +13,7 @@ module.exports = {
     project: ['./tsconfig.json', './tsconfig.node.json'],
   },
   plugins: ['react-refresh'],
+  settings: { react: { version: 'detect' } },
   rules: {
     'react-refresh/only-export-components': ['warn', { allowConstantExport: true }],
     '@typescript-eslint/no-explicit-any': 0,

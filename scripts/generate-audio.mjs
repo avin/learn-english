@@ -4,7 +4,7 @@ import { fileURLToPath, pathToFileURL } from 'node:url';
 import { parseArgs } from 'node:util';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
-const translationsDirectory = join(root, 'src/assets/translations');
+const translationsDirectory = join(root, 'public/translations');
 
 export function audioFilename(id, language) {
   return `audio/${String(id).padStart(3, '0')}_${language}.m4a`;

@@ -1,262 +1,574 @@
 [
   {
-    "_id": 1,
-    "ru": "Я расскажу тебе эту историю",
-    "en": "I'll tell you this story"
+    "id": 1,
+    "ru": {
+      "text": "Я расскажу тебе эту историю",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll tell you this story",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я буду в другом городе завтра",
-    "en": "I'll be in another city tomorrow"
+    "id": 2,
+    "ru": {
+      "text": "Я буду в другом городе завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll be in another city tomorrow",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Я расскажу тебе об этом сейчас",
-    "en": "I'll tell you about it now"
+    "id": 3,
+    "ru": {
+      "text": "Я расскажу тебе об этом сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll tell you about it now",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я посмотрю этот фильм",
-    "en": "I'll watch this movie"
+    "id": 4,
+    "ru": {
+      "text": "Я посмотрю этот фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll watch this movie",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я закажу эту модель онлайн",
-    "en": "I'll order this model online"
+    "id": 5,
+    "ru": {
+      "text": "Я закажу эту модель онлайн",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll order this model online",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я отправлю ей сообщение",
-    "en": "I'll send her a message"
+    "id": 6,
+    "ru": {
+      "text": "Я отправлю ей сообщение",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll send her a message",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я прочитаю эту статью",
-    "en": "I'll read this article"
+    "id": 7,
+    "ru": {
+      "text": "Я прочитаю эту статью",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll read this article",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я открою окно",
-    "en": "I'll open the window"
+    "id": 8,
+    "ru": {
+      "text": "Я открою окно",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll open the window",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я подожду их ответа",
-    "en": "I'll wait for their answer"
+    "id": 9,
+    "ru": {
+      "text": "Я подожду их ответа",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll wait for their answer",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Он будет на работе",
-    "en": "He'll be at work"
+    "id": 10,
+    "ru": {
+      "text": "Он будет на работе",
+      "audio": false
+    },
+    "en": {
+      "text": "He'll be at work",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я отправлю ему письмо",
-    "en": "I'll send him a letter"
+    "id": 11,
+    "ru": {
+      "text": "Я отправлю ему письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll send him a letter",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Она будет в отъезде",
-    "en": "She'll be away"
+    "id": 12,
+    "ru": {
+      "text": "Она будет в отъезде",
+      "audio": false
+    },
+    "en": {
+      "text": "She'll be away",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я думаю, он победит",
-    "en": "I think he'll win"
+    "id": 13,
+    "ru": {
+      "text": "Я думаю, он победит",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he'll win",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Он скажет это сейчас",
-    "en": "He'll say it now"
+    "id": 14,
+    "ru": {
+      "text": "Он скажет это сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "He'll say it now",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я скоро сделаю это",
-    "en": "I'll do it soon"
+    "id": 15,
+    "ru": {
+      "text": "Я скоро сделаю это",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll do it soon",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Я думаю, они проиграют",
-    "en": "I think they'll lose"
+    "id": 16,
+    "ru": {
+      "text": "Я думаю, они проиграют",
+      "audio": false
+    },
+    "en": {
+      "text": "I think they'll lose",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я думаю, это скоро случится",
-    "en": "I think it'll happen soon"
+    "id": 17,
+    "ru": {
+      "text": "Я думаю, это скоро случится",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it'll happen soon",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Тебе понравится это место",
-    "en": "You'll like this place"
+    "id": 18,
+    "ru": {
+      "text": "Тебе понравится это место",
+      "audio": false
+    },
+    "en": {
+      "text": "You'll like this place",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Я подумаю об этом",
-    "en": "I'll think about it"
+    "id": 19,
+    "ru": {
+      "text": "Я подумаю об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll think about it",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Я пойду туда завтра",
-    "en": "I'll go there tomorrow"
+    "id": 20,
+    "ru": {
+      "text": "Я пойду туда завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll go there tomorrow",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Я скоро поеду в этот город",
-    "en": "I'll go to this city soon"
+    "id": 21,
+    "ru": {
+      "text": "Я скоро поеду в этот город",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll go to this city soon",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Они сделают это",
-    "en": "They'll do it"
+    "id": 22,
+    "ru": {
+      "text": "Они сделают это",
+      "audio": false
+    },
+    "en": {
+      "text": "They'll do it",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Я открою дверь",
-    "en": "I'll open the door"
+    "id": 23,
+    "ru": {
+      "text": "Я открою дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll open the door",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Это скоро случится",
-    "en": "It'll happen soon"
+    "id": 24,
+    "ru": {
+      "text": "Это скоро случится",
+      "audio": false
+    },
+    "en": {
+      "text": "It'll happen soon",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Ему понравится эта идея",
-    "en": "He'll like this idea"
+    "id": 25,
+    "ru": {
+      "text": "Ему понравится эта идея",
+      "audio": false
+    },
+    "en": {
+      "text": "He'll like this idea",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Они будут говорить о разных вещах",
-    "en": "They'll talk about different things"
+    "id": 26,
+    "ru": {
+      "text": "Они будут говорить о разных вещах",
+      "audio": false
+    },
+    "en": {
+      "text": "They'll talk about different things",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Я закрою окно",
-    "en": "I'll close the window"
+    "id": 27,
+    "ru": {
+      "text": "Я закрою окно",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll close the window",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Я буду занят завтра",
-    "en": "I'll be busy tomorrow"
+    "id": 28,
+    "ru": {
+      "text": "Я буду занят завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll be busy tomorrow",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Мы будем говорить по-английски там",
-    "en": "We'll speak English there"
+    "id": 29,
+    "ru": {
+      "text": "Мы будем говорить по-английски там",
+      "audio": false
+    },
+    "en": {
+      "text": "We'll speak English there",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Это будет лучше",
-    "en": "It'll be better"
+    "id": 30,
+    "ru": {
+      "text": "Это будет лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "It'll be better",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Она будет очень занята завтра",
-    "en": "She'll be very busy tomorrow"
+    "id": 31,
+    "ru": {
+      "text": "Она будет очень занята завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "She'll be very busy tomorrow",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Я буду там завтра",
-    "en": "I'll be there tomorrow"
+    "id": 32,
+    "ru": {
+      "text": "Я буду там завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll be there tomorrow",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Я закрою дверь",
-    "en": "I'll close the door"
+    "id": 33,
+    "ru": {
+      "text": "Я закрою дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll close the door",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Мы скоро увидим это",
-    "en": "We'll see it soon"
+    "id": 34,
+    "ru": {
+      "text": "Мы скоро увидим это",
+      "audio": false
+    },
+    "en": {
+      "text": "We'll see it soon",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Я подожду этого",
-    "en": "I'll wait for it"
+    "id": 35,
+    "ru": {
+      "text": "Я подожду этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll wait for it",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Я думаю, это скоро будет дороже",
-    "en": "I think it'll be more expensive soon"
+    "id": 36,
+    "ru": {
+      "text": "Я думаю, это скоро будет дороже",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it'll be more expensive soon",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Я посмотрю это видео",
-    "en": "I'll watch this video"
+    "id": 37,
+    "ru": {
+      "text": "Я посмотрю это видео",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll watch this video",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Я поеду в Англию в этом году",
-    "en": "I'll go to England this year"
+    "id": 38,
+    "ru": {
+      "text": "Я поеду в Англию в этом году",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll go to England this year",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Она расскажет мне об этом",
-    "en": "She'll tell me about it"
+    "id": 39,
+    "ru": {
+      "text": "Она расскажет мне об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "She'll tell me about it",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Я буду дома",
-    "en": "I'll be at home"
+    "id": 40,
+    "ru": {
+      "text": "Я буду дома",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll be at home",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Я подожду тебя",
-    "en": "I'll wait for you"
+    "id": 41,
+    "ru": {
+      "text": "Я подожду тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll wait for you",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Я поеду в Америку в следующем году",
-    "en": "I'll go to America next year"
+    "id": 42,
+    "ru": {
+      "text": "Я поеду в Америку в следующем году",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll go to America next year",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Я куплю эти билеты онлайн",
-    "en": "I'll buy these tickets online"
+    "id": 43,
+    "ru": {
+      "text": "Я куплю эти билеты онлайн",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll buy these tickets online",
+      "audio": false
+    }
   },
   {
-    "_id": 44,
-    "ru": "Я скоро позвоню ему",
-    "en": "I'll call him soon"
+    "id": 44,
+    "ru": {
+      "text": "Я скоро позвоню ему",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll call him soon",
+      "audio": false
+    }
   },
   {
-    "_id": 45,
-    "ru": "Ты скоро узнаешь это",
-    "en": "You'll know it soon"
+    "id": 45,
+    "ru": {
+      "text": "Ты скоро узнаешь это",
+      "audio": false
+    },
+    "en": {
+      "text": "You'll know it soon",
+      "audio": false
+    }
   },
   {
-    "_id": 46,
-    "ru": "Я не думаю, что это будет дешевле",
-    "en": "I don't think that it'll be cheaper"
+    "id": 46,
+    "ru": {
+      "text": "Я не думаю, что это будет дешевле",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that it'll be cheaper",
+      "audio": false
+    }
   },
   {
-    "_id": 47,
-    "ru": "Я думаю, это скоро будет стоить дороже",
-    "en": "I think it'll cost more soon"
+    "id": 47,
+    "ru": {
+      "text": "Я думаю, это скоро будет стоить дороже",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it'll cost more soon",
+      "audio": false
+    }
   },
   {
-    "_id": 48,
-    "ru": "Я завтра пойду на работу",
-    "en": "I'll go to work tomorrow"
+    "id": 48,
+    "ru": {
+      "text": "Я завтра пойду на работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll go to work tomorrow",
+      "audio": false
+    }
   },
   {
-    "_id": 49,
-    "ru": "Я увижу его завтра",
-    "en": "I'll see him tomorrow"
+    "id": 49,
+    "ru": {
+      "text": "Я увижу его завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll see him tomorrow",
+      "audio": false
+    }
   },
   {
-    "_id": 50,
-    "ru": "Это будет очень интересно",
-    "en": "It'll be very interesting"
+    "id": 50,
+    "ru": {
+      "text": "Это будет очень интересно",
+      "audio": false
+    },
+    "en": {
+      "text": "It'll be very interesting",
+      "audio": false
+    }
   },
   {
-    "_id": 51,
-    "ru": "Я куплю это онлайн",
-    "en": "I'll buy it online"
+    "id": 51,
+    "ru": {
+      "text": "Я куплю это онлайн",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll buy it online",
+      "audio": false
+    }
   },
   {
-    "_id": 52,
-    "ru": "Я думаю, тебе понравится это",
-    "en": "I think you'll like it"
+    "id": 52,
+    "ru": {
+      "text": "Я думаю, тебе понравится это",
+      "audio": false
+    },
+    "en": {
+      "text": "I think you'll like it",
+      "audio": false
+    }
   }
 ]

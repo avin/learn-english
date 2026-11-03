@@ -1,432 +1,948 @@
 [
   {
-    "_id": 1,
-    "ru": "Это намного дороже?",
-    "en": "Is it much more expensive?"
-  },
-  {
-    "_id": 2,
-    "ru": "Ты в порядке?",
-    "en": "Are you OK?"
-  },
-  {
-    "_id": 3,
-    "ru": "Что в той сумке?",
-    "en": "What's in that bag?"
-  },
-  {
-    "_id": 4,
-    "ru": "Ты сейчас в парке?",
-    "en": "Are you in the park now?"
-  },
-  {
-    "_id": 5,
-    "ru": "Она очень бедная?",
-    "en": "Is she very poor?"
-  },
-  {
-    "_id": 6,
-    "ru": "Ты там работаешь?",
-    "en": "Do you work there?"
-  },
-  {
-    "_id": 7,
-    "ru": "Это опасно?",
-    "en": "Is it dangerous?"
-  },
-  {
-    "_id": 8,
-    "ru": "Что опасно?",
-    "en": "What is dangerous?"
-  },
-  {
-    "_id": 9,
-    "ru": "Ты здесь учишься?",
-    "en": "Do you study here?"
-  },
-  {
-    "_id": 10,
-    "ru": "Почему это так странно?",
-    "en": "Why is it so strange?"
-  },
-  {
-    "_id": 11,
-    "ru": "Она бедная?",
-    "en": "Is she poor?"
-  },
-  {
-    "_id": 12,
-    "ru": "Это плохо?",
-    "en": "Is it bad?"
-  },
-  {
-    "_id": 13,
-    "ru": "Он студент?",
-    "en": "Is he a student?"
-  },
-  {
-    "_id": 14,
-    "ru": "Ты действительно сердишься?",
-    "en": "Are you really angry?"
-  },
-  {
-    "_id": 15,
-    "ru": "Ты сейчас на работе?",
-    "en": "Are you at work now?"
-  },
-  {
-    "_id": 16,
-    "ru": "Что ты думаешь об этом?",
-    "en": "What do you think about it?"
-  },
-  {
-    "_id": 17,
-    "ru": "Она журналист?",
-    "en": "Is she a journalist?"
-  },
-  {
-    "_id": 18,
-    "ru": "Это хорошо?",
-    "en": "Is it good?"
-  },
-  {
-    "_id": 19,
-    "ru": "Почему это так опасно?",
-    "en": "Why is it so dangerous?"
-  },
-  {
-    "_id": 20,
-    "ru": "Тебе нравится та профессия?",
-    "en": "Do you like that profession?"
-  },
-  {
-    "_id": 21,
-    "ru": "Он журналист?",
-    "en": "Is he a journalist?"
-  },
-  {
-    "_id": 22,
-    "ru": "Почему это плохо?",
-    "en": "Why is it bad?"
-  },
-  {
-    "_id": 23,
-    "ru": "Он богат?",
-    "en": "Is he rich?"
-  },
-  {
-    "_id": 24,
-    "ru": "Они очень хорошие работники?",
-    "en": "Are they very good workers?"
-  },
-  {
-    "_id": 25,
-    "ru": "Он очень богат?",
-    "en": "Is he very rich?"
-  },
-  {
-    "_id": 26,
-    "ru": "Он в порядке?",
-    "en": "Is he OK?"
-  },
-  {
-    "_id": 27,
-    "ru": "Как она себя чувствует?",
-    "en": "How does she feel?"
-  },
-  {
-    "_id": 28,
-    "ru": "Это очень популярно в наши дни?",
-    "en": "Is it very popular nowadays?"
-  },
-  {
-    "_id": 29,
-    "ru": "Кто с тобой?",
-    "en": "Who is with you?"
-  },
-  {
-    "_id": 30,
-    "ru": "Почему это так популярно?",
-    "en": "Why is it so popular?"
-  },
-  {
-    "_id": 31,
-    "ru": "Чего он хочет?",
-    "en": "What does he want?"
-  },
-  {
-    "_id": 32,
-    "ru": "Что дешевле?",
-    "en": "What is cheaper?"
-  },
-  {
-    "_id": 33,
-    "ru": "Это очень популярно?",
-    "en": "Is it very popular?"
-  },
-  {
-    "_id": 34,
-    "ru": "Ты часто гуляешь в парке?",
-    "en": "Do you often walk in the park?"
-  },
-  {
-    "_id": 35,
-    "ru": "Что ты думаешь об этих вещах?",
-    "en": "What do you think about these things?"
-  },
-  {
-    "_id": 36,
-    "ru": "Она студентка?",
-    "en": "Is she a student?"
-  },
-  {
-    "_id": 37,
-    "ru": "Ты поддерживаешь это?",
-    "en": "Do you support it?"
-  },
-  {
-    "_id": 38,
-    "ru": "Что в этой сумке?",
-    "en": "What is in this bag?"
-  },
-  {
-    "_id": 39,
-    "ru": "Почему это хорошо?",
-    "en": "Why is it good?"
-  },
-  {
-    "_id": 40,
-    "ru": "Он поддерживает эту идею?",
-    "en": "Does he support this idea?"
-  },
-  {
-    "_id": 41,
-    "ru": "Это лучший результат?",
-    "en": "Is it the best result?"
-  },
-  {
-    "_id": 42,
-    "ru": "Это полезно?",
-    "en": "Is it useful?"
-  },
-  {
-    "_id": 43,
-    "ru": "Что ты обычно отвечаешь?",
-    "en": "What do you usually answer?"
-  },
-  {
-    "_id": 44,
-    "ru": "Ты обеспокоен?",
-    "en": "Are you worried?"
-  },
-  {
-    "_id": 45,
-    "ru": "Он носит формальную одежду?",
-    "en": "Does he wear formal clothes?"
-  },
-  {
-    "_id": 46,
-    "ru": "Это гораздо дороже?",
-    "en": "Is it much more expensive?"
-  },
-  {
-    "_id": 47,
-    "ru": "Это действительно так интересно?",
-    "en": "Is it really so interesting?"
-  },
-  {
-    "_id": 48,
-    "ru": "Ты носишь повседневную одежду?",
-    "en": "Do you wear casual clothes?"
-  },
-  {
-    "_id": 49,
-    "ru": "Ты действительно обеспокоен?",
-    "en": "Are you really worried?"
-  },
-  {
-    "_id": 50,
-    "ru": "Что ты обычно покупаешь там?",
-    "en": "What do you usually buy there?"
-  },
-  {
-    "_id": 51,
-    "ru": "Она носит бедную одежду?",
-    "en": "Does she wear poor clothes?"
-  },
-  {
-    "_id": 52,
-    "ru": "Этого достаточно для тебя?",
-    "en": "Is it enough for you?"
-  },
-  {
-    "_id": 53,
-    "ru": "Это действительно так важно?",
-    "en": "Is it really so important?"
-  },
-  {
-    "_id": 54,
-    "ru": "Это намного дешевле?",
-    "en": "Is it much cheaper?"
-  },
-  {
-    "_id": 55,
-    "ru": "Он хороший или нет?",
-    "en": "Is he good or not?"
-  },
-  {
-    "_id": 56,
-    "ru": "Это хорошо или плохо?",
-    "en": "Is it good or bad?"
-  },
-  {
-    "_id": 57,
-    "ru": "Это действительно полезно?",
-    "en": "Is it really useful?"
-  },
-  {
-    "_id": 58,
-    "ru": "Он действительно обеспокоен?",
-    "en": "Is he really worried?"
-  },
-  {
-    "_id": 59,
-    "ru": "Ей нравится ее работа?",
-    "en": "Does she like her job?"
-  },
-  {
-    "_id": 60,
-    "ru": "Ей нравится ее одежда?",
-    "en": "Does she like her clothes?"
-  },
-  {
-    "_id": 61,
-    "ru": "Тебе нравится твоя работа?",
-    "en": "Do you like your job?"
-  },
-  {
-    "_id": 62,
-    "ru": "Кто против этого решения?",
-    "en": "Who is against this decision?"
-  },
-  {
-    "_id": 63,
-    "ru": "Кто против этой вещи?",
-    "en": "Who is against this thing?"
-  },
-  {
-    "_id": 64,
-    "ru": "Кто против того решения?",
-    "en": "Who is against that decision?"
-  },
-  {
-    "_id": 65,
-    "ru": "Это действительно выглядит так полезно?",
-    "en": "Does it really look so useful?"
-  },
-  {
-    "_id": 66,
-    "ru": "Это дешевле?",
-    "en": "Is it cheaper?"
-  },
-  {
-    "_id": 67,
-    "ru": "Это стоит намного меньше?",
-    "en": "Does it cost much less?"
-  },
-  {
-    "_id": 68,
-    "ru": "Это стоит намного больше?",
-    "en": "Does it cost much more?"
-  },
-  {
-    "_id": 69,
-    "ru": "Почему ты так занят сейчас?",
-    "en": "Why are you so busy now?"
-  },
-  {
-    "_id": 70,
-    "ru": "Это плохо или нет?",
-    "en": "Is it bad or not?"
-  },
-  {
-    "_id": 71,
-    "ru": "Ты носишь неформальную одежду?",
-    "en": "Do you wear informal clothes?"
-  },
-  {
-    "_id": 72,
-    "ru": "Она носит формальную одежду?",
-    "en": "Does she wear formal clothes?"
-  },
-  {
-    "_id": 73,
-    "ru": "Этого достаточно?",
-    "en": "Is it enough?"
-  },
-  {
-    "_id": 74,
-    "ru": "Кто против этого?",
-    "en": "Who is against it?"
-  },
-  {
-    "_id": 75,
-    "ru": "Это действительно так сложно?",
-    "en": "Is it really so difficult?"
-  },
-  {
-    "_id": 76,
-    "ru": "Это слишком формально?",
-    "en": "Is it too formal?"
-  },
-  {
-    "_id": 77,
-    "ru": "Почему ты так беспокоишься?",
-    "en": "Why are you so worried?"
-  },
-  {
-    "_id": 78,
-    "ru": "Это твой выбор?",
-    "en": "Is it your choice?"
-  },
-  {
-    "_id": 79,
-    "ru": "Ты беспокоишься?",
-    "en": "Do you worry?"
-  },
-  {
-    "_id": 80,
-    "ru": "Это под контролем?",
-    "en": "Is it under control?"
-  },
-  {
-    "_id": 81,
-    "ru": "Что ты обычно выбираешь?",
-    "en": "What do you usually choose?"
-  },
-  {
-    "_id": 82,
-    "ru": "Это дорого или нет?",
-    "en": "Is it expensive or not?"
-  },
-  {
-    "_id": 83,
-    "ru": "Она учитель или нет?",
-    "en": "Is she a teacher or not?"
-  },
-  {
-    "_id": 84,
-    "ru": "Почему ты так сильно волнуешься?",
-    "en": "Why do you worry so much?"
-  },
-  {
-    "_id": 85,
-    "ru": "Это дешево или нет?",
-    "en": "Is it cheap or not?"
-  },
-  {
-    "_id": 86,
-    "ru": "Они богаты или нет?",
-    "en": "Are they rich or not?"
+    "id": 1,
+    "ru": {
+      "text": "Это намного дороже?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it much more expensive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Ты в порядке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you OK?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Что в той сумке?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's in that bag?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Ты сейчас в парке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you in the park now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Она очень бедная?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she very poor?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Ты там работаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you work there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Это опасно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it dangerous?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Что опасно?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is dangerous?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Ты здесь учишься?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you study here?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Почему это так странно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is it so strange?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Она бедная?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she poor?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Это плохо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it bad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он студент?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he a student?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Ты действительно сердишься?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you really angry?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Ты сейчас на работе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you at work now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Что ты думаешь об этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do you think about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Она журналист?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she a journalist?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Это хорошо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it good?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Почему это так опасно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is it so dangerous?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Тебе нравится та профессия?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like that profession?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Он журналист?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he a journalist?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Почему это плохо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is it bad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он богат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he rich?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Они очень хорошие работники?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they very good workers?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Он очень богат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he very rich?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Он в порядке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he OK?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Как она себя чувствует?",
+      "audio": false
+    },
+    "en": {
+      "text": "How does she feel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Это очень популярно в наши дни?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it very popular nowadays?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Кто с тобой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is with you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Почему это так популярно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is it so popular?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Чего он хочет?",
+      "audio": false
+    },
+    "en": {
+      "text": "What does he want?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Что дешевле?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is cheaper?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Это очень популярно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it very popular?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Ты часто гуляешь в парке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often walk in the park?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Что ты думаешь об этих вещах?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do you think about these things?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Она студентка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she a student?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Ты поддерживаешь это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you support it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Что в этой сумке?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is in this bag?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Почему это хорошо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is it good?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Он поддерживает эту идею?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he support this idea?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Это лучший результат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it the best result?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Это полезно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it useful?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Что ты обычно отвечаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do you usually answer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Ты обеспокоен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you worried?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Он носит формальную одежду?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he wear formal clothes?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Это гораздо дороже?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it much more expensive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Это действительно так интересно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it really so interesting?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Ты носишь повседневную одежду?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you wear casual clothes?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Ты действительно обеспокоен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you really worried?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Что ты обычно покупаешь там?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do you usually buy there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Она носит бедную одежду?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she wear poor clothes?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Этого достаточно для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it enough for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Это действительно так важно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it really so important?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Это намного дешевле?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it much cheaper?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Он хороший или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he good or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Это хорошо или плохо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it good or bad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Это действительно полезно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it really useful?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Он действительно обеспокоен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he really worried?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Ей нравится ее работа?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she like her job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Ей нравится ее одежда?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she like her clothes?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Тебе нравится твоя работа?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like your job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Кто против этого решения?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is against this decision?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Кто против этой вещи?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is against this thing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Кто против того решения?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is against that decision?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Это действительно выглядит так полезно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it really look so useful?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Это дешевле?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it cheaper?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Это стоит намного меньше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it cost much less?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Это стоит намного больше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it cost much more?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Почему ты так занят сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why are you so busy now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Это плохо или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it bad or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Ты носишь неформальную одежду?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you wear informal clothes?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Она носит формальную одежду?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she wear formal clothes?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Этого достаточно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it enough?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Кто против этого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is against it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Это действительно так сложно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it really so difficult?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Это слишком формально?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it too formal?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Почему ты так беспокоишься?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why are you so worried?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Это твой выбор?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it your choice?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Ты беспокоишься?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you worry?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Это под контролем?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it under control?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Что ты обычно выбираешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do you usually choose?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Это дорого или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it expensive or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Она учитель или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she a teacher or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Почему ты так сильно волнуешься?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why do you worry so much?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Это дешево или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it cheap or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Они богаты или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they rich or not?",
+      "audio": false
+    }
   }
 ]

@@ -1,192 +1,420 @@
 [
   {
-    "_id": 1,
-    "ru": "Я думаю, он сможет помочь тебе",
-    "en": "I think he'll be able to help you"
+    "id": 1,
+    "ru": {
+      "text": "Я думаю, он сможет помочь тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he'll be able to help you",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я боюсь, что она неправильно поймет тебя",
-    "en": "I'm afraid that she'll misunderstand you"
+    "id": 2,
+    "ru": {
+      "text": "Я боюсь, что она неправильно поймет тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm afraid that she'll misunderstand you",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Я постараюсь найти время на это",
-    "en": "I'll try to find time for it"
+    "id": 3,
+    "ru": {
+      "text": "Я постараюсь найти время на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try to find time for it",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я не думаю, что это будет правильное решение",
-    "en": "I don't think that it'll be the right decision"
+    "id": 4,
+    "ru": {
+      "text": "Я не думаю, что это будет правильное решение",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that it'll be the right decision",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я думаю, что я смогу пройти этот тест",
-    "en": "I think that I'll be able to pass this test"
+    "id": 5,
+    "ru": {
+      "text": "Я думаю, что я смогу пройти этот тест",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that I'll be able to pass this test",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я надеюсь, что это будет так",
-    "en": "I hope that it'll be so"
+    "id": 6,
+    "ru": {
+      "text": "Я надеюсь, что это будет так",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope that it'll be so",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я ожидаю, что это произойдет однажды",
-    "en": "I expect that it'll happen one day"
+    "id": 7,
+    "ru": {
+      "text": "Я ожидаю, что это произойдет однажды",
+      "audio": false
+    },
+    "en": {
+      "text": "I expect that it'll happen one day",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я боюсь, что он не послушает это",
-    "en": "I'm afraid that he won't listen to it"
+    "id": 8,
+    "ru": {
+      "text": "Я боюсь, что он не послушает это",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm afraid that he won't listen to it",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я уверен, что ты сможешь это сделать",
-    "en": "I'm sure that you'll be able to do it"
+    "id": 9,
+    "ru": {
+      "text": "Я уверен, что ты сможешь это сделать",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure that you'll be able to do it",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я думаю, я смогу накопить достаточно денег, чтобы купить дом",
-    "en": "I think I'll be able to save up enough money to buy a house"
+    "id": 10,
+    "ru": {
+      "text": "Я думаю, я смогу накопить достаточно денег, чтобы купить дом",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I'll be able to save up enough money to buy a house",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я постараюсь сделать все возможное, чтобы показать более хороший результат",
-    "en": "I'll try to do my best to show a better result"
+    "id": 11,
+    "ru": {
+      "text": "Я постараюсь сделать все возможное, чтобы показать более хороший результат",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try to do my best to show a better result",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я предполагаю, что это будет лучшее решение этой проблемы",
-    "en": "I suppose that it'll be the best solution to this problem"
+    "id": 12,
+    "ru": {
+      "text": "Я предполагаю, что это будет лучшее решение этой проблемы",
+      "audio": false
+    },
+    "en": {
+      "text": "I suppose that it'll be the best solution to this problem",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я думаю, он не сможет это сделать",
-    "en": "I think he won't be able to do it"
+    "id": 13,
+    "ru": {
+      "text": "Я думаю, он не сможет это сделать",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he won't be able to do it",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я предполагаю, что это будет хорошее решение этой проблемы",
-    "en": "I suppose that it'll be a good solution to this problem"
+    "id": 14,
+    "ru": {
+      "text": "Я предполагаю, что это будет хорошее решение этой проблемы",
+      "audio": false
+    },
+    "en": {
+      "text": "I suppose that it'll be a good solution to this problem",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я верю, что это будет возможно",
-    "en": "I believe that it'll be possible"
+    "id": 15,
+    "ru": {
+      "text": "Я верю, что это будет возможно",
+      "audio": false
+    },
+    "en": {
+      "text": "I believe that it'll be possible",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Я думаю, я смогу решить эту проблему",
-    "en": "I think I'll be able to solve this problem"
+    "id": 16,
+    "ru": {
+      "text": "Я думаю, я смогу решить эту проблему",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I'll be able to solve this problem",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я не думаю, что это будет лучшее решение этой проблемы",
-    "en": "I don't think that it'll be the best solution to this problem"
+    "id": 17,
+    "ru": {
+      "text": "Я не думаю, что это будет лучшее решение этой проблемы",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that it'll be the best solution to this problem",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Я постараюсь найти более хорошую работу",
-    "en": "I'll try to find a better job"
+    "id": 18,
+    "ru": {
+      "text": "Я постараюсь найти более хорошую работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try to find a better job",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Я верю, что это будет действительно так",
-    "en": "I believe that it'll be really so"
+    "id": 19,
+    "ru": {
+      "text": "Я верю, что это будет действительно так",
+      "audio": false
+    },
+    "en": {
+      "text": "I believe that it'll be really so",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Я боюсь, что они неправильно поймут это",
-    "en": "I'm afraid that they'll misunderstand it"
+    "id": 20,
+    "ru": {
+      "text": "Я боюсь, что они неправильно поймут это",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm afraid that they'll misunderstand it",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Я постараюсь сделать это лучше в следующий раз",
-    "en": "I'll try to do it better next time"
+    "id": 21,
+    "ru": {
+      "text": "Я постараюсь сделать это лучше в следующий раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try to do it better next time",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Я надеюсь, что они согласятся сделать это",
-    "en": "I hope that they'll agree to do it"
+    "id": 22,
+    "ru": {
+      "text": "Я надеюсь, что они согласятся сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope that they'll agree to do it",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Я уверен, что это будет лучше",
-    "en": "I'm sure that it'll be better"
+    "id": 23,
+    "ru": {
+      "text": "Я уверен, что это будет лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure that it'll be better",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Мне кажется, что он сможет помочь нам",
-    "en": "It seems to me that he'll be able to help us"
+    "id": 24,
+    "ru": {
+      "text": "Мне кажется, что он сможет помочь нам",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me that he'll be able to help us",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Я постараюсь сделать все возможное чтобы помочь тебе",
-    "en": "I'll try to do my best to help you"
+    "id": 25,
+    "ru": {
+      "text": "Я постараюсь сделать все возможное чтобы помочь тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try to do my best to help you",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Я очень надеюсь, что это не случится",
-    "en": "I really hope that it won't happen"
+    "id": 26,
+    "ru": {
+      "text": "Я очень надеюсь, что это не случится",
+      "audio": false
+    },
+    "en": {
+      "text": "I really hope that it won't happen",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Я постараюсь помочь тебе",
-    "en": "I'll try to help you"
+    "id": 27,
+    "ru": {
+      "text": "Я постараюсь помочь тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try to help you",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Я постараюсь сделать это",
-    "en": "I'll try to do it"
+    "id": 28,
+    "ru": {
+      "text": "Я постараюсь сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try to do it",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Я не думаю, что это будет дешевле",
-    "en": "I don't think that it'll be cheaper"
+    "id": 29,
+    "ru": {
+      "text": "Я не думаю, что это будет дешевле",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that it'll be cheaper",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Я думаю, я смогу сдать этот экзамен",
-    "en": "I think I'll be able to pass this exam"
+    "id": 30,
+    "ru": {
+      "text": "Я думаю, я смогу сдать этот экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I'll be able to pass this exam",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Я постараюсь сделать все возможное, чтобы показать лучший результат",
-    "en": "I'll try to do my best to show the best result"
+    "id": 31,
+    "ru": {
+      "text": "Я постараюсь сделать все возможное, чтобы показать лучший результат",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try to do my best to show the best result",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Я ожидаю, что это произойдет рано или поздно",
-    "en": "I expect that it'll happen sooner or later"
+    "id": 32,
+    "ru": {
+      "text": "Я ожидаю, что это произойдет рано или поздно",
+      "audio": false
+    },
+    "en": {
+      "text": "I expect that it'll happen sooner or later",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Я уверен, что я смогу сделать это",
-    "en": "I'm sure that I'll be able to do it"
+    "id": 33,
+    "ru": {
+      "text": "Я уверен, что я смогу сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure that I'll be able to do it",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Я думаю, что смогу прийти",
-    "en": "I think I'll be able to come"
+    "id": 34,
+    "ru": {
+      "text": "Я думаю, что смогу прийти",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I'll be able to come",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Я очень надеюсь, что ты найдешь решение этой проблемы",
-    "en": "I really hope that you'll find a solution to this problem"
+    "id": 35,
+    "ru": {
+      "text": "Я очень надеюсь, что ты найдешь решение этой проблемы",
+      "audio": false
+    },
+    "en": {
+      "text": "I really hope that you'll find a solution to this problem",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Я предполагаю, что это будет лучшее решение в этой ситуации",
-    "en": "I suppose that it'll be the best decision in this situation"
+    "id": 36,
+    "ru": {
+      "text": "Я предполагаю, что это будет лучшее решение в этой ситуации",
+      "audio": false
+    },
+    "en": {
+      "text": "I suppose that it'll be the best decision in this situation",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Я не думаю, что это будет правильно",
-    "en": "I don't think that it'll be right"
+    "id": 37,
+    "ru": {
+      "text": "Я не думаю, что это будет правильно",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that it'll be right",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Мне нужно будет подумать об этом",
-    "en": "I'll need to think about it"
+    "id": 38,
+    "ru": {
+      "text": "Мне нужно будет подумать об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll need to think about it",
+      "audio": false
+    }
   }
 ]

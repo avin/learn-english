@@ -1,477 +1,1047 @@
 [
   {
-    "_id": 1,
-    "ru": "Я прав?",
-    "en": "Am I right?"
-  },
-  {
-    "_id": 2,
-    "ru": "Они с тобой?",
-    "en": "Are they with you?"
-  },
-  {
-    "_id": 3,
-    "ru": "Это дешевле?",
-    "en": "Is it cheaper?"
-  },
-  {
-    "_id": 4,
-    "ru": "Они хорошие врачи?",
-    "en": "Are they good doctors?"
-  },
-  {
-    "_id": 5,
-    "ru": "Это лучше?",
-    "en": "Is it better?"
-  },
-  {
-    "_id": 6,
-    "ru": "Это лучшая идея?",
-    "en": "Is it the best idea?"
-  },
-  {
-    "_id": 7,
-    "ru": "Ты студент?",
-    "en": "Are you a student?"
-  },
-  {
-    "_id": 8,
-    "ru": "Они с тобой?",
-    "en": "Are they with you?"
-  },
-  {
-    "_id": 9,
-    "ru": "Это дешевле?",
-    "en": "Is it cheaper?"
-  },
-  {
-    "_id": 10,
-    "ru": "Он директор?",
-    "en": "Is he a director?"
-  },
-  {
-    "_id": 11,
-    "ru": "Он американец?",
-    "en": "Is he American?"
-  },
-  {
-    "_id": 12,
-    "ru": "Я прав?",
-    "en": "Am I right?"
-  },
-  {
-    "_id": 13,
-    "ru": "Она твоя помощница?",
-    "en": "Is she your assistant?"
-  },
-  {
-    "_id": 14,
-    "ru": "Ты занят сейчас?",
-    "en": "Are you busy now?"
-  },
-  {
-    "_id": 15,
-    "ru": "Это дороже?",
-    "en": "Is it more expensive?"
-  },
-  {
-    "_id": 16,
-    "ru": "Она американка?",
-    "en": "Is she American?"
-  },
-  {
-    "_id": 17,
-    "ru": "Мы правы?",
-    "en": "Are we right?"
-  },
-  {
-    "_id": 18,
-    "ru": "Ты готов сейчас?",
-    "en": "Are you ready now?"
-  },
-  {
-    "_id": 19,
-    "ru": "Это правильно?",
-    "en": "Is it right?"
-  },
-  {
-    "_id": 20,
-    "ru": "Она твой секретарь?",
-    "en": "Is she your secretary?"
-  },
-  {
-    "_id": 21,
-    "ru": "Он за границей?",
-    "en": "Is he abroad?"
-  },
-  {
-    "_id": 22,
-    "ru": "Она секретарь?",
-    "en": "Is she a secretary?"
-  },
-  {
-    "_id": 23,
-    "ru": "Это правильно?",
-    "en": "Is it correct?"
-  },
-  {
-    "_id": 24,
-    "ru": "Вы вместе сейчас?",
-    "en": "Are you together now?"
-  },
-  {
-    "_id": 25,
-    "ru": "Это трудно?",
-    "en": "Is it difficult?"
-  },
-  {
-    "_id": 26,
-    "ru": "Они твои друзья?",
-    "en": "Are they your friends?"
-  },
-  {
-    "_id": 27,
-    "ru": "Ты готов?",
-    "en": "Are you ready?"
-  },
-  {
-    "_id": 28,
-    "ru": "Он твой директор?",
-    "en": "Is he your director?"
-  },
-  {
-    "_id": 29,
-    "ru": "Это более эффективно?",
-    "en": "Is it more effective?"
-  },
-  {
-    "_id": 30,
-    "ru": "Ты дома?",
-    "en": "Are you at home?"
-  },
-  {
-    "_id": 31,
-    "ru": "Она из Соединенных Штатов?",
-    "en": "Is she from the United States?"
-  },
-  {
-    "_id": 32,
-    "ru": "Вы уверены?",
-    "en": "Are you sure?"
-  },
-  {
-    "_id": 33,
-    "ru": "Это важно?",
-    "en": "Is it important?"
-  },
-  {
-    "_id": 34,
-    "ru": "Вы действительно счастливы вместе?",
-    "en": "Are you really happy together?"
-  },
-  {
-    "_id": 35,
-    "ru": "Он твой коллега?",
-    "en": "Is he your colleague?"
-  },
-  {
-    "_id": 36,
-    "ru": "Он бизнесмен?",
-    "en": "Is he a businessman?"
-  },
-  {
-    "_id": 37,
-    "ru": "Это лучше сейчас?",
-    "en": "Is it better now?"
-  },
-  {
-    "_id": 38,
-    "ru": "Она твоя коллега?",
-    "en": "Is she your colleague?"
-  },
-  {
-    "_id": 39,
-    "ru": "Он из Англии?",
-    "en": "Is he from England?"
-  },
-  {
-    "_id": 40,
-    "ru": "Это легко?",
-    "en": "Is it easy?"
-  },
-  {
-    "_id": 41,
-    "ru": "Он твой друг?",
-    "en": "Is he your friend?"
-  },
-  {
-    "_id": 42,
-    "ru": "Ты из Бразилии?",
-    "en": "Are you from Brazil?"
-  },
-  {
-    "_id": 43,
-    "ru": "Вы счастливы вместе?",
-    "en": "Are you happy together?"
-  },
-  {
-    "_id": 44,
-    "ru": "Это интересно тебе?",
-    "en": "Is it interesting for you?"
-  },
-  {
-    "_id": 45,
-    "ru": "Ты из России?",
-    "en": "Are you from Russia?"
-  },
-  {
-    "_id": 46,
-    "ru": "Он водитель?",
-    "en": "Is he a driver?"
-  },
-  {
-    "_id": 47,
-    "ru": "Он в больнице?",
-    "en": "Is he in hospital?"
-  },
-  {
-    "_id": 48,
-    "ru": "Он твой тренер?",
-    "en": "Is he your trainer?"
-  },
-  {
-    "_id": 49,
-    "ru": "Она в больнице сейчас?",
-    "en": "Is she in hospital now?"
-  },
-  {
-    "_id": 50,
-    "ru": "Ты с ним сейчас?",
-    "en": "Are you with him now?"
-  },
-  {
-    "_id": 51,
-    "ru": "Это интересно или нет?",
-    "en": "Is it interesting or not?"
-  },
-  {
-    "_id": 52,
-    "ru": "Ты в парке?",
-    "en": "Are you in the park?"
-  },
-  {
-    "_id": 53,
-    "ru": "Он твой парень?",
-    "en": "Is he your boyfriend?"
-  },
-  {
-    "_id": 54,
-    "ru": "Это очень важно?",
-    "en": "Is it very important?"
-  },
-  {
-    "_id": 55,
-    "ru": "Это сложно или нет?",
-    "en": "Is it difficult or not?"
-  },
-  {
-    "_id": 56,
-    "ru": "Это лучшая цена?",
-    "en": "Is it the best price?"
-  },
-  {
-    "_id": 57,
-    "ru": "Они сейчас в парке?",
-    "en": "Are they in the park now?"
-  },
-  {
-    "_id": 58,
-    "ru": "Они хорошие врачи?",
-    "en": "Are they good doctors?"
-  },
-  {
-    "_id": 59,
-    "ru": "Они профессиональные работники?",
-    "en": "Are they professional workers?"
-  },
-  {
-    "_id": 60,
-    "ru": "Он сейчас в той комнате?",
-    "en": "Is he in that room now?"
-  },
-  {
-    "_id": 61,
-    "ru": "Он тренер?",
-    "en": "Is he a trainer?"
-  },
-  {
-    "_id": 62,
-    "ru": "Ты действительно уверен?",
-    "en": "Are you really sure?"
-  },
-  {
-    "_id": 63,
-    "ru": "Он действительно уверен?",
-    "en": "Is he really sure?"
-  },
-  {
-    "_id": 64,
-    "ru": "Ты готов или нет?",
-    "en": "Are you ready or not?"
-  },
-  {
-    "_id": 65,
-    "ru": "Она готова или нет?",
-    "en": "Is she ready or not?"
-  },
-  {
-    "_id": 66,
-    "ru": "Он твой лучший друг?",
-    "en": "Is he your best friend?"
-  },
-  {
-    "_id": 67,
-    "ru": "Он ее лучший друг?",
-    "en": "Is he her best friend?"
-  },
-  {
-    "_id": 68,
-    "ru": "Они твои лучшие друзья?",
-    "en": "Are they your best friends?"
-  },
-  {
-    "_id": 69,
-    "ru": "Они рабочие?",
-    "en": "Are they workers?"
-  },
-  {
-    "_id": 70,
-    "ru": "Это правильно или нет?",
-    "en": "Is it right or not?"
-  },
-  {
-    "_id": 71,
-    "ru": "Ты в этой комнате?",
-    "en": "Are you in this room?"
-  },
-  {
-    "_id": 72,
-    "ru": "Это в той комнате?",
-    "en": "Is it in that room?"
-  },
-  {
-    "_id": 73,
-    "ru": "Это действительно возможно?",
-    "en": "Is it really possible?"
-  },
-  {
-    "_id": 74,
-    "ru": "Это действительно важно?",
-    "en": "Is it really important?"
-  },
-  {
-    "_id": 75,
-    "ru": "Это лучшая идея?",
-    "en": "Is it the best idea?"
-  },
-  {
-    "_id": 76,
-    "ru": "Он на кухне?",
-    "en": "Is he in the kitchen?"
-  },
-  {
-    "_id": 77,
-    "ru": "Она на кухне?",
-    "en": "Is she in the kitchen?"
-  },
-  {
-    "_id": 78,
-    "ru": "Они на кухне?",
-    "en": "Are they in the kitchen?"
-  },
-  {
-    "_id": 79,
-    "ru": "Она твоя учительница?",
-    "en": "Is she your teacher?"
-  },
-  {
-    "_id": 80,
-    "ru": "Она их учительница?",
-    "en": "Is she their teacher?"
-  },
-  {
-    "_id": 81,
-    "ru": "Они твои учителя?",
-    "en": "Are they your teachers?"
-  },
-  {
-    "_id": 82,
-    "ru": "Это легко или нет?",
-    "en": "Is it easy or not?"
-  },
-  {
-    "_id": 83,
-    "ru": "Это действительно лучший ответ?",
-    "en": "Is it really the best answer?"
-  },
-  {
-    "_id": 84,
-    "ru": "Она носитель языка?",
-    "en": "Is she a native speaker?"
-  },
-  {
-    "_id": 85,
-    "ru": "Она твоя девушка?",
-    "en": "Is she your girlfriend?"
-  },
-  {
-    "_id": 86,
-    "ru": "Они трудолюбивые студенты?",
-    "en": "Are they hard-working students?"
-  },
-  {
-    "_id": 87,
-    "ru": "Это действительно лучший выбор?",
-    "en": "Is it really the best choice?"
-  },
-  {
-    "_id": 88,
-    "ru": "Он работник?",
-    "en": "Is he a worker?"
-  },
-  {
-    "_id": 89,
-    "ru": "Они хорошие тренеры?",
-    "en": "Are they good trainers?"
-  },
-  {
-    "_id": 90,
-    "ru": "Они профессиональные учителя?",
-    "en": "Are they professional teachers?"
-  },
-  {
-    "_id": 91,
-    "ru": "Это лучший ответ?",
-    "en": "Is it the best answer?"
-  },
-  {
-    "_id": 92,
-    "ru": "Он носитель языка?",
-    "en": "Is he a native speaker?"
-  },
-  {
-    "_id": 93,
-    "ru": "Это лучший выбор?",
-    "en": "Is it the best choice?"
-  },
-  {
-    "_id": 94,
-    "ru": "Она сейчас на кухне?",
-    "en": "Is she in the kitchen now?"
-  },
-  {
-    "_id": 95,
-    "ru": "Это действительно лучшая цена?",
-    "en": "Is it really the best price?"
+    "id": 1,
+    "ru": {
+      "text": "Я прав?",
+      "audio": false
+    },
+    "en": {
+      "text": "Am I right?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Они с тобой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they with you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Это дешевле?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it cheaper?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Они хорошие врачи?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they good doctors?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Это лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it better?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Это лучшая идея?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it the best idea?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Ты студент?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you a student?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Они с тобой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they with you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Это дешевле?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it cheaper?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Он директор?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he a director?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Он американец?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he American?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я прав?",
+      "audio": false
+    },
+    "en": {
+      "text": "Am I right?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Она твоя помощница?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she your assistant?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Ты занят сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you busy now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Это дороже?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it more expensive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Она американка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she American?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Мы правы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are we right?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Ты готов сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you ready now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Это правильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it right?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Она твой секретарь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she your secretary?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Он за границей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he abroad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Она секретарь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she a secretary?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Это правильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it correct?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Вы вместе сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you together now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Это трудно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it difficult?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Они твои друзья?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they your friends?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Ты готов?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you ready?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Он твой директор?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he your director?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Это более эффективно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it more effective?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Ты дома?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you at home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Она из Соединенных Штатов?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she from the United States?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Вы уверены?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you sure?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Это важно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it important?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Вы действительно счастливы вместе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you really happy together?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Он твой коллега?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he your colleague?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Он бизнесмен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he a businessman?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Это лучше сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it better now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Она твоя коллега?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she your colleague?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Он из Англии?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he from England?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Это легко?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it easy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Он твой друг?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he your friend?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Ты из Бразилии?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you from Brazil?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Вы счастливы вместе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you happy together?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Это интересно тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it interesting for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Ты из России?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you from Russia?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Он водитель?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he a driver?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Он в больнице?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he in hospital?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Он твой тренер?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he your trainer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Она в больнице сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she in hospital now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Ты с ним сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you with him now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Это интересно или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it interesting or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Ты в парке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you in the park?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Он твой парень?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he your boyfriend?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Это очень важно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it very important?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Это сложно или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it difficult or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Это лучшая цена?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it the best price?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Они сейчас в парке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they in the park now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Они хорошие врачи?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they good doctors?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Они профессиональные работники?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they professional workers?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Он сейчас в той комнате?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he in that room now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он тренер?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he a trainer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Ты действительно уверен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you really sure?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Он действительно уверен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he really sure?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Ты готов или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you ready or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Она готова или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she ready or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Он твой лучший друг?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he your best friend?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Он ее лучший друг?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he her best friend?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Они твои лучшие друзья?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they your best friends?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Они рабочие?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they workers?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Это правильно или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it right or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Ты в этой комнате?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you in this room?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Это в той комнате?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it in that room?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Это действительно возможно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it really possible?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Это действительно важно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it really important?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Это лучшая идея?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it the best idea?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Он на кухне?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he in the kitchen?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Она на кухне?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she in the kitchen?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Они на кухне?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they in the kitchen?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Она твоя учительница?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she your teacher?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Она их учительница?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she their teacher?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Они твои учителя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they your teachers?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Это легко или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it easy or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Это действительно лучший ответ?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it really the best answer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Она носитель языка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she a native speaker?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Она твоя девушка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she your girlfriend?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Они трудолюбивые студенты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they hard-working students?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Это действительно лучший выбор?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it really the best choice?",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Он работник?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he a worker?",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Они хорошие тренеры?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they good trainers?",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Они профессиональные учителя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they professional teachers?",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Это лучший ответ?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it the best answer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Он носитель языка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he a native speaker?",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Это лучший выбор?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it the best choice?",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Она сейчас на кухне?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she in the kitchen now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Это действительно лучшая цена?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it really the best price?",
+      "audio": false
+    }
   }
 ]

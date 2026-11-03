@@ -1,232 +1,508 @@
 [
   {
-    "_id": 1,
-    "ru": "Она поддерживает тебя?",
-    "en": "Does she support you?"
+    "id": 1,
+    "ru": {
+      "text": "Она поддерживает тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she support you?",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Ты ходишь на работу?",
-    "en": "Do you go to work?"
+    "id": 2,
+    "ru": {
+      "text": "Ты ходишь на работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you go to work?",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Это помогает тебе?",
-    "en": "Does it help you?"
+    "id": 3,
+    "ru": {
+      "text": "Это помогает тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it help you?",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Ты действительно так думаешь?",
-    "en": "Do you really think so?"
+    "id": 4,
+    "ru": {
+      "text": "Ты действительно так думаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you really think so?",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Он поддерживает тебя?",
-    "en": "Does he support you?"
+    "id": 5,
+    "ru": {
+      "text": "Он поддерживает тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he support you?",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Ты учишься или работаешь?",
-    "en": "Do you work or study?"
+    "id": 6,
+    "ru": {
+      "text": "Ты учишься или работаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you work or study?",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Ты хочешь снять дом?",
-    "en": "Do you want to rent a house?"
+    "id": 7,
+    "ru": {
+      "text": "Ты хочешь снять дом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to rent a house?",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Это действительно помогает тебе?",
-    "en": "Does it really help you?"
+    "id": 8,
+    "ru": {
+      "text": "Это действительно помогает тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it really help you?",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Ты так думаешь?",
-    "en": "Do you think so?"
+    "id": 9,
+    "ru": {
+      "text": "Ты так думаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you think so?",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Он ходит в школу?",
-    "en": "Does he go to school?"
+    "id": 10,
+    "ru": {
+      "text": "Он ходит в школу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he go to school?",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Ты хочешь сделать это завтра?",
-    "en": "Do you want to do it tomorrow?"
+    "id": 11,
+    "ru": {
+      "text": "Ты хочешь сделать это завтра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to do it tomorrow?",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Он занимается бизнесом?",
-    "en": "Does he do business?"
+    "id": 12,
+    "ru": {
+      "text": "Он занимается бизнесом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he do business?",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Она живет с родителями?",
-    "en": "Does she live with her parents?"
+    "id": 13,
+    "ru": {
+      "text": "Она живет с родителями?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she live with her parents?",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Вы часто туда ходите?",
-    "en": "Do you often go there?"
+    "id": 14,
+    "ru": {
+      "text": "Вы часто туда ходите?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often go there?",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Тебе нравится эта идея?",
-    "en": "Do you like this idea?"
+    "id": 15,
+    "ru": {
+      "text": "Тебе нравится эта идея?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like this idea?",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Ты хочешь посетить Англию?",
-    "en": "Do you want to visit England?"
+    "id": 16,
+    "ru": {
+      "text": "Ты хочешь посетить Англию?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to visit England?",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Ты хочешь снять квартиру?",
-    "en": "Do you want to rent an apartment?"
+    "id": 17,
+    "ru": {
+      "text": "Ты хочешь снять квартиру?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to rent an apartment?",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Она ходит в университет?",
-    "en": "Does she go to university?"
+    "id": 18,
+    "ru": {
+      "text": "Она ходит в университет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she go to university?",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Ты часто играешь в футбол?",
-    "en": "Do you often play football?"
+    "id": 19,
+    "ru": {
+      "text": "Ты часто играешь в футбол?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often play football?",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "У вас есть какие-либо вопросы?",
-    "en": "Do you have any questions?"
+    "id": 20,
+    "ru": {
+      "text": "У вас есть какие-либо вопросы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have any questions?",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Ты хочешь купить эту вещь?",
-    "en": "Do you want to buy this thing?"
+    "id": 21,
+    "ru": {
+      "text": "Ты хочешь купить эту вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to buy this thing?",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Ты понимаешь это?",
-    "en": "Do you understand it?"
+    "id": 22,
+    "ru": {
+      "text": "Ты понимаешь это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you understand it?",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Ты работаешь?",
-    "en": "Do you work?"
+    "id": 23,
+    "ru": {
+      "text": "Ты работаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you work?",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "У тебя есть время?",
-    "en": "Do you have time?"
+    "id": 24,
+    "ru": {
+      "text": "У тебя есть время?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have time?",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Ты понимаешь?",
-    "en": "Do you understand?"
+    "id": 25,
+    "ru": {
+      "text": "Ты понимаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you understand?",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Он говорит по-английски?",
-    "en": "Does he speak English?"
+    "id": 26,
+    "ru": {
+      "text": "Он говорит по-английски?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he speak English?",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Ты хочешь жить в другом городе?",
-    "en": "Do you want to live in another city?"
+    "id": 27,
+    "ru": {
+      "text": "Ты хочешь жить в другом городе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to live in another city?",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Ты хочешь заказать это онлайн?",
-    "en": "Do you want to order it online?"
+    "id": 28,
+    "ru": {
+      "text": "Ты хочешь заказать это онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to order it online?",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Он работает?",
-    "en": "Does he work?"
+    "id": 29,
+    "ru": {
+      "text": "Он работает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he work?",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Он преподает английский?",
-    "en": "Does he teach English?"
+    "id": 30,
+    "ru": {
+      "text": "Он преподает английский?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he teach English?",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Вы говорите по-английски?",
-    "en": "Do you speak English?"
+    "id": 31,
+    "ru": {
+      "text": "Вы говорите по-английски?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you speak English?",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Ты знаешь ответ?",
-    "en": "Do you know the answer?"
+    "id": 32,
+    "ru": {
+      "text": "Ты знаешь ответ?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know the answer?",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Вы действительно хочешь сделать это?",
-    "en": "Do you really want to do it?"
+    "id": 33,
+    "ru": {
+      "text": "Вы действительно хочешь сделать это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you really want to do it?",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Ты читаешь книги на английском?",
-    "en": "Do you read books in English?"
+    "id": 34,
+    "ru": {
+      "text": "Ты читаешь книги на английском?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you read books in English?",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Это работает?",
-    "en": "Does it work?"
+    "id": 35,
+    "ru": {
+      "text": "Это работает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it work?",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Ты хочешь поехать в эту страну?",
-    "en": "Do you want to go to this country?"
+    "id": 36,
+    "ru": {
+      "text": "Ты хочешь поехать в эту страну?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to go to this country?",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Ты часто играешь в теннис?",
-    "en": "Do you often play tennis?"
+    "id": 37,
+    "ru": {
+      "text": "Ты часто играешь в теннис?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often play tennis?",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Он работает или учится?",
-    "en": "Does he work or study?"
+    "id": 38,
+    "ru": {
+      "text": "Он работает или учится?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he work or study?",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Он учится в другой стране?",
-    "en": "Does he study in another country?"
+    "id": 39,
+    "ru": {
+      "text": "Он учится в другой стране?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he study in another country?",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "У тебя есть семья?",
-    "en": "Do you have a family?"
+    "id": 40,
+    "ru": {
+      "text": "У тебя есть семья?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have a family?",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Ты хочешь сделать это сейчас?",
-    "en": "Do you want to do it now?"
+    "id": 41,
+    "ru": {
+      "text": "Ты хочешь сделать это сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to do it now?",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Она знает это?",
-    "en": "Does she know it?"
+    "id": 42,
+    "ru": {
+      "text": "Она знает это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she know it?",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Она учится за границей?",
-    "en": "Does she study abroad?"
+    "id": 43,
+    "ru": {
+      "text": "Она учится за границей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she study abroad?",
+      "audio": false
+    }
   },
   {
-    "_id": 44,
-    "ru": "Это действительно работает?",
-    "en": "Does it really work?"
+    "id": 44,
+    "ru": {
+      "text": "Это действительно работает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it really work?",
+      "audio": false
+    }
   },
   {
-    "_id": 45,
-    "ru": "Ты хочешь учиться за границей?",
-    "en": "Do you want to study abroad?"
+    "id": 45,
+    "ru": {
+      "text": "Ты хочешь учиться за границей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to study abroad?",
+      "audio": false
+    }
   },
   {
-    "_id": 46,
-    "ru": "Ты читаешь английские книги?",
-    "en": "Do you read English books?"
+    "id": 46,
+    "ru": {
+      "text": "Ты читаешь английские книги?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you read English books?",
+      "audio": false
+    }
   }
 ]

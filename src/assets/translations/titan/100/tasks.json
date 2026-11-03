@@ -1,457 +1,1003 @@
 [
   {
-    "_id": 1,
-    "ru": "Я хотел бы полететь в Соединенные Штаты однажды",
-    "en": "I'd like to fly to the United States one day"
-  },
-  {
-    "_id": 2,
-    "ru": "Я зарезервировал столик у окна",
-    "en": "I reserved a table near the window"
-  },
-  {
-    "_id": 3,
-    "ru": "Я выполнил свою работу",
-    "en": "I completed my work"
-  },
-  {
-    "_id": 4,
-    "ru": "Он покрасил стену",
-    "en": "He painted the wall"
-  },
-  {
-    "_id": 5,
-    "ru": "Пациенту потребовалась операция",
-    "en": "The patient required an operation"
-  },
-  {
-    "_id": 6,
-    "ru": "Как он заработал эти деньги?",
-    "en": "How did he earn this money?"
-  },
-  {
-    "_id": 7,
-    "ru": "Она в основном слушает классическую музыку",
-    "en": "She mostly listens to classical music"
-  },
-  {
-    "_id": 8,
-    "ru": "Во сколько ты вернешься домой?",
-    "en": "What time will you return home?"
-  },
-  {
-    "_id": 9,
-    "ru": "Ты зарезервируешь столик для нас?",
-    "en": "Will you reserve a table for us?"
-  },
-  {
-    "_id": 10,
-    "ru": "Я хочу сосредоточиться на этих вопросах",
-    "en": "I want to concentrate on these issues"
-  },
-  {
-    "_id": 11,
-    "ru": "Он хотел бы извиниться за свое поведение",
-    "en": "He'd like to apologise for his behaviour"
-  },
-  {
-    "_id": 12,
-    "ru": "Ты можешь поговорить со мной сейчас?",
-    "en": "Can you talk to me now?"
-  },
-  {
-    "_id": 13,
-    "ru": "Это зависит от разных факторов",
-    "en": "It depends on different factors"
-  },
-  {
-    "_id": 14,
-    "ru": "Я закончу этот курс в следующем году",
-    "en": "I’ll complete this course next year"
-  },
-  {
-    "_id": 15,
-    "ru": "Я выполнил это задание",
-    "en": "I completed this task"
-  },
-  {
-    "_id": 16,
-    "ru": "Он много спал",
-    "en": "He slept a lot"
-  },
-  {
-    "_id": 17,
-    "ru": "Я не могу себе этого представить",
-    "en": "I can't imagine it"
-  },
-  {
-    "_id": 18,
-    "ru": "Он улетел прочь",
-    "en": "He flew away"
-  },
-  {
-    "_id": 19,
-    "ru": "Он слишком много спит",
-    "en": "He sleeps too much"
-  },
-  {
-    "_id": 20,
-    "ru": "Я хочу немного расслабиться",
-    "en": "I want to relax a bit"
-  },
-  {
-    "_id": 21,
-    "ru": "Кто написал эту книгу?",
-    "en": "Who wrote this book?"
-  },
-  {
-    "_id": 22,
-    "ru": "Я знаю, что могу сделать это лучше",
-    "en": "I know that I can do it better"
-  },
-  {
-    "_id": 23,
-    "ru": "Она перезвонила мне",
-    "en": "She called me back"
-  },
-  {
-    "_id": 24,
-    "ru": "Я могу бежать намного быстрее",
-    "en": "I can run much faster"
-  },
-  {
-    "_id": 25,
-    "ru": "Он вернулся в Америку прошлым летом",
-    "en": "He returned to America last summer"
-  },
-  {
-    "_id": 26,
-    "ru": "Это требует постоянной работы",
-    "en": "It requires constant work"
-  },
-  {
-    "_id": 27,
-    "ru": "Он в основном слушал поп-музыку",
-    "en": "He mostly listened to pop music"
-  },
-  {
-    "_id": 28,
-    "ru": "Он собирал марки",
-    "en": "He collected stamps"
-  },
-  {
-    "_id": 29,
-    "ru": "Он извинился за свои слова",
-    "en": "He apologised for his words"
-  },
-  {
-    "_id": 30,
-    "ru": "Я написал ему имейл",
-    "en": "I wrote him an email"
-  },
-  {
-    "_id": 31,
-    "ru": "Мы можем сосредоточиться на этой проблеме",
-    "en": "We can concentrate on this problem"
-  },
-  {
-    "_id": 32,
-    "ru": "Когда ты хочешь обсудить это?",
-    "en": "When do you want to discuss it?"
-  },
-  {
-    "_id": 33,
-    "ru": "Это действительно зависит от меня?",
-    "en": "Does it really depend on me?"
-  },
-  {
-    "_id": 34,
-    "ru": "Эта квартира принадлежит его родителям",
-    "en": "This apartment belongs to his parents"
-  },
-  {
-    "_id": 35,
-    "ru": "Ты умеешь говорить по-английски?",
-    "en": "Can you speak English?"
-  },
-  {
-    "_id": 36,
-    "ru": "Они построили церковь в этой области",
-    "en": "They built a church in this area"
-  },
-  {
-    "_id": 37,
-    "ru": "Ты хочешь танцевать?",
-    "en": "Do you want to dance?"
-  },
-  {
-    "_id": 38,
-    "ru": "Мы могли бы обсудить это сегодня вечером",
-    "en": "We could discuss it tonight"
-  },
-  {
-    "_id": 39,
-    "ru": "Мне нужно поговорить с тобой",
-    "en": "I need to talk to you"
-  },
-  {
-    "_id": 40,
-    "ru": "Этот дом принадлежит тебе?",
-    "en": "Does this house belong to you?"
-  },
-  {
-    "_id": 41,
-    "ru": "Он снял все деньги со своего счета",
-    "en": "He withdrew all the money from his account"
-  },
-  {
-    "_id": 42,
-    "ru": "Он собирал древние монеты, когда был мальчиком",
-    "en": "He collected ancient coins when he was a boy"
-  },
-  {
-    "_id": 43,
-    "ru": "Они построили этот монастырь в пятнадцатом веке",
-    "en": "They built this monastery in the fifteenth century"
-  },
-  {
-    "_id": 44,
-    "ru": "Он решил купить дом вместо квартиры",
-    "en": "He decided to buy a house instead of an apartment"
-  },
-  {
-    "_id": 45,
-    "ru": "Представление действительно впечатлило меня",
-    "en": "The performance really impressed me"
-  },
-  {
-    "_id": 46,
-    "ru": "Он не может представить свою жизнь без спорта",
-    "en": "He can't imagine his life without sport"
-  },
-  {
-    "_id": 47,
-    "ru": "Что он тебе посоветовал сделать?",
-    "en": "What did he advise you to do?"
-  },
-  {
-    "_id": 48,
-    "ru": "Я не хочу что-либо обещать",
-    "en": "I don't want to promise anything"
-  },
-  {
-    "_id": 49,
-    "ru": "Она попросила помощи",
-    "en": "She asked for help"
-  },
-  {
-    "_id": 50,
-    "ru": "Учитель указал на его ошибки",
-    "en": "The teacher pointed out his mistakes"
-  },
-  {
-    "_id": 51,
-    "ru": "Твой учитель указал на твои ошибки?",
-    "en": "Did your teacher point out your mistakes?"
-  },
-  {
-    "_id": 52,
-    "ru": "Я указал на ее ошибки",
-    "en": "I pointed out her mistakes"
-  },
-  {
-    "_id": 53,
-    "ru": "Эта вещь не зависит от меня",
-    "en": "This thing doesn't depend on me"
-  },
-  {
-    "_id": 54,
-    "ru": "Эта вещь зависит от меня?",
-    "en": "Does this thing depend on me?"
-  },
-  {
-    "_id": 55,
-    "ru": "Это не зависит от моего решения",
-    "en": "It doesn't depend on my decision"
-  },
-  {
-    "_id": 56,
-    "ru": "Он выучил этот текст наизусть",
-    "en": "He learnt this text by heart"
-  },
-  {
-    "_id": 57,
-    "ru": "Он выучил этот текст наизусть?",
-    "en": "Did he learn this text by heart?"
-  },
-  {
-    "_id": 58,
-    "ru": "Я не хочу учить тот текст наизусть",
-    "en": "I don't want to learn that text by heart"
-  },
-  {
-    "_id": 59,
-    "ru": "Они наконец разрешили этот конфликт",
-    "en": "They finally resolved this conflict"
-  },
-  {
-    "_id": 60,
-    "ru": "Они наконец разрешат этот конфликт",
-    "en": "They’ll finally resolve this conflict"
-  },
-  {
-    "_id": 61,
-    "ru": "Я наконец решил эту проблему",
-    "en": "I finally solved this problem"
-  },
-  {
-    "_id": 62,
-    "ru": "Я хотел бы отметить, что это действительно удивительно",
-    "en": "I'd like to point out that it's really amazing"
-  },
-  {
-    "_id": 63,
-    "ru": "Он хотел бы отметить, что это было так удивительно",
-    "en": "He'd like to point out that it was so amazing"
-  },
-  {
-    "_id": 64,
-    "ru": "Они отметили, что это было так удивительно",
-    "en": "They pointed out that it was so amazing"
-  },
-  {
-    "_id": 65,
-    "ru": "Он обещал взять это под контроль",
-    "en": "He promised to take it under control"
-  },
-  {
-    "_id": 66,
-    "ru": "Ты обещаешь взять это под контроль?",
-    "en": "Do you promise to take it under control?"
-  },
-  {
-    "_id": 67,
-    "ru": "Он решил взять это под контроль",
-    "en": "He decided to take it under control"
-  },
-  {
-    "_id": 68,
-    "ru": "Я смогу заработать эти деньги?",
-    "en": "Will I be able to earn this money?"
-  },
-  {
-    "_id": 69,
-    "ru": "Я смогу заработать эти деньги",
-    "en": "I’ll be able to earn this money"
-  },
-  {
-    "_id": 70,
-    "ru": "Ты сможешь заработать так много денег?",
-    "en": "Will you be able to earn so much money?"
-  },
-  {
-    "_id": 71,
-    "ru": "Результат этой игры меня так сильно шокировал",
-    "en": "The result of this game shocked me so much"
-  },
-  {
-    "_id": 72,
-    "ru": "Эти результаты действительно шокировали их",
-    "en": "These results really shocked them"
-  },
-  {
-    "_id": 73,
-    "ru": "Ты можешь объяснить эту вещь мне?",
-    "en": "Can you explain this thing to me?"
-  },
-  {
-    "_id": 74,
-    "ru": "Я не могу объяснить эту вещь тебе",
-    "en": "I can't explain this thing to you"
-  },
-  {
-    "_id": 75,
-    "ru": "Ты можешь показать это видео мне?",
-    "en": "Can you show this video to me?"
-  },
-  {
-    "_id": 76,
-    "ru": "Я думаю, я куплю квартиру вместо дома",
-    "en": "I think I'll buy an apartment instead of a house"
-  },
-  {
-    "_id": 77,
-    "ru": "Я решил купить квартиру вместо дома",
-    "en": "I decided to buy an apartment instead of a house"
-  },
-  {
-    "_id": 78,
-    "ru": "Ты купишь квартиру вместо этого дома?",
-    "en": "Will you buy an apartment instead of this house?"
-  },
-  {
-    "_id": 79,
-    "ru": "Я перезвоню тебе через пару минут",
-    "en": "I'll call you back in a couple of minutes"
-  },
-  {
-    "_id": 80,
-    "ru": "Те новости действительно шокировали тебя?",
-    "en": "Did that news really shock you?"
-  },
-  {
-    "_id": 81,
-    "ru": "Как ты разрешил этот конфликт?",
-    "en": "How did you resolve this conflict?"
-  },
-  {
-    "_id": 82,
-    "ru": "Я думаю, тебе нужно немного отдохнуть",
-    "en": "I think you need to relax a little"
-  },
-  {
-    "_id": 83,
-    "ru": "Я снял эти деньги со своего счета",
-    "en": "I withdrew this money from my account"
-  },
-  {
-    "_id": 84,
-    "ru": "Она попросила меня задать тебе этот вопрос",
-    "en": "She asked me to ask you this question"
-  },
-  {
-    "_id": 85,
-    "ru": "Она посоветовала мне не делать этого",
-    "en": "She advised me not to do it"
-  },
-  {
-    "_id": 86,
-    "ru": "Он ненавидит делать такого рода вещи",
-    "en": "He hates doing this sort of things"
-  },
-  {
-    "_id": 87,
-    "ru": "Мне нужно некоторое время, чтобы сосредоточиться",
-    "en": "I need some time to concentrate"
-  },
-  {
-    "_id": 88,
-    "ru": "Он знает, что она может умереть скоро",
-    "en": "He knows that she can die soon"
-  },
-  {
-    "_id": 89,
-    "ru": "Я сдал тест успешно",
-    "en": "I passed the test successfully"
-  },
-  {
-    "_id": 90,
-    "ru": "Я действительно ненавижу делать это",
-    "en": "I really hate doing it"
-  },
-  {
-    "_id": 91,
-    "ru": "Я могу объяснить это тебе",
-    "en": "I can explain it to you"
+    "id": 1,
+    "ru": {
+      "text": "Я хотел бы полететь в Соединенные Штаты однажды",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to fly to the United States one day",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я зарезервировал столик у окна",
+      "audio": false
+    },
+    "en": {
+      "text": "I reserved a table near the window",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я выполнил свою работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I completed my work",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Он покрасил стену",
+      "audio": false
+    },
+    "en": {
+      "text": "He painted the wall",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Пациенту потребовалась операция",
+      "audio": false
+    },
+    "en": {
+      "text": "The patient required an operation",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Как он заработал эти деньги?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did he earn this money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Она в основном слушает классическую музыку",
+      "audio": false
+    },
+    "en": {
+      "text": "She mostly listens to classical music",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Во сколько ты вернешься домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time will you return home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Ты зарезервируешь столик для нас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you reserve a table for us?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я хочу сосредоточиться на этих вопросах",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to concentrate on these issues",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Он хотел бы извиниться за свое поведение",
+      "audio": false
+    },
+    "en": {
+      "text": "He'd like to apologise for his behaviour",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Ты можешь поговорить со мной сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you talk to me now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Это зависит от разных факторов",
+      "audio": false
+    },
+    "en": {
+      "text": "It depends on different factors",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я закончу этот курс в следующем году",
+      "audio": false
+    },
+    "en": {
+      "text": "I’ll complete this course next year",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я выполнил это задание",
+      "audio": false
+    },
+    "en": {
+      "text": "I completed this task",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Он много спал",
+      "audio": false
+    },
+    "en": {
+      "text": "He slept a lot",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я не могу себе этого представить",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't imagine it",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Он улетел прочь",
+      "audio": false
+    },
+    "en": {
+      "text": "He flew away",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он слишком много спит",
+      "audio": false
+    },
+    "en": {
+      "text": "He sleeps too much",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я хочу немного расслабиться",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to relax a bit",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Кто написал эту книгу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who wrote this book?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Я знаю, что могу сделать это лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that I can do it better",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Она перезвонила мне",
+      "audio": false
+    },
+    "en": {
+      "text": "She called me back",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Я могу бежать намного быстрее",
+      "audio": false
+    },
+    "en": {
+      "text": "I can run much faster",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Он вернулся в Америку прошлым летом",
+      "audio": false
+    },
+    "en": {
+      "text": "He returned to America last summer",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Это требует постоянной работы",
+      "audio": false
+    },
+    "en": {
+      "text": "It requires constant work",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Он в основном слушал поп-музыку",
+      "audio": false
+    },
+    "en": {
+      "text": "He mostly listened to pop music",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Он собирал марки",
+      "audio": false
+    },
+    "en": {
+      "text": "He collected stamps",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Он извинился за свои слова",
+      "audio": false
+    },
+    "en": {
+      "text": "He apologised for his words",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я написал ему имейл",
+      "audio": false
+    },
+    "en": {
+      "text": "I wrote him an email",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Мы можем сосредоточиться на этой проблеме",
+      "audio": false
+    },
+    "en": {
+      "text": "We can concentrate on this problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Когда ты хочешь обсудить это?",
+      "audio": false
+    },
+    "en": {
+      "text": "When do you want to discuss it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Это действительно зависит от меня?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it really depend on me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Эта квартира принадлежит его родителям",
+      "audio": false
+    },
+    "en": {
+      "text": "This apartment belongs to his parents",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Ты умеешь говорить по-английски?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you speak English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Они построили церковь в этой области",
+      "audio": false
+    },
+    "en": {
+      "text": "They built a church in this area",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Ты хочешь танцевать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to dance?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Мы могли бы обсудить это сегодня вечером",
+      "audio": false
+    },
+    "en": {
+      "text": "We could discuss it tonight",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Мне нужно поговорить с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to talk to you",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Этот дом принадлежит тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this house belong to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Он снял все деньги со своего счета",
+      "audio": false
+    },
+    "en": {
+      "text": "He withdrew all the money from his account",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Он собирал древние монеты, когда был мальчиком",
+      "audio": false
+    },
+    "en": {
+      "text": "He collected ancient coins when he was a boy",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Они построили этот монастырь в пятнадцатом веке",
+      "audio": false
+    },
+    "en": {
+      "text": "They built this monastery in the fifteenth century",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Он решил купить дом вместо квартиры",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided to buy a house instead of an apartment",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Представление действительно впечатлило меня",
+      "audio": false
+    },
+    "en": {
+      "text": "The performance really impressed me",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Он не может представить свою жизнь без спорта",
+      "audio": false
+    },
+    "en": {
+      "text": "He can't imagine his life without sport",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Что он тебе посоветовал сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did he advise you to do?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я не хочу что-либо обещать",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't want to promise anything",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Она попросила помощи",
+      "audio": false
+    },
+    "en": {
+      "text": "She asked for help",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Учитель указал на его ошибки",
+      "audio": false
+    },
+    "en": {
+      "text": "The teacher pointed out his mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Твой учитель указал на твои ошибки?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did your teacher point out your mistakes?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я указал на ее ошибки",
+      "audio": false
+    },
+    "en": {
+      "text": "I pointed out her mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Эта вещь не зависит от меня",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing doesn't depend on me",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Эта вещь зависит от меня?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this thing depend on me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Это не зависит от моего решения",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't depend on my decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Он выучил этот текст наизусть",
+      "audio": false
+    },
+    "en": {
+      "text": "He learnt this text by heart",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Он выучил этот текст наизусть?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did he learn this text by heart?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я не хочу учить тот текст наизусть",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't want to learn that text by heart",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Они наконец разрешили этот конфликт",
+      "audio": false
+    },
+    "en": {
+      "text": "They finally resolved this conflict",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Они наконец разрешат этот конфликт",
+      "audio": false
+    },
+    "en": {
+      "text": "They’ll finally resolve this conflict",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я наконец решил эту проблему",
+      "audio": false
+    },
+    "en": {
+      "text": "I finally solved this problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я хотел бы отметить, что это действительно удивительно",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to point out that it's really amazing",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Он хотел бы отметить, что это было так удивительно",
+      "audio": false
+    },
+    "en": {
+      "text": "He'd like to point out that it was so amazing",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Они отметили, что это было так удивительно",
+      "audio": false
+    },
+    "en": {
+      "text": "They pointed out that it was so amazing",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Он обещал взять это под контроль",
+      "audio": false
+    },
+    "en": {
+      "text": "He promised to take it under control",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Ты обещаешь взять это под контроль?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you promise to take it under control?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Он решил взять это под контроль",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided to take it under control",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я смогу заработать эти деньги?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will I be able to earn this money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я смогу заработать эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "I’ll be able to earn this money",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Ты сможешь заработать так много денег?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you be able to earn so much money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Результат этой игры меня так сильно шокировал",
+      "audio": false
+    },
+    "en": {
+      "text": "The result of this game shocked me so much",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Эти результаты действительно шокировали их",
+      "audio": false
+    },
+    "en": {
+      "text": "These results really shocked them",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Ты можешь объяснить эту вещь мне?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you explain this thing to me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я не могу объяснить эту вещь тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't explain this thing to you",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Ты можешь показать это видео мне?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you show this video to me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я думаю, я куплю квартиру вместо дома",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I'll buy an apartment instead of a house",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я решил купить квартиру вместо дома",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to buy an apartment instead of a house",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Ты купишь квартиру вместо этого дома?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you buy an apartment instead of this house?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Я перезвоню тебе через пару минут",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll call you back in a couple of minutes",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Те новости действительно шокировали тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did that news really shock you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Как ты разрешил этот конфликт?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you resolve this conflict?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я думаю, тебе нужно немного отдохнуть",
+      "audio": false
+    },
+    "en": {
+      "text": "I think you need to relax a little",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я снял эти деньги со своего счета",
+      "audio": false
+    },
+    "en": {
+      "text": "I withdrew this money from my account",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Она попросила меня задать тебе этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "She asked me to ask you this question",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Она посоветовала мне не делать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "She advised me not to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Он ненавидит делать такого рода вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "He hates doing this sort of things",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Мне нужно некоторое время, чтобы сосредоточиться",
+      "audio": false
+    },
+    "en": {
+      "text": "I need some time to concentrate",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Он знает, что она может умереть скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "He knows that she can die soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Я сдал тест успешно",
+      "audio": false
+    },
+    "en": {
+      "text": "I passed the test successfully",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Я действительно ненавижу делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I really hate doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Я могу объяснить это тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I can explain it to you",
+      "audio": false
+    }
   }
 ]

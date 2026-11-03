@@ -1,107 +1,233 @@
 [
   {
-    "_id": 1,
-    "ru": "Это производится в Италии",
-    "en": "It's produced in Italy"
+    "id": 1,
+    "ru": {
+      "text": "Это производится в Италии",
+      "audio": false
+    },
+    "en": {
+      "text": "It's produced in Italy",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Этот товар продается очень дорого",
-    "en": "These goods are sold very expensively"
+    "id": 2,
+    "ru": {
+      "text": "Этот товар продается очень дорого",
+      "audio": false
+    },
+    "en": {
+      "text": "These goods are sold very expensively",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Это было сделано ими",
-    "en": "It was done by them"
+    "id": 3,
+    "ru": {
+      "text": "Это было сделано ими",
+      "audio": false
+    },
+    "en": {
+      "text": "It was done by them",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Это было сделано им",
-    "en": "It was done by him"
+    "id": 4,
+    "ru": {
+      "text": "Это было сделано им",
+      "audio": false
+    },
+    "en": {
+      "text": "It was done by him",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Этот дом был построен в прошлом году",
-    "en": "This house was built last year"
+    "id": 5,
+    "ru": {
+      "text": "Этот дом был построен в прошлом году",
+      "audio": false
+    },
+    "en": {
+      "text": "This house was built last year",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Слишком мало делается, чтобы изменить текущую ситуацию",
-    "en": "Too little is done to change the current situation"
+    "id": 6,
+    "ru": {
+      "text": "Слишком мало делается, чтобы изменить текущую ситуацию",
+      "audio": false
+    },
+    "en": {
+      "text": "Too little is done to change the current situation",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Эти ошибки были исправлены",
-    "en": "These mistakes were corrected"
+    "id": 7,
+    "ru": {
+      "text": "Эти ошибки были исправлены",
+      "audio": false
+    },
+    "en": {
+      "text": "These mistakes were corrected",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Все делается очень медленно",
-    "en": "Everything is done very slowly"
+    "id": 8,
+    "ru": {
+      "text": "Все делается очень медленно",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything is done very slowly",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Эта проблема скоро будет решена",
-    "en": "This problem will be solved soon"
+    "id": 9,
+    "ru": {
+      "text": "Эта проблема скоро будет решена",
+      "audio": false
+    },
+    "en": {
+      "text": "This problem will be solved soon",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Эту ошибку не заметили",
-    "en": "This mistake wasn't noticed"
+    "id": 10,
+    "ru": {
+      "text": "Эту ошибку не заметили",
+      "audio": false
+    },
+    "en": {
+      "text": "This mistake wasn't noticed",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Это было сделано мною",
-    "en": "It was done by me"
+    "id": 11,
+    "ru": {
+      "text": "Это было сделано мною",
+      "audio": false
+    },
+    "en": {
+      "text": "It was done by me",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Это было произведено в Китае",
-    "en": "It was produced in China"
+    "id": 12,
+    "ru": {
+      "text": "Это было произведено в Китае",
+      "audio": false
+    },
+    "en": {
+      "text": "It was produced in China",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Это будет упомянуто позже",
-    "en": "It'll be mentioned later"
+    "id": 13,
+    "ru": {
+      "text": "Это будет упомянуто позже",
+      "audio": false
+    },
+    "en": {
+      "text": "It'll be mentioned later",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Это часто обсуждают",
-    "en": "It's often discussed"
+    "id": 14,
+    "ru": {
+      "text": "Это часто обсуждают",
+      "audio": false
+    },
+    "en": {
+      "text": "It's often discussed",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Его критикуют очень часто",
-    "en": "He's criticized very often"
+    "id": 15,
+    "ru": {
+      "text": "Его критикуют очень часто",
+      "audio": false
+    },
+    "en": {
+      "text": "He's criticized very often",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Меня похвалили",
-    "en": "I was praised"
+    "id": 16,
+    "ru": {
+      "text": "Меня похвалили",
+      "audio": false
+    },
+    "en": {
+      "text": "I was praised",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Это делается в Японии",
-    "en": "It's made in Japan"
+    "id": 17,
+    "ru": {
+      "text": "Это делается в Японии",
+      "audio": false
+    },
+    "en": {
+      "text": "It's made in Japan",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Это будет сделано чуть позже",
-    "en": "It'll be done a bit later"
+    "id": 18,
+    "ru": {
+      "text": "Это будет сделано чуть позже",
+      "audio": false
+    },
+    "en": {
+      "text": "It'll be done a bit later",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Это делается в Китае",
-    "en": "It's made in China"
+    "id": 19,
+    "ru": {
+      "text": "Это делается в Китае",
+      "audio": false
+    },
+    "en": {
+      "text": "It's made in China",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Их там видели",
-    "en": "They were seen there"
+    "id": 20,
+    "ru": {
+      "text": "Их там видели",
+      "audio": false
+    },
+    "en": {
+      "text": "They were seen there",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Это продается очень дешево",
-    "en": "It’s sold very cheaply"
+    "id": 21,
+    "ru": {
+      "text": "Это продается очень дешево",
+      "audio": false
+    },
+    "en": {
+      "text": "It’s sold very cheaply",
+      "audio": false
+    }
   }
 ]

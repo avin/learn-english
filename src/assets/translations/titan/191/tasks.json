@@ -1,432 +1,948 @@
 [
   {
-    "_id": 1,
-    "ru": "Эти цифры недостаточно точные",
-    "en": "These figures aren't accurate enough"
-  },
-  {
-    "_id": 2,
-    "ru": "Это официальное заявление?",
-    "en": "Is it an official statement?"
-  },
-  {
-    "_id": 3,
-    "ru": "Это такой странный и нелогичный вывод",
-    "en": "It's such a strange and illogical conclusion"
-  },
-  {
-    "_id": 4,
-    "ru": "Он очень осведомленный человек",
-    "en": "He is a very knowledgeable person"
-  },
-  {
-    "_id": 5,
-    "ru": "Я хочу быть кратким",
-    "en": "I want to be brief"
-  },
-  {
-    "_id": 6,
-    "ru": "Если ты сейчас выйдешь, ты можешь промокнуть",
-    "en": "If you go out now, you can get wet"
-  },
-  {
-    "_id": 7,
-    "ru": "Эта болезнь больше не опасна",
-    "en": "This disease isn't dangerous anymore"
-  },
-  {
-    "_id": 8,
-    "ru": "Кто отсутствовал вчера?",
-    "en": "Who was absent yesterday?"
-  },
-  {
-    "_id": 9,
-    "ru": "Вчера было очень облачно",
-    "en": "It was very cloudy yesterday"
-  },
-  {
-    "_id": 10,
-    "ru": "Это идеальный дом для меня",
-    "en": "It is an ideal house for me"
-  },
-  {
-    "_id": 11,
-    "ru": "Это была такая глупая ошибка",
-    "en": "It was such a silly mistake"
-  },
-  {
-    "_id": 12,
-    "ru": "Условия их жизни далеки от идеальных",
-    "en": "Their living conditions are far from ideal"
-  },
-  {
-    "_id": 13,
-    "ru": "Мы скоро столкнемся с глобальными изменениями",
-    "en": "We will face global changes soon"
-  },
-  {
-    "_id": 14,
-    "ru": "Это было действительно потрясающе!",
-    "en": "It was really awesome!"
-  },
-  {
-    "_id": 15,
-    "ru": "Почему ты такой задумчивый?",
-    "en": "Why are you so thoughtful?"
-  },
-  {
-    "_id": 16,
-    "ru": "У нее очень нежная кожа",
-    "en": "She has very soft skin"
-  },
-  {
-    "_id": 17,
-    "ru": "Какое потрясающее зрелище!",
-    "en": "What an awesome sight!"
-  },
-  {
-    "_id": 18,
-    "ru": "Сейчас облачно",
-    "en": "It is cloudy"
-  },
-  {
-    "_id": 19,
-    "ru": "Это может привести к глобальному финансовому кризису",
-    "en": "It can lead to a global financial crisis"
-  },
-  {
-    "_id": 20,
-    "ru": "На улице мокро?",
-    "en": "Is it wet outside?"
-  },
-  {
-    "_id": 21,
-    "ru": "Эта болезнь больше не опасна",
-    "en": "This illness isn't dangerous any longer"
-  },
-  {
-    "_id": 22,
-    "ru": "Это одна из его прошлых ошибок",
-    "en": "It is one of his past mistakes"
-  },
-  {
-    "_id": 23,
-    "ru": "У нее большая семья",
-    "en": "She has a large family"
-  },
-  {
-    "_id": 24,
-    "ru": "Тебе нравится оранжевый цвет?",
-    "en": "Do you like orange colour?"
-  },
-  {
-    "_id": 25,
-    "ru": "Я постараюсь быть более точным в следующий раз",
-    "en": "I will try to be more accurate next time"
-  },
-  {
-    "_id": 26,
-    "ru": "Я нахожу эту книгу действительно скучной",
-    "en": "I find this book really boring"
-  },
-  {
-    "_id": 27,
-    "ru": "Это лежит на гладкой поверхности",
-    "en": "It lies on a smooth surface"
-  },
-  {
-    "_id": 28,
-    "ru": "Это была очень короткая встреча",
-    "en": "It was a very brief meeting"
-  },
-  {
-    "_id": 29,
-    "ru": "Я не готов сделать это в данный момент",
-    "en": "I'm not ready to do it at the moment"
-  },
-  {
-    "_id": 30,
-    "ru": "Мы можем сделать это в другой раз",
-    "en": "We can do it another time"
-  },
-  {
-    "_id": 31,
-    "ru": "Та же вещь происходит снова и снова",
-    "en": "The same thing happens again and again"
-  },
-  {
-    "_id": 32,
-    "ru": "Ты действительно уверен во всем этом?",
-    "en": "Are you really sure about all this?"
-  },
-  {
-    "_id": 33,
-    "ru": "Это для мягкой и гладкой кожи",
-    "en": "It is for soft and smooth skin"
-  },
-  {
-    "_id": 34,
-    "ru": "Я могу сказать это из прошлого опыта",
-    "en": "I can say it from past experience"
-  },
-  {
-    "_id": 35,
-    "ru": "Директор был очень задумчивым вчера",
-    "en": "The director was very thoughtful yesterday"
-  },
-  {
-    "_id": 36,
-    "ru": "Этот вывод кажется нелогичным",
-    "en": "This conclusion seems illogical"
-  },
-  {
-    "_id": 37,
-    "ru": "Он был не уверен в этом",
-    "en": "He was unsure about it"
-  },
-  {
-    "_id": 38,
-    "ru": "Есть какой-либо альтернативный метод?",
-    "en": "Is there any alternative method?"
-  },
-  {
-    "_id": 39,
-    "ru": "У моего друга есть другая точка зрения на этот вопрос",
-    "en": "My friend has another point of view on this matter"
-  },
-  {
-    "_id": 40,
-    "ru": "Существуют различные способы решения этой проблемы",
-    "en": "There are various ways of solving this problem"
-  },
-  {
-    "_id": 41,
-    "ru": "Он знает, что ему нужно быть более терпеливым",
-    "en": "He knows that he needs to be more patient"
-  },
-  {
-    "_id": 42,
-    "ru": "Там была маленькая техническая проблема",
-    "en": "There was a small technical problem"
-  },
-  {
-    "_id": 43,
-    "ru": "Я абсолютно уверен, что это неизбежно",
-    "en": "I am absolutely certain that it is inevitable"
-  },
-  {
-    "_id": 44,
-    "ru": "Он один из самых богатых людей в мире",
-    "en": "He is one of the richest people in the world"
-  },
-  {
-    "_id": 45,
-    "ru": "Кажется логичным попытаться сделать это еще раз",
-    "en": "It seems logical to try to do it one more time"
-  },
-  {
-    "_id": 46,
-    "ru": "Об этом говорится в официальном документе",
-    "en": "It is said in an official document"
-  },
-  {
-    "_id": 47,
-    "ru": "Об этом говорилось в официальном заявлении",
-    "en": "It was said in an official statement"
-  },
-  {
-    "_id": 48,
-    "ru": "Это написано в официальном документе",
-    "en": "It is written in an official document"
-  },
-  {
-    "_id": 49,
-    "ru": "Я привык к этим условиям",
-    "en": "I am used to these conditions"
-  },
-  {
-    "_id": 50,
-    "ru": "Я не привык к тем условиям",
-    "en": "I am not used to those conditions"
-  },
-  {
-    "_id": 51,
-    "ru": "Я привык к этим вещам",
-    "en": "I am used to these things"
-  },
-  {
-    "_id": 52,
-    "ru": "Только богатые люди могут позволить себе это сделать",
-    "en": "Only rich people can afford to do it"
-  },
-  {
-    "_id": 53,
-    "ru": "Только миллионеры могут позволить себе купить это",
-    "en": "Only millionaires can afford to buy it"
-  },
-  {
-    "_id": 54,
-    "ru": "Только богатые люди могут позволить себе жить там",
-    "en": "Only rich people can afford to live there"
-  },
-  {
-    "_id": 55,
-    "ru": "Я думаю, это совершенно нормально",
-    "en": "I think it is perfectly normal"
-  },
-  {
-    "_id": 56,
-    "ru": "Я уверен, что это действительно нормально",
-    "en": "I'm sure that it is really normal"
-  },
-  {
-    "_id": 57,
-    "ru": "Я думаю это ненормально",
-    "en": "I think it isn't normal"
-  },
-  {
-    "_id": 58,
-    "ru": "Кто будет отсутствовать завтра?",
-    "en": "Who will be absent tomorrow?"
-  },
-  {
-    "_id": 59,
-    "ru": "Я буду отсутствовать завтра",
-    "en": "I will be absent tomorrow"
-  },
-  {
-    "_id": 60,
-    "ru": "Кто будет присутствовать завтра?",
-    "en": "Who will be present tomorrow?"
-  },
-  {
-    "_id": 61,
-    "ru": "Он сделал много глупых ошибок",
-    "en": "He made lots of silly mistakes"
-  },
-  {
-    "_id": 62,
-    "ru": "Он сделал много глупых ошибок",
-    "en": "He made many silly mistakes"
-  },
-  {
-    "_id": 63,
-    "ru": "Он сделал много грамматических ошибок",
-    "en": "He made lots of grammar mistakes"
-  },
-  {
-    "_id": 64,
-    "ru": "Он был очень недружелюбен к ним",
-    "en": "He was very unfriendly to them"
-  },
-  {
-    "_id": 65,
-    "ru": "Он был очень дружелюбен со мной",
-    "en": "He was very friendly to me"
-  },
-  {
-    "_id": 66,
-    "ru": "Он был дружелюбен с ними?",
-    "en": "Was he friendly to them?"
-  },
-  {
-    "_id": 67,
-    "ru": "Этот стул не такой мягкий, как тот",
-    "en": "This chair isn't as soft as that one"
-  },
-  {
-    "_id": 68,
-    "ru": "Тот диван не такой мягкий, как этот",
-    "en": "That sofa isn't as soft as this one"
-  },
-  {
-    "_id": 69,
-    "ru": "Этот стул мягче, чем тот",
-    "en": "This chair is softer than that one"
-  },
-  {
-    "_id": 70,
-    "ru": "Это относительно большой дом",
-    "en": "It is a relatively large house"
-  },
-  {
-    "_id": 71,
-    "ru": "Это относительно новый дом",
-    "en": "It is a relatively new house"
-  },
-  {
-    "_id": 72,
-    "ru": "Это очень большой дом",
-    "en": "It is a very big house"
-  },
-  {
-    "_id": 73,
-    "ru": "Это чрезвычайно полезный ресурс",
-    "en": "It is an extremely useful resource"
-  },
-  {
-    "_id": 74,
-    "ru": "Это чрезвычайно бесполезный урок",
-    "en": "It is an extremely useless lesson"
-  },
-  {
-    "_id": 75,
-    "ru": "Это чрезвычайно полезный курс",
-    "en": "It is an extremely useful course"
-  },
-  {
-    "_id": 76,
-    "ru": "Это было логичное решение такой проблемы",
-    "en": "It was a logical solution Is there problem"
-  },
-  {
-    "_id": 77,
-    "ru": "Я согласен с тобой в определенной степени",
-    "en": "I agree with you to a certain degree"
-  },
-  {
-    "_id": 78,
-    "ru": "Это самая скучная лекция, которую я когда-либо слышал",
-    "en": "It is the most boring lecture I have ever heard"
-  },
-  {
-    "_id": 79,
-    "ru": "Я не уверен, правильно это или неправильно",
-    "en": "I am unsure whether it's right or wrong"
-  },
-  {
-    "_id": 80,
-    "ru": "Я хочу иметь тот же уровень, что и он",
-    "en": "I want to have the same level as him"
-  },
-  {
-    "_id": 81,
-    "ru": "Он хочет зарабатывать те же деньги, что и она",
-    "en": "He wants to earn the same money as her"
-  },
-  {
-    "_id": 82,
-    "ru": "Я получил очень странный ответ на свой вопрос",
-    "en": "I got a very strange answer to my question"
-  },
-  {
-    "_id": 83,
-    "ru": "Он очень подозрительно относится к своим коллегам",
-    "en": "He is very suspicious of his colleagues"
-  },
-  {
-    "_id": 84,
-    "ru": "Этот человек хочет вести нормальную жизнь",
-    "en": "This man wants to lead a normal life"
-  },
-  {
-    "_id": 85,
-    "ru": "Я с ним согласен в какой-то степени",
-    "en": "I agree with him to a certain extent"
-  },
-  {
-    "_id": 86,
-    "ru": "Честно говоря, я не готов к этому",
-    "en": "To tell the truth, I'm not ready for it"
+    "id": 1,
+    "ru": {
+      "text": "Эти цифры недостаточно точные",
+      "audio": false
+    },
+    "en": {
+      "text": "These figures aren't accurate enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Это официальное заявление?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it an official statement?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Это такой странный и нелогичный вывод",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such a strange and illogical conclusion",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Он очень осведомленный человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a very knowledgeable person",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я хочу быть кратким",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to be brief",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Если ты сейчас выйдешь, ты можешь промокнуть",
+      "audio": false
+    },
+    "en": {
+      "text": "If you go out now, you can get wet",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Эта болезнь больше не опасна",
+      "audio": false
+    },
+    "en": {
+      "text": "This disease isn't dangerous anymore",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Кто отсутствовал вчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was absent yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Вчера было очень облачно",
+      "audio": false
+    },
+    "en": {
+      "text": "It was very cloudy yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Это идеальный дом для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It is an ideal house for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Это была такая глупая ошибка",
+      "audio": false
+    },
+    "en": {
+      "text": "It was such a silly mistake",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Условия их жизни далеки от идеальных",
+      "audio": false
+    },
+    "en": {
+      "text": "Their living conditions are far from ideal",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Мы скоро столкнемся с глобальными изменениями",
+      "audio": false
+    },
+    "en": {
+      "text": "We will face global changes soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Это было действительно потрясающе!",
+      "audio": false
+    },
+    "en": {
+      "text": "It was really awesome!",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Почему ты такой задумчивый?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why are you so thoughtful?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "У нее очень нежная кожа",
+      "audio": false
+    },
+    "en": {
+      "text": "She has very soft skin",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Какое потрясающее зрелище!",
+      "audio": false
+    },
+    "en": {
+      "text": "What an awesome sight!",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Сейчас облачно",
+      "audio": false
+    },
+    "en": {
+      "text": "It is cloudy",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Это может привести к глобальному финансовому кризису",
+      "audio": false
+    },
+    "en": {
+      "text": "It can lead to a global financial crisis",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "На улице мокро?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it wet outside?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Эта болезнь больше не опасна",
+      "audio": false
+    },
+    "en": {
+      "text": "This illness isn't dangerous any longer",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это одна из его прошлых ошибок",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of his past mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "У нее большая семья",
+      "audio": false
+    },
+    "en": {
+      "text": "She has a large family",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Тебе нравится оранжевый цвет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like orange colour?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Я постараюсь быть более точным в следующий раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I will try to be more accurate next time",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я нахожу эту книгу действительно скучной",
+      "audio": false
+    },
+    "en": {
+      "text": "I find this book really boring",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Это лежит на гладкой поверхности",
+      "audio": false
+    },
+    "en": {
+      "text": "It lies on a smooth surface",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Это была очень короткая встреча",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a very brief meeting",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Я не готов сделать это в данный момент",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not ready to do it at the moment",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Мы можем сделать это в другой раз",
+      "audio": false
+    },
+    "en": {
+      "text": "We can do it another time",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Та же вещь происходит снова и снова",
+      "audio": false
+    },
+    "en": {
+      "text": "The same thing happens again and again",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Ты действительно уверен во всем этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you really sure about all this?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Это для мягкой и гладкой кожи",
+      "audio": false
+    },
+    "en": {
+      "text": "It is for soft and smooth skin",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я могу сказать это из прошлого опыта",
+      "audio": false
+    },
+    "en": {
+      "text": "I can say it from past experience",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Директор был очень задумчивым вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "The director was very thoughtful yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Этот вывод кажется нелогичным",
+      "audio": false
+    },
+    "en": {
+      "text": "This conclusion seems illogical",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Он был не уверен в этом",
+      "audio": false
+    },
+    "en": {
+      "text": "He was unsure about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Есть какой-либо альтернативный метод?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is there any alternative method?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "У моего друга есть другая точка зрения на этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend has another point of view on this matter",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Существуют различные способы решения этой проблемы",
+      "audio": false
+    },
+    "en": {
+      "text": "There are various ways of solving this problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Он знает, что ему нужно быть более терпеливым",
+      "audio": false
+    },
+    "en": {
+      "text": "He knows that he needs to be more patient",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Там была маленькая техническая проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "There was a small technical problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я абсолютно уверен, что это неизбежно",
+      "audio": false
+    },
+    "en": {
+      "text": "I am absolutely certain that it is inevitable",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Он один из самых богатых людей в мире",
+      "audio": false
+    },
+    "en": {
+      "text": "He is one of the richest people in the world",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Кажется логичным попытаться сделать это еще раз",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems logical to try to do it one more time",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Об этом говорится в официальном документе",
+      "audio": false
+    },
+    "en": {
+      "text": "It is said in an official document",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Об этом говорилось в официальном заявлении",
+      "audio": false
+    },
+    "en": {
+      "text": "It was said in an official statement",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Это написано в официальном документе",
+      "audio": false
+    },
+    "en": {
+      "text": "It is written in an official document",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я привык к этим условиям",
+      "audio": false
+    },
+    "en": {
+      "text": "I am used to these conditions",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я не привык к тем условиям",
+      "audio": false
+    },
+    "en": {
+      "text": "I am not used to those conditions",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я привык к этим вещам",
+      "audio": false
+    },
+    "en": {
+      "text": "I am used to these things",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Только богатые люди могут позволить себе это сделать",
+      "audio": false
+    },
+    "en": {
+      "text": "Only rich people can afford to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Только миллионеры могут позволить себе купить это",
+      "audio": false
+    },
+    "en": {
+      "text": "Only millionaires can afford to buy it",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Только богатые люди могут позволить себе жить там",
+      "audio": false
+    },
+    "en": {
+      "text": "Only rich people can afford to live there",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я думаю, это совершенно нормально",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it is perfectly normal",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я уверен, что это действительно нормально",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure that it is really normal",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я думаю это ненормально",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it isn't normal",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Кто будет отсутствовать завтра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will be absent tomorrow?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я буду отсутствовать завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I will be absent tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Кто будет присутствовать завтра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will be present tomorrow?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он сделал много глупых ошибок",
+      "audio": false
+    },
+    "en": {
+      "text": "He made lots of silly mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Он сделал много глупых ошибок",
+      "audio": false
+    },
+    "en": {
+      "text": "He made many silly mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Он сделал много грамматических ошибок",
+      "audio": false
+    },
+    "en": {
+      "text": "He made lots of grammar mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он был очень недружелюбен к ним",
+      "audio": false
+    },
+    "en": {
+      "text": "He was very unfriendly to them",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Он был очень дружелюбен со мной",
+      "audio": false
+    },
+    "en": {
+      "text": "He was very friendly to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Он был дружелюбен с ними?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was he friendly to them?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Этот стул не такой мягкий, как тот",
+      "audio": false
+    },
+    "en": {
+      "text": "This chair isn't as soft as that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Тот диван не такой мягкий, как этот",
+      "audio": false
+    },
+    "en": {
+      "text": "That sofa isn't as soft as this one",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Этот стул мягче, чем тот",
+      "audio": false
+    },
+    "en": {
+      "text": "This chair is softer than that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Это относительно большой дом",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a relatively large house",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Это относительно новый дом",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a relatively new house",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Это очень большой дом",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a very big house",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Это чрезвычайно полезный ресурс",
+      "audio": false
+    },
+    "en": {
+      "text": "It is an extremely useful resource",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Это чрезвычайно бесполезный урок",
+      "audio": false
+    },
+    "en": {
+      "text": "It is an extremely useless lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Это чрезвычайно полезный курс",
+      "audio": false
+    },
+    "en": {
+      "text": "It is an extremely useful course",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Это было логичное решение такой проблемы",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a logical solution Is there problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я согласен с тобой в определенной степени",
+      "audio": false
+    },
+    "en": {
+      "text": "I agree with you to a certain degree",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Это самая скучная лекция, которую я когда-либо слышал",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the most boring lecture I have ever heard",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Я не уверен, правильно это или неправильно",
+      "audio": false
+    },
+    "en": {
+      "text": "I am unsure whether it's right or wrong",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я хочу иметь тот же уровень, что и он",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to have the same level as him",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Он хочет зарабатывать те же деньги, что и она",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to earn the same money as her",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я получил очень странный ответ на свой вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I got a very strange answer to my question",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Он очень подозрительно относится к своим коллегам",
+      "audio": false
+    },
+    "en": {
+      "text": "He is very suspicious of his colleagues",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Этот человек хочет вести нормальную жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "This man wants to lead a normal life",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я с ним согласен в какой-то степени",
+      "audio": false
+    },
+    "en": {
+      "text": "I agree with him to a certain extent",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Честно говоря, я не готов к этому",
+      "audio": false
+    },
+    "en": {
+      "text": "To tell the truth, I'm not ready for it",
+      "audio": false
+    }
   }
 ]

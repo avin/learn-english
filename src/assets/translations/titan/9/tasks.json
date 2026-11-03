@@ -1,442 +1,970 @@
 [
   {
-    "_id": 1,
-    "ru": "Ты понимаешь меня?",
-    "en": "Do you understand me?"
-  },
-  {
-    "_id": 2,
-    "ru": "Они покупают это онлайн?",
-    "en": "Do they buy it online?"
-  },
-  {
-    "_id": 3,
-    "ru": "Ты знаешь, как это работает?",
-    "en": "Do you know how it works?"
-  },
-  {
-    "_id": 4,
-    "ru": "Ты знаешь, почему это происходит?",
-    "en": "Do you know why it happens?"
-  },
-  {
-    "_id": 5,
-    "ru": "Ты любишь читать?",
-    "en": "Do you like reading?"
-  },
-  {
-    "_id": 6,
-    "ru": "Ей нравится учиться?",
-    "en": "Does she like studying?"
-  },
-  {
-    "_id": 7,
-    "ru": "У тебя много друзей?",
-    "en": "Do you have many friends?"
-  },
-  {
-    "_id": 8,
-    "ru": "Тебе нравится этот курс?",
-    "en": "Do you like this course?"
-  },
-  {
-    "_id": 9,
-    "ru": "Ты слышишь меня?",
-    "en": "Do you hear me?"
-  },
-  {
-    "_id": 10,
-    "ru": "Ты чувствуешь свой прогресс?",
-    "en": "Do you feel your progress?"
-  },
-  {
-    "_id": 11,
-    "ru": "Ты учишься?",
-    "en": "Do you study?"
-  },
-  {
-    "_id": 12,
-    "ru": "Ты понимаешь меня?",
-    "en": "Do you understand me?"
-  },
-  {
-    "_id": 13,
-    "ru": "Ты часто ходишь в то место?",
-    "en": "Do you often go to that place?"
-  },
-  {
-    "_id": 14,
-    "ru": "Тебе нравится петь?",
-    "en": "Do you like singing?"
-  },
-  {
-    "_id": 15,
-    "ru": "У тебя хорошие результаты?",
-    "en": "Do you have good results?"
-  },
-  {
-    "_id": 16,
-    "ru": "Они поддерживают это?",
-    "en": "Do they support it?"
-  },
-  {
-    "_id": 17,
-    "ru": "Они поддерживают эту идею?",
-    "en": "Do they support this idea?"
-  },
-  {
-    "_id": 18,
-    "ru": "У тебя есть свободное время сейчас?",
-    "en": "Do you have free time now?"
-  },
-  {
-    "_id": 19,
-    "ru": "Тебе нравится эта погода?",
-    "en": "Do you like this weather?"
-  },
-  {
-    "_id": 20,
-    "ru": "Ты тренируешься очень интенсивно?",
-    "en": "Do you train very intensively?"
-  },
-  {
-    "_id": 21,
-    "ru": "Ты видишь это?",
-    "en": "Do you see it?"
-  },
-  {
-    "_id": 22,
-    "ru": "Мы тренируемся интенсивно?",
-    "en": "Do we train intensively?"
-  },
-  {
-    "_id": 23,
-    "ru": "Ты хочешь этого?",
-    "en": "Do you want it?"
-  },
-  {
-    "_id": 24,
-    "ru": "У тебя есть какие-либо планы?",
-    "en": "Do you have any plans?"
-  },
-  {
-    "_id": 25,
-    "ru": "Ты часто ходишь туда?",
-    "en": "Do you often go there?"
-  },
-  {
-    "_id": 26,
-    "ru": "Ты согласен?",
-    "en": "Do you agree?"
-  },
-  {
-    "_id": 27,
-    "ru": "Ты часто видишь это?",
-    "en": "Do you often see it?"
-  },
-  {
-    "_id": 28,
-    "ru": "Ты работаешь?",
-    "en": "Do you work?"
-  },
-  {
-    "_id": 29,
-    "ru": "Ты поддерживаешь ее?",
-    "en": "Do you support her?"
-  },
-  {
-    "_id": 30,
-    "ru": "Ты согласен с этим?",
-    "en": "Do you agree with it?"
-  },
-  {
-    "_id": 31,
-    "ru": "Ты понимаешь это?",
-    "en": "Do you understand it?"
-  },
-  {
-    "_id": 32,
-    "ru": "Тебе нравится этот фильм?",
-    "en": "Do you like this movie?"
-  },
-  {
-    "_id": 33,
-    "ru": "Ты играешь в теннис?",
-    "en": "Do you play tennis?"
-  },
-  {
-    "_id": 34,
-    "ru": "Ты смотришь телевизор?",
-    "en": "Do you watch TV?"
-  },
-  {
-    "_id": 35,
-    "ru": "Я говорю это правильно?",
-    "en": "Do I say it correctly?"
-  },
-  {
-    "_id": 36,
-    "ru": "Ты действительно хочешь это?",
-    "en": "Do you really want it?"
-  },
-  {
-    "_id": 37,
-    "ru": "Ты читаешь по-английски?",
-    "en": "Do you read in English?"
-  },
-  {
-    "_id": 38,
-    "ru": "Ты чувствуешь себя лучше?",
-    "en": "Do you feel better?"
-  },
-  {
-    "_id": 39,
-    "ru": "Ты говоришь по-английски?",
-    "en": "Do you speak English?"
-  },
-  {
-    "_id": 40,
-    "ru": "У тебя есть какие-либо идеи?",
-    "en": "Do you have any ideas?"
-  },
-  {
-    "_id": 41,
-    "ru": "Я говорю по-английски правильно?",
-    "en": "Do I speak English correctly?"
-  },
-  {
-    "_id": 42,
-    "ru": "Тебе нравится читать?",
-    "en": "Do you like reading?"
-  },
-  {
-    "_id": 43,
-    "ru": "Ты понимаешь?",
-    "en": "Do you understand?"
-  },
-  {
-    "_id": 44,
-    "ru": "Им нравится танцевать?",
-    "en": "Do they like dancing?"
-  },
-  {
-    "_id": 45,
-    "ru": "Тебе нравится эта идея?",
-    "en": "Do you like this idea?"
-  },
-  {
-    "_id": 46,
-    "ru": "Тебе нужна моя помощь?",
-    "en": "Do you need my help?"
-  },
-  {
-    "_id": 47,
-    "ru": "Ты работаешь или учишься?",
-    "en": "Do you work or study?"
-  },
-  {
-    "_id": 48,
-    "ru": "Они часто ходят в парк?",
-    "en": "Do they often go to the park?"
-  },
-  {
-    "_id": 49,
-    "ru": "Они покупают это онлайн?",
-    "en": "Do they buy it online?"
-  },
-  {
-    "_id": 50,
-    "ru": "Ты ходишь в кинотеатр?",
-    "en": "Do you go to the cinema?"
-  },
-  {
-    "_id": 51,
-    "ru": "Ты часто делаешь это?",
-    "en": "Do you often do it?"
-  },
-  {
-    "_id": 52,
-    "ru": "Ты платишь за это?",
-    "en": "Do you pay for it?"
-  },
-  {
-    "_id": 53,
-    "ru": "Ты любишь его?",
-    "en": "Do you love him?"
-  },
-  {
-    "_id": 54,
-    "ru": "Ты часто думаешь об этом?",
-    "en": "Do you often think about it?"
-  },
-  {
-    "_id": 55,
-    "ru": "Ты знаешь, как это работает?",
-    "en": "Do you know how it works?"
-  },
-  {
-    "_id": 56,
-    "ru": "Ты часто звонишь ей?",
-    "en": "Do you often call her?"
-  },
-  {
-    "_id": 57,
-    "ru": "Ты знаешь, почему это происходит?",
-    "en": "Do you know why it happens?"
-  },
-  {
-    "_id": 58,
-    "ru": "Они платят за эту услугу?",
-    "en": "Do they pay for this service?"
-  },
-  {
-    "_id": 59,
-    "ru": "Ты говоришь по-китайски?",
-    "en": "Do you speak Chinese?"
-  },
-  {
-    "_id": 60,
-    "ru": "Ты читаешь по-китайски?",
-    "en": "Do you read in Chinese?"
-  },
-  {
-    "_id": 61,
-    "ru": "Они говорят по-английски?",
-    "en": "Do they speak English?"
-  },
-  {
-    "_id": 62,
-    "ru": "Ты часто говоришь об этом?",
-    "en": "Do you often talk about it?"
-  },
-  {
-    "_id": 63,
-    "ru": "Они часто говорят о тебе?",
-    "en": "Do they often talk about you?"
-  },
-  {
-    "_id": 64,
-    "ru": "Ты хочешь учиться за границей?",
-    "en": "Do you want to study abroad?"
-  },
-  {
-    "_id": 65,
-    "ru": "Ты хочешь путешествовать за границей?",
-    "en": "Do you want to travel abroad?"
-  },
-  {
-    "_id": 66,
-    "ru": "Я показываю лучшие результаты?",
-    "en": "Do I show better results?"
-  },
-  {
-    "_id": 67,
-    "ru": "Ты показываешь лучшие результаты?",
-    "en": "Do you show better results?"
-  },
-  {
-    "_id": 68,
-    "ru": "Ты хочешь поехать в Англию?",
-    "en": "Do you want to go to England?"
-  },
-  {
-    "_id": 69,
-    "ru": "Ты часто ходишь в кино?",
-    "en": "Do you often go to the cinema?"
-  },
-  {
-    "_id": 70,
-    "ru": "Ты обычно ходишь в кино?",
-    "en": "Do you usually go to the cinema?"
-  },
-  {
-    "_id": 71,
-    "ru": "Ты часто ходишь в парк?",
-    "en": "Do you often go to the park?"
-  },
-  {
-    "_id": 72,
-    "ru": "Они хотят работать за границей?",
-    "en": "Do they want to work abroad?"
-  },
-  {
-    "_id": 73,
-    "ru": "Они хотят учиться за границей?",
-    "en": "Do they want to study abroad?"
-  },
-  {
-    "_id": 74,
-    "ru": "Ты учишься или работаешь?",
-    "en": "Do you study or work?"
-  },
-  {
-    "_id": 75,
-    "ru": "Они учатся или работают?",
-    "en": "Do they study or work?"
-  },
-  {
-    "_id": 76,
-    "ru": "Я показываю хорошие результаты?",
-    "en": "Do I show good results?"
-  },
-  {
-    "_id": 77,
-    "ru": "Я показываю плохие результаты?",
-    "en": "Do I show bad results?"
-  },
-  {
-    "_id": 78,
-    "ru": "Ты хочешь жить в Англии?",
-    "en": "Do you want to live in England?"
-  },
-  {
-    "_id": 79,
-    "ru": "Ты обычно покупаешь это онлайн?",
-    "en": "Do you usually buy it online?"
-  },
-  {
-    "_id": 80,
-    "ru": "Ты часто читаешь по-английски?",
-    "en": "Do you often read in English?"
-  },
-  {
-    "_id": 81,
-    "ru": "Тебе действительно нравится эта игра?",
-    "en": "Do you really like this game?"
-  },
-  {
-    "_id": 82,
-    "ru": "Ты часто путешествуешь?",
-    "en": "Do you often travel?"
-  },
-  {
-    "_id": 83,
-    "ru": "Ты чувствуешь реальный прогресс?",
-    "en": "Do you feel real progress?"
-  },
-  {
-    "_id": 84,
-    "ru": "Ты любишь ее?",
-    "en": "Do you love her?"
-  },
-  {
-    "_id": 85,
-    "ru": "Ты действительно знаешь китайский?",
-    "en": "Do you really know Chinese?"
-  },
-  {
-    "_id": 86,
-    "ru": "Ты чувствуешь прогресс?",
-    "en": "Do you feel progress?"
-  },
-  {
-    "_id": 87,
-    "ru": "Они хотят купить компьютер?",
-    "en": "Do they want to buy a computer?"
-  },
-  {
-    "_id": 88,
-    "ru": "Ты часто пишешь на английском?",
-    "en": "Do you often write in English?"
+    "id": 1,
+    "ru": {
+      "text": "Ты понимаешь меня?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you understand me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Они покупают это онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they buy it online?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Ты знаешь, как это работает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know how it works?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Ты знаешь, почему это происходит?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know why it happens?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Ты любишь читать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like reading?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Ей нравится учиться?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she like studying?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "У тебя много друзей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have many friends?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Тебе нравится этот курс?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like this course?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Ты слышишь меня?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you hear me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Ты чувствуешь свой прогресс?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you feel your progress?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Ты учишься?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you study?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Ты понимаешь меня?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you understand me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Ты часто ходишь в то место?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often go to that place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Тебе нравится петь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like singing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "У тебя хорошие результаты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have good results?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Они поддерживают это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they support it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Они поддерживают эту идею?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they support this idea?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "У тебя есть свободное время сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have free time now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Тебе нравится эта погода?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like this weather?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Ты тренируешься очень интенсивно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you train very intensively?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Ты видишь это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you see it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Мы тренируемся интенсивно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do we train intensively?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Ты хочешь этого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "У тебя есть какие-либо планы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have any plans?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Ты часто ходишь туда?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often go there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Ты согласен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you agree?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Ты часто видишь это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often see it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Ты работаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Ты поддерживаешь ее?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you support her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Ты согласен с этим?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you agree with it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Ты понимаешь это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you understand it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Тебе нравится этот фильм?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like this movie?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Ты играешь в теннис?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you play tennis?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Ты смотришь телевизор?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you watch TV?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я говорю это правильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do I say it correctly?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Ты действительно хочешь это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you really want it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Ты читаешь по-английски?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you read in English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Ты чувствуешь себя лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you feel better?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Ты говоришь по-английски?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you speak English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "У тебя есть какие-либо идеи?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have any ideas?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я говорю по-английски правильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do I speak English correctly?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Тебе нравится читать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like reading?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Ты понимаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you understand?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Им нравится танцевать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they like dancing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Тебе нравится эта идея?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like this idea?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Тебе нужна моя помощь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you need my help?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Ты работаешь или учишься?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you work or study?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Они часто ходят в парк?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they often go to the park?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Они покупают это онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they buy it online?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Ты ходишь в кинотеатр?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you go to the cinema?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Ты часто делаешь это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Ты платишь за это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you pay for it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Ты любишь его?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you love him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Ты часто думаешь об этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often think about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Ты знаешь, как это работает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know how it works?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Ты часто звонишь ей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often call her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Ты знаешь, почему это происходит?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know why it happens?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Они платят за эту услугу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they pay for this service?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Ты говоришь по-китайски?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you speak Chinese?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Ты читаешь по-китайски?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you read in Chinese?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Они говорят по-английски?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they speak English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Ты часто говоришь об этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often talk about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Они часто говорят о тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they often talk about you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Ты хочешь учиться за границей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to study abroad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Ты хочешь путешествовать за границей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to travel abroad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я показываю лучшие результаты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do I show better results?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Ты показываешь лучшие результаты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you show better results?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Ты хочешь поехать в Англию?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to go to England?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Ты часто ходишь в кино?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often go to the cinema?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Ты обычно ходишь в кино?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you usually go to the cinema?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Ты часто ходишь в парк?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often go to the park?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Они хотят работать за границей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they want to work abroad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Они хотят учиться за границей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they want to study abroad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Ты учишься или работаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you study or work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Они учатся или работают?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they study or work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я показываю хорошие результаты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do I show good results?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я показываю плохие результаты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do I show bad results?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Ты хочешь жить в Англии?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to live in England?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Ты обычно покупаешь это онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you usually buy it online?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Ты часто читаешь по-английски?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often read in English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Тебе действительно нравится эта игра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you really like this game?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Ты часто путешествуешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often travel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Ты чувствуешь реальный прогресс?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you feel real progress?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Ты любишь ее?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you love her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Ты действительно знаешь китайский?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you really know Chinese?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Ты чувствуешь прогресс?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you feel progress?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Они хотят купить компьютер?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they want to buy a computer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Ты часто пишешь на английском?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often write in English?",
+      "audio": false
+    }
   }
 ]

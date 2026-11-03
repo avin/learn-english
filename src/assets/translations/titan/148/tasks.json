@@ -1,507 +1,1113 @@
 [
   {
-    "_id": 1,
-    "ru": "Они не живут вместе?",
-    "en": "Don’t they live together?"
-  },
-  {
-    "_id": 2,
-    "ru": "Ты не счастлив?",
-    "en": "Aren’t you happy?"
-  },
-  {
-    "_id": 3,
-    "ru": "Он не был там?",
-    "en": "Wasn’t he there?"
-  },
-  {
-    "_id": 4,
-    "ru": "Он не жалеет об этом?",
-    "en": "Doesn't he regret it?"
-  },
-  {
-    "_id": 5,
-    "ru": "Тебя не интересует эта вещь?",
-    "en": "Doesn't this thing interest you?"
-  },
-  {
-    "_id": 6,
-    "ru": "Тебе не будет трудно?",
-    "en": "Won't it be difficult for you?"
-  },
-  {
-    "_id": 7,
-    "ru": "Он не ищет работу?",
-    "en": "Isn't he looking for a job?"
-  },
-  {
-    "_id": 8,
-    "ru": "Он не живет один?",
-    "en": "Doesn't he live alone?"
-  },
-  {
-    "_id": 9,
-    "ru": "Тебе это не интересно?",
-    "en": "Isn't it interesting for you?"
-  },
-  {
-    "_id": 10,
-    "ru": "Ты не ждешь этого?",
-    "en": "Aren't you waiting for it?"
-  },
-  {
-    "_id": 11,
-    "ru": "Ты не был там вчера?",
-    "en": "Weren't you there yesterday?"
-  },
-  {
-    "_id": 12,
-    "ru": "Он не может сказать тебе эту вещь прямо?",
-    "en": "Can't he tell you this thing directly?"
-  },
-  {
-    "_id": 13,
-    "ru": "Ты не согласен с этим?",
-    "en": "Don't you agree with it?"
-  },
-  {
-    "_id": 14,
-    "ru": "Ты не поедешь туда завтра?",
-    "en": "Won't you go there tomorrow?"
-  },
-  {
-    "_id": 15,
-    "ru": "Ты этого не знаешь?",
-    "en": "Don't you know it?"
-  },
-  {
-    "_id": 16,
-    "ru": "Она не жалеет об этой вещи?",
-    "en": "Doesn't she regret this thing?"
-  },
-  {
-    "_id": 17,
-    "ru": "Я не прав?",
-    "en": "Am I not right?"
-  },
-  {
-    "_id": 18,
-    "ru": "Почему ты этого не делаешь?",
-    "en": "Why don't you do it?"
-  },
-  {
-    "_id": 19,
-    "ru": "Он не врач?",
-    "en": "Isn't he a doctor?"
-  },
-  {
-    "_id": 20,
-    "ru": "Он не видит этого?",
-    "en": "Doesn't he see it?"
-  },
-  {
-    "_id": 21,
-    "ru": "Он не готов?",
-    "en": "Isn't he ready?"
-  },
-  {
-    "_id": 22,
-    "ru": "Ты не устал?",
-    "en": "Aren't you tired?"
-  },
-  {
-    "_id": 23,
-    "ru": "Тебе не нравится это?",
-    "en": "Don't you like it?"
-  },
-  {
-    "_id": 24,
-    "ru": "Она не профессор?",
-    "en": "Isn't she a professor?"
-  },
-  {
-    "_id": 25,
-    "ru": "Ты не сказал ему эту вещь?",
-    "en": "Didn't you tell him this thing?"
-  },
-  {
-    "_id": 26,
-    "ru": "Он не согласится сделать это?",
-    "en": "Won't he agree to do it?"
-  },
-  {
-    "_id": 27,
-    "ru": "Ты не любишь пиццу?",
-    "en": "Don't you like pizza?"
-  },
-  {
-    "_id": 28,
-    "ru": "Они не счастливы вместе?",
-    "en": "Aren't they happy together?"
-  },
-  {
-    "_id": 29,
-    "ru": "Ты не знаешь этого правила?",
-    "en": "Don't you know this rule?"
-  },
-  {
-    "_id": 30,
-    "ru": "Ты не любишь шоколад?",
-    "en": "Don't you like chocolate?"
-  },
-  {
-    "_id": 31,
-    "ru": "Она этого не понимает?",
-    "en": "Doesn't she understand it?"
-  },
-  {
-    "_id": 32,
-    "ru": "Ей не тринадцать?",
-    "en": "Isn't she thirteen?"
-  },
-  {
-    "_id": 33,
-    "ru": "Ей не нравится эта идея?",
-    "en": "Doesn't she like this idea?"
-  },
-  {
-    "_id": 34,
-    "ru": "Они не живут в одном городе?",
-    "en": "Don't they live in the same city?"
-  },
-  {
-    "_id": 35,
-    "ru": "Ему не будет одиннадцать в этом году?",
-    "en": "Won't he be eleven this year?"
-  },
-  {
-    "_id": 36,
-    "ru": "Она не может сказать это прямо?",
-    "en": "Can't she say it directly?"
-  },
-  {
-    "_id": 37,
-    "ru": "Ей не будет двенадцать в следующем году?",
-    "en": "Won't she be twelve next year?"
-  },
-  {
-    "_id": 38,
-    "ru": "Твои родители не помогают ей?",
-    "en": "Don't your parents help her?"
-  },
-  {
-    "_id": 39,
-    "ru": "Ты не чувствуешь себя уставшим?",
-    "en": "Don't you feel tired?"
-  },
-  {
-    "_id": 40,
-    "ru": "Твоему брату не шестнадцать?",
-    "en": "Isn't your brother sixteen?"
-  },
-  {
-    "_id": 41,
-    "ru": "Разве он не профессор?",
-    "en": "Isn't he a professor?"
-  },
-  {
-    "_id": 42,
-    "ru": "Почему ты не хочешь сделать это?",
-    "en": "Why don't you want to do it?"
-  },
-  {
-    "_id": 43,
-    "ru": "Твоему старшему брату не четырнадцать?",
-    "en": "Isn't your elder brother fourteen?"
-  },
-  {
-    "_id": 44,
-    "ru": "У тебя нет друга, который живет в Англии?",
-    "en": "Don't you have a friend who lives in England?"
-  },
-  {
-    "_id": 45,
-    "ru": "Тебе не хотелось бы жить в таком доме?",
-    "en": "Wouldn't you like to live in such a house?"
-  },
-  {
-    "_id": 46,
-    "ru": "Ты не был в Италии в прошлом месяце?",
-    "en": "Weren't you in Italy last month?"
-  },
-  {
-    "_id": 47,
-    "ru": "Эта сумка не твоя?",
-    "en": "Isn't this bag yours?"
-  },
-  {
-    "_id": 48,
-    "ru": "Эта ошибка не была исправлена?",
-    "en": "Wasn't this mistake corrected?"
-  },
-  {
-    "_id": 49,
-    "ru": "Не лучше было бы сделать это сейчас?",
-    "en": "Wouldn't it be better to do it now?"
-  },
-  {
-    "_id": 50,
-    "ru": "Ты еще не съел обед?",
-    "en": "Haven't you eaten lunch yet?"
-  },
-  {
-    "_id": 51,
-    "ru": "Ей не было семнадцати, когда они познакомились?",
-    "en": "Wasn't she seventeen when they met?"
-  },
-  {
-    "_id": 52,
-    "ru": "Тебе не хотелось бы жить в такой квартире?",
-    "en": "Wouldn't you like to live in such an apartment?"
-  },
-  {
-    "_id": 53,
-    "ru": "Это не сделано в Японии?",
-    "en": "Isn't it made in Japan?"
-  },
-  {
-    "_id": 54,
-    "ru": "Эти цифры не точны?",
-    "en": "Aren't these figures exact?"
-  },
-  {
-    "_id": 55,
-    "ru": "Это не будет скоро объявлено?",
-    "en": "Won't it be announced soon?"
-  },
-  {
-    "_id": 56,
-    "ru": "Ему не было девятнадцати, когда он встретил ее?",
-    "en": "Wasn't he nineteen when he met her?"
-  },
-  {
-    "_id": 57,
-    "ru": "Почему ты его не слушал?",
-    "en": "Why didn't you listen to him?"
-  },
-  {
-    "_id": 58,
-    "ru": "Он не работает менеджером?",
-    "en": "Doesn't he work as a manager?"
-  },
-  {
-    "_id": 59,
-    "ru": "Он не работает тренером?",
-    "en": "Doesn't he work as a trainer?"
-  },
-  {
-    "_id": 60,
-    "ru": "Она не работает учителем?",
-    "en": "Doesn't she work as a teacher?"
-  },
-  {
-    "_id": 61,
-    "ru": "Этот дом не ее?",
-    "en": "Isn't this house hers?"
-  },
-  {
-    "_id": 62,
-    "ru": "Этот дом не твой?",
-    "en": "Isn't this house yours?"
-  },
-  {
-    "_id": 63,
-    "ru": "Этот дом не мой",
-    "en": "This house isn't mine"
-  },
-  {
-    "_id": 64,
-    "ru": "Тебе не следует идти на работу сейчас?",
-    "en": "Shouldn't you go to work now?"
-  },
-  {
-    "_id": 65,
-    "ru": "Ты не пойдешь туда сейчас?",
-    "en": "Won't you go there now?"
-  },
-  {
-    "_id": 66,
-    "ru": "Ты не ходил на работу вчера?",
-    "en": "Didn't you go to work yesterday?"
-  },
-  {
-    "_id": 67,
-    "ru": "Ты там не был?",
-    "en": "Haven't you been there?"
-  },
-  {
-    "_id": 68,
-    "ru": "Она еще не была здесь?",
-    "en": "Hasn't she been here yet?"
-  },
-  {
-    "_id": 69,
-    "ru": "Ты еще не сделал этого?",
-    "en": "Haven't you done it yet?"
-  },
-  {
-    "_id": 70,
-    "ru": "Почему он не может этого сказать?",
-    "en": "Why can't he say it?"
-  },
-  {
-    "_id": 71,
-    "ru": "Почему он не может этого сделать?",
-    "en": "Why can't he do it?"
-  },
-  {
-    "_id": 72,
-    "ru": "Почему она не может встретить его?",
-    "en": "Why can't she meet him?"
-  },
-  {
-    "_id": 73,
-    "ru": "Он не может объяснить это нам?",
-    "en": "Can't he explain it to us?"
-  },
-  {
-    "_id": 74,
-    "ru": "Он не может показать это мне?",
-    "en": "Can't he show it to me?"
-  },
-  {
-    "_id": 75,
-    "ru": "Ты не можешь рекомендовать это нам?",
-    "en": "Can't you recommend it to us?"
-  },
-  {
-    "_id": 76,
-    "ru": "Он не ошибается?",
-    "en": "Isn't he mistaken?"
-  },
-  {
-    "_id": 77,
-    "ru": "Я не был прав?",
-    "en": "Wasn't I right?"
-  },
-  {
-    "_id": 78,
-    "ru": "Ей не повезло?",
-    "en": "Isn't she lucky?"
-  },
-  {
-    "_id": 79,
-    "ru": "Этот сайт не популярен?",
-    "en": "Isn't this site popular?"
-  },
-  {
-    "_id": 80,
-    "ru": "Этот фильм действительно не интересный?",
-    "en": "Isn't this movie really interesting?"
-  },
-  {
-    "_id": 81,
-    "ru": "Эта книга не новая?",
-    "en": "Isn't this book new?"
-  },
-  {
-    "_id": 82,
-    "ru": "У тебя нет наличных?",
-    "en": "Haven't you got cash?"
-  },
-  {
-    "_id": 83,
-    "ru": "У тебя нет денег?",
-    "en": "Haven't you got any money?"
-  },
-  {
-    "_id": 84,
-    "ru": "У тебя нет наличных?",
-    "en": "Don't you have cash?"
-  },
-  {
-    "_id": 85,
-    "ru": "Ты не знаешь, что это правда?",
-    "en": "Don't you know that it's true?"
-  },
-  {
-    "_id": 86,
-    "ru": "Ты не знал, что это была правда?",
-    "en": "Didn't you know that it was true?"
-  },
-  {
-    "_id": 87,
-    "ru": "Ты не знаешь, что это очень плохо?",
-    "en": "Don't you know that it's very bad?"
-  },
-  {
-    "_id": 88,
-    "ru": "Почему вы не откажетесь это сделать?",
-    "en": "Why won't you refuse to do it?"
-  },
-  {
-    "_id": 89,
-    "ru": "Это еще не случилось?",
-    "en": "Hasn't it happened yet?"
-  },
-  {
-    "_id": 90,
-    "ru": "Дети не в школе?",
-    "en": "Aren't the children at school?"
-  },
-  {
-    "_id": 91,
-    "ru": "Ты не хотел бы что-нибудь выпить?",
-    "en": "Wouldn't you like something to drink?"
-  },
-  {
-    "_id": 92,
-    "ru": "Он не может этого понять?",
-    "en": "Can't he understand it?"
-  },
-  {
-    "_id": 93,
-    "ru": "Ты еще не встретил его?",
-    "en": "Haven't you met him yet?"
-  },
-  {
-    "_id": 94,
-    "ru": "Она еще там не была?",
-    "en": "Hasn't she been there yet?"
-  },
-  {
-    "_id": 95,
-    "ru": "Он не может сказать тебе правду?",
-    "en": "Can't he tell you the truth?"
-  },
-  {
-    "_id": 96,
-    "ru": "Ты еще не сказал это?",
-    "en": "Haven't you said it yet?"
-  },
-  {
-    "_id": 97,
-    "ru": "Я не прав?",
-    "en": "Aren't I right?"
-  },
-  {
-    "_id": 98,
-    "ru": "Это не бесплатно?",
-    "en": "Isn't it free?"
-  },
-  {
-    "_id": 99,
-    "ru": "Мне не везет?",
-    "en": "Aren't I lucky?"
-  },
-  {
-    "_id": 100,
-    "ru": "Почему мы не можем этого сделать?",
-    "en": "Why can't we do it?"
-  },
-  {
-    "_id": 101,
-    "ru": "Мне не следует этого делать?",
-    "en": "Shouldn't I do it?"
+    "id": 1,
+    "ru": {
+      "text": "Они не живут вместе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Don’t they live together?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Ты не счастлив?",
+      "audio": false
+    },
+    "en": {
+      "text": "Aren’t you happy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Он не был там?",
+      "audio": false
+    },
+    "en": {
+      "text": "Wasn’t he there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Он не жалеет об этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Doesn't he regret it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Тебя не интересует эта вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Doesn't this thing interest you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Тебе не будет трудно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Won't it be difficult for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Он не ищет работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't he looking for a job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Он не живет один?",
+      "audio": false
+    },
+    "en": {
+      "text": "Doesn't he live alone?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Тебе это не интересно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't it interesting for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Ты не ждешь этого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Aren't you waiting for it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Ты не был там вчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "Weren't you there yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Он не может сказать тебе эту вещь прямо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can't he tell you this thing directly?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Ты не согласен с этим?",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't you agree with it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Ты не поедешь туда завтра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Won't you go there tomorrow?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Ты этого не знаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't you know it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Она не жалеет об этой вещи?",
+      "audio": false
+    },
+    "en": {
+      "text": "Doesn't she regret this thing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я не прав?",
+      "audio": false
+    },
+    "en": {
+      "text": "Am I not right?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Почему ты этого не делаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why don't you do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он не врач?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't he a doctor?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Он не видит этого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Doesn't he see it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Он не готов?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't he ready?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Ты не устал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Aren't you tired?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Тебе не нравится это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't you like it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Она не профессор?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't she a professor?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Ты не сказал ему эту вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Didn't you tell him this thing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Он не согласится сделать это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Won't he agree to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Ты не любишь пиццу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't you like pizza?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Они не счастливы вместе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Aren't they happy together?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Ты не знаешь этого правила?",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't you know this rule?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Ты не любишь шоколад?",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't you like chocolate?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Она этого не понимает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Doesn't she understand it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Ей не тринадцать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't she thirteen?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Ей не нравится эта идея?",
+      "audio": false
+    },
+    "en": {
+      "text": "Doesn't she like this idea?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Они не живут в одном городе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't they live in the same city?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Ему не будет одиннадцать в этом году?",
+      "audio": false
+    },
+    "en": {
+      "text": "Won't he be eleven this year?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Она не может сказать это прямо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can't she say it directly?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Ей не будет двенадцать в следующем году?",
+      "audio": false
+    },
+    "en": {
+      "text": "Won't she be twelve next year?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Твои родители не помогают ей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't your parents help her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Ты не чувствуешь себя уставшим?",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't you feel tired?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Твоему брату не шестнадцать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't your brother sixteen?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Разве он не профессор?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't he a professor?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Почему ты не хочешь сделать это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why don't you want to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Твоему старшему брату не четырнадцать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't your elder brother fourteen?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "У тебя нет друга, который живет в Англии?",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't you have a friend who lives in England?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Тебе не хотелось бы жить в таком доме?",
+      "audio": false
+    },
+    "en": {
+      "text": "Wouldn't you like to live in such a house?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Ты не был в Италии в прошлом месяце?",
+      "audio": false
+    },
+    "en": {
+      "text": "Weren't you in Italy last month?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Эта сумка не твоя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't this bag yours?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Эта ошибка не была исправлена?",
+      "audio": false
+    },
+    "en": {
+      "text": "Wasn't this mistake corrected?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Не лучше было бы сделать это сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Wouldn't it be better to do it now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Ты еще не съел обед?",
+      "audio": false
+    },
+    "en": {
+      "text": "Haven't you eaten lunch yet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Ей не было семнадцати, когда они познакомились?",
+      "audio": false
+    },
+    "en": {
+      "text": "Wasn't she seventeen when they met?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Тебе не хотелось бы жить в такой квартире?",
+      "audio": false
+    },
+    "en": {
+      "text": "Wouldn't you like to live in such an apartment?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Это не сделано в Японии?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't it made in Japan?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Эти цифры не точны?",
+      "audio": false
+    },
+    "en": {
+      "text": "Aren't these figures exact?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Это не будет скоро объявлено?",
+      "audio": false
+    },
+    "en": {
+      "text": "Won't it be announced soon?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Ему не было девятнадцати, когда он встретил ее?",
+      "audio": false
+    },
+    "en": {
+      "text": "Wasn't he nineteen when he met her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Почему ты его не слушал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why didn't you listen to him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Он не работает менеджером?",
+      "audio": false
+    },
+    "en": {
+      "text": "Doesn't he work as a manager?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Он не работает тренером?",
+      "audio": false
+    },
+    "en": {
+      "text": "Doesn't he work as a trainer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Она не работает учителем?",
+      "audio": false
+    },
+    "en": {
+      "text": "Doesn't she work as a teacher?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Этот дом не ее?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't this house hers?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Этот дом не твой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't this house yours?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Этот дом не мой",
+      "audio": false
+    },
+    "en": {
+      "text": "This house isn't mine",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Тебе не следует идти на работу сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Shouldn't you go to work now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Ты не пойдешь туда сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Won't you go there now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Ты не ходил на работу вчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "Didn't you go to work yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Ты там не был?",
+      "audio": false
+    },
+    "en": {
+      "text": "Haven't you been there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Она еще не была здесь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Hasn't she been here yet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Ты еще не сделал этого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Haven't you done it yet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Почему он не может этого сказать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why can't he say it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Почему он не может этого сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why can't he do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Почему она не может встретить его?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why can't she meet him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Он не может объяснить это нам?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can't he explain it to us?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Он не может показать это мне?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can't he show it to me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Ты не можешь рекомендовать это нам?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can't you recommend it to us?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Он не ошибается?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't he mistaken?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я не был прав?",
+      "audio": false
+    },
+    "en": {
+      "text": "Wasn't I right?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Ей не повезло?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't she lucky?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Этот сайт не популярен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't this site popular?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Этот фильм действительно не интересный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't this movie really interesting?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Эта книга не новая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't this book new?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "У тебя нет наличных?",
+      "audio": false
+    },
+    "en": {
+      "text": "Haven't you got cash?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "У тебя нет денег?",
+      "audio": false
+    },
+    "en": {
+      "text": "Haven't you got any money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "У тебя нет наличных?",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't you have cash?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Ты не знаешь, что это правда?",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't you know that it's true?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Ты не знал, что это была правда?",
+      "audio": false
+    },
+    "en": {
+      "text": "Didn't you know that it was true?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Ты не знаешь, что это очень плохо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't you know that it's very bad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Почему вы не откажетесь это сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why won't you refuse to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Это еще не случилось?",
+      "audio": false
+    },
+    "en": {
+      "text": "Hasn't it happened yet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Дети не в школе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Aren't the children at school?",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Ты не хотел бы что-нибудь выпить?",
+      "audio": false
+    },
+    "en": {
+      "text": "Wouldn't you like something to drink?",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Он не может этого понять?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can't he understand it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Ты еще не встретил его?",
+      "audio": false
+    },
+    "en": {
+      "text": "Haven't you met him yet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Она еще там не была?",
+      "audio": false
+    },
+    "en": {
+      "text": "Hasn't she been there yet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Он не может сказать тебе правду?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can't he tell you the truth?",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Ты еще не сказал это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Haven't you said it yet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Я не прав?",
+      "audio": false
+    },
+    "en": {
+      "text": "Aren't I right?",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Это не бесплатно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't it free?",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Мне не везет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Aren't I lucky?",
+      "audio": false
+    }
+  },
+  {
+    "id": 100,
+    "ru": {
+      "text": "Почему мы не можем этого сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why can't we do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 101,
+    "ru": {
+      "text": "Мне не следует этого делать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Shouldn't I do it?",
+      "audio": false
+    }
   }
 ]

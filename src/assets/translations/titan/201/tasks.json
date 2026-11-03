@@ -1,427 +1,937 @@
 [
   {
-    "_id": 1,
-    "ru": "Они отменили ту игру",
-    "en": "They called off that game"
-  },
-  {
-    "_id": 2,
-    "ru": "Она не может его понять",
-    "en": "She can't figure him out"
-  },
-  {
-    "_id": 3,
-    "ru": "Пожалуйста, разбуди меня в 7",
-    "en": "Please, wake me up at 7"
-  },
-  {
-    "_id": 4,
-    "ru": "Я действительно восхищаюсь им",
-    "en": "I really look up to him"
-  },
-  {
-    "_id": 5,
-    "ru": "Она не может его понять",
-    "en": "She can't figure him out"
-  },
-  {
-    "_id": 6,
-    "ru": "Я взял одну книгу и пролистал ее",
-    "en": "I took one book and flicked through it"
-  },
-  {
-    "_id": 7,
-    "ru": "Мой знакомый продолжал говорить об этом",
-    "en": "My acquaintance went on talking about it"
-  },
-  {
-    "_id": 8,
-    "ru": "Я провожу тебя после занятий",
-    "en": "I will see you off after the classes"
-  },
-  {
-    "_id": 9,
-    "ru": "Я действительно серьезно взялся изучать английский язык",
-    "en": "I took up learning English really seriously"
-  },
-  {
-    "_id": 10,
-    "ru": "Я уважаю такого человека",
-    "en": "I look up to such a person"
-  },
-  {
-    "_id": 11,
-    "ru": "Я пролистаю этот журнал, если ты не возражаешь",
-    "en": "I will flick through this magazine if you don't mind"
-  },
-  {
-    "_id": 12,
-    "ru": "Я хотел бы продолжить изучение английского языка здесь",
-    "en": "I would like to go on learning English here"
-  },
-  {
-    "_id": 13,
-    "ru": "Кто возместит эти потери?",
-    "en": "Who will make up for these losses?"
-  },
-  {
-    "_id": 14,
-    "ru": "Я постараюсь компенсировать упущенное время",
-    "en": "I will try to make up for lost time"
-  },
-  {
-    "_id": 15,
-    "ru": "Она открыла письмо и пролистала его",
-    "en": "She opened a letter and flicked through it"
-  },
-  {
-    "_id": 16,
-    "ru": "Я занялся бегом",
-    "en": "I took up jogging"
-  },
-  {
-    "_id": 17,
-    "ru": "Никогда не сдавайся!",
-    "en": "Never give up!"
-  },
-  {
-    "_id": 18,
-    "ru": "Он не может понять, как это работает",
-    "en": "He can't figure out how it works"
-  },
-  {
-    "_id": 19,
-    "ru": "Почему они расстались?",
-    "en": "Why did they split up?"
-  },
-  {
-    "_id": 20,
-    "ru": "Она выбросила это",
-    "en": "She threw it away"
-  },
-  {
-    "_id": 21,
-    "ru": "Что они будут делать, чтобы возместить это?",
-    "en": "What will they do to make up for it?"
-  },
-  {
-    "_id": 22,
-    "ru": "Он не может понять, что делать",
-    "en": "He can't figure out what to do"
-  },
-  {
-    "_id": 23,
-    "ru": "Он проводил ее после вечеринки",
-    "en": "He saw her off after the party"
-  },
-  {
-    "_id": 24,
-    "ru": "Что здесь происходит?",
-    "en": "What's going on here?"
-  },
-  {
-    "_id": 25,
-    "ru": "Я посмотрю это в словаре",
-    "en": "I will look it up in a dictionary"
-  },
-  {
-    "_id": 26,
-    "ru": "Ты можешь выяснить, как сделать это лучше?",
-    "en": "Can you figure out how to do it better?"
-  },
-  {
-    "_id": 27,
-    "ru": "Их брак распался",
-    "en": "Their marriage broke up"
-  },
-  {
-    "_id": 28,
-    "ru": "Он бросил курить пару лет назад",
-    "en": "He gave up smoking a couple of years ago"
-  },
-  {
-    "_id": 29,
-    "ru": "Я посмотрю это слово в словаре",
-    "en": "I will look up this word in a dictionary"
-  },
-  {
-    "_id": 30,
-    "ru": "Почему эта молодая пара распалась?",
-    "en": "Why did this young couple break up?"
-  },
-  {
-    "_id": 31,
-    "ru": "Тебе не следует сдаваться в такой ситуации",
-    "en": "You shouldn't give up in such a situation"
-  },
-  {
-    "_id": 32,
-    "ru": "Я пролистаю этот документ",
-    "en": "I will flick through this document"
-  },
-  {
-    "_id": 33,
-    "ru": "Когда ты начал играть в теннис?",
-    "en": "When did you take up playing tennis?"
-  },
-  {
-    "_id": 34,
-    "ru": "Полиция расследует это убийство",
-    "en": "The police are looking into this murder"
-  },
-  {
-    "_id": 35,
-    "ru": "Я вернусь через минуту",
-    "en": "I will be back in a minute"
-  },
-  {
-    "_id": 36,
-    "ru": "Полиция расследует это преступление",
-    "en": "The police are looking into this crime"
-  },
-  {
-    "_id": 37,
-    "ru": "Его машина внезапно сломалась",
-    "en": "His car broke down all of a sudden"
-  },
-  {
-    "_id": 38,
-    "ru": "Она хотела бы знать, что здесь происходит",
-    "en": "She'd like to know what's going on here"
-  },
-  {
-    "_id": 39,
-    "ru": "Я не мог понять ее",
-    "en": "I couldn't figure her out"
-  },
-  {
-    "_id": 40,
-    "ru": "Она никогда не думала о том, чтобы заняться пением",
-    "en": "She has never thought about taking up singing"
-  },
-  {
-    "_id": 41,
-    "ru": "Я провожу тебя до станции",
-    "en": "I will see you off to the station"
-  },
-  {
-    "_id": 42,
-    "ru": "Я достал тетрадь и пролистал страницы",
-    "en": "I took out a copybook and flicked through the pages"
-  },
-  {
-    "_id": 43,
-    "ru": "У меня было некоторое время, чтобы пролистать тот отчет",
-    "en": "I had some time to flick through that report"
-  },
-  {
-    "_id": 44,
-    "ru": "Это часто выбрасывается",
-    "en": "It is often thrown away"
-  },
-  {
-    "_id": 45,
-    "ru": "Ты выбрасываешь пластик?",
-    "en": "Do you throw away plastic?"
-  },
-  {
-    "_id": 46,
-    "ru": "Такие вещи часто выбрасываются",
-    "en": "Such things are often thrown away"
-  },
-  {
-    "_id": 47,
-    "ru": "Почему он не бросает курить?",
-    "en": "Why doesn't he give up smoking?"
-  },
-  {
-    "_id": 48,
-    "ru": "Почему он не бросает употреблять алкоголь?",
-    "en": "Why doesn't he give up drinking alcohol?"
-  },
-  {
-    "_id": 49,
-    "ru": "Тебе следует бросить курить",
-    "en": "You should give up smoking"
-  },
-  {
-    "_id": 50,
-    "ru": "Он недавно занялся шахматами",
-    "en": "He has taken up chess recently"
-  },
-  {
-    "_id": 51,
-    "ru": "Когда ты занялся шахматами?",
-    "en": "When did you take up playing chess?"
-  },
-  {
-    "_id": 52,
-    "ru": "Я недавно занялся футболом",
-    "en": "I have taken up football recently"
-  },
-  {
-    "_id": 53,
-    "ru": "Он сказал мне не выбрасывать это",
-    "en": "He told me not to throw it away"
-  },
-  {
-    "_id": 54,
-    "ru": "Он не позволил мне это выбросить",
-    "en": "He didn't let me throw it away"
-  },
-  {
-    "_id": 55,
-    "ru": "Я собираюсь выбросить эти вещи",
-    "en": "I'm going to throw these things away"
-  },
-  {
-    "_id": 56,
-    "ru": "Встреча была отменена",
-    "en": "The meeting was called off"
-  },
-  {
-    "_id": 57,
-    "ru": "Презентация была отменена",
-    "en": "The presentation was called off"
-  },
-  {
-    "_id": 58,
-    "ru": "Конференция была отменена?",
-    "en": "Was the conference called off?"
-  },
-  {
-    "_id": 59,
-    "ru": "Будет очень жаль, если они расстанутся",
-    "en": "It will be a real pity if they break up"
-  },
-  {
-    "_id": 60,
-    "ru": "Почему они расстались?",
-    "en": "Why did they break up?"
-  },
-  {
-    "_id": 61,
-    "ru": "Я вернусь через пару минут",
-    "en": "I will be back in a couple of minutes"
-  },
-  {
-    "_id": 62,
-    "ru": "Когда ты вернешься?",
-    "en": "When will you be back?"
-  },
-  {
-    "_id": 63,
-    "ru": "Я вернусь через несколько дней",
-    "en": "I will be back in a few days"
-  },
-  {
-    "_id": 64,
-    "ru": "Он был слишком стеснительным, чтобы пригласить ее на свидание",
-    "en": "He was too shy to ask her out"
-  },
-  {
-    "_id": 65,
-    "ru": "Он слишком устал, чтобы пригласить ее на свидание",
-    "en": "He was too tired to ask her out"
-  },
-  {
-    "_id": 66,
-    "ru": "Ты пригласил ее на свидание?",
-    "en": "Did you ask her out?"
-  },
-  {
-    "_id": 67,
-    "ru": "Его имя было исключено из списка",
-    "en": "His name was left out from the list"
-  },
-  {
-    "_id": 68,
-    "ru": "Это слово было исключено из списка",
-    "en": "This word was left out from the list"
-  },
-  {
-    "_id": 69,
-    "ru": "Ты исключил мое имя из списка?",
-    "en": "Did you leave my name out from the list?"
-  },
-  {
-    "_id": 70,
-    "ru": "Он решил пригласить ее на свидание",
-    "en": "He decided to ask her out"
-  },
-  {
-    "_id": 71,
-    "ru": "Я был так счастлив пригласить ее на свидание",
-    "en": "I was so happy to ask her out"
-  },
-  {
-    "_id": 72,
-    "ru": "Он пригласит меня на свидание?",
-    "en": "Will he ask me out?"
-  },
-  {
-    "_id": 73,
-    "ru": "Ее муж поехал в аэропорт, чтобы проводить ее",
-    "en": "Her husband went to the airport to see her off"
-  },
-  {
-    "_id": 74,
-    "ru": "Менеджеры пообещали разобраться в этом вопросе",
-    "en": "The managers promised to look into this matter"
-  },
-  {
-    "_id": 75,
-    "ru": "Я бросил идею попытаться сделать это еще раз",
-    "en": "I gave up the idea of trying to do it one more time"
-  },
-  {
-    "_id": 76,
-    "ru": "Я не мог понять, почему он это делал",
-    "en": "I couldn't figure out why he was doing it"
-  },
-  {
-    "_id": 77,
-    "ru": "Она начала курить, и это разрушило ее здоровье",
-    "en": "She took up smoking and it ruined her health"
-  },
-  {
-    "_id": 78,
-    "ru": "Видно, что самые важные детали были опущены",
-    "en": "It is seen that the most important details were left out"
-  },
-  {
-    "_id": 79,
-    "ru": "Он бросил идею получить такое разрешение",
-    "en": "He gave up the idea of getting such a permission"
-  },
-  {
-    "_id": 80,
-    "ru": "Некоторые очень важные детали были опущены",
-    "en": "Some very important details were left out"
-  },
-  {
-    "_id": 81,
-    "ru": "Она достала блокнот и пролистала его",
-    "en": "She took out a notebook and flicked through it"
-  },
-  {
-    "_id": 82,
-    "ru": "Игра была отменена из-за погоды",
-    "en": "The game was called off because of the weather"
-  },
-  {
-    "_id": 83,
-    "ru": "Было решено отменить это мероприятие",
-    "en": "It was decided to call off this event"
-  },
-  {
-    "_id": 84,
-    "ru": "Мне это не нужно, так что ты можешь это выбросить",
-    "en": "I don't need it so you can throw it away"
-  },
-  {
-    "_id": 85,
-    "ru": "Конференция только что была отменена",
-    "en": "The conference has just been called off"
+    "id": 1,
+    "ru": {
+      "text": "Они отменили ту игру",
+      "audio": false
+    },
+    "en": {
+      "text": "They called off that game",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Она не может его понять",
+      "audio": false
+    },
+    "en": {
+      "text": "She can't figure him out",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Пожалуйста, разбуди меня в 7",
+      "audio": false
+    },
+    "en": {
+      "text": "Please, wake me up at 7",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я действительно восхищаюсь им",
+      "audio": false
+    },
+    "en": {
+      "text": "I really look up to him",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Она не может его понять",
+      "audio": false
+    },
+    "en": {
+      "text": "She can't figure him out",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я взял одну книгу и пролистал ее",
+      "audio": false
+    },
+    "en": {
+      "text": "I took one book and flicked through it",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Мой знакомый продолжал говорить об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "My acquaintance went on talking about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я провожу тебя после занятий",
+      "audio": false
+    },
+    "en": {
+      "text": "I will see you off after the classes",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я действительно серьезно взялся изучать английский язык",
+      "audio": false
+    },
+    "en": {
+      "text": "I took up learning English really seriously",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я уважаю такого человека",
+      "audio": false
+    },
+    "en": {
+      "text": "I look up to such a person",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я пролистаю этот журнал, если ты не возражаешь",
+      "audio": false
+    },
+    "en": {
+      "text": "I will flick through this magazine if you don't mind",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я хотел бы продолжить изучение английского языка здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "I would like to go on learning English here",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Кто возместит эти потери?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will make up for these losses?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я постараюсь компенсировать упущенное время",
+      "audio": false
+    },
+    "en": {
+      "text": "I will try to make up for lost time",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Она открыла письмо и пролистала его",
+      "audio": false
+    },
+    "en": {
+      "text": "She opened a letter and flicked through it",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я занялся бегом",
+      "audio": false
+    },
+    "en": {
+      "text": "I took up jogging",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Никогда не сдавайся!",
+      "audio": false
+    },
+    "en": {
+      "text": "Never give up!",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Он не может понять, как это работает",
+      "audio": false
+    },
+    "en": {
+      "text": "He can't figure out how it works",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Почему они расстались?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did they split up?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Она выбросила это",
+      "audio": false
+    },
+    "en": {
+      "text": "She threw it away",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Что они будут делать, чтобы возместить это?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will they do to make up for it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Он не может понять, что делать",
+      "audio": false
+    },
+    "en": {
+      "text": "He can't figure out what to do",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он проводил ее после вечеринки",
+      "audio": false
+    },
+    "en": {
+      "text": "He saw her off after the party",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Что здесь происходит?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's going on here?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Я посмотрю это в словаре",
+      "audio": false
+    },
+    "en": {
+      "text": "I will look it up in a dictionary",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Ты можешь выяснить, как сделать это лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you figure out how to do it better?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Их брак распался",
+      "audio": false
+    },
+    "en": {
+      "text": "Their marriage broke up",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Он бросил курить пару лет назад",
+      "audio": false
+    },
+    "en": {
+      "text": "He gave up smoking a couple of years ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Я посмотрю это слово в словаре",
+      "audio": false
+    },
+    "en": {
+      "text": "I will look up this word in a dictionary",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Почему эта молодая пара распалась?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did this young couple break up?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Тебе не следует сдаваться в такой ситуации",
+      "audio": false
+    },
+    "en": {
+      "text": "You shouldn't give up in such a situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я пролистаю этот документ",
+      "audio": false
+    },
+    "en": {
+      "text": "I will flick through this document",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Когда ты начал играть в теннис?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you take up playing tennis?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Полиция расследует это убийство",
+      "audio": false
+    },
+    "en": {
+      "text": "The police are looking into this murder",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я вернусь через минуту",
+      "audio": false
+    },
+    "en": {
+      "text": "I will be back in a minute",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Полиция расследует это преступление",
+      "audio": false
+    },
+    "en": {
+      "text": "The police are looking into this crime",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Его машина внезапно сломалась",
+      "audio": false
+    },
+    "en": {
+      "text": "His car broke down all of a sudden",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Она хотела бы знать, что здесь происходит",
+      "audio": false
+    },
+    "en": {
+      "text": "She'd like to know what's going on here",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я не мог понять ее",
+      "audio": false
+    },
+    "en": {
+      "text": "I couldn't figure her out",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Она никогда не думала о том, чтобы заняться пением",
+      "audio": false
+    },
+    "en": {
+      "text": "She has never thought about taking up singing",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я провожу тебя до станции",
+      "audio": false
+    },
+    "en": {
+      "text": "I will see you off to the station",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я достал тетрадь и пролистал страницы",
+      "audio": false
+    },
+    "en": {
+      "text": "I took out a copybook and flicked through the pages",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "У меня было некоторое время, чтобы пролистать тот отчет",
+      "audio": false
+    },
+    "en": {
+      "text": "I had some time to flick through that report",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Это часто выбрасывается",
+      "audio": false
+    },
+    "en": {
+      "text": "It is often thrown away",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Ты выбрасываешь пластик?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you throw away plastic?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Такие вещи часто выбрасываются",
+      "audio": false
+    },
+    "en": {
+      "text": "Such things are often thrown away",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Почему он не бросает курить?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why doesn't he give up smoking?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Почему он не бросает употреблять алкоголь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why doesn't he give up drinking alcohol?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Тебе следует бросить курить",
+      "audio": false
+    },
+    "en": {
+      "text": "You should give up smoking",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он недавно занялся шахматами",
+      "audio": false
+    },
+    "en": {
+      "text": "He has taken up chess recently",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Когда ты занялся шахматами?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you take up playing chess?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я недавно занялся футболом",
+      "audio": false
+    },
+    "en": {
+      "text": "I have taken up football recently",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Он сказал мне не выбрасывать это",
+      "audio": false
+    },
+    "en": {
+      "text": "He told me not to throw it away",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Он не позволил мне это выбросить",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't let me throw it away",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я собираюсь выбросить эти вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm going to throw these things away",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Встреча была отменена",
+      "audio": false
+    },
+    "en": {
+      "text": "The meeting was called off",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Презентация была отменена",
+      "audio": false
+    },
+    "en": {
+      "text": "The presentation was called off",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Конференция была отменена?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was the conference called off?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Будет очень жаль, если они расстанутся",
+      "audio": false
+    },
+    "en": {
+      "text": "It will be a real pity if they break up",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Почему они расстались?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did they break up?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я вернусь через пару минут",
+      "audio": false
+    },
+    "en": {
+      "text": "I will be back in a couple of minutes",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Когда ты вернешься?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you be back?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я вернусь через несколько дней",
+      "audio": false
+    },
+    "en": {
+      "text": "I will be back in a few days",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он был слишком стеснительным, чтобы пригласить ее на свидание",
+      "audio": false
+    },
+    "en": {
+      "text": "He was too shy to ask her out",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Он слишком устал, чтобы пригласить ее на свидание",
+      "audio": false
+    },
+    "en": {
+      "text": "He was too tired to ask her out",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Ты пригласил ее на свидание?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you ask her out?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Его имя было исключено из списка",
+      "audio": false
+    },
+    "en": {
+      "text": "His name was left out from the list",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Это слово было исключено из списка",
+      "audio": false
+    },
+    "en": {
+      "text": "This word was left out from the list",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Ты исключил мое имя из списка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you leave my name out from the list?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Он решил пригласить ее на свидание",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided to ask her out",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я был так счастлив пригласить ее на свидание",
+      "audio": false
+    },
+    "en": {
+      "text": "I was so happy to ask her out",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Он пригласит меня на свидание?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he ask me out?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Ее муж поехал в аэропорт, чтобы проводить ее",
+      "audio": false
+    },
+    "en": {
+      "text": "Her husband went to the airport to see her off",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Менеджеры пообещали разобраться в этом вопросе",
+      "audio": false
+    },
+    "en": {
+      "text": "The managers promised to look into this matter",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я бросил идею попытаться сделать это еще раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I gave up the idea of trying to do it one more time",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я не мог понять, почему он это делал",
+      "audio": false
+    },
+    "en": {
+      "text": "I couldn't figure out why he was doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Она начала курить, и это разрушило ее здоровье",
+      "audio": false
+    },
+    "en": {
+      "text": "She took up smoking and it ruined her health",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Видно, что самые важные детали были опущены",
+      "audio": false
+    },
+    "en": {
+      "text": "It is seen that the most important details were left out",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Он бросил идею получить такое разрешение",
+      "audio": false
+    },
+    "en": {
+      "text": "He gave up the idea of getting such a permission",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Некоторые очень важные детали были опущены",
+      "audio": false
+    },
+    "en": {
+      "text": "Some very important details were left out",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Она достала блокнот и пролистала его",
+      "audio": false
+    },
+    "en": {
+      "text": "She took out a notebook and flicked through it",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Игра была отменена из-за погоды",
+      "audio": false
+    },
+    "en": {
+      "text": "The game was called off because of the weather",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Было решено отменить это мероприятие",
+      "audio": false
+    },
+    "en": {
+      "text": "It was decided to call off this event",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Мне это не нужно, так что ты можешь это выбросить",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't need it so you can throw it away",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Конференция только что была отменена",
+      "audio": false
+    },
+    "en": {
+      "text": "The conference has just been called off",
+      "audio": false
+    }
   }
 ]

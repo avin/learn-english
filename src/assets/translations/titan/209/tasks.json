@@ -1,382 +1,838 @@
 [
   {
-    "_id": 1,
-    "ru": "От чего страдает большинство людей?",
-    "en": "What do most people suffer from?"
-  },
-  {
-    "_id": 2,
-    "ru": "Мы надеемся на дальнейшее сотрудничество",
-    "en": "We hope for further cooperation"
-  },
-  {
-    "_id": 3,
-    "ru": "Она одержима своей новой игрушкой",
-    "en": "She is obsessed with her new toy"
-  },
-  {
-    "_id": 4,
-    "ru": "Он улыбнулся ей и помахал",
-    "en": "He smiled at her and waved"
-  },
-  {
-    "_id": 5,
-    "ru": "Он вложил свои деньги в очень рискованный проект",
-    "en": "He invested his money in a very risky project"
-  },
-  {
-    "_id": 6,
-    "ru": "Он больше не хочет зависеть от своих родителей",
-    "en": "He doesn't want to depend on his parents any longer"
-  },
-  {
-    "_id": 7,
-    "ru": "Его вклад в проект недооценен",
-    "en": "His contribution to the project is undervalued"
-  },
-  {
-    "_id": 8,
-    "ru": "Певец помахал своим поклонникам",
-    "en": "The singer waved to his fans"
-  },
-  {
-    "_id": 9,
-    "ru": "Он часто страдает от депрессии",
-    "en": "He often suffers from depression"
-  },
-  {
-    "_id": 10,
-    "ru": "Он плохо ведет бизнес",
-    "en": "He is bad at doing business"
-  },
-  {
-    "_id": 11,
-    "ru": "Она страдает от постоянных головных болей",
-    "en": "She suffers from constant headaches"
-  },
-  {
-    "_id": 12,
-    "ru": "Я видел рекламу нового фитнес-клуба",
-    "en": "I saw an advertisement for a new fitness club"
-  },
-  {
-    "_id": 13,
-    "ru": "Она заплатила за еду",
-    "en": "She paid for the meal"
-  },
-  {
-    "_id": 14,
-    "ru": "Он попросил чашку кофе",
-    "en": "He asked for a cup of coffee"
-  },
-  {
-    "_id": 15,
-    "ru": "Я бы не стал полагаться на его помощь",
-    "en": "I wouldn't rely on his assistance"
-  },
-  {
-    "_id": 16,
-    "ru": "Я получил новую информацию об этом",
-    "en": "I got new information on it"
-  },
-  {
-    "_id": 17,
-    "ru": "Она очень плохо разбирается в цифрах",
-    "en": "She is very bad at figures"
-  },
-  {
-    "_id": 18,
-    "ru": "Это привело компанию к банкротству",
-    "en": "It led the company to bankruptcy"
-  },
-  {
-    "_id": 19,
-    "ru": "Он полностью занят работой",
-    "en": "He is fully occupied with work"
-  },
-  {
-    "_id": 20,
-    "ru": "Нас разделили на группы",
-    "en": "We were divided into groups"
-  },
-  {
-    "_id": 21,
-    "ru": "Это разрушило ее отношения с ним",
-    "en": "It ruined her relationship with him"
-  },
-  {
-    "_id": 22,
-    "ru": "Я больше не могу на него полагаться",
-    "en": "I can't rely on him anymore"
-  },
-  {
-    "_id": 23,
-    "ru": "Блогер помахал толпе",
-    "en": "The blogger waved to the crowd"
-  },
-  {
-    "_id": 24,
-    "ru": "Мы предпочитаем надеяться на лучшее",
-    "en": "We prefer to hope for the best"
-  },
-  {
-    "_id": 25,
-    "ru": "Он одержим завистью",
-    "en": "He is obsessed with envy"
-  },
-  {
-    "_id": 26,
-    "ru": "Он часто гордится собой",
-    "en": "He is often proud of himself"
-  },
-  {
-    "_id": 27,
-    "ru": "Я пришлю тебе приглашение на встречу",
-    "en": "I will send you an invitation to the meeting"
-  },
-  {
-    "_id": 28,
-    "ru": "Почему ты не слушаешь его совет?",
-    "en": "Why don't you listen to his advice?"
-  },
-  {
-    "_id": 29,
-    "ru": "У него нет сочувствия к таким людям",
-    "en": "He has no sympathy for such people"
-  },
-  {
-    "_id": 30,
-    "ru": "Я хотел бы попросить тебя о помощи",
-    "en": "I'd like to ask you for your help"
-  },
-  {
-    "_id": 31,
-    "ru": "Они заняты очень важным проектом",
-    "en": "They are occupied with a very important project"
-  },
-  {
-    "_id": 32,
-    "ru": "Я разделил свою презентацию на несколько частей",
-    "en": "I divided my presentation into several parts"
-  },
-  {
-    "_id": 33,
-    "ru": "Он предпочитает инвестировать в акции",
-    "en": "He prefers to invest in shares"
-  },
-  {
-    "_id": 34,
-    "ru": "Он был несправедливо обвинен в том преступлении",
-    "en": "He was unjustly accused of that crime"
-  },
-  {
-    "_id": 35,
-    "ru": "Эта страна славится своей кухней",
-    "en": "This country is famous for its cuisine"
-  },
-  {
-    "_id": 36,
-    "ru": "Он никогда никого не слушает",
-    "en": "He never listens to anybody"
-  },
-  {
-    "_id": 37,
-    "ru": "Город славится своими театрами и музеями",
-    "en": "The city is famous for its theatres and museums"
-  },
-  {
-    "_id": 38,
-    "ru": "Было так много сопротивления этому новому закону",
-    "en": "There was so much resistance to this new law"
-  },
-  {
-    "_id": 39,
-    "ru": "Я знаю, что он одержим ревностью",
-    "en": "I know that he is obsessed with jealousy"
-  },
-  {
-    "_id": 40,
-    "ru": "Он сыт по горло этими бессмысленными вечеринками",
-    "en": "He is fed up with these meaningless parties"
-  },
-  {
-    "_id": 41,
-    "ru": "Там была реклама этой модели",
-    "en": "There was an advertisement for this model"
-  },
-  {
-    "_id": 42,
-    "ru": "Чем ты занят?",
-    "en": "What are you occupied with?"
-  },
-  {
-    "_id": 43,
-    "ru": "За что он не заплатил?",
-    "en": "What didn't he pay for?"
-  },
-  {
-    "_id": 44,
-    "ru": "Почему он не заплатил за это?",
-    "en": "Why didn't he pay for it?"
-  },
-  {
-    "_id": 45,
-    "ru": "Могу я заплатить за тебя?",
-    "en": "Can I pay for you?"
-  },
-  {
-    "_id": 46,
-    "ru": "Ей надоело обманывать его",
-    "en": "She is fed up with lying to him"
-  },
-  {
-    "_id": 47,
-    "ru": "Он сыт по горло этим шумом",
-    "en": "He is fed up with this noise"
-  },
-  {
-    "_id": 48,
-    "ru": "Она сыта по горло их отношениями",
-    "en": "She is fed up with their relationships"
-  },
-  {
-    "_id": 49,
-    "ru": "Я сделал это из сострадания к нему",
-    "en": "I did it out of sympathy for him"
-  },
-  {
-    "_id": 50,
-    "ru": "Они сделали это из сострадания к ней",
-    "en": "They did it out of sympathy for her"
-  },
-  {
-    "_id": 51,
-    "ru": "Он не испытывает сострадания к этим людям",
-    "en": "He doesn't feel sympathy for these people"
-  },
-  {
-    "_id": 52,
-    "ru": "Произошло внезапное увеличение продаж",
-    "en": "There was a sudden increase in sales"
-  },
-  {
-    "_id": 53,
-    "ru": "Они предсказали огромное увеличение продаж",
-    "en": "They predicted a huge increase in sales"
-  },
-  {
-    "_id": 54,
-    "ru": "Эта девушка особенно увлекается рисованием",
-    "en": "This girl is particularly keen on drawing"
-  },
-  {
-    "_id": 55,
-    "ru": "Чем он особенно увлекается?",
-    "en": "What is he particularly keen on?"
-  },
-  {
-    "_id": 56,
-    "ru": "Она особенно увлекается музыкой",
-    "en": "She is particularly keen on music"
-  },
-  {
-    "_id": 57,
-    "ru": "От чего зависит его решение?",
-    "en": "What does his decision depend on?"
-  },
-  {
-    "_id": 58,
-    "ru": "Его решение не зависело от меня",
-    "en": "His decision didn't depend on me"
-  },
-  {
-    "_id": 59,
-    "ru": "В чем они его обвиняли?",
-    "en": "What were they accusing him of?"
-  },
-  {
-    "_id": 60,
-    "ru": "Они обвинили его в этом убийстве",
-    "en": "They accused him of this murder"
-  },
-  {
-    "_id": 61,
-    "ru": "Почему они обвиняют его в этом?",
-    "en": "Why are they accusing him of it?"
-  },
-  {
-    "_id": 62,
-    "ru": "Мы надеемся на плодотворное сотрудничество с тобой",
-    "en": "We hope for fruitful cooperation with you"
-  },
-  {
-    "_id": 63,
-    "ru": "Я надеюсь на постоянное сотрудничество с ним",
-    "en": "I hope for constant cooperation with him"
-  },
-  {
-    "_id": 64,
-    "ru": "У нее с ним отношения",
-    "en": "She is having a relationship with him"
-  },
-  {
-    "_id": 65,
-    "ru": "Чем ты особенно увлекаешься?",
-    "en": "What are you particularly keen on?"
-  },
-  {
-    "_id": 66,
-    "ru": "Он особенно увлекается спортом",
-    "en": "He is particularly keen on sports"
-  },
-  {
-    "_id": 67,
-    "ru": "Чем эта девочка особенно увлекается?",
-    "en": "What is this girl particularly keen on?"
-  },
-  {
-    "_id": 68,
-    "ru": "Почему она не просит у тебя совета?",
-    "en": "Why doesn't she ask you for your advice?"
-  },
-  {
-    "_id": 69,
-    "ru": "Было много сопротивления этим новым реформам",
-    "en": "There was lots of resistance to these new reforms"
-  },
-  {
-    "_id": 70,
-    "ru": "Эта теория полностью отличается от той",
-    "en": "This theory is completely different from that one"
-  },
-  {
-    "_id": 71,
-    "ru": "Он внес существенный вклад в благотворительность",
-    "en": "He made a substantial contribution to charity"
-  },
-  {
-    "_id": 72,
-    "ru": "C кем у него отношения?",
-    "en": "Who is he having a relationship with?"
-  },
-  {
-    "_id": 73,
-    "ru": "За что ты еще не заплатил?",
-    "en": "What haven't you paid for yet?"
-  },
-  {
-    "_id": 74,
-    "ru": "Мы надеемся на дальнейшее плодотворное сотрудничество",
-    "en": "We hope for further fruitful cooperation"
-  },
-  {
-    "_id": 75,
-    "ru": "За что твой друг еще не заплатил?",
-    "en": "What hasn't your friend paid for yet?"
-  },
-  {
-    "_id": 76,
-    "ru": "Произошло неожиданное снижение продаж",
-    "en": "There was an unexpected decrease in sales"
+    "id": 1,
+    "ru": {
+      "text": "От чего страдает большинство людей?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do most people suffer from?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Мы надеемся на дальнейшее сотрудничество",
+      "audio": false
+    },
+    "en": {
+      "text": "We hope for further cooperation",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Она одержима своей новой игрушкой",
+      "audio": false
+    },
+    "en": {
+      "text": "She is obsessed with her new toy",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Он улыбнулся ей и помахал",
+      "audio": false
+    },
+    "en": {
+      "text": "He smiled at her and waved",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Он вложил свои деньги в очень рискованный проект",
+      "audio": false
+    },
+    "en": {
+      "text": "He invested his money in a very risky project",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Он больше не хочет зависеть от своих родителей",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't want to depend on his parents any longer",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Его вклад в проект недооценен",
+      "audio": false
+    },
+    "en": {
+      "text": "His contribution to the project is undervalued",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Певец помахал своим поклонникам",
+      "audio": false
+    },
+    "en": {
+      "text": "The singer waved to his fans",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Он часто страдает от депрессии",
+      "audio": false
+    },
+    "en": {
+      "text": "He often suffers from depression",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Он плохо ведет бизнес",
+      "audio": false
+    },
+    "en": {
+      "text": "He is bad at doing business",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Она страдает от постоянных головных болей",
+      "audio": false
+    },
+    "en": {
+      "text": "She suffers from constant headaches",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я видел рекламу нового фитнес-клуба",
+      "audio": false
+    },
+    "en": {
+      "text": "I saw an advertisement for a new fitness club",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Она заплатила за еду",
+      "audio": false
+    },
+    "en": {
+      "text": "She paid for the meal",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Он попросил чашку кофе",
+      "audio": false
+    },
+    "en": {
+      "text": "He asked for a cup of coffee",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я бы не стал полагаться на его помощь",
+      "audio": false
+    },
+    "en": {
+      "text": "I wouldn't rely on his assistance",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я получил новую информацию об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I got new information on it",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Она очень плохо разбирается в цифрах",
+      "audio": false
+    },
+    "en": {
+      "text": "She is very bad at figures",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Это привело компанию к банкротству",
+      "audio": false
+    },
+    "en": {
+      "text": "It led the company to bankruptcy",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он полностью занят работой",
+      "audio": false
+    },
+    "en": {
+      "text": "He is fully occupied with work",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Нас разделили на группы",
+      "audio": false
+    },
+    "en": {
+      "text": "We were divided into groups",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Это разрушило ее отношения с ним",
+      "audio": false
+    },
+    "en": {
+      "text": "It ruined her relationship with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Я больше не могу на него полагаться",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't rely on him anymore",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Блогер помахал толпе",
+      "audio": false
+    },
+    "en": {
+      "text": "The blogger waved to the crowd",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Мы предпочитаем надеяться на лучшее",
+      "audio": false
+    },
+    "en": {
+      "text": "We prefer to hope for the best",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Он одержим завистью",
+      "audio": false
+    },
+    "en": {
+      "text": "He is obsessed with envy",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Он часто гордится собой",
+      "audio": false
+    },
+    "en": {
+      "text": "He is often proud of himself",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я пришлю тебе приглашение на встречу",
+      "audio": false
+    },
+    "en": {
+      "text": "I will send you an invitation to the meeting",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Почему ты не слушаешь его совет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why don't you listen to his advice?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "У него нет сочувствия к таким людям",
+      "audio": false
+    },
+    "en": {
+      "text": "He has no sympathy for such people",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я хотел бы попросить тебя о помощи",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to ask you for your help",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Они заняты очень важным проектом",
+      "audio": false
+    },
+    "en": {
+      "text": "They are occupied with a very important project",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я разделил свою презентацию на несколько частей",
+      "audio": false
+    },
+    "en": {
+      "text": "I divided my presentation into several parts",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Он предпочитает инвестировать в акции",
+      "audio": false
+    },
+    "en": {
+      "text": "He prefers to invest in shares",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он был несправедливо обвинен в том преступлении",
+      "audio": false
+    },
+    "en": {
+      "text": "He was unjustly accused of that crime",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Эта страна славится своей кухней",
+      "audio": false
+    },
+    "en": {
+      "text": "This country is famous for its cuisine",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Он никогда никого не слушает",
+      "audio": false
+    },
+    "en": {
+      "text": "He never listens to anybody",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Город славится своими театрами и музеями",
+      "audio": false
+    },
+    "en": {
+      "text": "The city is famous for its theatres and museums",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Было так много сопротивления этому новому закону",
+      "audio": false
+    },
+    "en": {
+      "text": "There was so much resistance to this new law",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я знаю, что он одержим ревностью",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that he is obsessed with jealousy",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Он сыт по горло этими бессмысленными вечеринками",
+      "audio": false
+    },
+    "en": {
+      "text": "He is fed up with these meaningless parties",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Там была реклама этой модели",
+      "audio": false
+    },
+    "en": {
+      "text": "There was an advertisement for this model",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Чем ты занят?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you occupied with?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "За что он не заплатил?",
+      "audio": false
+    },
+    "en": {
+      "text": "What didn't he pay for?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Почему он не заплатил за это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why didn't he pay for it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Могу я заплатить за тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can I pay for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Ей надоело обманывать его",
+      "audio": false
+    },
+    "en": {
+      "text": "She is fed up with lying to him",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Он сыт по горло этим шумом",
+      "audio": false
+    },
+    "en": {
+      "text": "He is fed up with this noise",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Она сыта по горло их отношениями",
+      "audio": false
+    },
+    "en": {
+      "text": "She is fed up with their relationships",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я сделал это из сострадания к нему",
+      "audio": false
+    },
+    "en": {
+      "text": "I did it out of sympathy for him",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Они сделали это из сострадания к ней",
+      "audio": false
+    },
+    "en": {
+      "text": "They did it out of sympathy for her",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Он не испытывает сострадания к этим людям",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't feel sympathy for these people",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Произошло внезапное увеличение продаж",
+      "audio": false
+    },
+    "en": {
+      "text": "There was a sudden increase in sales",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Они предсказали огромное увеличение продаж",
+      "audio": false
+    },
+    "en": {
+      "text": "They predicted a huge increase in sales",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Эта девушка особенно увлекается рисованием",
+      "audio": false
+    },
+    "en": {
+      "text": "This girl is particularly keen on drawing",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Чем он особенно увлекается?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is he particularly keen on?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Она особенно увлекается музыкой",
+      "audio": false
+    },
+    "en": {
+      "text": "She is particularly keen on music",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "От чего зависит его решение?",
+      "audio": false
+    },
+    "en": {
+      "text": "What does his decision depend on?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Его решение не зависело от меня",
+      "audio": false
+    },
+    "en": {
+      "text": "His decision didn't depend on me",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "В чем они его обвиняли?",
+      "audio": false
+    },
+    "en": {
+      "text": "What were they accusing him of?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Они обвинили его в этом убийстве",
+      "audio": false
+    },
+    "en": {
+      "text": "They accused him of this murder",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Почему они обвиняют его в этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why are they accusing him of it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Мы надеемся на плодотворное сотрудничество с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "We hope for fruitful cooperation with you",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я надеюсь на постоянное сотрудничество с ним",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope for constant cooperation with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "У нее с ним отношения",
+      "audio": false
+    },
+    "en": {
+      "text": "She is having a relationship with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Чем ты особенно увлекаешься?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you particularly keen on?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Он особенно увлекается спортом",
+      "audio": false
+    },
+    "en": {
+      "text": "He is particularly keen on sports",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Чем эта девочка особенно увлекается?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is this girl particularly keen on?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Почему она не просит у тебя совета?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why doesn't she ask you for your advice?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Было много сопротивления этим новым реформам",
+      "audio": false
+    },
+    "en": {
+      "text": "There was lots of resistance to these new reforms",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Эта теория полностью отличается от той",
+      "audio": false
+    },
+    "en": {
+      "text": "This theory is completely different from that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Он внес существенный вклад в благотворительность",
+      "audio": false
+    },
+    "en": {
+      "text": "He made a substantial contribution to charity",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "C кем у него отношения?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is he having a relationship with?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "За что ты еще не заплатил?",
+      "audio": false
+    },
+    "en": {
+      "text": "What haven't you paid for yet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Мы надеемся на дальнейшее плодотворное сотрудничество",
+      "audio": false
+    },
+    "en": {
+      "text": "We hope for further fruitful cooperation",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "За что твой друг еще не заплатил?",
+      "audio": false
+    },
+    "en": {
+      "text": "What hasn't your friend paid for yet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Произошло неожиданное снижение продаж",
+      "audio": false
+    },
+    "en": {
+      "text": "There was an unexpected decrease in sales",
+      "audio": false
+    }
   }
 ]

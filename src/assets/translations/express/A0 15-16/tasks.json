@@ -1,217 +1,475 @@
 [
   {
-    "_id": 1,
-    "ru": "Это так легко для меня",
-    "en": "It's so easy for me"
+    "id": 1,
+    "ru": {
+      "text": "Это так легко для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It's so easy for me",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я сейчас не занят. Я свободен",
-    "en": "I'm not busy now. I'm free"
+    "id": 2,
+    "ru": {
+      "text": "Я сейчас не занят. Я свободен",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not busy now. I'm free",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Это место такое красивое",
-    "en": "This place is so beautiful"
+    "id": 3,
+    "ru": {
+      "text": "Это место такое красивое",
+      "audio": false
+    },
+    "en": {
+      "text": "This place is so beautiful",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я сейчас не на работе. Я дома",
-    "en": "I'm not at work now. I'm at home"
+    "id": 4,
+    "ru": {
+      "text": "Я сейчас не на работе. Я дома",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not at work now. I'm at home",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Это не проблема для меня",
-    "en": "It isn't a problem for me"
+    "id": 5,
+    "ru": {
+      "text": "Это не проблема для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't a problem for me",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Мы не заняты",
-    "en": "We aren't busy"
+    "id": 6,
+    "ru": {
+      "text": "Мы не заняты",
+      "audio": false
+    },
+    "en": {
+      "text": "We aren't busy",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я женат",
-    "en": "I'm married"
+    "id": 7,
+    "ru": {
+      "text": "Я женат",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm married",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Это не интересно мне",
-    "en": "It isn't interesting for me"
+    "id": 8,
+    "ru": {
+      "text": "Это не интересно мне",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't interesting for me",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я вижу, что ты не уверен",
-    "en": "I see that you aren't sure"
+    "id": 9,
+    "ru": {
+      "text": "Я вижу, что ты не уверен",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that you aren't sure",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Он не врач. Он учитель",
-    "en": "He isn't a doctor. He's a teacher"
+    "id": 10,
+    "ru": {
+      "text": "Он не врач. Он учитель",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't a doctor. He's a teacher",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Этот урок очень полезный",
-    "en": "This lesson is very useful"
+    "id": 11,
+    "ru": {
+      "text": "Этот урок очень полезный",
+      "audio": false
+    },
+    "en": {
+      "text": "This lesson is very useful",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Он не прав",
-    "en": "He isn't right"
+    "id": 12,
+    "ru": {
+      "text": "Он не прав",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't right",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Моя мама - врач",
-    "en": "My mother is a doctor"
+    "id": 13,
+    "ru": {
+      "text": "Моя мама - врач",
+      "audio": false
+    },
+    "en": {
+      "text": "My mother is a doctor",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я думаю, что ты не прав",
-    "en": "I think that you aren't right"
+    "id": 14,
+    "ru": {
+      "text": "Я думаю, что ты не прав",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that you aren't right",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Они не бедные. Они очень богатые",
-    "en": "They aren't poor. They're very rich"
+    "id": 15,
+    "ru": {
+      "text": "Они не бедные. Они очень богатые",
+      "audio": false
+    },
+    "en": {
+      "text": "They aren't poor. They're very rich",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Это не интересно",
-    "en": "It isn't interesting"
+    "id": 16,
+    "ru": {
+      "text": "Это не интересно",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't interesting",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я не женат",
-    "en": "Я не замужем"
+    "id": 17,
+    "ru": {
+      "text": "Я не женат",
+      "audio": false
+    },
+    "en": {
+      "text": "Я не замужем",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Мой отец - менеджер",
-    "en": "My father is a manager"
+    "id": 18,
+    "ru": {
+      "text": "Мой отец - менеджер",
+      "audio": false
+    },
+    "en": {
+      "text": "My father is a manager",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Этот отель очень хороший",
-    "en": "This hotel is very good"
+    "id": 19,
+    "ru": {
+      "text": "Этот отель очень хороший",
+      "audio": false
+    },
+    "en": {
+      "text": "This hotel is very good",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Это не интересно. Это так скучно",
-    "en": "It isn't interesting. It's so boring"
+    "id": 20,
+    "ru": {
+      "text": "Это не интересно. Это так скучно",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't interesting. It's so boring",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Это не плохо",
-    "en": "It isn't bad"
+    "id": 21,
+    "ru": {
+      "text": "Это не плохо",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't bad",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Это не ошибка",
-    "en": "It isn't a mistake"
+    "id": 22,
+    "ru": {
+      "text": "Это не ошибка",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't a mistake",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Это не дорого. Это очень дешево",
-    "en": "It isn't expensive. It's very cheap"
+    "id": 23,
+    "ru": {
+      "text": "Это не дорого. Это очень дешево",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't expensive. It's very cheap",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Это действительно сложно",
-    "en": "It's really difficult"
+    "id": 24,
+    "ru": {
+      "text": "Это действительно сложно",
+      "audio": false
+    },
+    "en": {
+      "text": "It's really difficult",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Они сейчас не вместе",
-    "en": "They aren't together now"
+    "id": 25,
+    "ru": {
+      "text": "Они сейчас не вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "They aren't together now",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Это не легко. Это очень трудно",
-    "en": "It isn't easy. It's very difficult"
+    "id": 26,
+    "ru": {
+      "text": "Это не легко. Это очень трудно",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't easy. It's very difficult",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Он не бедный. Он очень богатый",
-    "en": "He isn't poor. He's very rich"
+    "id": 27,
+    "ru": {
+      "text": "Он не бедный. Он очень богатый",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't poor. He's very rich",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Это слишком сложно для меня",
-    "en": "It's too difficult for me"
+    "id": 28,
+    "ru": {
+      "text": "Это слишком сложно для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It's too difficult for me",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Мой брат - студент",
-    "en": "My brother is a student"
+    "id": 29,
+    "ru": {
+      "text": "Мой брат - студент",
+      "audio": false
+    },
+    "en": {
+      "text": "My brother is a student",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Я холост",
-    "en": "I'm single"
+    "id": 30,
+    "ru": {
+      "text": "Я холост",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm single",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Она не дизайнер. Она медсестра",
-    "en": "She isn't a designer. She's a nurse"
+    "id": 31,
+    "ru": {
+      "text": "Она не дизайнер. Она медсестра",
+      "audio": false
+    },
+    "en": {
+      "text": "She isn't a designer. She's a nurse",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Это не важно",
-    "en": "It isn't important"
+    "id": 32,
+    "ru": {
+      "text": "Это не важно",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't important",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Они не в городе",
-    "en": "They aren't in the city"
+    "id": 33,
+    "ru": {
+      "text": "Они не в городе",
+      "audio": false
+    },
+    "en": {
+      "text": "They aren't in the city",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Это не сложно. Это очень просто",
-    "en": "It isn't difficult. It's so easy"
+    "id": 34,
+    "ru": {
+      "text": "Это не сложно. Это очень просто",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't difficult. It's so easy",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Это не интересно. Это очень скучно",
-    "en": "It isn't interesting. It's very boring"
+    "id": 35,
+    "ru": {
+      "text": "Это не интересно. Это очень скучно",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't interesting. It's very boring",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Он не старый. Он очень молод",
-    "en": "He isn't old. He's very young"
+    "id": 36,
+    "ru": {
+      "text": "Он не старый. Он очень молод",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't old. He's very young",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Мы не в парке сейчас",
-    "en": "We aren't in the park now"
+    "id": 37,
+    "ru": {
+      "text": "Мы не в парке сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "We aren't in the park now",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Он не женат. Он холост",
-    "en": "He isn't married. He's single"
+    "id": 38,
+    "ru": {
+      "text": "Он не женат. Он холост",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't married. He's single",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Она не уверена в этом",
-    "en": "She isn't sure about it"
+    "id": 39,
+    "ru": {
+      "text": "Она не уверена в этом",
+      "audio": false
+    },
+    "en": {
+      "text": "She isn't sure about it",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Я не дома",
-    "en": "I'm not at home"
+    "id": 40,
+    "ru": {
+      "text": "Я не дома",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not at home",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Я не уверен в этом",
-    "en": "I'm not sure about it"
+    "id": 41,
+    "ru": {
+      "text": "Я не уверен в этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not sure about it",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Это видео очень смешное",
-    "en": "This video is very funny"
+    "id": 42,
+    "ru": {
+      "text": "Это видео очень смешное",
+      "audio": false
+    },
+    "en": {
+      "text": "This video is very funny",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Я замужем",
-    "en": "I'm married"
+    "id": 43,
+    "ru": {
+      "text": "Я замужем",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm married",
+      "audio": false
+    }
   }
 ]

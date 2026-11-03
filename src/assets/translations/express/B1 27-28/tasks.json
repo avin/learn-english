@@ -1,117 +1,255 @@
 [
   {
-    "_id": 1,
-    "ru": "Он сказал, что заказал нам такси",
-    "en": "He said that he had ordered us a taxi"
+    "id": 1,
+    "ru": {
+      "text": "Он сказал, что заказал нам такси",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had ordered us a taxi",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "У него не было времени побриться",
-    "en": "He didn't have time to shave"
+    "id": 2,
+    "ru": {
+      "text": "У него не было времени побриться",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't have time to shave",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Он сказал, что хотел бы расслабиться чуть-чуть",
-    "en": "He said that he would like to relax a bit"
+    "id": 3,
+    "ru": {
+      "text": "Он сказал, что хотел бы расслабиться чуть-чуть",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he would like to relax a bit",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Его успех действительно вдохновил меня идти вперед",
-    "en": "His success really inspired me to go ahead"
+    "id": 4,
+    "ru": {
+      "text": "Его успех действительно вдохновил меня идти вперед",
+      "audio": false
+    },
+    "en": {
+      "text": "His success really inspired me to go ahead",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Откровенно говоря, я едва ли могу представить это",
-    "en": "To be frank, I can hardly imagine it"
+    "id": 5,
+    "ru": {
+      "text": "Откровенно говоря, я едва ли могу представить это",
+      "audio": false
+    },
+    "en": {
+      "text": "To be frank, I can hardly imagine it",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Эта страна обеспечивается нефтью и газом",
-    "en": "This country is provided with oil and gas"
+    "id": 6,
+    "ru": {
+      "text": "Эта страна обеспечивается нефтью и газом",
+      "audio": false
+    },
+    "en": {
+      "text": "This country is provided with oil and gas",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "К сожалению, их брак закончился разводом",
-    "en": "Unfortunately, their marriage ended in divorce"
+    "id": 7,
+    "ru": {
+      "text": "К сожалению, их брак закончился разводом",
+      "audio": false
+    },
+    "en": {
+      "text": "Unfortunately, their marriage ended in divorce",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Он сказал, что перелез через забор",
-    "en": "He said that he had climbed over the fence"
+    "id": 8,
+    "ru": {
+      "text": "Он сказал, что перелез через забор",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had climbed over the fence",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Как было сказано, она умерла от сердечного приступа",
-    "en": "As it was said, she had died of a heart attack"
+    "id": 9,
+    "ru": {
+      "text": "Как было сказано, она умерла от сердечного приступа",
+      "audio": false
+    },
+    "en": {
+      "text": "As it was said, she had died of a heart attack",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Он говорит, что одобряет этот выбор",
-    "en": "He says that he approves of this choice"
+    "id": 10,
+    "ru": {
+      "text": "Он говорит, что одобряет этот выбор",
+      "audio": false
+    },
+    "en": {
+      "text": "He says that he approves of this choice",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Вам нужно выбрать правильный ответ",
-    "en": "You need to choose the correct answer"
+    "id": 11,
+    "ru": {
+      "text": "Вам нужно выбрать правильный ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to choose the correct answer",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Как мы можем видеть, ферма простирается вдоль реки",
-    "en": "As we can see, the farm extend along the river"
+    "id": 12,
+    "ru": {
+      "text": "Как мы можем видеть, ферма простирается вдоль реки",
+      "audio": false
+    },
+    "en": {
+      "text": "As we can see, the farm extend along the river",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Ей было запрещено выходить из дома",
-    "en": "She was forbidden to leave the house"
+    "id": 13,
+    "ru": {
+      "text": "Ей было запрещено выходить из дома",
+      "audio": false
+    },
+    "en": {
+      "text": "She was forbidden to leave the house",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я должен признать, что это была не моя инициатива",
-    "en": "I have to admit that it wasn't my initiative"
+    "id": 14,
+    "ru": {
+      "text": "Я должен признать, что это была не моя инициатива",
+      "audio": false
+    },
+    "en": {
+      "text": "I have to admit that it wasn't my initiative",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Как ты относишься к списыванию?",
-    "en": "What's your attitude towards cheating?"
+    "id": 15,
+    "ru": {
+      "text": "Как ты относишься к списыванию?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's your attitude towards cheating?",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Мы будем играть два часа к шести",
-    "en": "We will have been playing for two hours by six"
+    "id": 16,
+    "ru": {
+      "text": "Мы будем играть два часа к шести",
+      "audio": false
+    },
+    "en": {
+      "text": "We will have been playing for two hours by six",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Он остановился на минуту, а затем продолжил говорить",
-    "en": "He paused for a minute and then he continued talking"
+    "id": 17,
+    "ru": {
+      "text": "Он остановился на минуту, а затем продолжил говорить",
+      "audio": false
+    },
+    "en": {
+      "text": "He paused for a minute and then he continued talking",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Ожидается, что его повысят в следующем году",
-    "en": "It's expected that he'll be promoted next year"
+    "id": 18,
+    "ru": {
+      "text": "Ожидается, что его повысят в следующем году",
+      "audio": false
+    },
+    "en": {
+      "text": "It's expected that he'll be promoted next year",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Я остановился на время и выпил стакан сока",
-    "en": "I stopped for a while and drank a glass of juice"
+    "id": 19,
+    "ru": {
+      "text": "Я остановился на время и выпил стакан сока",
+      "audio": false
+    },
+    "en": {
+      "text": "I stopped for a while and drank a glass of juice",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Я возможно опоздаю на встречу чуть-чуть",
-    "en": "I may be late for the meeting a bit"
+    "id": 20,
+    "ru": {
+      "text": "Я возможно опоздаю на встречу чуть-чуть",
+      "audio": false
+    },
+    "en": {
+      "text": "I may be late for the meeting a bit",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Пока они лежали на пляже, мы плыли на лодке",
-    "en": "While they were lying on the beach, we were sailing on a boat"
+    "id": 21,
+    "ru": {
+      "text": "Пока они лежали на пляже, мы плыли на лодке",
+      "audio": false
+    },
+    "en": {
+      "text": "While they were lying on the beach, we were sailing on a boat",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Вы уже нарядили елку?",
-    "en": "Have you already decorated a Christmas tree?"
+    "id": 22,
+    "ru": {
+      "text": "Вы уже нарядили елку?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you already decorated a Christmas tree?",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Как написано, курение не разрешено здесь",
-    "en": "As it's written, smoking isn't allowed here"
+    "id": 23,
+    "ru": {
+      "text": "Как написано, курение не разрешено здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "As it's written, smoking isn't allowed here",
+      "audio": false
+    }
   }
 ]

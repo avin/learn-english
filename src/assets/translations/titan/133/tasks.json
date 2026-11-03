@@ -1,467 +1,1025 @@
 [
   {
-    "_id": 1,
-    "ru": "Мы часто обмениваемся нашими идеями",
-    "en": "We often exchange our ideas"
-  },
-  {
-    "_id": 2,
-    "ru": "Она упала в обморок от голода",
-    "en": "She fainted from hunger"
-  },
-  {
-    "_id": 3,
-    "ru": "Эта новость сильно удивила меня",
-    "en": "This news surprised me greatly"
-  },
-  {
-    "_id": 4,
-    "ru": "Я пишу письмо",
-    "en": "I am writing a letter"
-  },
-  {
-    "_id": 5,
-    "ru": "Стекло упало со стола",
-    "en": "The glass fell off the table"
-  },
-  {
-    "_id": 6,
-    "ru": "Телефон звонил весь день",
-    "en": "The phone was ringing all day"
-  },
-  {
-    "_id": 7,
-    "ru": "Я надеюсь скоро тебя увидеть",
-    "en": "I hope to see you soon"
-  },
-  {
-    "_id": 8,
-    "ru": "Они значительно увеличили цены",
-    "en": "They increased the prices considerably"
-  },
-  {
-    "_id": 9,
-    "ru": "Я с большим удовольствием принял его предложение",
-    "en": "I accepted his offer with great pleasure"
-  },
-  {
-    "_id": 10,
-    "ru": "Он летел обратно в Англию",
-    "en": "He was flying back to England"
-  },
-  {
-    "_id": 11,
-    "ru": "Аудитория была действительно впечатлена",
-    "en": "The audience was really impressed"
-  },
-  {
-    "_id": 12,
-    "ru": "Когда они сообщат мне?",
-    "en": "When will they inform me?"
-  },
-  {
-    "_id": 13,
-    "ru": "Мы начали болтать онлайн",
-    "en": "We started chatting online"
-  },
-  {
-    "_id": 14,
-    "ru": "Она порезала свой палец",
-    "en": "She cut her finger"
-  },
-  {
-    "_id": 15,
-    "ru": "Я обожаю путешествовать",
-    "en": "I enjoy travelling"
-  },
-  {
-    "_id": 16,
-    "ru": "Как он себя чувствовал?",
-    "en": "How did he feel?"
-  },
-  {
-    "_id": 17,
-    "ru": "Как они познакомились?",
-    "en": "How did they meet?"
-  },
-  {
-    "_id": 18,
-    "ru": "Он хочет переехать за границу?",
-    "en": "Does he want to move abroad?"
-  },
-  {
-    "_id": 19,
-    "ru": "Он переехал в новую квартиру",
-    "en": "He moved into a new apartmen"
-  },
-  {
-    "_id": 20,
-    "ru": "Он летел домой навестить свою семью",
-    "en": "He was flying home to visit his family"
-  },
-  {
-    "_id": 21,
-    "ru": "Это действительно имеет значение?",
-    "en": "Does it really matter?"
-  },
-  {
-    "_id": 22,
-    "ru": "Я принял его приглашение",
-    "en": "I accepted his invitation"
-  },
-  {
-    "_id": 23,
-    "ru": "Девушка внезапно упала в обморок",
-    "en": "The girl fainted suddenly"
-  },
-  {
-    "_id": 24,
-    "ru": "Огонь все еще горел",
-    "en": "The fire was still burning"
-  },
-  {
-    "_id": 25,
-    "ru": "Он обычно путешествует по делам",
-    "en": "He usually travels on business"
-  },
-  {
-    "_id": 26,
-    "ru": "Пойдем на пляж!",
-    "en": "Let's go to the beach!"
-  },
-  {
-    "_id": 27,
-    "ru": "Они собирали древние монеты",
-    "en": "They collected ancient coins"
-  },
-  {
-    "_id": 28,
-    "ru": "Я не собираюсь больше тратить свое время",
-    "en": "I am not going to waste my time anymore"
-  },
-  {
-    "_id": 29,
-    "ru": "Они значительно повысили цену",
-    "en": "They increased the price significantly"
-  },
-  {
-    "_id": 30,
-    "ru": "Он подал заявку на визу",
-    "en": "He applied for a visa"
-  },
-  {
-    "_id": 31,
-    "ru": "Я встретил так много новых слов в этом тексте",
-    "en": "I met so many new words in this text"
-  },
-  {
-    "_id": 32,
-    "ru": "Он не может справиться с этой задачей",
-    "en": "He can't cope with this task"
-  },
-  {
-    "_id": 33,
-    "ru": "Огонь горит",
-    "en": "The fire is burning"
-  },
-  {
-    "_id": 34,
-    "ru": "Хватит тратить время!",
-    "en": "Stop wasting time!"
-  },
-  {
-    "_id": 35,
-    "ru": "Она что-то писала в своей записной книжке",
-    "en": "She was writing something in her notebook"
-  },
-  {
-    "_id": 36,
-    "ru": "Я подал заявку на работу",
-    "en": "I applied for a job"
-  },
-  {
-    "_id": 37,
-    "ru": "Мальчик упал на землю и повредил ногу",
-    "en": "The boy fell to the ground and hurt his leg"
-  },
-  {
-    "_id": 38,
-    "ru": "Не беспокой его!",
-    "en": "Don't disturb him!"
-  },
-  {
-    "_id": 39,
-    "ru": "Мне нужно обменять доллары",
-    "en": "I need to exchange dollars"
-  },
-  {
-    "_id": 40,
-    "ru": "Ее гостеприимство действительно впечатлило меня",
-    "en": "Her hospitality really impressed me"
-  },
-  {
-    "_id": 41,
-    "ru": "Другим не позволено входить в здание",
-    "en": "Others aren't allowed to enter the building"
-  },
-  {
-    "_id": 42,
-    "ru": "У нас был урок английского, когда прозвенел звонок",
-    "en": "We were having an English class when the bell rang"
-  },
-  {
-    "_id": 43,
-    "ru": "Мы болтали о наших планах на будущее",
-    "en": "We were chatting about our plans for the future"
-  },
-  {
-    "_id": 44,
-    "ru": "Я не купил это, потому что это стоило слишком дорого",
-    "en": "I didn't buy it because it cost too much"
-  },
-  {
-    "_id": 45,
-    "ru": "Избавиться от акцента не так просто",
-    "en": "It isn't so easy to get rid of an accent"
-  },
-  {
-    "_id": 46,
-    "ru": "Студенты стояли там, ожидая своих результатов",
-    "en": "The students were standing there waiting for their results"
-  },
-  {
-    "_id": 47,
-    "ru": "Я стараюсь не копировать эти ошибки",
-    "en": "I try not to copy these mistakes"
-  },
-  {
-    "_id": 48,
-    "ru": "Часы были отремонтированы им",
-    "en": "The watch was repaired by him"
-  },
-  {
-    "_id": 49,
-    "ru": "Я собрал всю необходимую информацию",
-    "en": "I collected all the necessary information"
-  },
-  {
-    "_id": 50,
-    "ru": "Он спит в течение двух часов",
-    "en": "He has been sleeping for two hours"
-  },
-  {
-    "_id": 51,
-    "ru": "Я чувствую себя более уверенно, когда говорю по-английски",
-    "en": "I feel more confident when I speak English"
-  },
-  {
-    "_id": 52,
-    "ru": "Я стараюсь практиковать свой английский каждый день",
-    "en": "I try to practise my English every day"
-  },
-  {
-    "_id": 53,
-    "ru": "Курение запрещено там",
-    "en": "Smoking isn't allowed there"
-  },
-  {
-    "_id": 54,
-    "ru": "Здесь разрешено курить?",
-    "en": "Is smoking allowed here?"
-  },
-  {
-    "_id": 55,
-    "ru": "Курение было разрешено там",
-    "en": "Smoking was allowed there"
-  },
-  {
-    "_id": 56,
-    "ru": "Ей удалось выжить в автокатастрофе",
-    "en": "She managed to survive in a car crash"
-  },
-  {
-    "_id": 57,
-    "ru": "Ей удалось избежать этих трудностей",
-    "en": "She managed to avoid these difficulties"
-  },
-  {
-    "_id": 58,
-    "ru": "Ей не удалось выжить в той автокатастрофе",
-    "en": "She didn't manage to survive in that car crash"
-  },
-  {
-    "_id": 59,
-    "ru": "С ней очень плохо обращались",
-    "en": "She was treated very badly"
-  },
-  {
-    "_id": 60,
-    "ru": "С ней очень хорошо обращались",
-    "en": "She was treated very well"
-  },
-  {
-    "_id": 61,
-    "ru": "Она очень плохо со мной обращается",
-    "en": "She treats me very badly"
-  },
-  {
-    "_id": 62,
-    "ru": "Я хочу полностью избавиться от этих ошибок",
-    "en": "I want to get rid of these mistakes completely"
-  },
-  {
-    "_id": 63,
-    "ru": "Я надеюсь, что я избавлюсь от этих ошибок",
-    "en": "I hope that I will get rid of these mistakes"
-  },
-  {
-    "_id": 64,
-    "ru": "Мне нужно избавиться от этой одежды",
-    "en": "I need to get rid of these clothes"
-  },
-  {
-    "_id": 65,
-    "ru": "Его часто критикуют за это",
-    "en": "He is often criticised for it"
-  },
-  {
-    "_id": 66,
-    "ru": "Он всегда критикует меня",
-    "en": "He always criticises me"
-  },
-  {
-    "_id": 67,
-    "ru": "Он не критикует меня совсем",
-    "en": "He doesn't criticise me at all"
-  },
-  {
-    "_id": 68,
-    "ru": "Ты уже все починил?",
-    "en": "Have you already repaired everything?"
-  },
-  {
-    "_id": 69,
-    "ru": "Я еще ничего не чинил",
-    "en": "I haven't repaired anything yet"
-  },
-  {
-    "_id": 70,
-    "ru": "Я уже починил эти часы",
-    "en": "I have already repaired this watch"
-  },
-  {
-    "_id": 71,
-    "ru": "Когда я пришел к нему, он спал",
-    "en": "When I came to him, he was sleeping"
-  },
-  {
-    "_id": 72,
-    "ru": "Когда он пришел ко мне, я спал",
-    "en": "When he came to me, I was sleeping"
-  },
-  {
-    "_id": 73,
-    "ru": "Когда я позвонил ему, он готовил",
-    "en": "When I called him, he was cooking"
-  },
-  {
-    "_id": 74,
-    "ru": "Только он выжил в автокатастрофе",
-    "en": "Only he survived in a car crash"
-  },
-  {
-    "_id": 75,
-    "ru": "Ему удалось выжить в автокатастрофе",
-    "en": "He managed to survive in a car crash"
-  },
-  {
-    "_id": 76,
-    "ru": "Некоторые люди не выжили в той автокатастрофе",
-    "en": "Some people didn't survive in that car crash"
-  },
-  {
-    "_id": 77,
-    "ru": "Он сказал, что он порезал палец",
-    "en": "He said that he had cut his finger"
-  },
-  {
-    "_id": 78,
-    "ru": "Он сказал, что он сделал это сам",
-    "en": "He said that he had done it by himself"
-  },
-  {
-    "_id": 79,
-    "ru": "Он сказал, что он приготовил свой любимый салат",
-    "en": "He said that he had cooked his favourite salad"
-  },
-  {
-    "_id": 80,
-    "ru": "Он обычно избегает говорить об этом",
-    "en": "He usually avoids talking about it"
-  },
-  {
-    "_id": 81,
-    "ru": "Старайся не копировать ошибки других студентов",
-    "en": "Try not to copy other students mistakes"
-  },
-  {
-    "_id": 82,
-    "ru": "Я постараюсь справиться с этими трудностями",
-    "en": "I'll try to cope with these difficulties"
-  },
-  {
-    "_id": 83,
-    "ru": "Меня удивляет, что ты никогда не слышал об этом",
-    "en": "It surprises me that you have never heard about it"
-  },
-  {
-    "_id": 84,
-    "ru": "Она избегает обсуждать это",
-    "en": "She avoids discussing it"
-  },
-  {
-    "_id": 85,
-    "ru": "Я надеюсь, что это не было правдой",
-    "en": "I hope that it wasn't true"
-  },
-  {
-    "_id": 86,
-    "ru": "Мы не были проинформированы вовремя",
-    "en": "We weren't informed on time"
-  },
-  {
-    "_id": 87,
-    "ru": "Я стоял там, ожидая своих результатов",
-    "en": "I was standing there waiting for my results"
-  },
-  {
-    "_id": 88,
-    "ru": "Его очень резко критиковали",
-    "en": "He was criticised very sharply"
-  },
-  {
-    "_id": 89,
-    "ru": "Я никогда не понимал этого",
-    "en": "I have never understood it"
-  },
-  {
-    "_id": 90,
-    "ru": "Это стоит много денег",
-    "en": "It costs lots of money"
-  },
-  {
-    "_id": 91,
-    "ru": "К нему относятся очень несправедливо",
-    "en": "He is treated very unfairly"
-  },
-  {
-    "_id": 92,
-    "ru": "Он не позволил ей сделать этого",
-    "en": "He didn't let her do it"
-  },
-  {
-    "_id": 93,
-    "ru": "Постарайся не беспокоить его!",
-    "en": "Try not to disturb him!"
+    "id": 1,
+    "ru": {
+      "text": "Мы часто обмениваемся нашими идеями",
+      "audio": false
+    },
+    "en": {
+      "text": "We often exchange our ideas",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Она упала в обморок от голода",
+      "audio": false
+    },
+    "en": {
+      "text": "She fainted from hunger",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Эта новость сильно удивила меня",
+      "audio": false
+    },
+    "en": {
+      "text": "This news surprised me greatly",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я пишу письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I am writing a letter",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Стекло упало со стола",
+      "audio": false
+    },
+    "en": {
+      "text": "The glass fell off the table",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Телефон звонил весь день",
+      "audio": false
+    },
+    "en": {
+      "text": "The phone was ringing all day",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Я надеюсь скоро тебя увидеть",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope to see you soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Они значительно увеличили цены",
+      "audio": false
+    },
+    "en": {
+      "text": "They increased the prices considerably",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я с большим удовольствием принял его предложение",
+      "audio": false
+    },
+    "en": {
+      "text": "I accepted his offer with great pleasure",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Он летел обратно в Англию",
+      "audio": false
+    },
+    "en": {
+      "text": "He was flying back to England",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Аудитория была действительно впечатлена",
+      "audio": false
+    },
+    "en": {
+      "text": "The audience was really impressed",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Когда они сообщат мне?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will they inform me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Мы начали болтать онлайн",
+      "audio": false
+    },
+    "en": {
+      "text": "We started chatting online",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Она порезала свой палец",
+      "audio": false
+    },
+    "en": {
+      "text": "She cut her finger",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я обожаю путешествовать",
+      "audio": false
+    },
+    "en": {
+      "text": "I enjoy travelling",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Как он себя чувствовал?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did he feel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Как они познакомились?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did they meet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Он хочет переехать за границу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he want to move abroad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он переехал в новую квартиру",
+      "audio": false
+    },
+    "en": {
+      "text": "He moved into a new apartmen",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Он летел домой навестить свою семью",
+      "audio": false
+    },
+    "en": {
+      "text": "He was flying home to visit his family",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Это действительно имеет значение?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it really matter?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Я принял его приглашение",
+      "audio": false
+    },
+    "en": {
+      "text": "I accepted his invitation",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Девушка внезапно упала в обморок",
+      "audio": false
+    },
+    "en": {
+      "text": "The girl fainted suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Огонь все еще горел",
+      "audio": false
+    },
+    "en": {
+      "text": "The fire was still burning",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Он обычно путешествует по делам",
+      "audio": false
+    },
+    "en": {
+      "text": "He usually travels on business",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Пойдем на пляж!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let's go to the beach!",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Они собирали древние монеты",
+      "audio": false
+    },
+    "en": {
+      "text": "They collected ancient coins",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Я не собираюсь больше тратить свое время",
+      "audio": false
+    },
+    "en": {
+      "text": "I am not going to waste my time anymore",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Они значительно повысили цену",
+      "audio": false
+    },
+    "en": {
+      "text": "They increased the price significantly",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Он подал заявку на визу",
+      "audio": false
+    },
+    "en": {
+      "text": "He applied for a visa",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Я встретил так много новых слов в этом тексте",
+      "audio": false
+    },
+    "en": {
+      "text": "I met so many new words in this text",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Он не может справиться с этой задачей",
+      "audio": false
+    },
+    "en": {
+      "text": "He can't cope with this task",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Огонь горит",
+      "audio": false
+    },
+    "en": {
+      "text": "The fire is burning",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Хватит тратить время!",
+      "audio": false
+    },
+    "en": {
+      "text": "Stop wasting time!",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Она что-то писала в своей записной книжке",
+      "audio": false
+    },
+    "en": {
+      "text": "She was writing something in her notebook",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я подал заявку на работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I applied for a job",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Мальчик упал на землю и повредил ногу",
+      "audio": false
+    },
+    "en": {
+      "text": "The boy fell to the ground and hurt his leg",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Не беспокой его!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't disturb him!",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Мне нужно обменять доллары",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to exchange dollars",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Ее гостеприимство действительно впечатлило меня",
+      "audio": false
+    },
+    "en": {
+      "text": "Her hospitality really impressed me",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Другим не позволено входить в здание",
+      "audio": false
+    },
+    "en": {
+      "text": "Others aren't allowed to enter the building",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "У нас был урок английского, когда прозвенел звонок",
+      "audio": false
+    },
+    "en": {
+      "text": "We were having an English class when the bell rang",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Мы болтали о наших планах на будущее",
+      "audio": false
+    },
+    "en": {
+      "text": "We were chatting about our plans for the future",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я не купил это, потому что это стоило слишком дорого",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't buy it because it cost too much",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Избавиться от акцента не так просто",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't so easy to get rid of an accent",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Студенты стояли там, ожидая своих результатов",
+      "audio": false
+    },
+    "en": {
+      "text": "The students were standing there waiting for their results",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я стараюсь не копировать эти ошибки",
+      "audio": false
+    },
+    "en": {
+      "text": "I try not to copy these mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Часы были отремонтированы им",
+      "audio": false
+    },
+    "en": {
+      "text": "The watch was repaired by him",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я собрал всю необходимую информацию",
+      "audio": false
+    },
+    "en": {
+      "text": "I collected all the necessary information",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он спит в течение двух часов",
+      "audio": false
+    },
+    "en": {
+      "text": "He has been sleeping for two hours",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я чувствую себя более уверенно, когда говорю по-английски",
+      "audio": false
+    },
+    "en": {
+      "text": "I feel more confident when I speak English",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я стараюсь практиковать свой английский каждый день",
+      "audio": false
+    },
+    "en": {
+      "text": "I try to practise my English every day",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Курение запрещено там",
+      "audio": false
+    },
+    "en": {
+      "text": "Smoking isn't allowed there",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Здесь разрешено курить?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is smoking allowed here?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Курение было разрешено там",
+      "audio": false
+    },
+    "en": {
+      "text": "Smoking was allowed there",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Ей удалось выжить в автокатастрофе",
+      "audio": false
+    },
+    "en": {
+      "text": "She managed to survive in a car crash",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Ей удалось избежать этих трудностей",
+      "audio": false
+    },
+    "en": {
+      "text": "She managed to avoid these difficulties",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Ей не удалось выжить в той автокатастрофе",
+      "audio": false
+    },
+    "en": {
+      "text": "She didn't manage to survive in that car crash",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "С ней очень плохо обращались",
+      "audio": false
+    },
+    "en": {
+      "text": "She was treated very badly",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "С ней очень хорошо обращались",
+      "audio": false
+    },
+    "en": {
+      "text": "She was treated very well",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Она очень плохо со мной обращается",
+      "audio": false
+    },
+    "en": {
+      "text": "She treats me very badly",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я хочу полностью избавиться от этих ошибок",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to get rid of these mistakes completely",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я надеюсь, что я избавлюсь от этих ошибок",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope that I will get rid of these mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Мне нужно избавиться от этой одежды",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to get rid of these clothes",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Его часто критикуют за это",
+      "audio": false
+    },
+    "en": {
+      "text": "He is often criticised for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Он всегда критикует меня",
+      "audio": false
+    },
+    "en": {
+      "text": "He always criticises me",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Он не критикует меня совсем",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't criticise me at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Ты уже все починил?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you already repaired everything?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я еще ничего не чинил",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't repaired anything yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я уже починил эти часы",
+      "audio": false
+    },
+    "en": {
+      "text": "I have already repaired this watch",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Когда я пришел к нему, он спал",
+      "audio": false
+    },
+    "en": {
+      "text": "When I came to him, he was sleeping",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Когда он пришел ко мне, я спал",
+      "audio": false
+    },
+    "en": {
+      "text": "When he came to me, I was sleeping",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Когда я позвонил ему, он готовил",
+      "audio": false
+    },
+    "en": {
+      "text": "When I called him, he was cooking",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Только он выжил в автокатастрофе",
+      "audio": false
+    },
+    "en": {
+      "text": "Only he survived in a car crash",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Ему удалось выжить в автокатастрофе",
+      "audio": false
+    },
+    "en": {
+      "text": "He managed to survive in a car crash",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Некоторые люди не выжили в той автокатастрофе",
+      "audio": false
+    },
+    "en": {
+      "text": "Some people didn't survive in that car crash",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Он сказал, что он порезал палец",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had cut his finger",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Он сказал, что он сделал это сам",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had done it by himself",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Он сказал, что он приготовил свой любимый салат",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had cooked his favourite salad",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Он обычно избегает говорить об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "He usually avoids talking about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Старайся не копировать ошибки других студентов",
+      "audio": false
+    },
+    "en": {
+      "text": "Try not to copy other students mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я постараюсь справиться с этими трудностями",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try to cope with these difficulties",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Меня удивляет, что ты никогда не слышал об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "It surprises me that you have never heard about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Она избегает обсуждать это",
+      "audio": false
+    },
+    "en": {
+      "text": "She avoids discussing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я надеюсь, что это не было правдой",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope that it wasn't true",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Мы не были проинформированы вовремя",
+      "audio": false
+    },
+    "en": {
+      "text": "We weren't informed on time",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Я стоял там, ожидая своих результатов",
+      "audio": false
+    },
+    "en": {
+      "text": "I was standing there waiting for my results",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Его очень резко критиковали",
+      "audio": false
+    },
+    "en": {
+      "text": "He was criticised very sharply",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Я никогда не понимал этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never understood it",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Это стоит много денег",
+      "audio": false
+    },
+    "en": {
+      "text": "It costs lots of money",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "К нему относятся очень несправедливо",
+      "audio": false
+    },
+    "en": {
+      "text": "He is treated very unfairly",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Он не позволил ей сделать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't let her do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Постарайся не беспокоить его!",
+      "audio": false
+    },
+    "en": {
+      "text": "Try not to disturb him!",
+      "audio": false
+    }
   }
 ]

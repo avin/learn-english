@@ -1,442 +1,970 @@
 [
   {
-    "_id": 1,
-    "ru": "Он гораздо более осторожный водитель",
-    "en": "He is a much more careful driver"
-  },
-  {
-    "_id": 2,
-    "ru": "Это чрезвычайно популярное телешоу",
-    "en": "It is an extremely popular TV show"
-  },
-  {
-    "_id": 3,
-    "ru": "Она очень чувствительный ребенок",
-    "en": "She is a very sensitive child"
-  },
-  {
-    "_id": 4,
-    "ru": "Это такая маленькая сумма денег",
-    "en": "It is such a small sum of money"
-  },
-  {
-    "_id": 5,
-    "ru": "Они предложили нам специальную цену",
-    "en": "They offered us a special price"
-  },
-  {
-    "_id": 6,
-    "ru": "Она очень чувствительна к критике других людей",
-    "en": "She is very sensitive to other people's criticism"
-  },
-  {
-    "_id": 7,
-    "ru": "Я храню свои документы в безопасном месте",
-    "en": "I keep my documents in a secure place"
-  },
-  {
-    "_id": 8,
-    "ru": "Он старался быть спокойным и бесстрастным",
-    "en": "He tried to be calm and unemotional"
-  },
-  {
-    "_id": 9,
-    "ru": "Когда завтра будет открыт банк?",
-    "en": "When will the bank be open tomorrow?"
-  },
-  {
-    "_id": 10,
-    "ru": "Будущее фирмы кажется безопасным",
-    "en": "The future of the firm seems secure"
-  },
-  {
-    "_id": 11,
-    "ru": "Это был не более чем просто коммерческий проект",
-    "en": "It was no more than just a commercial project"
-  },
-  {
-    "_id": 12,
-    "ru": "Магазин был открыт?",
-    "en": "Was the shop open?"
-  },
-  {
-    "_id": 13,
-    "ru": "Эта цена справедлива",
-    "en": "This price is fair"
-  },
-  {
-    "_id": 14,
-    "ru": "Это частная собственность",
-    "en": "It is private property"
-  },
-  {
-    "_id": 15,
-    "ru": "Этот уровень достаточно высокий?",
-    "en": "Is this level high enough?"
-  },
-  {
-    "_id": 16,
-    "ru": "Это такая популярная тенденция в наши дни",
-    "en": "It is such a popular trend nowadays"
-  },
-  {
-    "_id": 17,
-    "ru": "Он гораздо более опытный сотрудник",
-    "en": "He is a much more experienced employee"
-  },
-  {
-    "_id": 18,
-    "ru": "Я хочу достичь самого высокого уровня в английском языке",
-    "en": "I want to reach the highest level in English"
-  },
-  {
-    "_id": 19,
-    "ru": "Он присутствовал на конференции?",
-    "en": "Was he present at the conference?"
-  },
-  {
-    "_id": 20,
-    "ru": "С днем рождения!",
-    "en": "Happy birthday!"
-  },
-  {
-    "_id": 21,
-    "ru": "У него широкий круг друзей",
-    "en": "He has a wide circle of friends"
-  },
-  {
-    "_id": 22,
-    "ru": "Эта вещь относительно недорогая в этом магазине",
-    "en": "This thing is relatively inexpensive in this store"
-  },
-  {
-    "_id": 23,
-    "ru": "Этот учитель недостаточно опытный",
-    "en": "This teacher isn't experienced enough"
-  },
-  {
-    "_id": 24,
-    "ru": "Она не уверена в будущем",
-    "en": "She is uncertain about the future"
-  },
-  {
-    "_id": 25,
-    "ru": "Он чувствует, что ему нужна дополнительная практика",
-    "en": "He feels that he needs extra practice"
-  },
-  {
-    "_id": 26,
-    "ru": "Эта организация борется за права человека",
-    "en": "This organisation fights for human rights"
-  },
-  {
-    "_id": 27,
-    "ru": "В этом не было ничего особенного",
-    "en": "There was nothing special about it"
-  },
-  {
-    "_id": 28,
-    "ru": "Тебе нужно быть более вежливым с другими",
-    "en": "You need to be more polite to others"
-  },
-  {
-    "_id": 29,
-    "ru": "Это очень недорогое устройство",
-    "en": "It's a very inexpensive device"
-  },
-  {
-    "_id": 30,
-    "ru": "Мы не можем изменить человеческую природу",
-    "en": "We can't change human nature"
-  },
-  {
-    "_id": 31,
-    "ru": "Он не уверен в своем будущем",
-    "en": "He is uncertain about his future"
-  },
-  {
-    "_id": 32,
-    "ru": "У него много работы в настоящее время",
-    "en": "He has a lot of work at present"
-  },
-  {
-    "_id": 33,
-    "ru": "Я желаю, чтобы он был более вежливым",
-    "en": "I wish he were more polite"
-  },
-  {
-    "_id": 34,
-    "ru": "Этот магазин предлагает широкий ассортимент товаров",
-    "en": "This store offers a wide range of goods"
-  },
-  {
-    "_id": 35,
-    "ru": "Озеро довольно глубокое здесь",
-    "en": "The lake is quite deep here"
-  },
-  {
-    "_id": 36,
-    "ru": "Фильм не имел коммерческого успеха",
-    "en": "The movie didn't have commercial success"
-  },
-  {
-    "_id": 37,
-    "ru": "Она стояла в середине комнаты",
-    "en": "She was standing in the middle of the room"
-  },
-  {
-    "_id": 38,
-    "ru": "С моей точки зрения, это практически невозможно",
-    "en": "From my point of view, it's practically impossible"
-  },
-  {
-    "_id": 39,
-    "ru": "Необходимо быть более осторожным",
-    "en": "It is necessary to be more cautious"
-  },
-  {
-    "_id": 40,
-    "ru": "На каких музыкальных инструментах ты можешь играть?",
-    "en": "What musical instruments can you play?"
-  },
-  {
-    "_id": 41,
-    "ru": "Мне кажется, что это нeсправедливое решение",
-    "en": "It seems to me that it isn't a fair decision"
-  },
-  {
-    "_id": 42,
-    "ru": "Они сделали ему эксклюзивное предложение",
-    "en": "They made an exclusive offer to him"
-  },
-  {
-    "_id": 43,
-    "ru": "Я был действительно поражен красотой этого места",
-    "en": "I was really amazed by the beauty of this place"
-  },
-  {
-    "_id": 44,
-    "ru": "Они могут начать принимать более агрессивные меры",
-    "en": "They can start taking more aggressive measures"
-  },
-  {
-    "_id": 45,
-    "ru": "Этот пациент нуждается в хорошей медицинской помощи",
-    "en": "This patient needs good medical care"
-  },
-  {
-    "_id": 46,
-    "ru": "Это их главная цель",
-    "en": "It is their primary objective"
-  },
-  {
-    "_id": 47,
-    "ru": "Он сказал, что будет верен своему обещанию",
-    "en": "He said that he would be faithful to his promise"
-  },
-  {
-    "_id": 48,
-    "ru": "Это довольно глубокое озеро",
-    "en": "It is quite a deep lake"
-  },
-  {
-    "_id": 49,
-    "ru": "Это озеро довольно глубокое",
-    "en": "This lake is quite deep"
-  },
-  {
-    "_id": 50,
-    "ru": "Это очень глубокое море",
-    "en": "It is a very deep sea"
-  },
-  {
-    "_id": 51,
-    "ru": "Это наша главная цель",
-    "en": "It is our primary aim"
-  },
-  {
-    "_id": 52,
-    "ru": "Это не наша основная цель",
-    "en": "It isn't our main aim"
-  },
-  {
-    "_id": 53,
-    "ru": "Мы можем достичь нашей главной цели",
-    "en": "We can achieve our primary aim"
-  },
-  {
-    "_id": 54,
-    "ru": "Это очень дружелюбно с твоей стороны",
-    "en": "It is very friendly of you"
-  },
-  {
-    "_id": 55,
-    "ru": "Он был очень дружелюбен с нами",
-    "en": "He was very friendly to us"
-  },
-  {
-    "_id": 56,
-    "ru": "Это было очень дружелюбно с ее стороны",
-    "en": "It was very friendly of her"
-  },
-  {
-    "_id": 57,
-    "ru": "Он такой умный парень",
-    "en": "He is such a smart guy"
-  },
-  {
-    "_id": 58,
-    "ru": "Этот парень такой умный",
-    "en": "This guy is so smart"
-  },
-  {
-    "_id": 59,
-    "ru": "Он такой добрый человек",
-    "en": "He is such a kind man"
-  },
-  {
-    "_id": 60,
-    "ru": "Этот мальчик кажется умнее его",
-    "en": "This boy seems smarter than him"
-  },
-  {
-    "_id": 61,
-    "ru": "Этот мальчик кажется моложе его",
-    "en": "This boy seems younger than him"
-  },
-  {
-    "_id": 62,
-    "ru": "Та девочка кажется умнее его",
-    "en": "That girl seems smarter than him"
-  },
-  {
-    "_id": 63,
-    "ru": "Что кажется невозможным?",
-    "en": "What seems impossible?"
-  },
-  {
-    "_id": 64,
-    "ru": "Что кажется возможным?",
-    "en": "What seems possible?"
-  },
-  {
-    "_id": 65,
-    "ru": "Что казалось действительно невозможным?",
-    "en": "What seemed really impossible?"
-  },
-  {
-    "_id": 66,
-    "ru": "Чем ты обеспокоен?",
-    "en": "What are you anxious about?"
-  },
-  {
-    "_id": 67,
-    "ru": "Ты обеспокоен этим?",
-    "en": "Are you anxious about it?"
-  },
-  {
-    "_id": 68,
-    "ru": "Она обеспокоена этим",
-    "en": "She is anxious about it"
-  },
-  {
-    "_id": 69,
-    "ru": "Ты так дружелюбен к нам",
-    "en": "You are so friendly to us"
-  },
-  {
-    "_id": 70,
-    "ru": "Ты был так дружелюбен со мной",
-    "en": "You were so friendly to me"
-  },
-  {
-    "_id": 71,
-    "ru": "Они дружелюбны с тобой?",
-    "en": "Are they friendly to you?"
-  },
-  {
-    "_id": 72,
-    "ru": "Ты умеешь играть на каких-либо музыкальных инструментах?",
-    "en": "Can you play any musical instruments?"
-  },
-  {
-    "_id": 73,
-    "ru": "Ты умеешь играть в шахматы?",
-    "en": "Can you play chess?"
-  },
-  {
-    "_id": 74,
-    "ru": "Он не заинтересован в этом проекте",
-    "en": "He feels uninterested in this project"
-  },
-  {
-    "_id": 75,
-    "ru": "Он заинтересован в этом проекте",
-    "en": "He feels interested in this project"
-  },
-  {
-    "_id": 76,
-    "ru": "Он не был заинтересован в том проекте",
-    "en": "He was uninterested in that project"
-  },
-  {
-    "_id": 77,
-    "ru": "С Днем Рождения тебя!",
-    "en": "Happy birthday to you!"
-  },
-  {
-    "_id": 78,
-    "ru": "Это невозможно только в твоем уме",
-    "en": "It is impossible only in your mind"
-  },
-  {
-    "_id": 79,
-    "ru": "Мы были действительно поражены теми словами",
-    "en": "We were really amazed by those words"
-  },
-  {
-    "_id": 80,
-    "ru": "Это было упомянуто в предыдущем уроке",
-    "en": "It was mentioned in the previous lesson"
-  },
-  {
-    "_id": 81,
-    "ru": "Это обсуждалось в середине встречи",
-    "en": "It was discussed in the middle of the meeting"
-  },
-  {
-    "_id": 82,
-    "ru": "Это было объяснено в предыдущих уроках",
-    "en": "It was explained in the previous lessons"
-  },
-  {
-    "_id": 83,
-    "ru": "Он остался верен своим принципам",
-    "en": "He remained faithful to his principles"
-  },
-  {
-    "_id": 84,
-    "ru": "Это может привести к очень негативным последствиям",
-    "en": "It can lead to very negative consequences"
-  },
-  {
-    "_id": 85,
-    "ru": "Этот олигарх владеет частным самолетом",
-    "en": "This oligarch owns a private jet"
-  },
-  {
-    "_id": 86,
-    "ru": "Он хочет иметь свою собственную квартиру",
-    "en": "He wants to have his own apartment"
-  },
-  {
-    "_id": 87,
-    "ru": "Большинство людей беспокоятся о будущем",
-    "en": "Most people are anxious about the future"
-  },
-  {
-    "_id": 88,
-    "ru": "У этой компании есть исключительные права?",
-    "en": "Does this company have exclusive rights?"
+    "id": 1,
+    "ru": {
+      "text": "Он гораздо более осторожный водитель",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a much more careful driver",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Это чрезвычайно популярное телешоу",
+      "audio": false
+    },
+    "en": {
+      "text": "It is an extremely popular TV show",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Она очень чувствительный ребенок",
+      "audio": false
+    },
+    "en": {
+      "text": "She is a very sensitive child",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Это такая маленькая сумма денег",
+      "audio": false
+    },
+    "en": {
+      "text": "It is such a small sum of money",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Они предложили нам специальную цену",
+      "audio": false
+    },
+    "en": {
+      "text": "They offered us a special price",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Она очень чувствительна к критике других людей",
+      "audio": false
+    },
+    "en": {
+      "text": "She is very sensitive to other people's criticism",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Я храню свои документы в безопасном месте",
+      "audio": false
+    },
+    "en": {
+      "text": "I keep my documents in a secure place",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Он старался быть спокойным и бесстрастным",
+      "audio": false
+    },
+    "en": {
+      "text": "He tried to be calm and unemotional",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Когда завтра будет открыт банк?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will the bank be open tomorrow?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Будущее фирмы кажется безопасным",
+      "audio": false
+    },
+    "en": {
+      "text": "The future of the firm seems secure",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Это был не более чем просто коммерческий проект",
+      "audio": false
+    },
+    "en": {
+      "text": "It was no more than just a commercial project",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Магазин был открыт?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was the shop open?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Эта цена справедлива",
+      "audio": false
+    },
+    "en": {
+      "text": "This price is fair",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Это частная собственность",
+      "audio": false
+    },
+    "en": {
+      "text": "It is private property",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Этот уровень достаточно высокий?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this level high enough?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Это такая популярная тенденция в наши дни",
+      "audio": false
+    },
+    "en": {
+      "text": "It is such a popular trend nowadays",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Он гораздо более опытный сотрудник",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a much more experienced employee",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я хочу достичь самого высокого уровня в английском языке",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to reach the highest level in English",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он присутствовал на конференции?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was he present at the conference?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "С днем рождения!",
+      "audio": false
+    },
+    "en": {
+      "text": "Happy birthday!",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "У него широкий круг друзей",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a wide circle of friends",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Эта вещь относительно недорогая в этом магазине",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing is relatively inexpensive in this store",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Этот учитель недостаточно опытный",
+      "audio": false
+    },
+    "en": {
+      "text": "This teacher isn't experienced enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Она не уверена в будущем",
+      "audio": false
+    },
+    "en": {
+      "text": "She is uncertain about the future",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Он чувствует, что ему нужна дополнительная практика",
+      "audio": false
+    },
+    "en": {
+      "text": "He feels that he needs extra practice",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Эта организация борется за права человека",
+      "audio": false
+    },
+    "en": {
+      "text": "This organisation fights for human rights",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "В этом не было ничего особенного",
+      "audio": false
+    },
+    "en": {
+      "text": "There was nothing special about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Тебе нужно быть более вежливым с другими",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to be more polite to others",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Это очень недорогое устройство",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very inexpensive device",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Мы не можем изменить человеческую природу",
+      "audio": false
+    },
+    "en": {
+      "text": "We can't change human nature",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Он не уверен в своем будущем",
+      "audio": false
+    },
+    "en": {
+      "text": "He is uncertain about his future",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "У него много работы в настоящее время",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a lot of work at present",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я желаю, чтобы он был более вежливым",
+      "audio": false
+    },
+    "en": {
+      "text": "I wish he were more polite",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Этот магазин предлагает широкий ассортимент товаров",
+      "audio": false
+    },
+    "en": {
+      "text": "This store offers a wide range of goods",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Озеро довольно глубокое здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "The lake is quite deep here",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Фильм не имел коммерческого успеха",
+      "audio": false
+    },
+    "en": {
+      "text": "The movie didn't have commercial success",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Она стояла в середине комнаты",
+      "audio": false
+    },
+    "en": {
+      "text": "She was standing in the middle of the room",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "С моей точки зрения, это практически невозможно",
+      "audio": false
+    },
+    "en": {
+      "text": "From my point of view, it's practically impossible",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Необходимо быть более осторожным",
+      "audio": false
+    },
+    "en": {
+      "text": "It is necessary to be more cautious",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "На каких музыкальных инструментах ты можешь играть?",
+      "audio": false
+    },
+    "en": {
+      "text": "What musical instruments can you play?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Мне кажется, что это нeсправедливое решение",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me that it isn't a fair decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Они сделали ему эксклюзивное предложение",
+      "audio": false
+    },
+    "en": {
+      "text": "They made an exclusive offer to him",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я был действительно поражен красотой этого места",
+      "audio": false
+    },
+    "en": {
+      "text": "I was really amazed by the beauty of this place",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Они могут начать принимать более агрессивные меры",
+      "audio": false
+    },
+    "en": {
+      "text": "They can start taking more aggressive measures",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Этот пациент нуждается в хорошей медицинской помощи",
+      "audio": false
+    },
+    "en": {
+      "text": "This patient needs good medical care",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Это их главная цель",
+      "audio": false
+    },
+    "en": {
+      "text": "It is their primary objective",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Он сказал, что будет верен своему обещанию",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he would be faithful to his promise",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Это довольно глубокое озеро",
+      "audio": false
+    },
+    "en": {
+      "text": "It is quite a deep lake",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Это озеро довольно глубокое",
+      "audio": false
+    },
+    "en": {
+      "text": "This lake is quite deep",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Это очень глубокое море",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a very deep sea",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Это наша главная цель",
+      "audio": false
+    },
+    "en": {
+      "text": "It is our primary aim",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Это не наша основная цель",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't our main aim",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Мы можем достичь нашей главной цели",
+      "audio": false
+    },
+    "en": {
+      "text": "We can achieve our primary aim",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Это очень дружелюбно с твоей стороны",
+      "audio": false
+    },
+    "en": {
+      "text": "It is very friendly of you",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Он был очень дружелюбен с нами",
+      "audio": false
+    },
+    "en": {
+      "text": "He was very friendly to us",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Это было очень дружелюбно с ее стороны",
+      "audio": false
+    },
+    "en": {
+      "text": "It was very friendly of her",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Он такой умный парень",
+      "audio": false
+    },
+    "en": {
+      "text": "He is such a smart guy",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Этот парень такой умный",
+      "audio": false
+    },
+    "en": {
+      "text": "This guy is so smart",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Он такой добрый человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is such a kind man",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Этот мальчик кажется умнее его",
+      "audio": false
+    },
+    "en": {
+      "text": "This boy seems smarter than him",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Этот мальчик кажется моложе его",
+      "audio": false
+    },
+    "en": {
+      "text": "This boy seems younger than him",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Та девочка кажется умнее его",
+      "audio": false
+    },
+    "en": {
+      "text": "That girl seems smarter than him",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Что кажется невозможным?",
+      "audio": false
+    },
+    "en": {
+      "text": "What seems impossible?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Что кажется возможным?",
+      "audio": false
+    },
+    "en": {
+      "text": "What seems possible?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Что казалось действительно невозможным?",
+      "audio": false
+    },
+    "en": {
+      "text": "What seemed really impossible?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Чем ты обеспокоен?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you anxious about?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Ты обеспокоен этим?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you anxious about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Она обеспокоена этим",
+      "audio": false
+    },
+    "en": {
+      "text": "She is anxious about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Ты так дружелюбен к нам",
+      "audio": false
+    },
+    "en": {
+      "text": "You are so friendly to us",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Ты был так дружелюбен со мной",
+      "audio": false
+    },
+    "en": {
+      "text": "You were so friendly to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Они дружелюбны с тобой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they friendly to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Ты умеешь играть на каких-либо музыкальных инструментах?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you play any musical instruments?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Ты умеешь играть в шахматы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you play chess?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Он не заинтересован в этом проекте",
+      "audio": false
+    },
+    "en": {
+      "text": "He feels uninterested in this project",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Он заинтересован в этом проекте",
+      "audio": false
+    },
+    "en": {
+      "text": "He feels interested in this project",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Он не был заинтересован в том проекте",
+      "audio": false
+    },
+    "en": {
+      "text": "He was uninterested in that project",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "С Днем Рождения тебя!",
+      "audio": false
+    },
+    "en": {
+      "text": "Happy birthday to you!",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Это невозможно только в твоем уме",
+      "audio": false
+    },
+    "en": {
+      "text": "It is impossible only in your mind",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Мы были действительно поражены теми словами",
+      "audio": false
+    },
+    "en": {
+      "text": "We were really amazed by those words",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Это было упомянуто в предыдущем уроке",
+      "audio": false
+    },
+    "en": {
+      "text": "It was mentioned in the previous lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Это обсуждалось в середине встречи",
+      "audio": false
+    },
+    "en": {
+      "text": "It was discussed in the middle of the meeting",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Это было объяснено в предыдущих уроках",
+      "audio": false
+    },
+    "en": {
+      "text": "It was explained in the previous lessons",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Он остался верен своим принципам",
+      "audio": false
+    },
+    "en": {
+      "text": "He remained faithful to his principles",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Это может привести к очень негативным последствиям",
+      "audio": false
+    },
+    "en": {
+      "text": "It can lead to very negative consequences",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Этот олигарх владеет частным самолетом",
+      "audio": false
+    },
+    "en": {
+      "text": "This oligarch owns a private jet",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Он хочет иметь свою собственную квартиру",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to have his own apartment",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Большинство людей беспокоятся о будущем",
+      "audio": false
+    },
+    "en": {
+      "text": "Most people are anxious about the future",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "У этой компании есть исключительные права?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this company have exclusive rights?",
+      "audio": false
+    }
   }
 ]

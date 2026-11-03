@@ -1,492 +1,1080 @@
 [
   {
-    "_id": 1,
-    "ru": "Мне нужно закрыть шторы",
-    "en": "I need to close the curtains"
-  },
-  {
-    "_id": 2,
-    "ru": "Он владеет этой компанией?",
-    "en": "Does he own this company?"
-  },
-  {
-    "_id": 3,
-    "ru": "Он ее не поцеловал",
-    "en": "He didn't kiss her"
-  },
-  {
-    "_id": 4,
-    "ru": "Я спрятал это под подушку",
-    "en": "I hid it under the pillow"
-  },
-  {
-    "_id": 5,
-    "ru": "Они внезапно напали на своего врага",
-    "en": "They attacked their enemy suddenly"
-  },
-  {
-    "_id": 6,
-    "ru": "Она спрятала письмо",
-    "en": "She hid the letter"
-  },
-  {
-    "_id": 7,
-    "ru": "Это случилось со мной так неожиданно",
-    "en": "It happened to me so unexpectedly"
-  },
-  {
-    "_id": 8,
-    "ru": "Когда это произойдет?",
-    "en": "When will it happen?"
-  },
-  {
-    "_id": 9,
-    "ru": "Она закрыла шторы",
-    "en": "She closed the curtains"
-  },
-  {
-    "_id": 10,
-    "ru": "Ты можешь закрыть дверь",
-    "en": "You can close the door"
-  },
-  {
-    "_id": 11,
-    "ru": "Я нашел то предложение очень привлекательным",
-    "en": "I found that offer very attractive"
-  },
-  {
-    "_id": 12,
-    "ru": "Он испытывал очень серьезные трудности",
-    "en": "He experienced very serious difficulties"
-  },
-  {
-    "_id": 13,
-    "ru": "Я готов заказать это",
-    "en": "I'm ready to order it"
-  },
-  {
-    "_id": 14,
-    "ru": "Они говорят, что курение убивает",
-    "en": "They say that smoking kills"
-  },
-  {
-    "_id": 15,
-    "ru": "Я повесил свое пальто на крючок",
-    "en": "I hung my coat on a hook"
-  },
-  {
-    "_id": 16,
-    "ru": "Не трать свое время впустую!",
-    "en": "Don't waste your time!"
-  },
-  {
-    "_id": 17,
-    "ru": "Как ты находишь то предложение?",
-    "en": "How do you find that offer?"
-  },
-  {
-    "_id": 18,
-    "ru": "Что ты будешь заказывать?",
-    "en": "What will you order?"
-  },
-  {
-    "_id": 19,
-    "ru": "Ты будешь продавать свою машину?",
-    "en": "Will you sell your car?"
-  },
-  {
-    "_id": 20,
-    "ru": "Когда ты прибудешь на работу?",
-    "en": "When will you arrive at work?"
-  },
-  {
-    "_id": 21,
-    "ru": "Не подписывай эти бумаги!",
-    "en": "Don't sign these papers!"
-  },
-  {
-    "_id": 22,
-    "ru": "В какие игры ты предпочитаешь играть?",
-    "en": "What games do you prefer to play?"
-  },
-  {
-    "_id": 23,
-    "ru": "Какую музыку ты предпочитаешь?",
-    "en": "What music do you prefer?"
-  },
-  {
-    "_id": 24,
-    "ru": "Я повесил свою куртку на крючок",
-    "en": "I hung my jacket on a hook"
-  },
-  {
-    "_id": 25,
-    "ru": "Я не испытывал таких трудностей",
-    "en": "I didn't experience such difficulties"
-  },
-  {
-    "_id": 26,
-    "ru": "Ты готов заказать?",
-    "en": "Are you ready to order?"
-  },
-  {
-    "_id": 27,
-    "ru": "Кто напал на них?",
-    "en": "Who attacked them?"
-  },
-  {
-    "_id": 28,
-    "ru": "Никогда не трать впустую свое время!",
-    "en": "Never waste your time!"
-  },
-  {
-    "_id": 29,
-    "ru": "Он будет петь сегодня вечером?",
-    "en": "Will he sing tonight?"
-  },
-  {
-    "_id": 30,
-    "ru": "Он не хотел убивать их",
-    "en": "He didn't want to kill them"
-  },
-  {
-    "_id": 31,
-    "ru": "Я хотел бы спеть эту песню",
-    "en": "I’d like to sing this song"
-  },
-  {
-    "_id": 32,
-    "ru": "Они протестировали наши знания",
-    "en": "They tested our knowledge"
-  },
-  {
-    "_id": 33,
-    "ru": "Они пели очень красиво",
-    "en": "They sang very beautifully"
-  },
-  {
-    "_id": 34,
-    "ru": "Я надеюсь выиграть",
-    "en": "I hope to win"
-  },
-  {
-    "_id": 35,
-    "ru": "Они владеют этим бизнесом",
-    "en": "They own this business"
-  },
-  {
-    "_id": 36,
-    "ru": "Он не заботится об этом",
-    "en": "He doesn't care about it"
-  },
-  {
-    "_id": 37,
-    "ru": "Они протестировали все машины",
-    "en": "They tested all the machines"
-  },
-  {
-    "_id": 38,
-    "ru": "Он описал эту проблему",
-    "en": "He described this problem"
-  },
-  {
-    "_id": 39,
-    "ru": "Эти аварии часто случаются",
-    "en": "These accidents often happen"
-  },
-  {
-    "_id": 40,
-    "ru": "Это очень сильно мотивирует меня",
-    "en": "It motivates me greatly"
-  },
-  {
-    "_id": 41,
-    "ru": "Они подписали очень важный контракт",
-    "en": "They signed a very important contract"
-  },
-  {
-    "_id": 42,
-    "ru": "Я заказал стакан сока и два сэндвича",
-    "en": "I ordered a glass of juice and two sandwiches"
-  },
-  {
-    "_id": 43,
-    "ru": "Она подготовит все к его дню рождения",
-    "en": "She’ll prepare everything for his birthday"
-  },
-  {
-    "_id": 44,
-    "ru": "Я надеюсь, ты сможешь прийти к нам",
-    "en": "I hope you’ll be able to come to us"
-  },
-  {
-    "_id": 45,
-    "ru": "Я решил прекратить тратить время впустую",
-    "en": "I decided to stop wasting time"
-  },
-  {
-    "_id": 46,
-    "ru": "Я заказал чашку кофе и сэндвич с сыром",
-    "en": "I ordered a cup of coffee and a cheese sandwich"
-  },
-  {
-    "_id": 47,
-    "ru": "Он продал свою машину за пятнадцать тысяч долларов",
-    "en": "He sold his car for fifteen thousand dollars"
-  },
-  {
-    "_id": 48,
-    "ru": "Я видел ее там, но мы не разговаривали",
-    "en": "I saw her there but we didn't speak"
-  },
-  {
-    "_id": 49,
-    "ru": "Я действительно обожаю заниматься спортом",
-    "en": "I really enjoy playing sport"
-  },
-  {
-    "_id": 50,
-    "ru": "Кого это волнует?",
-    "en": "Who cares about it?"
-  },
-  {
-    "_id": 51,
-    "ru": "Он предпочитает кофе чаю",
-    "en": "He prefers coffee to tea"
-  },
-  {
-    "_id": 52,
-    "ru": "Я предпочитаю не курить",
-    "en": "I prefer not to smoke"
-  },
-  {
-    "_id": 53,
-    "ru": "Я могу описать ее внешность",
-    "en": "I can describe her appearance"
-  },
-  {
-    "_id": 54,
-    "ru": "Он рассказал мне всю правду",
-    "en": "He told me all the truth"
-  },
-  {
-    "_id": 55,
-    "ru": "Он скрыл всю правду",
-    "en": "He hid all the truth"
-  },
-  {
-    "_id": 56,
-    "ru": "Ты можешь рассказать ему правду?",
-    "en": "Can you tell him the truth?"
-  },
-  {
-    "_id": 57,
-    "ru": "Они не сказали мне, как это сделать",
-    "en": "They didn't tell me how to do it"
-  },
-  {
-    "_id": 58,
-    "ru": "Я не знаю, как это сделать",
-    "en": "I don't know how to do it"
-  },
-  {
-    "_id": 59,
-    "ru": "Ты сказал ему, как это сделать?",
-    "en": "Did you tell him how to do it?"
-  },
-  {
-    "_id": 60,
-    "ru": "Он предпочитает не курить",
-    "en": "He prefers not to smoke"
-  },
-  {
-    "_id": 61,
-    "ru": "Он хочет бросить курить",
-    "en": "He wants to stop smoking"
-  },
-  {
-    "_id": 62,
-    "ru": "Я предпочитаю больше не курить",
-    "en": "I prefer not to smoke anymore"
-  },
-  {
-    "_id": 63,
-    "ru": "Что его больше всего удивило?",
-    "en": "What surprised him most of all?"
-  },
-  {
-    "_id": 64,
-    "ru": "Кто тебя больше всего удивляет?",
-    "en": "Who surprises you most of all?"
-  },
-  {
-    "_id": 65,
-    "ru": "Что тебя удивило в этой ситуации?",
-    "en": "What surprised you in this situation?"
-  },
-  {
-    "_id": 66,
-    "ru": "Я предпочитаю чай кофе",
-    "en": "I prefer tea to coffee"
-  },
-  {
-    "_id": 67,
-    "ru": "Она предпочитает кофе чаю",
-    "en": "She prefers coffee to tea"
-  },
-  {
-    "_id": 68,
-    "ru": "Он предпочитает мясо рыбе",
-    "en": "He prefers meat to fish"
-  },
-  {
-    "_id": 69,
-    "ru": "Кого действительно волнует?",
-    "en": "Who really cares?"
-  },
-  {
-    "_id": 70,
-    "ru": "Кого действительно волнует та вещь?",
-    "en": "Who really cares about that thing?"
-  },
-  {
-    "_id": 71,
-    "ru": "Тебе нужно подписать там",
-    "en": "You need to sign there"
-  },
-  {
-    "_id": 72,
-    "ru": "Тебе нужно подписать этот документ",
-    "en": "You need to sign this document"
-  },
-  {
-    "_id": 73,
-    "ru": "Тебе не нужно подписывать ту бумагу",
-    "en": "You don't need to sign that paper"
-  },
-  {
-    "_id": 74,
-    "ru": "Он не готовился к своим экзаменам",
-    "en": "He didn't prepare for his exams"
-  },
-  {
-    "_id": 75,
-    "ru": "Я не готовился к этому тесту",
-    "en": "I didn't prepare for this test"
-  },
-  {
-    "_id": 76,
-    "ru": "Тебе нужно подготовиться к экзамену",
-    "en": "You need to prepare for the exam"
-  },
-  {
-    "_id": 77,
-    "ru": "Я стараюсь не тратить время впустую",
-    "en": "I try not to waste time"
-  },
-  {
-    "_id": 78,
-    "ru": "Я стараюсь не тратить впустую свое время на это",
-    "en": "I try not to waste my time on it"
-  },
-  {
-    "_id": 79,
-    "ru": "Я постараюсь не тратить впустую там свои деньги",
-    "en": "I’ll try not to waste my money there"
-  },
-  {
-    "_id": 80,
-    "ru": "Мне действительно нравится заниматься спортом",
-    "en": "I really like playing sport"
-  },
-  {
-    "_id": 81,
-    "ru": "Мне действительно нравилось играть в футбол",
-    "en": "I really liked playing football"
-  },
-  {
-    "_id": 82,
-    "ru": "Мне действительно нравится плавать в море",
-    "en": "I really like swimming in the sea"
-  },
-  {
-    "_id": 83,
-    "ru": "Она повесила картину на стену",
-    "en": "She hung the painting on the wall"
-  },
-  {
-    "_id": 84,
-    "ru": "Как ты готовился к тесту?",
-    "en": "How did you prepare for the test?"
-  },
-  {
-    "_id": 85,
-    "ru": "Команда играла очень профессионально",
-    "en": "The team played very professionally"
-  },
-  {
-    "_id": 86,
-    "ru": "Кого действительно волнует эта вещь?",
-    "en": "Who really cares about this thing?"
-  },
-  {
-    "_id": 87,
-    "ru": "Она решила не продавать свой дом",
-    "en": "She decided not to sell her house"
-  },
-  {
-    "_id": 88,
-    "ru": "Ты можешь описать его внешность?",
-    "en": "Can you describe his appearance?"
-  },
-  {
-    "_id": 89,
-    "ru": "Почти невозможно поверить в это",
-    "en": "It's almost impossible to believe it"
-  },
-  {
-    "_id": 90,
-    "ru": "Я бы не смеялся над этим",
-    "en": "I wouldn't laugh at it"
-  },
-  {
-    "_id": 91,
-    "ru": "Трудно поверить в это",
-    "en": "It's difficult to believe it"
-  },
-  {
-    "_id": 92,
-    "ru": "Могу я поговорить с ней?",
-    "en": "Can I speak to her?"
-  },
-  {
-    "_id": 93,
-    "ru": "Я не могу закрыть глаза на это",
-    "en": "I can't close my eyes on it"
-  },
-  {
-    "_id": 94,
-    "ru": "Не рассказывай ей об этом!",
-    "en": "Don't tell her about it!"
-  },
-  {
-    "_id": 95,
-    "ru": "Ему нужно подписать здесь",
-    "en": "He needs to sign here"
-  },
-  {
-    "_id": 96,
-    "ru": "Могу я поговорить с ним?",
-    "en": "Can I speak to him?"
-  },
-  {
-    "_id": 97,
-    "ru": "Они скрыли правду",
-    "en": "They hid the truth"
-  },
-  {
-    "_id": 98,
-    "ru": "Они переехали в Америку",
-    "en": "They moved to America"
+    "id": 1,
+    "ru": {
+      "text": "Мне нужно закрыть шторы",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to close the curtains",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Он владеет этой компанией?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he own this company?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Он ее не поцеловал",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't kiss her",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я спрятал это под подушку",
+      "audio": false
+    },
+    "en": {
+      "text": "I hid it under the pillow",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Они внезапно напали на своего врага",
+      "audio": false
+    },
+    "en": {
+      "text": "They attacked their enemy suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Она спрятала письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "She hid the letter",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Это случилось со мной так неожиданно",
+      "audio": false
+    },
+    "en": {
+      "text": "It happened to me so unexpectedly",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Когда это произойдет?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will it happen?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Она закрыла шторы",
+      "audio": false
+    },
+    "en": {
+      "text": "She closed the curtains",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Ты можешь закрыть дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "You can close the door",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я нашел то предложение очень привлекательным",
+      "audio": false
+    },
+    "en": {
+      "text": "I found that offer very attractive",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Он испытывал очень серьезные трудности",
+      "audio": false
+    },
+    "en": {
+      "text": "He experienced very serious difficulties",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Я готов заказать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm ready to order it",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Они говорят, что курение убивает",
+      "audio": false
+    },
+    "en": {
+      "text": "They say that smoking kills",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я повесил свое пальто на крючок",
+      "audio": false
+    },
+    "en": {
+      "text": "I hung my coat on a hook",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Не трать свое время впустую!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't waste your time!",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Как ты находишь то предложение?",
+      "audio": false
+    },
+    "en": {
+      "text": "How do you find that offer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Что ты будешь заказывать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you order?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Ты будешь продавать свою машину?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you sell your car?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Когда ты прибудешь на работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you arrive at work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Не подписывай эти бумаги!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't sign these papers!",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "В какие игры ты предпочитаешь играть?",
+      "audio": false
+    },
+    "en": {
+      "text": "What games do you prefer to play?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Какую музыку ты предпочитаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What music do you prefer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Я повесил свою куртку на крючок",
+      "audio": false
+    },
+    "en": {
+      "text": "I hung my jacket on a hook",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Я не испытывал таких трудностей",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't experience such difficulties",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Ты готов заказать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you ready to order?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Кто напал на них?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who attacked them?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Никогда не трать впустую свое время!",
+      "audio": false
+    },
+    "en": {
+      "text": "Never waste your time!",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Он будет петь сегодня вечером?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he sing tonight?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Он не хотел убивать их",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't want to kill them",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Я хотел бы спеть эту песню",
+      "audio": false
+    },
+    "en": {
+      "text": "I’d like to sing this song",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Они протестировали наши знания",
+      "audio": false
+    },
+    "en": {
+      "text": "They tested our knowledge",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Они пели очень красиво",
+      "audio": false
+    },
+    "en": {
+      "text": "They sang very beautifully",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я надеюсь выиграть",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope to win",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Они владеют этим бизнесом",
+      "audio": false
+    },
+    "en": {
+      "text": "They own this business",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Он не заботится об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't care about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Они протестировали все машины",
+      "audio": false
+    },
+    "en": {
+      "text": "They tested all the machines",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Он описал эту проблему",
+      "audio": false
+    },
+    "en": {
+      "text": "He described this problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Эти аварии часто случаются",
+      "audio": false
+    },
+    "en": {
+      "text": "These accidents often happen",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Это очень сильно мотивирует меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It motivates me greatly",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Они подписали очень важный контракт",
+      "audio": false
+    },
+    "en": {
+      "text": "They signed a very important contract",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я заказал стакан сока и два сэндвича",
+      "audio": false
+    },
+    "en": {
+      "text": "I ordered a glass of juice and two sandwiches",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Она подготовит все к его дню рождения",
+      "audio": false
+    },
+    "en": {
+      "text": "She’ll prepare everything for his birthday",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я надеюсь, ты сможешь прийти к нам",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope you’ll be able to come to us",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я решил прекратить тратить время впустую",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to stop wasting time",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я заказал чашку кофе и сэндвич с сыром",
+      "audio": false
+    },
+    "en": {
+      "text": "I ordered a cup of coffee and a cheese sandwich",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Он продал свою машину за пятнадцать тысяч долларов",
+      "audio": false
+    },
+    "en": {
+      "text": "He sold his car for fifteen thousand dollars",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я видел ее там, но мы не разговаривали",
+      "audio": false
+    },
+    "en": {
+      "text": "I saw her there but we didn't speak",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я действительно обожаю заниматься спортом",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy playing sport",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Кого это волнует?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who cares about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Он предпочитает кофе чаю",
+      "audio": false
+    },
+    "en": {
+      "text": "He prefers coffee to tea",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я предпочитаю не курить",
+      "audio": false
+    },
+    "en": {
+      "text": "I prefer not to smoke",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я могу описать ее внешность",
+      "audio": false
+    },
+    "en": {
+      "text": "I can describe her appearance",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Он рассказал мне всю правду",
+      "audio": false
+    },
+    "en": {
+      "text": "He told me all the truth",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Он скрыл всю правду",
+      "audio": false
+    },
+    "en": {
+      "text": "He hid all the truth",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Ты можешь рассказать ему правду?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you tell him the truth?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Они не сказали мне, как это сделать",
+      "audio": false
+    },
+    "en": {
+      "text": "They didn't tell me how to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я не знаю, как это сделать",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know how to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Ты сказал ему, как это сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you tell him how to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Он предпочитает не курить",
+      "audio": false
+    },
+    "en": {
+      "text": "He prefers not to smoke",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он хочет бросить курить",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to stop smoking",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я предпочитаю больше не курить",
+      "audio": false
+    },
+    "en": {
+      "text": "I prefer not to smoke anymore",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Что его больше всего удивило?",
+      "audio": false
+    },
+    "en": {
+      "text": "What surprised him most of all?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Кто тебя больше всего удивляет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who surprises you most of all?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Что тебя удивило в этой ситуации?",
+      "audio": false
+    },
+    "en": {
+      "text": "What surprised you in this situation?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я предпочитаю чай кофе",
+      "audio": false
+    },
+    "en": {
+      "text": "I prefer tea to coffee",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Она предпочитает кофе чаю",
+      "audio": false
+    },
+    "en": {
+      "text": "She prefers coffee to tea",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Он предпочитает мясо рыбе",
+      "audio": false
+    },
+    "en": {
+      "text": "He prefers meat to fish",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Кого действительно волнует?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who really cares?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Кого действительно волнует та вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who really cares about that thing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Тебе нужно подписать там",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to sign there",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Тебе нужно подписать этот документ",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to sign this document",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Тебе не нужно подписывать ту бумагу",
+      "audio": false
+    },
+    "en": {
+      "text": "You don't need to sign that paper",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Он не готовился к своим экзаменам",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't prepare for his exams",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я не готовился к этому тесту",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't prepare for this test",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Тебе нужно подготовиться к экзамену",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to prepare for the exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я стараюсь не тратить время впустую",
+      "audio": false
+    },
+    "en": {
+      "text": "I try not to waste time",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я стараюсь не тратить впустую свое время на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I try not to waste my time on it",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Я постараюсь не тратить впустую там свои деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "I’ll try not to waste my money there",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Мне действительно нравится заниматься спортом",
+      "audio": false
+    },
+    "en": {
+      "text": "I really like playing sport",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Мне действительно нравилось играть в футбол",
+      "audio": false
+    },
+    "en": {
+      "text": "I really liked playing football",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Мне действительно нравится плавать в море",
+      "audio": false
+    },
+    "en": {
+      "text": "I really like swimming in the sea",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Она повесила картину на стену",
+      "audio": false
+    },
+    "en": {
+      "text": "She hung the painting on the wall",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Как ты готовился к тесту?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you prepare for the test?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Команда играла очень профессионально",
+      "audio": false
+    },
+    "en": {
+      "text": "The team played very professionally",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Кого действительно волнует эта вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who really cares about this thing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Она решила не продавать свой дом",
+      "audio": false
+    },
+    "en": {
+      "text": "She decided not to sell her house",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Ты можешь описать его внешность?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you describe his appearance?",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Почти невозможно поверить в это",
+      "audio": false
+    },
+    "en": {
+      "text": "It's almost impossible to believe it",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Я бы не смеялся над этим",
+      "audio": false
+    },
+    "en": {
+      "text": "I wouldn't laugh at it",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Трудно поверить в это",
+      "audio": false
+    },
+    "en": {
+      "text": "It's difficult to believe it",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Могу я поговорить с ней?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can I speak to her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Я не могу закрыть глаза на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't close my eyes on it",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Не рассказывай ей об этом!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't tell her about it!",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Ему нужно подписать здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "He needs to sign here",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Могу я поговорить с ним?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can I speak to him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Они скрыли правду",
+      "audio": false
+    },
+    "en": {
+      "text": "They hid the truth",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Они переехали в Америку",
+      "audio": false
+    },
+    "en": {
+      "text": "They moved to America",
+      "audio": false
+    }
   }
 ]

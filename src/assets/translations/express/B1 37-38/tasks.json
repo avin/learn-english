@@ -1,112 +1,244 @@
 [
   {
-    "_id": 1,
-    "ru": "Он преподает английский язык около десяти лет",
-    "en": "He's been teaching English for about ten years"
+    "id": 1,
+    "ru": {
+      "text": "Он преподает английский язык около десяти лет",
+      "audio": false
+    },
+    "en": {
+      "text": "He's been teaching English for about ten years",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Как вы можете видить, сейчас все контролируется",
-    "en": "As you can see, everything is being controlled now"
+    "id": 2,
+    "ru": {
+      "text": "Как вы можете видить, сейчас все контролируется",
+      "audio": false
+    },
+    "en": {
+      "text": "As you can see, everything is being controlled now",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Он сказал, что они живут вместе два года",
-    "en": "He said that they had been living together for two years"
+    "id": 3,
+    "ru": {
+      "text": "Он сказал, что они живут вместе два года",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that they had been living together for two years",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Он сказал, что потерял билет",
-    "en": "He said that he had lost the ticket"
+    "id": 4,
+    "ru": {
+      "text": "Он сказал, что потерял билет",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had lost the ticket",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Он сказал, что эта цель уже достигнута",
-    "en": "He said that this aim had already been achieved"
+    "id": 5,
+    "ru": {
+      "text": "Он сказал, что эта цель уже достигнута",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that this aim had already been achieved",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я хотел бы спросить тебя, что это значит",
-    "en": "I'd like to ask you what it means"
+    "id": 6,
+    "ru": {
+      "text": "Я хотел бы спросить тебя, что это значит",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to ask you what it means",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Он решил, что сократит свою речь",
-    "en": "He decided that he would shorten his speech"
+    "id": 7,
+    "ru": {
+      "text": "Он решил, что сократит свою речь",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided that he would shorten his speech",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Что повлияло на тебя больше всего?",
-    "en": "What influenced you most of all?"
+    "id": 8,
+    "ru": {
+      "text": "Что повлияло на тебя больше всего?",
+      "audio": false
+    },
+    "en": {
+      "text": "What influenced you most of all?",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Она сказала, что они перепрыгнули через забор",
-    "en": "She said that they had jumped over the fence"
+    "id": 9,
+    "ru": {
+      "text": "Она сказала, что они перепрыгнули через забор",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that they had jumped over the fence",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Эта еда такая хорошая на вкус",
-    "en": "This food tastes so good"
+    "id": 10,
+    "ru": {
+      "text": "Эта еда такая хорошая на вкус",
+      "audio": false
+    },
+    "en": {
+      "text": "This food tastes so good",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Он заметил, что еще один экземпляр оправят нам",
-    "en": "He noted that one more copy would be sent to us"
+    "id": 11,
+    "ru": {
+      "text": "Он заметил, что еще один экземпляр оправят нам",
+      "audio": false
+    },
+    "en": {
+      "text": "He noted that one more copy would be sent to us",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Нашу группу разделили на три части",
-    "en": "Our group was divided into three parts"
+    "id": 12,
+    "ru": {
+      "text": "Нашу группу разделили на три части",
+      "audio": false
+    },
+    "en": {
+      "text": "Our group was divided into three parts",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Это описано очень ярко в этой книге",
-    "en": "It's described very vividly in this book"
+    "id": 13,
+    "ru": {
+      "text": "Это описано очень ярко в этой книге",
+      "audio": false
+    },
+    "en": {
+      "text": "It's described very vividly in this book",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Он пообещал, что представит эти материалы нам",
-    "en": "He promised that he would present these materials to us"
+    "id": 14,
+    "ru": {
+      "text": "Он пообещал, что представит эти материалы нам",
+      "audio": false
+    },
+    "en": {
+      "text": "He promised that he would present these materials to us",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Ей посоветовали перестать паниковать",
-    "en": "She was advised to stop panicking"
+    "id": 15,
+    "ru": {
+      "text": "Ей посоветовали перестать паниковать",
+      "audio": false
+    },
+    "en": {
+      "text": "She was advised to stop panicking",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Он боялся, что это будет ограничивать его свободу",
-    "en": "He was afraid that it would limit his freedom"
+    "id": 16,
+    "ru": {
+      "text": "Он боялся, что это будет ограничивать его свободу",
+      "audio": false
+    },
+    "en": {
+      "text": "He was afraid that it would limit his freedom",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Он очень сильно ударил ногой по мячу",
-    "en": "He kicked the ball very hard"
+    "id": 17,
+    "ru": {
+      "text": "Он очень сильно ударил ногой по мячу",
+      "audio": false
+    },
+    "en": {
+      "text": "He kicked the ball very hard",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Я собираюсь присутствовать на этой встрече. А ты?",
-    "en": "I'm going to attend this meeting. And you?"
+    "id": 18,
+    "ru": {
+      "text": "Я собираюсь присутствовать на этой встрече. А ты?",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm going to attend this meeting. And you?",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "В чем они его обвиняют?",
-    "en": "What do they accuse him of?"
+    "id": 19,
+    "ru": {
+      "text": "В чем они его обвиняют?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do they accuse him of?",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Меня поприветствовали очень тепло",
-    "en": "I was greeted very warmly"
+    "id": 20,
+    "ru": {
+      "text": "Меня поприветствовали очень тепло",
+      "audio": false
+    },
+    "en": {
+      "text": "I was greeted very warmly",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Он был так зол, что порвал бумаги",
-    "en": "He was so angry that he tore the papers"
+    "id": 21,
+    "ru": {
+      "text": "Он был так зол, что порвал бумаги",
+      "audio": false
+    },
+    "en": {
+      "text": "He was so angry that he tore the papers",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Она познакомила его со своими родителями",
-    "en": "She introduced him to her parents"
+    "id": 22,
+    "ru": {
+      "text": "Она познакомила его со своими родителями",
+      "audio": false
+    },
+    "en": {
+      "text": "She introduced him to her parents",
+      "audio": false
+    }
   }
 ]

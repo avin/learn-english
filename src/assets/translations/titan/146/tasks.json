@@ -1,527 +1,1157 @@
 [
   {
-    "_id": 1,
-    "ru": "На столе книга",
-    "en": "There is a book on the table"
-  },
-  {
-    "_id": 2,
-    "ru": "На тарелке яблоко",
-    "en": "There is an apple on the plate"
-  },
-  {
-    "_id": 3,
-    "ru": "В стакане вода",
-    "en": "There is water in the glass"
-  },
-  {
-    "_id": 4,
-    "ru": "На столе две книги",
-    "en": "There are two books on the table"
-  },
-  {
-    "_id": 5,
-    "ru": "В комнате есть люди",
-    "en": "There are people in the room"
-  },
-  {
-    "_id": 6,
-    "ru": "Была проблема",
-    "en": "There was a problem"
-  },
-  {
-    "_id": 7,
-    "ru": "В комнате были люди",
-    "en": "There were people in the room"
-  },
-  {
-    "_id": 8,
-    "ru": "Тут будет так много людей",
-    "en": "There’ll be so many people"
-  },
-  {
-    "_id": 9,
-    "ru": "Это слон",
-    "en": "This is an elephant"
-  },
-  {
-    "_id": 10,
-    "ru": "Это отель",
-    "en": "This is a hotel"
-  },
-  {
-    "_id": 11,
-    "ru": "Это вода",
-    "en": "This is water"
-  },
-  {
-    "_id": 12,
-    "ru": "Это мои друзья",
-    "en": "These are my friends"
-  },
-  {
-    "_id": 13,
-    "ru": "На конференции было много людей",
-    "en": "There were many people at the conference"
-  },
-  {
-    "_id": 14,
-    "ru": "Это мой личный блог",
-    "en": "It is my personal blog"
-  },
-  {
-    "_id": 15,
-    "ru": "В классе много детей",
-    "en": "There are many children in the classroom"
-  },
-  {
-    "_id": 16,
-    "ru": "Бананы на столе",
-    "en": "There are bananas on the table"
-  },
-  {
-    "_id": 17,
-    "ru": "Я вижу птицу в небе",
-    "en": "I see a bird in the sky"
-  },
-  {
-    "_id": 18,
-    "ru": "Ручка на столе",
-    "en": "There is a pen on the table"
-  },
-  {
-    "_id": 19,
-    "ru": "Это моя тетя",
-    "en": "This is my aunt"
-  },
-  {
-    "_id": 20,
-    "ru": "Он обычно носит шорты",
-    "en": "He usually wears shorts"
-  },
-  {
-    "_id": 21,
-    "ru": "Я хочу купить пару джинсов",
-    "en": "I want to buy a pair of jeans"
-  },
-  {
-    "_id": 22,
-    "ru": "Он ведет себя как настоящая свинья",
-    "en": "He behaves like a real pig"
-  },
-  {
-    "_id": 23,
-    "ru": "В этом отеле было много людей",
-    "en": "There were many people in this hotel"
-  },
-  {
-    "_id": 24,
-    "ru": "В зоопарке было много животных",
-    "en": "There were many animals in the zoo"
-  },
-  {
-    "_id": 25,
-    "ru": "Он увидел жирафа",
-    "en": "He saw a giraffe"
-  },
-  {
-    "_id": 26,
-    "ru": "Это медведь",
-    "en": "This is a bear"
-  },
-  {
-    "_id": 27,
-    "ru": "На ужин у них была курица",
-    "en": "They had chicken for dinner"
-  },
-  {
-    "_id": 28,
-    "ru": "Это отель",
-    "en": "This is a hotel"
-  },
-  {
-    "_id": 29,
-    "ru": "Это банк",
-    "en": "This is a bank"
-  },
-  {
-    "_id": 30,
-    "ru": "Я вижу солнце",
-    "en": "I see the sun"
-  },
-  {
-    "_id": 31,
-    "ru": "Ручка на столе",
-    "en": "The pen is on the table"
-  },
-  {
-    "_id": 32,
-    "ru": "Это огонь",
-    "en": "This is a fire"
-  },
-  {
-    "_id": 33,
-    "ru": "Это тигр",
-    "en": "This is a tiger"
-  },
-  {
-    "_id": 34,
-    "ru": "Это моя визитная карточка",
-    "en": "This is my business card"
-  },
-  {
-    "_id": 35,
-    "ru": "Это мои друзья",
-    "en": "These are my friends"
-  },
-  {
-    "_id": 36,
-    "ru": "Мальчики в классе",
-    "en": "The boys are in the classroom"
-  },
-  {
-    "_id": 37,
-    "ru": "Здесь много посетителей",
-    "en": "There are many visitors here"
-  },
-  {
-    "_id": 38,
-    "ru": "Это крокодил",
-    "en": "This is a crocodile"
-  },
-  {
-    "_id": 39,
-    "ru": "Это мои одноклассники",
-    "en": "These are my classmates"
-  },
-  {
-    "_id": 40,
-    "ru": "Он ведет себя как свинья",
-    "en": "He behaves like a pig"
-  },
-  {
-    "_id": 41,
-    "ru": "Это мой дедушка",
-    "en": "This is my grandpa"
-  },
-  {
-    "_id": 42,
-    "ru": "Я вижу обезьяну",
-    "en": "I see a monkey"
-  },
-  {
-    "_id": 43,
-    "ru": "Он купил пару брюк",
-    "en": "He bought a pair of trousers"
-  },
-  {
-    "_id": 44,
-    "ru": "Это моя бабушка",
-    "en": "This is my grandma"
-  },
-  {
-    "_id": 45,
-    "ru": "Там было так много гостей",
-    "en": "There were so many guests"
-  },
-  {
-    "_id": 46,
-    "ru": "Там было три человека",
-    "en": "There were three people"
-  },
-  {
-    "_id": 47,
-    "ru": "Это мои одногруппники",
-    "en": "These are my groupmates"
-  },
-  {
-    "_id": 48,
-    "ru": "Я вижу две кровати в комнате",
-    "en": "I see two beds in the room"
-  },
-  {
-    "_id": 49,
-    "ru": "Она обычно носит джинсы",
-    "en": "She usually wears jeans"
-  },
-  {
-    "_id": 50,
-    "ru": "В этой работе много ошибок",
-    "en": "There are many mistakes in this work"
-  },
-  {
-    "_id": 51,
-    "ru": "Луна светит так ярко",
-    "en": "The moon is shining so brightly"
-  },
-  {
-    "_id": 52,
-    "ru": "В комнате два кресла",
-    "en": "There are two armchairs in the room"
-  },
-  {
-    "_id": 53,
-    "ru": "Она интересуется музыкой",
-    "en": "She is interested in music"
-  },
-  {
-    "_id": 54,
-    "ru": "На вечеринке будет больше десяти человек",
-    "en": "There will be more than ten people at the party"
-  },
-  {
-    "_id": 55,
-    "ru": "Я взял свой багаж с собой",
-    "en": "I took my luggage with me"
-  },
-  {
-    "_id": 56,
-    "ru": "У тебя очень хорошее чувство юмора",
-    "en": "You have a very good sense of humour"
-  },
-  {
-    "_id": 57,
-    "ru": "Принтер не работает",
-    "en": "The printer is out of work"
-  },
-  {
-    "_id": 58,
-    "ru": "Ты когда-нибудь думал о создании видеоблога?",
-    "en": "Have you ever thought about creating a video blog?"
-  },
-  {
-    "_id": 59,
-    "ru": "Здесь есть какие-либо балконы?",
-    "en": "Are there any balconies?"
-  },
-  {
-    "_id": 60,
-    "ru": "Есть какие-либо ошибки в моей работе?",
-    "en": "Are there any mistakes in my work?"
-  },
-  {
-    "_id": 61,
-    "ru": "Счастье - это гораздо больше, чем просто деньги",
-    "en": "Happiness is much more than just money"
-  },
-  {
-    "_id": 62,
-    "ru": "У него хорошее чувство юмора",
-    "en": "He has a good sense of humour"
-  },
-  {
-    "_id": 63,
-    "ru": "Ты можешь воспользоваться лифтом, если тебе это нужно",
-    "en": "You can use a lift if you need it"
-  },
-  {
-    "_id": 64,
-    "ru": "Ты можешь пойти туда пешком, если хочешь",
-    "en": "You can go there on foot if you want it"
-  },
-  {
-    "_id": 65,
-    "ru": "Тебе не следует пользоваться этим лифтом",
-    "en": "You shouldn't use this lift"
-  },
-  {
-    "_id": 66,
-    "ru": "Не оставляй свой багаж там!",
-    "en": "Do not leave your baggage there!"
-  },
-  {
-    "_id": 67,
-    "ru": "Ты можешь оставить свой багаж там",
-    "en": "You can leave your baggage there"
-  },
-  {
-    "_id": 68,
-    "ru": "Где мой багаж?",
-    "en": "Where is my luggage?"
-  },
-  {
-    "_id": 69,
-    "ru": "Мы все знаем, что время действительно летит",
-    "en": "We all know that time really flies"
-  },
-  {
-    "_id": 70,
-    "ru": "Я знаю, что время летит слишком быстро",
-    "en": "I know that time flies too fast"
-  },
-  {
-    "_id": 71,
-    "ru": "Мы все знаем, что время - это деньги",
-    "en": "We all know that time is money"
-  },
-  {
-    "_id": 72,
-    "ru": "Есть много людей с такими же проблемами",
-    "en": "There are many people with the same problems"
-  },
-  {
-    "_id": 73,
-    "ru": "Есть так много людей с разными проблемами",
-    "en": "There are so many people with different problems"
-  },
-  {
-    "_id": 74,
-    "ru": "У каждого свои проблемы",
-    "en": "Everybody has their own problems"
-  },
-  {
-    "_id": 75,
-    "ru": "Что такое счастье для тебя?",
-    "en": "What is happiness for you?"
-  },
-  {
-    "_id": 76,
-    "ru": "Деньги - это счастье для тебя?",
-    "en": "Is money happiness for you?"
-  },
-  {
-    "_id": 77,
-    "ru": "Деньги - это не счастье для меня",
-    "en": "Money isn't happiness for me"
-  },
-  {
-    "_id": 78,
-    "ru": "Есть много людей с этими проблемами",
-    "en": "There are many people with these problems"
-  },
-  {
-    "_id": 79,
-    "ru": "Было много людей с такими же проблемами",
-    "en": "There were many people with the same problems"
-  },
-  {
-    "_id": 80,
-    "ru": "Здесь так много грязи",
-    "en": "There is so much dirt here"
-  },
-  {
-    "_id": 81,
-    "ru": "Эта комната очень грязная",
-    "en": "This room is so dirty"
-  },
-  {
-    "_id": 82,
-    "ru": "В том месте так много грязи",
-    "en": "There is so much dirt in that place"
-  },
-  {
-    "_id": 83,
-    "ru": "Есть немного молока в холодильнике",
-    "en": "There is some milk in the fridge"
-  },
-  {
-    "_id": 84,
-    "ru": "В холодильнике нет никакого молока",
-    "en": "There isn't any milk in the fridge"
-  },
-  {
-    "_id": 85,
-    "ru": "В холодильнике есть немного молока?",
-    "en": "Is there any milk in the fridge?"
-  },
-  {
-    "_id": 86,
-    "ru": "Там есть столовая?",
-    "en": "Is there a dining room?"
-  },
-  {
-    "_id": 87,
-    "ru": "Там гостиная",
-    "en": "There is a living room"
-  },
-  {
-    "_id": 88,
-    "ru": "Где кухня?",
-    "en": "Where is the kitchen?"
-  },
-  {
-    "_id": 89,
-    "ru": "Знания - это сила",
-    "en": "Knowledge is power"
-  },
-  {
-    "_id": 90,
-    "ru": "Знание - это настоящая сила",
-    "en": "Knowledge is real power"
-  },
-  {
-    "_id": 91,
-    "ru": "Часто говорят, что деньги - это сила",
-    "en": "It is often said that money is power"
-  },
-  {
-    "_id": 92,
-    "ru": "Лифт вышел из строя",
-    "en": "The lift is out of order"
-  },
-  {
-    "_id": 93,
-    "ru": "Перед домом есть гараж",
-    "en": "There is a garage in front of the house"
-  },
-  {
-    "_id": 94,
-    "ru": "В холодильнике есть какая-либо еда?",
-    "en": "Is there any food in the fridge?"
-  },
-  {
-    "_id": 95,
-    "ru": "Любовь - это такое прекрасное чувство",
-    "en": "Love is such a wonderful feeling"
-  },
-  {
-    "_id": 96,
-    "ru": "В холодильнике есть молоко",
-    "en": "There is milk in the fridge"
-  },
-  {
-    "_id": 97,
-    "ru": "Часто говорят, что знание - это сила",
-    "en": "It is often said that knowledge is power"
-  },
-  {
-    "_id": 98,
-    "ru": "Здесь так много коробок",
-    "en": "There are so many boxes here"
-  },
-  {
-    "_id": 99,
-    "ru": "Компьютер вышел из строя",
-    "en": "The computer is out of order"
-  },
-  {
-    "_id": 100,
-    "ru": "У него есть и знания, и опыт",
-    "en": "He has both knowledge and experience"
-  },
-  {
-    "_id": 101,
-    "ru": "Там есть гараж?",
-    "en": "Is there a garage?"
-  },
-  {
-    "_id": 102,
-    "ru": "Там есть балкон?",
-    "en": "Is there a balcony?"
-  },
-  {
-    "_id": 103,
-    "ru": "Это мой багаж",
-    "en": "This is my luggage"
-  },
-  {
-    "_id": 104,
-    "ru": "Музыка интересует ее",
-    "en": "Music interests her"
-  },
-  {
-    "_id": 105,
-    "ru": "У тебя есть какой-либо багаж?",
-    "en": "Do you have any baggage?"
+    "id": 1,
+    "ru": {
+      "text": "На столе книга",
+      "audio": false
+    },
+    "en": {
+      "text": "There is a book on the table",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "На тарелке яблоко",
+      "audio": false
+    },
+    "en": {
+      "text": "There is an apple on the plate",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "В стакане вода",
+      "audio": false
+    },
+    "en": {
+      "text": "There is water in the glass",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "На столе две книги",
+      "audio": false
+    },
+    "en": {
+      "text": "There are two books on the table",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "В комнате есть люди",
+      "audio": false
+    },
+    "en": {
+      "text": "There are people in the room",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Была проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "There was a problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "В комнате были люди",
+      "audio": false
+    },
+    "en": {
+      "text": "There were people in the room",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Тут будет так много людей",
+      "audio": false
+    },
+    "en": {
+      "text": "There’ll be so many people",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Это слон",
+      "audio": false
+    },
+    "en": {
+      "text": "This is an elephant",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Это отель",
+      "audio": false
+    },
+    "en": {
+      "text": "This is a hotel",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Это вода",
+      "audio": false
+    },
+    "en": {
+      "text": "This is water",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Это мои друзья",
+      "audio": false
+    },
+    "en": {
+      "text": "These are my friends",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "На конференции было много людей",
+      "audio": false
+    },
+    "en": {
+      "text": "There were many people at the conference",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Это мой личный блог",
+      "audio": false
+    },
+    "en": {
+      "text": "It is my personal blog",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "В классе много детей",
+      "audio": false
+    },
+    "en": {
+      "text": "There are many children in the classroom",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Бананы на столе",
+      "audio": false
+    },
+    "en": {
+      "text": "There are bananas on the table",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я вижу птицу в небе",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a bird in the sky",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Ручка на столе",
+      "audio": false
+    },
+    "en": {
+      "text": "There is a pen on the table",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Это моя тетя",
+      "audio": false
+    },
+    "en": {
+      "text": "This is my aunt",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Он обычно носит шорты",
+      "audio": false
+    },
+    "en": {
+      "text": "He usually wears shorts",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Я хочу купить пару джинсов",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to buy a pair of jeans",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Он ведет себя как настоящая свинья",
+      "audio": false
+    },
+    "en": {
+      "text": "He behaves like a real pig",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "В этом отеле было много людей",
+      "audio": false
+    },
+    "en": {
+      "text": "There were many people in this hotel",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "В зоопарке было много животных",
+      "audio": false
+    },
+    "en": {
+      "text": "There were many animals in the zoo",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Он увидел жирафа",
+      "audio": false
+    },
+    "en": {
+      "text": "He saw a giraffe",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Это медведь",
+      "audio": false
+    },
+    "en": {
+      "text": "This is a bear",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "На ужин у них была курица",
+      "audio": false
+    },
+    "en": {
+      "text": "They had chicken for dinner",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Это отель",
+      "audio": false
+    },
+    "en": {
+      "text": "This is a hotel",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Это банк",
+      "audio": false
+    },
+    "en": {
+      "text": "This is a bank",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я вижу солнце",
+      "audio": false
+    },
+    "en": {
+      "text": "I see the sun",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Ручка на столе",
+      "audio": false
+    },
+    "en": {
+      "text": "The pen is on the table",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Это огонь",
+      "audio": false
+    },
+    "en": {
+      "text": "This is a fire",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Это тигр",
+      "audio": false
+    },
+    "en": {
+      "text": "This is a tiger",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Это моя визитная карточка",
+      "audio": false
+    },
+    "en": {
+      "text": "This is my business card",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Это мои друзья",
+      "audio": false
+    },
+    "en": {
+      "text": "These are my friends",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Мальчики в классе",
+      "audio": false
+    },
+    "en": {
+      "text": "The boys are in the classroom",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Здесь много посетителей",
+      "audio": false
+    },
+    "en": {
+      "text": "There are many visitors here",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Это крокодил",
+      "audio": false
+    },
+    "en": {
+      "text": "This is a crocodile",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Это мои одноклассники",
+      "audio": false
+    },
+    "en": {
+      "text": "These are my classmates",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Он ведет себя как свинья",
+      "audio": false
+    },
+    "en": {
+      "text": "He behaves like a pig",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Это мой дедушка",
+      "audio": false
+    },
+    "en": {
+      "text": "This is my grandpa",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я вижу обезьяну",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a monkey",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Он купил пару брюк",
+      "audio": false
+    },
+    "en": {
+      "text": "He bought a pair of trousers",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Это моя бабушка",
+      "audio": false
+    },
+    "en": {
+      "text": "This is my grandma",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Там было так много гостей",
+      "audio": false
+    },
+    "en": {
+      "text": "There were so many guests",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Там было три человека",
+      "audio": false
+    },
+    "en": {
+      "text": "There were three people",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Это мои одногруппники",
+      "audio": false
+    },
+    "en": {
+      "text": "These are my groupmates",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я вижу две кровати в комнате",
+      "audio": false
+    },
+    "en": {
+      "text": "I see two beds in the room",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Она обычно носит джинсы",
+      "audio": false
+    },
+    "en": {
+      "text": "She usually wears jeans",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "В этой работе много ошибок",
+      "audio": false
+    },
+    "en": {
+      "text": "There are many mistakes in this work",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Луна светит так ярко",
+      "audio": false
+    },
+    "en": {
+      "text": "The moon is shining so brightly",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "В комнате два кресла",
+      "audio": false
+    },
+    "en": {
+      "text": "There are two armchairs in the room",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Она интересуется музыкой",
+      "audio": false
+    },
+    "en": {
+      "text": "She is interested in music",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "На вечеринке будет больше десяти человек",
+      "audio": false
+    },
+    "en": {
+      "text": "There will be more than ten people at the party",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я взял свой багаж с собой",
+      "audio": false
+    },
+    "en": {
+      "text": "I took my luggage with me",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "У тебя очень хорошее чувство юмора",
+      "audio": false
+    },
+    "en": {
+      "text": "You have a very good sense of humour",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Принтер не работает",
+      "audio": false
+    },
+    "en": {
+      "text": "The printer is out of work",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Ты когда-нибудь думал о создании видеоблога?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever thought about creating a video blog?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Здесь есть какие-либо балконы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are there any balconies?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Есть какие-либо ошибки в моей работе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are there any mistakes in my work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Счастье - это гораздо больше, чем просто деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "Happiness is much more than just money",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "У него хорошее чувство юмора",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a good sense of humour",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Ты можешь воспользоваться лифтом, если тебе это нужно",
+      "audio": false
+    },
+    "en": {
+      "text": "You can use a lift if you need it",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Ты можешь пойти туда пешком, если хочешь",
+      "audio": false
+    },
+    "en": {
+      "text": "You can go there on foot if you want it",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Тебе не следует пользоваться этим лифтом",
+      "audio": false
+    },
+    "en": {
+      "text": "You shouldn't use this lift",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Не оставляй свой багаж там!",
+      "audio": false
+    },
+    "en": {
+      "text": "Do not leave your baggage there!",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Ты можешь оставить свой багаж там",
+      "audio": false
+    },
+    "en": {
+      "text": "You can leave your baggage there",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Где мой багаж?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where is my luggage?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Мы все знаем, что время действительно летит",
+      "audio": false
+    },
+    "en": {
+      "text": "We all know that time really flies",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я знаю, что время летит слишком быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that time flies too fast",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Мы все знаем, что время - это деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "We all know that time is money",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Есть много людей с такими же проблемами",
+      "audio": false
+    },
+    "en": {
+      "text": "There are many people with the same problems",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Есть так много людей с разными проблемами",
+      "audio": false
+    },
+    "en": {
+      "text": "There are so many people with different problems",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "У каждого свои проблемы",
+      "audio": false
+    },
+    "en": {
+      "text": "Everybody has their own problems",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Что такое счастье для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is happiness for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Деньги - это счастье для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is money happiness for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Деньги - это не счастье для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "Money isn't happiness for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Есть много людей с этими проблемами",
+      "audio": false
+    },
+    "en": {
+      "text": "There are many people with these problems",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Было много людей с такими же проблемами",
+      "audio": false
+    },
+    "en": {
+      "text": "There were many people with the same problems",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Здесь так много грязи",
+      "audio": false
+    },
+    "en": {
+      "text": "There is so much dirt here",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Эта комната очень грязная",
+      "audio": false
+    },
+    "en": {
+      "text": "This room is so dirty",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "В том месте так много грязи",
+      "audio": false
+    },
+    "en": {
+      "text": "There is so much dirt in that place",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Есть немного молока в холодильнике",
+      "audio": false
+    },
+    "en": {
+      "text": "There is some milk in the fridge",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "В холодильнике нет никакого молока",
+      "audio": false
+    },
+    "en": {
+      "text": "There isn't any milk in the fridge",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "В холодильнике есть немного молока?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is there any milk in the fridge?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Там есть столовая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is there a dining room?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Там гостиная",
+      "audio": false
+    },
+    "en": {
+      "text": "There is a living room",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Где кухня?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where is the kitchen?",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Знания - это сила",
+      "audio": false
+    },
+    "en": {
+      "text": "Knowledge is power",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Знание - это настоящая сила",
+      "audio": false
+    },
+    "en": {
+      "text": "Knowledge is real power",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Часто говорят, что деньги - это сила",
+      "audio": false
+    },
+    "en": {
+      "text": "It is often said that money is power",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Лифт вышел из строя",
+      "audio": false
+    },
+    "en": {
+      "text": "The lift is out of order",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Перед домом есть гараж",
+      "audio": false
+    },
+    "en": {
+      "text": "There is a garage in front of the house",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "В холодильнике есть какая-либо еда?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is there any food in the fridge?",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Любовь - это такое прекрасное чувство",
+      "audio": false
+    },
+    "en": {
+      "text": "Love is such a wonderful feeling",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "В холодильнике есть молоко",
+      "audio": false
+    },
+    "en": {
+      "text": "There is milk in the fridge",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Часто говорят, что знание - это сила",
+      "audio": false
+    },
+    "en": {
+      "text": "It is often said that knowledge is power",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Здесь так много коробок",
+      "audio": false
+    },
+    "en": {
+      "text": "There are so many boxes here",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Компьютер вышел из строя",
+      "audio": false
+    },
+    "en": {
+      "text": "The computer is out of order",
+      "audio": false
+    }
+  },
+  {
+    "id": 100,
+    "ru": {
+      "text": "У него есть и знания, и опыт",
+      "audio": false
+    },
+    "en": {
+      "text": "He has both knowledge and experience",
+      "audio": false
+    }
+  },
+  {
+    "id": 101,
+    "ru": {
+      "text": "Там есть гараж?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is there a garage?",
+      "audio": false
+    }
+  },
+  {
+    "id": 102,
+    "ru": {
+      "text": "Там есть балкон?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is there a balcony?",
+      "audio": false
+    }
+  },
+  {
+    "id": 103,
+    "ru": {
+      "text": "Это мой багаж",
+      "audio": false
+    },
+    "en": {
+      "text": "This is my luggage",
+      "audio": false
+    }
+  },
+  {
+    "id": 104,
+    "ru": {
+      "text": "Музыка интересует ее",
+      "audio": false
+    },
+    "en": {
+      "text": "Music interests her",
+      "audio": false
+    }
+  },
+  {
+    "id": 105,
+    "ru": {
+      "text": "У тебя есть какой-либо багаж?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have any baggage?",
+      "audio": false
+    }
   }
 ]

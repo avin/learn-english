@@ -1,62 +1,134 @@
 [
   {
-    "_id": 1,
-    "ru": "Что ты делал, когда ты увидел это?",
-    "en": "What were you doing when you saw it?"
+    "id": 1,
+    "ru": {
+      "text": "Что ты делал, когда ты увидел это?",
+      "audio": false
+    },
+    "en": {
+      "text": "What were you doing when you saw it?",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я стал больше интересоваться такого рода вопросами",
-    "en": "I got more interested in this kind of issues"
+    "id": 2,
+    "ru": {
+      "text": "Я стал больше интересоваться такого рода вопросами",
+      "audio": false
+    },
+    "en": {
+      "text": "I got more interested in this kind of issues",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Когда я прибыл на вокзал, он ждал меня",
-    "en": "When I arrived at the station, he was waiting for me"
+    "id": 3,
+    "ru": {
+      "text": "Когда я прибыл на вокзал, он ждал меня",
+      "audio": false
+    },
+    "en": {
+      "text": "When I arrived at the station, he was waiting for me",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Пошел дождь, и мы решили пойти домой",
-    "en": "It started raining and we decided to go home"
+    "id": 4,
+    "ru": {
+      "text": "Пошел дождь, и мы решили пойти домой",
+      "audio": false
+    },
+    "en": {
+      "text": "It started raining and we decided to go home",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Когда это случилось, я стал думать об этом более серьезно",
-    "en": "When it happened, I started thinking about it more seriously"
+    "id": 5,
+    "ru": {
+      "text": "Когда это случилось, я стал думать об этом более серьезно",
+      "audio": false
+    },
+    "en": {
+      "text": "When it happened, I started thinking about it more seriously",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Когда я увидел его, я задал ему тот вопрос",
-    "en": "When I saw him, I asked him that question"
+    "id": 6,
+    "ru": {
+      "text": "Когда я увидел его, я задал ему тот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "When I saw him, I asked him that question",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Когда я ждал его, я повторял урок",
-    "en": "When I was waiting for him, I was revising the lesson"
+    "id": 7,
+    "ru": {
+      "text": "Когда я ждал его, я повторял урок",
+      "audio": false
+    },
+    "en": {
+      "text": "When I was waiting for him, I was revising the lesson",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Что ты делал, когда произошла такая неприятная вещь?",
-    "en": "What were you doing when such an unpleasant thing happened?"
+    "id": 8,
+    "ru": {
+      "text": "Что ты делал, когда произошла такая неприятная вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What were you doing when such an unpleasant thing happened?",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Когда пошел такой сильный дождь, я решил не ехать туда",
-    "en": "When it started raining so heavily, I decided not to go there"
+    "id": 9,
+    "ru": {
+      "text": "Когда пошел такой сильный дождь, я решил не ехать туда",
+      "audio": false
+    },
+    "en": {
+      "text": "When it started raining so heavily, I decided not to go there",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я повторил все уроки",
-    "en": "I revised all the lessons"
+    "id": 10,
+    "ru": {
+      "text": "Я повторил все уроки",
+      "audio": false
+    },
+    "en": {
+      "text": "I revised all the lessons",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Когда я учился в школе, я не обращал внимание на это",
-    "en": "When I studied at school, I didn't pay attention to it"
+    "id": 11,
+    "ru": {
+      "text": "Когда я учился в школе, я не обращал внимание на это",
+      "audio": false
+    },
+    "en": {
+      "text": "When I studied at school, I didn't pay attention to it",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Весь день шел снег",
-    "en": "It was snowing all day"
+    "id": 12,
+    "ru": {
+      "text": "Весь день шел снег",
+      "audio": false
+    },
+    "en": {
+      "text": "It was snowing all day",
+      "audio": false
+    }
   }
 ]

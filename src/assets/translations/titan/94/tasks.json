@@ -1,477 +1,1047 @@
 [
   {
-    "_id": 1,
-    "ru": "Я разделил свою работу на несколько частей",
-    "en": "I divided my work into several parts"
-  },
-  {
-    "_id": 2,
-    "ru": "Кто одолжил ему эти деньги?",
-    "en": "Who lent him this money?"
-  },
-  {
-    "_id": 3,
-    "ru": "Он в основном имеет дело с жалобами",
-    "en": "He mostly deals with complaints"
-  },
-  {
-    "_id": 4,
-    "ru": "Ты дашь ей эти деньги?",
-    "en": "Will you give her this money?"
-  },
-  {
-    "_id": 5,
-    "ru": "Я разбужу тебя завтра",
-    "en": "I’ll wake you up tomorrow"
-  },
-  {
-    "_id": 6,
-    "ru": "Я выбрал правильный путь",
-    "en": "I chose the right way"
-  },
-  {
-    "_id": 7,
-    "ru": "Когда ты установишь эту программу?",
-    "en": "When will you install this program?"
-  },
-  {
-    "_id": 8,
-    "ru": "Ты все проверил?",
-    "en": "Did you check everything?"
-  },
-  {
-    "_id": 9,
-    "ru": "Они выпустили новый альбом?",
-    "en": "Did they release a new album?"
-  },
-  {
-    "_id": 10,
-    "ru": "Я установлю эту программу завтра",
-    "en": "I’ll install this program tomorrow"
-  },
-  {
-    "_id": 11,
-    "ru": "Когда ты проснулся?",
-    "en": "When did you wake up?"
-  },
-  {
-    "_id": 12,
-    "ru": "Она в основном имеет дело с поставщиками",
-    "en": "She mostly deals with suppliers"
-  },
-  {
-    "_id": 13,
-    "ru": "Он скоро выпустит новый альбом",
-    "en": "He’ll release a new album soon"
-  },
-  {
-    "_id": 14,
-    "ru": "Ты проверишь свою работу?",
-    "en": "Will you check your work?"
-  },
-  {
-    "_id": 15,
-    "ru": "Что она тебе предложила?",
-    "en": "What did she offer you?"
-  },
-  {
-    "_id": 16,
-    "ru": "Я сохраняю все эти файлы довольно регулярно",
-    "en": "I save all these files quite regularly"
-  },
-  {
-    "_id": 17,
-    "ru": "Я помыл свои руки",
-    "en": "I washed my hands"
-  },
-  {
-    "_id": 18,
-    "ru": "Он сохранил все файлы",
-    "en": "He saved all the files"
-  },
-  {
-    "_id": 19,
-    "ru": "Мне не нравится это видео",
-    "en": "I dislike this video"
-  },
-  {
-    "_id": 20,
-    "ru": "Я поблагодарил ее за все",
-    "en": "I thanked her for everything"
-  },
-  {
-    "_id": 21,
-    "ru": "Эта рубашка лучше тебе подходит",
-    "en": "This shirt fits you better"
-  },
-  {
-    "_id": 22,
-    "ru": "Что тебя разбудило?",
-    "en": "What woke you up?"
-  },
-  {
-    "_id": 23,
-    "ru": "Где ты учился?",
-    "en": "Where did you study?"
-  },
-  {
-    "_id": 24,
-    "ru": "Он забронировал лучшую квартиру",
-    "en": "He booked the best apartment"
-  },
-  {
-    "_id": 25,
-    "ru": "Она вымыла волосы",
-    "en": "She washed her hair"
-  },
-  {
-    "_id": 26,
-    "ru": "Я хотел бы поблагодарить тебя за твою поддержку",
-    "en": "I'd like to thank you for your support"
-  },
-  {
-    "_id": 27,
-    "ru": "Как ты учишься?",
-    "en": "How do you study?"
-  },
-  {
-    "_id": 28,
-    "ru": "Ты проверишь это еще раз?",
-    "en": "Will you check it one more time?"
-  },
-  {
-    "_id": 29,
-    "ru": "Она выпустила новую песню",
-    "en": "She released a new song"
-  },
-  {
-    "_id": 30,
-    "ru": "Я сохраню этот документ",
-    "en": "I’ll save this document"
-  },
-  {
-    "_id": 31,
-    "ru": "Они избили этого бедного мужчину",
-    "en": "They beat this poor man"
-  },
-  {
-    "_id": 32,
-    "ru": "Мне нужно помыть посуду",
-    "en": "I need to wash the dishes"
-  },
-  {
-    "_id": 33,
-    "ru": "Кто тебя разбудил?",
-    "en": "Who woke you up?"
-  },
-  {
-    "_id": 34,
-    "ru": "Я просто хотел выразить свою точку зрения",
-    "en": "I just wanted to express my point of view"
-  },
-  {
-    "_id": 35,
-    "ru": "Давай поужинаем вместе!",
-    "en": "Let's have dinner together!"
-  },
-  {
-    "_id": 36,
-    "ru": "Он выбрал неправильный путь",
-    "en": "He chose the wrong way"
-  },
-  {
-    "_id": 37,
-    "ru": "Я увидел его там в первый раз",
-    "en": "I saw him there for the first time"
-  },
-  {
-    "_id": 38,
-    "ru": "Я забронировал номер в вашем отеле",
-    "en": "I booked a room in your hotel"
-  },
-  {
-    "_id": 39,
-    "ru": "Полицейский спас ей жизнь",
-    "en": "The policeman saved her life"
-  },
-  {
-    "_id": 40,
-    "ru": "Он заранее забронировал комнату",
-    "en": "He booked a room in advance"
-  },
-  {
-    "_id": 41,
-    "ru": "Я не думаю, что кто-то одолжит ему эти деньги",
-    "en": "I don't think that someone will lend him this money"
-  },
-  {
-    "_id": 42,
-    "ru": "Это может привлечь внимание других людей",
-    "en": "It can attract other people’s attention"
-  },
-  {
-    "_id": 43,
-    "ru": "Мне не нравится этот формат обучения",
-    "en": "I dislike this format of education"
-  },
-  {
-    "_id": 44,
-    "ru": "Я вижу, что эта вещь больше не работает",
-    "en": "I see that this thing doesn't work anymore"
-  },
-  {
-    "_id": 45,
-    "ru": "Сколько денег он ей дает?",
-    "en": "How much money does he give her?"
-  },
-  {
-    "_id": 46,
-    "ru": "Мы прекрасно провели время вместе",
-    "en": "We had a great time together"
-  },
-  {
-    "_id": 47,
-    "ru": "Я вижу, что ты имеешь в виду",
-    "en": "I see what you mean"
-  },
-  {
-    "_id": 48,
-    "ru": "Мне не нравится такая одежда",
-    "en": "I dislike such clothes"
-  },
-  {
-    "_id": 49,
-    "ru": "Что ты можешь предложить?",
-    "en": "What can you offer?"
-  },
-  {
-    "_id": 50,
-    "ru": "Его родители никогда не били его",
-    "en": "His parents never beat him"
-  },
-  {
-    "_id": 51,
-    "ru": "Эта машина часто ломается?",
-    "en": "Does this car often break down?"
-  },
-  {
-    "_id": 52,
-    "ru": "Где ты хочешь учиться?",
-    "en": "Where do you want to study?"
-  },
-  {
-    "_id": 53,
-    "ru": "Ты хочешь учиться там?",
-    "en": "Do you want to study there?"
-  },
-  {
-    "_id": 54,
-    "ru": "Где он хочет учиться?",
-    "en": "Where does he want to study?"
-  },
-  {
-    "_id": 55,
-    "ru": "Сколько часов в день ты тренировался?",
-    "en": "How many hours a day did you train?"
-  },
-  {
-    "_id": 56,
-    "ru": "Сколько часов в неделю ты учился?",
-    "en": "How many hours a week did you study?"
-  },
-  {
-    "_id": 57,
-    "ru": "Я обычно тренируюсь два раза в неделю",
-    "en": "I usually train two times a week"
-  },
-  {
-    "_id": 58,
-    "ru": "Позволь мне высказать свою точку зрения",
-    "en": "Let me express my point of view!"
-  },
-  {
-    "_id": 59,
-    "ru": "Я хочу выразить свою точку зрения",
-    "en": "I want to express my point of view"
-  },
-  {
-    "_id": 60,
-    "ru": "Ты вчера катался на велосипеде?",
-    "en": "Did you ride a bike yesterday?"
-  },
-  {
-    "_id": 61,
-    "ru": "Ты катался на лошади вчера?",
-    "en": "Did you ride a horse yesterday?"
-  },
-  {
-    "_id": 62,
-    "ru": "Ты поедешь на велосипеде завтра?",
-    "en": "Will you ride a bike tomorrow?"
-  },
-  {
-    "_id": 63,
-    "ru": "Он переплыл реку",
-    "en": "He swam across the river"
-  },
-  {
-    "_id": 64,
-    "ru": "Я переплыл эту реку",
-    "en": "I swam across this river"
-  },
-  {
-    "_id": 65,
-    "ru": "Я могу переплыть ту реку",
-    "en": "I can swim across that river"
-  },
-  {
-    "_id": 66,
-    "ru": "Я не тренируюсь достаточно интенсивно",
-    "en": "I don't train intensively enough"
-  },
-  {
-    "_id": 67,
-    "ru": "Он не тренируется достаточно интенсивно",
-    "en": "He doesn't train intensively enough"
-  },
-  {
-    "_id": 68,
-    "ru": "Они не тренируются интенсивно",
-    "en": "They don't train intensively"
-  },
-  {
-    "_id": 69,
-    "ru": "Это немедленно привлекло его внимание",
-    "en": "It attracted his attention immediately"
-  },
-  {
-    "_id": 70,
-    "ru": "Это немедленно привлекло мое внимание",
-    "en": "It attracted my attention immediately"
-  },
-  {
-    "_id": 71,
-    "ru": "Это действительно привлекло его внимание",
-    "en": "It really attracted his attention"
-  },
-  {
-    "_id": 72,
-    "ru": "Позволь мне высказать свою личную точку зрения",
-    "en": "Let me express my personal point of view!"
-  },
-  {
-    "_id": 73,
-    "ru": "Позволь ей высказать свою точку зрения",
-    "en": "Let her express her point of view!"
-  },
-  {
-    "_id": 74,
-    "ru": "Позволь мне высказать свое собственное мнение",
-    "en": "Let me express my own opinion!"
-  },
-  {
-    "_id": 75,
-    "ru": "Я решил отменить нашу встречу",
-    "en": "I decided to cancel our meeting"
-  },
-  {
-    "_id": 76,
-    "ru": "Мне нужно отменить эту встречу",
-    "en": "I need to cancel this meeting"
-  },
-  {
-    "_id": 77,
-    "ru": "Он решил отменить эту презентацию",
-    "en": "He decided to cancel this presentation"
-  },
-  {
-    "_id": 78,
-    "ru": "Я боюсь, мы можем опоздать на автобус",
-    "en": "I'm afraid we can miss the bus"
-  },
-  {
-    "_id": 79,
-    "ru": "Я боюсь, что могу опоздать на автобус",
-    "en": "I'm afraid that I can miss the bus"
-  },
-  {
-    "_id": 80,
-    "ru": "Он боится, что может опоздать на автобус",
-    "en": "He's afraid that he can miss the bus"
-  },
-  {
-    "_id": 81,
-    "ru": "Ветер так внезапно подул",
-    "en": "The wind blew so suddenly"
-  },
-  {
-    "_id": 82,
-    "ru": "Я плавал в море несколько раз в день",
-    "en": "I swam in the sea several times a day"
-  },
-  {
-    "_id": 83,
-    "ru": "Сильный ветер часто здесь дует",
-    "en": "A strong wind often blows here"
-  },
-  {
-    "_id": 84,
-    "ru": "Машина неожиданно сломалась",
-    "en": "The car broke down unexpectedly"
-  },
-  {
-    "_id": 85,
-    "ru": "Этот размер тебе идеально подходит",
-    "en": "This size fits you perfectly"
-  },
-  {
-    "_id": 86,
-    "ru": "Сколько дней в неделю он тренируется?",
-    "en": "How many days a week does he train?"
-  },
-  {
-    "_id": 87,
-    "ru": "Она так сильно по тебе скучает",
-    "en": "She misses you so much"
-  },
-  {
-    "_id": 88,
-    "ru": "Они дали ей еще один шанс",
-    "en": "They gave her one more chance"
-  },
-  {
-    "_id": 89,
-    "ru": "Эта вещь сразу привлекла мое внимание",
-    "en": "This thing attracted my attention at once"
-  },
-  {
-    "_id": 90,
-    "ru": "Я часто катался на велосипеде с моими друзьями",
-    "en": "I often rode a bike with my friends"
-  },
-  {
-    "_id": 91,
-    "ru": "У нас было очень трудное время",
-    "en": "We had a very difficult time"
-  },
-  {
-    "_id": 92,
-    "ru": "Я никогда не думал об этом",
-    "en": "I never thought about it"
-  },
-  {
-    "_id": 93,
-    "ru": "Она переплыла озеро",
-    "en": "She swam across the lake"
-  },
-  {
-    "_id": 94,
-    "ru": "Я решил не покупать это",
-    "en": "I decided not to buy it"
-  },
-  {
-    "_id": 95,
-    "ru": "Я очень сильно по тебе скучаю",
-    "en": "I miss you very much"
+    "id": 1,
+    "ru": {
+      "text": "Я разделил свою работу на несколько частей",
+      "audio": false
+    },
+    "en": {
+      "text": "I divided my work into several parts",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Кто одолжил ему эти деньги?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who lent him this money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Он в основном имеет дело с жалобами",
+      "audio": false
+    },
+    "en": {
+      "text": "He mostly deals with complaints",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Ты дашь ей эти деньги?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you give her this money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я разбужу тебя завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I’ll wake you up tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я выбрал правильный путь",
+      "audio": false
+    },
+    "en": {
+      "text": "I chose the right way",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Когда ты установишь эту программу?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you install this program?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Ты все проверил?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you check everything?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Они выпустили новый альбом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did they release a new album?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я установлю эту программу завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I’ll install this program tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Когда ты проснулся?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you wake up?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Она в основном имеет дело с поставщиками",
+      "audio": false
+    },
+    "en": {
+      "text": "She mostly deals with suppliers",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он скоро выпустит новый альбом",
+      "audio": false
+    },
+    "en": {
+      "text": "He’ll release a new album soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Ты проверишь свою работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you check your work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Что она тебе предложила?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did she offer you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я сохраняю все эти файлы довольно регулярно",
+      "audio": false
+    },
+    "en": {
+      "text": "I save all these files quite regularly",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я помыл свои руки",
+      "audio": false
+    },
+    "en": {
+      "text": "I washed my hands",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Он сохранил все файлы",
+      "audio": false
+    },
+    "en": {
+      "text": "He saved all the files",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Мне не нравится это видео",
+      "audio": false
+    },
+    "en": {
+      "text": "I dislike this video",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я поблагодарил ее за все",
+      "audio": false
+    },
+    "en": {
+      "text": "I thanked her for everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Эта рубашка лучше тебе подходит",
+      "audio": false
+    },
+    "en": {
+      "text": "This shirt fits you better",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Что тебя разбудило?",
+      "audio": false
+    },
+    "en": {
+      "text": "What woke you up?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Где ты учился?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did you study?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Он забронировал лучшую квартиру",
+      "audio": false
+    },
+    "en": {
+      "text": "He booked the best apartment",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Она вымыла волосы",
+      "audio": false
+    },
+    "en": {
+      "text": "She washed her hair",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я хотел бы поблагодарить тебя за твою поддержку",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to thank you for your support",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Как ты учишься?",
+      "audio": false
+    },
+    "en": {
+      "text": "How do you study?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Ты проверишь это еще раз?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you check it one more time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Она выпустила новую песню",
+      "audio": false
+    },
+    "en": {
+      "text": "She released a new song",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я сохраню этот документ",
+      "audio": false
+    },
+    "en": {
+      "text": "I’ll save this document",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Они избили этого бедного мужчину",
+      "audio": false
+    },
+    "en": {
+      "text": "They beat this poor man",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Мне нужно помыть посуду",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to wash the dishes",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Кто тебя разбудил?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who woke you up?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я просто хотел выразить свою точку зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "I just wanted to express my point of view",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Давай поужинаем вместе!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let's have dinner together!",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Он выбрал неправильный путь",
+      "audio": false
+    },
+    "en": {
+      "text": "He chose the wrong way",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я увидел его там в первый раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I saw him there for the first time",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Я забронировал номер в вашем отеле",
+      "audio": false
+    },
+    "en": {
+      "text": "I booked a room in your hotel",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Полицейский спас ей жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "The policeman saved her life",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Он заранее забронировал комнату",
+      "audio": false
+    },
+    "en": {
+      "text": "He booked a room in advance",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я не думаю, что кто-то одолжит ему эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that someone will lend him this money",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Это может привлечь внимание других людей",
+      "audio": false
+    },
+    "en": {
+      "text": "It can attract other people’s attention",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Мне не нравится этот формат обучения",
+      "audio": false
+    },
+    "en": {
+      "text": "I dislike this format of education",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я вижу, что эта вещь больше не работает",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that this thing doesn't work anymore",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Сколько денег он ей дает?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much money does he give her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Мы прекрасно провели время вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "We had a great time together",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я вижу, что ты имеешь в виду",
+      "audio": false
+    },
+    "en": {
+      "text": "I see what you mean",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Мне не нравится такая одежда",
+      "audio": false
+    },
+    "en": {
+      "text": "I dislike such clothes",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Что ты можешь предложить?",
+      "audio": false
+    },
+    "en": {
+      "text": "What can you offer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Его родители никогда не били его",
+      "audio": false
+    },
+    "en": {
+      "text": "His parents never beat him",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Эта машина часто ломается?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this car often break down?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Где ты хочешь учиться?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where do you want to study?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Ты хочешь учиться там?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to study there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Где он хочет учиться?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where does he want to study?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Сколько часов в день ты тренировался?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many hours a day did you train?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Сколько часов в неделю ты учился?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many hours a week did you study?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я обычно тренируюсь два раза в неделю",
+      "audio": false
+    },
+    "en": {
+      "text": "I usually train two times a week",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Позволь мне высказать свою точку зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "Let me express my point of view!",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я хочу выразить свою точку зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to express my point of view",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Ты вчера катался на велосипеде?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you ride a bike yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Ты катался на лошади вчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you ride a horse yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Ты поедешь на велосипеде завтра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you ride a bike tomorrow?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Он переплыл реку",
+      "audio": false
+    },
+    "en": {
+      "text": "He swam across the river",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я переплыл эту реку",
+      "audio": false
+    },
+    "en": {
+      "text": "I swam across this river",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я могу переплыть ту реку",
+      "audio": false
+    },
+    "en": {
+      "text": "I can swim across that river",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я не тренируюсь достаточно интенсивно",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't train intensively enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Он не тренируется достаточно интенсивно",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't train intensively enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Они не тренируются интенсивно",
+      "audio": false
+    },
+    "en": {
+      "text": "They don't train intensively",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Это немедленно привлекло его внимание",
+      "audio": false
+    },
+    "en": {
+      "text": "It attracted his attention immediately",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Это немедленно привлекло мое внимание",
+      "audio": false
+    },
+    "en": {
+      "text": "It attracted my attention immediately",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Это действительно привлекло его внимание",
+      "audio": false
+    },
+    "en": {
+      "text": "It really attracted his attention",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Позволь мне высказать свою личную точку зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "Let me express my personal point of view!",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Позволь ей высказать свою точку зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "Let her express her point of view!",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Позволь мне высказать свое собственное мнение",
+      "audio": false
+    },
+    "en": {
+      "text": "Let me express my own opinion!",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я решил отменить нашу встречу",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to cancel our meeting",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Мне нужно отменить эту встречу",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to cancel this meeting",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Он решил отменить эту презентацию",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided to cancel this presentation",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я боюсь, мы можем опоздать на автобус",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm afraid we can miss the bus",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Я боюсь, что могу опоздать на автобус",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm afraid that I can miss the bus",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Он боится, что может опоздать на автобус",
+      "audio": false
+    },
+    "en": {
+      "text": "He's afraid that he can miss the bus",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Ветер так внезапно подул",
+      "audio": false
+    },
+    "en": {
+      "text": "The wind blew so suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я плавал в море несколько раз в день",
+      "audio": false
+    },
+    "en": {
+      "text": "I swam in the sea several times a day",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Сильный ветер часто здесь дует",
+      "audio": false
+    },
+    "en": {
+      "text": "A strong wind often blows here",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Машина неожиданно сломалась",
+      "audio": false
+    },
+    "en": {
+      "text": "The car broke down unexpectedly",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Этот размер тебе идеально подходит",
+      "audio": false
+    },
+    "en": {
+      "text": "This size fits you perfectly",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Сколько дней в неделю он тренируется?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many days a week does he train?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Она так сильно по тебе скучает",
+      "audio": false
+    },
+    "en": {
+      "text": "She misses you so much",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Они дали ей еще один шанс",
+      "audio": false
+    },
+    "en": {
+      "text": "They gave her one more chance",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Эта вещь сразу привлекла мое внимание",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing attracted my attention at once",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Я часто катался на велосипеде с моими друзьями",
+      "audio": false
+    },
+    "en": {
+      "text": "I often rode a bike with my friends",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "У нас было очень трудное время",
+      "audio": false
+    },
+    "en": {
+      "text": "We had a very difficult time",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Я никогда не думал об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I never thought about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Она переплыла озеро",
+      "audio": false
+    },
+    "en": {
+      "text": "She swam across the lake",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Я решил не покупать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided not to buy it",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Я очень сильно по тебе скучаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I miss you very much",
+      "audio": false
+    }
   }
 ]

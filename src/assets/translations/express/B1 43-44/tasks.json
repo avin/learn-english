@@ -1,87 +1,189 @@
 [
   {
-    "_id": 1,
-    "ru": "Я едва ли могу поверить этим новостям",
-    "en": "I can hardly believe this news"
+    "id": 1,
+    "ru": {
+      "text": "Я едва ли могу поверить этим новостям",
+      "audio": false
+    },
+    "en": {
+      "text": "I can hardly believe this news",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Он что-то воскликнул, но я не расслышал это",
-    "en": "He exclaimed something but I didn't hear it"
+    "id": 2,
+    "ru": {
+      "text": "Он что-то воскликнул, но я не расслышал это",
+      "audio": false
+    },
+    "en": {
+      "text": "He exclaimed something but I didn't hear it",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Они стараются не ссориться и они живут довольно мирно",
-    "en": "They try not to quarrel and they live quite peacefully"
+    "id": 3,
+    "ru": {
+      "text": "Они стараются не ссориться и они живут довольно мирно",
+      "audio": false
+    },
+    "en": {
+      "text": "They try not to quarrel and they live quite peacefully",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Их продажи выросли на двадцать процентов",
-    "en": "Their sales rose by twenty per cent"
+    "id": 4,
+    "ru": {
+      "text": "Их продажи выросли на двадцать процентов",
+      "audio": false
+    },
+    "en": {
+      "text": "Their sales rose by twenty per cent",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Он сказал, что он прибыл поздно как обычно",
-    "en": "He said that he had arrived late as usual"
+    "id": 5,
+    "ru": {
+      "text": "Он сказал, что он прибыл поздно как обычно",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had arrived late as usual",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Она сказала, что это разрушило ее жизнь",
-    "en": "She said that it had ruined her life"
+    "id": 6,
+    "ru": {
+      "text": "Она сказала, что это разрушило ее жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that it had ruined her life",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Он думал, что она не одобрит то решение",
-    "en": "He thought that she would disapprove of that decision"
+    "id": 7,
+    "ru": {
+      "text": "Он думал, что она не одобрит то решение",
+      "audio": false
+    },
+    "en": {
+      "text": "He thought that she would disapprove of that decision",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я склонен думать, что это неизбежно",
-    "en": "I tend to think that it's inevitable"
+    "id": 8,
+    "ru": {
+      "text": "Я склонен думать, что это неизбежно",
+      "audio": false
+    },
+    "en": {
+      "text": "I tend to think that it's inevitable",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Это никого в действительности не волнует",
-    "en": "No one really cares about it"
+    "id": 9,
+    "ru": {
+      "text": "Это никого в действительности не волнует",
+      "audio": false
+    },
+    "en": {
+      "text": "No one really cares about it",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я отправил им письмо, но никто не ответил",
-    "en": "I sent them a letter but then no one replied"
+    "id": 10,
+    "ru": {
+      "text": "Я отправил им письмо, но никто не ответил",
+      "audio": false
+    },
+    "en": {
+      "text": "I sent them a letter but then no one replied",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Она только что убрала со стола",
-    "en": "She's just cleared the table"
+    "id": 11,
+    "ru": {
+      "text": "Она только что убрала со стола",
+      "audio": false
+    },
+    "en": {
+      "text": "She's just cleared the table",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я с детства пытаюсь выучить английский",
-    "en": "I've been trying to learn English since childhood"
+    "id": 12,
+    "ru": {
+      "text": "Я с детства пытаюсь выучить английский",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been trying to learn English since childhood",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Она сказала, что еще не подмела пол",
-    "en": "She said that she hadn't swept the floor yet"
+    "id": 13,
+    "ru": {
+      "text": "Она сказала, что еще не подмела пол",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that she hadn't swept the floor yet",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я снял эту сумму денег на свои личные нужды",
-    "en": "I withdrew this sum of money for my personal needs"
+    "id": 14,
+    "ru": {
+      "text": "Я снял эту сумму денег на свои личные нужды",
+      "audio": false
+    },
+    "en": {
+      "text": "I withdrew this sum of money for my personal needs",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Он сказал, что эта новость опечалила ее очень сильно",
-    "en": "He said that the news had saddened her greatly"
+    "id": 15,
+    "ru": {
+      "text": "Он сказал, что эта новость опечалила ее очень сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that the news had saddened her greatly",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Он сказал, что они были женаты три года",
-    "en": "He said that they had been married for three years"
+    "id": 16,
+    "ru": {
+      "text": "Он сказал, что они были женаты три года",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that they had been married for three years",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Как он отреагировал на эту идею?",
-    "en": "How did he react to this idea?"
+    "id": 17,
+    "ru": {
+      "text": "Как он отреагировал на эту идею?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did he react to this idea?",
+      "audio": false
+    }
   }
 ]

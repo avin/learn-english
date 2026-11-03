@@ -1,477 +1,1047 @@
 [
   {
-    "_id": 1,
-    "ru": "Я преодолел все эти трудности на своем пути",
-    "en": "I overcame all these difficulties on my way"
-  },
-  {
-    "_id": 2,
-    "ru": "Сколько ты заплатил за эту услугу?",
-    "en": "How much did you pay for this service?"
-  },
-  {
-    "_id": 3,
-    "ru": "Он взял детей с собой",
-    "en": "He took the kids with him"
-  },
-  {
-    "_id": 4,
-    "ru": "Это скоро стало ясно",
-    "en": "It became clear soon"
-  },
-  {
-    "_id": 5,
-    "ru": "Она выросла в маленьком городке",
-    "en": "She grew up in a small town"
-  },
-  {
-    "_id": 6,
-    "ru": "Я положил это рядом со своим компьютером",
-    "en": "I put it near my computer"
-  },
-  {
-    "_id": 7,
-    "ru": "Они поймали того вора",
-    "en": "They caught that thief"
-  },
-  {
-    "_id": 8,
-    "ru": "Я снял три доллара со своего счета",
-    "en": "I withdrew three dollars from my account"
-  },
-  {
-    "_id": 9,
-    "ru": "Я повесил это на стену",
-    "en": "I hung it on the wall"
-  },
-  {
-    "_id": 10,
-    "ru": "Я заплатил за билеты",
-    "en": "I paid for the tickets"
-  },
-  {
-    "_id": 11,
-    "ru": "Он хотел стать спортсменом",
-    "en": "He wanted to become a sportsman"
-  },
-  {
-    "_id": 12,
-    "ru": "Он сделал большую ошибку",
-    "en": "He made a big mistake"
-  },
-  {
-    "_id": 13,
-    "ru": "Во сколько ты ушел из дома?",
-    "en": "What time did you leave home?"
-  },
-  {
-    "_id": 14,
-    "ru": "Полиция поймала тех преступников",
-    "en": "The police caught those criminals"
-  },
-  {
-    "_id": 15,
-    "ru": "Он вырос за границей",
-    "en": "He grew up abroad"
-  },
-  {
-    "_id": 16,
-    "ru": "Я оплатил счет",
-    "en": "I paid the bill"
-  },
-  {
-    "_id": 17,
-    "ru": "Я побежал домой",
-    "en": "I ran home"
-  },
-  {
-    "_id": 18,
-    "ru": "Он вышел из комнаты",
-    "en": "He left the room"
-  },
-  {
-    "_id": 19,
-    "ru": "Я ударил по мячу",
-    "en": "I hit the ball"
-  },
-  {
-    "_id": 20,
-    "ru": "Я поймал мяч",
-    "en": "I caught the ball"
-  },
-  {
-    "_id": 21,
-    "ru": "Я забыл взять свои ключи",
-    "en": "I forgot to take my keys"
-  },
-  {
-    "_id": 22,
-    "ru": "Это привело его к успеху",
-    "en": "It led him to success"
-  },
-  {
-    "_id": 23,
-    "ru": "Она прислала мне сообщение",
-    "en": "She sent me a message"
-  },
-  {
-    "_id": 24,
-    "ru": "Я думал иначе",
-    "en": "I thought otherwise"
-  },
-  {
-    "_id": 25,
-    "ru": "Я снял все деньги",
-    "en": "I withdrew all the money"
-  },
-  {
-    "_id": 26,
-    "ru": "Это дало мне эту возможность",
-    "en": "It gave me this opportunity"
-  },
-  {
-    "_id": 27,
-    "ru": "Я услышал странный шум",
-    "en": "I heard a strange noise"
-  },
-  {
-    "_id": 28,
-    "ru": "Я положил это на полку",
-    "en": "I put it on the shelf"
-  },
-  {
-    "_id": 29,
-    "ru": "Она сделала очень большую ошибку",
-    "en": "She made a very big mistake"
-  },
-  {
-    "_id": 30,
-    "ru": "Я не слышал ничего",
-    "en": "I didn't hear anything"
-  },
-  {
-    "_id": 31,
-    "ru": "Он очень плохо ударил в дверь",
-    "en": "He hit the door very badly"
-  },
-  {
-    "_id": 32,
-    "ru": "Я вырос в России",
-    "en": "I grew up in Russia"
-  },
-  {
-    "_id": 33,
-    "ru": "Он потратил все свои деньги на это",
-    "en": "He spent all his money on it"
-  },
-  {
-    "_id": 34,
-    "ru": "Я предпочитал есть здоровую еду",
-    "en": "I preferred to eat healthy food"
-  },
-  {
-    "_id": 35,
-    "ru": "Дорога вела к тому городу",
-    "en": "The road led to that city"
-  },
-  {
-    "_id": 36,
-    "ru": "Мы не могли ничего слышать",
-    "en": "We couldn't hear anything"
-  },
-  {
-    "_id": 37,
-    "ru": "Он вырос в деревне",
-    "en": "He grew up in a village"
-  },
-  {
-    "_id": 38,
-    "ru": "Она приняла этот подарок",
-    "en": "She accepted this gift"
-  },
-  {
-    "_id": 39,
-    "ru": "Я побежал к их дому",
-    "en": "I ran to their house"
-  },
-  {
-    "_id": 40,
-    "ru": "Я повесил картину на стену",
-    "en": "I hung the picture on the wall"
-  },
-  {
-    "_id": 41,
-    "ru": "Я потратил две тысячи долларов на новый компьютер",
-    "en": "I spent two thousand dollars on a new computer"
-  },
-  {
-    "_id": 42,
-    "ru": "Он стал самым богатым человеком в нашей стране",
-    "en": "He became the richest person in our country"
-  },
-  {
-    "_id": 43,
-    "ru": "Я прекрасно понимал, насколько это было важно",
-    "en": "I perfectly understood how important it was"
-  },
-  {
-    "_id": 44,
-    "ru": "Они спрятали это сокровище",
-    "en": "They hid this treasure"
-  },
-  {
-    "_id": 45,
-    "ru": "Я учил английский в основном сам",
-    "en": "I learnt English mostly by myself"
-  },
-  {
-    "_id": 46,
-    "ru": "Никто не знал, как ответить на этот вопрос",
-    "en": "No one knew how to answer this question"
-  },
-  {
-    "_id": 47,
-    "ru": "Она потратила пятьсот долларов на новое платье",
-    "en": "She spent five hundred dollars on a new dress"
-  },
-  {
-    "_id": 48,
-    "ru": "Я бежал как можно быстрее",
-    "en": "I ran as fast as possible"
-  },
-  {
-    "_id": 49,
-    "ru": "Я знал, что это было возможно",
-    "en": "I knew that it was possible"
-  },
-  {
-    "_id": 50,
-    "ru": "Он стал самым богатым человеком в мире",
-    "en": "He became the richest person in the world"
-  },
-  {
-    "_id": 51,
-    "ru": "Он дал мне, что я хотел",
-    "en": "He gave me what I wanted"
-  },
-  {
-    "_id": 52,
-    "ru": "Я дал ему, что он хотел",
-    "en": "I gave him what he wanted"
-  },
-  {
-    "_id": 53,
-    "ru": "Он дал мне, что мне было нужно",
-    "en": "He gave me what I needed"
-  },
-  {
-    "_id": 54,
-    "ru": "Я учу английский сам",
-    "en": "I learn English by myself"
-  },
-  {
-    "_id": 55,
-    "ru": "Они выучили английский самостоятельно",
-    "en": "They learnt English by themselves"
-  },
-  {
-    "_id": 56,
-    "ru": "Она изучает английский сама",
-    "en": "She learns English by herself"
-  },
-  {
-    "_id": 57,
-    "ru": "Я думаю, я понял тебя правильно",
-    "en": "I think I understood you correctly"
-  },
-  {
-    "_id": 58,
-    "ru": "Я думаю, что понял тебя правильно",
-    "en": "I think that I understood you correctly"
-  },
-  {
-    "_id": 59,
-    "ru": "Она думает, она поняла меня правильно",
-    "en": "She thinks she understood me correctly"
-  },
-  {
-    "_id": 60,
-    "ru": "Этот человек спрятал сокровище в пещере",
-    "en": "This man hid the treasure in a cave"
-  },
-  {
-    "_id": 61,
-    "ru": "Эти люди спрятали сокровище в этой пещере",
-    "en": "These men hid the treasure in this cave"
-  },
-  {
-    "_id": 62,
-    "ru": "Он спрятал сокровище в пещере",
-    "en": "He hid the treasure in a cave"
-  },
-  {
-    "_id": 63,
-    "ru": "Я научился многому у него",
-    "en": "I learnt a lot from him"
-  },
-  {
-    "_id": 64,
-    "ru": "Я научился многому у тебя",
-    "en": "I learnt a lot from you"
-  },
-  {
-    "_id": 65,
-    "ru": "Она многому научилась у меня",
-    "en": "She learnt a lot from me"
-  },
-  {
-    "_id": 66,
-    "ru": "Я знал, как ответить на тот вопрос",
-    "en": "I knew how to answer that question"
-  },
-  {
-    "_id": 67,
-    "ru": "Я знаю, как ответить на этот вопрос",
-    "en": "I know how to answer this question"
-  },
-  {
-    "_id": 68,
-    "ru": "Я не знал, как ответить на тот вопрос",
-    "en": "I didn't know how to answer that question"
-  },
-  {
-    "_id": 69,
-    "ru": "Ветер подул внезапно",
-    "en": "The wind blew all of a sudden"
-  },
-  {
-    "_id": 70,
-    "ru": "Сильный ветер подул внезапно",
-    "en": "A strong wind blew suddenly"
-  },
-  {
-    "_id": 71,
-    "ru": "Холодный ветер подул внезапно",
-    "en": "A cold wind blew all of a sudden"
-  },
-  {
-    "_id": 72,
-    "ru": "Я все сразу понял",
-    "en": "I understood everything at once"
-  },
-  {
-    "_id": 73,
-    "ru": "Я не сразу это понял",
-    "en": "I didn't understand it at once"
-  },
-  {
-    "_id": 74,
-    "ru": "Я сразу это понял",
-    "en": "I understood it at once"
-  },
-  {
-    "_id": 75,
-    "ru": "Они спрятали сокровище под землей",
-    "en": "They hid the treasure under the ground"
-  },
-  {
-    "_id": 76,
-    "ru": "Я спрятал сокровище в пещере",
-    "en": "I hid the treasure in a cave"
-  },
-  {
-    "_id": 77,
-    "ru": "Она спрятала это сокровище под землей",
-    "en": "She hid this treasure under the ground"
-  },
-  {
-    "_id": 78,
-    "ru": "Она не хотела брать деньги",
-    "en": "She didn't want to take money"
-  },
-  {
-    "_id": 79,
-    "ru": "Она не хотела брать эти деньги",
-    "en": "She didn't want to take this money"
-  },
-  {
-    "_id": 80,
-    "ru": "Она не хотела одалживать эти деньги",
-    "en": "She didn't want to lend this money"
-  },
-  {
-    "_id": 81,
-    "ru": "Я проснулся раньше, чем обычно",
-    "en": "I woke up earlier than usual"
-  },
-  {
-    "_id": 82,
-    "ru": "Я поехал домой после встречи",
-    "en": "I drove home after the meeting"
-  },
-  {
-    "_id": 83,
-    "ru": "Я мог там бесплатно учить английский",
-    "en": "I could learn English there for free"
-  },
-  {
-    "_id": 84,
-    "ru": "Я потратил семьсот долларов на этот планшет",
-    "en": "I spent seven hundred dollars on this tablet"
-  },
-  {
-    "_id": 85,
-    "ru": "Он хотел уехать из этой страны",
-    "en": "He wanted to leave this country"
-  },
-  {
-    "_id": 86,
-    "ru": "Она думала так, но я думал по-другому",
-    "en": "She thought so but I thought otherwise"
-  },
-  {
-    "_id": 87,
-    "ru": "Сильный ветер подул внезапно",
-    "en": "A strong wind blew all of a sudden"
-  },
-  {
-    "_id": 88,
-    "ru": "Мы знали, что это было невозможно",
-    "en": "We knew that it was impossible"
-  },
-  {
-    "_id": 89,
-    "ru": "Я проснулся позже, чем обычно",
-    "en": "I woke up later than usual"
-  },
-  {
-    "_id": 90,
-    "ru": "Он обычно ездил на машине на работу",
-    "en": "He usually drove to work"
-  },
-  {
-    "_id": 91,
-    "ru": "Никто не знал ответа",
-    "en": "No one knew the answer"
-  },
-  {
-    "_id": 92,
-    "ru": "Он понял это сразу",
-    "en": "He understood it at once"
-  },
-  {
-    "_id": 93,
-    "ru": "Холодный ветер подул внезапно",
-    "en": "A cold wind blew suddenly"
-  },
-  {
-    "_id": 94,
-    "ru": "Я нашел ключи",
-    "en": "I found the keys"
-  },
-  {
-    "_id": 95,
-    "ru": "Он поспал слишком мало",
-    "en": "He slept too little"
+    "id": 1,
+    "ru": {
+      "text": "Я преодолел все эти трудности на своем пути",
+      "audio": false
+    },
+    "en": {
+      "text": "I overcame all these difficulties on my way",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Сколько ты заплатил за эту услугу?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much did you pay for this service?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Он взял детей с собой",
+      "audio": false
+    },
+    "en": {
+      "text": "He took the kids with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Это скоро стало ясно",
+      "audio": false
+    },
+    "en": {
+      "text": "It became clear soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Она выросла в маленьком городке",
+      "audio": false
+    },
+    "en": {
+      "text": "She grew up in a small town",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я положил это рядом со своим компьютером",
+      "audio": false
+    },
+    "en": {
+      "text": "I put it near my computer",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Они поймали того вора",
+      "audio": false
+    },
+    "en": {
+      "text": "They caught that thief",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я снял три доллара со своего счета",
+      "audio": false
+    },
+    "en": {
+      "text": "I withdrew three dollars from my account",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я повесил это на стену",
+      "audio": false
+    },
+    "en": {
+      "text": "I hung it on the wall",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я заплатил за билеты",
+      "audio": false
+    },
+    "en": {
+      "text": "I paid for the tickets",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Он хотел стать спортсменом",
+      "audio": false
+    },
+    "en": {
+      "text": "He wanted to become a sportsman",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Он сделал большую ошибку",
+      "audio": false
+    },
+    "en": {
+      "text": "He made a big mistake",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Во сколько ты ушел из дома?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time did you leave home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Полиция поймала тех преступников",
+      "audio": false
+    },
+    "en": {
+      "text": "The police caught those criminals",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Он вырос за границей",
+      "audio": false
+    },
+    "en": {
+      "text": "He grew up abroad",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я оплатил счет",
+      "audio": false
+    },
+    "en": {
+      "text": "I paid the bill",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я побежал домой",
+      "audio": false
+    },
+    "en": {
+      "text": "I ran home",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Он вышел из комнаты",
+      "audio": false
+    },
+    "en": {
+      "text": "He left the room",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я ударил по мячу",
+      "audio": false
+    },
+    "en": {
+      "text": "I hit the ball",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я поймал мяч",
+      "audio": false
+    },
+    "en": {
+      "text": "I caught the ball",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Я забыл взять свои ключи",
+      "audio": false
+    },
+    "en": {
+      "text": "I forgot to take my keys",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это привело его к успеху",
+      "audio": false
+    },
+    "en": {
+      "text": "It led him to success",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Она прислала мне сообщение",
+      "audio": false
+    },
+    "en": {
+      "text": "She sent me a message",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Я думал иначе",
+      "audio": false
+    },
+    "en": {
+      "text": "I thought otherwise",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Я снял все деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "I withdrew all the money",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Это дало мне эту возможность",
+      "audio": false
+    },
+    "en": {
+      "text": "It gave me this opportunity",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я услышал странный шум",
+      "audio": false
+    },
+    "en": {
+      "text": "I heard a strange noise",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Я положил это на полку",
+      "audio": false
+    },
+    "en": {
+      "text": "I put it on the shelf",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Она сделала очень большую ошибку",
+      "audio": false
+    },
+    "en": {
+      "text": "She made a very big mistake",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я не слышал ничего",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't hear anything",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Он очень плохо ударил в дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "He hit the door very badly",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я вырос в России",
+      "audio": false
+    },
+    "en": {
+      "text": "I grew up in Russia",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Он потратил все свои деньги на это",
+      "audio": false
+    },
+    "en": {
+      "text": "He spent all his money on it",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я предпочитал есть здоровую еду",
+      "audio": false
+    },
+    "en": {
+      "text": "I preferred to eat healthy food",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Дорога вела к тому городу",
+      "audio": false
+    },
+    "en": {
+      "text": "The road led to that city",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Мы не могли ничего слышать",
+      "audio": false
+    },
+    "en": {
+      "text": "We couldn't hear anything",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Он вырос в деревне",
+      "audio": false
+    },
+    "en": {
+      "text": "He grew up in a village",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Она приняла этот подарок",
+      "audio": false
+    },
+    "en": {
+      "text": "She accepted this gift",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я побежал к их дому",
+      "audio": false
+    },
+    "en": {
+      "text": "I ran to their house",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я повесил картину на стену",
+      "audio": false
+    },
+    "en": {
+      "text": "I hung the picture on the wall",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я потратил две тысячи долларов на новый компьютер",
+      "audio": false
+    },
+    "en": {
+      "text": "I spent two thousand dollars on a new computer",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Он стал самым богатым человеком в нашей стране",
+      "audio": false
+    },
+    "en": {
+      "text": "He became the richest person in our country",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я прекрасно понимал, насколько это было важно",
+      "audio": false
+    },
+    "en": {
+      "text": "I perfectly understood how important it was",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Они спрятали это сокровище",
+      "audio": false
+    },
+    "en": {
+      "text": "They hid this treasure",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я учил английский в основном сам",
+      "audio": false
+    },
+    "en": {
+      "text": "I learnt English mostly by myself",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Никто не знал, как ответить на этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "No one knew how to answer this question",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Она потратила пятьсот долларов на новое платье",
+      "audio": false
+    },
+    "en": {
+      "text": "She spent five hundred dollars on a new dress",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я бежал как можно быстрее",
+      "audio": false
+    },
+    "en": {
+      "text": "I ran as fast as possible",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я знал, что это было возможно",
+      "audio": false
+    },
+    "en": {
+      "text": "I knew that it was possible",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он стал самым богатым человеком в мире",
+      "audio": false
+    },
+    "en": {
+      "text": "He became the richest person in the world",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Он дал мне, что я хотел",
+      "audio": false
+    },
+    "en": {
+      "text": "He gave me what I wanted",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я дал ему, что он хотел",
+      "audio": false
+    },
+    "en": {
+      "text": "I gave him what he wanted",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Он дал мне, что мне было нужно",
+      "audio": false
+    },
+    "en": {
+      "text": "He gave me what I needed",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я учу английский сам",
+      "audio": false
+    },
+    "en": {
+      "text": "I learn English by myself",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Они выучили английский самостоятельно",
+      "audio": false
+    },
+    "en": {
+      "text": "They learnt English by themselves",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Она изучает английский сама",
+      "audio": false
+    },
+    "en": {
+      "text": "She learns English by herself",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я думаю, я понял тебя правильно",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I understood you correctly",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я думаю, что понял тебя правильно",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that I understood you correctly",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Она думает, она поняла меня правильно",
+      "audio": false
+    },
+    "en": {
+      "text": "She thinks she understood me correctly",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Этот человек спрятал сокровище в пещере",
+      "audio": false
+    },
+    "en": {
+      "text": "This man hid the treasure in a cave",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Эти люди спрятали сокровище в этой пещере",
+      "audio": false
+    },
+    "en": {
+      "text": "These men hid the treasure in this cave",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Он спрятал сокровище в пещере",
+      "audio": false
+    },
+    "en": {
+      "text": "He hid the treasure in a cave",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я научился многому у него",
+      "audio": false
+    },
+    "en": {
+      "text": "I learnt a lot from him",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я научился многому у тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I learnt a lot from you",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Она многому научилась у меня",
+      "audio": false
+    },
+    "en": {
+      "text": "She learnt a lot from me",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я знал, как ответить на тот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I knew how to answer that question",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я знаю, как ответить на этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I know how to answer this question",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я не знал, как ответить на тот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't know how to answer that question",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Ветер подул внезапно",
+      "audio": false
+    },
+    "en": {
+      "text": "The wind blew all of a sudden",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Сильный ветер подул внезапно",
+      "audio": false
+    },
+    "en": {
+      "text": "A strong wind blew suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Холодный ветер подул внезапно",
+      "audio": false
+    },
+    "en": {
+      "text": "A cold wind blew all of a sudden",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я все сразу понял",
+      "audio": false
+    },
+    "en": {
+      "text": "I understood everything at once",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я не сразу это понял",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't understand it at once",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я сразу это понял",
+      "audio": false
+    },
+    "en": {
+      "text": "I understood it at once",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Они спрятали сокровище под землей",
+      "audio": false
+    },
+    "en": {
+      "text": "They hid the treasure under the ground",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я спрятал сокровище в пещере",
+      "audio": false
+    },
+    "en": {
+      "text": "I hid the treasure in a cave",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Она спрятала это сокровище под землей",
+      "audio": false
+    },
+    "en": {
+      "text": "She hid this treasure under the ground",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Она не хотела брать деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "She didn't want to take money",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Она не хотела брать эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "She didn't want to take this money",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Она не хотела одалживать эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "She didn't want to lend this money",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я проснулся раньше, чем обычно",
+      "audio": false
+    },
+    "en": {
+      "text": "I woke up earlier than usual",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я поехал домой после встречи",
+      "audio": false
+    },
+    "en": {
+      "text": "I drove home after the meeting",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я мог там бесплатно учить английский",
+      "audio": false
+    },
+    "en": {
+      "text": "I could learn English there for free",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я потратил семьсот долларов на этот планшет",
+      "audio": false
+    },
+    "en": {
+      "text": "I spent seven hundred dollars on this tablet",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Он хотел уехать из этой страны",
+      "audio": false
+    },
+    "en": {
+      "text": "He wanted to leave this country",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Она думала так, но я думал по-другому",
+      "audio": false
+    },
+    "en": {
+      "text": "She thought so but I thought otherwise",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Сильный ветер подул внезапно",
+      "audio": false
+    },
+    "en": {
+      "text": "A strong wind blew all of a sudden",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Мы знали, что это было невозможно",
+      "audio": false
+    },
+    "en": {
+      "text": "We knew that it was impossible",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Я проснулся позже, чем обычно",
+      "audio": false
+    },
+    "en": {
+      "text": "I woke up later than usual",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Он обычно ездил на машине на работу",
+      "audio": false
+    },
+    "en": {
+      "text": "He usually drove to work",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Никто не знал ответа",
+      "audio": false
+    },
+    "en": {
+      "text": "No one knew the answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Он понял это сразу",
+      "audio": false
+    },
+    "en": {
+      "text": "He understood it at once",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Холодный ветер подул внезапно",
+      "audio": false
+    },
+    "en": {
+      "text": "A cold wind blew suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Я нашел ключи",
+      "audio": false
+    },
+    "en": {
+      "text": "I found the keys",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Он поспал слишком мало",
+      "audio": false
+    },
+    "en": {
+      "text": "He slept too little",
+      "audio": false
+    }
   }
 ]

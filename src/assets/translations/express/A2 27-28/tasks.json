@@ -1,127 +1,277 @@
 [
   {
-    "_id": 1,
-    "ru": "Полиция поймала очень опасного преступника",
-    "en": "The police caught a very dangerous criminal"
+    "id": 1,
+    "ru": {
+      "text": "Полиция поймала очень опасного преступника",
+      "audio": false
+    },
+    "en": {
+      "text": "The police caught a very dangerous criminal",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Что ты предпочитаешь слушать в свое свободное время?",
-    "en": "What do you prefer to listen to in your free time?"
+    "id": 2,
+    "ru": {
+      "text": "Что ты предпочитаешь слушать в свое свободное время?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do you prefer to listen to in your free time?",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Это может привести к новым проблемам",
-    "en": "It can lead to new problems"
+    "id": 3,
+    "ru": {
+      "text": "Это может привести к новым проблемам",
+      "audio": false
+    },
+    "en": {
+      "text": "It can lead to new problems",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Он мог играть в футбол весь день",
-    "en": "He could play football all day"
+    "id": 4,
+    "ru": {
+      "text": "Он мог играть в футбол весь день",
+      "audio": false
+    },
+    "en": {
+      "text": "He could play football all day",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Они уже доставили товар?",
-    "en": "Have they already delivered the goods?"
+    "id": 5,
+    "ru": {
+      "text": "Они уже доставили товар?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have they already delivered the goods?",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я думаю, тебе следует следить за своим здоровьем",
-    "en": "I think you should look after your health"
+    "id": 6,
+    "ru": {
+      "text": "Я думаю, тебе следует следить за своим здоровьем",
+      "audio": false
+    },
+    "en": {
+      "text": "I think you should look after your health",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я думаю, он мог бы рассказать нам этот секрет",
-    "en": "I think he could tell us this secret"
+    "id": 7,
+    "ru": {
+      "text": "Я думаю, он мог бы рассказать нам этот секрет",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he could tell us this secret",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я еще не установил эту программу",
-    "en": "I haven't installed this program yet"
+    "id": 8,
+    "ru": {
+      "text": "Я еще не установил эту программу",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't installed this program yet",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Он, возможно, придет завтра на вечеринку",
-    "en": "He might come to the party tomorrow"
+    "id": 9,
+    "ru": {
+      "text": "Он, возможно, придет завтра на вечеринку",
+      "audio": false
+    },
+    "en": {
+      "text": "He might come to the party tomorrow",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Мы уже все обсудили",
-    "en": "We've already discussed everything"
+    "id": 10,
+    "ru": {
+      "text": "Мы уже все обсудили",
+      "audio": false
+    },
+    "en": {
+      "text": "We've already discussed everything",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я бы сделал то же самое",
-    "en": "I would do the same"
+    "id": 11,
+    "ru": {
+      "text": "Я бы сделал то же самое",
+      "audio": false
+    },
+    "en": {
+      "text": "I would do the same",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Пока он бежал, они прыгали",
-    "en": "While he was running, they were jumping"
+    "id": 12,
+    "ru": {
+      "text": "Пока он бежал, они прыгали",
+      "audio": false
+    },
+    "en": {
+      "text": "While he was running, they were jumping",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Это, возможно, скоро произойдет",
-    "en": "It may happen soon"
+    "id": 13,
+    "ru": {
+      "text": "Это, возможно, скоро произойдет",
+      "audio": false
+    },
+    "en": {
+      "text": "It may happen soon",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я вижу, что это действительно имеет значение сейчас",
-    "en": "I see that it really matters now"
+    "id": 14,
+    "ru": {
+      "text": "Я вижу, что это действительно имеет значение сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that it really matters now",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Он бросил ему мяч",
-    "en": "He threw him a ball"
+    "id": 15,
+    "ru": {
+      "text": "Он бросил ему мяч",
+      "audio": false
+    },
+    "en": {
+      "text": "He threw him a ball",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Это сразу же привлекло мое внимание",
-    "en": "It immediately attracted my attention"
+    "id": 16,
+    "ru": {
+      "text": "Это сразу же привлекло мое внимание",
+      "audio": false
+    },
+    "en": {
+      "text": "It immediately attracted my attention",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Мне не нужна была эта вещь, поэтому я выбросил ее",
-    "en": "I didn't need this thing so I threw it away"
+    "id": 17,
+    "ru": {
+      "text": "Мне не нужна была эта вещь, поэтому я выбросил ее",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't need this thing so I threw it away",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Они одолжили ему очень большую сумму денег",
-    "en": "They lent him a very big sum of money"
+    "id": 18,
+    "ru": {
+      "text": "Они одолжили ему очень большую сумму денег",
+      "audio": false
+    },
+    "en": {
+      "text": "They lent him a very big sum of money",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Я пытаюсь установить эту программу сейчас",
-    "en": "I'm trying to install this program now"
+    "id": 19,
+    "ru": {
+      "text": "Я пытаюсь установить эту программу сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm trying to install this program now",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Они проголосовали за второго кандидата",
-    "en": "They voted for the second candidate"
+    "id": 20,
+    "ru": {
+      "text": "Они проголосовали за второго кандидата",
+      "audio": false
+    },
+    "en": {
+      "text": "They voted for the second candidate",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Он сказал, что они еще не обсуждали это",
-    "en": "He said that they hadn't discussed it yet"
+    "id": 21,
+    "ru": {
+      "text": "Он сказал, что они еще не обсуждали это",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that they hadn't discussed it yet",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Я не могу гарантировать что-либо в данный момент",
-    "en": "I can't guarantee anything at the moment"
+    "id": 22,
+    "ru": {
+      "text": "Я не могу гарантировать что-либо в данный момент",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't guarantee anything at the moment",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Я снял все деньги со своего счета",
-    "en": "I withdrew all the money from my account"
+    "id": 23,
+    "ru": {
+      "text": "Я снял все деньги со своего счета",
+      "audio": false
+    },
+    "en": {
+      "text": "I withdrew all the money from my account",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Какого рода музыку тебе нравится слушать?",
-    "en": "What kind of music do you like listening to?"
+    "id": 24,
+    "ru": {
+      "text": "Какого рода музыку тебе нравится слушать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What kind of music do you like listening to?",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Я знаю, что я должен работать над своими ошибками",
-    "en": "I know that I must work on my mistakes"
+    "id": 25,
+    "ru": {
+      "text": "Я знаю, что я должен работать над своими ошибками",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that I must work on my mistakes",
+      "audio": false
+    }
   }
 ]

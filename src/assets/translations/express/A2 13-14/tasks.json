@@ -1,122 +1,266 @@
 [
   {
-    "_id": 1,
-    "ru": "Она преподавала нам английский, но я это действительно не понимал",
-    "en": "She taught us English but I didn't really understand it"
+    "id": 1,
+    "ru": {
+      "text": "Она преподавала нам английский, но я это действительно не понимал",
+      "audio": false
+    },
+    "en": {
+      "text": "She taught us English but I didn't really understand it",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Он сказал, что последние новости его очень сильно удивили",
-    "en": "He said that the latest news had surprised him greatly"
+    "id": 2,
+    "ru": {
+      "text": "Он сказал, что последние новости его очень сильно удивили",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that the latest news had surprised him greatly",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Они сидят на полу и о чем-то говорят",
-    "en": "They are sitting on the floor and talking about something"
+    "id": 3,
+    "ru": {
+      "text": "Они сидят на полу и о чем-то говорят",
+      "audio": false
+    },
+    "en": {
+      "text": "They are sitting on the floor and talking about something",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Она сказала, что провалила тест",
-    "en": "She said that she had failed the test"
+    "id": 4,
+    "ru": {
+      "text": "Она сказала, что провалила тест",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that she had failed the test",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Он сказал нам, что где-то потерял кошелек",
-    "en": "He told us that he had lost his wallet somewhere"
+    "id": 5,
+    "ru": {
+      "text": "Он сказал нам, что где-то потерял кошелек",
+      "audio": false
+    },
+    "en": {
+      "text": "He told us that he had lost his wallet somewhere",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я угадал правильный ответ",
-    "en": "I guessed the correct answer"
+    "id": 6,
+    "ru": {
+      "text": "Я угадал правильный ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I guessed the correct answer",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я уже угадал правильный ответ",
-    "en": "I've already guessed the correct answer"
+    "id": 7,
+    "ru": {
+      "text": "Я уже угадал правильный ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I've already guessed the correct answer",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Они уже покрасили стену",
-    "en": "They've already painted the wall"
+    "id": 8,
+    "ru": {
+      "text": "Они уже покрасили стену",
+      "audio": false
+    },
+    "en": {
+      "text": "They've already painted the wall",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я видел его на вечеринке",
-    "en": "I saw him at the party"
+    "id": 9,
+    "ru": {
+      "text": "Я видел его на вечеринке",
+      "audio": false
+    },
+    "en": {
+      "text": "I saw him at the party",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Машина только что сломалась",
-    "en": "The car has just broken down"
+    "id": 10,
+    "ru": {
+      "text": "Машина только что сломалась",
+      "audio": false
+    },
+    "en": {
+      "text": "The car has just broken down",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Они часто критикуют его вовсе без всякой причины",
-    "en": "They often criticize him for no reason at all"
+    "id": 11,
+    "ru": {
+      "text": "Они часто критикуют его вовсе без всякой причины",
+      "audio": false
+    },
+    "en": {
+      "text": "They often criticize him for no reason at all",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я никогда не испытывал такого чувства",
-    "en": "I've never experienced such a feeling"
+    "id": 12,
+    "ru": {
+      "text": "Я никогда не испытывал такого чувства",
+      "audio": false
+    },
+    "en": {
+      "text": "I've never experienced such a feeling",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я уже начал этот курс",
-    "en": "I've already started this course"
+    "id": 13,
+    "ru": {
+      "text": "Я уже начал этот курс",
+      "audio": false
+    },
+    "en": {
+      "text": "I've already started this course",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я надеюсь, что ситуация скоро улучшится",
-    "en": "I hope that the situation will improve soon"
+    "id": 14,
+    "ru": {
+      "text": "Я надеюсь, что ситуация скоро улучшится",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope that the situation will improve soon",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Если честно, я никогда раньше не видел ничего подобного",
-    "en": "To be honest, I've never seen anything like it before"
+    "id": 15,
+    "ru": {
+      "text": "Если честно, я никогда раньше не видел ничего подобного",
+      "audio": false
+    },
+    "en": {
+      "text": "To be honest, I've never seen anything like it before",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Я надеюсь, что скоро найду работу получше",
-    "en": "I hope that I'll find a better job soon"
+    "id": 16,
+    "ru": {
+      "text": "Я надеюсь, что скоро найду работу получше",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope that I'll find a better job soon",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Его машина часто ломалась",
-    "en": "His car often broke down"
+    "id": 17,
+    "ru": {
+      "text": "Его машина часто ломалась",
+      "audio": false
+    },
+    "en": {
+      "text": "His car often broke down",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "В этом году они выпустили новый альбом",
-    "en": "They've released a new album this year"
+    "id": 18,
+    "ru": {
+      "text": "В этом году они выпустили новый альбом",
+      "audio": false
+    },
+    "en": {
+      "text": "They've released a new album this year",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Они включили его имя в список",
-    "en": "They included his name in the list"
+    "id": 19,
+    "ru": {
+      "text": "Они включили его имя в список",
+      "audio": false
+    },
+    "en": {
+      "text": "They included his name in the list",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Я только что написал этот отчет",
-    "en": "I've just written this report"
+    "id": 20,
+    "ru": {
+      "text": "Я только что написал этот отчет",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just written this report",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Пока мы гуляли в парке, они сидели дома",
-    "en": "While we were walking in the park, they were staying at home"
+    "id": 21,
+    "ru": {
+      "text": "Пока мы гуляли в парке, они сидели дома",
+      "audio": false
+    },
+    "en": {
+      "text": "While we were walking in the park, they were staying at home",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Они собираются повысить цену",
-    "en": "They are going to increase the price"
+    "id": 22,
+    "ru": {
+      "text": "Они собираются повысить цену",
+      "audio": false
+    },
+    "en": {
+      "text": "They are going to increase the price",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Я очень сильно улучшил свой английский с помощью этого метода",
-    "en": "I improved my English greatly with the help of this method"
+    "id": 23,
+    "ru": {
+      "text": "Я очень сильно улучшил свой английский с помощью этого метода",
+      "audio": false
+    },
+    "en": {
+      "text": "I improved my English greatly with the help of this method",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Он где-то потерял свой кошелек",
-    "en": "He lost his wallet somewhere"
+    "id": 24,
+    "ru": {
+      "text": "Он где-то потерял свой кошелек",
+      "audio": false
+    },
+    "en": {
+      "text": "He lost his wallet somewhere",
+      "audio": false
+    }
   }
 ]

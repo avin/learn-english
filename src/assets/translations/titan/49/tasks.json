@@ -1,347 +1,761 @@
 [
   {
-    "_id": 1,
-    "ru": "Наша встреча началась час назад",
-    "en": "Our meeting began an hour ago"
-  },
-  {
-    "_id": 2,
-    "ru": "Она съела два яйца",
-    "en": "She ate two eggs"
-  },
-  {
-    "_id": 3,
-    "ru": "Я видел мой реальный прогресс",
-    "en": "I saw my real progress"
-  },
-  {
-    "_id": 4,
-    "ru": "Я проверил все",
-    "en": "I checked everything"
-  },
-  {
-    "_id": 5,
-    "ru": "Я хочу улучшить свои знания",
-    "en": "I want to improve my knowledge"
-  },
-  {
-    "_id": 6,
-    "ru": "Он катался на верблюде в пустыне",
-    "en": "He rode a camel in a desert"
-  },
-  {
-    "_id": 7,
-    "ru": "Он поддерживает твою идею?",
-    "en": "Does he support your idea?"
-  },
-  {
-    "_id": 8,
-    "ru": "Я читаю разные статьи онлайн",
-    "en": "I read different articles online"
-  },
-  {
-    "_id": 9,
-    "ru": "Я слышу тебя очень хорошо",
-    "en": "I hear you very well"
-  },
-  {
-    "_id": 10,
-    "ru": "Я часто слышу это от него",
-    "en": "I often hear it from him"
-  },
-  {
-    "_id": 11,
-    "ru": "Я слышу тебя намного лучше сейчас",
-    "en": "I hear you much better now"
-  },
-  {
-    "_id": 12,
-    "ru": "Он читал эту книгу",
-    "en": "He read this book"
-  },
-  {
-    "_id": 13,
-    "ru": "Когда это начнется?",
-    "en": "When will it begin?"
-  },
-  {
-    "_id": 14,
-    "ru": "Ты видишь каких-либо людей там?",
-    "en": "Do you see any people there?"
-  },
-  {
-    "_id": 15,
-    "ru": "Он приехал домой",
-    "en": "He arrived home"
-  },
-  {
-    "_id": 16,
-    "ru": "Мои родители скоро прибудут",
-    "en": "My parents will arrive soon"
-  },
-  {
-    "_id": 17,
-    "ru": "Он мне очень помог",
-    "en": "He helped me a lot"
-  },
-  {
-    "_id": 18,
-    "ru": "Я получил твое письмо",
-    "en": "I got your letter"
-  },
-  {
-    "_id": 19,
-    "ru": "Это действительно помогло мне",
-    "en": "It really helped me"
-  },
-  {
-    "_id": 20,
-    "ru": "Он съел все",
-    "en": "He ate everything"
-  },
-  {
-    "_id": 21,
-    "ru": "Она прибыла в США",
-    "en": "She arrived in the U.S."
-  },
-  {
-    "_id": 22,
-    "ru": "Помой свои руки!",
-    "en": "Wash your hands!"
-  },
-  {
-    "_id": 23,
-    "ru": "Я могу кататься на велосипеде",
-    "en": "I can ride a bicycle"
-  },
-  {
-    "_id": 24,
-    "ru": "Она умыла свое лицо",
-    "en": "She washed her face"
-  },
-  {
-    "_id": 25,
-    "ru": "Я слышал это по телевизору",
-    "en": "I heard it on TV"
-  },
-  {
-    "_id": 26,
-    "ru": "Я улучшил свою речь здесь",
-    "en": "I improved my speaking here"
-  },
-  {
-    "_id": 27,
-    "ru": "Это может сохранить ей жизнь",
-    "en": "It can save her life"
-  },
-  {
-    "_id": 28,
-    "ru": "Ты так много помогаешь мне",
-    "en": "You help me so much"
-  },
-  {
-    "_id": 29,
-    "ru": "Эта встреча скоро начнется",
-    "en": "This meeting will begin soon"
-  },
-  {
-    "_id": 30,
-    "ru": "Он умер в прошлом году",
-    "en": "He died last year"
-  },
-  {
-    "_id": 31,
-    "ru": "Я поделился с ней этой фотографией",
-    "en": "I shared this photo with her"
-  },
-  {
-    "_id": 32,
-    "ru": "Я заказал свой компьютер онлайн",
-    "en": "I ordered my computer online"
-  },
-  {
-    "_id": 33,
-    "ru": "Я не заказываю одежду онлайн",
-    "en": "I don't order clothes online"
-  },
-  {
-    "_id": 34,
-    "ru": "Мы можем сделать это позже",
-    "en": "We can do it later"
-  },
-  {
-    "_id": 35,
-    "ru": "Когда ты слышал это?",
-    "en": "When did you hear it?"
-  },
-  {
-    "_id": 36,
-    "ru": "Я мог видеть это очень хорошо",
-    "en": "I could see it very well"
-  },
-  {
-    "_id": 37,
-    "ru": "Ты можешь прийти ко мне сейчас",
-    "en": "You can come to me now"
-  },
-  {
-    "_id": 38,
-    "ru": "Я читаю для удовольствия",
-    "en": "I read for pleasure"
-  },
-  {
-    "_id": 39,
-    "ru": "Он поцеловал ее внезапно",
-    "en": "He kissed her suddenly"
-  },
-  {
-    "_id": 40,
-    "ru": "Она знает, что он может умереть скоро",
-    "en": "She knows that he can die soon"
-  },
-  {
-    "_id": 41,
-    "ru": "Они поцеловались в конце",
-    "en": "They kissed in the end"
-  },
-  {
-    "_id": 42,
-    "ru": "Не забудьте сохранить этот файл!",
-    "en": "Don't forget to save this file!"
-  },
-  {
-    "_id": 43,
-    "ru": "Я не хотел провалить тот экзамен",
-    "en": "I didn't want to fail that exam"
-  },
-  {
-    "_id": 44,
-    "ru": "Он часто читает книги",
-    "en": "He often reads books"
-  },
-  {
-    "_id": 45,
-    "ru": "Когда ты к нам придешь?",
-    "en": "When will you come to us?"
-  },
-  {
-    "_id": 46,
-    "ru": "Когда она придет к тебе?",
-    "en": "When will she come to you?"
-  },
-  {
-    "_id": 47,
-    "ru": "Ты придешь ко мне?",
-    "en": "Will you come to me?"
-  },
-  {
-    "_id": 48,
-    "ru": "Я думаю, он провалит этот экзамен",
-    "en": "I think he will fail this exam"
-  },
-  {
-    "_id": 49,
-    "ru": "Я не думаю, он провалит этот тест",
-    "en": "I don't think he will fail this test"
-  },
-  {
-    "_id": 50,
-    "ru": "Я думаю, она провалит этот экзамен",
-    "en": "I think she will fail this exam"
-  },
-  {
-    "_id": 51,
-    "ru": "Не забудь прийти сюда!",
-    "en": "Don't forget to come here!"
-  },
-  {
-    "_id": 52,
-    "ru": "Что он у тебя спросил?",
-    "en": "What did he ask you?"
-  },
-  {
-    "_id": 53,
-    "ru": "Что она у тебя спросила?",
-    "en": "What did she ask you?"
-  },
-  {
-    "_id": 54,
-    "ru": "Что ты у нее спросил?",
-    "en": "What did you ask her?"
-  },
-  {
-    "_id": 55,
-    "ru": "Я вернулся домой очень поздно",
-    "en": "I came back home very late"
-  },
-  {
-    "_id": 56,
-    "ru": "Он вернулся домой очень рано",
-    "en": "He came back home very early"
-  },
-  {
-    "_id": 57,
-    "ru": "Я обычно возвращаюсь поздно",
-    "en": "I usually come back late"
-  },
-  {
-    "_id": 58,
-    "ru": "Я знал это в начале",
-    "en": "I knew it in the beginning"
-  },
-  {
-    "_id": 59,
-    "ru": "Мы не знали, сколько это стоило",
-    "en": "We didn't know how much it cost"
-  },
-  {
-    "_id": 60,
-    "ru": "Я могу читать и писать на английском",
-    "en": "I can read and write in English"
-  },
-  {
-    "_id": 61,
-    "ru": "Он умеет говорить по-английски",
-    "en": "He can speak English"
-  },
-  {
-    "_id": 62,
-    "ru": "Не забудь вымыть свои руки!",
-    "en": "Don't forget to wash your hands!"
-  },
-  {
-    "_id": 63,
-    "ru": "Ты будешь есть или нет?",
-    "en": "Will you eat or not?"
-  },
-  {
-    "_id": 64,
-    "ru": "Я не знаю, сколько это стоит",
-    "en": "I don't know how much it costs"
-  },
-  {
-    "_id": 65,
-    "ru": "Я уверен, тебе это тоже поможет",
-    "en": "I'm sure it will help you too"
-  },
-  {
-    "_id": 66,
-    "ru": "Я помню, как это началось",
-    "en": "I remember how it began"
-  },
-  {
-    "_id": 67,
-    "ru": "Я думаю, я получу эту работу",
-    "en": "I think I'll get this job"
-  },
-  {
-    "_id": 68,
-    "ru": "Я не хочу провалить этот тест",
-    "en": "I don't want to fail this test"
-  },
-  {
-    "_id": 69,
-    "ru": "Я думаю, она ест слишком много",
-    "en": "I think she eats too much"
+    "id": 1,
+    "ru": {
+      "text": "Наша встреча началась час назад",
+      "audio": false
+    },
+    "en": {
+      "text": "Our meeting began an hour ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Она съела два яйца",
+      "audio": false
+    },
+    "en": {
+      "text": "She ate two eggs",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я видел мой реальный прогресс",
+      "audio": false
+    },
+    "en": {
+      "text": "I saw my real progress",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я проверил все",
+      "audio": false
+    },
+    "en": {
+      "text": "I checked everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я хочу улучшить свои знания",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to improve my knowledge",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Он катался на верблюде в пустыне",
+      "audio": false
+    },
+    "en": {
+      "text": "He rode a camel in a desert",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Он поддерживает твою идею?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he support your idea?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я читаю разные статьи онлайн",
+      "audio": false
+    },
+    "en": {
+      "text": "I read different articles online",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я слышу тебя очень хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "I hear you very well",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я часто слышу это от него",
+      "audio": false
+    },
+    "en": {
+      "text": "I often hear it from him",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я слышу тебя намного лучше сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I hear you much better now",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Он читал эту книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "He read this book",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Когда это начнется?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will it begin?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Ты видишь каких-либо людей там?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you see any people there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Он приехал домой",
+      "audio": false
+    },
+    "en": {
+      "text": "He arrived home",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Мои родители скоро прибудут",
+      "audio": false
+    },
+    "en": {
+      "text": "My parents will arrive soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Он мне очень помог",
+      "audio": false
+    },
+    "en": {
+      "text": "He helped me a lot",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я получил твое письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I got your letter",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Это действительно помогло мне",
+      "audio": false
+    },
+    "en": {
+      "text": "It really helped me",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Он съел все",
+      "audio": false
+    },
+    "en": {
+      "text": "He ate everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Она прибыла в США",
+      "audio": false
+    },
+    "en": {
+      "text": "She arrived in the U.S.",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Помой свои руки!",
+      "audio": false
+    },
+    "en": {
+      "text": "Wash your hands!",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Я могу кататься на велосипеде",
+      "audio": false
+    },
+    "en": {
+      "text": "I can ride a bicycle",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Она умыла свое лицо",
+      "audio": false
+    },
+    "en": {
+      "text": "She washed her face",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Я слышал это по телевизору",
+      "audio": false
+    },
+    "en": {
+      "text": "I heard it on TV",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я улучшил свою речь здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "I improved my speaking here",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Это может сохранить ей жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "It can save her life",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Ты так много помогаешь мне",
+      "audio": false
+    },
+    "en": {
+      "text": "You help me so much",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Эта встреча скоро начнется",
+      "audio": false
+    },
+    "en": {
+      "text": "This meeting will begin soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Он умер в прошлом году",
+      "audio": false
+    },
+    "en": {
+      "text": "He died last year",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Я поделился с ней этой фотографией",
+      "audio": false
+    },
+    "en": {
+      "text": "I shared this photo with her",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я заказал свой компьютер онлайн",
+      "audio": false
+    },
+    "en": {
+      "text": "I ordered my computer online",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я не заказываю одежду онлайн",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't order clothes online",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Мы можем сделать это позже",
+      "audio": false
+    },
+    "en": {
+      "text": "We can do it later",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Когда ты слышал это?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you hear it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я мог видеть это очень хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "I could see it very well",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Ты можешь прийти ко мне сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "You can come to me now",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Я читаю для удовольствия",
+      "audio": false
+    },
+    "en": {
+      "text": "I read for pleasure",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Он поцеловал ее внезапно",
+      "audio": false
+    },
+    "en": {
+      "text": "He kissed her suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Она знает, что он может умереть скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "She knows that he can die soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Они поцеловались в конце",
+      "audio": false
+    },
+    "en": {
+      "text": "They kissed in the end",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Не забудьте сохранить этот файл!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't forget to save this file!",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я не хотел провалить тот экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't want to fail that exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Он часто читает книги",
+      "audio": false
+    },
+    "en": {
+      "text": "He often reads books",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Когда ты к нам придешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you come to us?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Когда она придет к тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will she come to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Ты придешь ко мне?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you come to me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я думаю, он провалит этот экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he will fail this exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я не думаю, он провалит этот тест",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think he will fail this test",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я думаю, она провалит этот экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "I think she will fail this exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Не забудь прийти сюда!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't forget to come here!",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Что он у тебя спросил?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did he ask you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Что она у тебя спросила?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did she ask you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Что ты у нее спросил?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you ask her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я вернулся домой очень поздно",
+      "audio": false
+    },
+    "en": {
+      "text": "I came back home very late",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Он вернулся домой очень рано",
+      "audio": false
+    },
+    "en": {
+      "text": "He came back home very early",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я обычно возвращаюсь поздно",
+      "audio": false
+    },
+    "en": {
+      "text": "I usually come back late",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я знал это в начале",
+      "audio": false
+    },
+    "en": {
+      "text": "I knew it in the beginning",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Мы не знали, сколько это стоило",
+      "audio": false
+    },
+    "en": {
+      "text": "We didn't know how much it cost",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я могу читать и писать на английском",
+      "audio": false
+    },
+    "en": {
+      "text": "I can read and write in English",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он умеет говорить по-английски",
+      "audio": false
+    },
+    "en": {
+      "text": "He can speak English",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Не забудь вымыть свои руки!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't forget to wash your hands!",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Ты будешь есть или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you eat or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я не знаю, сколько это стоит",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know how much it costs",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я уверен, тебе это тоже поможет",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure it will help you too",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я помню, как это началось",
+      "audio": false
+    },
+    "en": {
+      "text": "I remember how it began",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я думаю, я получу эту работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I'll get this job",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я не хочу провалить этот тест",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't want to fail this test",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я думаю, она ест слишком много",
+      "audio": false
+    },
+    "en": {
+      "text": "I think she eats too much",
+      "audio": false
+    }
   }
 ]

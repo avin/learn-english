@@ -1,457 +1,1003 @@
 [
   {
-    "_id": 1,
-    "ru": "Он живет в том доме?",
-    "en": "Does he live in that house?"
-  },
-  {
-    "_id": 2,
-    "ru": "Это кажется очень странным?",
-    "en": "Does it seem very strange?"
-  },
-  {
-    "_id": 3,
-    "ru": "Он учится?",
-    "en": "Does he study?"
-  },
-  {
-    "_id": 4,
-    "ru": "Это кажется важным?",
-    "en": "Does it seem important?"
-  },
-  {
-    "_id": 5,
-    "ru": "Ты живешь рядом с этим местом?",
-    "en": "Do you live near this place?"
-  },
-  {
-    "_id": 6,
-    "ru": "Он живет в другой стране?",
-    "en": "Does he live in another country?"
-  },
-  {
-    "_id": 7,
-    "ru": "У него есть девушка?",
-    "en": "Does he have a girlfriend?"
-  },
-  {
-    "_id": 8,
-    "ru": "У него есть свободное время?",
-    "en": "Does he have free time?"
-  },
-  {
-    "_id": 9,
-    "ru": "Это стоит три тысячи фунтов?",
-    "en": "Does it cost three thousand pounds?"
-  },
-  {
-    "_id": 10,
-    "ru": "Она чувствует себя счастливой?",
-    "en": "Does she feel happy?"
-  },
-  {
-    "_id": 11,
-    "ru": "Он живет в доме?",
-    "en": "Does he live in a house?"
-  },
-  {
-    "_id": 12,
-    "ru": "Это стоит сорок фунтов?",
-    "en": "Does it cost forty pounds?"
-  },
-  {
-    "_id": 13,
-    "ru": "Это кажется странным?",
-    "en": "Does it seem strange?"
-  },
-  {
-    "_id": 14,
-    "ru": "Это стоит тридцать евро?",
-    "en": "Does it cost thirty euros?"
-  },
-  {
-    "_id": 15,
-    "ru": "Это действительно помогает тебе?",
-    "en": "Does it really help you?"
-  },
-  {
-    "_id": 16,
-    "ru": "Он живет очень далеко отсюда?",
-    "en": "Does he live very far from here?"
-  },
-  {
-    "_id": 17,
-    "ru": "Ты живешь далеко?",
-    "en": "Do you live far?"
-  },
-  {
-    "_id": 18,
-    "ru": "У нее есть парень?",
-    "en": "Does she have a boyfriend?"
-  },
-  {
-    "_id": 19,
-    "ru": "Он выглядит счастливым?",
-    "en": "Does he look happy?"
-  },
-  {
-    "_id": 20,
-    "ru": "Это помогает тебе?",
-    "en": "Does it help you?"
-  },
-  {
-    "_id": 21,
-    "ru": "Он работает?",
-    "en": "Does he work?"
-  },
-  {
-    "_id": 22,
-    "ru": "Это беспокоит тебя?",
-    "en": "Does it worry you?"
-  },
-  {
-    "_id": 23,
-    "ru": "Это стоит семьсот евро?",
-    "en": "Does it cost seven hundred euros?"
-  },
-  {
-    "_id": 24,
-    "ru": "У нее есть собака?",
-    "en": "Does she have a dog?"
-  },
-  {
-    "_id": 25,
-    "ru": "Ты живешь рядом?",
-    "en": "Do you live near?"
-  },
-  {
-    "_id": 26,
-    "ru": "Ему нравится тот метод?",
-    "en": "Does he like that method?"
-  },
-  {
-    "_id": 27,
-    "ru": "Это стоит больше?",
-    "en": "Does it cost more?"
-  },
-  {
-    "_id": 28,
-    "ru": "Она живет в другом месте?",
-    "en": "Does she live in another place?"
-  },
-  {
-    "_id": 29,
-    "ru": "У него есть машина?",
-    "en": "Does he have a car?"
-  },
-  {
-    "_id": 30,
-    "ru": "Это кажется интересным?",
-    "en": "Does it seem interesting?"
-  },
-  {
-    "_id": 31,
-    "ru": "Это кажется очень важным?",
-    "en": "Does it seem very important?"
-  },
-  {
-    "_id": 32,
-    "ru": "Ей нравится этот метод?",
-    "en": "Does she like this method?"
-  },
-  {
-    "_id": 33,
-    "ru": "У него есть кот?",
-    "en": "Does he have a cat?"
-  },
-  {
-    "_id": 34,
-    "ru": "Он живет около того места?",
-    "en": "Does he live near that place?"
-  },
-  {
-    "_id": 35,
-    "ru": "Это действительно тебя беспокоит?",
-    "en": "Does it really worry you?"
-  },
-  {
-    "_id": 36,
-    "ru": "Ты живешь в доме?",
-    "en": "Do you live in a house?"
-  },
-  {
-    "_id": 37,
-    "ru": "Это кажется скучным?",
-    "en": "Does it seem boring?"
-  },
-  {
-    "_id": 38,
-    "ru": "Она живет в квартире?",
-    "en": "Does she live in an apartment?"
-  },
-  {
-    "_id": 39,
-    "ru": "Это стоит пятьсот долларов?",
-    "en": "Does it cost five hundred dollars?"
-  },
-  {
-    "_id": 40,
-    "ru": "Он занимается бизнесом?",
-    "en": "Does he do business?"
-  },
-  {
-    "_id": 41,
-    "ru": "Это кажется действительно странным?",
-    "en": "Does it seem really strange?"
-  },
-  {
-    "_id": 42,
-    "ru": "Вы живете вместе?",
-    "en": "Do you live together?"
-  },
-  {
-    "_id": 43,
-    "ru": "Он видит их?",
-    "en": "Does he see them?"
-  },
-  {
-    "_id": 44,
-    "ru": "Он тебе помогает?",
-    "en": "Does he help you?"
-  },
-  {
-    "_id": 45,
-    "ru": "Он покупает очень дешевые вещи?",
-    "en": "Does he buy very cheap things?"
-  },
-  {
-    "_id": 46,
-    "ru": "Ты часто слушаешь музыку?",
-    "en": "Do you often listen to music?"
-  },
-  {
-    "_id": 47,
-    "ru": "Он делает так много ошибок?",
-    "en": "Does he make so many mistakes?"
-  },
-  {
-    "_id": 48,
-    "ru": "Это действительно интересует тебя?",
-    "en": "Does it really interest you?"
-  },
-  {
-    "_id": 49,
-    "ru": "Он покупает те вещи?",
-    "en": "Does he buy those things?"
-  },
-  {
-    "_id": 50,
-    "ru": "Вы часто проводите время вместе?",
-    "en": "Do you often spend time together?"
-  },
-  {
-    "_id": 51,
-    "ru": "Он хочет стать актером?",
-    "en": "Does he want to become an actor?"
-  },
-  {
-    "_id": 52,
-    "ru": "Он работает или учится?",
-    "en": "Does he work or study?"
-  },
-  {
-    "_id": 53,
-    "ru": "Он помогает ему?",
-    "en": "Does he help him?"
-  },
-  {
-    "_id": 54,
-    "ru": "Он тоже так думает?",
-    "en": "Does he also think so?"
-  },
-  {
-    "_id": 55,
-    "ru": "Они тоже так думают?",
-    "en": "Do they also think so?"
-  },
-  {
-    "_id": 56,
-    "ru": "Она тоже так думает?",
-    "en": "Does she also think so?"
-  },
-  {
-    "_id": 57,
-    "ru": "Она хочет это обсудить?",
-    "en": "Does she want to discuss it?"
-  },
-  {
-    "_id": 58,
-    "ru": "Ты хочешь это обсудить?",
-    "en": "Do you want to discuss it?"
-  },
-  {
-    "_id": 59,
-    "ru": "Он хочет это обсудить?",
-    "en": "Does he want to discuss it?"
-  },
-  {
-    "_id": 60,
-    "ru": "Она покупает более хорошие вещи?",
-    "en": "Does she buy better things?"
-  },
-  {
-    "_id": 61,
-    "ru": "Он покупает очень дорогую вещь?",
-    "en": "Does he buy a very expensive thing?"
-  },
-  {
-    "_id": 62,
-    "ru": "Ты покупаешь очень дорогие вещи?",
-    "en": "Do you buy very expensive things?"
-  },
-  {
-    "_id": 63,
-    "ru": "Он делает разные упражнения?",
-    "en": "Does he do different exercises?"
-  },
-  {
-    "_id": 64,
-    "ru": "Она делает разные упражнения?",
-    "en": "Does she do different exercises?"
-  },
-  {
-    "_id": 65,
-    "ru": "Ты делаешь разные упражнения?",
-    "en": "Do you do different exercises?"
-  },
-  {
-    "_id": 66,
-    "ru": "Она тоже делает это?",
-    "en": "Does she also do it?"
-  },
-  {
-    "_id": 67,
-    "ru": "Они тоже делают это?",
-    "en": "Do they also do it?"
-  },
-  {
-    "_id": 68,
-    "ru": "Ему тоже это нравится?",
-    "en": "Does he also like it?"
-  },
-  {
-    "_id": 69,
-    "ru": "Это действительно мотивирует тебя?",
-    "en": "Does it really motivate you?"
-  },
-  {
-    "_id": 70,
-    "ru": "Это действительно мотивирует их?",
-    "en": "Does it really motivate them?"
-  },
-  {
-    "_id": 71,
-    "ru": "Это мотивирует тебя?",
-    "en": "Does it motivate you?"
-  },
-  {
-    "_id": 72,
-    "ru": "Это стоит так много денег?",
-    "en": "Does it cost so much money?"
-  },
-  {
-    "_id": 73,
-    "ru": "Он часто звонит тебе?",
-    "en": "Does he often call you?"
-  },
-  {
-    "_id": 74,
-    "ru": "Ты часто звонишь ему?",
-    "en": "Do you often call him?"
-  },
-  {
-    "_id": 75,
-    "ru": "Она часто звонит им?",
-    "en": "Does she often call them?"
-  },
-  {
-    "_id": 76,
-    "ru": "Он хочет сменить свою работу?",
-    "en": "Does he want to change his job?"
-  },
-  {
-    "_id": 77,
-    "ru": "Ты хочешь сменить свою работу?",
-    "en": "Do you want to change your job?"
-  },
-  {
-    "_id": 78,
-    "ru": "Это интересует тебя?",
-    "en": "Does it interest you?"
-  },
-  {
-    "_id": 79,
-    "ru": "Это интересует его",
-    "en": "It interests him"
-  },
-  {
-    "_id": 80,
-    "ru": "Это интересует их?",
-    "en": "Does it interest them?"
-  },
-  {
-    "_id": 81,
-    "ru": "Она хочет быть актрисой?",
-    "en": "Does she want to be an actress?"
-  },
-  {
-    "_id": 82,
-    "ru": "Это мотивирует его?",
-    "en": "Does it motivate him?"
-  },
-  {
-    "_id": 83,
-    "ru": "Он помогает своему другу?",
-    "en": "Does he help his friend?"
-  },
-  {
-    "_id": 84,
-    "ru": "Он учится или работает?",
-    "en": "Does he study or work?"
-  },
-  {
-    "_id": 85,
-    "ru": "Она хочет поменять свою работу?",
-    "en": "Does she want to change her job?"
-  },
-  {
-    "_id": 86,
-    "ru": "Она хочет найти новую работу?",
-    "en": "Does she want to find a new job?"
-  },
-  {
-    "_id": 87,
-    "ru": "Он хочет посмотреть этот фильм?",
-    "en": "Does he want to watch this movie?"
-  },
-  {
-    "_id": 88,
-    "ru": "Она часто слушает музыку?",
-    "en": "Does she often listen to music?"
-  },
-  {
-    "_id": 89,
-    "ru": "Она покупает дорогие вещи?",
-    "en": "Does she buy expensive things?"
-  },
-  {
-    "_id": 90,
-    "ru": "Она тренируется очень интенсивно?",
-    "en": "Does she train very intensively?"
-  },
-  {
-    "_id": 91,
-    "ru": "Ей нравится та музыка?",
-    "en": "Does she like that music?"
+    "id": 1,
+    "ru": {
+      "text": "Он живет в том доме?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he live in that house?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Это кажется очень странным?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it seem very strange?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Он учится?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he study?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Это кажется важным?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it seem important?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Ты живешь рядом с этим местом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you live near this place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Он живет в другой стране?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he live in another country?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "У него есть девушка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he have a girlfriend?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "У него есть свободное время?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he have free time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Это стоит три тысячи фунтов?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it cost three thousand pounds?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Она чувствует себя счастливой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she feel happy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Он живет в доме?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he live in a house?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Это стоит сорок фунтов?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it cost forty pounds?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Это кажется странным?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it seem strange?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Это стоит тридцать евро?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it cost thirty euros?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Это действительно помогает тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it really help you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Он живет очень далеко отсюда?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he live very far from here?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Ты живешь далеко?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you live far?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "У нее есть парень?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she have a boyfriend?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он выглядит счастливым?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he look happy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Это помогает тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it help you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Он работает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это беспокоит тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it worry you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Это стоит семьсот евро?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it cost seven hundred euros?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "У нее есть собака?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she have a dog?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Ты живешь рядом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you live near?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Ему нравится тот метод?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he like that method?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Это стоит больше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it cost more?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Она живет в другом месте?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she live in another place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "У него есть машина?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he have a car?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Это кажется интересным?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it seem interesting?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Это кажется очень важным?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it seem very important?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Ей нравится этот метод?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she like this method?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "У него есть кот?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he have a cat?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он живет около того места?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he live near that place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Это действительно тебя беспокоит?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it really worry you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Ты живешь в доме?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you live in a house?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Это кажется скучным?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it seem boring?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Она живет в квартире?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she live in an apartment?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Это стоит пятьсот долларов?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it cost five hundred dollars?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Он занимается бизнесом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he do business?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Это кажется действительно странным?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it seem really strange?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Вы живете вместе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you live together?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Он видит их?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he see them?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Он тебе помогает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he help you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Он покупает очень дешевые вещи?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he buy very cheap things?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Ты часто слушаешь музыку?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often listen to music?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Он делает так много ошибок?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he make so many mistakes?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Это действительно интересует тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it really interest you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Он покупает те вещи?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he buy those things?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Вы часто проводите время вместе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often spend time together?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Он хочет стать актером?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he want to become an actor?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Он работает или учится?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he work or study?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Он помогает ему?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he help him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Он тоже так думает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he also think so?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Они тоже так думают?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they also think so?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Она тоже так думает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she also think so?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Она хочет это обсудить?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she want to discuss it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Ты хочешь это обсудить?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to discuss it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Он хочет это обсудить?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he want to discuss it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Она покупает более хорошие вещи?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she buy better things?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он покупает очень дорогую вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he buy a very expensive thing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Ты покупаешь очень дорогие вещи?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you buy very expensive things?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Он делает разные упражнения?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he do different exercises?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Она делает разные упражнения?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she do different exercises?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Ты делаешь разные упражнения?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you do different exercises?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Она тоже делает это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she also do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Они тоже делают это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they also do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Ему тоже это нравится?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he also like it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Это действительно мотивирует тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it really motivate you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Это действительно мотивирует их?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it really motivate them?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Это мотивирует тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it motivate you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Это стоит так много денег?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it cost so much money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Он часто звонит тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he often call you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Ты часто звонишь ему?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often call him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Она часто звонит им?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she often call them?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Он хочет сменить свою работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he want to change his job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Ты хочешь сменить свою работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to change your job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Это интересует тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it interest you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Это интересует его",
+      "audio": false
+    },
+    "en": {
+      "text": "It interests him",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Это интересует их?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it interest them?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Она хочет быть актрисой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she want to be an actress?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Это мотивирует его?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it motivate him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Он помогает своему другу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he help his friend?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Он учится или работает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he study or work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Она хочет поменять свою работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she want to change her job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Она хочет найти новую работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she want to find a new job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Он хочет посмотреть этот фильм?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he want to watch this movie?",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Она часто слушает музыку?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she often listen to music?",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Она покупает дорогие вещи?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she buy expensive things?",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Она тренируется очень интенсивно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she train very intensively?",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Ей нравится та музыка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she like that music?",
+      "audio": false
+    }
   }
 ]

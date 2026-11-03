@@ -1,467 +1,1025 @@
 [
   {
-    "_id": 1,
-    "ru": "Это типично для него",
-    "en": "It is typical of him"
-  },
-  {
-    "_id": 2,
-    "ru": "Она ревнует своего мужа",
-    "en": "She is jealous of her husband"
-  },
-  {
-    "_id": 3,
-    "ru": "Он очень хорош в игре на гитаре",
-    "en": "He is very good at playing the guitar"
-  },
-  {
-    "_id": 4,
-    "ru": "Кто ответственный за это?",
-    "en": "Who is responsible for it?"
-  },
-  {
-    "_id": 5,
-    "ru": "Я особенно увлекаюсь иностранными языками",
-    "en": "I am particularly keen on foreign languages"
-  },
-  {
-    "_id": 6,
-    "ru": "Он готов к худшему",
-    "en": "He is prepared for the worst"
-  },
-  {
-    "_id": 7,
-    "ru": "Это очень типично для него",
-    "en": "It is very typical of him"
-  },
-  {
-    "_id": 8,
-    "ru": "Он ответственный за все",
-    "en": "He is responsible for everything"
-  },
-  {
-    "_id": 9,
-    "ru": "Он ужасно говорит по-французски",
-    "en": "He is terrible at speaking French"
-  },
-  {
-    "_id": 10,
-    "ru": "Эта вещь мне знакома",
-    "en": "This thing is familiar to me"
-  },
-  {
-    "_id": 11,
-    "ru": "Я был шокирован новостью",
-    "en": "I was shocked by the news"
-  },
-  {
-    "_id": 12,
-    "ru": "Она очень зла на него",
-    "en": "She is very angry with him"
-  },
-  {
-    "_id": 13,
-    "ru": "Она очень озабочена своим будущим",
-    "en": "She feels very anxious about her future"
-  },
-  {
-    "_id": 14,
-    "ru": "Я знаком с его другом",
-    "en": "I'm familiar with his friend"
-  },
-  {
-    "_id": 15,
-    "ru": "Он отлично владеет языками",
-    "en": "He is excellent at languages"
-  },
-  {
-    "_id": 16,
-    "ru": "Она очень хороша в игре на скрипке",
-    "en": "She is very good at playing the violin"
-  },
-  {
-    "_id": 17,
-    "ru": "Я к этому привык",
-    "en": "I'm used to it"
-  },
-  {
-    "_id": 18,
-    "ru": "Она ужасно играет в теннис",
-    "en": "She is terrible at tennis"
-  },
-  {
-    "_id": 19,
-    "ru": "Его обвинили в преступлении",
-    "en": "He was accused of a crime"
-  },
-  {
-    "_id": 20,
-    "ru": "Он отлично разбирается в математике",
-    "en": "He is excellent at maths"
-  },
-  {
-    "_id": 21,
-    "ru": "Его лицо кажется мне знакомым",
-    "en": "His face seems familiar to me"
-  },
-  {
-    "_id": 22,
-    "ru": "Он очень зол из-за этой ситуации",
-    "en": "He is very angry about this situation"
-  },
-  {
-    "_id": 23,
-    "ru": "Ее обвинили во лжи",
-    "en": "She was accused of lying"
-  },
-  {
-    "_id": 24,
-    "ru": "Я знаком с ней",
-    "en": "I'm familiar with her"
-  },
-  {
-    "_id": 25,
-    "ru": "Его лицо мне очень знакомо",
-    "en": "His face is very familiar to me"
-  },
-  {
-    "_id": 26,
-    "ru": "Она ревнует своего мужа",
-    "en": "She is jealous of her husband"
-  },
-  {
-    "_id": 27,
-    "ru": "Я был действительно удивлен ее словами",
-    "en": "I was really surprised by her words"
-  },
-  {
-    "_id": 28,
-    "ru": "Это довольно типично для него",
-    "en": "It is quite typical of him"
-  },
-  {
-    "_id": 29,
-    "ru": "Он ужасно играет в теннис",
-    "en": "He is terrible at playing tennis"
-  },
-  {
-    "_id": 30,
-    "ru": "Он был впечатлен ее красотой",
-    "en": "He was impressed by her beauty"
-  },
-  {
-    "_id": 31,
-    "ru": "Я действительно устал делать это снова и снова",
-    "en": "I am really tired of doing it again and again"
-  },
-  {
-    "_id": 32,
-    "ru": "Он устал делать те же самые вещи снова и снова",
-    "en": "He is tired of doing the same things again and again"
-  },
-  {
-    "_id": 33,
-    "ru": "Он ответственный за это",
-    "en": "He is responsible for it"
-  },
-  {
-    "_id": 34,
-    "ru": "Я не готов к этому",
-    "en": "I'm not prepared for it"
-  },
-  {
-    "_id": 35,
-    "ru": "Мы все были шокированы новостями",
-    "en": "We were all shocked by the news"
-  },
-  {
-    "_id": 36,
-    "ru": "Она очень обеспокоена этой ситуацией",
-    "en": "She is very worried about this situation"
-  },
-  {
-    "_id": 37,
-    "ru": "Я знаком с ним",
-    "en": "I am familiar with him"
-  },
-  {
-    "_id": 38,
-    "ru": "Он плохо играет в футбол",
-    "en": "He is bad at playing football"
-  },
-  {
-    "_id": 39,
-    "ru": "Он очень беспокоится о своем будущем",
-    "en": "He is very anxious about his future"
-  },
-  {
-    "_id": 40,
-    "ru": "Я был очень удивлен этим решением",
-    "en": "I was really surprised by this decision"
-  },
-  {
-    "_id": 41,
-    "ru": "Мои идеи похожи на ее",
-    "en": "My ideas are similar to hers"
-  },
-  {
-    "_id": 42,
-    "ru": "Все были шокированы его внезапной смертью",
-    "en": "Everyone was shocked by his sudden death"
-  },
-  {
-    "_id": 43,
-    "ru": "Он не способен сделать такую вещь",
-    "en": "He is incapable of doing such a thing"
-  },
-  {
-    "_id": 44,
-    "ru": "Он очень чувствителен к критике других людей",
-    "en": "He is very sensitive to other people's criticism"
-  },
-  {
-    "_id": 45,
-    "ru": "Я уверен, что он не способен говорить неправду",
-    "en": "I'm sure that he is incapable of telling a lie"
-  },
-  {
-    "_id": 46,
-    "ru": "Она очень чувствительна к критике своих коллег",
-    "en": "She is very sensitive to her colleagues' criticism"
-  },
-  {
-    "_id": 47,
-    "ru": "Тебе не нужно бояться делать это",
-    "en": "You don't need to be afraid of doing it"
-  },
-  {
-    "_id": 48,
-    "ru": "Я всегда был хорош в математике",
-    "en": "I have always been good at maths"
-  },
-  {
-    "_id": 49,
-    "ru": "Она не способна говорить неправду",
-    "en": "She is incapable of telling a lie"
-  },
-  {
-    "_id": 50,
-    "ru": "Он привык ложиться поздно",
-    "en": "He is accustomed to going to bed late"
-  },
-  {
-    "_id": 51,
-    "ru": "Я не привык выступать на публике",
-    "en": "I am not used to speaking in public"
-  },
-  {
-    "_id": 52,
-    "ru": "Наши идеи схожи с их",
-    "en": "Our ideas are similar to theirs"
-  },
-  {
-    "_id": 53,
-    "ru": "Она часто ревнует своего мужа",
-    "en": "She is often jealous of her husband"
-  },
-  {
-    "_id": 54,
-    "ru": "Она сыта по горло этой рутиной",
-    "en": "She is fed up with this routine"
-  },
-  {
-    "_id": 55,
-    "ru": "Он не боится делать это",
-    "en": "He isn't afraid of doing it"
-  },
-  {
-    "_id": 56,
-    "ru": "Я действительно боюсь это делать",
-    "en": "I am really afraid of doing it"
-  },
-  {
-    "_id": 57,
-    "ru": "Она боится искать новую работу",
-    "en": "She is afraid of looking for a new job"
-  },
-  {
-    "_id": 58,
-    "ru": "Он действительно хорош в математике",
-    "en": "He is really good at maths"
-  },
-  {
-    "_id": 59,
-    "ru": "Он никогда не был хорош в футболе",
-    "en": "He has never been good at playing football"
-  },
-  {
-    "_id": 60,
-    "ru": "Эти вещи тесно связаны друг с другом",
-    "en": "These things are closely related to each other"
-  },
-  {
-    "_id": 61,
-    "ru": "Эти серии связаны друг с другом",
-    "en": "These series are related to each other"
-  },
-  {
-    "_id": 62,
-    "ru": "Эти вещи совсем не связаны друг с другом",
-    "en": "These things aren't related to each other at all"
-  },
-  {
-    "_id": 63,
-    "ru": "Я вижу, что твоя точка зрения похожа на мою",
-    "en": "I see that your point of view is similar to mine"
-  },
-  {
-    "_id": 64,
-    "ru": "Я вижу, что твоя идея похожа на ее",
-    "en": "I see that your idea is similar to hers"
-  },
-  {
-    "_id": 65,
-    "ru": "Эти две вещи очень похожи",
-    "en": "These two things are very similar"
-  },
-  {
-    "_id": 66,
-    "ru": "Его обвинили в совершении того преступления",
-    "en": "He was accused of committing that crime"
-  },
-  {
-    "_id": 67,
-    "ru": "Ее обвинили в убийствах",
-    "en": "She was accused of murders"
-  },
-  {
-    "_id": 68,
-    "ru": "Его обвинили во лжи",
-    "en": "He was accused of telling a lie"
-  },
-  {
-    "_id": 69,
-    "ru": "Я не привык делать это",
-    "en": "I am not accustomed to doing it"
-  },
-  {
-    "_id": 70,
-    "ru": "Я не привык вставать рано",
-    "en": "I am not accustomed to getting up early"
-  },
-  {
-    "_id": 71,
-    "ru": "Она увлекается чтением иностранной литературы",
-    "en": "She is keen on reading foreign literature"
-  },
-  {
-    "_id": 72,
-    "ru": "Он увлекается спортом",
-    "en": "He is keen on sport"
-  },
-  {
-    "_id": 73,
-    "ru": "Она увлекается просмотром фильмов",
-    "en": "She is keen on watching movies"
-  },
-  {
-    "_id": 74,
-    "ru": "Я привык вставать рано",
-    "en": "I am accustomed to getting up early"
-  },
-  {
-    "_id": 75,
-    "ru": "Я не привык просыпаться так рано",
-    "en": "I am not accustomed to waking up so early"
-  },
-  {
-    "_id": 76,
-    "ru": "Он не привык делать это",
-    "en": "He is not accustomed to doing it"
-  },
-  {
-    "_id": 77,
-    "ru": "Я очень быстро привык к такой погоде",
-    "en": "I got used to this weather very quickly"
-  },
-  {
-    "_id": 78,
-    "ru": "Я привык вставать рано",
-    "en": "I got used to getting up early"
-  },
-  {
-    "_id": 79,
-    "ru": "Я не привык опаздывать на работу",
-    "en": "I'm not used to being late for work"
-  },
-  {
-    "_id": 80,
-    "ru": "Мой коллега очень чувствителен к критике",
-    "en": "My colleague is very sensitive to criticism"
-  },
-  {
-    "_id": 81,
-    "ru": "Я очень чувствителен к холоду",
-    "en": "I am very sensitive to cold"
-  },
-  {
-    "_id": 82,
-    "ru": "Некоторые люди очень чувствительны к критике",
-    "en": "Some people are very sensitive to criticism"
-  },
-  {
-    "_id": 83,
-    "ru": "Их обвинили в совершении преступления",
-    "en": "They were accused of committing a crime"
-  },
-  {
-    "_id": 84,
-    "ru": "Я не думаю, что он способен сделать это",
-    "en": "I don't think he is capable of doing it"
-  },
-  {
-    "_id": 85,
-    "ru": "Я был действительно впечатлен красотой этого места",
-    "en": "I was really impressed by the beauty of this place"
-  },
-  {
-    "_id": 86,
-    "ru": "Я не думаю, что он способен сделать это",
-    "en": "I don't think that he is capable of doing it"
-  },
-  {
-    "_id": 87,
-    "ru": "Он ужасно владеет иностранными языками",
-    "en": "He's terrible at foreign languages"
-  },
-  {
-    "_id": 88,
-    "ru": "Я привык работать под давлением",
-    "en": "I am accustomed to working under pressure"
-  },
-  {
-    "_id": 89,
-    "ru": "Его обвинили в убийстве",
-    "en": "He was accused of murder"
-  },
-  {
-    "_id": 90,
-    "ru": "Я думаю, он не способен сделать это",
-    "en": "I think he is incapable of doing it"
-  },
-  {
-    "_id": 91,
-    "ru": "Я скоро привык к этому",
-    "en": "I got accustomed to it soon"
-  },
-  {
-    "_id": 92,
-    "ru": "Я не привык делать это",
-    "en": "I am not used to doing it"
-  },
-  {
-    "_id": 93,
-    "ru": "Я привык к этому",
-    "en": "I'm accustomed to it"
+    "id": 1,
+    "ru": {
+      "text": "Это типично для него",
+      "audio": false
+    },
+    "en": {
+      "text": "It is typical of him",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Она ревнует своего мужа",
+      "audio": false
+    },
+    "en": {
+      "text": "She is jealous of her husband",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Он очень хорош в игре на гитаре",
+      "audio": false
+    },
+    "en": {
+      "text": "He is very good at playing the guitar",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Кто ответственный за это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is responsible for it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я особенно увлекаюсь иностранными языками",
+      "audio": false
+    },
+    "en": {
+      "text": "I am particularly keen on foreign languages",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Он готов к худшему",
+      "audio": false
+    },
+    "en": {
+      "text": "He is prepared for the worst",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Это очень типично для него",
+      "audio": false
+    },
+    "en": {
+      "text": "It is very typical of him",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Он ответственный за все",
+      "audio": false
+    },
+    "en": {
+      "text": "He is responsible for everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Он ужасно говорит по-французски",
+      "audio": false
+    },
+    "en": {
+      "text": "He is terrible at speaking French",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Эта вещь мне знакома",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing is familiar to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я был шокирован новостью",
+      "audio": false
+    },
+    "en": {
+      "text": "I was shocked by the news",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Она очень зла на него",
+      "audio": false
+    },
+    "en": {
+      "text": "She is very angry with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Она очень озабочена своим будущим",
+      "audio": false
+    },
+    "en": {
+      "text": "She feels very anxious about her future",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я знаком с его другом",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm familiar with his friend",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Он отлично владеет языками",
+      "audio": false
+    },
+    "en": {
+      "text": "He is excellent at languages",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Она очень хороша в игре на скрипке",
+      "audio": false
+    },
+    "en": {
+      "text": "She is very good at playing the violin",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я к этому привык",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm used to it",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Она ужасно играет в теннис",
+      "audio": false
+    },
+    "en": {
+      "text": "She is terrible at tennis",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Его обвинили в преступлении",
+      "audio": false
+    },
+    "en": {
+      "text": "He was accused of a crime",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Он отлично разбирается в математике",
+      "audio": false
+    },
+    "en": {
+      "text": "He is excellent at maths",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Его лицо кажется мне знакомым",
+      "audio": false
+    },
+    "en": {
+      "text": "His face seems familiar to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Он очень зол из-за этой ситуации",
+      "audio": false
+    },
+    "en": {
+      "text": "He is very angry about this situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Ее обвинили во лжи",
+      "audio": false
+    },
+    "en": {
+      "text": "She was accused of lying",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Я знаком с ней",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm familiar with her",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Его лицо мне очень знакомо",
+      "audio": false
+    },
+    "en": {
+      "text": "His face is very familiar to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Она ревнует своего мужа",
+      "audio": false
+    },
+    "en": {
+      "text": "She is jealous of her husband",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я был действительно удивлен ее словами",
+      "audio": false
+    },
+    "en": {
+      "text": "I was really surprised by her words",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Это довольно типично для него",
+      "audio": false
+    },
+    "en": {
+      "text": "It is quite typical of him",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Он ужасно играет в теннис",
+      "audio": false
+    },
+    "en": {
+      "text": "He is terrible at playing tennis",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Он был впечатлен ее красотой",
+      "audio": false
+    },
+    "en": {
+      "text": "He was impressed by her beauty",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Я действительно устал делать это снова и снова",
+      "audio": false
+    },
+    "en": {
+      "text": "I am really tired of doing it again and again",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Он устал делать те же самые вещи снова и снова",
+      "audio": false
+    },
+    "en": {
+      "text": "He is tired of doing the same things again and again",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Он ответственный за это",
+      "audio": false
+    },
+    "en": {
+      "text": "He is responsible for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я не готов к этому",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not prepared for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Мы все были шокированы новостями",
+      "audio": false
+    },
+    "en": {
+      "text": "We were all shocked by the news",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Она очень обеспокоена этой ситуацией",
+      "audio": false
+    },
+    "en": {
+      "text": "She is very worried about this situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я знаком с ним",
+      "audio": false
+    },
+    "en": {
+      "text": "I am familiar with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Он плохо играет в футбол",
+      "audio": false
+    },
+    "en": {
+      "text": "He is bad at playing football",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Он очень беспокоится о своем будущем",
+      "audio": false
+    },
+    "en": {
+      "text": "He is very anxious about his future",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я был очень удивлен этим решением",
+      "audio": false
+    },
+    "en": {
+      "text": "I was really surprised by this decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Мои идеи похожи на ее",
+      "audio": false
+    },
+    "en": {
+      "text": "My ideas are similar to hers",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Все были шокированы его внезапной смертью",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone was shocked by his sudden death",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Он не способен сделать такую вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "He is incapable of doing such a thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Он очень чувствителен к критике других людей",
+      "audio": false
+    },
+    "en": {
+      "text": "He is very sensitive to other people's criticism",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я уверен, что он не способен говорить неправду",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure that he is incapable of telling a lie",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Она очень чувствительна к критике своих коллег",
+      "audio": false
+    },
+    "en": {
+      "text": "She is very sensitive to her colleagues' criticism",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Тебе не нужно бояться делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "You don't need to be afraid of doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я всегда был хорош в математике",
+      "audio": false
+    },
+    "en": {
+      "text": "I have always been good at maths",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Она не способна говорить неправду",
+      "audio": false
+    },
+    "en": {
+      "text": "She is incapable of telling a lie",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он привык ложиться поздно",
+      "audio": false
+    },
+    "en": {
+      "text": "He is accustomed to going to bed late",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я не привык выступать на публике",
+      "audio": false
+    },
+    "en": {
+      "text": "I am not used to speaking in public",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Наши идеи схожи с их",
+      "audio": false
+    },
+    "en": {
+      "text": "Our ideas are similar to theirs",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Она часто ревнует своего мужа",
+      "audio": false
+    },
+    "en": {
+      "text": "She is often jealous of her husband",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Она сыта по горло этой рутиной",
+      "audio": false
+    },
+    "en": {
+      "text": "She is fed up with this routine",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Он не боится делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't afraid of doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я действительно боюсь это делать",
+      "audio": false
+    },
+    "en": {
+      "text": "I am really afraid of doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Она боится искать новую работу",
+      "audio": false
+    },
+    "en": {
+      "text": "She is afraid of looking for a new job",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Он действительно хорош в математике",
+      "audio": false
+    },
+    "en": {
+      "text": "He is really good at maths",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Он никогда не был хорош в футболе",
+      "audio": false
+    },
+    "en": {
+      "text": "He has never been good at playing football",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Эти вещи тесно связаны друг с другом",
+      "audio": false
+    },
+    "en": {
+      "text": "These things are closely related to each other",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Эти серии связаны друг с другом",
+      "audio": false
+    },
+    "en": {
+      "text": "These series are related to each other",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Эти вещи совсем не связаны друг с другом",
+      "audio": false
+    },
+    "en": {
+      "text": "These things aren't related to each other at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я вижу, что твоя точка зрения похожа на мою",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that your point of view is similar to mine",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я вижу, что твоя идея похожа на ее",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that your idea is similar to hers",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Эти две вещи очень похожи",
+      "audio": false
+    },
+    "en": {
+      "text": "These two things are very similar",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Его обвинили в совершении того преступления",
+      "audio": false
+    },
+    "en": {
+      "text": "He was accused of committing that crime",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Ее обвинили в убийствах",
+      "audio": false
+    },
+    "en": {
+      "text": "She was accused of murders",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Его обвинили во лжи",
+      "audio": false
+    },
+    "en": {
+      "text": "He was accused of telling a lie",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я не привык делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I am not accustomed to doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я не привык вставать рано",
+      "audio": false
+    },
+    "en": {
+      "text": "I am not accustomed to getting up early",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Она увлекается чтением иностранной литературы",
+      "audio": false
+    },
+    "en": {
+      "text": "She is keen on reading foreign literature",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Он увлекается спортом",
+      "audio": false
+    },
+    "en": {
+      "text": "He is keen on sport",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Она увлекается просмотром фильмов",
+      "audio": false
+    },
+    "en": {
+      "text": "She is keen on watching movies",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я привык вставать рано",
+      "audio": false
+    },
+    "en": {
+      "text": "I am accustomed to getting up early",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я не привык просыпаться так рано",
+      "audio": false
+    },
+    "en": {
+      "text": "I am not accustomed to waking up so early",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Он не привык делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "He is not accustomed to doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я очень быстро привык к такой погоде",
+      "audio": false
+    },
+    "en": {
+      "text": "I got used to this weather very quickly",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я привык вставать рано",
+      "audio": false
+    },
+    "en": {
+      "text": "I got used to getting up early",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Я не привык опаздывать на работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not used to being late for work",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Мой коллега очень чувствителен к критике",
+      "audio": false
+    },
+    "en": {
+      "text": "My colleague is very sensitive to criticism",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я очень чувствителен к холоду",
+      "audio": false
+    },
+    "en": {
+      "text": "I am very sensitive to cold",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Некоторые люди очень чувствительны к критике",
+      "audio": false
+    },
+    "en": {
+      "text": "Some people are very sensitive to criticism",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Их обвинили в совершении преступления",
+      "audio": false
+    },
+    "en": {
+      "text": "They were accused of committing a crime",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я не думаю, что он способен сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think he is capable of doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я был действительно впечатлен красотой этого места",
+      "audio": false
+    },
+    "en": {
+      "text": "I was really impressed by the beauty of this place",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Я не думаю, что он способен сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that he is capable of doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Он ужасно владеет иностранными языками",
+      "audio": false
+    },
+    "en": {
+      "text": "He's terrible at foreign languages",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Я привык работать под давлением",
+      "audio": false
+    },
+    "en": {
+      "text": "I am accustomed to working under pressure",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Его обвинили в убийстве",
+      "audio": false
+    },
+    "en": {
+      "text": "He was accused of murder",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Я думаю, он не способен сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he is incapable of doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Я скоро привык к этому",
+      "audio": false
+    },
+    "en": {
+      "text": "I got accustomed to it soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Я не привык делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I am not used to doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Я привык к этому",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm accustomed to it",
+      "audio": false
+    }
   }
 ]

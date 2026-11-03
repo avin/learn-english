@@ -1,462 +1,1014 @@
 [
   {
-    "_id": 1,
-    "ru": "Я прибыл домой очень рано",
-    "en": "I arrived home very early"
-  },
-  {
-    "_id": 2,
-    "ru": "Мне казалось, что я был прав",
-    "en": "It seemed to me that I was right"
-  },
-  {
-    "_id": 3,
-    "ru": "Они переехали в Америку",
-    "en": "They moved to America"
-  },
-  {
-    "_id": 4,
-    "ru": "Они повернули направо",
-    "en": "They turned right"
-  },
-  {
-    "_id": 5,
-    "ru": "Он хотел искать работу",
-    "en": "He wanted to look for a job"
-  },
-  {
-    "_id": 6,
-    "ru": "Они поженились",
-    "en": "They got married"
-  },
-  {
-    "_id": 7,
-    "ru": "Мы часто звонили друг другу",
-    "en": "We often called each other"
-  },
-  {
-    "_id": 8,
-    "ru": "Я сохранил этот документ",
-    "en": "I saved this document"
-  },
-  {
-    "_id": 9,
-    "ru": "Я не беспокоился об этом",
-    "en": "I didn't worry about it"
-  },
-  {
-    "_id": 10,
-    "ru": "Он контролировал свой бизнес",
-    "en": "He controlled his business"
-  },
-  {
-    "_id": 11,
-    "ru": "Что она спросила у тебя?",
-    "en": "What did she ask you?"
-  },
-  {
-    "_id": 12,
-    "ru": "Я посмотрел на этот слайд",
-    "en": "I looked at this slide"
-  },
-  {
-    "_id": 13,
-    "ru": "Я смотрел одно видео",
-    "en": "I watched one video"
-  },
-  {
-    "_id": 14,
-    "ru": "Мы жили очень счастливо",
-    "en": "We lived very happily"
-  },
-  {
-    "_id": 15,
-    "ru": "Мы говорили о политике",
-    "en": "We talked about politics"
-  },
-  {
-    "_id": 16,
-    "ru": "Ты смотрел телевизор вчера?",
-    "en": "Did you watch TV yesterday?"
-  },
-  {
-    "_id": 17,
-    "ru": "Мы говорили о разных вещах",
-    "en": "We talked about different things"
-  },
-  {
-    "_id": 18,
-    "ru": "Я контролировал все",
-    "en": "I controlled everything"
-  },
-  {
-    "_id": 19,
-    "ru": "Он заработал достаточно денег",
-    "en": "He earned enough money"
-  },
-  {
-    "_id": 20,
-    "ru": "Эти вещи не интересовали меня",
-    "en": "These things didn't interest me"
-  },
-  {
-    "_id": 21,
-    "ru": "Я посмотрел фильм",
-    "en": "I watched a movie"
-  },
-  {
-    "_id": 22,
-    "ru": "Я слушал его",
-    "en": "I listened to him"
-  },
-  {
-    "_id": 23,
-    "ru": "Он провалил свой последний экзамен",
-    "en": "He failed his final exam"
-  },
-  {
-    "_id": 24,
-    "ru": "Все казалось таким сложным",
-    "en": "Everything seemed so difficult"
-  },
-  {
-    "_id": 25,
-    "ru": "Я не беспокоился об этих вещах",
-    "en": "I didn't worry about these things"
-  },
-  {
-    "_id": 26,
-    "ru": "Они спасли его жизнь",
-    "en": "They saved his life"
-  },
-  {
-    "_id": 27,
-    "ru": "Они включили мое имя",
-    "en": "They included my name"
-  },
-  {
-    "_id": 28,
-    "ru": "Я посмотрел на него",
-    "en": "I looked at him"
-  },
-  {
-    "_id": 29,
-    "ru": "Я задал ей вопрос",
-    "en": "I asked her a question"
-  },
-  {
-    "_id": 30,
-    "ru": "Этот тест казался таким легким",
-    "en": "This test seemed so easy"
-  },
-  {
-    "_id": 31,
-    "ru": "Этот мужчина посмотрел на меня",
-    "en": "This man looked at me"
-  },
-  {
-    "_id": 32,
-    "ru": "Они часто смотрели телевизор",
-    "en": "They often watched TV"
-  },
-  {
-    "_id": 33,
-    "ru": "Что они производили?",
-    "en": "What did they produce?"
-  },
-  {
-    "_id": 34,
-    "ru": "Вы говорили об этом?",
-    "en": "Did you talk about it?"
-  },
-  {
-    "_id": 35,
-    "ru": "Они производили одежду",
-    "en": "They produced clothes"
-  },
-  {
-    "_id": 36,
-    "ru": "Я часто слушал музыку",
-    "en": "I often listened to music"
-  },
-  {
-    "_id": 37,
-    "ru": "Я не задавал ему каких-либо вопросов",
-    "en": "I didn't ask him any questions"
-  },
-  {
-    "_id": 38,
-    "ru": "Мне не нравилось танцевать",
-    "en": "I didn't like dancing"
-  },
-  {
-    "_id": 39,
-    "ru": "Эта вещь казалась такой важной",
-    "en": "This thing seemed so important"
-  },
-  {
-    "_id": 40,
-    "ru": "Этот сервис включал это",
-    "en": "This service included it"
-  },
-  {
-    "_id": 41,
-    "ru": "Я прибыл домой очень рано",
-    "en": "I arrived home very early"
-  },
-  {
-    "_id": 42,
-    "ru": "Это не интересовало меня",
-    "en": "It didn't interest me"
-  },
-  {
-    "_id": 43,
-    "ru": "Что они предложили?",
-    "en": "What did they offer?"
-  },
-  {
-    "_id": 44,
-    "ru": "Я слушал это интервью",
-    "en": "I listened to this interview"
-  },
-  {
-    "_id": 45,
-    "ru": "Наш билет включал это",
-    "en": "Our ticket included it"
-  },
-  {
-    "_id": 46,
-    "ru": "Эти мужчины смотрели на нас",
-    "en": "These men looked at us"
-  },
-  {
-    "_id": 47,
-    "ru": "Она провалила тот тест",
-    "en": "She failed that test"
-  },
-  {
-    "_id": 48,
-    "ru": "Он женился на ней",
-    "en": "He married her"
-  },
-  {
-    "_id": 49,
-    "ru": "Как он объяснил это?",
-    "en": "How did he explain it?"
-  },
-  {
-    "_id": 50,
-    "ru": "Я остался дома",
-    "en": "I stayed at home"
-  },
-  {
-    "_id": 51,
-    "ru": "Мне казалось, что я был прав",
-    "en": "It seemed to me that I was right"
-  },
-  {
-    "_id": 52,
-    "ru": "Он объяснил все очень хорошо",
-    "en": "He explained everything very well"
-  },
-  {
-    "_id": 53,
-    "ru": "Я решил перезвонить ей",
-    "en": "I decided to call her back"
-  },
-  {
-    "_id": 54,
-    "ru": "Она вышла замуж за этого мужчину",
-    "en": "She married this man"
-  },
-  {
-    "_id": 55,
-    "ru": "Я решил остаться дома",
-    "en": "I decided to stay at home"
-  },
-  {
-    "_id": 56,
-    "ru": "Он женился на той женщине",
-    "en": "He married that woman"
-  },
-  {
-    "_id": 57,
-    "ru": "Я сохранил все эти файлы",
-    "en": "I saved all these files"
-  },
-  {
-    "_id": 58,
-    "ru": "Я вернулся домой",
-    "en": "I turned back home"
-  },
-  {
-    "_id": 59,
-    "ru": "Я поделился этой ссылкой с ним",
-    "en": "I shared this link with him"
-  },
-  {
-    "_id": 60,
-    "ru": "Он повернул направо",
-    "en": "He turned right"
-  },
-  {
-    "_id": 61,
-    "ru": "Он повернул налево",
-    "en": "He turned left"
-  },
-  {
-    "_id": 62,
-    "ru": "Я решил поискать работу",
-    "en": "I decided to look for a job"
-  },
-  {
-    "_id": 63,
-    "ru": "Я решил поискать это",
-    "en": "I decided to look for it"
-  },
-  {
-    "_id": 64,
-    "ru": "Он решил поискать работу",
-    "en": "He decided to look for a job"
-  },
-  {
-    "_id": 65,
-    "ru": "Они переехали в Америку",
-    "en": "They moved to America"
-  },
-  {
-    "_id": 66,
-    "ru": "Они переехали в Соединённые Штаты",
-    "en": "They moved to the United States"
-  },
-  {
-    "_id": 67,
-    "ru": "Как ты предпочитал тренироваться?",
-    "en": "How did you prefer to train?"
-  },
-  {
-    "_id": 68,
-    "ru": "Где ты предпочитал тренироваться?",
-    "en": "Where did you prefer to train?"
-  },
-  {
-    "_id": 69,
-    "ru": "Когда ты предпочитал тренироваться?",
-    "en": "When did you prefer to train?"
-  },
-  {
-    "_id": 70,
-    "ru": "Мы повернули налево",
-    "en": "We turned left"
-  },
-  {
-    "_id": 71,
-    "ru": "Они повернули направо",
-    "en": "They turned right"
-  },
-  {
-    "_id": 72,
-    "ru": "Мы повернули назад",
-    "en": "We turned back"
-  },
-  {
-    "_id": 73,
-    "ru": "Ты подготовился к этому тесту?",
-    "en": "Did you prepare for this test?"
-  },
-  {
-    "_id": 74,
-    "ru": "Ты подготовился к тому тесту?",
-    "en": "Did you prepare for that test?"
-  },
-  {
-    "_id": 75,
-    "ru": "Он приехал домой раньше",
-    "en": "He arrived home earlier"
-  },
-  {
-    "_id": 76,
-    "ru": "Я приехал домой раньше",
-    "en": "I arrived home earlier"
-  },
-  {
-    "_id": 77,
-    "ru": "Она приехала туда раньше",
-    "en": "She arrived there earlier"
-  },
-  {
-    "_id": 78,
-    "ru": "Он хотел поискать работу",
-    "en": "He wanted to look for a job"
-  },
-  {
-    "_id": 79,
-    "ru": "Он хотел найти работу",
-    "en": "He wanted to find a job"
-  },
-  {
-    "_id": 80,
-    "ru": "Я смотрел этот видео урок",
-    "en": "I watched this video lesson"
-  },
-  {
-    "_id": 81,
-    "ru": "Я смотрел эти видео уроки",
-    "en": "I watched these video lessons"
-  },
-  {
-    "_id": 82,
-    "ru": "Я перезвонил ей",
-    "en": "I called her back"
-  },
-  {
-    "_id": 83,
-    "ru": "Как ты тренировался дома?",
-    "en": "How did you train at home?"
-  },
-  {
-    "_id": 84,
-    "ru": "Я повернул назад",
-    "en": "I turned back"
-  },
-  {
-    "_id": 85,
-    "ru": "Она вышла за него замуж",
-    "en": "She married him"
-  },
-  {
-    "_id": 86,
-    "ru": "Он прибыл в Россию",
-    "en": "He arrived in Russia"
-  },
-  {
-    "_id": 87,
-    "ru": "Они поженились",
-    "en": "They got married"
-  },
-  {
-    "_id": 88,
-    "ru": "Она перезвонила мне",
-    "en": "She called me back"
-  },
-  {
-    "_id": 89,
-    "ru": "Мы прибыли в Соединенные Штаты",
-    "en": "We arrived in the United States"
-  },
-  {
-    "_id": 90,
-    "ru": "Он переехал в Англию",
-    "en": "He moved to England"
-  },
-  {
-    "_id": 91,
-    "ru": "Она не объяснила эту вещь",
-    "en": "She didn't explain this thing"
-  },
-  {
-    "_id": 92,
-    "ru": "Мы часто звонили друг другу",
-    "en": "We often called each other"
+    "id": 1,
+    "ru": {
+      "text": "Я прибыл домой очень рано",
+      "audio": false
+    },
+    "en": {
+      "text": "I arrived home very early",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Мне казалось, что я был прав",
+      "audio": false
+    },
+    "en": {
+      "text": "It seemed to me that I was right",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Они переехали в Америку",
+      "audio": false
+    },
+    "en": {
+      "text": "They moved to America",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Они повернули направо",
+      "audio": false
+    },
+    "en": {
+      "text": "They turned right",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Он хотел искать работу",
+      "audio": false
+    },
+    "en": {
+      "text": "He wanted to look for a job",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Они поженились",
+      "audio": false
+    },
+    "en": {
+      "text": "They got married",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Мы часто звонили друг другу",
+      "audio": false
+    },
+    "en": {
+      "text": "We often called each other",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я сохранил этот документ",
+      "audio": false
+    },
+    "en": {
+      "text": "I saved this document",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я не беспокоился об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't worry about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Он контролировал свой бизнес",
+      "audio": false
+    },
+    "en": {
+      "text": "He controlled his business",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Что она спросила у тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did she ask you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я посмотрел на этот слайд",
+      "audio": false
+    },
+    "en": {
+      "text": "I looked at this slide",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Я смотрел одно видео",
+      "audio": false
+    },
+    "en": {
+      "text": "I watched one video",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Мы жили очень счастливо",
+      "audio": false
+    },
+    "en": {
+      "text": "We lived very happily",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Мы говорили о политике",
+      "audio": false
+    },
+    "en": {
+      "text": "We talked about politics",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Ты смотрел телевизор вчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you watch TV yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Мы говорили о разных вещах",
+      "audio": false
+    },
+    "en": {
+      "text": "We talked about different things",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я контролировал все",
+      "audio": false
+    },
+    "en": {
+      "text": "I controlled everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он заработал достаточно денег",
+      "audio": false
+    },
+    "en": {
+      "text": "He earned enough money",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Эти вещи не интересовали меня",
+      "audio": false
+    },
+    "en": {
+      "text": "These things didn't interest me",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Я посмотрел фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "I watched a movie",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Я слушал его",
+      "audio": false
+    },
+    "en": {
+      "text": "I listened to him",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он провалил свой последний экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "He failed his final exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Все казалось таким сложным",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything seemed so difficult",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Я не беспокоился об этих вещах",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't worry about these things",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Они спасли его жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "They saved his life",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Они включили мое имя",
+      "audio": false
+    },
+    "en": {
+      "text": "They included my name",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Я посмотрел на него",
+      "audio": false
+    },
+    "en": {
+      "text": "I looked at him",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Я задал ей вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I asked her a question",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Этот тест казался таким легким",
+      "audio": false
+    },
+    "en": {
+      "text": "This test seemed so easy",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Этот мужчина посмотрел на меня",
+      "audio": false
+    },
+    "en": {
+      "text": "This man looked at me",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Они часто смотрели телевизор",
+      "audio": false
+    },
+    "en": {
+      "text": "They often watched TV",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Что они производили?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did they produce?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Вы говорили об этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you talk about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Они производили одежду",
+      "audio": false
+    },
+    "en": {
+      "text": "They produced clothes",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я часто слушал музыку",
+      "audio": false
+    },
+    "en": {
+      "text": "I often listened to music",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я не задавал ему каких-либо вопросов",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't ask him any questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Мне не нравилось танцевать",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't like dancing",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Эта вещь казалась такой важной",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing seemed so important",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Этот сервис включал это",
+      "audio": false
+    },
+    "en": {
+      "text": "This service included it",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я прибыл домой очень рано",
+      "audio": false
+    },
+    "en": {
+      "text": "I arrived home very early",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Это не интересовало меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It didn't interest me",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Что они предложили?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did they offer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я слушал это интервью",
+      "audio": false
+    },
+    "en": {
+      "text": "I listened to this interview",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Наш билет включал это",
+      "audio": false
+    },
+    "en": {
+      "text": "Our ticket included it",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Эти мужчины смотрели на нас",
+      "audio": false
+    },
+    "en": {
+      "text": "These men looked at us",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Она провалила тот тест",
+      "audio": false
+    },
+    "en": {
+      "text": "She failed that test",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Он женился на ней",
+      "audio": false
+    },
+    "en": {
+      "text": "He married her",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Как он объяснил это?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did he explain it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я остался дома",
+      "audio": false
+    },
+    "en": {
+      "text": "I stayed at home",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Мне казалось, что я был прав",
+      "audio": false
+    },
+    "en": {
+      "text": "It seemed to me that I was right",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Он объяснил все очень хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "He explained everything very well",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я решил перезвонить ей",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to call her back",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Она вышла замуж за этого мужчину",
+      "audio": false
+    },
+    "en": {
+      "text": "She married this man",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я решил остаться дома",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to stay at home",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Он женился на той женщине",
+      "audio": false
+    },
+    "en": {
+      "text": "He married that woman",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я сохранил все эти файлы",
+      "audio": false
+    },
+    "en": {
+      "text": "I saved all these files",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я вернулся домой",
+      "audio": false
+    },
+    "en": {
+      "text": "I turned back home",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я поделился этой ссылкой с ним",
+      "audio": false
+    },
+    "en": {
+      "text": "I shared this link with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Он повернул направо",
+      "audio": false
+    },
+    "en": {
+      "text": "He turned right",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он повернул налево",
+      "audio": false
+    },
+    "en": {
+      "text": "He turned left",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я решил поискать работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to look for a job",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я решил поискать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to look for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он решил поискать работу",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided to look for a job",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Они переехали в Америку",
+      "audio": false
+    },
+    "en": {
+      "text": "They moved to America",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Они переехали в Соединённые Штаты",
+      "audio": false
+    },
+    "en": {
+      "text": "They moved to the United States",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Как ты предпочитал тренироваться?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you prefer to train?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Где ты предпочитал тренироваться?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did you prefer to train?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Когда ты предпочитал тренироваться?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you prefer to train?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Мы повернули налево",
+      "audio": false
+    },
+    "en": {
+      "text": "We turned left",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Они повернули направо",
+      "audio": false
+    },
+    "en": {
+      "text": "They turned right",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Мы повернули назад",
+      "audio": false
+    },
+    "en": {
+      "text": "We turned back",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Ты подготовился к этому тесту?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you prepare for this test?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Ты подготовился к тому тесту?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you prepare for that test?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Он приехал домой раньше",
+      "audio": false
+    },
+    "en": {
+      "text": "He arrived home earlier",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я приехал домой раньше",
+      "audio": false
+    },
+    "en": {
+      "text": "I arrived home earlier",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Она приехала туда раньше",
+      "audio": false
+    },
+    "en": {
+      "text": "She arrived there earlier",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Он хотел поискать работу",
+      "audio": false
+    },
+    "en": {
+      "text": "He wanted to look for a job",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Он хотел найти работу",
+      "audio": false
+    },
+    "en": {
+      "text": "He wanted to find a job",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я смотрел этот видео урок",
+      "audio": false
+    },
+    "en": {
+      "text": "I watched this video lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я смотрел эти видео уроки",
+      "audio": false
+    },
+    "en": {
+      "text": "I watched these video lessons",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я перезвонил ей",
+      "audio": false
+    },
+    "en": {
+      "text": "I called her back",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Как ты тренировался дома?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you train at home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я повернул назад",
+      "audio": false
+    },
+    "en": {
+      "text": "I turned back",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Она вышла за него замуж",
+      "audio": false
+    },
+    "en": {
+      "text": "She married him",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Он прибыл в Россию",
+      "audio": false
+    },
+    "en": {
+      "text": "He arrived in Russia",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Они поженились",
+      "audio": false
+    },
+    "en": {
+      "text": "They got married",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Она перезвонила мне",
+      "audio": false
+    },
+    "en": {
+      "text": "She called me back",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Мы прибыли в Соединенные Штаты",
+      "audio": false
+    },
+    "en": {
+      "text": "We arrived in the United States",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Он переехал в Англию",
+      "audio": false
+    },
+    "en": {
+      "text": "He moved to England",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Она не объяснила эту вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "She didn't explain this thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Мы часто звонили друг другу",
+      "audio": false
+    },
+    "en": {
+      "text": "We often called each other",
+      "audio": false
+    }
   }
 ]

@@ -1,452 +1,992 @@
 [
   {
-    "_id": 1,
-    "ru": "Что сделало его таким высокомерным?",
-    "en": "What made him so arrogant?"
-  },
-  {
-    "_id": 2,
-    "ru": "Ты голоден?",
-    "en": "Do you feel hungry?"
-  },
-  {
-    "_id": 3,
-    "ru": "Компания гордится своим успехом",
-    "en": "The company is proud of its success"
-  },
-  {
-    "_id": 4,
-    "ru": "Она купила очень стильное платье",
-    "en": "She bought a very stylish dress"
-  },
-  {
-    "_id": 5,
-    "ru": "Воздух здесь очень прохладный",
-    "en": "The air is very cool here"
-  },
-  {
-    "_id": 6,
-    "ru": "Этот дом стоит около двухсот тысяч долларов",
-    "en": "This house is worth about two hundred thousand dollars"
-  },
-  {
-    "_id": 7,
-    "ru": "Это место безопаснее",
-    "en": "It is a safer place"
-  },
-  {
-    "_id": 8,
-    "ru": "Это такой тяжелый стол",
-    "en": "It is such a heavy table"
-  },
-  {
-    "_id": 9,
-    "ru": "Эта погода очень неестественная для зимы",
-    "en": "This weather is very unnatural for winter"
-  },
-  {
-    "_id": 10,
-    "ru": "Это такое мудрое решение",
-    "en": "It is such a wise decision"
-  },
-  {
-    "_id": 11,
-    "ru": "Он такой энергичный человек",
-    "en": "He is such an energetic person"
-  },
-  {
-    "_id": 12,
-    "ru": "Это очень серьезная экономическая проблема",
-    "en": "It is a very serious economic problem"
-  },
-  {
-    "_id": 13,
-    "ru": "Какая классная идея!",
-    "en": "What a cool idea!"
-  },
-  {
-    "_id": 14,
-    "ru": "Он хочет жить в более безопасном месте",
-    "en": "He wants to live in a safer place"
-  },
-  {
-    "_id": 15,
-    "ru": "Я в курсе этих проблем",
-    "en": "I am aware of these problems"
-  },
-  {
-    "_id": 16,
-    "ru": "Все кажется очевидным",
-    "en": "Everything seems obvious"
-  },
-  {
-    "_id": 17,
-    "ru": "Какой твой родной язык?",
-    "en": "What is your native language?"
-  },
-  {
-    "_id": 18,
-    "ru": "В этой стране гораздо более теплый климат",
-    "en": "This country has a much warmer climate"
-  },
-  {
-    "_id": 19,
-    "ru": "Этот вопрос кажется таким странным",
-    "en": "This question seems so weird"
-  },
-  {
-    "_id": 20,
-    "ru": "Мальчик кажется очень умным",
-    "en": "The boy seems very clever"
-  },
-  {
-    "_id": 21,
-    "ru": "Его жена беременна",
-    "en": "His wife is pregnant"
-  },
-  {
-    "_id": 22,
-    "ru": "Ему стыдно это делать",
-    "en": "He is ashamed to do it"
-  },
-  {
-    "_id": 23,
-    "ru": "Ты голоден?",
-    "en": "Are you hungry?"
-  },
-  {
-    "_id": 24,
-    "ru": "Это было очень полезное предложение",
-    "en": "It was a very helpful suggestion"
-  },
-  {
-    "_id": 25,
-    "ru": "Тебе нравятся экстремальные виды спорта?",
-    "en": "Do you like extreme kinds of sport?"
-  },
-  {
-    "_id": 26,
-    "ru": "Она гордится своими достижениями",
-    "en": "She is proud of her achievements"
-  },
-  {
-    "_id": 27,
-    "ru": "В комнате очень тепло",
-    "en": "It is very warm in the room"
-  },
-  {
-    "_id": 28,
-    "ru": "Ты такой умный",
-    "en": "You are so clever"
-  },
-  {
-    "_id": 29,
-    "ru": "Им не стыдно за такое поведение",
-    "en": "They aren't ashamed of such behaviour"
-  },
-  {
-    "_id": 30,
-    "ru": "Эта идея действительно странная",
-    "en": "This idea is really weird"
-  },
-  {
-    "_id": 31,
-    "ru": "Это выдуманная история",
-    "en": "It is a made-up story"
-  },
-  {
-    "_id": 32,
-    "ru": "Их прогресс довольно медленный",
-    "en": "Their progress is rather slow"
-  },
-  {
-    "_id": 33,
-    "ru": "Она носит очень стильную одежду",
-    "en": "She wears very stylish clothes"
-  },
-  {
-    "_id": 34,
-    "ru": "Это достаточно очевидно",
-    "en": "It is obvious enough"
-  },
-  {
-    "_id": 35,
-    "ru": "Он использовал выдуманное имя",
-    "en": "He used a made-up name"
-  },
-  {
-    "_id": 36,
-    "ru": "Какая грустная история!",
-    "en": "What a sad story!"
-  },
-  {
-    "_id": 37,
-    "ru": "Это очень медленный процесс",
-    "en": "It is a very slow process"
-  },
-  {
-    "_id": 38,
-    "ru": "Он всегда такой энергичный",
-    "en": "He is always so energetic"
-  },
-  {
-    "_id": 39,
-    "ru": "Он был действительно удивлен слышать это",
-    "en": "He was really surprised to hear it"
-  },
-  {
-    "_id": 40,
-    "ru": "Они были очень рады найти его живым",
-    "en": "They were very happy to find him alive"
-  },
-  {
-    "_id": 41,
-    "ru": "Я думаю, это разумно делать это более регулярно",
-    "en": "I think it is sensible to do it more regularly"
-  },
-  {
-    "_id": 42,
-    "ru": "Они не знают, мертв ли он или жив",
-    "en": "They don't know whether he is dead or alive"
-  },
-  {
-    "_id": 43,
-    "ru": "Это временное решение этой проблемы",
-    "en": "It is a temporary solution to this problem"
-  },
-  {
-    "_id": 44,
-    "ru": "Материальное богатство также важно",
-    "en": "Material wealth is also important"
-  },
-  {
-    "_id": 45,
-    "ru": "Эта слава сделала его очень грубым и высокомерным",
-    "en": "This fame made him very rude and arrogant"
-  },
-  {
-    "_id": 46,
-    "ru": "Это самое мудрое решение в такой ситуации",
-    "en": "It is the wisest decision in such a situation"
-  },
-  {
-    "_id": 47,
-    "ru": "Я думаю, что ему надо перестать быть таким неосторожным",
-    "en": "I think he needs to stop being so careless"
-  },
-  {
-    "_id": 48,
-    "ru": "Я думаю, что успех этого проекта неизбежен",
-    "en": "I think that the success of this project is inevitable"
-  },
-  {
-    "_id": 49,
-    "ru": "Очень грустно видеть, что это продолжает происходить",
-    "en": "It is very sad to see that it continues to happen"
-  },
-  {
-    "_id": 50,
-    "ru": "То выражение имеет противоположное значение",
-    "en": "That expression has the opposite meaning"
-  },
-  {
-    "_id": 51,
-    "ru": "Это ключевой фактор успеха",
-    "en": "It is a key factor to success"
-  },
-  {
-    "_id": 52,
-    "ru": "Это было главным фактором успеха",
-    "en": "It was the main factor to success"
-  },
-  {
-    "_id": 53,
-    "ru": "Это самый важный фактор успеха",
-    "en": "It is the most important factor to success"
-  },
-  {
-    "_id": 54,
-    "ru": "К счастью, он не был мертв",
-    "en": "Luckily, he wasn't dead"
-  },
-  {
-    "_id": 55,
-    "ru": "К несчастью, он был мертв",
-    "en": "Unluckily, he was dead"
-  },
-  {
-    "_id": 56,
-    "ru": "К счастью, он был жив",
-    "en": "Luckily, he was alive"
-  },
-  {
-    "_id": 57,
-    "ru": "Это временная ситуация",
-    "en": "It is a temporary situation"
-  },
-  {
-    "_id": 58,
-    "ru": "Это обычная ситуация",
-    "en": "It is an ordinary situation"
-  },
-  {
-    "_id": 59,
-    "ru": "Это очень сложная ситуация",
-    "en": "It is a very difficult situation"
-  },
-  {
-    "_id": 60,
-    "ru": "Он такой неосторожный водитель",
-    "en": "He is such a careless driver"
-  },
-  {
-    "_id": 61,
-    "ru": "Он очень осторожный водитель",
-    "en": "He is a very careful driver"
-  },
-  {
-    "_id": 62,
-    "ru": "Он был так неосторожен в той ситуации",
-    "en": "He was so careless in that situation"
-  },
-  {
-    "_id": 63,
-    "ru": "Это было единственно верное решение",
-    "en": "It was the only right decision"
-  },
-  {
-    "_id": 64,
-    "ru": "Это было самое лучшее решение",
-    "en": "It was the best decision"
-  },
-  {
-    "_id": 65,
-    "ru": "Я был действительно удивлен этой новостью",
-    "en": "I was really surprised by this news"
-  },
-  {
-    "_id": 66,
-    "ru": "Я действительно шокирован этой новостью",
-    "en": "I am really shocked by this news"
-  },
-  {
-    "_id": 67,
-    "ru": "Я был действительно удивлен его решением",
-    "en": "I was really surprised by his decision"
-  },
-  {
-    "_id": 68,
-    "ru": "Эта коробка не такая тяжелая, как та",
-    "en": "This box isn't as heavy as that one"
-  },
-  {
-    "_id": 69,
-    "ru": "Та сумка не такая тяжелая, как эта",
-    "en": "That bag isn't as heavy as this one"
-  },
-  {
-    "_id": 70,
-    "ru": "Эта комната не такая большая, как та",
-    "en": "This room isn't as big as that one"
-  },
-  {
-    "_id": 71,
-    "ru": "Это слово имело противоположное значение",
-    "en": "This word had the opposite meaning"
-  },
-  {
-    "_id": 72,
-    "ru": "Эти слова имеют одно и то же значение",
-    "en": "These words have the same meanings"
-  },
-  {
-    "_id": 73,
-    "ru": "Эти предложения имели разное значение",
-    "en": "These sentences had different meanings"
-  },
-  {
-    "_id": 74,
-    "ru": "Ему нужно перестать быть таким ребячливым",
-    "en": "He needs to stop being so childish"
-  },
-  {
-    "_id": 75,
-    "ru": "Тебе нужно перестать быть таким эгоистичным",
-    "en": "You need to stop being so selfish"
-  },
-  {
-    "_id": 76,
-    "ru": "Ему нужно быть менее ребячливым",
-    "en": "He needs to be less childish"
-  },
-  {
-    "_id": 77,
-    "ru": "Это уникальный шанс, и я не могу его упустить",
-    "en": "It is a unique chance and I can't miss it"
-  },
-  {
-    "_id": 78,
-    "ru": "Это уникальная возможность, и я не могу ее упустить",
-    "en": "It is a unique opportunity and I can't miss it"
-  },
-  {
-    "_id": 79,
-    "ru": "Это хороший шанс, и я не могу его упустить",
-    "en": "It is a good chance and I can't miss it"
-  },
-  {
-    "_id": 80,
-    "ru": "Этот кризис кажется почти неизбежным сейчас",
-    "en": "This crisis seems almost inevitable now"
-  },
-  {
-    "_id": 81,
-    "ru": "Ее английский кажется очень неестественным",
-    "en": "Her English seems very unnatural"
-  },
-  {
-    "_id": 82,
-    "ru": "Я хочу сказать тебе, что я знаю об этих трудностях",
-    "en": "I want to tell you that I am aware of these difficulties"
-  },
-  {
-    "_id": 83,
-    "ru": "Они думают о принятии чрезвычайных мер",
-    "en": "They are thinking about taking extreme measures"
-  },
-  {
-    "_id": 84,
-    "ru": "Он еще не выбрал свою будущую профессию",
-    "en": "He hasn't chosen his future profession yet"
-  },
-  {
-    "_id": 85,
-    "ru": "С моей точки зрения, это очень разумная идея",
-    "en": "From my point of view, it's a very sensible idea"
-  },
-  {
-    "_id": 86,
-    "ru": "Эти экономические факторы часто игнорируются",
-    "en": "These economic factors are often ignored"
-  },
-  {
-    "_id": 87,
-    "ru": "Она заинтересована только в материальных вещах",
-    "en": "She is only interested in material things"
-  },
-  {
-    "_id": 88,
-    "ru": "Полиция нашла его мертвым",
-    "en": "The police found him dead"
-  },
-  {
-    "_id": 89,
-    "ru": "Его ребячливое поведение действительно раздражает ее",
-    "en": "His childish behaviour really irritates her"
-  },
-  {
-    "_id": 90,
-    "ru": "Мне кажется, что у нас много общего",
-    "en": "It seems to me that we have much in common"
+    "id": 1,
+    "ru": {
+      "text": "Что сделало его таким высокомерным?",
+      "audio": false
+    },
+    "en": {
+      "text": "What made him so arrogant?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Ты голоден?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you feel hungry?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Компания гордится своим успехом",
+      "audio": false
+    },
+    "en": {
+      "text": "The company is proud of its success",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Она купила очень стильное платье",
+      "audio": false
+    },
+    "en": {
+      "text": "She bought a very stylish dress",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Воздух здесь очень прохладный",
+      "audio": false
+    },
+    "en": {
+      "text": "The air is very cool here",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Этот дом стоит около двухсот тысяч долларов",
+      "audio": false
+    },
+    "en": {
+      "text": "This house is worth about two hundred thousand dollars",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Это место безопаснее",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a safer place",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Это такой тяжелый стол",
+      "audio": false
+    },
+    "en": {
+      "text": "It is such a heavy table",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Эта погода очень неестественная для зимы",
+      "audio": false
+    },
+    "en": {
+      "text": "This weather is very unnatural for winter",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Это такое мудрое решение",
+      "audio": false
+    },
+    "en": {
+      "text": "It is such a wise decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Он такой энергичный человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is such an energetic person",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Это очень серьезная экономическая проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a very serious economic problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Какая классная идея!",
+      "audio": false
+    },
+    "en": {
+      "text": "What a cool idea!",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Он хочет жить в более безопасном месте",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to live in a safer place",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я в курсе этих проблем",
+      "audio": false
+    },
+    "en": {
+      "text": "I am aware of these problems",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Все кажется очевидным",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything seems obvious",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Какой твой родной язык?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is your native language?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "В этой стране гораздо более теплый климат",
+      "audio": false
+    },
+    "en": {
+      "text": "This country has a much warmer climate",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Этот вопрос кажется таким странным",
+      "audio": false
+    },
+    "en": {
+      "text": "This question seems so weird",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Мальчик кажется очень умным",
+      "audio": false
+    },
+    "en": {
+      "text": "The boy seems very clever",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Его жена беременна",
+      "audio": false
+    },
+    "en": {
+      "text": "His wife is pregnant",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Ему стыдно это делать",
+      "audio": false
+    },
+    "en": {
+      "text": "He is ashamed to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Ты голоден?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you hungry?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Это было очень полезное предложение",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a very helpful suggestion",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Тебе нравятся экстремальные виды спорта?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like extreme kinds of sport?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Она гордится своими достижениями",
+      "audio": false
+    },
+    "en": {
+      "text": "She is proud of her achievements",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "В комнате очень тепло",
+      "audio": false
+    },
+    "en": {
+      "text": "It is very warm in the room",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Ты такой умный",
+      "audio": false
+    },
+    "en": {
+      "text": "You are so clever",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Им не стыдно за такое поведение",
+      "audio": false
+    },
+    "en": {
+      "text": "They aren't ashamed of such behaviour",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Эта идея действительно странная",
+      "audio": false
+    },
+    "en": {
+      "text": "This idea is really weird",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Это выдуманная история",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a made-up story",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Их прогресс довольно медленный",
+      "audio": false
+    },
+    "en": {
+      "text": "Their progress is rather slow",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Она носит очень стильную одежду",
+      "audio": false
+    },
+    "en": {
+      "text": "She wears very stylish clothes",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Это достаточно очевидно",
+      "audio": false
+    },
+    "en": {
+      "text": "It is obvious enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Он использовал выдуманное имя",
+      "audio": false
+    },
+    "en": {
+      "text": "He used a made-up name",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Какая грустная история!",
+      "audio": false
+    },
+    "en": {
+      "text": "What a sad story!",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Это очень медленный процесс",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a very slow process",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Он всегда такой энергичный",
+      "audio": false
+    },
+    "en": {
+      "text": "He is always so energetic",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Он был действительно удивлен слышать это",
+      "audio": false
+    },
+    "en": {
+      "text": "He was really surprised to hear it",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Они были очень рады найти его живым",
+      "audio": false
+    },
+    "en": {
+      "text": "They were very happy to find him alive",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я думаю, это разумно делать это более регулярно",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it is sensible to do it more regularly",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Они не знают, мертв ли он или жив",
+      "audio": false
+    },
+    "en": {
+      "text": "They don't know whether he is dead or alive",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Это временное решение этой проблемы",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a temporary solution to this problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Материальное богатство также важно",
+      "audio": false
+    },
+    "en": {
+      "text": "Material wealth is also important",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Эта слава сделала его очень грубым и высокомерным",
+      "audio": false
+    },
+    "en": {
+      "text": "This fame made him very rude and arrogant",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Это самое мудрое решение в такой ситуации",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the wisest decision in such a situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я думаю, что ему надо перестать быть таким неосторожным",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he needs to stop being so careless",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я думаю, что успех этого проекта неизбежен",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that the success of this project is inevitable",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Очень грустно видеть, что это продолжает происходить",
+      "audio": false
+    },
+    "en": {
+      "text": "It is very sad to see that it continues to happen",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "То выражение имеет противоположное значение",
+      "audio": false
+    },
+    "en": {
+      "text": "That expression has the opposite meaning",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Это ключевой фактор успеха",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a key factor to success",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Это было главным фактором успеха",
+      "audio": false
+    },
+    "en": {
+      "text": "It was the main factor to success",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Это самый важный фактор успеха",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the most important factor to success",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "К счастью, он не был мертв",
+      "audio": false
+    },
+    "en": {
+      "text": "Luckily, he wasn't dead",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "К несчастью, он был мертв",
+      "audio": false
+    },
+    "en": {
+      "text": "Unluckily, he was dead",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "К счастью, он был жив",
+      "audio": false
+    },
+    "en": {
+      "text": "Luckily, he was alive",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Это временная ситуация",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a temporary situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Это обычная ситуация",
+      "audio": false
+    },
+    "en": {
+      "text": "It is an ordinary situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Это очень сложная ситуация",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a very difficult situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Он такой неосторожный водитель",
+      "audio": false
+    },
+    "en": {
+      "text": "He is such a careless driver",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он очень осторожный водитель",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a very careful driver",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Он был так неосторожен в той ситуации",
+      "audio": false
+    },
+    "en": {
+      "text": "He was so careless in that situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Это было единственно верное решение",
+      "audio": false
+    },
+    "en": {
+      "text": "It was the only right decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Это было самое лучшее решение",
+      "audio": false
+    },
+    "en": {
+      "text": "It was the best decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я был действительно удивлен этой новостью",
+      "audio": false
+    },
+    "en": {
+      "text": "I was really surprised by this news",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я действительно шокирован этой новостью",
+      "audio": false
+    },
+    "en": {
+      "text": "I am really shocked by this news",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я был действительно удивлен его решением",
+      "audio": false
+    },
+    "en": {
+      "text": "I was really surprised by his decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Эта коробка не такая тяжелая, как та",
+      "audio": false
+    },
+    "en": {
+      "text": "This box isn't as heavy as that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Та сумка не такая тяжелая, как эта",
+      "audio": false
+    },
+    "en": {
+      "text": "That bag isn't as heavy as this one",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Эта комната не такая большая, как та",
+      "audio": false
+    },
+    "en": {
+      "text": "This room isn't as big as that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Это слово имело противоположное значение",
+      "audio": false
+    },
+    "en": {
+      "text": "This word had the opposite meaning",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Эти слова имеют одно и то же значение",
+      "audio": false
+    },
+    "en": {
+      "text": "These words have the same meanings",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Эти предложения имели разное значение",
+      "audio": false
+    },
+    "en": {
+      "text": "These sentences had different meanings",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Ему нужно перестать быть таким ребячливым",
+      "audio": false
+    },
+    "en": {
+      "text": "He needs to stop being so childish",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Тебе нужно перестать быть таким эгоистичным",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to stop being so selfish",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Ему нужно быть менее ребячливым",
+      "audio": false
+    },
+    "en": {
+      "text": "He needs to be less childish",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Это уникальный шанс, и я не могу его упустить",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a unique chance and I can't miss it",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Это уникальная возможность, и я не могу ее упустить",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a unique opportunity and I can't miss it",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Это хороший шанс, и я не могу его упустить",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a good chance and I can't miss it",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Этот кризис кажется почти неизбежным сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "This crisis seems almost inevitable now",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Ее английский кажется очень неестественным",
+      "audio": false
+    },
+    "en": {
+      "text": "Her English seems very unnatural",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я хочу сказать тебе, что я знаю об этих трудностях",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to tell you that I am aware of these difficulties",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Они думают о принятии чрезвычайных мер",
+      "audio": false
+    },
+    "en": {
+      "text": "They are thinking about taking extreme measures",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Он еще не выбрал свою будущую профессию",
+      "audio": false
+    },
+    "en": {
+      "text": "He hasn't chosen his future profession yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "С моей точки зрения, это очень разумная идея",
+      "audio": false
+    },
+    "en": {
+      "text": "From my point of view, it's a very sensible idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Эти экономические факторы часто игнорируются",
+      "audio": false
+    },
+    "en": {
+      "text": "These economic factors are often ignored",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Она заинтересована только в материальных вещах",
+      "audio": false
+    },
+    "en": {
+      "text": "She is only interested in material things",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Полиция нашла его мертвым",
+      "audio": false
+    },
+    "en": {
+      "text": "The police found him dead",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Его ребячливое поведение действительно раздражает ее",
+      "audio": false
+    },
+    "en": {
+      "text": "His childish behaviour really irritates her",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Мне кажется, что у нас много общего",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me that we have much in common",
+      "audio": false
+    }
   }
 ]

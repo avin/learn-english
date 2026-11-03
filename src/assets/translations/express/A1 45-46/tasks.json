@@ -1,137 +1,299 @@
 [
   {
-    "_id": 1,
-    "ru": "Я все еще рассматриваю это предложение",
-    "en": "I'm still considering this offer"
+    "id": 1,
+    "ru": {
+      "text": "Я все еще рассматриваю это предложение",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm still considering this offer",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Эта песня становится все более популярной",
-    "en": "This song is getting more and more popular"
+    "id": 2,
+    "ru": {
+      "text": "Эта песня становится все более популярной",
+      "audio": false
+    },
+    "en": {
+      "text": "This song is getting more and more popular",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Я готовлюсь к заключительному экзамену на этой неделе",
-    "en": "I'm preparing for my final exam this week"
+    "id": 3,
+    "ru": {
+      "text": "Я готовлюсь к заключительному экзамену на этой неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm preparing for my final exam this week",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я рассматриваю это предложение сейчас",
-    "en": "I'm considering this offer now"
+    "id": 4,
+    "ru": {
+      "text": "Я рассматриваю это предложение сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm considering this offer now",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я все еще жду этого",
-    "en": "I'm still waiting for it"
+    "id": 5,
+    "ru": {
+      "text": "Я все еще жду этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm still waiting for it",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Это происходит прямо сейчас",
-    "en": "It's happening right now"
+    "id": 6,
+    "ru": {
+      "text": "Это происходит прямо сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "It's happening right now",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Еда становится все дороже и дороже",
-    "en": "The food is getting more and more expensive"
+    "id": 7,
+    "ru": {
+      "text": "Еда становится все дороже и дороже",
+      "audio": false
+    },
+    "en": {
+      "text": "The food is getting more and more expensive",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Мы обсуждаем это прямо сейчас",
-    "en": "We're discussing it right now"
+    "id": 8,
+    "ru": {
+      "text": "Мы обсуждаем это прямо сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "We're discussing it right now",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я делаю это прямо сейчас",
-    "en": "I'm doing it right now"
+    "id": 9,
+    "ru": {
+      "text": "Я делаю это прямо сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm doing it right now",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я все еще думаю об этом",
-    "en": "I'm still thinking about it"
+    "id": 10,
+    "ru": {
+      "text": "Я все еще думаю об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm still thinking about it",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Это происходит в данный момент",
-    "en": "It's happening at the moment"
+    "id": 11,
+    "ru": {
+      "text": "Это происходит в данный момент",
+      "audio": false
+    },
+    "en": {
+      "text": "It's happening at the moment",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Это становится реальной проблемой в наше время",
-    "en": "It's becoming a real problem nowadays"
+    "id": 12,
+    "ru": {
+      "text": "Это становится реальной проблемой в наше время",
+      "audio": false
+    },
+    "en": {
+      "text": "It's becoming a real problem nowadays",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "В этом месяце я работаю намного больше",
-    "en": "I'm working much more this month"
+    "id": 13,
+    "ru": {
+      "text": "В этом месяце я работаю намного больше",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm working much more this month",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Она сегодня работает",
-    "en": "She's working today"
+    "id": 14,
+    "ru": {
+      "text": "Она сегодня работает",
+      "audio": false
+    },
+    "en": {
+      "text": "She's working today",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Посмотри! Кто-то ищет тебя",
-    "en": "Look! Someone is looking for you"
+    "id": 15,
+    "ru": {
+      "text": "Посмотри! Кто-то ищет тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "Look! Someone is looking for you",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Очень важная вещь происходит сейчас",
-    "en": "A very important thing is happening now"
+    "id": 16,
+    "ru": {
+      "text": "Очень важная вещь происходит сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "A very important thing is happening now",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Уроки становятся все интереснее",
-    "en": "The lessons are getting more and more interesting"
+    "id": 17,
+    "ru": {
+      "text": "Уроки становятся все интереснее",
+      "audio": false
+    },
+    "en": {
+      "text": "The lessons are getting more and more interesting",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "В этом году он работает намного меньше",
-    "en": "He's working much less this year"
+    "id": 18,
+    "ru": {
+      "text": "В этом году он работает намного меньше",
+      "audio": false
+    },
+    "en": {
+      "text": "He's working much less this year",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Знания становятся все более доступными в наше время",
-    "en": "Knowledge is getting more and more available nowadays"
+    "id": 19,
+    "ru": {
+      "text": "Знания становятся все более доступными в наше время",
+      "audio": false
+    },
+    "en": {
+      "text": "Knowledge is getting more and more available nowadays",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Мой прогресс становится все больше и больше",
-    "en": "My progress is getting bigger and bigger"
+    "id": 20,
+    "ru": {
+      "text": "Мой прогресс становится все больше и больше",
+      "audio": false
+    },
+    "en": {
+      "text": "My progress is getting bigger and bigger",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Я сейчас обедаю",
-    "en": "I'm having lunch now"
+    "id": 21,
+    "ru": {
+      "text": "Я сейчас обедаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm having lunch now",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Я сегодня отдыхаю",
-    "en": "I'm having a rest today"
+    "id": 22,
+    "ru": {
+      "text": "Я сегодня отдыхаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm having a rest today",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Бесплатное онлайн-образование становится все более доступным",
-    "en": "Free online education is getting more and more available"
+    "id": 23,
+    "ru": {
+      "text": "Бесплатное онлайн-образование становится все более доступным",
+      "audio": false
+    },
+    "en": {
+      "text": "Free online education is getting more and more available",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Я завтракаю сейчас",
-    "en": "I'm having breakfast now"
+    "id": 24,
+    "ru": {
+      "text": "Я завтракаю сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm having breakfast now",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Эти знания становятся все более доступными",
-    "en": "This knowledge is getting more and more available"
+    "id": 25,
+    "ru": {
+      "text": "Эти знания становятся все более доступными",
+      "audio": false
+    },
+    "en": {
+      "text": "This knowledge is getting more and more available",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Кто-то зовет тебя",
-    "en": "Someone is calling you"
+    "id": 26,
+    "ru": {
+      "text": "Кто-то зовет тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "Someone is calling you",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Я очень интенсивно тренируюсь в данный момент",
-    "en": "I'm training very intensively at the moment"
+    "id": 27,
+    "ru": {
+      "text": "Я очень интенсивно тренируюсь в данный момент",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm training very intensively at the moment",
+      "audio": false
+    }
   }
 ]

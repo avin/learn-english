@@ -1,207 +1,453 @@
 [
   {
-    "_id": 1,
-    "ru": "Они отказались помочь ему",
-    "en": "They refused to help him"
+    "id": 1,
+    "ru": {
+      "text": "Они отказались помочь ему",
+      "audio": false
+    },
+    "en": {
+      "text": "They refused to help him",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я подготовился к этому экзамену",
-    "en": "I prepared for this exam"
+    "id": 2,
+    "ru": {
+      "text": "Я подготовился к этому экзамену",
+      "audio": false
+    },
+    "en": {
+      "text": "I prepared for this exam",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Все прибыли вовремя",
-    "en": "Everyone arrived on time"
+    "id": 3,
+    "ru": {
+      "text": "Все прибыли вовремя",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone arrived on time",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я так счастлив, что достиг этой цели",
-    "en": "I'm so happy that I achieved this aim"
+    "id": 4,
+    "ru": {
+      "text": "Я так счастлив, что достиг этой цели",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm so happy that I achieved this aim",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я так счастлив, что действительно достиг этой цели",
-    "en": "I'm so happy that I really achieved this aim"
+    "id": 5,
+    "ru": {
+      "text": "Я так счастлив, что действительно достиг этой цели",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm so happy that I really achieved this aim",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я ответил на этот вопрос",
-    "en": "I answered this question"
+    "id": 6,
+    "ru": {
+      "text": "Я ответил на этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I answered this question",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Он отказался отвечать на этот вопрос",
-    "en": "He refused to answer this question"
+    "id": 7,
+    "ru": {
+      "text": "Он отказался отвечать на этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "He refused to answer this question",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я все проверил",
-    "en": "I checked everything"
+    "id": 8,
+    "ru": {
+      "text": "Я все проверил",
+      "audio": false
+    },
+    "en": {
+      "text": "I checked everything",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я поделился этим видео со своими друзьями",
-    "en": "I shared this video with my friends"
+    "id": 9,
+    "ru": {
+      "text": "Я поделился этим видео со своими друзьями",
+      "audio": false
+    },
+    "en": {
+      "text": "I shared this video with my friends",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я путешествовал довольно часто",
-    "en": "I travelled quite often"
+    "id": 10,
+    "ru": {
+      "text": "Я путешествовал довольно часто",
+      "audio": false
+    },
+    "en": {
+      "text": "I travelled quite often",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я в основном заказывал это онлайн",
-    "en": "I mostly ordered it online"
+    "id": 11,
+    "ru": {
+      "text": "Я в основном заказывал это онлайн",
+      "audio": false
+    },
+    "en": {
+      "text": "I mostly ordered it online",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Он убрал свою комнату",
-    "en": "He cleaned his room"
+    "id": 12,
+    "ru": {
+      "text": "Он убрал свою комнату",
+      "audio": false
+    },
+    "en": {
+      "text": "He cleaned his room",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я ответил на все вопросы",
-    "en": "I answered all the questions"
+    "id": 13,
+    "ru": {
+      "text": "Я ответил на все вопросы",
+      "audio": false
+    },
+    "en": {
+      "text": "I answered all the questions",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я ненавидел делать это",
-    "en": "I hated doing it"
+    "id": 14,
+    "ru": {
+      "text": "Я ненавидел делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I hated doing it",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я сохранил все документы",
-    "en": "I saved all the documents"
+    "id": 15,
+    "ru": {
+      "text": "Я сохранил все документы",
+      "audio": false
+    },
+    "en": {
+      "text": "I saved all the documents",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Она убрала комнату",
-    "en": "She cleaned the room"
+    "id": 16,
+    "ru": {
+      "text": "Она убрала комнату",
+      "audio": false
+    },
+    "en": {
+      "text": "She cleaned the room",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Он улыбнулся ей, и она улыбнулась ему",
-    "en": "He smiled at her and she smiled at him"
+    "id": 17,
+    "ru": {
+      "text": "Он улыбнулся ей, и она улыбнулась ему",
+      "audio": false
+    },
+    "en": {
+      "text": "He smiled at her and she smiled at him",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Я в основном заказывал это в этом магазине",
-    "en": "I mostly ordered it in this shop"
+    "id": 18,
+    "ru": {
+      "text": "Я в основном заказывал это в этом магазине",
+      "audio": false
+    },
+    "en": {
+      "text": "I mostly ordered it in this shop",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Они доставили посылку вовремя",
-    "en": "They delivered the parcel on time"
+    "id": 19,
+    "ru": {
+      "text": "Они доставили посылку вовремя",
+      "audio": false
+    },
+    "en": {
+      "text": "They delivered the parcel on time",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Она заплакала вдруг",
-    "en": "She cried suddenly"
+    "id": 20,
+    "ru": {
+      "text": "Она заплакала вдруг",
+      "audio": false
+    },
+    "en": {
+      "text": "She cried suddenly",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Я действительно обожал делать это",
-    "en": "I really enjoyed doing it"
+    "id": 21,
+    "ru": {
+      "text": "Я действительно обожал делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoyed doing it",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Он заботился только о себе",
-    "en": "He only cared about himself"
+    "id": 22,
+    "ru": {
+      "text": "Он заботился только о себе",
+      "audio": false
+    },
+    "en": {
+      "text": "He only cared about himself",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Я тренировался очень интенсивно",
-    "en": "I trained very intensively"
+    "id": 23,
+    "ru": {
+      "text": "Я тренировался очень интенсивно",
+      "audio": false
+    },
+    "en": {
+      "text": "I trained very intensively",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Я предпочел остаться дома",
-    "en": "I preferred to stay at home"
+    "id": 24,
+    "ru": {
+      "text": "Я предпочел остаться дома",
+      "audio": false
+    },
+    "en": {
+      "text": "I preferred to stay at home",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Я выразил свое отношение к этому",
-    "en": "I expressed my attitude to it"
+    "id": 25,
+    "ru": {
+      "text": "Я выразил свое отношение к этому",
+      "audio": false
+    },
+    "en": {
+      "text": "I expressed my attitude to it",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Эта теория действительно существовала",
-    "en": "This theory really existed"
+    "id": 26,
+    "ru": {
+      "text": "Эта теория действительно существовала",
+      "audio": false
+    },
+    "en": {
+      "text": "This theory really existed",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Мой друг поделился этой ссылкой со мной",
-    "en": "My friend shared this link with me"
+    "id": 27,
+    "ru": {
+      "text": "Мой друг поделился этой ссылкой со мной",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend shared this link with me",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Я выразил свою личную точку зрения",
-    "en": "I expressed my personal point of view"
+    "id": 28,
+    "ru": {
+      "text": "Я выразил свою личную точку зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "I expressed my personal point of view",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Она танцевала профессионально",
-    "en": "She danced professionally"
+    "id": 29,
+    "ru": {
+      "text": "Она танцевала профессионально",
+      "audio": false
+    },
+    "en": {
+      "text": "She danced professionally",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Я сохранил все файлы",
-    "en": "I saved all the files"
+    "id": 30,
+    "ru": {
+      "text": "Я сохранил все файлы",
+      "audio": false
+    },
+    "en": {
+      "text": "I saved all the files",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Я прибыл в аэропорт десять минут назад",
-    "en": "I arrived at the airport ten minutes ago"
+    "id": 31,
+    "ru": {
+      "text": "Я прибыл в аэропорт десять минут назад",
+      "audio": false
+    },
+    "en": {
+      "text": "I arrived at the airport ten minutes ago",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Они доставили мою посылку вовремя",
-    "en": "They delivered my parcel on time"
+    "id": 32,
+    "ru": {
+      "text": "Они доставили мою посылку вовремя",
+      "audio": false
+    },
+    "en": {
+      "text": "They delivered my parcel on time",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Я улучшил свой английский благодаря этим регулярным тренировкам",
-    "en": "I improved my English thanks to these regular trainings"
+    "id": 33,
+    "ru": {
+      "text": "Я улучшил свой английский благодаря этим регулярным тренировкам",
+      "audio": false
+    },
+    "en": {
+      "text": "I improved my English thanks to these regular trainings",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Он заботился только о деньгах",
-    "en": "He only cared about money"
+    "id": 34,
+    "ru": {
+      "text": "Он заботился только о деньгах",
+      "audio": false
+    },
+    "en": {
+      "text": "He only cared about money",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Группа выпустила новый альбом",
-    "en": "The band released a new album"
+    "id": 35,
+    "ru": {
+      "text": "Группа выпустила новый альбом",
+      "audio": false
+    },
+    "en": {
+      "text": "The band released a new album",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Я подготовился к этому тесту",
-    "en": "I prepared for this test"
+    "id": 36,
+    "ru": {
+      "text": "Я подготовился к этому тесту",
+      "audio": false
+    },
+    "en": {
+      "text": "I prepared for this test",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Я повторил свой вопрос снова",
-    "en": "I repeated my question again"
+    "id": 37,
+    "ru": {
+      "text": "Я повторил свой вопрос снова",
+      "audio": false
+    },
+    "en": {
+      "text": "I repeated my question again",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Я проверил все документы",
-    "en": "I checked all the documents"
+    "id": 38,
+    "ru": {
+      "text": "Я проверил все документы",
+      "audio": false
+    },
+    "en": {
+      "text": "I checked all the documents",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Я действительно ненавидел это",
-    "en": "I really hated it"
+    "id": 39,
+    "ru": {
+      "text": "Я действительно ненавидел это",
+      "audio": false
+    },
+    "en": {
+      "text": "I really hated it",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Я предпочитал все планировать",
-    "en": "I preferred to plan everything"
+    "id": 40,
+    "ru": {
+      "text": "Я предпочитал все планировать",
+      "audio": false
+    },
+    "en": {
+      "text": "I preferred to plan everything",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Я обожал проводить время со своими друзьями",
-    "en": "I enjoyed spending time with my friends"
+    "id": 41,
+    "ru": {
+      "text": "Я обожал проводить время со своими друзьями",
+      "audio": false
+    },
+    "en": {
+      "text": "I enjoyed spending time with my friends",
+      "audio": false
+    }
   }
 ]

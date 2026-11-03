@@ -1,457 +1,1003 @@
 [
   {
-    "_id": 1,
-    "ru": "Ты пойдешь в кино со мной?",
-    "en": "Will you go to the cinema with me?"
-  },
-  {
-    "_id": 2,
-    "ru": "Ты попробуешь выучить английский?",
-    "en": "Will you try to learn English?"
-  },
-  {
-    "_id": 3,
-    "ru": "Это будет дешево?",
-    "en": "Will it be cheap?"
-  },
-  {
-    "_id": 4,
-    "ru": "Ты пойдешь туда пешком?",
-    "en": "Will you go there on foot?"
-  },
-  {
-    "_id": 5,
-    "ru": "Лекция будет очень скучной?",
-    "en": "Will the lecture be very boring?"
-  },
-  {
-    "_id": 6,
-    "ru": "Ты к нам присоединишься?",
-    "en": "Will you join us?"
-  },
-  {
-    "_id": 7,
-    "ru": "Она скоро прибудет?",
-    "en": "Will she arrive soon?"
-  },
-  {
-    "_id": 8,
-    "ru": "Мой уровень станет намного выше?",
-    "en": "Will my level get much higher?"
-  },
-  {
-    "_id": 9,
-    "ru": "Ты будешь готовиться к этому тесту?",
-    "en": "Will you prepare for this test?"
-  },
-  {
-    "_id": 10,
-    "ru": "У него будет более хорошая работа?",
-    "en": "Will he have a better job?"
-  },
-  {
-    "_id": 11,
-    "ru": "Ты купишь старую машину?",
-    "en": "Will you buy an old car?"
-  },
-  {
-    "_id": 12,
-    "ru": "Ты возьмешь такси?",
-    "en": "Will you take a taxi?"
-  },
-  {
-    "_id": 13,
-    "ru": "Ты свяжешься со мной позже?",
-    "en": "Will you contact me later?"
-  },
-  {
-    "_id": 14,
-    "ru": "Это будет слишком дорого?",
-    "en": "Will it be too expensive?"
-  },
-  {
-    "_id": 15,
-    "ru": "Ты будешь в офисе завтра?",
-    "en": "Will you be in the office tomorrow?"
-  },
-  {
-    "_id": 16,
-    "ru": "Ты откроешь дверь?",
-    "en": "Will you open the door?"
-  },
-  {
-    "_id": 17,
-    "ru": "Он скоро вернется домой?",
-    "en": "Will he return home soon?"
-  },
-  {
-    "_id": 18,
-    "ru": "Это будет лучше?",
-    "en": "Will it be better?"
-  },
-  {
-    "_id": 19,
-    "ru": "Урок будет очень полезным?",
-    "en": "Will the lesson be very useful?"
-  },
-  {
-    "_id": 20,
-    "ru": "Ты пойдешь в кино со мной?",
-    "en": "Will you go to the cinema with me?"
-  },
-  {
-    "_id": 21,
-    "ru": "Вы будете жить в другом месте?",
-    "en": "Will you live in another place?"
-  },
-  {
-    "_id": 22,
-    "ru": "Ты посмотришь на это?",
-    "en": "Will you look at it?"
-  },
-  {
-    "_id": 23,
-    "ru": "Курс будет очень интенсивным?",
-    "en": "Will the course be very intensive?"
-  },
-  {
-    "_id": 24,
-    "ru": "Мы пойдем в парк вместе?",
-    "en": "Will we go to the park together?"
-  },
-  {
-    "_id": 25,
-    "ru": "Ты закроешь окно?",
-    "en": "Will you close the window?"
-  },
-  {
-    "_id": 26,
-    "ru": "Она купит старую квартиру?",
-    "en": "Will she buy an old apartment?"
-  },
-  {
-    "_id": 27,
-    "ru": "Мой английский скоро станет лучше?",
-    "en": "Will my English become better soon?"
-  },
-  {
-    "_id": 28,
-    "ru": "У меня будет стабильный доход?",
-    "en": "Will I have a stable income?"
-  },
-  {
-    "_id": 29,
-    "ru": "Она продаст свою квартиру?",
-    "en": "Will she sell her apartment?"
-  },
-  {
-    "_id": 30,
-    "ru": "Он купит новый дом?",
-    "en": "Will he buy a new house?"
-  },
-  {
-    "_id": 31,
-    "ru": "Это будет сделка?",
-    "en": "Will it be a bargain?"
-  },
-  {
-    "_id": 32,
-    "ru": "Тебе понадобится дополнительная практика?",
-    "en": "Will you need extra practice?"
-  },
-  {
-    "_id": 33,
-    "ru": "Мы полетим туда на самолете?",
-    "en": "Will we go there by plane?"
-  },
-  {
-    "_id": 34,
-    "ru": "Курс будет довольно коротким?",
-    "en": "Will the course be quite short?"
-  },
-  {
-    "_id": 35,
-    "ru": "Ты придешь домой рано?",
-    "en": "Will you come home early?"
-  },
-  {
-    "_id": 36,
-    "ru": "Ты посмотришь на эту страницу?",
-    "en": "Will you look at this page?"
-  },
-  {
-    "_id": 37,
-    "ru": "Ты поедешь в тот город на поезде?",
-    "en": "Will you go to that city by train?"
-  },
-  {
-    "_id": 38,
-    "ru": "Он поедет туда на автобусе?",
-    "en": "Will he go there by bus?"
-  },
-  {
-    "_id": 39,
-    "ru": "Ты будешь готовиться к тому экзамену?",
-    "en": "Will you prepare for that exam?"
-  },
-  {
-    "_id": 40,
-    "ru": "Мы пойдем туда пешком?",
-    "en": "Will we go there on foot?"
-  },
-  {
-    "_id": 41,
-    "ru": "У тебя будет хорошо оплачиваемая работа?",
-    "en": "Will you have a well-paid job?"
-  },
-  {
-    "_id": 42,
-    "ru": "Это принесет ему большие деньги?",
-    "en": "Will it bring him big money?"
-  },
-  {
-    "_id": 43,
-    "ru": "Ты будешь искать место лучше?",
-    "en": "Will you look for a better place?"
-  },
-  {
-    "_id": 44,
-    "ru": "Это будет пустой тратой времени?",
-    "en": "Will it be a waste of time?"
-  },
-  {
-    "_id": 45,
-    "ru": "Ты продолжишь это делать?",
-    "en": "Will you continue doing it?"
-  },
-  {
-    "_id": 46,
-    "ru": "Ты будешь посещать те курсы?",
-    "en": "Will you attend those courses?"
-  },
-  {
-    "_id": 47,
-    "ru": "Ты поедешь в отпуск на следующей неделе?",
-    "en": "Will you go on holiday next week?"
-  },
-  {
-    "_id": 48,
-    "ru": "Ты будешь что-то делать, чтобы изменить эту ситуацию?",
-    "en": "Will you do anything to change this situation?"
-  },
-  {
-    "_id": 49,
-    "ru": "Ты будешь продолжать работать здесь?",
-    "en": "Will you continue working here?"
-  },
-  {
-    "_id": 50,
-    "ru": "Будет дорого жить в этом отеле?",
-    "en": "Will it be expensive to live in this hotel?"
-  },
-  {
-    "_id": 51,
-    "ru": "Он будет искать квартиру?",
-    "en": "Will he look for an apartment?"
-  },
-  {
-    "_id": 52,
-    "ru": "Это легко будет понять?",
-    "en": "Will it be easy to understand?"
-  },
-  {
-    "_id": 53,
-    "ru": "Он также будет посещать эти курсы?",
-    "en": "Will he also attend these courses?"
-  },
-  {
-    "_id": 54,
-    "ru": "Это будет выгодная сделка?",
-    "en": "Will it be a complete bargain?"
-  },
-  {
-    "_id": 55,
-    "ru": "Это будет последняя сделка?",
-    "en": "Will it be the last bargain?"
-  },
-  {
-    "_id": 56,
-    "ru": "Это будет хорошая сделка?",
-    "en": "Will it be a good bargain?"
-  },
-  {
-    "_id": 57,
-    "ru": "Ты будешь искать новую работу?",
-    "en": "Will you look for a new job?"
-  },
-  {
-    "_id": 58,
-    "ru": "Он будет искать новую работу?",
-    "en": "Will he look for a new job?"
-  },
-  {
-    "_id": 59,
-    "ru": "Они будут искать новый дом?",
-    "en": "Will they look for a new house?"
-  },
-  {
-    "_id": 60,
-    "ru": "Это будет полной тратой времени?",
-    "en": "Will it be a complete waste of time?"
-  },
-  {
-    "_id": 61,
-    "ru": "Это будет настоящая трата времени?",
-    "en": "Will it be a real waste of time?"
-  },
-  {
-    "_id": 62,
-    "ru": "Ты будешь продолжать изучать английский здесь?",
-    "en": "Will you continue learning English here?"
-  },
-  {
-    "_id": 63,
-    "ru": "Она будет продолжать изучать английский язык там?",
-    "en": "Will she continue learning English there?"
-  },
-  {
-    "_id": 64,
-    "ru": "Она будет искать лучшую работу?",
-    "en": "Will she look for the best job?"
-  },
-  {
-    "_id": 65,
-    "ru": "Ты будешь искать лучшую работу?",
-    "en": "Will you look for the best job?"
-  },
-  {
-    "_id": 66,
-    "ru": "Она будет искать работу получше?",
-    "en": "Will she look for a better job?"
-  },
-  {
-    "_id": 67,
-    "ru": "Ты будешь свободен на выходных?",
-    "en": "Will you be free at the weekend?"
-  },
-  {
-    "_id": 68,
-    "ru": "Ты будешь свободен в эту пятницу?",
-    "en": "Will you be free this Friday?"
-  },
-  {
-    "_id": 69,
-    "ru": "Она будет свободна на выходных?",
-    "en": "Will she be free at the weekend?"
-  },
-  {
-    "_id": 70,
-    "ru": "Ты будешь пытаться найти работу получше?",
-    "en": "Will you try to find a better job?"
-  },
-  {
-    "_id": 71,
-    "ru": "Ты будешь пытаться найти хорошую работу?",
-    "en": "Will you try to find a good job?"
-  },
-  {
-    "_id": 72,
-    "ru": "Ты будешь пытаться найти лучшую работу?",
-    "en": "Will you try to find the best job?"
-  },
-  {
-    "_id": 73,
-    "ru": "Ты сможешь сделать это?",
-    "en": "Will you be able to do it?"
-  },
-  {
-    "_id": 74,
-    "ru": "Они смогут сделать это?",
-    "en": "Will they be able to do it?"
-  },
-  {
-    "_id": 75,
-    "ru": "Она сможет сделать это в следующем месяце?",
-    "en": "Will she be able to do it next month?"
-  },
-  {
-    "_id": 76,
-    "ru": "Ты свяжешься со мной позже?",
-    "en": "Will you get in touch with me later?"
-  },
-  {
-    "_id": 77,
-    "ru": "Она свяжется с тобой позже?",
-    "en": "Will she get in touch with you later?"
-  },
-  {
-    "_id": 78,
-    "ru": "Она свяжется со мной позже?",
-    "en": "Will she contact me later?"
-  },
-  {
-    "_id": 79,
-    "ru": "У меня будет самый высокий уровень?",
-    "en": "Will I have the highest level?"
-  },
-  {
-    "_id": 80,
-    "ru": "Ты продолжишь посещать эти курсы?",
-    "en": "Will you continue attending these courses?"
-  },
-  {
-    "_id": 81,
-    "ru": "Это будет действительно выгодная покупка?",
-    "en": "Will it be a real bargain?"
-  },
-  {
-    "_id": 82,
-    "ru": "Ты пойдешь на пикник с нами?",
-    "en": "Will you go on a picnic with us?"
-  },
-  {
-    "_id": 83,
-    "ru": "Ты будешь более тщательно готовиться к этому тесту?",
-    "en": "Will you prepare for this test more thoroughly?"
-  },
-  {
-    "_id": 84,
-    "ru": "Будет легко найти это место?",
-    "en": "Will it be easy to find this place?"
-  },
-  {
-    "_id": 85,
-    "ru": "У меня будет гораздо выше уровень?",
-    "en": "Will I have a much higher level?"
-  },
-  {
-    "_id": 86,
-    "ru": "Ты свяжешься со мной?",
-    "en": "Will you get in touch with me?"
-  },
-  {
-    "_id": 87,
-    "ru": "Он сможет помочь нам?",
-    "en": "Will he be able to help us?"
-  },
-  {
-    "_id": 88,
-    "ru": "Ты попытаешься учить английский интенсивнее?",
-    "en": "Will you try to learn English more intensively?"
-  },
-  {
-    "_id": 89,
-    "ru": "Я смогу выучить английский через год?",
-    "en": "Will I be able to learn English in a year?"
-  },
-  {
-    "_id": 90,
-    "ru": "Ты будешь бегать трусцой более регулярно?",
-    "en": "Will you go jogging more regularly?"
-  },
-  {
-    "_id": 91,
-    "ru": "У меня скоро будет более высокий уровень?",
-    "en": "Will I have a higher level soon?"
+    "id": 1,
+    "ru": {
+      "text": "Ты пойдешь в кино со мной?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you go to the cinema with me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Ты попробуешь выучить английский?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you try to learn English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Это будет дешево?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be cheap?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Ты пойдешь туда пешком?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you go there on foot?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Лекция будет очень скучной?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will the lecture be very boring?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Ты к нам присоединишься?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you join us?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Она скоро прибудет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will she arrive soon?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Мой уровень станет намного выше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will my level get much higher?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Ты будешь готовиться к этому тесту?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you prepare for this test?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "У него будет более хорошая работа?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he have a better job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Ты купишь старую машину?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you buy an old car?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Ты возьмешь такси?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you take a taxi?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Ты свяжешься со мной позже?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you contact me later?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Это будет слишком дорого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be too expensive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Ты будешь в офисе завтра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you be in the office tomorrow?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Ты откроешь дверь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you open the door?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Он скоро вернется домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he return home soon?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Это будет лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be better?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Урок будет очень полезным?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will the lesson be very useful?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Ты пойдешь в кино со мной?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you go to the cinema with me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Вы будете жить в другом месте?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you live in another place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Ты посмотришь на это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you look at it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Курс будет очень интенсивным?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will the course be very intensive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Мы пойдем в парк вместе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will we go to the park together?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Ты закроешь окно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you close the window?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Она купит старую квартиру?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will she buy an old apartment?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Мой английский скоро станет лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will my English become better soon?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "У меня будет стабильный доход?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will I have a stable income?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Она продаст свою квартиру?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will she sell her apartment?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Он купит новый дом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he buy a new house?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Это будет сделка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be a bargain?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Тебе понадобится дополнительная практика?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you need extra practice?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Мы полетим туда на самолете?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will we go there by plane?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Курс будет довольно коротким?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will the course be quite short?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Ты придешь домой рано?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you come home early?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Ты посмотришь на эту страницу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you look at this page?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Ты поедешь в тот город на поезде?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you go to that city by train?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Он поедет туда на автобусе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he go there by bus?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Ты будешь готовиться к тому экзамену?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you prepare for that exam?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Мы пойдем туда пешком?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will we go there on foot?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "У тебя будет хорошо оплачиваемая работа?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you have a well-paid job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Это принесет ему большие деньги?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it bring him big money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Ты будешь искать место лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you look for a better place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Это будет пустой тратой времени?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be a waste of time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Ты продолжишь это делать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you continue doing it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Ты будешь посещать те курсы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you attend those courses?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Ты поедешь в отпуск на следующей неделе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you go on holiday next week?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Ты будешь что-то делать, чтобы изменить эту ситуацию?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you do anything to change this situation?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Ты будешь продолжать работать здесь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you continue working here?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Будет дорого жить в этом отеле?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be expensive to live in this hotel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Он будет искать квартиру?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he look for an apartment?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Это легко будет понять?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be easy to understand?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Он также будет посещать эти курсы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he also attend these courses?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Это будет выгодная сделка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be a complete bargain?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Это будет последняя сделка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be the last bargain?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Это будет хорошая сделка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be a good bargain?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Ты будешь искать новую работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you look for a new job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Он будет искать новую работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he look for a new job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Они будут искать новый дом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will they look for a new house?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Это будет полной тратой времени?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be a complete waste of time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Это будет настоящая трата времени?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be a real waste of time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Ты будешь продолжать изучать английский здесь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you continue learning English here?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Она будет продолжать изучать английский язык там?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will she continue learning English there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Она будет искать лучшую работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will she look for the best job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Ты будешь искать лучшую работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you look for the best job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Она будет искать работу получше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will she look for a better job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Ты будешь свободен на выходных?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you be free at the weekend?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Ты будешь свободен в эту пятницу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you be free this Friday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Она будет свободна на выходных?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will she be free at the weekend?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Ты будешь пытаться найти работу получше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you try to find a better job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Ты будешь пытаться найти хорошую работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you try to find a good job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Ты будешь пытаться найти лучшую работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you try to find the best job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Ты сможешь сделать это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you be able to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Они смогут сделать это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will they be able to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Она сможет сделать это в следующем месяце?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will she be able to do it next month?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Ты свяжешься со мной позже?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you get in touch with me later?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Она свяжется с тобой позже?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will she get in touch with you later?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Она свяжется со мной позже?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will she contact me later?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "У меня будет самый высокий уровень?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will I have the highest level?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Ты продолжишь посещать эти курсы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you continue attending these courses?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Это будет действительно выгодная покупка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be a real bargain?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Ты пойдешь на пикник с нами?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you go on a picnic with us?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Ты будешь более тщательно готовиться к этому тесту?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you prepare for this test more thoroughly?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Будет легко найти это место?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be easy to find this place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "У меня будет гораздо выше уровень?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will I have a much higher level?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Ты свяжешься со мной?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you get in touch with me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Он сможет помочь нам?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he be able to help us?",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Ты попытаешься учить английский интенсивнее?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you try to learn English more intensively?",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Я смогу выучить английский через год?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will I be able to learn English in a year?",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Ты будешь бегать трусцой более регулярно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you go jogging more regularly?",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "У меня скоро будет более высокий уровень?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will I have a higher level soon?",
+      "audio": false
+    }
   }
 ]

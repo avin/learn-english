@@ -1,502 +1,1102 @@
 [
   {
-    "_id": 1,
-    "ru": "Эти документы были подписаны недавно",
-    "en": "These documents have been signed lately"
-  },
-  {
-    "_id": 2,
-    "ru": "Эту машину уже сделали в Англии",
-    "en": "This car has already been made in England"
-  },
-  {
-    "_id": 3,
-    "ru": "Тебе рассказывают эту историю сейчас",
-    "en": "You are being told this story now"
-  },
-  {
-    "_id": 4,
-    "ru": "Этот дом строился им",
-    "en": "This house was being built by him"
-  },
-  {
-    "_id": 5,
-    "ru": "Меня обсуждают сейчас",
-    "en": "I am being discussed now"
-  },
-  {
-    "_id": 6,
-    "ru": "Дорогу ремонтируют сейчас",
-    "en": "The road is being repaired now"
-  },
-  {
-    "_id": 7,
-    "ru": "Им рассказывают правду сейчас",
-    "en": "They are being told the truth now"
-  },
-  {
-    "_id": 8,
-    "ru": "Это обсуждалось в Японии",
-    "en": "It was being discussed in Japan"
-  },
-  {
-    "_id": 9,
-    "ru": "Эти проблемы решали в 3 вчера",
-    "en": "These problems were being solved at 3 yesterday"
-  },
-  {
-    "_id": 10,
-    "ru": "Это еще не сделано",
-    "en": "It hasn't been done yet"
-  },
-  {
-    "_id": 11,
-    "ru": "Дорога сейчас ремонтируется",
-    "en": "The road is being repaired now"
-  },
-  {
-    "_id": 12,
-    "ru": "Новый коттедж строится сейчас",
-    "en": "A new cottage is being built now"
-  },
-  {
-    "_id": 13,
-    "ru": "Так много деревьев в настоящее время вырубаются",
-    "en": "So many trees are being cut down nowadays"
-  },
-  {
-    "_id": 14,
-    "ru": "Столовая сейчас ремонтируется",
-    "en": "The canteen is being repaired now"
-  },
-  {
-    "_id": 15,
-    "ru": "Это было запрещено делать",
-    "en": "It was forbidden to do it"
-  },
-  {
-    "_id": 16,
-    "ru": "Двое рабочих уволены недавно",
-    "en": "Two workers have been dismissed recently"
-  },
-  {
-    "_id": 17,
-    "ru": "Дверь была открыта этим ключом",
-    "en": "The door was opened with this key"
-  },
-  {
-    "_id": 18,
-    "ru": "Машина сейчас ремонтируется",
-    "en": "The car is being repaired now"
-  },
-  {
-    "_id": 19,
-    "ru": "Новый небоскреб строится сейчас",
-    "en": "A new skyscraper is being built now"
-  },
-  {
-    "_id": 20,
-    "ru": "Эти вопросы сейчас обсуждаются",
-    "en": "These questions are being discussed now"
-  },
-  {
-    "_id": 21,
-    "ru": "Эта работа еще не проверена",
-    "en": "This work hasn't been checked yet"
-  },
-  {
-    "_id": 22,
-    "ru": "Эта проблема еще не обсуждалась",
-    "en": "This problem hasn't been discussed yet"
-  },
-  {
-    "_id": 23,
-    "ru": "Собор сейчас перестраивается",
-    "en": "The cathedral is being rebuilt now"
-  },
-  {
-    "_id": 24,
-    "ru": "Роман был прочитан ею",
-    "en": "The novel was read by her"
-  },
-  {
-    "_id": 25,
-    "ru": "Это было сказано очень вежливо",
-    "en": "It was said very politely"
-  },
-  {
-    "_id": 26,
-    "ru": "Это сейчас читают",
-    "en": "It is being read now"
-  },
-  {
-    "_id": 27,
-    "ru": "Это анализируют сейчас",
-    "en": "It is being analysed now"
-  },
-  {
-    "_id": 28,
-    "ru": "Монастырь перестраивается сейчас",
-    "en": "The monastery is being rebuilt now"
-  },
-  {
-    "_id": 29,
-    "ru": "Четыре новых сотрудника были наняты недавно",
-    "en": "Four new employees have been hired recently"
-  },
-  {
-    "_id": 30,
-    "ru": "Письмо уже отправлено",
-    "en": "The letter has already been sent"
-  },
-  {
-    "_id": 31,
-    "ru": "Новая машина была куплена им",
-    "en": "A new car was bought by him"
-  },
-  {
-    "_id": 32,
-    "ru": "Когда я вошел в комнату, это обсуждалось",
-    "en": "When I entered the room, it was being discussed"
-  },
-  {
-    "_id": 33,
-    "ru": "Двери сейчас закрываются",
-    "en": "The doors are being closed now"
-  },
-  {
-    "_id": 34,
-    "ru": "Эти проблемы сейчас решаются",
-    "en": "These problems are being solved now"
-  },
-  {
-    "_id": 35,
-    "ru": "Почему рабочий был уволен?",
-    "en": "Why was the worker dismissed?"
-  },
-  {
-    "_id": 36,
-    "ru": "Опрос уже проводился",
-    "en": "The survey has already been conducted"
-  },
-  {
-    "_id": 37,
-    "ru": "Так много деревьев вырублено",
-    "en": "So many trees are cut down"
-  },
-  {
-    "_id": 38,
-    "ru": "Этот дом продается сейчас",
-    "en": "This house is being sold now"
-  },
-  {
-    "_id": 39,
-    "ru": "Этот бестселлер продается во многих странах",
-    "en": "This bestseller is sold in many countries"
-  },
-  {
-    "_id": 40,
-    "ru": "Этот вопрос только что обсуждался",
-    "en": "This question has just been discussed"
-  },
-  {
-    "_id": 41,
-    "ru": "Музей сейчас реконструируется",
-    "en": "The museum is being reconstructed now"
-  },
-  {
-    "_id": 42,
-    "ru": "Новая столовая сейчас строится",
-    "en": "A new canteen is being built now"
-  },
-  {
-    "_id": 43,
-    "ru": "Опрос проводился на прошлой неделе",
-    "en": "The survey was conducted - last week"
-  },
-  {
-    "_id": 44,
-    "ru": "Это часто говорится очень формально",
-    "en": "It is often said very formally"
-  },
-  {
-    "_id": 45,
-    "ru": "Потолок сейчас красится",
-    "en": "The ceiling is being painted now"
-  },
-  {
-    "_id": 46,
-    "ru": "Моя работа сейчас проверяется",
-    "en": "My work is being checked now"
-  },
-  {
-    "_id": 47,
-    "ru": "Когда я приехал в деревню, строился новый дом",
-    "en": "When I came to the village, a new house was being built"
-  },
-  {
-    "_id": 48,
-    "ru": "Это старинное здание сейчас реконструируется",
-    "en": "This ancient building is being reconstructed now"
-  },
-  {
-    "_id": 49,
-    "ru": "Потолок красили, когда он приехал",
-    "en": "The ceiling was being painted when he arrived"
-  },
-  {
-    "_id": 50,
-    "ru": "За что были уволены рабочие?",
-    "en": "What were the workers dismissed for?"
-  },
-  {
-    "_id": 51,
-    "ru": "Еда была разделена на несколько порций",
-    "en": "The food was divided into several portions"
-  },
-  {
-    "_id": 52,
-    "ru": "Все будет загружено к завтрашнему дню",
-    "en": "Everything will have been downloaded by tomorrow"
-  },
-  {
-    "_id": 53,
-    "ru": "Она сказала, что письмо уже было отправлено",
-    "en": "She said that the letter had already been sent"
-  },
-  {
-    "_id": 54,
-    "ru": "Пока он болел, его учили дома",
-    "en": "While he was ill, he was being taught at home"
-  },
-  {
-    "_id": 55,
-    "ru": "Крыша отремонтирована этим летом",
-    "en": "The roof has been repaired this summer"
-  },
-  {
-    "_id": 56,
-    "ru": "Как уже было сказано, это стоит сделать",
-    "en": "As it has already been said, it's worth doing"
-  },
-  {
-    "_id": 57,
-    "ru": "Эта работа будет выполнена к январю",
-    "en": "This work will have been done by January"
-  },
-  {
-    "_id": 58,
-    "ru": "Остров изолирован от внешнего мира",
-    "en": "The island is isolated from the outside world"
-  },
-  {
-    "_id": 59,
-    "ru": "Эта программа скачивается сейчас",
-    "en": "This program is being downloaded now"
-  },
-  {
-    "_id": 60,
-    "ru": "Эту вещь покупают сейчас",
-    "en": "This thing is being bought now"
-  },
-  {
-    "_id": 61,
-    "ru": "Это приложение загружается сейчас",
-    "en": "This application is being downloaded now"
-  },
-  {
-    "_id": 62,
-    "ru": "Что сейчас обсуждается?",
-    "en": "What is being discussed now?"
-  },
-  {
-    "_id": 63,
-    "ru": "Это сейчас обсуждается",
-    "en": "It is being discussed now"
-  },
-  {
-    "_id": 64,
-    "ru": "Что сейчас показывается?",
-    "en": "What is being shown now?"
-  },
-  {
-    "_id": 65,
-    "ru": "Что уже было сказано?",
-    "en": "What has already been said?"
-  },
-  {
-    "_id": 66,
-    "ru": "Что уже сделано?",
-    "en": "What has already been done?"
-  },
-  {
-    "_id": 67,
-    "ru": "Это уже сказано",
-    "en": "It has already been said"
-  },
-  {
-    "_id": 68,
-    "ru": "Еще не все сказано",
-    "en": "Not everything has been said yet"
-  },
-  {
-    "_id": 69,
-    "ru": "Все уже сказано",
-    "en": "Everything has been already said"
-  },
-  {
-    "_id": 70,
-    "ru": "Все уже сказано?",
-    "en": "Has everything already been said?"
-  },
-  {
-    "_id": 71,
-    "ru": "Документы еще не были отсканированы",
-    "en": "The documents haven't been scanned yet"
-  },
-  {
-    "_id": 72,
-    "ru": "Документы еще не были подписаны",
-    "en": "The documents haven't been signed yet"
-  },
-  {
-    "_id": 73,
-    "ru": "Эти файлы еще не были скачены",
-    "en": "These files haven't been downloaded yet"
-  },
-  {
-    "_id": 74,
-    "ru": "Дом будет построен в следующем году",
-    "en": "The house will be built next year"
-  },
-  {
-    "_id": 75,
-    "ru": "Это здание будет построено в следующем году",
-    "en": "This building will be constructed next year"
-  },
-  {
-    "_id": 76,
-    "ru": "Мой дом будет построен в следующем месяце",
-    "en": "My house will be built next month"
-  },
-  {
-    "_id": 77,
-    "ru": "За что они были наказаны?",
-    "en": "What were they punished for?"
-  },
-  {
-    "_id": 78,
-    "ru": "Они были наказаны за свое поведение",
-    "en": "They were punished for their behaviour"
-  },
-  {
-    "_id": 79,
-    "ru": "За что ты наказан?",
-    "en": "What are you punished for?"
-  },
-  {
-    "_id": 80,
-    "ru": "Что еще не сделано?",
-    "en": "What hasn't been done yet?"
-  },
-  {
-    "_id": 81,
-    "ru": "Все уже сделано",
-    "en": "Everything has already been done"
-  },
-  {
-    "_id": 82,
-    "ru": "Его часто критикуют очень резко",
-    "en": "He is often criticised very sharply"
-  },
-  {
-    "_id": 83,
-    "ru": "Его часто так резко критикуют",
-    "en": "He is often criticised so sharply"
-  },
-  {
-    "_id": 84,
-    "ru": "Его обычно критикуют за его поведение",
-    "en": "He is usually criticised for his behaviour"
-  },
-  {
-    "_id": 85,
-    "ru": "Еще две порции были принесены",
-    "en": "Two more portions were brought"
-  },
-  {
-    "_id": 86,
-    "ru": "Некоторые порции были принесены",
-    "en": "Some portions were brought"
-  },
-  {
-    "_id": 87,
-    "ru": "Еще две порции куплены",
-    "en": "Two more portions were bought"
-  },
-  {
-    "_id": 88,
-    "ru": "Он сказал, что он уже сделал это",
-    "en": "He said that he had already done it"
-  },
-  {
-    "_id": 89,
-    "ru": "Его сейчас очень резко критикуют",
-    "en": "He is being criticized very sharply now"
-  },
-  {
-    "_id": 90,
-    "ru": "Он сказал, что эти проблемы уже были решены",
-    "en": "He said that those problems had already been solved"
-  },
-  {
-    "_id": 91,
-    "ru": "Еще не все ошибки исправлены",
-    "en": "Not all the mistakes have been corrected yet"
-  },
-  {
-    "_id": 92,
-    "ru": "Его новый дом будет построен к следующему месяцу",
-    "en": "His new house will have been built by next month"
-  },
-  {
-    "_id": 93,
-    "ru": "Комнаты убираются в данный момент",
-    "en": "The rooms are being cleaned at the moment"
-  },
-  {
-    "_id": 94,
-    "ru": "Почему это еще не сделано?",
-    "en": "Why hasn't it been done yet?"
-  },
-  {
-    "_id": 95,
-    "ru": "Комната убиралась, когда они прибыли",
-    "en": "The room was being cleaned when they arrived"
-  },
-  {
-    "_id": 96,
-    "ru": "Деревня была изолирована от внешнего мира",
-    "en": "The village was isolated from the outside world"
-  },
-  {
-    "_id": 97,
-    "ru": "Комнату убирают сейчас",
-    "en": "The room is being cleaned now"
-  },
-  {
-    "_id": 98,
-    "ru": "Она сказала, что все файлы уже были скачаны",
-    "en": "She said that all the files had already been downloaded"
-  },
-  {
-    "_id": 99,
-    "ru": "Его хвалят сейчас",
-    "en": "He is being praised now"
-  },
-  {
-    "_id": 100,
-    "ru": "Что сейчас говорят?",
-    "en": "What is being said now?"
+    "id": 1,
+    "ru": {
+      "text": "Эти документы были подписаны недавно",
+      "audio": false
+    },
+    "en": {
+      "text": "These documents have been signed lately",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Эту машину уже сделали в Англии",
+      "audio": false
+    },
+    "en": {
+      "text": "This car has already been made in England",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Тебе рассказывают эту историю сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "You are being told this story now",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Этот дом строился им",
+      "audio": false
+    },
+    "en": {
+      "text": "This house was being built by him",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Меня обсуждают сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I am being discussed now",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Дорогу ремонтируют сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "The road is being repaired now",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Им рассказывают правду сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "They are being told the truth now",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Это обсуждалось в Японии",
+      "audio": false
+    },
+    "en": {
+      "text": "It was being discussed in Japan",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Эти проблемы решали в 3 вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "These problems were being solved at 3 yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Это еще не сделано",
+      "audio": false
+    },
+    "en": {
+      "text": "It hasn't been done yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Дорога сейчас ремонтируется",
+      "audio": false
+    },
+    "en": {
+      "text": "The road is being repaired now",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Новый коттедж строится сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "A new cottage is being built now",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Так много деревьев в настоящее время вырубаются",
+      "audio": false
+    },
+    "en": {
+      "text": "So many trees are being cut down nowadays",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Столовая сейчас ремонтируется",
+      "audio": false
+    },
+    "en": {
+      "text": "The canteen is being repaired now",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Это было запрещено делать",
+      "audio": false
+    },
+    "en": {
+      "text": "It was forbidden to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Двое рабочих уволены недавно",
+      "audio": false
+    },
+    "en": {
+      "text": "Two workers have been dismissed recently",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Дверь была открыта этим ключом",
+      "audio": false
+    },
+    "en": {
+      "text": "The door was opened with this key",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Машина сейчас ремонтируется",
+      "audio": false
+    },
+    "en": {
+      "text": "The car is being repaired now",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Новый небоскреб строится сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "A new skyscraper is being built now",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Эти вопросы сейчас обсуждаются",
+      "audio": false
+    },
+    "en": {
+      "text": "These questions are being discussed now",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Эта работа еще не проверена",
+      "audio": false
+    },
+    "en": {
+      "text": "This work hasn't been checked yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Эта проблема еще не обсуждалась",
+      "audio": false
+    },
+    "en": {
+      "text": "This problem hasn't been discussed yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Собор сейчас перестраивается",
+      "audio": false
+    },
+    "en": {
+      "text": "The cathedral is being rebuilt now",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Роман был прочитан ею",
+      "audio": false
+    },
+    "en": {
+      "text": "The novel was read by her",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Это было сказано очень вежливо",
+      "audio": false
+    },
+    "en": {
+      "text": "It was said very politely",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Это сейчас читают",
+      "audio": false
+    },
+    "en": {
+      "text": "It is being read now",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Это анализируют сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "It is being analysed now",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Монастырь перестраивается сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "The monastery is being rebuilt now",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Четыре новых сотрудника были наняты недавно",
+      "audio": false
+    },
+    "en": {
+      "text": "Four new employees have been hired recently",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Письмо уже отправлено",
+      "audio": false
+    },
+    "en": {
+      "text": "The letter has already been sent",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Новая машина была куплена им",
+      "audio": false
+    },
+    "en": {
+      "text": "A new car was bought by him",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Когда я вошел в комнату, это обсуждалось",
+      "audio": false
+    },
+    "en": {
+      "text": "When I entered the room, it was being discussed",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Двери сейчас закрываются",
+      "audio": false
+    },
+    "en": {
+      "text": "The doors are being closed now",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Эти проблемы сейчас решаются",
+      "audio": false
+    },
+    "en": {
+      "text": "These problems are being solved now",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Почему рабочий был уволен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was the worker dismissed?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Опрос уже проводился",
+      "audio": false
+    },
+    "en": {
+      "text": "The survey has already been conducted",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Так много деревьев вырублено",
+      "audio": false
+    },
+    "en": {
+      "text": "So many trees are cut down",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Этот дом продается сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "This house is being sold now",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Этот бестселлер продается во многих странах",
+      "audio": false
+    },
+    "en": {
+      "text": "This bestseller is sold in many countries",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Этот вопрос только что обсуждался",
+      "audio": false
+    },
+    "en": {
+      "text": "This question has just been discussed",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Музей сейчас реконструируется",
+      "audio": false
+    },
+    "en": {
+      "text": "The museum is being reconstructed now",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Новая столовая сейчас строится",
+      "audio": false
+    },
+    "en": {
+      "text": "A new canteen is being built now",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Опрос проводился на прошлой неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "The survey was conducted - last week",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Это часто говорится очень формально",
+      "audio": false
+    },
+    "en": {
+      "text": "It is often said very formally",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Потолок сейчас красится",
+      "audio": false
+    },
+    "en": {
+      "text": "The ceiling is being painted now",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Моя работа сейчас проверяется",
+      "audio": false
+    },
+    "en": {
+      "text": "My work is being checked now",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Когда я приехал в деревню, строился новый дом",
+      "audio": false
+    },
+    "en": {
+      "text": "When I came to the village, a new house was being built",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Это старинное здание сейчас реконструируется",
+      "audio": false
+    },
+    "en": {
+      "text": "This ancient building is being reconstructed now",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Потолок красили, когда он приехал",
+      "audio": false
+    },
+    "en": {
+      "text": "The ceiling was being painted when he arrived",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "За что были уволены рабочие?",
+      "audio": false
+    },
+    "en": {
+      "text": "What were the workers dismissed for?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Еда была разделена на несколько порций",
+      "audio": false
+    },
+    "en": {
+      "text": "The food was divided into several portions",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Все будет загружено к завтрашнему дню",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything will have been downloaded by tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Она сказала, что письмо уже было отправлено",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that the letter had already been sent",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Пока он болел, его учили дома",
+      "audio": false
+    },
+    "en": {
+      "text": "While he was ill, he was being taught at home",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Крыша отремонтирована этим летом",
+      "audio": false
+    },
+    "en": {
+      "text": "The roof has been repaired this summer",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Как уже было сказано, это стоит сделать",
+      "audio": false
+    },
+    "en": {
+      "text": "As it has already been said, it's worth doing",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Эта работа будет выполнена к январю",
+      "audio": false
+    },
+    "en": {
+      "text": "This work will have been done by January",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Остров изолирован от внешнего мира",
+      "audio": false
+    },
+    "en": {
+      "text": "The island is isolated from the outside world",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Эта программа скачивается сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "This program is being downloaded now",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Эту вещь покупают сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing is being bought now",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Это приложение загружается сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "This application is being downloaded now",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Что сейчас обсуждается?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is being discussed now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Это сейчас обсуждается",
+      "audio": false
+    },
+    "en": {
+      "text": "It is being discussed now",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Что сейчас показывается?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is being shown now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Что уже было сказано?",
+      "audio": false
+    },
+    "en": {
+      "text": "What has already been said?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Что уже сделано?",
+      "audio": false
+    },
+    "en": {
+      "text": "What has already been done?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Это уже сказано",
+      "audio": false
+    },
+    "en": {
+      "text": "It has already been said",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Еще не все сказано",
+      "audio": false
+    },
+    "en": {
+      "text": "Not everything has been said yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Все уже сказано",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything has been already said",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Все уже сказано?",
+      "audio": false
+    },
+    "en": {
+      "text": "Has everything already been said?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Документы еще не были отсканированы",
+      "audio": false
+    },
+    "en": {
+      "text": "The documents haven't been scanned yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Документы еще не были подписаны",
+      "audio": false
+    },
+    "en": {
+      "text": "The documents haven't been signed yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Эти файлы еще не были скачены",
+      "audio": false
+    },
+    "en": {
+      "text": "These files haven't been downloaded yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Дом будет построен в следующем году",
+      "audio": false
+    },
+    "en": {
+      "text": "The house will be built next year",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Это здание будет построено в следующем году",
+      "audio": false
+    },
+    "en": {
+      "text": "This building will be constructed next year",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Мой дом будет построен в следующем месяце",
+      "audio": false
+    },
+    "en": {
+      "text": "My house will be built next month",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "За что они были наказаны?",
+      "audio": false
+    },
+    "en": {
+      "text": "What were they punished for?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Они были наказаны за свое поведение",
+      "audio": false
+    },
+    "en": {
+      "text": "They were punished for their behaviour",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "За что ты наказан?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you punished for?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Что еще не сделано?",
+      "audio": false
+    },
+    "en": {
+      "text": "What hasn't been done yet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Все уже сделано",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything has already been done",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Его часто критикуют очень резко",
+      "audio": false
+    },
+    "en": {
+      "text": "He is often criticised very sharply",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Его часто так резко критикуют",
+      "audio": false
+    },
+    "en": {
+      "text": "He is often criticised so sharply",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Его обычно критикуют за его поведение",
+      "audio": false
+    },
+    "en": {
+      "text": "He is usually criticised for his behaviour",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Еще две порции были принесены",
+      "audio": false
+    },
+    "en": {
+      "text": "Two more portions were brought",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Некоторые порции были принесены",
+      "audio": false
+    },
+    "en": {
+      "text": "Some portions were brought",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Еще две порции куплены",
+      "audio": false
+    },
+    "en": {
+      "text": "Two more portions were bought",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Он сказал, что он уже сделал это",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had already done it",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Его сейчас очень резко критикуют",
+      "audio": false
+    },
+    "en": {
+      "text": "He is being criticized very sharply now",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Он сказал, что эти проблемы уже были решены",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that those problems had already been solved",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Еще не все ошибки исправлены",
+      "audio": false
+    },
+    "en": {
+      "text": "Not all the mistakes have been corrected yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Его новый дом будет построен к следующему месяцу",
+      "audio": false
+    },
+    "en": {
+      "text": "His new house will have been built by next month",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Комнаты убираются в данный момент",
+      "audio": false
+    },
+    "en": {
+      "text": "The rooms are being cleaned at the moment",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Почему это еще не сделано?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why hasn't it been done yet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Комната убиралась, когда они прибыли",
+      "audio": false
+    },
+    "en": {
+      "text": "The room was being cleaned when they arrived",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Деревня была изолирована от внешнего мира",
+      "audio": false
+    },
+    "en": {
+      "text": "The village was isolated from the outside world",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Комнату убирают сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "The room is being cleaned now",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Она сказала, что все файлы уже были скачаны",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that all the files had already been downloaded",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Его хвалят сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "He is being praised now",
+      "audio": false
+    }
+  },
+  {
+    "id": 100,
+    "ru": {
+      "text": "Что сейчас говорят?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is being said now?",
+      "audio": false
+    }
   }
 ]

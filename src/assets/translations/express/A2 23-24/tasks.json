@@ -1,122 +1,266 @@
 [
   {
-    "_id": 1,
-    "ru": "Что вы мне посоветуете делать в такой ситуации?",
-    "en": "What will you advise me to do in such a situation?"
+    "id": 1,
+    "ru": {
+      "text": "Что вы мне посоветуете делать в такой ситуации?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you advise me to do in such a situation?",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Девушка так красиво рисует",
-    "en": "The girl draws so beautifully"
+    "id": 2,
+    "ru": {
+      "text": "Девушка так красиво рисует",
+      "audio": false
+    },
+    "en": {
+      "text": "The girl draws so beautifully",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Мальчик ударил ногой по мячу",
-    "en": "The boy kicked the ball"
+    "id": 3,
+    "ru": {
+      "text": "Мальчик ударил ногой по мячу",
+      "audio": false
+    },
+    "en": {
+      "text": "The boy kicked the ball",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я не знаю, что делать сейчас",
-    "en": "I don't know what to do now"
+    "id": 4,
+    "ru": {
+      "text": "Я не знаю, что делать сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know what to do now",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Они строили дом очень медленно",
-    "en": "They were building a house very slowly"
+    "id": 5,
+    "ru": {
+      "text": "Они строили дом очень медленно",
+      "audio": false
+    },
+    "en": {
+      "text": "They were building a house very slowly",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Кто-то ударил в дверь очень сильно",
-    "en": "Someone hit the door very badly"
+    "id": 6,
+    "ru": {
+      "text": "Кто-то ударил в дверь очень сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "Someone hit the door very badly",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я никогда не мечтал об этом",
-    "en": "I have never dreamt about it"
+    "id": 7,
+    "ru": {
+      "text": "Я никогда не мечтал об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never dreamt about it",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Он сказал, что продал свою машину",
-    "en": "He said that he had sold his car"
+    "id": 8,
+    "ru": {
+      "text": "Он сказал, что продал свою машину",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had sold his car",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Ты всегда можешь рассчитывать на мою поддержку",
-    "en": "You can always count on my support"
+    "id": 9,
+    "ru": {
+      "text": "Ты всегда можешь рассчитывать на мою поддержку",
+      "audio": false
+    },
+    "en": {
+      "text": "You can always count on my support",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я полагаю, что достигну следующего уровня довольно скоро",
-    "en": "I suppose that I'll reach the next level quite soon"
+    "id": 10,
+    "ru": {
+      "text": "Я полагаю, что достигну следующего уровня довольно скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "I suppose that I'll reach the next level quite soon",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я всегда хотел здесь жить",
-    "en": "I have always wanted to live here"
+    "id": 11,
+    "ru": {
+      "text": "Я всегда хотел здесь жить",
+      "audio": false
+    },
+    "en": {
+      "text": "I have always wanted to live here",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я никогда не мечтал об этом, когда был ребенком",
-    "en": "I never dreamt about it when I was a child"
+    "id": 12,
+    "ru": {
+      "text": "Я никогда не мечтал об этом, когда был ребенком",
+      "audio": false
+    },
+    "en": {
+      "text": "I never dreamt about it when I was a child",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Он еще не ответил на мое сообщение",
-    "en": "He hasn't replied to my message yet"
+    "id": 13,
+    "ru": {
+      "text": "Он еще не ответил на мое сообщение",
+      "audio": false
+    },
+    "en": {
+      "text": "He hasn't replied to my message yet",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Ты можешь рассчитывать на мою поддержку",
-    "en": "You can count on my support"
+    "id": 14,
+    "ru": {
+      "text": "Ты можешь рассчитывать на мою поддержку",
+      "audio": false
+    },
+    "en": {
+      "text": "You can count on my support",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я только что говорил по-английски",
-    "en": "I've just spoken English"
+    "id": 15,
+    "ru": {
+      "text": "Я только что говорил по-английски",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just spoken English",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Он говорит, что он всегда обожал путешествовать",
-    "en": "He says that he's always enjoyed travelling"
+    "id": 16,
+    "ru": {
+      "text": "Он говорит, что он всегда обожал путешествовать",
+      "audio": false
+    },
+    "en": {
+      "text": "He says that he's always enjoyed travelling",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Он сказал мне, что она порекомендовала ему эту программу",
-    "en": "He told me that she had recommended this program to him"
+    "id": 17,
+    "ru": {
+      "text": "Он сказал мне, что она порекомендовала ему эту программу",
+      "audio": false
+    },
+    "en": {
+      "text": "He told me that she had recommended this program to him",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Он решил стать профессиональным музыкантом",
-    "en": "He decided to become a professional musician"
+    "id": 18,
+    "ru": {
+      "text": "Он решил стать профессиональным музыкантом",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided to become a professional musician",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Я только что пришел домой",
-    "en": "I've just come home"
+    "id": 19,
+    "ru": {
+      "text": "Я только что пришел домой",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just come home",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Урок уже начался",
-    "en": "The lesson has already begun"
+    "id": 20,
+    "ru": {
+      "text": "Урок уже начался",
+      "audio": false
+    },
+    "en": {
+      "text": "The lesson has already begun",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Послушай! Кто-то бьет в дверь",
-    "en": "Listen! Someone is hitting the door"
+    "id": 21,
+    "ru": {
+      "text": "Послушай! Кто-то бьет в дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "Listen! Someone is hitting the door",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Он порекомендовал мне это видео",
-    "en": "He recommended this video to me"
+    "id": 22,
+    "ru": {
+      "text": "Он порекомендовал мне это видео",
+      "audio": false
+    },
+    "en": {
+      "text": "He recommended this video to me",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Он сказал, что выразил свою личную точку зрения",
-    "en": "He said that he has expressed his personal point of view"
+    "id": 23,
+    "ru": {
+      "text": "Он сказал, что выразил свою личную точку зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he has expressed his personal point of view",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Мы часто обменивались своими идеями",
-    "en": "We often exchanged our ideas"
+    "id": 24,
+    "ru": {
+      "text": "Мы часто обменивались своими идеями",
+      "audio": false
+    },
+    "en": {
+      "text": "We often exchanged our ideas",
+      "audio": false
+    }
   }
 ]

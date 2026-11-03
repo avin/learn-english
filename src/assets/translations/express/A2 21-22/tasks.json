@@ -1,117 +1,255 @@
 [
   {
-    "_id": 1,
-    "ru": "Ты когда-нибудь рассматривал эту возможность?",
-    "en": "Have you ever considered this opportunity?"
+    "id": 1,
+    "ru": {
+      "text": "Ты когда-нибудь рассматривал эту возможность?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever considered this opportunity?",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Он сжег письмо",
-    "en": "He burnt the letter"
+    "id": 2,
+    "ru": {
+      "text": "Он сжег письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "He burnt the letter",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Тебе нужно нажать на кнопку",
-    "en": "You need to press the button"
+    "id": 3,
+    "ru": {
+      "text": "Тебе нужно нажать на кнопку",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to press the button",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я могу положиться на него",
-    "en": "I can rely on him"
+    "id": 4,
+    "ru": {
+      "text": "Я могу положиться на него",
+      "audio": false
+    },
+    "en": {
+      "text": "I can rely on him",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Мне нужно добавить одну очень важную вещь",
-    "en": "I need to add one very important thing"
+    "id": 5,
+    "ru": {
+      "text": "Мне нужно добавить одну очень важную вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to add one very important thing",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Нажми на кнопку!",
-    "en": "Press the button!"
+    "id": 6,
+    "ru": {
+      "text": "Нажми на кнопку!",
+      "audio": false
+    },
+    "en": {
+      "text": "Press the button!",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Когда он открыл дверь, он увидел незнакомца",
-    "en": "When he opened a door, he saw a stranger"
+    "id": 7,
+    "ru": {
+      "text": "Когда он открыл дверь, он увидел незнакомца",
+      "audio": false
+    },
+    "en": {
+      "text": "When he opened a door, he saw a stranger",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Откровенно говоря, я никогда не рассматривал эту возможность",
-    "en": "To be frank, I've never considered this opportunity"
+    "id": 8,
+    "ru": {
+      "text": "Откровенно говоря, я никогда не рассматривал эту возможность",
+      "audio": false
+    },
+    "en": {
+      "text": "To be frank, I've never considered this opportunity",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Это значит, что нам нужно быть осторожнее",
-    "en": "It means that we need to be more careful"
+    "id": 9,
+    "ru": {
+      "text": "Это значит, что нам нужно быть осторожнее",
+      "audio": false
+    },
+    "en": {
+      "text": "It means that we need to be more careful",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Она предложила мне чашку чая",
-    "en": "She offered me a cup of tea"
+    "id": 10,
+    "ru": {
+      "text": "Она предложила мне чашку чая",
+      "audio": false
+    },
+    "en": {
+      "text": "She offered me a cup of tea",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я уже дал ему совет",
-    "en": "I've already given him some advice"
+    "id": 11,
+    "ru": {
+      "text": "Я уже дал ему совет",
+      "audio": false
+    },
+    "en": {
+      "text": "I've already given him some advice",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я ожидаю, что в следующий раз это будет по-другому",
-    "en": "I expect that next time it'll be different"
+    "id": 12,
+    "ru": {
+      "text": "Я ожидаю, что в следующий раз это будет по-другому",
+      "audio": false
+    },
+    "en": {
+      "text": "I expect that next time it'll be different",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Ему нужно почистить машину",
-    "en": "He needs to clean the car"
+    "id": 13,
+    "ru": {
+      "text": "Ему нужно почистить машину",
+      "audio": false
+    },
+    "en": {
+      "text": "He needs to clean the car",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Кто-то стучал в дверь",
-    "en": "Someone was knocking at the door"
+    "id": 14,
+    "ru": {
+      "text": "Кто-то стучал в дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "Someone was knocking at the door",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я посмотрел на них и увидел, что они вели себя очень странно",
-    "en": "I looked at them and saw that they were behaving very strangely"
+    "id": 15,
+    "ru": {
+      "text": "Я посмотрел на них и увидел, что они вели себя очень странно",
+      "audio": false
+    },
+    "en": {
+      "text": "I looked at them and saw that they were behaving very strangely",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Она сказала, что прочитала ту книгу",
-    "en": "She said that she had read that book"
+    "id": 16,
+    "ru": {
+      "text": "Она сказала, что прочитала ту книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that she had read that book",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я всегда могу на него положиться",
-    "en": "I can always rely on him"
+    "id": 17,
+    "ru": {
+      "text": "Я всегда могу на него положиться",
+      "audio": false
+    },
+    "en": {
+      "text": "I can always rely on him",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Что ты имеешь в виду?",
-    "en": "What do you mean?"
+    "id": 18,
+    "ru": {
+      "text": "Что ты имеешь в виду?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do you mean?",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Когда ты вернешься домой?",
-    "en": "When will you return home?"
+    "id": 19,
+    "ru": {
+      "text": "Когда ты вернешься домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you return home?",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Эта речь действительно вдохновила аудиторию",
-    "en": "This speech really inspired the audience"
+    "id": 20,
+    "ru": {
+      "text": "Эта речь действительно вдохновила аудиторию",
+      "audio": false
+    },
+    "en": {
+      "text": "This speech really inspired the audience",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Они действительно убили его?",
-    "en": "Did they really kill him?"
+    "id": 21,
+    "ru": {
+      "text": "Они действительно убили его?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did they really kill him?",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Они предоставляют отличные условия",
-    "en": "They provide excellent conditions"
+    "id": 22,
+    "ru": {
+      "text": "Они предоставляют отличные условия",
+      "audio": false
+    },
+    "en": {
+      "text": "They provide excellent conditions",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Это принесло мне массу положительных эмоций",
-    "en": "It brought me lots of positive emotions"
+    "id": 23,
+    "ru": {
+      "text": "Это принесло мне массу положительных эмоций",
+      "audio": false
+    },
+    "en": {
+      "text": "It brought me lots of positive emotions",
+      "audio": false
+    }
   }
 ]

@@ -1,202 +1,442 @@
 [
   {
-    "_id": 1,
-    "ru": "Она не расскажет ему об этом",
-    "en": "She won't tell him about it"
+    "id": 1,
+    "ru": {
+      "text": "Она не расскажет ему об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "She won't tell him about it",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Она не согласится",
-    "en": "She won't agree"
+    "id": 2,
+    "ru": {
+      "text": "Она не согласится",
+      "audio": false
+    },
+    "en": {
+      "text": "She won't agree",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Они не будут слушать это",
-    "en": "They won't listen to it"
+    "id": 3,
+    "ru": {
+      "text": "Они не будут слушать это",
+      "audio": false
+    },
+    "en": {
+      "text": "They won't listen to it",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Он не узнает об этом",
-    "en": "He won't know about it"
+    "id": 4,
+    "ru": {
+      "text": "Он не узнает об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't know about it",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Он не поймет это",
-    "en": "He won't understand it"
+    "id": 5,
+    "ru": {
+      "text": "Он не поймет это",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't understand it",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Он не придет сюда завтра",
-    "en": "He won't come here tomorrow"
+    "id": 6,
+    "ru": {
+      "text": "Он не придет сюда завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't come here tomorrow",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Он не пойдет на встречу",
-    "en": "He won't go to the meeting"
+    "id": 7,
+    "ru": {
+      "text": "Он не пойдет на встречу",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't go to the meeting",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я не буду отвечать на это сообщение",
-    "en": "I won't answer this message"
+    "id": 8,
+    "ru": {
+      "text": "Я не буду отвечать на это сообщение",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't answer this message",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я не буду отвечать на это письмо",
-    "en": "I won't answer this letter"
+    "id": 9,
+    "ru": {
+      "text": "Я не буду отвечать на это письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't answer this letter",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я думаю, он не согласится",
-    "en": "I think he won't agree"
+    "id": 10,
+    "ru": {
+      "text": "Я думаю, он не согласится",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he won't agree",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Она не пойдет на работу",
-    "en": "She won't go to work"
+    "id": 11,
+    "ru": {
+      "text": "Она не пойдет на работу",
+      "audio": false
+    },
+    "en": {
+      "text": "She won't go to work",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Они не будут говорить об этом",
-    "en": "They won't talk about it"
+    "id": 12,
+    "ru": {
+      "text": "Они не будут говорить об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "They won't talk about it",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Он не будет слушать это",
-    "en": "He won't listen to it"
+    "id": 13,
+    "ru": {
+      "text": "Он не будет слушать это",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't listen to it",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Мы не пойдем на пляж завтра",
-    "en": "We won't go to the beach tomorrow"
+    "id": 14,
+    "ru": {
+      "text": "Мы не пойдем на пляж завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "We won't go to the beach tomorrow",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Мы не будем встречаться завтра",
-    "en": "We won't meet tomorrow"
+    "id": 15,
+    "ru": {
+      "text": "Мы не будем встречаться завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "We won't meet tomorrow",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Я не приду туда завтра",
-    "en": "I won't come there tomorrow"
+    "id": 16,
+    "ru": {
+      "text": "Я не приду туда завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't come there tomorrow",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Мы не пойдем туда",
-    "en": "We won't go there"
+    "id": 17,
+    "ru": {
+      "text": "Мы не пойдем туда",
+      "audio": false
+    },
+    "en": {
+      "text": "We won't go there",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Я не пойду туда",
-    "en": "I won't go there"
+    "id": 18,
+    "ru": {
+      "text": "Я не пойду туда",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't go there",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Это не будет интересно тебе",
-    "en": "It won't be interesting for you"
+    "id": 19,
+    "ru": {
+      "text": "Это не будет интересно тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "It won't be interesting for you",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Я не буду играть в эту игру",
-    "en": "I won't play this game"
+    "id": 20,
+    "ru": {
+      "text": "Я не буду играть в эту игру",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't play this game",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Я не поеду в город завтра",
-    "en": "I won't go to the city tomorrow"
+    "id": 21,
+    "ru": {
+      "text": "Я не поеду в город завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't go to the city tomorrow",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Я не буду делать это",
-    "en": "I won't do it"
+    "id": 22,
+    "ru": {
+      "text": "Я не буду делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't do it",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Я не буду платить за это",
-    "en": "I won't pay for it"
+    "id": 23,
+    "ru": {
+      "text": "Я не буду платить за это",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't pay for it",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Я думаю, ему не понравится эта идея",
-    "en": "I think he won't like this idea"
+    "id": 24,
+    "ru": {
+      "text": "Я думаю, ему не понравится эта идея",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he won't like this idea",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Я не буду тратить свое время на это",
-    "en": "I won't spend my time on it"
+    "id": 25,
+    "ru": {
+      "text": "Я не буду тратить свое время на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't spend my time on it",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Он не скажет это",
-    "en": "He won't say it"
+    "id": 26,
+    "ru": {
+      "text": "Он не скажет это",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't say it",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Я не буду танцевать",
-    "en": "I won't dance"
+    "id": 27,
+    "ru": {
+      "text": "Я не буду танцевать",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't dance",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Я думаю, это не поможет тебе",
-    "en": "I think it won't help you"
+    "id": 28,
+    "ru": {
+      "text": "Я думаю, это не поможет тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it won't help you",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Я не буду ждать этого",
-    "en": "I won't wait for it"
+    "id": 29,
+    "ru": {
+      "text": "Я не буду ждать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't wait for it",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Они не будут играть",
-    "en": "They won't play"
+    "id": 30,
+    "ru": {
+      "text": "Они не будут играть",
+      "audio": false
+    },
+    "en": {
+      "text": "They won't play",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Он не поверит этому",
-    "en": "He won't believe it"
+    "id": 31,
+    "ru": {
+      "text": "Он не поверит этому",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't believe it",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Я не буду занят",
-    "en": "I won't be busy"
+    "id": 32,
+    "ru": {
+      "text": "Я не буду занят",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't be busy",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Я не пойду в парк сегодня",
-    "en": "I won't go to the park today"
+    "id": 33,
+    "ru": {
+      "text": "Я не пойду в парк сегодня",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't go to the park today",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Я не буду ждать его",
-    "en": "I won't wait for him"
+    "id": 34,
+    "ru": {
+      "text": "Я не буду ждать его",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't wait for him",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Я думаю, это не поможет ему",
-    "en": "I think it won't help him"
+    "id": 35,
+    "ru": {
+      "text": "Я думаю, это не поможет ему",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it won't help him",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Я не буду занят завтра",
-    "en": "I won't be busy tomorrow"
+    "id": 36,
+    "ru": {
+      "text": "Я не буду занят завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't be busy tomorrow",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Она не пойдет на вечеринку",
-    "en": "She won't go to the party"
+    "id": 37,
+    "ru": {
+      "text": "Она не пойдет на вечеринку",
+      "audio": false
+    },
+    "en": {
+      "text": "She won't go to the party",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Мы не будем его ждать",
-    "en": "We won't wait for him"
+    "id": 38,
+    "ru": {
+      "text": "Мы не будем его ждать",
+      "audio": false
+    },
+    "en": {
+      "text": "We won't wait for him",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Я не пойду на пляж сегодня",
-    "en": "I won't go to the beach today"
+    "id": 39,
+    "ru": {
+      "text": "Я не пойду на пляж сегодня",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't go to the beach today",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Я не буду отвечать",
-    "en": "I won't answer"
+    "id": 40,
+    "ru": {
+      "text": "Я не буду отвечать",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't answer",
+      "audio": false
+    }
   }
 ]

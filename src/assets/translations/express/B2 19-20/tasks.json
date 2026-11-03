@@ -1,82 +1,178 @@
 [
   {
-    "_id": 1,
-    "ru": "Они выдвинули несколько предложений",
-    "en": "They put forward several suggestions"
+    "id": 1,
+    "ru": {
+      "text": "Они выдвинули несколько предложений",
+      "audio": false
+    },
+    "en": {
+      "text": "They put forward several suggestions",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Она сказала, что ей нужно вернуть те деньги ему",
-    "en": "She said that she needed to give back that money to him"
+    "id": 2,
+    "ru": {
+      "text": "Она сказала, что ей нужно вернуть те деньги ему",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that she needed to give back that money to him",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Тебе нужно выйти из своей учетной записи",
-    "en": "You need to sign out of your account"
+    "id": 3,
+    "ru": {
+      "text": "Тебе нужно выйти из своей учетной записи",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to sign out of your account",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Так держать!",
-    "en": "Keep it up!"
+    "id": 4,
+    "ru": {
+      "text": "Так держать!",
+      "audio": false
+    },
+    "en": {
+      "text": "Keep it up!",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Продолжай хорошую работу!",
-    "en": "Keep up the good work!"
+    "id": 5,
+    "ru": {
+      "text": "Продолжай хорошую работу!",
+      "audio": false
+    },
+    "en": {
+      "text": "Keep up the good work!",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Самолет взлетит через минуту",
-    "en": "The plane will take off in a minute"
+    "id": 6,
+    "ru": {
+      "text": "Самолет взлетит через минуту",
+      "audio": false
+    },
+    "en": {
+      "text": "The plane will take off in a minute",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Не забудь выйти из своей учетной записи!",
-    "en": "Don't forget to sign out of your account!"
+    "id": 7,
+    "ru": {
+      "text": "Не забудь выйти из своей учетной записи!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't forget to sign out of your account!",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Ну же, пошли!",
-    "en": "Come on, let's go!"
+    "id": 8,
+    "ru": {
+      "text": "Ну же, пошли!",
+      "audio": false
+    },
+    "en": {
+      "text": "Come on, let's go!",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Было объявлено, что самолет взлетит через час",
-    "en": "It was announced that the plane would take off in an hour"
+    "id": 9,
+    "ru": {
+      "text": "Было объявлено, что самолет взлетит через час",
+      "audio": false
+    },
+    "en": {
+      "text": "It was announced that the plane would take off in an hour",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Используй свою учетную запись чтобы зайти",
-    "en": "Use your account to sign in"
+    "id": 10,
+    "ru": {
+      "text": "Используй свою учетную запись чтобы зайти",
+      "audio": false
+    },
+    "en": {
+      "text": "Use your account to sign in",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Кто компенсирует эти потери?",
-    "en": "Who will make up for these losses?"
+    "id": 11,
+    "ru": {
+      "text": "Кто компенсирует эти потери?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will make up for these losses?",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Ему нужно вернуть эти деньги",
-    "en": "He needs to give back this money"
+    "id": 12,
+    "ru": {
+      "text": "Ему нужно вернуть эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "He needs to give back this money",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Ну же, давай поторопимся!",
-    "en": "Come on, let's hurry up!"
+    "id": 13,
+    "ru": {
+      "text": "Ну же, давай поторопимся!",
+      "audio": false
+    },
+    "en": {
+      "text": "Come on, let's hurry up!",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Она так устала, что решила прилечь",
-    "en": "She was so tired that she decided to lie down"
+    "id": 14,
+    "ru": {
+      "text": "Она так устала, что решила прилечь",
+      "audio": false
+    },
+    "en": {
+      "text": "She was so tired that she decided to lie down",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я хотел бы прилечь на некоторое время",
-    "en": "I'd like to lie down for a while"
+    "id": 15,
+    "ru": {
+      "text": "Я хотел бы прилечь на некоторое время",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to lie down for a while",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Тебе нужно авторизоваться",
-    "en": "You need to sign in"
+    "id": 16,
+    "ru": {
+      "text": "Тебе нужно авторизоваться",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to sign in",
+      "audio": false
+    }
   }
 ]

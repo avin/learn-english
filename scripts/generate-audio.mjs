@@ -1,10 +1,41 @@
-import { readFile, readdir, rename, stat, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, readdir, rename, stat, writeFile } from 'node:fs/promises';
 import { dirname, join, relative, resolve } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { parseArgs } from 'node:util';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const translationsDirectory = join(root, 'src/assets/translations');
+
+export function audioFilename(id, language) {
+  return `audio/${String(id).padStart(3, '0')}_${language}.m4a`;
+}
+
+export async function writeTasks(document) {
+  await writeFile(`${document.path}.tmp`, JSON.stringify(document.tasks, null, 2) + '\n');
+  await rename(`${document.path}.tmp`, document.path);
+}
+
+export async function syncAudioFlags(document) {
+  let changed = false;
+  for (const task of document.tasks) {
+    for (const language of ['ru', 'en']) {
+      const exists = await hasAudio(join(dirname(document.path), audioFilename(task.id, language)));
+      if (task[language].audio !== exists) {
+        task[language].audio = exists;
+        changed = true;
+      }
+    }
+  }
+  if (changed) await writeTasks(document);
+}
+
+export async function loadAudioJobs(tasksFile, languages, voices) {
+  const tasks = JSON.parse(await readFile(tasksFile, 'utf8'));
+  return planAudio(tasks, languages, voices, tasksFile).map((job) => ({
+    ...job,
+    outputDirectory: dirname(tasksFile),
+  }));
+}
 
 export async function selectLessons(directory, patterns, all = false) {
   if (all && patterns.length) throw new Error('Use lesson patterns or --all, not both.');
@@ -63,18 +94,20 @@ export async function pendingAudio(jobs, limit = Infinity) {
   return { pending, skipped, remaining: missing - pending.length };
 }
 
-export function planAudio(tasks, languages, voices) {
+export function planAudio(tasks, languages, voices, tasksFile) {
   if (!Array.isArray(tasks)) throw new Error('tasks.json must contain an array.');
+  const document = tasksFile ? { path: tasksFile, tasks } : undefined;
   const ids = new Set();
   return tasks.flatMap((task) => {
-    if (!Number.isSafeInteger(task._id) || task._id < 0 || ids.has(task._id)) {
-      throw new Error(`Invalid or duplicate _id: ${task._id}`);
+    if (!Number.isSafeInteger(task.id) || task.id < 0 || ids.has(task.id)) {
+      throw new Error(`Invalid or duplicate id: ${task.id}`);
     }
-    ids.add(task._id);
+    ids.add(task.id);
     return languages.map((language) => {
-      const text = task[language];
+      const phrase = task[language];
+      const text = phrase?.text;
       if (typeof text !== 'string' || !text.trim()) {
-        throw new Error(`Empty ${language} text for _id=${task._id}`);
+        throw new Error(`Empty ${language} text for id=${task.id}`);
       }
       if (!voices[language]?.trim()) throw new Error(`Missing voice for ${language}.`);
       const config = {
@@ -86,7 +119,7 @@ export function planAudio(tasks, languages, voices) {
         bitrate: 64000,
         text,
       };
-      return { filename: `${language}_${task._id}.m4a`, config };
+      return { filename: audioFilename(task.id, language), config, phrase, document };
     });
   });
 }
@@ -131,6 +164,10 @@ export async function generateAudio({
   limit = Infinity,
   dryRun = false,
 }) {
+  if (!dryRun) {
+    const documents = new Set(jobs.map((job) => job.document).filter(Boolean));
+    for (const document of documents) await syncAudioFlags(document);
+  }
   const { pending, skipped, remaining } = await pendingAudio(
     jobs.map((job) => ({ ...job, outputDirectory: job.outputDirectory ?? outputDirectory })),
     limit,
@@ -148,11 +185,14 @@ export async function generateAudio({
   let requests = 0;
   for (const [index, job] of pending.entries()) {
     if (!apiKey) throw new Error('Set SONIOX_API_KEY in .env.soniox.local.');
+    const destination = join(job.outputDirectory, job.filename);
+    await mkdir(dirname(destination), { recursive: true });
     const data = await request(job.config, apiKey);
     requests++;
-    const destination = join(job.outputDirectory, job.filename);
     await writeFile(`${destination}.tmp`, data);
     await rename(`${destination}.tmp`, destination);
+    job.phrase.audio = true;
+    if (job.document) await writeTasks(job.document);
     console.log(`[${index + 1}/${pending.length}] ${destination}: ready`);
   }
   console.log(
@@ -189,13 +229,7 @@ async function main() {
   const lessons = await selectLessons(translationsDirectory, positionals, values.all);
   const jobs = [];
   for (const lesson of lessons) {
-    const tasks = JSON.parse(await readFile(lesson.tasksFile, 'utf8'));
-    jobs.push(
-      ...planAudio(tasks, languages, voices).map((job) => ({
-        ...job,
-        outputDirectory: dirname(lesson.tasksFile),
-      })),
-    );
+    jobs.push(...(await loadAudioJobs(lesson.tasksFile, languages, voices)));
   }
   console.log(`Lessons: ${lessons.length}`);
   console.log(`Files: ${jobs.length}`);

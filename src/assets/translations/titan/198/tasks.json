@@ -1,412 +1,904 @@
 [
   {
-    "_id": 1,
-    "ru": "Фильм довольно скучный",
-    "en": "The movie is rather boring"
-  },
-  {
-    "_id": 2,
-    "ru": "Это обычная вещь для нее",
-    "en": "It is a usual thing for her"
-  },
-  {
-    "_id": 3,
-    "ru": "Это был такой значительный шаг вперед",
-    "en": "It was such a significant step forward"
-  },
-  {
-    "_id": 4,
-    "ru": "Ты действительно такой талантливый человек",
-    "en": "You are really such a talented person"
-  },
-  {
-    "_id": 5,
-    "ru": "В настоящее время он работает над другим проектом",
-    "en": "He is currently working on another project"
-  },
-  {
-    "_id": 6,
-    "ru": "Я чувствую, что я учу английский очень эффективно",
-    "en": "I feel that I learn English very effectively"
-  },
-  {
-    "_id": 7,
-    "ru": "Он был очень откровенен с нами во всем",
-    "en": "He was very frank with us about everything"
-  },
-  {
-    "_id": 8,
-    "ru": "Компания значительно увеличила цену",
-    "en": "The company increased the price significantly"
-  },
-  {
-    "_id": 9,
-    "ru": "Эта страна имеет очень богатые природные ресурсы",
-    "en": "This country has very rich natural resources"
-  },
-  {
-    "_id": 10,
-    "ru": "Это довольно скучная программа",
-    "en": "It is a rather boring program"
-  },
-  {
-    "_id": 11,
-    "ru": "Я нахожу эту цену вполне разумной",
-    "en": "I find this price quite reasonable"
-  },
-  {
-    "_id": 12,
-    "ru": "Эта еда содержит только натуральные ингредиенты",
-    "en": "This food contains only natural ingredients"
-  },
-  {
-    "_id": 13,
-    "ru": "Он отвечает на все эти письма лично",
-    "en": "He answers all these letters personally"
-  },
-  {
-    "_id": 14,
-    "ru": "Он всегда водит машину очень осторожно",
-    "en": "He always drives a car very carefully"
-  },
-  {
-    "_id": 15,
-    "ru": "Та идея звучит довольно странно",
-    "en": "That idea sounds pretty strange"
-  },
-  {
-    "_id": 16,
-    "ru": "Ты действительно такой талантливый",
-    "en": "You are really so talented"
-  },
-  {
-    "_id": 17,
-    "ru": "Я нахожу эту вещь довольно дешевой",
-    "en": "I find that thing quite cheap"
-  },
-  {
-    "_id": 18,
-    "ru": "Я чувствую настоящий прогресс",
-    "en": "I feel real progress"
-  },
-  {
-    "_id": 19,
-    "ru": "Это не настоящее его имя",
-    "en": "It isn't his real name"
-  },
-  {
-    "_id": 20,
-    "ru": "Это вполне разумная цена",
-    "en": "It is quite a reasonable price"
-  },
-  {
-    "_id": 21,
-    "ru": "Это мое личное достижение",
-    "en": "It is my personal achievement"
-  },
-  {
-    "_id": 22,
-    "ru": "Эти меры недостаточно эффективны",
-    "en": "These measures aren't effective enough"
-  },
-  {
-    "_id": 23,
-    "ru": "Эта идея довольно крутая",
-    "en": "This idea is pretty cool"
-  },
-  {
-    "_id": 24,
-    "ru": "Она очень красивая девушка",
-    "en": "She is a very pretty girl"
-  },
-  {
-    "_id": 25,
-    "ru": "Я могу сделать это очень легко",
-    "en": "I can do it very easily"
-  },
-  {
-    "_id": 26,
-    "ru": "Это довольно дешевая вещь",
-    "en": "It is quite a cheap thing"
-  },
-  {
-    "_id": 27,
-    "ru": "Я хочу говорить по-английски более естественно",
-    "en": "I want to speak English more naturally"
-  },
-  {
-    "_id": 28,
-    "ru": "Он был очень кратким с нами",
-    "en": "He was very brief with us"
-  },
-  {
-    "_id": 29,
-    "ru": "Это довольно унылая история",
-    "en": "It is a rather dull story"
-  },
-  {
-    "_id": 30,
-    "ru": "Я решил все эти проблемы довольно легко",
-    "en": "I solved all these problems pretty easily"
-  },
-  {
-    "_id": 31,
-    "ru": "Ты можешь сказать ему эту вещь лично",
-    "en": "You can tell him this thing personally"
-  },
-  {
-    "_id": 32,
-    "ru": "Все довольно ясно сейчас",
-    "en": "Everything is pretty clear now"
-  },
-  {
-    "_id": 33,
-    "ru": "Он всегда осторожен с деньгами",
-    "en": "He is always careful with money"
-  },
-  {
-    "_id": 34,
-    "ru": "Он довольно ленивый мальчик",
-    "en": "He is quite a lazy boy"
-  },
-  {
-    "_id": 35,
-    "ru": "Это довольно дорого",
-    "en": "It is pretty expensive"
-  },
-  {
-    "_id": 36,
-    "ru": "Это настоящее достижение",
-    "en": "It's a real achievement"
-  },
-  {
-    "_id": 37,
-    "ru": "Я нахожу эту книгу довольно скучной",
-    "en": "I find this book rather boring"
-  },
-  {
-    "_id": 38,
-    "ru": "Это было довольно интересное открытие",
-    "en": "It was quite an interesting discovery"
-  },
-  {
-    "_id": 39,
-    "ru": "Что люди могут сделать в нынешней ситуации?",
-    "en": "What can people do in the current situation?"
-  },
-  {
-    "_id": 40,
-    "ru": "Возможно, что такого рода вещи произойдут снова",
-    "en": "It is possible that this kind of things will happen again"
-  },
-  {
-    "_id": 41,
-    "ru": "Короче говоря, это превзошло мои ожидания",
-    "en": "Shorty speaking, it exceeded my expectations"
-  },
-  {
-    "_id": 42,
-    "ru": "Я не читаю ежедневные газеты",
-    "en": "I don't read daily newspapers"
-  },
-  {
-    "_id": 43,
-    "ru": "Он опаздывает как обычно",
-    "en": "He is late as usual"
-  },
-  {
-    "_id": 44,
-    "ru": "Я вполне уверен, что это будет так",
-    "en": "I am pretty sure that it will be so"
-  },
-  {
-    "_id": 45,
-    "ru": "Я абсолютно уверен, что все будет хорошо",
-    "en": "I am absolutely sure that it will be alright"
-  },
-  {
-    "_id": 46,
-    "ru": "Я абсолютно согласен, что это будет так",
-    "en": "I absolutely agree that it will be so"
-  },
-  {
-    "_id": 47,
-    "ru": "Лично я предпочитаю другую вещь",
-    "en": "Personally, I prefer another thing"
-  },
-  {
-    "_id": 48,
-    "ru": "Лично я предпочитаю другие вещи",
-    "en": "Personally, I prefer other things"
-  },
-  {
-    "_id": 49,
-    "ru": "Лично мне нравится другая вещь",
-    "en": "Personally, I like another thing"
-  },
-  {
-    "_id": 50,
-    "ru": "Короче говоря, все прошло гладко",
-    "en": "To be short, everything went smoothly"
-  },
-  {
-    "_id": 51,
-    "ru": "Короче говоря, все прошло очень хорошо",
-    "en": "To be short, everything went very well"
-  },
-  {
-    "_id": 52,
-    "ru": "Короче говоря, все было хорошо",
-    "en": "To be short, everything was alright"
-  },
-  {
-    "_id": 53,
-    "ru": "Честно говоря, я ожидал гораздо большего",
-    "en": "To be frank, I expected much more"
-  },
-  {
-    "_id": 54,
-    "ru": "Честно говоря, я ожидал гораздо меньшего",
-    "en": "To be frank, I expected much less"
-  },
-  {
-    "_id": 55,
-    "ru": "Честно говоря, я этого не ожидал",
-    "en": "To be frank, I didn't expect it"
-  },
-  {
-    "_id": 56,
-    "ru": "Возможно, это произойдет",
-    "en": "Possibly, it will happen"
-  },
-  {
-    "_id": 57,
-    "ru": "Возможно, этого не произойдет",
-    "en": "Possibly, it won't happen"
-  },
-  {
-    "_id": 58,
-    "ru": "Возможно, это произойдет снова",
-    "en": "Possibly, it will happen again"
-  },
-  {
-    "_id": 59,
-    "ru": "Он очень опаздывает, как обычно",
-    "en": "He is very late as usual"
-  },
-  {
-    "_id": 60,
-    "ru": "Он очень опоздал, как всегда",
-    "en": "He was very late as always"
-  },
-  {
-    "_id": 61,
-    "ru": "Я вполне уверен, что все будет хорошо",
-    "en": "I am pretty sure that everything will be alright"
-  },
-  {
-    "_id": 62,
-    "ru": "Я абсолютно уверен, что с тобой все будет хорошо",
-    "en": "I am absolutely sure that you will be alright"
-  },
-  {
-    "_id": 63,
-    "ru": "Я не уверен, что все будет хорошо",
-    "en": "I am not sure that everything will be alright"
-  },
-  {
-    "_id": 64,
-    "ru": "Возможно, я сделаю это в следующий раз",
-    "en": "Probably, I will do it next time"
-  },
-  {
-    "_id": 65,
-    "ru": "Возможно, я сделаю это однажды",
-    "en": "Probably, I will do it one day"
-  },
-  {
-    "_id": 66,
-    "ru": "Возможно, я сделаю это завтра",
-    "en": "Probably, I will do it tomorrow"
-  },
-  {
-    "_id": 67,
-    "ru": "Ты читаешь ежедневные новости?",
-    "en": "Do you read daily news?"
-  },
-  {
-    "_id": 68,
-    "ru": "Ты слышал эту новость?",
-    "en": "Did you hear this news?"
-  },
-  {
-    "_id": 69,
-    "ru": "Ты уже читал эту новость?",
-    "en": "Have you already read this news?"
-  },
-  {
-    "_id": 70,
-    "ru": "Эта услуга в настоящее время недоступна",
-    "en": "This service is currently unavailable"
-  },
-  {
-    "_id": 71,
-    "ru": "Эта услуга доступна сейчас",
-    "en": "This service is available now"
-  },
-  {
-    "_id": 72,
-    "ru": "Этот сайт в настоящее время недоступен",
-    "en": "This website is currently unavailable"
-  },
-  {
-    "_id": 73,
-    "ru": "Почему он так неосторожно водит машину?",
-    "en": "Why does he drive a car so carelessly?"
-  },
-  {
-    "_id": 74,
-    "ru": "Честно говоря, я не мог поверить своим глазам сначала",
-    "en": "Frankly, I couldn't believe my eyes at first"
-  },
-  {
-    "_id": 75,
-    "ru": "Возможно, что такая ситуация повторится",
-    "en": "It is possible that such a situation will repeat"
-  },
-  {
-    "_id": 76,
-    "ru": "Я был довольно разочарован его ответом",
-    "en": "I was pretty disappointed with his answer"
-  },
-  {
-    "_id": 77,
-    "ru": "Конечно, это значительная сумма денег",
-    "en": "Of course, it is a significant sum of money"
-  },
-  {
-    "_id": 78,
-    "ru": "Это не сильно поможет тебе в реальной жизни",
-    "en": "It won't help you much in real life"
-  },
-  {
-    "_id": 79,
-    "ru": "Честно говоря, в начале я не поверил ему",
-    "en": "Honestly, I didn't believe him in the beginning"
-  },
-  {
-    "_id": 80,
-    "ru": "Текущий уровень занятости очень высокий",
-    "en": "The current level of employment is very high"
-  },
-  {
-    "_id": 81,
-    "ru": "Это легко сказать, но это не так легко сделать",
-    "en": "It is easy to say it but it isn't so easy to do it"
-  },
-  {
-    "_id": 82,
-    "ru": "Возможно, я буду здесь завтра",
-    "en": "Possibly, I will be here tomorrow"
+    "id": 1,
+    "ru": {
+      "text": "Фильм довольно скучный",
+      "audio": false
+    },
+    "en": {
+      "text": "The movie is rather boring",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Это обычная вещь для нее",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a usual thing for her",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Это был такой значительный шаг вперед",
+      "audio": false
+    },
+    "en": {
+      "text": "It was such a significant step forward",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Ты действительно такой талантливый человек",
+      "audio": false
+    },
+    "en": {
+      "text": "You are really such a talented person",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "В настоящее время он работает над другим проектом",
+      "audio": false
+    },
+    "en": {
+      "text": "He is currently working on another project",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я чувствую, что я учу английский очень эффективно",
+      "audio": false
+    },
+    "en": {
+      "text": "I feel that I learn English very effectively",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Он был очень откровенен с нами во всем",
+      "audio": false
+    },
+    "en": {
+      "text": "He was very frank with us about everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Компания значительно увеличила цену",
+      "audio": false
+    },
+    "en": {
+      "text": "The company increased the price significantly",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Эта страна имеет очень богатые природные ресурсы",
+      "audio": false
+    },
+    "en": {
+      "text": "This country has very rich natural resources",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Это довольно скучная программа",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a rather boring program",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я нахожу эту цену вполне разумной",
+      "audio": false
+    },
+    "en": {
+      "text": "I find this price quite reasonable",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Эта еда содержит только натуральные ингредиенты",
+      "audio": false
+    },
+    "en": {
+      "text": "This food contains only natural ingredients",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он отвечает на все эти письма лично",
+      "audio": false
+    },
+    "en": {
+      "text": "He answers all these letters personally",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Он всегда водит машину очень осторожно",
+      "audio": false
+    },
+    "en": {
+      "text": "He always drives a car very carefully",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Та идея звучит довольно странно",
+      "audio": false
+    },
+    "en": {
+      "text": "That idea sounds pretty strange",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Ты действительно такой талантливый",
+      "audio": false
+    },
+    "en": {
+      "text": "You are really so talented",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я нахожу эту вещь довольно дешевой",
+      "audio": false
+    },
+    "en": {
+      "text": "I find that thing quite cheap",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я чувствую настоящий прогресс",
+      "audio": false
+    },
+    "en": {
+      "text": "I feel real progress",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Это не настоящее его имя",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't his real name",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Это вполне разумная цена",
+      "audio": false
+    },
+    "en": {
+      "text": "It is quite a reasonable price",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Это мое личное достижение",
+      "audio": false
+    },
+    "en": {
+      "text": "It is my personal achievement",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Эти меры недостаточно эффективны",
+      "audio": false
+    },
+    "en": {
+      "text": "These measures aren't effective enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Эта идея довольно крутая",
+      "audio": false
+    },
+    "en": {
+      "text": "This idea is pretty cool",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Она очень красивая девушка",
+      "audio": false
+    },
+    "en": {
+      "text": "She is a very pretty girl",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Я могу сделать это очень легко",
+      "audio": false
+    },
+    "en": {
+      "text": "I can do it very easily",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Это довольно дешевая вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "It is quite a cheap thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я хочу говорить по-английски более естественно",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to speak English more naturally",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Он был очень кратким с нами",
+      "audio": false
+    },
+    "en": {
+      "text": "He was very brief with us",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Это довольно унылая история",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a rather dull story",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я решил все эти проблемы довольно легко",
+      "audio": false
+    },
+    "en": {
+      "text": "I solved all these problems pretty easily",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Ты можешь сказать ему эту вещь лично",
+      "audio": false
+    },
+    "en": {
+      "text": "You can tell him this thing personally",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Все довольно ясно сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything is pretty clear now",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Он всегда осторожен с деньгами",
+      "audio": false
+    },
+    "en": {
+      "text": "He is always careful with money",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он довольно ленивый мальчик",
+      "audio": false
+    },
+    "en": {
+      "text": "He is quite a lazy boy",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Это довольно дорого",
+      "audio": false
+    },
+    "en": {
+      "text": "It is pretty expensive",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Это настоящее достижение",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a real achievement",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я нахожу эту книгу довольно скучной",
+      "audio": false
+    },
+    "en": {
+      "text": "I find this book rather boring",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Это было довольно интересное открытие",
+      "audio": false
+    },
+    "en": {
+      "text": "It was quite an interesting discovery",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Что люди могут сделать в нынешней ситуации?",
+      "audio": false
+    },
+    "en": {
+      "text": "What can people do in the current situation?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Возможно, что такого рода вещи произойдут снова",
+      "audio": false
+    },
+    "en": {
+      "text": "It is possible that this kind of things will happen again",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Короче говоря, это превзошло мои ожидания",
+      "audio": false
+    },
+    "en": {
+      "text": "Shorty speaking, it exceeded my expectations",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я не читаю ежедневные газеты",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't read daily newspapers",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Он опаздывает как обычно",
+      "audio": false
+    },
+    "en": {
+      "text": "He is late as usual",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я вполне уверен, что это будет так",
+      "audio": false
+    },
+    "en": {
+      "text": "I am pretty sure that it will be so",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я абсолютно уверен, что все будет хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "I am absolutely sure that it will be alright",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я абсолютно согласен, что это будет так",
+      "audio": false
+    },
+    "en": {
+      "text": "I absolutely agree that it will be so",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Лично я предпочитаю другую вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "Personally, I prefer another thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Лично я предпочитаю другие вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "Personally, I prefer other things",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Лично мне нравится другая вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "Personally, I like another thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Короче говоря, все прошло гладко",
+      "audio": false
+    },
+    "en": {
+      "text": "To be short, everything went smoothly",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Короче говоря, все прошло очень хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "To be short, everything went very well",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Короче говоря, все было хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "To be short, everything was alright",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Честно говоря, я ожидал гораздо большего",
+      "audio": false
+    },
+    "en": {
+      "text": "To be frank, I expected much more",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Честно говоря, я ожидал гораздо меньшего",
+      "audio": false
+    },
+    "en": {
+      "text": "To be frank, I expected much less",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Честно говоря, я этого не ожидал",
+      "audio": false
+    },
+    "en": {
+      "text": "To be frank, I didn't expect it",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Возможно, это произойдет",
+      "audio": false
+    },
+    "en": {
+      "text": "Possibly, it will happen",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Возможно, этого не произойдет",
+      "audio": false
+    },
+    "en": {
+      "text": "Possibly, it won't happen",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Возможно, это произойдет снова",
+      "audio": false
+    },
+    "en": {
+      "text": "Possibly, it will happen again",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Он очень опаздывает, как обычно",
+      "audio": false
+    },
+    "en": {
+      "text": "He is very late as usual",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Он очень опоздал, как всегда",
+      "audio": false
+    },
+    "en": {
+      "text": "He was very late as always",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я вполне уверен, что все будет хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "I am pretty sure that everything will be alright",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я абсолютно уверен, что с тобой все будет хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "I am absolutely sure that you will be alright",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я не уверен, что все будет хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "I am not sure that everything will be alright",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Возможно, я сделаю это в следующий раз",
+      "audio": false
+    },
+    "en": {
+      "text": "Probably, I will do it next time",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Возможно, я сделаю это однажды",
+      "audio": false
+    },
+    "en": {
+      "text": "Probably, I will do it one day",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Возможно, я сделаю это завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "Probably, I will do it tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Ты читаешь ежедневные новости?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you read daily news?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Ты слышал эту новость?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you hear this news?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Ты уже читал эту новость?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you already read this news?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Эта услуга в настоящее время недоступна",
+      "audio": false
+    },
+    "en": {
+      "text": "This service is currently unavailable",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Эта услуга доступна сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "This service is available now",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Этот сайт в настоящее время недоступен",
+      "audio": false
+    },
+    "en": {
+      "text": "This website is currently unavailable",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Почему он так неосторожно водит машину?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why does he drive a car so carelessly?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Честно говоря, я не мог поверить своим глазам сначала",
+      "audio": false
+    },
+    "en": {
+      "text": "Frankly, I couldn't believe my eyes at first",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Возможно, что такая ситуация повторится",
+      "audio": false
+    },
+    "en": {
+      "text": "It is possible that such a situation will repeat",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я был довольно разочарован его ответом",
+      "audio": false
+    },
+    "en": {
+      "text": "I was pretty disappointed with his answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Конечно, это значительная сумма денег",
+      "audio": false
+    },
+    "en": {
+      "text": "Of course, it is a significant sum of money",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Это не сильно поможет тебе в реальной жизни",
+      "audio": false
+    },
+    "en": {
+      "text": "It won't help you much in real life",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Честно говоря, в начале я не поверил ему",
+      "audio": false
+    },
+    "en": {
+      "text": "Honestly, I didn't believe him in the beginning",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Текущий уровень занятости очень высокий",
+      "audio": false
+    },
+    "en": {
+      "text": "The current level of employment is very high",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Это легко сказать, но это не так легко сделать",
+      "audio": false
+    },
+    "en": {
+      "text": "It is easy to say it but it isn't so easy to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Возможно, я буду здесь завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "Possibly, I will be here tomorrow",
+      "audio": false
+    }
   }
 ]

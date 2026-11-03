@@ -1,482 +1,1058 @@
 [
   {
-    "_id": 1,
-    "ru": "Ты пьешь кофе утром?",
-    "en": "Do you drink coffee in the morning?"
-  },
-  {
-    "_id": 2,
-    "ru": "Она живет в большом городе?",
-    "en": "Does she live in a big city?"
-  },
-  {
-    "_id": 3,
-    "ru": "Он изучает французский в университете?",
-    "en": "Does he study French at university?"
-  },
-  {
-    "_id": 4,
-    "ru": "Он курит или нет?",
-    "en": "Does he smoke or not?"
-  },
-  {
-    "_id": 5,
-    "ru": "Он пытается найти здесь эту информацию?",
-    "en": "Does he try to find this information here?"
-  },
-  {
-    "_id": 6,
-    "ru": "Он часто это говорит?",
-    "en": "Does he often say it?"
-  },
-  {
-    "_id": 7,
-    "ru": "Ты живешь в большом доме?",
-    "en": "Do you live in a big house?"
-  },
-  {
-    "_id": 8,
-    "ru": "Он плавает лучше?",
-    "en": "Does he swim better?"
-  },
-  {
-    "_id": 9,
-    "ru": "Ты живешь отдельно?",
-    "en": "Do you live separately?"
-  },
-  {
-    "_id": 10,
-    "ru": "Тебе нравится эта программа?",
-    "en": "Do you like this program?"
-  },
-  {
-    "_id": 11,
-    "ru": "Это действительно помогает ему?",
-    "en": "Does it really help him?"
-  },
-  {
-    "_id": 12,
-    "ru": "Он тоже так думает?",
-    "en": "Does he think so, too?"
-  },
-  {
-    "_id": 13,
-    "ru": "У тебя много родственников?",
-    "en": "Do you have many relatives?"
-  },
-  {
-    "_id": 14,
-    "ru": "Она живет в маленьком городке?",
-    "en": "Does she live in a small town?"
-  },
-  {
-    "_id": 15,
-    "ru": "Это приносит людям счастье?",
-    "en": "Does it bring people happiness?"
-  },
-  {
-    "_id": 16,
-    "ru": "Она хочет жить одна?",
-    "en": "Does she want to live alone?"
-  },
-  {
-    "_id": 17,
-    "ru": "Он верит в Бога?",
-    "en": "Does he believe in God?"
-  },
-  {
-    "_id": 18,
-    "ru": "Он чувствует себя плохо?",
-    "en": "Does he feel ill?"
-  },
-  {
-    "_id": 19,
-    "ru": "Ей нравится этот сериал?",
-    "en": "Does she like this TV series?"
-  },
-  {
-    "_id": 20,
-    "ru": "Он часто говорит тебе эту вещь?",
-    "en": "Does he often tell you this thing?"
-  },
-  {
-    "_id": 21,
-    "ru": "Ты находишь эту идею интересной?",
-    "en": "Do you find this idea interesting?"
-  },
-  {
-    "_id": 22,
-    "ru": "Они живут отдельно?",
-    "en": "Do they live separately?"
-  },
-  {
-    "_id": 23,
-    "ru": "Она хочет учиться в другом месте?",
-    "en": "Does she want to study in another place?"
-  },
-  {
-    "_id": 24,
-    "ru": "Ты хочешь жить один?",
-    "en": "Do you want to live alone?"
-  },
-  {
-    "_id": 25,
-    "ru": "Ты находишь этот тест очень легким?",
-    "en": "Do you find this test very easy?"
-  },
-  {
-    "_id": 26,
-    "ru": "Тебе нравится плавание?",
-    "en": "Do you like swimming?"
-  },
-  {
-    "_id": 27,
-    "ru": "Ты живешь в новом здании?",
-    "en": "Do you live in a new building?"
-  },
-  {
-    "_id": 28,
-    "ru": "У него стабильный доход?",
-    "en": "Does he have a stable income?"
-  },
-  {
-    "_id": 29,
-    "ru": "Ты знаешь этого парня?",
-    "en": "Do you know this guy?"
-  },
-  {
-    "_id": 30,
-    "ru": "Ты куришь?",
-    "en": "Do you smoke?"
-  },
-  {
-    "_id": 31,
-    "ru": "У тебя есть стабильный доход?",
-    "en": "Do you have a stable income?"
-  },
-  {
-    "_id": 32,
-    "ru": "Ты живешь в большом городе?",
-    "en": "Do you live in a big city?"
-  },
-  {
-    "_id": 33,
-    "ru": "Ты ищешь это онлайн?",
-    "en": "Do you look for it online?"
-  },
-  {
-    "_id": 34,
-    "ru": "Она тоже так думает?",
-    "en": "Does she also think so?"
-  },
-  {
-    "_id": 35,
-    "ru": "Ты хочешь жить в другом месте?",
-    "en": "Do you want to live in another place?"
-  },
-  {
-    "_id": 36,
-    "ru": "У тебя большой дом?",
-    "en": "Do you have a big house?"
-  },
-  {
-    "_id": 37,
-    "ru": "Она живет в старом здании?",
-    "en": "Does she live in an old building?"
-  },
-  {
-    "_id": 38,
-    "ru": "Ты смотришь бесплатные уроки английского онлайн?",
-    "en": "Do you watch free English lessons online?"
-  },
-  {
-    "_id": 39,
-    "ru": "У тебя есть какое-либо свободное время?",
-    "en": "Do you have any free time?"
-  },
-  {
-    "_id": 40,
-    "ru": "Она изучает английский в школе?",
-    "en": "Does she study English at school?"
-  },
-  {
-    "_id": 41,
-    "ru": "Ты ищешь эту информацию онлайн?",
-    "en": "Do you look for this information online?"
-  },
-  {
-    "_id": 42,
-    "ru": "Тебе нравится этот сериал?",
-    "en": "Do you like this TV series?"
-  },
-  {
-    "_id": 43,
-    "ru": "Это принадлежит ему?",
-    "en": "Does it belong to him?"
-  },
-  {
-    "_id": 44,
-    "ru": "Это развивает наши профессиональные навыки?",
-    "en": "Does it develop our professional skills?"
-  },
-  {
-    "_id": 45,
-    "ru": "Он работает музыкантом?",
-    "en": "Does he work as a musician?"
-  },
-  {
-    "_id": 46,
-    "ru": "Он ведет здоровый образ жизни?",
-    "en": "Does he lead a healthy lifestyle?"
-  },
-  {
-    "_id": 47,
-    "ru": "Ты понимаешь, почему он это делает?",
-    "en": "Do you understand why he does it?"
-  },
-  {
-    "_id": 48,
-    "ru": "Ты финансово зависишь от своих родителей?",
-    "en": "Do you depend on your parents financially?"
-  },
-  {
-    "_id": 49,
-    "ru": "Это развивает наше воображение?",
-    "en": "Does it develop our imagination?"
-  },
-  {
-    "_id": 50,
-    "ru": "Ты изучаешь английский самостоятельно?",
-    "en": "Do you learn English by yourself?"
-  },
-  {
-    "_id": 51,
-    "ru": "Ты хочешь быть ученым?",
-    "en": "Do you want to be a scientist?"
-  },
-  {
-    "_id": 52,
-    "ru": "Это развивает эти навыки?",
-    "en": "Does it develop these skills?"
-  },
-  {
-    "_id": 53,
-    "ru": "Ты знаешь, что я учу английский самостоятельно?",
-    "en": "Do you know that I learn English on my own?"
-  },
-  {
-    "_id": 54,
-    "ru": "Он работает программистом?",
-    "en": "Does he work as a programmer?"
-  },
-  {
-    "_id": 55,
-    "ru": "У тебя такой же вопрос?",
-    "en": "Do you have the same question?"
-  },
-  {
-    "_id": 56,
-    "ru": "Ты пытаешься решить эту проблему?",
-    "en": "Do you try to solve this problem?"
-  },
-  {
-    "_id": 57,
-    "ru": "Ты знаешь, что я учу английский самостоятельно?",
-    "en": "Do you know that I learn English by myself?"
-  },
-  {
-    "_id": 58,
-    "ru": "Ты знаешь, что она учит английский самостоятельно?",
-    "en": "Do you know that she learns English by herself?"
-  },
-  {
-    "_id": 59,
-    "ru": "Она знает, что он изучает английский самостоятельно?",
-    "en": "Does she know that he learns English by himself?"
-  },
-  {
-    "_id": 60,
-    "ru": "Она платит за свое образование?",
-    "en": "Does she pay for her education?"
-  },
-  {
-    "_id": 61,
-    "ru": "Ты платишь за свое образование?",
-    "en": "Do you pay for your education?"
-  },
-  {
-    "_id": 62,
-    "ru": "Он платит за свое образование?",
-    "en": "Does he pay for his education?"
-  },
-  {
-    "_id": 63,
-    "ru": "Ты хочешь путешествовать по миру?",
-    "en": "Do you want to travel around the world?"
-  },
-  {
-    "_id": 64,
-    "ru": "Твой брат хочет путешествовать по миру?",
-    "en": "Does your brother want to travel around the world?"
-  },
-  {
-    "_id": 65,
-    "ru": "Она хочет путешествовать по стране?",
-    "en": "Does she want to travel around the country?"
-  },
-  {
-    "_id": 66,
-    "ru": "Он работает инструктором?",
-    "en": "Does he work as an instructor?"
-  },
-  {
-    "_id": 67,
-    "ru": "Ты работаешь инструктором?",
-    "en": "Do you work as an instructor?"
-  },
-  {
-    "_id": 68,
-    "ru": "Он работает тренером?",
-    "en": "Does he work as a trainer?"
-  },
-  {
-    "_id": 69,
-    "ru": "Это зависит от тебя?",
-    "en": "Does it depend on you?"
-  },
-  {
-    "_id": 70,
-    "ru": "Это зависит от меня?",
-    "en": "Does it depend on me?"
-  },
-  {
-    "_id": 71,
-    "ru": "Ты зависишь от него?",
-    "en": "Do you depend on him?"
-  },
-  {
-    "_id": 72,
-    "ru": "Ты делаешь это самостоятельно?",
-    "en": "Do you do it by yourself?"
-  },
-  {
-    "_id": 73,
-    "ru": "Она делает это самостоятельно?",
-    "en": "Does she do it by herself?"
-  },
-  {
-    "_id": 74,
-    "ru": "Он делает это самостоятельно?",
-    "en": "Does he do it by himself?"
-  },
-  {
-    "_id": 75,
-    "ru": "У него такие же результаты?",
-    "en": "Does he have the same results?"
-  },
-  {
-    "_id": 76,
-    "ru": "У тебя такие же результаты?",
-    "en": "Do you have the same results?"
-  },
-  {
-    "_id": 77,
-    "ru": "У нас разные результаты?",
-    "en": "Do we have different results?"
-  },
-  {
-    "_id": 78,
-    "ru": "Я часто делаю ошибки, когда говорю по-английски?",
-    "en": "Do I often make mistakes when I speak English?"
-  },
-  {
-    "_id": 79,
-    "ru": "Ты знаешь, как ответить на этот вопрос?",
-    "en": "Do you know how to answer this question?"
-  },
-  {
-    "_id": 80,
-    "ru": "Она знает, как ответить на этот вопрос?",
-    "en": "Does she know how to answer this question?"
-  },
-  {
-    "_id": 81,
-    "ru": "Ты знаешь, как ответить на мой вопрос?",
-    "en": "Do you know how to answer my question?"
-  },
-  {
-    "_id": 82,
-    "ru": "Он финансово зависит от своих родителей?",
-    "en": "Does he depend on his parents financially?"
-  },
-  {
-    "_id": 83,
-    "ru": "Он работает фитнес инструктором?",
-    "en": "Does he work as a fitness instructor?"
-  },
-  {
-    "_id": 84,
-    "ru": "Это принадлежит тебе?",
-    "en": "Does it belong to you?"
-  },
-  {
-    "_id": 85,
-    "ru": "У него в настоящий момент есть какие-либо вопросы?",
-    "en": "Does he have any questions at present?"
-  },
-  {
-    "_id": 86,
-    "ru": "Ты работаешь фитнес тренером?",
-    "en": "Do you work as a fitness trainer?"
-  },
-  {
-    "_id": 87,
-    "ru": "Ты изучаешь английский самостоятельно?",
-    "en": "Do you learn English on your own?"
-  },
-  {
-    "_id": 88,
-    "ru": "Ты стараешься вести здоровый образ жизни?",
-    "en": "Do you try to lead a healthy lifestyle?"
-  },
-  {
-    "_id": 89,
-    "ru": "Ты делаешь это самостоятельно?",
-    "en": "Do you do it on your own?"
-  },
-  {
-    "_id": 90,
-    "ru": "Это зависит от нас?",
-    "en": "Does it depend on us?"
-  },
-  {
-    "_id": 91,
-    "ru": "Ты знаешь, как решить эту проблему?",
-    "en": "Do you know how to solve this problem?"
-  },
-  {
-    "_id": 92,
-    "ru": "Она хочет быть специалистом по маркетингу?",
-    "en": "Does she want to be a marketing specialist?"
-  },
-  {
-    "_id": 93,
-    "ru": "У тебя есть какие-либо вопросы на данный момент?",
-    "en": "Do you have any questions at the moment?"
-  },
-  {
-    "_id": 94,
-    "ru": "Ему нужно сделать это срочно?",
-    "en": "Does he need to do it urgently?"
-  },
-  {
-    "_id": 95,
-    "ru": "Ты работаешь персональным тренером?",
-    "en": "Do you work as a personal trainer?"
-  },
-  {
-    "_id": 96,
-    "ru": "Он хочет быть президентом?",
-    "en": "Does he want to be a president?"
+    "id": 1,
+    "ru": {
+      "text": "Ты пьешь кофе утром?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you drink coffee in the morning?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Она живет в большом городе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she live in a big city?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Он изучает французский в университете?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he study French at university?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Он курит или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he smoke or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Он пытается найти здесь эту информацию?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he try to find this information here?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Он часто это говорит?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he often say it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Ты живешь в большом доме?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you live in a big house?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Он плавает лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he swim better?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Ты живешь отдельно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you live separately?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Тебе нравится эта программа?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like this program?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Это действительно помогает ему?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it really help him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Он тоже так думает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he think so, too?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "У тебя много родственников?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have many relatives?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Она живет в маленьком городке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she live in a small town?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Это приносит людям счастье?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it bring people happiness?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Она хочет жить одна?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she want to live alone?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Он верит в Бога?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he believe in God?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Он чувствует себя плохо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he feel ill?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Ей нравится этот сериал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she like this TV series?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Он часто говорит тебе эту вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he often tell you this thing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Ты находишь эту идею интересной?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you find this idea interesting?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Они живут отдельно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they live separately?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Она хочет учиться в другом месте?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she want to study in another place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Ты хочешь жить один?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to live alone?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Ты находишь этот тест очень легким?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you find this test very easy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Тебе нравится плавание?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like swimming?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Ты живешь в новом здании?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you live in a new building?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "У него стабильный доход?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he have a stable income?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Ты знаешь этого парня?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know this guy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Ты куришь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you smoke?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "У тебя есть стабильный доход?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have a stable income?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Ты живешь в большом городе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you live in a big city?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Ты ищешь это онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you look for it online?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Она тоже так думает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she also think so?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Ты хочешь жить в другом месте?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to live in another place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "У тебя большой дом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have a big house?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Она живет в старом здании?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she live in an old building?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Ты смотришь бесплатные уроки английского онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you watch free English lessons online?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "У тебя есть какое-либо свободное время?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have any free time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Она изучает английский в школе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she study English at school?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Ты ищешь эту информацию онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you look for this information online?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Тебе нравится этот сериал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like this TV series?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Это принадлежит ему?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it belong to him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Это развивает наши профессиональные навыки?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it develop our professional skills?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Он работает музыкантом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he work as a musician?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Он ведет здоровый образ жизни?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he lead a healthy lifestyle?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Ты понимаешь, почему он это делает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you understand why he does it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Ты финансово зависишь от своих родителей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you depend on your parents financially?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Это развивает наше воображение?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it develop our imagination?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Ты изучаешь английский самостоятельно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you learn English by yourself?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Ты хочешь быть ученым?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to be a scientist?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Это развивает эти навыки?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it develop these skills?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Ты знаешь, что я учу английский самостоятельно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know that I learn English on my own?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Он работает программистом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he work as a programmer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "У тебя такой же вопрос?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have the same question?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Ты пытаешься решить эту проблему?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you try to solve this problem?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Ты знаешь, что я учу английский самостоятельно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know that I learn English by myself?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Ты знаешь, что она учит английский самостоятельно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know that she learns English by herself?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Она знает, что он изучает английский самостоятельно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she know that he learns English by himself?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Она платит за свое образование?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she pay for her education?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Ты платишь за свое образование?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you pay for your education?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Он платит за свое образование?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he pay for his education?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Ты хочешь путешествовать по миру?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to travel around the world?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Твой брат хочет путешествовать по миру?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does your brother want to travel around the world?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Она хочет путешествовать по стране?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she want to travel around the country?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Он работает инструктором?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he work as an instructor?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Ты работаешь инструктором?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you work as an instructor?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Он работает тренером?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he work as a trainer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Это зависит от тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it depend on you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Это зависит от меня?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it depend on me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Ты зависишь от него?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you depend on him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Ты делаешь это самостоятельно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you do it by yourself?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Она делает это самостоятельно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she do it by herself?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Он делает это самостоятельно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he do it by himself?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "У него такие же результаты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he have the same results?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "У тебя такие же результаты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have the same results?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "У нас разные результаты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do we have different results?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я часто делаю ошибки, когда говорю по-английски?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do I often make mistakes when I speak English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Ты знаешь, как ответить на этот вопрос?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know how to answer this question?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Она знает, как ответить на этот вопрос?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she know how to answer this question?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Ты знаешь, как ответить на мой вопрос?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know how to answer my question?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Он финансово зависит от своих родителей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he depend on his parents financially?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Он работает фитнес инструктором?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he work as a fitness instructor?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Это принадлежит тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it belong to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "У него в настоящий момент есть какие-либо вопросы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he have any questions at present?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Ты работаешь фитнес тренером?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you work as a fitness trainer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Ты изучаешь английский самостоятельно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you learn English on your own?",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Ты стараешься вести здоровый образ жизни?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you try to lead a healthy lifestyle?",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Ты делаешь это самостоятельно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you do it on your own?",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Это зависит от нас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it depend on us?",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Ты знаешь, как решить эту проблему?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know how to solve this problem?",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Она хочет быть специалистом по маркетингу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she want to be a marketing specialist?",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "У тебя есть какие-либо вопросы на данный момент?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have any questions at the moment?",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Ему нужно сделать это срочно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he need to do it urgently?",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Ты работаешь персональным тренером?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you work as a personal trainer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Он хочет быть президентом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he want to be a president?",
+      "audio": false
+    }
   }
 ]

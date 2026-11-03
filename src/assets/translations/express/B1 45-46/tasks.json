@@ -1,82 +1,178 @@
 [
   {
-    "_id": 1,
-    "ru": "От чего зависит успех?",
-    "en": "What does success depend on?"
+    "id": 1,
+    "ru": {
+      "text": "От чего зависит успех?",
+      "audio": false
+    },
+    "en": {
+      "text": "What does success depend on?",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Она сказала, что уже разрезала торт",
-    "en": "She said that she had already cut the cake"
+    "id": 2,
+    "ru": {
+      "text": "Она сказала, что уже разрезала торт",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that she had already cut the cake",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Это сообщалось в новостях",
-    "en": "It was reported in the news"
+    "id": 3,
+    "ru": {
+      "text": "Это сообщалось в новостях",
+      "audio": false
+    },
+    "en": {
+      "text": "It was reported in the news",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Эта проблема касается всех нас сейчас",
-    "en": "This problem concerns all of us now"
+    "id": 4,
+    "ru": {
+      "text": "Эта проблема касается всех нас сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "This problem concerns all of us now",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Насколько я знаю, он сейчас проходит этот курс",
-    "en": "As far as I know, he's currently doing this course"
+    "id": 5,
+    "ru": {
+      "text": "Насколько я знаю, он сейчас проходит этот курс",
+      "audio": false
+    },
+    "en": {
+      "text": "As far as I know, he's currently doing this course",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Написано, что это было сделано в Японии",
-    "en": "It's written that it was made in Japan"
+    "id": 6,
+    "ru": {
+      "text": "Написано, что это было сделано в Японии",
+      "audio": false
+    },
+    "en": {
+      "text": "It's written that it was made in Japan",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я не могу понять, над чем ты смеешься",
-    "en": "I can't understand what you're laughing at"
+    "id": 7,
+    "ru": {
+      "text": "Я не могу понять, над чем ты смеешься",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't understand what you're laughing at",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Это не покажут по телевизору",
-    "en": "It won't be shown on TV"
+    "id": 8,
+    "ru": {
+      "text": "Это не покажут по телевизору",
+      "audio": false
+    },
+    "en": {
+      "text": "It won't be shown on TV",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я окончил университет очень давно",
-    "en": "I graduated from university a very long time ago"
+    "id": 9,
+    "ru": {
+      "text": "Я окончил университет очень давно",
+      "audio": false
+    },
+    "en": {
+      "text": "I graduated from university a very long time ago",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Сообщили, что его деньги украли",
-    "en": "It was reported that his money had been stolen"
+    "id": 10,
+    "ru": {
+      "text": "Сообщили, что его деньги украли",
+      "audio": false
+    },
+    "en": {
+      "text": "It was reported that his money had been stolen",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Конференция будет организована в следующем месяце",
-    "en": "The conference will be organized next month"
+    "id": 11,
+    "ru": {
+      "text": "Конференция будет организована в следующем месяце",
+      "audio": false
+    },
+    "en": {
+      "text": "The conference will be organized next month",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Эта информация только что была подтверждена",
-    "en": "This information had just been confirmed"
+    "id": 12,
+    "ru": {
+      "text": "Эта информация только что была подтверждена",
+      "audio": false
+    },
+    "en": {
+      "text": "This information had just been confirmed",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Монастырь сейчас восстанавливается",
-    "en": "The monastery is being rebuilt now"
+    "id": 13,
+    "ru": {
+      "text": "Монастырь сейчас восстанавливается",
+      "audio": false
+    },
+    "en": {
+      "text": "The monastery is being rebuilt now",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я действительно не помню, как все это начиналось",
-    "en": "I don't really remember how it all began"
+    "id": 14,
+    "ru": {
+      "text": "Я действительно не помню, как все это начиналось",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't really remember how it all began",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Всю еду только что съели",
-    "en": "All the food has just been eaten"
+    "id": 15,
+    "ru": {
+      "text": "Всю еду только что съели",
+      "audio": false
+    },
+    "en": {
+      "text": "All the food has just been eaten",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Она только что умыла лицо",
-    "en": "She's just washed her face"
+    "id": 16,
+    "ru": {
+      "text": "Она только что умыла лицо",
+      "audio": false
+    },
+    "en": {
+      "text": "She's just washed her face",
+      "audio": false
+    }
   }
 ]

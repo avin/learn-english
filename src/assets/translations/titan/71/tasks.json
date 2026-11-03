@@ -1,482 +1,1058 @@
 [
   {
-    "_id": 1,
-    "ru": "Она действительно обожает готовить",
-    "en": "She really enjoys cooking"
-  },
-  {
-    "_id": 2,
-    "ru": "Он ненавидит ничего не делать",
-    "en": "He hates doing nothing"
-  },
-  {
-    "_id": 3,
-    "ru": "Я люблю готовить",
-    "en": "I love cooking"
-  },
-  {
-    "_id": 4,
-    "ru": "Они увлекаются чтением",
-    "en": "They’re keen on reading"
-  },
-  {
-    "_id": 5,
-    "ru": "Я обожаю делать такие упражнения",
-    "en": "I'm fond of doing such exercises"
-  },
-  {
-    "_id": 6,
-    "ru": "Ему нравится играть в компьютерные игры",
-    "en": "He likes playing computer games"
-  },
-  {
-    "_id": 7,
-    "ru": "Мне не нравится смотреть телевизор",
-    "en": "I don't like watching TV"
-  },
-  {
-    "_id": 8,
-    "ru": "Мне нравится изучать иностранные языки",
-    "en": "I like learning foreign languages"
-  },
-  {
-    "_id": 9,
-    "ru": "Мне нравится проводить время со своими друзьями",
-    "en": "I like spending time with my friends"
-  },
-  {
-    "_id": 10,
-    "ru": "Мне нравится читать английские книги",
-    "en": "I like reading English books"
-  },
-  {
-    "_id": 11,
-    "ru": "Моему другу не нравится делать покупки",
-    "en": "My friend doesn't like doing the shopping"
-  },
-  {
-    "_id": 12,
-    "ru": "Моя бабушка обожает садоводство",
-    "en": "My grandmother enjoys gardening"
-  },
-  {
-    "_id": 13,
-    "ru": "Я обожаю заниматься этим в свое свободное время",
-    "en": "I enjoy doing it in my spare time"
-  },
-  {
-    "_id": 14,
-    "ru": "Мне нравится читать книги на английском",
-    "en": "I like reading books in English"
-  },
-  {
-    "_id": 15,
-    "ru": "Я обожаю говорить по-английски",
-    "en": "I enjoy speaking English"
-  },
-  {
-    "_id": 16,
-    "ru": "Ей нравится ходить по магазинам",
-    "en": "She likes going shopping"
-  },
-  {
-    "_id": 17,
-    "ru": "Ему нравится читать о бизнесе",
-    "en": "He likes reading about business"
-  },
-  {
-    "_id": 18,
-    "ru": "Мне нравится играть в настольный теннис",
-    "en": "I like playing table tennis"
-  },
-  {
-    "_id": 19,
-    "ru": "Она действительно обожает готовить",
-    "en": "She really enjoys cooking"
-  },
-  {
-    "_id": 20,
-    "ru": "Он обожает музыку",
-    "en": "He enjoys music"
-  },
-  {
-    "_id": 21,
-    "ru": "Ему нравится заниматься дзюдо",
-    "en": "He likes doing judo"
-  },
-  {
-    "_id": 22,
-    "ru": "Ему нравится играть в футбол",
-    "en": "He likes playing soccer"
-  },
-  {
-    "_id": 23,
-    "ru": "Мне действительно нравится путешествовать",
-    "en": "I really like travelling"
-  },
-  {
-    "_id": 24,
-    "ru": "Им нравится играть в футбол",
-    "en": "They like playing football"
-  },
-  {
-    "_id": 25,
-    "ru": "Мне действительно нравится заниматься английским",
-    "en": "I really like learning English"
-  },
-  {
-    "_id": 26,
-    "ru": "Ему очень нравится заниматься английским здесь",
-    "en": "He really likes learning English here"
-  },
-  {
-    "_id": 27,
-    "ru": "Ему нравится заниматься каратэ",
-    "en": "He likes doing karate"
-  },
-  {
-    "_id": 28,
-    "ru": "Мне нравится гулять в парке",
-    "en": "I like walking in the park"
-  },
-  {
-    "_id": 29,
-    "ru": "Ей нравится читать в постели",
-    "en": "She likes reading in bed"
-  },
-  {
-    "_id": 30,
-    "ru": "Он обожает делать такого рода вещи",
-    "en": "He enjoys doing this kind of things"
-  },
-  {
-    "_id": 31,
-    "ru": "Он действительно обожает английский",
-    "en": "He really enjoys English"
-  },
-  {
-    "_id": 32,
-    "ru": "Я действительно обожаю делать это",
-    "en": "I really enjoy doing it"
-  },
-  {
-    "_id": 33,
-    "ru": "Мне нравится кататься на велосипеде",
-    "en": "I like riding a bike"
-  },
-  {
-    "_id": 34,
-    "ru": "Моей маме действительно нравится садоводство",
-    "en": "My mother really likes gardening"
-  },
-  {
-    "_id": 35,
-    "ru": "Я обожаю изучать английский",
-    "en": "I enjoy learning English"
-  },
-  {
-    "_id": 36,
-    "ru": "Ему нравится играть в гольф",
-    "en": "He likes playing golf"
-  },
-  {
-    "_id": 37,
-    "ru": "Мне нравится заниматься спортом",
-    "en": "I like doing sport"
-  },
-  {
-    "_id": 38,
-    "ru": "Ей нравится играть на пианино",
-    "en": "She likes playing the piano"
-  },
-  {
-    "_id": 39,
-    "ru": "Мне нравится играть в боулинг",
-    "en": "I like playing bowling"
-  },
-  {
-    "_id": 40,
-    "ru": "Мне нравится ходить кататься на велосипеде с моими друзьями",
-    "en": "I like going cycling with my friends"
-  },
-  {
-    "_id": 41,
-    "ru": "Ему нравится играть на гитаре",
-    "en": "He likes playing the guitar"
-  },
-  {
-    "_id": 42,
-    "ru": "Мне действительно нравится спорт",
-    "en": "I really like sport"
-  },
-  {
-    "_id": 43,
-    "ru": "Ей нравится играть на скрипке",
-    "en": "She likes playing the violin"
-  },
-  {
-    "_id": 44,
-    "ru": "Ему нравится ничего не делать",
-    "en": "He likes doing nothing"
-  },
-  {
-    "_id": 45,
-    "ru": "Я действительно обожаю слушать этот подкаст",
-    "en": "I really enjoy listening to this podcast"
-  },
-  {
-    "_id": 46,
-    "ru": "Я увлекаюсь чтением",
-    "en": "I'm keen on reading"
-  },
-  {
-    "_id": 47,
-    "ru": "Я действительно обожаю говорить с тобой",
-    "en": "I really enjoy talking to you"
-  },
-  {
-    "_id": 48,
-    "ru": "Я действительно обожаю ходить плавать",
-    "en": "I really enjoy going swimming"
-  },
-  {
-    "_id": 49,
-    "ru": "Я особенно увлекаюсь изучением иностранных языков",
-    "en": "I'm particularly keen on learning foreign languages"
-  },
-  {
-    "_id": 50,
-    "ru": "Ему действительно не нравится обсуждать такие вещи",
-    "en": "He doesn't really like discussing such things"
-  },
-  {
-    "_id": 51,
-    "ru": "Ей нравится помогать другим",
-    "en": "She likes helping others"
-  },
-  {
-    "_id": 52,
-    "ru": "Я люблю спорт",
-    "en": "I'm fond of sport"
-  },
-  {
-    "_id": 53,
-    "ru": "Он обожает заниматься благотворительностью",
-    "en": "He enjoys doing charity"
-  },
-  {
-    "_id": 54,
-    "ru": "Она увлекается музыкой",
-    "en": "She's keen on music"
-  },
-  {
-    "_id": 55,
-    "ru": "Я ненавижу говорить об этом",
-    "en": "I hate talking about it"
-  },
-  {
-    "_id": 56,
-    "ru": "Ей действительно нравится ходить на пробежку",
-    "en": "She really likes going jogging"
-  },
-  {
-    "_id": 57,
-    "ru": "Ей действительно нравится ходить по магазинам",
-    "en": "She really likes going shopping"
-  },
-  {
-    "_id": 58,
-    "ru": "Мне нравится ходить на пробежку",
-    "en": "I like going jogging"
-  },
-  {
-    "_id": 59,
-    "ru": "Я действительно обожаю этот подкаст",
-    "en": "I really enjoy this podcast"
-  },
-  {
-    "_id": 60,
-    "ru": "Мне действительно нравится этот подкаст",
-    "en": "I really like this podcast"
-  },
-  {
-    "_id": 61,
-    "ru": "Я действительно обожаю эти подкасты",
-    "en": "I really enjoy these podcasts"
-  },
-  {
-    "_id": 62,
-    "ru": "Она любит рисовать",
-    "en": "She's fond of drawing"
-  },
-  {
-    "_id": 63,
-    "ru": "Она любит читать",
-    "en": "She's fond of reading"
-  },
-  {
-    "_id": 64,
-    "ru": "Ей нравится рисовать",
-    "en": "She likes drawing"
-  },
-  {
-    "_id": 65,
-    "ru": "Я действительно обожаю работать с тобой",
-    "en": "I really enjoy working with you"
-  },
-  {
-    "_id": 66,
-    "ru": "Он действительно обожает работать с тобой",
-    "en": "He really enjoys working with you"
-  },
-  {
-    "_id": 67,
-    "ru": "Она действительно обожает жить с ними",
-    "en": "She really enjoys living with them"
-  },
-  {
-    "_id": 68,
-    "ru": "Я особенно увлекаюсь этим",
-    "en": "I'm particularly keen on it"
-  },
-  {
-    "_id": 69,
-    "ru": "Она особенно увлекается этим",
-    "en": "She's particularly keen on it"
-  },
-  {
-    "_id": 70,
-    "ru": "Она особенно увлекается музыкой",
-    "en": "She's particularly keen on music"
-  },
-  {
-    "_id": 71,
-    "ru": "Я действительно обожаю эти видео курсы",
-    "en": "I really enjoy these video courses"
-  },
-  {
-    "_id": 72,
-    "ru": "Они действительно обожают эти видео курсы",
-    "en": "They really enjoy these video courses"
-  },
-  {
-    "_id": 73,
-    "ru": "Я действительно обожаю тот видеокурс",
-    "en": "I really enjoy that video course"
-  },
-  {
-    "_id": 74,
-    "ru": "Ей действительно нравится заниматься благотворительностью",
-    "en": "She really likes doing charity"
-  },
-  {
-    "_id": 75,
-    "ru": "Мне нравится заниматься благотворительностью",
-    "en": "I like doing charity"
-  },
-  {
-    "_id": 76,
-    "ru": "Она действительно ненавидит заниматься благотворительностью",
-    "en": "She really hates doing charity"
-  },
-  {
-    "_id": 77,
-    "ru": "Мне не очень нравится это делать",
-    "en": "I don't really like doing it"
-  },
-  {
-    "_id": 78,
-    "ru": "Ей не очень нравится это делать",
-    "en": "She doesn't really like doing it"
-  },
-  {
-    "_id": 79,
-    "ru": "Мне совсем не нравится это делать",
-    "en": "I don't like doing it at all"
-  },
-  {
-    "_id": 80,
-    "ru": "Я обожаю читать, потому что это развивает мой ум",
-    "en": "I enjoy reading because it develops my mind"
-  },
-  {
-    "_id": 81,
-    "ru": "Он ненавидит обсуждать это",
-    "en": "He hates discussing it"
-  },
-  {
-    "_id": 82,
-    "ru": "Я ненавижу обсуждать это",
-    "en": "I hate discussing it"
-  },
-  {
-    "_id": 83,
-    "ru": "Она ненавидит обсуждать это",
-    "en": "She hates discussing it"
-  },
-  {
-    "_id": 84,
-    "ru": "Я увлекаюсь изучением английского",
-    "en": "I'm keen on learning English"
-  },
-  {
-    "_id": 85,
-    "ru": "Мне действительно не нравится говорить о таких вещах",
-    "en": "I don't really like talking about such things"
-  },
-  {
-    "_id": 86,
-    "ru": "Он действительно обожает помогать другим людям",
-    "en": "He really enjoys helping other people"
-  },
-  {
-    "_id": 87,
-    "ru": "Я действительно обожаю плавать",
-    "en": "I really enjoy swimming"
-  },
-  {
-    "_id": 88,
-    "ru": "Я особенно увлекаюсь путешествиями",
-    "en": "I'm particularly keen on travelling"
-  },
-  {
-    "_id": 89,
-    "ru": "Я действительно люблю делать это",
-    "en": "I really love doing it"
-  },
-  {
-    "_id": 90,
-    "ru": "Мне не нравится задавать слишком много вопросов",
-    "en": "I don't like asking too many questions"
-  },
-  {
-    "_id": 91,
-    "ru": "Ей нравится слушать музыку",
-    "en": "She likes listening to music"
-  },
-  {
-    "_id": 92,
-    "ru": "Я действительно обожаю домашнюю еду",
-    "en": "I really enjoy homemade food"
-  },
-  {
-    "_id": 93,
-    "ru": "Я обожаю проводить время с тобой",
-    "en": "I enjoy spending time with you"
-  },
-  {
-    "_id": 94,
-    "ru": "Я ненавижу делать это",
-    "en": "I hate doing it"
-  },
-  {
-    "_id": 95,
-    "ru": "Я действительно обожаю кататься на велосипеде",
-    "en": "I really enjoy cycling"
-  },
-  {
-    "_id": 96,
-    "ru": "Я люблю делать это",
-    "en": "I love doing it"
+    "id": 1,
+    "ru": {
+      "text": "Она действительно обожает готовить",
+      "audio": false
+    },
+    "en": {
+      "text": "She really enjoys cooking",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Он ненавидит ничего не делать",
+      "audio": false
+    },
+    "en": {
+      "text": "He hates doing nothing",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я люблю готовить",
+      "audio": false
+    },
+    "en": {
+      "text": "I love cooking",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Они увлекаются чтением",
+      "audio": false
+    },
+    "en": {
+      "text": "They’re keen on reading",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я обожаю делать такие упражнения",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm fond of doing such exercises",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Ему нравится играть в компьютерные игры",
+      "audio": false
+    },
+    "en": {
+      "text": "He likes playing computer games",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Мне не нравится смотреть телевизор",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't like watching TV",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Мне нравится изучать иностранные языки",
+      "audio": false
+    },
+    "en": {
+      "text": "I like learning foreign languages",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Мне нравится проводить время со своими друзьями",
+      "audio": false
+    },
+    "en": {
+      "text": "I like spending time with my friends",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Мне нравится читать английские книги",
+      "audio": false
+    },
+    "en": {
+      "text": "I like reading English books",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Моему другу не нравится делать покупки",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend doesn't like doing the shopping",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Моя бабушка обожает садоводство",
+      "audio": false
+    },
+    "en": {
+      "text": "My grandmother enjoys gardening",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Я обожаю заниматься этим в свое свободное время",
+      "audio": false
+    },
+    "en": {
+      "text": "I enjoy doing it in my spare time",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Мне нравится читать книги на английском",
+      "audio": false
+    },
+    "en": {
+      "text": "I like reading books in English",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я обожаю говорить по-английски",
+      "audio": false
+    },
+    "en": {
+      "text": "I enjoy speaking English",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Ей нравится ходить по магазинам",
+      "audio": false
+    },
+    "en": {
+      "text": "She likes going shopping",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Ему нравится читать о бизнесе",
+      "audio": false
+    },
+    "en": {
+      "text": "He likes reading about business",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Мне нравится играть в настольный теннис",
+      "audio": false
+    },
+    "en": {
+      "text": "I like playing table tennis",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Она действительно обожает готовить",
+      "audio": false
+    },
+    "en": {
+      "text": "She really enjoys cooking",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Он обожает музыку",
+      "audio": false
+    },
+    "en": {
+      "text": "He enjoys music",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Ему нравится заниматься дзюдо",
+      "audio": false
+    },
+    "en": {
+      "text": "He likes doing judo",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Ему нравится играть в футбол",
+      "audio": false
+    },
+    "en": {
+      "text": "He likes playing soccer",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Мне действительно нравится путешествовать",
+      "audio": false
+    },
+    "en": {
+      "text": "I really like travelling",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Им нравится играть в футбол",
+      "audio": false
+    },
+    "en": {
+      "text": "They like playing football",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Мне действительно нравится заниматься английским",
+      "audio": false
+    },
+    "en": {
+      "text": "I really like learning English",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Ему очень нравится заниматься английским здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "He really likes learning English here",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Ему нравится заниматься каратэ",
+      "audio": false
+    },
+    "en": {
+      "text": "He likes doing karate",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Мне нравится гулять в парке",
+      "audio": false
+    },
+    "en": {
+      "text": "I like walking in the park",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Ей нравится читать в постели",
+      "audio": false
+    },
+    "en": {
+      "text": "She likes reading in bed",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Он обожает делать такого рода вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "He enjoys doing this kind of things",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Он действительно обожает английский",
+      "audio": false
+    },
+    "en": {
+      "text": "He really enjoys English",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я действительно обожаю делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Мне нравится кататься на велосипеде",
+      "audio": false
+    },
+    "en": {
+      "text": "I like riding a bike",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Моей маме действительно нравится садоводство",
+      "audio": false
+    },
+    "en": {
+      "text": "My mother really likes gardening",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я обожаю изучать английский",
+      "audio": false
+    },
+    "en": {
+      "text": "I enjoy learning English",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Ему нравится играть в гольф",
+      "audio": false
+    },
+    "en": {
+      "text": "He likes playing golf",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Мне нравится заниматься спортом",
+      "audio": false
+    },
+    "en": {
+      "text": "I like doing sport",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Ей нравится играть на пианино",
+      "audio": false
+    },
+    "en": {
+      "text": "She likes playing the piano",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Мне нравится играть в боулинг",
+      "audio": false
+    },
+    "en": {
+      "text": "I like playing bowling",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Мне нравится ходить кататься на велосипеде с моими друзьями",
+      "audio": false
+    },
+    "en": {
+      "text": "I like going cycling with my friends",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Ему нравится играть на гитаре",
+      "audio": false
+    },
+    "en": {
+      "text": "He likes playing the guitar",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Мне действительно нравится спорт",
+      "audio": false
+    },
+    "en": {
+      "text": "I really like sport",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Ей нравится играть на скрипке",
+      "audio": false
+    },
+    "en": {
+      "text": "She likes playing the violin",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Ему нравится ничего не делать",
+      "audio": false
+    },
+    "en": {
+      "text": "He likes doing nothing",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я действительно обожаю слушать этот подкаст",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy listening to this podcast",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я увлекаюсь чтением",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm keen on reading",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я действительно обожаю говорить с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy talking to you",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я действительно обожаю ходить плавать",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy going swimming",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я особенно увлекаюсь изучением иностранных языков",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm particularly keen on learning foreign languages",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Ему действительно не нравится обсуждать такие вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't really like discussing such things",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Ей нравится помогать другим",
+      "audio": false
+    },
+    "en": {
+      "text": "She likes helping others",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я люблю спорт",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm fond of sport",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Он обожает заниматься благотворительностью",
+      "audio": false
+    },
+    "en": {
+      "text": "He enjoys doing charity",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Она увлекается музыкой",
+      "audio": false
+    },
+    "en": {
+      "text": "She's keen on music",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я ненавижу говорить об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I hate talking about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Ей действительно нравится ходить на пробежку",
+      "audio": false
+    },
+    "en": {
+      "text": "She really likes going jogging",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Ей действительно нравится ходить по магазинам",
+      "audio": false
+    },
+    "en": {
+      "text": "She really likes going shopping",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Мне нравится ходить на пробежку",
+      "audio": false
+    },
+    "en": {
+      "text": "I like going jogging",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я действительно обожаю этот подкаст",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy this podcast",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Мне действительно нравится этот подкаст",
+      "audio": false
+    },
+    "en": {
+      "text": "I really like this podcast",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я действительно обожаю эти подкасты",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy these podcasts",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Она любит рисовать",
+      "audio": false
+    },
+    "en": {
+      "text": "She's fond of drawing",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Она любит читать",
+      "audio": false
+    },
+    "en": {
+      "text": "She's fond of reading",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Ей нравится рисовать",
+      "audio": false
+    },
+    "en": {
+      "text": "She likes drawing",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я действительно обожаю работать с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy working with you",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Он действительно обожает работать с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "He really enjoys working with you",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Она действительно обожает жить с ними",
+      "audio": false
+    },
+    "en": {
+      "text": "She really enjoys living with them",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я особенно увлекаюсь этим",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm particularly keen on it",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Она особенно увлекается этим",
+      "audio": false
+    },
+    "en": {
+      "text": "She's particularly keen on it",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Она особенно увлекается музыкой",
+      "audio": false
+    },
+    "en": {
+      "text": "She's particularly keen on music",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я действительно обожаю эти видео курсы",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy these video courses",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Они действительно обожают эти видео курсы",
+      "audio": false
+    },
+    "en": {
+      "text": "They really enjoy these video courses",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я действительно обожаю тот видеокурс",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy that video course",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Ей действительно нравится заниматься благотворительностью",
+      "audio": false
+    },
+    "en": {
+      "text": "She really likes doing charity",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Мне нравится заниматься благотворительностью",
+      "audio": false
+    },
+    "en": {
+      "text": "I like doing charity",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Она действительно ненавидит заниматься благотворительностью",
+      "audio": false
+    },
+    "en": {
+      "text": "She really hates doing charity",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Мне не очень нравится это делать",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't really like doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Ей не очень нравится это делать",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't really like doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Мне совсем не нравится это делать",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't like doing it at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я обожаю читать, потому что это развивает мой ум",
+      "audio": false
+    },
+    "en": {
+      "text": "I enjoy reading because it develops my mind",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Он ненавидит обсуждать это",
+      "audio": false
+    },
+    "en": {
+      "text": "He hates discussing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я ненавижу обсуждать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I hate discussing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Она ненавидит обсуждать это",
+      "audio": false
+    },
+    "en": {
+      "text": "She hates discussing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я увлекаюсь изучением английского",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm keen on learning English",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Мне действительно не нравится говорить о таких вещах",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't really like talking about such things",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Он действительно обожает помогать другим людям",
+      "audio": false
+    },
+    "en": {
+      "text": "He really enjoys helping other people",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Я действительно обожаю плавать",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy swimming",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Я особенно увлекаюсь путешествиями",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm particularly keen on travelling",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Я действительно люблю делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I really love doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Мне не нравится задавать слишком много вопросов",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't like asking too many questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Ей нравится слушать музыку",
+      "audio": false
+    },
+    "en": {
+      "text": "She likes listening to music",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Я действительно обожаю домашнюю еду",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy homemade food",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Я обожаю проводить время с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "I enjoy spending time with you",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Я ненавижу делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I hate doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Я действительно обожаю кататься на велосипеде",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy cycling",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Я люблю делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I love doing it",
+      "audio": false
+    }
   }
 ]

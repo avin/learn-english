@@ -1,117 +1,255 @@
 [
   {
-    "_id": 1,
-    "ru": "Мне кажется, что это развивает наши аналитические способности",
-    "en": "It seems to me that it develops our analytical abilities"
+    "id": 1,
+    "ru": {
+      "text": "Мне кажется, что это развивает наши аналитические способности",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me that it develops our analytical abilities",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я сидел дома весь день",
-    "en": "I was staying at home all day"
+    "id": 2,
+    "ru": {
+      "text": "Я сидел дома весь день",
+      "audio": false
+    },
+    "en": {
+      "text": "I was staying at home all day",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Когда он окончил университет?",
-    "en": "When did he graduate from university?"
+    "id": 3,
+    "ru": {
+      "text": "Когда он окончил университет?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did he graduate from university?",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Когда я заметил его, он что-то искал",
-    "en": "When I noticed him, he was looking for something"
+    "id": 4,
+    "ru": {
+      "text": "Когда я заметил его, он что-то искал",
+      "audio": false
+    },
+    "en": {
+      "text": "When I noticed him, he was looking for something",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я не согласен с этим утверждением сейчас",
-    "en": "I disagree with this statement now"
+    "id": 5,
+    "ru": {
+      "text": "Я не согласен с этим утверждением сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I disagree with this statement now",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я разделил эту сумму денег на три части",
-    "en": "I divided this sum of money into three parts"
+    "id": 6,
+    "ru": {
+      "text": "Я разделил эту сумму денег на три части",
+      "audio": false
+    },
+    "en": {
+      "text": "I divided this sum of money into three parts",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я был дома весь день",
-    "en": "I was at home all day"
+    "id": 7,
+    "ru": {
+      "text": "Я был дома весь день",
+      "audio": false
+    },
+    "en": {
+      "text": "I was at home all day",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я еще не подготовился к этому тесту",
-    "en": "I haven't prepared for this test yet"
+    "id": 8,
+    "ru": {
+      "text": "Я еще не подготовился к этому тесту",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't prepared for this test yet",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Он прилег в конце дня",
-    "en": "He lay down at the end of the day"
+    "id": 9,
+    "ru": {
+      "text": "Он прилег в конце дня",
+      "audio": false
+    },
+    "en": {
+      "text": "He lay down at the end of the day",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Почему он улыбается?",
-    "en": "Why is he smiling?"
+    "id": 10,
+    "ru": {
+      "text": "Почему он улыбается?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is he smiling?",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Он обнаружил, что кто-то украл его сумку",
-    "en": "He discovered that someone had stolen his bag"
+    "id": 11,
+    "ru": {
+      "text": "Он обнаружил, что кто-то украл его сумку",
+      "audio": false
+    },
+    "en": {
+      "text": "He discovered that someone had stolen his bag",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Учитель разделил нашу группу на несколько частей",
-    "en": "The teacher divided our group into several parts"
+    "id": 12,
+    "ru": {
+      "text": "Учитель разделил нашу группу на несколько частей",
+      "audio": false
+    },
+    "en": {
+      "text": "The teacher divided our group into several parts",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я решил не следовать этой рекомендации",
-    "en": "I decided not to follow this recommendation"
+    "id": 13,
+    "ru": {
+      "text": "Я решил не следовать этой рекомендации",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided not to follow this recommendation",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Такой пример действительно мотивирует меня",
-    "en": "Such an example really motivates me"
+    "id": 14,
+    "ru": {
+      "text": "Такой пример действительно мотивирует меня",
+      "audio": false
+    },
+    "en": {
+      "text": "Such an example really motivates me",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я только что прибыл на встречу",
-    "en": "I've just arrived at the meeting"
+    "id": 15,
+    "ru": {
+      "text": "Я только что прибыл на встречу",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just arrived at the meeting",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Я помню, как это произошло",
-    "en": "I remember how it happened"
+    "id": 16,
+    "ru": {
+      "text": "Я помню, как это произошло",
+      "audio": false
+    },
+    "en": {
+      "text": "I remember how it happened",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я уже протестировал свои знания",
-    "en": "I've already tested my knowledge"
+    "id": 17,
+    "ru": {
+      "text": "Я уже протестировал свои знания",
+      "audio": false
+    },
+    "en": {
+      "text": "I've already tested my knowledge",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Я думаю, что мы тратим время впустую сейчас",
-    "en": "I think that we're wasting time now"
+    "id": 18,
+    "ru": {
+      "text": "Я думаю, что мы тратим время впустую сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that we're wasting time now",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Ты помыл посуду?",
-    "en": "Did you wash the dishes?"
+    "id": 19,
+    "ru": {
+      "text": "Ты помыл посуду?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you wash the dishes?",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Что ты ищешь?",
-    "en": "What are you looking for?"
+    "id": 20,
+    "ru": {
+      "text": "Что ты ищешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you looking for?",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Я обнаружил, что мне дали неверную информацию",
-    "en": "I discovered that they had given me the wrong information"
+    "id": 21,
+    "ru": {
+      "text": "Я обнаружил, что мне дали неверную информацию",
+      "audio": false
+    },
+    "en": {
+      "text": "I discovered that they had given me the wrong information",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Он сказал, что они разрушили здание полностью",
-    "en": "He said that they had destroyed the building completely"
+    "id": 22,
+    "ru": {
+      "text": "Он сказал, что они разрушили здание полностью",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that they had destroyed the building completely",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Становилось темнее, и мы решили повернуть назад домой",
-    "en": "It was getting darker and we decided to turn back home"
+    "id": 23,
+    "ru": {
+      "text": "Становилось темнее, и мы решили повернуть назад домой",
+      "audio": false
+    },
+    "en": {
+      "text": "It was getting darker and we decided to turn back home",
+      "audio": false
+    }
   }
 ]

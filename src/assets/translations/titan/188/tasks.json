@@ -1,487 +1,1069 @@
 [
   {
-    "_id": 1,
-    "ru": "Это выражение звучит более формально",
-    "en": "This expression sounds more formal"
-  },
-  {
-    "_id": 2,
-    "ru": "Они хотят видеть более точные цифры",
-    "en": "They want to see more exact figures"
-  },
-  {
-    "_id": 3,
-    "ru": "Площадь около пятидесяти квадратных метров",
-    "en": "The area is around fifty square metres"
-  },
-  {
-    "_id": 4,
-    "ru": "У нее очень узкая талия",
-    "en": "She has a very narrow waist"
-  },
-  {
-    "_id": 5,
-    "ru": "Они провели клиническое исследование",
-    "en": "They conducted clinical research"
-  },
-  {
-    "_id": 6,
-    "ru": "Я стараюсь есть свежие фрукты и овощи",
-    "en": "I try to eat fresh fruit and vegetables"
-  },
-  {
-    "_id": 7,
-    "ru": "Она хочет чувствовать себя более независимой",
-    "en": "She wants to feel more independent"
-  },
-  {
-    "_id": 8,
-    "ru": "Он испытал очень неприятное чувство",
-    "en": "He experienced a very unpleasant feeling"
-  },
-  {
-    "_id": 9,
-    "ru": "Я хотел бы быть более точным",
-    "en": "I'd like to be more exact"
-  },
-  {
-    "_id": 10,
-    "ru": "Это находится перед этим зданием",
-    "en": "It's in front of this building"
-  },
-  {
-    "_id": 11,
-    "ru": "Это стандартная процедура",
-    "en": "It is a standard procedure"
-  },
-  {
-    "_id": 12,
-    "ru": "У него сильный характер",
-    "en": "He has a strong character"
-  },
-  {
-    "_id": 13,
-    "ru": "Комната около двадцати квадратных метров",
-    "en": "The room is about twenty square metres"
-  },
-  {
-    "_id": 14,
-    "ru": "Эта проблема кажется довольно философской",
-    "en": "This issue seems quite philosophical"
-  },
-  {
-    "_id": 15,
-    "ru": "Это очень узкая дорога",
-    "en": "It is a very narrow road"
-  },
-  {
-    "_id": 16,
-    "ru": "Это пульт дистанционного управления",
-    "en": "This is a remote control"
-  },
-  {
-    "_id": 17,
-    "ru": "Что не так?",
-    "en": "What's wrong?"
-  },
-  {
-    "_id": 18,
-    "ru": "Он очень молод и наивен",
-    "en": "He is very young and naive"
-  },
-  {
-    "_id": 19,
-    "ru": "Это был научный эксперимент",
-    "en": "It was a scientific experiment"
-  },
-  {
-    "_id": 20,
-    "ru": "Это ложь!",
-    "en": "That's false!"
-  },
-  {
-    "_id": 21,
-    "ru": "Учитель недостаточно строгий",
-    "en": "The teacher isn't strict enough"
-  },
-  {
-    "_id": 22,
-    "ru": "Мальчик такой худой",
-    "en": "The boy is so thin"
-  },
-  {
-    "_id": 23,
-    "ru": "Это твое окончательное решение?",
-    "en": "Is it your final decision?"
-  },
-  {
-    "_id": 24,
-    "ru": "Он очень строгий учитель",
-    "en": "He is a very strict teacher"
-  },
-  {
-    "_id": 25,
-    "ru": "Он выглядел очень бледным и худым",
-    "en": "He looked very pale and thin"
-  },
-  {
-    "_id": 26,
-    "ru": "Погода была действительно ужасная",
-    "en": "The weather was really horrible"
-  },
-  {
-    "_id": 27,
-    "ru": "Это философский вопрос",
-    "en": "It's a philosophical issue"
-  },
-  {
-    "_id": 28,
-    "ru": "Он очень позитивный человек",
-    "en": "He is a very positive person"
-  },
-  {
-    "_id": 29,
-    "ru": "Какое красивое место!",
-    "en": "What a beautiful place!"
-  },
-  {
-    "_id": 30,
-    "ru": "Это огромное здание",
-    "en": "It is an enormous building"
-  },
-  {
-    "_id": 31,
-    "ru": "Она купила очень красивое красное платье",
-    "en": "She bought a very beautiful red dress"
-  },
-  {
-    "_id": 32,
-    "ru": "У нее такой красивый голос",
-    "en": "She has such a beautiful voice"
-  },
-  {
-    "_id": 33,
-    "ru": "Качество этого продукта ниже стандарта",
-    "en": "The quality of this product is below standard"
-  },
-  {
-    "_id": 34,
-    "ru": "Их поведение кажется таким необычным",
-    "en": "Their behaviour seems so unusual"
-  },
-  {
-    "_id": 35,
-    "ru": "Эти условия совсем не приемлемы",
-    "en": "These conditions aren't acceptable at all"
-  },
-  {
-    "_id": 36,
-    "ru": "Это был клинический эксперимент",
-    "en": "It was a clinical experiment"
-  },
-  {
-    "_id": 37,
-    "ru": "Это очень редкое слово",
-    "en": "It is a very rare word"
-  },
-  {
-    "_id": 38,
-    "ru": "У нее такой сильный акцент",
-    "en": "She has such a strong accent"
-  },
-  {
-    "_id": 39,
-    "ru": "Во сколько ты завтра свободен?",
-    "en": "What time are you free tomorrow?"
-  },
-  {
-    "_id": 40,
-    "ru": "Офис находится в западной части города",
-    "en": "The office is located in the western part of the city"
-  },
-  {
-    "_id": 41,
-    "ru": "Он предоставил нам дополнительную информацию",
-    "en": "He provided us with additional information"
-  },
-  {
-    "_id": 42,
-    "ru": "Это одно из самых выдающихся недавних открытий",
-    "en": "It is one of the most outstanding recent discoveries"
-  },
-  {
-    "_id": 43,
-    "ru": "Я думаю, что это потребует дополнительных ресурсов",
-    "en": "I think it will need additional resources"
-  },
-  {
-    "_id": 44,
-    "ru": "Часто трудно быть достаточно объективным",
-    "en": "It is often difficult to be objective enough"
-  },
-  {
-    "_id": 45,
-    "ru": "Я стараюсь быть настолько объективным, насколько возможно",
-    "en": "I try to be as much objective as possible"
-  },
-  {
-    "_id": 46,
-    "ru": "Недавний опрос показал следующее",
-    "en": "A recent survey showed the following"
-  },
-  {
-    "_id": 47,
-    "ru": "Он не мотивирован работать так интенсивно",
-    "en": "He isn't motivated to work so intensively"
-  },
-  {
-    "_id": 48,
-    "ru": "Я не думаю, что это действительно приемлемо",
-    "en": "I don't think that it's really acceptable"
-  },
-  {
-    "_id": 49,
-    "ru": "Я не думаю, что это законно делать",
-    "en": "I don't think that it's legal to do it"
-  },
-  {
-    "_id": 50,
-    "ru": "Он очень эгоистичный и высокомерный человек",
-    "en": "He is a very selfish and arrogant person"
-  },
-  {
-    "_id": 51,
-    "ru": "Это расположено в западной части штата",
-    "en": "It is located in the western part of the state"
-  },
-  {
-    "_id": 52,
-    "ru": "Ты знаешь, правда это или ложь?",
-    "en": "Do you know whether it's true or false?"
-  },
-  {
-    "_id": 53,
-    "ru": "Это одно из величайших научных открытий",
-    "en": "It is one of the greatest scientific discoveries"
-  },
-  {
-    "_id": 54,
-    "ru": "Было ужасно видеть это",
-    "en": "It was horrible to see it"
-  },
-  {
-    "_id": 55,
-    "ru": "Было здорово видеть это",
-    "en": "It was great to see it"
-  },
-  {
-    "_id": 56,
-    "ru": "Было ужасно делать это",
-    "en": "It was horrible to do it"
-  },
-  {
-    "_id": 57,
-    "ru": "Они сидели в переднем ряду",
-    "en": "They sat in the front row"
-  },
-  {
-    "_id": 58,
-    "ru": "Они сидели в первом ряду",
-    "en": "They sat in the first row"
-  },
-  {
-    "_id": 59,
-    "ru": "Они сидели в последнем ряду",
-    "en": "They sat in the last row"
-  },
-  {
-    "_id": 60,
-    "ru": "Чего он боится?",
-    "en": "What was he afraid of?"
-  },
-  {
-    "_id": 61,
-    "ru": "Он действительно боится этого?",
-    "en": "Is he really afraid of it?"
-  },
-  {
-    "_id": 62,
-    "ru": "Кого он боялся?",
-    "en": "Who was he afraid of?"
-  },
-  {
-    "_id": 63,
-    "ru": "Кого она ревнует?",
-    "en": "Who is she jealous of?"
-  },
-  {
-    "_id": 64,
-    "ru": "Он очень ревнивый человек",
-    "en": "He is a very jealous person"
-  },
-  {
-    "_id": 65,
-    "ru": "Ты её ревнуешь?",
-    "en": "Are you jealous of her?"
-  },
-  {
-    "_id": 66,
-    "ru": "Это очень эгоистично с его стороны",
-    "en": "It is very selfish of him"
-  },
-  {
-    "_id": 67,
-    "ru": "Это было действительно эгоистично с твоей стороны",
-    "en": "It was really selfish of you"
-  },
-  {
-    "_id": 68,
-    "ru": "Она действительно эгоистичный человек",
-    "en": "She is a really selfish person"
-  },
-  {
-    "_id": 69,
-    "ru": "Боюсь, что ты ошибаешься",
-    "en": "I'm afraid that you are mistaken"
-  },
-  {
-    "_id": 70,
-    "ru": "Я думаю, что ты ошибался",
-    "en": "I think that you were mistaken"
-  },
-  {
-    "_id": 71,
-    "ru": "Я ошибаюсь?",
-    "en": "Am I mistaken?"
-  },
-  {
-    "_id": 72,
-    "ru": "Он купил букет красных роз",
-    "en": "He bought a bunch of red roses"
-  },
-  {
-    "_id": 73,
-    "ru": "Он принес букет белых роз",
-    "en": "He brought a bunch of white roses"
-  },
-  {
-    "_id": 74,
-    "ru": "Он дал мне букет розовых роз",
-    "en": "He gave me a bunch of pink roses"
-  },
-  {
-    "_id": 75,
-    "ru": "У каждого есть свои законные права",
-    "en": "Everyone has their legal rights"
-  },
-  {
-    "_id": 76,
-    "ru": "Каждый имеет определенные права",
-    "en": "Everyone has certain rights"
-  },
-  {
-    "_id": 77,
-    "ru": "У всех нас есть свои законные права",
-    "en": "We all have our legal rights"
-  },
-  {
-    "_id": 78,
-    "ru": "Я сыт по горло этим постоянным шумом",
-    "en": "I'm fed up with this constant noise"
-  },
-  {
-    "_id": 79,
-    "ru": "Я сыт по горло этой работой",
-    "en": "I'm fed up with this work"
-  },
-  {
-    "_id": 80,
-    "ru": "Я сыт по горло твоим поведением",
-    "en": "I'm fed up with your behaviour"
-  },
-  {
-    "_id": 81,
-    "ru": "Было немного необычно видеть его там",
-    "en": "It was a bit unusual to see him there"
-  },
-  {
-    "_id": 82,
-    "ru": "Было действительно необычно видеть его здесь",
-    "en": "It was really unusual to see him here"
-  },
-  {
-    "_id": 83,
-    "ru": "Было немного необычно встретить тебя там",
-    "en": "It was a bit unusual to meet you there"
-  },
-  {
-    "_id": 84,
-    "ru": "Ситуация не сильно улучшилась в последние годы",
-    "en": "The situation hasn't improved much in recent years"
-  },
-  {
-    "_id": 85,
-    "ru": "Очень неприятно видеть это",
-    "en": "It is very unpleasant to see it"
-  },
-  {
-    "_id": 86,
-    "ru": "В комнате не достаточно свежего воздуха",
-    "en": "There isn't enough fresh air in the room"
-  },
-  {
-    "_id": 87,
-    "ru": "Это иногда происходит в редких случаях",
-    "en": "It sometimes takes place in rare cases"
-  },
-  {
-    "_id": 88,
-    "ru": "Конечно, я желаю, чтобы у меня было больше свободного времени",
-    "en": "Of course, I wish I had more free time"
-  },
-  {
-    "_id": 89,
-    "ru": "Я не вижу в этом ничего плохого",
-    "en": "I see nothing wrong about it"
-  },
-  {
-    "_id": 90,
-    "ru": "Ему пришлось заплатить огромную сумму денег",
-    "en": "He had to pay an enormous sum of money"
-  },
-  {
-    "_id": 91,
-    "ru": "Чем он любит заниматься в свободное время?",
-    "en": "What does he like doing in his free time?"
-  },
-  {
-    "_id": 92,
-    "ru": "Он сыт по горло постоянными ошибками",
-    "en": "He's fed up with making constant mistakes"
-  },
-  {
-    "_id": 93,
-    "ru": "Она очень ревнует своего мужа",
-    "en": "She is very jealous of her husband"
-  },
-  {
-    "_id": 94,
-    "ru": "Я еще не принял окончательное решение",
-    "en": "I haven't made the final decision yet"
-  },
-  {
-    "_id": 95,
-    "ru": "Страна стала независимой от других стран",
-    "en": "The country became independent from other countries"
-  },
-  {
-    "_id": 96,
-    "ru": "Это очень типично для людей помладше",
-    "en": "It's very typical of younger people"
-  },
-  {
-    "_id": 97,
-    "ru": "Это часто используется в формальном английском языке",
-    "en": "It is often used in formal English"
+    "id": 1,
+    "ru": {
+      "text": "Это выражение звучит более формально",
+      "audio": false
+    },
+    "en": {
+      "text": "This expression sounds more formal",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Они хотят видеть более точные цифры",
+      "audio": false
+    },
+    "en": {
+      "text": "They want to see more exact figures",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Площадь около пятидесяти квадратных метров",
+      "audio": false
+    },
+    "en": {
+      "text": "The area is around fifty square metres",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "У нее очень узкая талия",
+      "audio": false
+    },
+    "en": {
+      "text": "She has a very narrow waist",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Они провели клиническое исследование",
+      "audio": false
+    },
+    "en": {
+      "text": "They conducted clinical research",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я стараюсь есть свежие фрукты и овощи",
+      "audio": false
+    },
+    "en": {
+      "text": "I try to eat fresh fruit and vegetables",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Она хочет чувствовать себя более независимой",
+      "audio": false
+    },
+    "en": {
+      "text": "She wants to feel more independent",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Он испытал очень неприятное чувство",
+      "audio": false
+    },
+    "en": {
+      "text": "He experienced a very unpleasant feeling",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я хотел бы быть более точным",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to be more exact",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Это находится перед этим зданием",
+      "audio": false
+    },
+    "en": {
+      "text": "It's in front of this building",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Это стандартная процедура",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a standard procedure",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "У него сильный характер",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a strong character",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Комната около двадцати квадратных метров",
+      "audio": false
+    },
+    "en": {
+      "text": "The room is about twenty square metres",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Эта проблема кажется довольно философской",
+      "audio": false
+    },
+    "en": {
+      "text": "This issue seems quite philosophical",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Это очень узкая дорога",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a very narrow road",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Это пульт дистанционного управления",
+      "audio": false
+    },
+    "en": {
+      "text": "This is a remote control",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Что не так?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's wrong?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Он очень молод и наивен",
+      "audio": false
+    },
+    "en": {
+      "text": "He is very young and naive",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Это был научный эксперимент",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a scientific experiment",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Это ложь!",
+      "audio": false
+    },
+    "en": {
+      "text": "That's false!",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Учитель недостаточно строгий",
+      "audio": false
+    },
+    "en": {
+      "text": "The teacher isn't strict enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Мальчик такой худой",
+      "audio": false
+    },
+    "en": {
+      "text": "The boy is so thin",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Это твое окончательное решение?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it your final decision?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Он очень строгий учитель",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a very strict teacher",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Он выглядел очень бледным и худым",
+      "audio": false
+    },
+    "en": {
+      "text": "He looked very pale and thin",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Погода была действительно ужасная",
+      "audio": false
+    },
+    "en": {
+      "text": "The weather was really horrible",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Это философский вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a philosophical issue",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Он очень позитивный человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a very positive person",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Какое красивое место!",
+      "audio": false
+    },
+    "en": {
+      "text": "What a beautiful place!",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Это огромное здание",
+      "audio": false
+    },
+    "en": {
+      "text": "It is an enormous building",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Она купила очень красивое красное платье",
+      "audio": false
+    },
+    "en": {
+      "text": "She bought a very beautiful red dress",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "У нее такой красивый голос",
+      "audio": false
+    },
+    "en": {
+      "text": "She has such a beautiful voice",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Качество этого продукта ниже стандарта",
+      "audio": false
+    },
+    "en": {
+      "text": "The quality of this product is below standard",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Их поведение кажется таким необычным",
+      "audio": false
+    },
+    "en": {
+      "text": "Their behaviour seems so unusual",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Эти условия совсем не приемлемы",
+      "audio": false
+    },
+    "en": {
+      "text": "These conditions aren't acceptable at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Это был клинический эксперимент",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a clinical experiment",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Это очень редкое слово",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a very rare word",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "У нее такой сильный акцент",
+      "audio": false
+    },
+    "en": {
+      "text": "She has such a strong accent",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Во сколько ты завтра свободен?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time are you free tomorrow?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Офис находится в западной части города",
+      "audio": false
+    },
+    "en": {
+      "text": "The office is located in the western part of the city",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Он предоставил нам дополнительную информацию",
+      "audio": false
+    },
+    "en": {
+      "text": "He provided us with additional information",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Это одно из самых выдающихся недавних открытий",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the most outstanding recent discoveries",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я думаю, что это потребует дополнительных ресурсов",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it will need additional resources",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Часто трудно быть достаточно объективным",
+      "audio": false
+    },
+    "en": {
+      "text": "It is often difficult to be objective enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я стараюсь быть настолько объективным, насколько возможно",
+      "audio": false
+    },
+    "en": {
+      "text": "I try to be as much objective as possible",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Недавний опрос показал следующее",
+      "audio": false
+    },
+    "en": {
+      "text": "A recent survey showed the following",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Он не мотивирован работать так интенсивно",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't motivated to work so intensively",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я не думаю, что это действительно приемлемо",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that it's really acceptable",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я не думаю, что это законно делать",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that it's legal to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он очень эгоистичный и высокомерный человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a very selfish and arrogant person",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Это расположено в западной части штата",
+      "audio": false
+    },
+    "en": {
+      "text": "It is located in the western part of the state",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Ты знаешь, правда это или ложь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know whether it's true or false?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Это одно из величайших научных открытий",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the greatest scientific discoveries",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Было ужасно видеть это",
+      "audio": false
+    },
+    "en": {
+      "text": "It was horrible to see it",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Было здорово видеть это",
+      "audio": false
+    },
+    "en": {
+      "text": "It was great to see it",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Было ужасно делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "It was horrible to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Они сидели в переднем ряду",
+      "audio": false
+    },
+    "en": {
+      "text": "They sat in the front row",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Они сидели в первом ряду",
+      "audio": false
+    },
+    "en": {
+      "text": "They sat in the first row",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Они сидели в последнем ряду",
+      "audio": false
+    },
+    "en": {
+      "text": "They sat in the last row",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Чего он боится?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was he afraid of?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он действительно боится этого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he really afraid of it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Кого он боялся?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was he afraid of?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Кого она ревнует?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is she jealous of?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он очень ревнивый человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a very jealous person",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Ты её ревнуешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you jealous of her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Это очень эгоистично с его стороны",
+      "audio": false
+    },
+    "en": {
+      "text": "It is very selfish of him",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Это было действительно эгоистично с твоей стороны",
+      "audio": false
+    },
+    "en": {
+      "text": "It was really selfish of you",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Она действительно эгоистичный человек",
+      "audio": false
+    },
+    "en": {
+      "text": "She is a really selfish person",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Боюсь, что ты ошибаешься",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm afraid that you are mistaken",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я думаю, что ты ошибался",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that you were mistaken",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я ошибаюсь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Am I mistaken?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Он купил букет красных роз",
+      "audio": false
+    },
+    "en": {
+      "text": "He bought a bunch of red roses",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Он принес букет белых роз",
+      "audio": false
+    },
+    "en": {
+      "text": "He brought a bunch of white roses",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Он дал мне букет розовых роз",
+      "audio": false
+    },
+    "en": {
+      "text": "He gave me a bunch of pink roses",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "У каждого есть свои законные права",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone has their legal rights",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Каждый имеет определенные права",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone has certain rights",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "У всех нас есть свои законные права",
+      "audio": false
+    },
+    "en": {
+      "text": "We all have our legal rights",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я сыт по горло этим постоянным шумом",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm fed up with this constant noise",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Я сыт по горло этой работой",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm fed up with this work",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я сыт по горло твоим поведением",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm fed up with your behaviour",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Было немного необычно видеть его там",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a bit unusual to see him there",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Было действительно необычно видеть его здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "It was really unusual to see him here",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Было немного необычно встретить тебя там",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a bit unusual to meet you there",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Ситуация не сильно улучшилась в последние годы",
+      "audio": false
+    },
+    "en": {
+      "text": "The situation hasn't improved much in recent years",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Очень неприятно видеть это",
+      "audio": false
+    },
+    "en": {
+      "text": "It is very unpleasant to see it",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "В комнате не достаточно свежего воздуха",
+      "audio": false
+    },
+    "en": {
+      "text": "There isn't enough fresh air in the room",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Это иногда происходит в редких случаях",
+      "audio": false
+    },
+    "en": {
+      "text": "It sometimes takes place in rare cases",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Конечно, я желаю, чтобы у меня было больше свободного времени",
+      "audio": false
+    },
+    "en": {
+      "text": "Of course, I wish I had more free time",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Я не вижу в этом ничего плохого",
+      "audio": false
+    },
+    "en": {
+      "text": "I see nothing wrong about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Ему пришлось заплатить огромную сумму денег",
+      "audio": false
+    },
+    "en": {
+      "text": "He had to pay an enormous sum of money",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Чем он любит заниматься в свободное время?",
+      "audio": false
+    },
+    "en": {
+      "text": "What does he like doing in his free time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Он сыт по горло постоянными ошибками",
+      "audio": false
+    },
+    "en": {
+      "text": "He's fed up with making constant mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Она очень ревнует своего мужа",
+      "audio": false
+    },
+    "en": {
+      "text": "She is very jealous of her husband",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Я еще не принял окончательное решение",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't made the final decision yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Страна стала независимой от других стран",
+      "audio": false
+    },
+    "en": {
+      "text": "The country became independent from other countries",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Это очень типично для людей помладше",
+      "audio": false
+    },
+    "en": {
+      "text": "It's very typical of younger people",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Это часто используется в формальном английском языке",
+      "audio": false
+    },
+    "en": {
+      "text": "It is often used in formal English",
+      "audio": false
+    }
   }
 ]

@@ -1,457 +1,1003 @@
 [
   {
-    "_id": 1,
-    "ru": "Я хотел общаться с людьми из других стран",
-    "en": "I wanted to communicate with people from other countries"
-  },
-  {
-    "_id": 2,
-    "ru": "Я с большим удовольствием принял его приглашение",
-    "en": "I accepted his invitation with great pleasure"
-  },
-  {
-    "_id": 3,
-    "ru": "Она улыбнулась ему",
-    "en": "She smiled at him"
-  },
-  {
-    "_id": 4,
-    "ru": "Он испытал некоторые трудности в начале",
-    "en": "He experienced some difficulties in the beginning"
-  },
-  {
-    "_id": 5,
-    "ru": "Он описал свою внешность",
-    "en": "He described his appearance"
-  },
-  {
-    "_id": 6,
-    "ru": "Я не мог представить свою жизнь без этого",
-    "en": "I couldn't imagine my life without it"
-  },
-  {
-    "_id": 7,
-    "ru": "Я разделил это на четыре части",
-    "en": "I divided it into four parts"
-  },
-  {
-    "_id": 8,
-    "ru": "Я хотел знать все",
-    "en": "I wanted to know everything"
-  },
-  {
-    "_id": 9,
-    "ru": "Они подписали соглашение",
-    "en": "They signed an agreement"
-  },
-  {
-    "_id": 10,
-    "ru": "Я не мог упустить этот шанс",
-    "en": "I couldn't miss this chance"
-  },
-  {
-    "_id": 11,
-    "ru": "Я посетил это место во второй раз",
-    "en": "I visited this place for the second time"
-  },
-  {
-    "_id": 12,
-    "ru": "Она выслушала мой совет",
-    "en": "She listened to my advice"
-  },
-  {
-    "_id": 13,
-    "ru": "Мы вместе работали над другим проектом",
-    "en": "We worked on another project together"
-  },
-  {
-    "_id": 14,
-    "ru": "Они с большим удовольствием приняли мое предложение",
-    "en": "They accepted my offer with great pleasure"
-  },
-  {
-    "_id": 15,
-    "ru": "Я этого не ожидал",
-    "en": "I didn't expect it"
-  },
-  {
-    "_id": 16,
-    "ru": "Мы начали работать",
-    "en": "We started working"
-  },
-  {
-    "_id": 17,
-    "ru": "Это случилось со мной однажды",
-    "en": "It happened to me one day"
-  },
-  {
-    "_id": 18,
-    "ru": "Я работал над новым проектом",
-    "en": "I worked on a new project"
-  },
-  {
-    "_id": 19,
-    "ru": "Мне нужно было немного расслабиться",
-    "en": "I needed to relax a bit"
-  },
-  {
-    "_id": 20,
-    "ru": "Я хотел общаться с разными людьми",
-    "en": "I wanted to communicate with different people"
-  },
-  {
-    "_id": 21,
-    "ru": "Он провалил экзамен",
-    "en": "He failed the exam"
-  },
-  {
-    "_id": 22,
-    "ru": "Я часто гулял в парке",
-    "en": "I often walked in the park"
-  },
-  {
-    "_id": 23,
-    "ru": "Он сообщил мне о той проблеме",
-    "en": "He informed me of that problem"
-  },
-  {
-    "_id": 24,
-    "ru": "Я не хотел убивать время",
-    "en": "I didn't want to kill the time"
-  },
-  {
-    "_id": 25,
-    "ru": "Это разрушило деревню",
-    "en": "It destroyed the village"
-  },
-  {
-    "_id": 26,
-    "ru": "Она провалила тест",
-    "en": "She failed the test"
-  },
-  {
-    "_id": 27,
-    "ru": "Я опоздал на автобус",
-    "en": "I missed the bus"
-  },
-  {
-    "_id": 28,
-    "ru": "Мальчики часто смеялись над ним",
-    "en": "The boys often laughed at him"
-  },
-  {
-    "_id": 29,
-    "ru": "Это разрушило его здоровье",
-    "en": "It destroyed his health"
-  },
-  {
-    "_id": 30,
-    "ru": "Я навещал там некоторых своих родственников",
-    "en": "I visited some of my relatives there"
-  },
-  {
-    "_id": 31,
-    "ru": "Он улыбнулся ей",
-    "en": "He smiled at her"
-  },
-  {
-    "_id": 32,
-    "ru": "Я не мог упустить ту возможность",
-    "en": "I couldn't miss that opportunity"
-  },
-  {
-    "_id": 33,
-    "ru": "Я хотел отдохнуть только чуть-чуть",
-    "en": "I wanted to relax just a little bit"
-  },
-  {
-    "_id": 34,
-    "ru": "Они разрушили здание",
-    "en": "They destroyed the building"
-  },
-  {
-    "_id": 35,
-    "ru": "Я пошел домой после работы",
-    "en": "I walked home after work"
-  },
-  {
-    "_id": 36,
-    "ru": "Я испытывал некоторые трудности",
-    "en": "I experienced some difficulties"
-  },
-  {
-    "_id": 37,
-    "ru": "Я часто ходил на работу",
-    "en": "I often walked to work"
-  },
-  {
-    "_id": 38,
-    "ru": "Я ожидал более хорошие результаты",
-    "en": "I expected better results"
-  },
-  {
-    "_id": 39,
-    "ru": "Я не мог представить это",
-    "en": "I couldn't imagine it"
-  },
-  {
-    "_id": 40,
-    "ru": "Я начал думать о поездке в Соединенные Штаты",
-    "en": "I started thinking about going to the United States"
-  },
-  {
-    "_id": 41,
-    "ru": "Она описала внешний вид того мужчины",
-    "en": "She described the appearance of that man"
-  },
-  {
-    "_id": 42,
-    "ru": "Я не мог сосредоточиться из-за того шума",
-    "en": "I couldn't concentrate because of that noise"
-  },
-  {
-    "_id": 43,
-    "ru": "Наш учитель все объяснил мне",
-    "en": "Our teacher explained everything to me"
-  },
-  {
-    "_id": 44,
-    "ru": "Они начали смеяться над ним",
-    "en": "They started laughing at him"
-  },
-  {
-    "_id": 45,
-    "ru": "Он не объяснил мне эту вещь",
-    "en": "He didn't explain this thing to me"
-  },
-  {
-    "_id": 46,
-    "ru": "Я осознавал, что это было очень важно",
-    "en": "I realised that it was very important"
-  },
-  {
-    "_id": 47,
-    "ru": "Мои коллеги сообщили мне об этих трудностях",
-    "en": "My colleagues informed me of these difficulties"
-  },
-  {
-    "_id": 48,
-    "ru": "Я осознал важность того решения",
-    "en": "I realised the importance of that decision"
-  },
-  {
-    "_id": 49,
-    "ru": "Я хотел сделать это как можно скорее",
-    "en": "I wanted to do it as soon as possible"
-  },
-  {
-    "_id": 50,
-    "ru": "Я должен был идти на работу вчера",
-    "en": "I had to go to work yesterday"
-  },
-  {
-    "_id": 51,
-    "ru": "Я начал думать об этом более серьезно",
-    "en": "I started thinking about it more seriously"
-  },
-  {
-    "_id": 52,
-    "ru": "Он перестал думать об этом",
-    "en": "He stopped thinking about it"
-  },
-  {
-    "_id": 53,
-    "ru": "Я начал думать об этом чаще",
-    "en": "I started thinking about it more often"
-  },
-  {
-    "_id": 54,
-    "ru": "Он решил бросить курить",
-    "en": "He decided to stop smoking"
-  },
-  {
-    "_id": 55,
-    "ru": "Я решил бросить курить",
-    "en": "I decided to stop smoking"
-  },
-  {
-    "_id": 56,
-    "ru": "Она решила бросить пить алкоголь",
-    "en": "She decided to stop drinking alcohol"
-  },
-  {
-    "_id": 57,
-    "ru": "Как это случилось с ним?",
-    "en": "How did it happen to him?"
-  },
-  {
-    "_id": 58,
-    "ru": "Когда это случилось с тобой?",
-    "en": "When did it happen to you?"
-  },
-  {
-    "_id": 59,
-    "ru": "Где это случилось с ней?",
-    "en": "Where did it happen to her?"
-  },
-  {
-    "_id": 60,
-    "ru": "Я решил не подписывать тот контракт",
-    "en": "I decided not to sign that contract"
-  },
-  {
-    "_id": 61,
-    "ru": "Я решил подписать этот контракт",
-    "en": "I decided to sign this contract"
-  },
-  {
-    "_id": 62,
-    "ru": "Он решил не подписывать тот документ",
-    "en": "He decided not to sign that document"
-  },
-  {
-    "_id": 63,
-    "ru": "Когда это случилось с ними?",
-    "en": "When did it happen to them?"
-  },
-  {
-    "_id": 64,
-    "ru": "Наш учитель объяснил нам все очень четко",
-    "en": "Our teacher explained everything to us very clearly"
-  },
-  {
-    "_id": 65,
-    "ru": "Их учитель объяснил им все",
-    "en": "Their teacher explained everything to them"
-  },
-  {
-    "_id": 66,
-    "ru": "Мой учитель объяснил мне это очень четко",
-    "en": "My teacher explained it to me very clearly"
-  },
-  {
-    "_id": 67,
-    "ru": "Я слушал радио только иногда",
-    "en": "I listened to the radio only sometimes"
-  },
-  {
-    "_id": 68,
-    "ru": "Я часто слушал радио",
-    "en": "I often listened to the radio"
-  },
-  {
-    "_id": 69,
-    "ru": "Он не слушал радио",
-    "en": "He didn't listen to the radio"
-  },
-  {
-    "_id": 70,
-    "ru": "Я поспешил, чтобы не опоздать на автобус",
-    "en": "I hurried up not to miss the bus"
-  },
-  {
-    "_id": 71,
-    "ru": "Я поспешил, чтобы не опоздать на этот автобус",
-    "en": "I hurried up not to miss this bus"
-  },
-  {
-    "_id": 72,
-    "ru": "Он поспешил, чтобы не опоздать на поезд",
-    "en": "He hurried up not to miss the train"
-  },
-  {
-    "_id": 73,
-    "ru": "Наш учитель разделил класс на пять групп",
-    "en": "Our teacher divided the class into five groups"
-  },
-  {
-    "_id": 74,
-    "ru": "Наш учитель разделил наш класс на четыре группы",
-    "en": "Our teacher divided our class into four groups"
-  },
-  {
-    "_id": 75,
-    "ru": "Твой учитель разделил класс на группы",
-    "en": "Your teacher divided the class into groups"
-  },
-  {
-    "_id": 76,
-    "ru": "Мы начали работать вместе",
-    "en": "We started working together"
-  },
-  {
-    "_id": 77,
-    "ru": "Мы перестали работать вместе",
-    "en": "We stopped working together"
-  },
-  {
-    "_id": 78,
-    "ru": "Мы начали работать над этим проектом",
-    "en": "We started working on this project"
-  },
-  {
-    "_id": 79,
-    "ru": "Я начал думать о переезде в другой город",
-    "en": "I started thinking about moving to another city"
-  },
-  {
-    "_id": 80,
-    "ru": "Она часто слушала радио",
-    "en": "She often listened to the radio"
-  },
-  {
-    "_id": 81,
-    "ru": "Учитель разделил нашу группу на три части",
-    "en": "The teacher divided our group into three parts"
-  },
-  {
-    "_id": 82,
-    "ru": "Я осознавал важность этого события",
-    "en": "I realised the importance of this event"
-  },
-  {
-    "_id": 83,
-    "ru": "Я ожидал более хорошего результата",
-    "en": "I expected a better result"
-  },
-  {
-    "_id": 84,
-    "ru": "Я не хотел слушать это",
-    "en": "I didn't want to listen to it"
-  },
-  {
-    "_id": 85,
-    "ru": "Я не мог сосредоточиться из-за него",
-    "en": "I couldn't concentrate because of him"
-  },
-  {
-    "_id": 86,
-    "ru": "Я сумел поступить в этот университет",
-    "en": "I managed to enter this university"
-  },
-  {
-    "_id": 87,
-    "ru": "Я пытался забыть это",
-    "en": "I tried to forget it"
-  },
-  {
-    "_id": 88,
-    "ru": "Я отказался сделать это",
-    "en": "I refused to do it"
-  },
-  {
-    "_id": 89,
-    "ru": "Мне пришлось работать весь день",
-    "en": "I had to work all day"
-  },
-  {
-    "_id": 90,
-    "ru": "Он объяснил это мне",
-    "en": "He explained it to me"
-  },
-  {
-    "_id": 91,
-    "ru": "Они сообщили мне об этой проблеме",
-    "en": "They informed me of this problem"
+    "id": 1,
+    "ru": {
+      "text": "Я хотел общаться с людьми из других стран",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to communicate with people from other countries",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я с большим удовольствием принял его приглашение",
+      "audio": false
+    },
+    "en": {
+      "text": "I accepted his invitation with great pleasure",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Она улыбнулась ему",
+      "audio": false
+    },
+    "en": {
+      "text": "She smiled at him",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Он испытал некоторые трудности в начале",
+      "audio": false
+    },
+    "en": {
+      "text": "He experienced some difficulties in the beginning",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Он описал свою внешность",
+      "audio": false
+    },
+    "en": {
+      "text": "He described his appearance",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я не мог представить свою жизнь без этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I couldn't imagine my life without it",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Я разделил это на четыре части",
+      "audio": false
+    },
+    "en": {
+      "text": "I divided it into four parts",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я хотел знать все",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to know everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Они подписали соглашение",
+      "audio": false
+    },
+    "en": {
+      "text": "They signed an agreement",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я не мог упустить этот шанс",
+      "audio": false
+    },
+    "en": {
+      "text": "I couldn't miss this chance",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я посетил это место во второй раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I visited this place for the second time",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Она выслушала мой совет",
+      "audio": false
+    },
+    "en": {
+      "text": "She listened to my advice",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Мы вместе работали над другим проектом",
+      "audio": false
+    },
+    "en": {
+      "text": "We worked on another project together",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Они с большим удовольствием приняли мое предложение",
+      "audio": false
+    },
+    "en": {
+      "text": "They accepted my offer with great pleasure",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я этого не ожидал",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't expect it",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Мы начали работать",
+      "audio": false
+    },
+    "en": {
+      "text": "We started working",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Это случилось со мной однажды",
+      "audio": false
+    },
+    "en": {
+      "text": "It happened to me one day",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я работал над новым проектом",
+      "audio": false
+    },
+    "en": {
+      "text": "I worked on a new project",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Мне нужно было немного расслабиться",
+      "audio": false
+    },
+    "en": {
+      "text": "I needed to relax a bit",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я хотел общаться с разными людьми",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to communicate with different people",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Он провалил экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "He failed the exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Я часто гулял в парке",
+      "audio": false
+    },
+    "en": {
+      "text": "I often walked in the park",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он сообщил мне о той проблеме",
+      "audio": false
+    },
+    "en": {
+      "text": "He informed me of that problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Я не хотел убивать время",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't want to kill the time",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Это разрушило деревню",
+      "audio": false
+    },
+    "en": {
+      "text": "It destroyed the village",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Она провалила тест",
+      "audio": false
+    },
+    "en": {
+      "text": "She failed the test",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я опоздал на автобус",
+      "audio": false
+    },
+    "en": {
+      "text": "I missed the bus",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Мальчики часто смеялись над ним",
+      "audio": false
+    },
+    "en": {
+      "text": "The boys often laughed at him",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Это разрушило его здоровье",
+      "audio": false
+    },
+    "en": {
+      "text": "It destroyed his health",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я навещал там некоторых своих родственников",
+      "audio": false
+    },
+    "en": {
+      "text": "I visited some of my relatives there",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Он улыбнулся ей",
+      "audio": false
+    },
+    "en": {
+      "text": "He smiled at her",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я не мог упустить ту возможность",
+      "audio": false
+    },
+    "en": {
+      "text": "I couldn't miss that opportunity",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я хотел отдохнуть только чуть-чуть",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to relax just a little bit",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Они разрушили здание",
+      "audio": false
+    },
+    "en": {
+      "text": "They destroyed the building",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я пошел домой после работы",
+      "audio": false
+    },
+    "en": {
+      "text": "I walked home after work",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я испытывал некоторые трудности",
+      "audio": false
+    },
+    "en": {
+      "text": "I experienced some difficulties",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я часто ходил на работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I often walked to work",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Я ожидал более хорошие результаты",
+      "audio": false
+    },
+    "en": {
+      "text": "I expected better results",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я не мог представить это",
+      "audio": false
+    },
+    "en": {
+      "text": "I couldn't imagine it",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я начал думать о поездке в Соединенные Штаты",
+      "audio": false
+    },
+    "en": {
+      "text": "I started thinking about going to the United States",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Она описала внешний вид того мужчины",
+      "audio": false
+    },
+    "en": {
+      "text": "She described the appearance of that man",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я не мог сосредоточиться из-за того шума",
+      "audio": false
+    },
+    "en": {
+      "text": "I couldn't concentrate because of that noise",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Наш учитель все объяснил мне",
+      "audio": false
+    },
+    "en": {
+      "text": "Our teacher explained everything to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Они начали смеяться над ним",
+      "audio": false
+    },
+    "en": {
+      "text": "They started laughing at him",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Он не объяснил мне эту вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't explain this thing to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я осознавал, что это было очень важно",
+      "audio": false
+    },
+    "en": {
+      "text": "I realised that it was very important",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Мои коллеги сообщили мне об этих трудностях",
+      "audio": false
+    },
+    "en": {
+      "text": "My colleagues informed me of these difficulties",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я осознал важность того решения",
+      "audio": false
+    },
+    "en": {
+      "text": "I realised the importance of that decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я хотел сделать это как можно скорее",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to do it as soon as possible",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я должен был идти на работу вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I had to go to work yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я начал думать об этом более серьезно",
+      "audio": false
+    },
+    "en": {
+      "text": "I started thinking about it more seriously",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Он перестал думать об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "He stopped thinking about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я начал думать об этом чаще",
+      "audio": false
+    },
+    "en": {
+      "text": "I started thinking about it more often",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Он решил бросить курить",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided to stop smoking",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я решил бросить курить",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to stop smoking",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Она решила бросить пить алкоголь",
+      "audio": false
+    },
+    "en": {
+      "text": "She decided to stop drinking alcohol",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Как это случилось с ним?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did it happen to him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Когда это случилось с тобой?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did it happen to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Где это случилось с ней?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did it happen to her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я решил не подписывать тот контракт",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided not to sign that contract",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я решил подписать этот контракт",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to sign this contract",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Он решил не подписывать тот документ",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided not to sign that document",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Когда это случилось с ними?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did it happen to them?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Наш учитель объяснил нам все очень четко",
+      "audio": false
+    },
+    "en": {
+      "text": "Our teacher explained everything to us very clearly",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Их учитель объяснил им все",
+      "audio": false
+    },
+    "en": {
+      "text": "Their teacher explained everything to them",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Мой учитель объяснил мне это очень четко",
+      "audio": false
+    },
+    "en": {
+      "text": "My teacher explained it to me very clearly",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я слушал радио только иногда",
+      "audio": false
+    },
+    "en": {
+      "text": "I listened to the radio only sometimes",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я часто слушал радио",
+      "audio": false
+    },
+    "en": {
+      "text": "I often listened to the radio",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Он не слушал радио",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't listen to the radio",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я поспешил, чтобы не опоздать на автобус",
+      "audio": false
+    },
+    "en": {
+      "text": "I hurried up not to miss the bus",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я поспешил, чтобы не опоздать на этот автобус",
+      "audio": false
+    },
+    "en": {
+      "text": "I hurried up not to miss this bus",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Он поспешил, чтобы не опоздать на поезд",
+      "audio": false
+    },
+    "en": {
+      "text": "He hurried up not to miss the train",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Наш учитель разделил класс на пять групп",
+      "audio": false
+    },
+    "en": {
+      "text": "Our teacher divided the class into five groups",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Наш учитель разделил наш класс на четыре группы",
+      "audio": false
+    },
+    "en": {
+      "text": "Our teacher divided our class into four groups",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Твой учитель разделил класс на группы",
+      "audio": false
+    },
+    "en": {
+      "text": "Your teacher divided the class into groups",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Мы начали работать вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "We started working together",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Мы перестали работать вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "We stopped working together",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Мы начали работать над этим проектом",
+      "audio": false
+    },
+    "en": {
+      "text": "We started working on this project",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Я начал думать о переезде в другой город",
+      "audio": false
+    },
+    "en": {
+      "text": "I started thinking about moving to another city",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Она часто слушала радио",
+      "audio": false
+    },
+    "en": {
+      "text": "She often listened to the radio",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Учитель разделил нашу группу на три части",
+      "audio": false
+    },
+    "en": {
+      "text": "The teacher divided our group into three parts",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я осознавал важность этого события",
+      "audio": false
+    },
+    "en": {
+      "text": "I realised the importance of this event",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я ожидал более хорошего результата",
+      "audio": false
+    },
+    "en": {
+      "text": "I expected a better result",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я не хотел слушать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't want to listen to it",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я не мог сосредоточиться из-за него",
+      "audio": false
+    },
+    "en": {
+      "text": "I couldn't concentrate because of him",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Я сумел поступить в этот университет",
+      "audio": false
+    },
+    "en": {
+      "text": "I managed to enter this university",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Я пытался забыть это",
+      "audio": false
+    },
+    "en": {
+      "text": "I tried to forget it",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Я отказался сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I refused to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Мне пришлось работать весь день",
+      "audio": false
+    },
+    "en": {
+      "text": "I had to work all day",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Он объяснил это мне",
+      "audio": false
+    },
+    "en": {
+      "text": "He explained it to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Они сообщили мне об этой проблеме",
+      "audio": false
+    },
+    "en": {
+      "text": "They informed me of this problem",
+      "audio": false
+    }
   }
 ]

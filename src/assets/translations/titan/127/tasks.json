@@ -1,447 +1,981 @@
 [
   {
-    "_id": 1,
-    "ru": "Товары были доставлены вовремя",
-    "en": "The goods were delivered on time"
-  },
-  {
-    "_id": 2,
-    "ru": "Что задержало тебя?",
-    "en": "What delayed you?"
-  },
-  {
-    "_id": 3,
-    "ru": "Я положил это на стол",
-    "en": "I laid it on the table"
-  },
-  {
-    "_id": 4,
-    "ru": "Ему пришлось продать свой бизнес",
-    "en": "He had to sell his business"
-  },
-  {
-    "_id": 5,
-    "ru": "Он пришел на вечеринку или нет?",
-    "en": "Did he come to the party or not?"
-  },
-  {
-    "_id": 6,
-    "ru": "Она убрала комнату",
-    "en": "She cleaned the room"
-  },
-  {
-    "_id": 7,
-    "ru": "Этот дом скоро будет продан",
-    "en": "This house will be sold soon"
-  },
-  {
-    "_id": 8,
-    "ru": "Я не думаю, что он согласится сделать это",
-    "en": "I don't think that he will agree to do it"
-  },
-  {
-    "_id": 9,
-    "ru": "Когда она открыла дверь, он играл на гитаре",
-    "en": "When she opened the door, he was playing the guitar"
-  },
-  {
-    "_id": 10,
-    "ru": "Я вырос в Соединенных Штатах",
-    "en": "I grew up in the United States"
-  },
-  {
-    "_id": 11,
-    "ru": "Если ты умножишь десять на пять, ты получишь пятьдесят",
-    "en": "If you multiply ten by five, you will get fifty"
-  },
-  {
-    "_id": 12,
-    "ru": "Она согласилась сделать это в конце",
-    "en": "She agreed to do it in the end"
-  },
-  {
-    "_id": 13,
-    "ru": "Я абсолютно уверен, что Бог существует",
-    "en": "I'm absolutely sure that God exists"
-  },
-  {
-    "_id": 14,
-    "ru": "Как они разрешили тот конфликт?",
-    "en": "How did they resolve that conflict?"
-  },
-  {
-    "_id": 15,
-    "ru": "Что тебя напугало больше всего?",
-    "en": "What frightened you most of all?"
-  },
-  {
-    "_id": 16,
-    "ru": "Когда ты мне это покажешь?",
-    "en": "When will you show it to me?"
-  },
-  {
-    "_id": 17,
-    "ru": "Как он обычно добирается до работы?",
-    "en": "How does he usually get to work?"
-  },
-  {
-    "_id": 18,
-    "ru": "Та собака его укусила",
-    "en": "That dog bit him"
-  },
-  {
-    "_id": 19,
-    "ru": "Его очень сильно избили",
-    "en": "He was beaten very badly"
-  },
-  {
-    "_id": 20,
-    "ru": "Кто пнул дверь?",
-    "en": "Who kicked the door?"
-  },
-  {
-    "_id": 21,
-    "ru": "Он поднялся на гору",
-    "en": "He climbed up the mountain"
-  },
-  {
-    "_id": 22,
-    "ru": "Это было показано по телевизору",
-    "en": "It was shown on TV"
-  },
-  {
-    "_id": 23,
-    "ru": "Когда это будет доставлено?",
-    "en": "When will it be delivered?"
-  },
-  {
-    "_id": 24,
-    "ru": "Он умеет ездить на велосипеде?",
-    "en": "Can he ride a bike?"
-  },
-  {
-    "_id": 25,
-    "ru": "Все файлы были удалены",
-    "en": "All the files were deleted"
-  },
-  {
-    "_id": 26,
-    "ru": "Я удалил ненужные документы",
-    "en": "I deleted unnecessary documents"
-  },
-  {
-    "_id": 27,
-    "ru": "Я думаю, что они проиграют",
-    "en": "I think that they will lose"
-  },
-  {
-    "_id": 28,
-    "ru": "Это ранило ее чувства",
-    "en": "It hurt her feelings"
-  },
-  {
-    "_id": 29,
-    "ru": "Они решили снизить цену",
-    "en": "They decided to decrease the price"
-  },
-  {
-    "_id": 30,
-    "ru": "Я забыл позвонить ему",
-    "en": "I forgot to call him"
-  },
-  {
-    "_id": 31,
-    "ru": "Он пнул мяч",
-    "en": "He kicked the ball"
-  },
-  {
-    "_id": 32,
-    "ru": "Он вырос в маленькой деревне",
-    "en": "He grew up in a small village"
-  },
-  {
-    "_id": 33,
-    "ru": "Они часто спорят без причины",
-    "en": "They often argue for no reason"
-  },
-  {
-    "_id": 34,
-    "ru": "Его рейс был отложен",
-    "en": "His flight was delayed"
-  },
-  {
-    "_id": 35,
-    "ru": "Человек внезапно исчез",
-    "en": "The man disappeared suddenly"
-  },
-  {
-    "_id": 36,
-    "ru": "Ты одолжишь ему эти деньги?",
-    "en": "Will you lend this money to him?"
-  },
-  {
-    "_id": 37,
-    "ru": "Это означало следующее",
-    "en": "It meant the following thing"
-  },
-  {
-    "_id": 38,
-    "ru": "Что это все значит сейчас?",
-    "en": "What does it all mean now?"
-  },
-  {
-    "_id": 39,
-    "ru": "Она собирается купить новую квартиру в ближайшее время",
-    "en": "She is going to buy a new apartment soon"
-  },
-  {
-    "_id": 40,
-    "ru": "Я в основном общаюсь с ним по электронной почте",
-    "en": "I mostly communicate with him by email"
-  },
-  {
-    "_id": 41,
-    "ru": "Она повредила спину, пока она играла в теннис",
-    "en": "She hurt her back while she was playing tennis"
-  },
-  {
-    "_id": 42,
-    "ru": "Я стараюсь измерять свой прогресс на регулярной основе",
-    "en": "I try to measure my progress on a regular basis"
-  },
-  {
-    "_id": 43,
-    "ru": "Они сидели на полу и болтали о чем-то",
-    "en": "They were sitting on the floor and chatting about something"
-  },
-  {
-    "_id": 44,
-    "ru": "Мы будем гулять вместе завтра в это время",
-    "en": "We will be walking together this time tomorrow"
-  },
-  {
-    "_id": 45,
-    "ru": "Не все зависит от меня сейчас",
-    "en": "Not everything depends on me now"
-  },
-  {
-    "_id": 46,
-    "ru": "Что бы ты сделал на моем месте?",
-    "en": "What would you do in my place?"
-  },
-  {
-    "_id": 47,
-    "ru": "Что бы ты сделал в этой ситуации?",
-    "en": "What would you do in this situation?"
-  },
-  {
-    "_id": 48,
-    "ru": "Я получил так много сообщений на этой неделе",
-    "en": "I have got so many messages this week"
-  },
-  {
-    "_id": 49,
-    "ru": "Когда я открыл глаза, я увидел солнце",
-    "en": "When I opened my eyes, I saw the sun"
-  },
-  {
-    "_id": 50,
-    "ru": "Он сказал, что купил новую машину",
-    "en": "He said that he had bought a new car"
-  },
-  {
-    "_id": 51,
-    "ru": "Он сказал, что сделал это раньше",
-    "en": "He said that he had done it before"
-  },
-  {
-    "_id": 52,
-    "ru": "Она сказала, что она продала свою машину",
-    "en": "She said that she had sold her car"
-  },
-  {
-    "_id": 53,
-    "ru": "Цена была немного снижена",
-    "en": "The price was decreased a little"
-  },
-  {
-    "_id": 54,
-    "ru": "Цена снижена снова",
-    "en": "The price is decreased again"
-  },
-  {
-    "_id": 55,
-    "ru": "Цена была немного увеличена",
-    "en": "The price was increased a little"
-  },
-  {
-    "_id": 56,
-    "ru": "Текст был переведен на английский",
-    "en": "The text was translated into English"
-  },
-  {
-    "_id": 57,
-    "ru": "Текст был переведен с русского на английский",
-    "en": "The text was translated from Russian into English"
-  },
-  {
-    "_id": 58,
-    "ru": "Этот текст переведен на английский",
-    "en": "This text is translated into English"
-  },
-  {
-    "_id": 59,
-    "ru": "Завтра в это время я буду читать этот отчет",
-    "en": "This time tomorrow I will be reading this report"
-  },
-  {
-    "_id": 60,
-    "ru": "Завтра в это время я буду лежать на пляже",
-    "en": "This time tomorrow I will be lying on the beach"
-  },
-  {
-    "_id": 61,
-    "ru": "Завтра в это время я буду плавать в океане",
-    "en": "This time tomorrow I will be swimming in the ocean"
-  },
-  {
-    "_id": 62,
-    "ru": "Мы гуляем в парке около получаса",
-    "en": "We have been walking in the park for about half an hour"
-  },
-  {
-    "_id": 63,
-    "ru": "Я болтаю со своими друзьями около двух часов",
-    "en": "I have been chatting with my friends for about two hours"
-  },
-  {
-    "_id": 64,
-    "ru": "Я перевел это с русского на английский",
-    "en": "I translated it from Russian into English"
-  },
-  {
-    "_id": 65,
-    "ru": "Это переведено с английского на русский",
-    "en": "It is translated from English into Russian"
-  },
-  {
-    "_id": 66,
-    "ru": "Это переведено на английский?",
-    "en": "Is it translated into English?"
-  },
-  {
-    "_id": 67,
-    "ru": "Как им удалось исчезнуть?",
-    "en": "How did they manage to disappear?"
-  },
-  {
-    "_id": 68,
-    "ru": "Как им удалось сбежать из этого здания?",
-    "en": "How did they manage to escape from this building?"
-  },
-  {
-    "_id": 69,
-    "ru": "Как им удалось разрешить этот конфликт?",
-    "en": "How did they manage to resolve this conflict?"
-  },
-  {
-    "_id": 70,
-    "ru": "Я бы сделал другую вещь на твоем месте",
-    "en": "I would do another thing in your place"
-  },
-  {
-    "_id": 71,
-    "ru": "Я бы сделал также на твоем месте",
-    "en": "I would do the same thing in your place"
-  },
-  {
-    "_id": 72,
-    "ru": "Я верю, что решение этой проблемы существует",
-    "en": "I believe that a solution to this problem exists"
-  },
-  {
-    "_id": 73,
-    "ru": "Я верю, что Бог существует",
-    "en": "I believe that God exists"
-  },
-  {
-    "_id": 74,
-    "ru": "Я уверен, что Бог действительно существует",
-    "en": "I am sure that God really exists"
-  },
-  {
-    "_id": 75,
-    "ru": "Она заметила, что кто-то украл ее сумку",
-    "en": "She noticed that someone had stolen her bag"
-  },
-  {
-    "_id": 76,
-    "ru": "Когда я смогу достичь следующего уровня?",
-    "en": "When will I be able to reach the next level?"
-  },
-  {
-    "_id": 77,
-    "ru": "Мне нужно измерить размер комнаты сейчас",
-    "en": "I need to measure the size of the room now"
-  },
-  {
-    "_id": 78,
-    "ru": "Как был разрешен этот конфликт?",
-    "en": "How was this conflict resolved?"
-  },
-  {
-    "_id": 79,
-    "ru": "Он сказал, что положил это на стол",
-    "en": "He said that he had laid it on the table"
-  },
-  {
-    "_id": 80,
-    "ru": "Я никогда не ездил на верблюде",
-    "en": "I have never ridden a camel"
-  },
-  {
-    "_id": 81,
-    "ru": "Кто только что пришел к тебе?",
-    "en": "Who has just come to you?"
-  },
-  {
-    "_id": 82,
-    "ru": "Я читаю эту статью около десяти минут",
-    "en": "I have been reading this article for about ten minutes"
-  },
-  {
-    "_id": 83,
-    "ru": "Я буду сидеть в кресле, если ты не возражаешь",
-    "en": "I will sit in an armchair if you don't mind"
-  },
-  {
-    "_id": 84,
-    "ru": "Она провела весь день, готовя и убирая",
-    "en": "She spent all day cooking and cleaning"
-  },
-  {
-    "_id": 85,
-    "ru": "Что от нас зависит сейчас?",
-    "en": "What depends on us now?"
-  },
-  {
-    "_id": 86,
-    "ru": "Ты уже достиг этого уровня?",
-    "en": "Have you already reached this level?"
-  },
-  {
-    "_id": 87,
-    "ru": "Это никогда не пугало меня",
-    "en": "It has never frightened me"
-  },
-  {
-    "_id": 88,
-    "ru": "Почему он был избит?",
-    "en": "Why was he beaten?"
-  },
-  {
-    "_id": 89,
-    "ru": "Эти деньги были одолжены ему",
-    "en": "This money was lent to him"
+    "id": 1,
+    "ru": {
+      "text": "Товары были доставлены вовремя",
+      "audio": false
+    },
+    "en": {
+      "text": "The goods were delivered on time",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Что задержало тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "What delayed you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я положил это на стол",
+      "audio": false
+    },
+    "en": {
+      "text": "I laid it on the table",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Ему пришлось продать свой бизнес",
+      "audio": false
+    },
+    "en": {
+      "text": "He had to sell his business",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Он пришел на вечеринку или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did he come to the party or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Она убрала комнату",
+      "audio": false
+    },
+    "en": {
+      "text": "She cleaned the room",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Этот дом скоро будет продан",
+      "audio": false
+    },
+    "en": {
+      "text": "This house will be sold soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я не думаю, что он согласится сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that he will agree to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Когда она открыла дверь, он играл на гитаре",
+      "audio": false
+    },
+    "en": {
+      "text": "When she opened the door, he was playing the guitar",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я вырос в Соединенных Штатах",
+      "audio": false
+    },
+    "en": {
+      "text": "I grew up in the United States",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Если ты умножишь десять на пять, ты получишь пятьдесят",
+      "audio": false
+    },
+    "en": {
+      "text": "If you multiply ten by five, you will get fifty",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Она согласилась сделать это в конце",
+      "audio": false
+    },
+    "en": {
+      "text": "She agreed to do it in the end",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Я абсолютно уверен, что Бог существует",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm absolutely sure that God exists",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Как они разрешили тот конфликт?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did they resolve that conflict?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Что тебя напугало больше всего?",
+      "audio": false
+    },
+    "en": {
+      "text": "What frightened you most of all?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Когда ты мне это покажешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you show it to me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Как он обычно добирается до работы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How does he usually get to work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Та собака его укусила",
+      "audio": false
+    },
+    "en": {
+      "text": "That dog bit him",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Его очень сильно избили",
+      "audio": false
+    },
+    "en": {
+      "text": "He was beaten very badly",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Кто пнул дверь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who kicked the door?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Он поднялся на гору",
+      "audio": false
+    },
+    "en": {
+      "text": "He climbed up the mountain",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это было показано по телевизору",
+      "audio": false
+    },
+    "en": {
+      "text": "It was shown on TV",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Когда это будет доставлено?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will it be delivered?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Он умеет ездить на велосипеде?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can he ride a bike?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Все файлы были удалены",
+      "audio": false
+    },
+    "en": {
+      "text": "All the files were deleted",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я удалил ненужные документы",
+      "audio": false
+    },
+    "en": {
+      "text": "I deleted unnecessary documents",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я думаю, что они проиграют",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that they will lose",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Это ранило ее чувства",
+      "audio": false
+    },
+    "en": {
+      "text": "It hurt her feelings",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Они решили снизить цену",
+      "audio": false
+    },
+    "en": {
+      "text": "They decided to decrease the price",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я забыл позвонить ему",
+      "audio": false
+    },
+    "en": {
+      "text": "I forgot to call him",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Он пнул мяч",
+      "audio": false
+    },
+    "en": {
+      "text": "He kicked the ball",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Он вырос в маленькой деревне",
+      "audio": false
+    },
+    "en": {
+      "text": "He grew up in a small village",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Они часто спорят без причины",
+      "audio": false
+    },
+    "en": {
+      "text": "They often argue for no reason",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Его рейс был отложен",
+      "audio": false
+    },
+    "en": {
+      "text": "His flight was delayed",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Человек внезапно исчез",
+      "audio": false
+    },
+    "en": {
+      "text": "The man disappeared suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Ты одолжишь ему эти деньги?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you lend this money to him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Это означало следующее",
+      "audio": false
+    },
+    "en": {
+      "text": "It meant the following thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Что это все значит сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "What does it all mean now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Она собирается купить новую квартиру в ближайшее время",
+      "audio": false
+    },
+    "en": {
+      "text": "She is going to buy a new apartment soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я в основном общаюсь с ним по электронной почте",
+      "audio": false
+    },
+    "en": {
+      "text": "I mostly communicate with him by email",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Она повредила спину, пока она играла в теннис",
+      "audio": false
+    },
+    "en": {
+      "text": "She hurt her back while she was playing tennis",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я стараюсь измерять свой прогресс на регулярной основе",
+      "audio": false
+    },
+    "en": {
+      "text": "I try to measure my progress on a regular basis",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Они сидели на полу и болтали о чем-то",
+      "audio": false
+    },
+    "en": {
+      "text": "They were sitting on the floor and chatting about something",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Мы будем гулять вместе завтра в это время",
+      "audio": false
+    },
+    "en": {
+      "text": "We will be walking together this time tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Не все зависит от меня сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "Not everything depends on me now",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Что бы ты сделал на моем месте?",
+      "audio": false
+    },
+    "en": {
+      "text": "What would you do in my place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Что бы ты сделал в этой ситуации?",
+      "audio": false
+    },
+    "en": {
+      "text": "What would you do in this situation?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я получил так много сообщений на этой неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "I have got so many messages this week",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Когда я открыл глаза, я увидел солнце",
+      "audio": false
+    },
+    "en": {
+      "text": "When I opened my eyes, I saw the sun",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он сказал, что купил новую машину",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had bought a new car",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Он сказал, что сделал это раньше",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had done it before",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Она сказала, что она продала свою машину",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that she had sold her car",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Цена была немного снижена",
+      "audio": false
+    },
+    "en": {
+      "text": "The price was decreased a little",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Цена снижена снова",
+      "audio": false
+    },
+    "en": {
+      "text": "The price is decreased again",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Цена была немного увеличена",
+      "audio": false
+    },
+    "en": {
+      "text": "The price was increased a little",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Текст был переведен на английский",
+      "audio": false
+    },
+    "en": {
+      "text": "The text was translated into English",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Текст был переведен с русского на английский",
+      "audio": false
+    },
+    "en": {
+      "text": "The text was translated from Russian into English",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Этот текст переведен на английский",
+      "audio": false
+    },
+    "en": {
+      "text": "This text is translated into English",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Завтра в это время я буду читать этот отчет",
+      "audio": false
+    },
+    "en": {
+      "text": "This time tomorrow I will be reading this report",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Завтра в это время я буду лежать на пляже",
+      "audio": false
+    },
+    "en": {
+      "text": "This time tomorrow I will be lying on the beach",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Завтра в это время я буду плавать в океане",
+      "audio": false
+    },
+    "en": {
+      "text": "This time tomorrow I will be swimming in the ocean",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Мы гуляем в парке около получаса",
+      "audio": false
+    },
+    "en": {
+      "text": "We have been walking in the park for about half an hour",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я болтаю со своими друзьями около двух часов",
+      "audio": false
+    },
+    "en": {
+      "text": "I have been chatting with my friends for about two hours",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я перевел это с русского на английский",
+      "audio": false
+    },
+    "en": {
+      "text": "I translated it from Russian into English",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Это переведено с английского на русский",
+      "audio": false
+    },
+    "en": {
+      "text": "It is translated from English into Russian",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Это переведено на английский?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it translated into English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Как им удалось исчезнуть?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did they manage to disappear?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Как им удалось сбежать из этого здания?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did they manage to escape from this building?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Как им удалось разрешить этот конфликт?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did they manage to resolve this conflict?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я бы сделал другую вещь на твоем месте",
+      "audio": false
+    },
+    "en": {
+      "text": "I would do another thing in your place",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я бы сделал также на твоем месте",
+      "audio": false
+    },
+    "en": {
+      "text": "I would do the same thing in your place",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я верю, что решение этой проблемы существует",
+      "audio": false
+    },
+    "en": {
+      "text": "I believe that a solution to this problem exists",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я верю, что Бог существует",
+      "audio": false
+    },
+    "en": {
+      "text": "I believe that God exists",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я уверен, что Бог действительно существует",
+      "audio": false
+    },
+    "en": {
+      "text": "I am sure that God really exists",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Она заметила, что кто-то украл ее сумку",
+      "audio": false
+    },
+    "en": {
+      "text": "She noticed that someone had stolen her bag",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Когда я смогу достичь следующего уровня?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will I be able to reach the next level?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Мне нужно измерить размер комнаты сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to measure the size of the room now",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Как был разрешен этот конфликт?",
+      "audio": false
+    },
+    "en": {
+      "text": "How was this conflict resolved?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Он сказал, что положил это на стол",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had laid it on the table",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я никогда не ездил на верблюде",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never ridden a camel",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Кто только что пришел к тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who has just come to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я читаю эту статью около десяти минут",
+      "audio": false
+    },
+    "en": {
+      "text": "I have been reading this article for about ten minutes",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я буду сидеть в кресле, если ты не возражаешь",
+      "audio": false
+    },
+    "en": {
+      "text": "I will sit in an armchair if you don't mind",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Она провела весь день, готовя и убирая",
+      "audio": false
+    },
+    "en": {
+      "text": "She spent all day cooking and cleaning",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Что от нас зависит сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "What depends on us now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Ты уже достиг этого уровня?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you already reached this level?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Это никогда не пугало меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It has never frightened me",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Почему он был избит?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was he beaten?",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Эти деньги были одолжены ему",
+      "audio": false
+    },
+    "en": {
+      "text": "This money was lent to him",
+      "audio": false
+    }
   }
 ]

@@ -1,402 +1,882 @@
 [
   {
-    "_id": 1,
-    "ru": "Что ты будешь делать?",
-    "en": "What will you do?"
-  },
-  {
-    "_id": 2,
-    "ru": "Почему это будет необходимо?",
-    "en": "Why will it be necessary?"
-  },
-  {
-    "_id": 3,
-    "ru": "Когда она доберется до того места?",
-    "en": "When will she get to that place?"
-  },
-  {
-    "_id": 4,
-    "ru": "Что ты будешь делать?",
-    "en": "What will you do?"
-  },
-  {
-    "_id": 5,
-    "ru": "Что будет на завтрак?",
-    "en": "What will be for breakfast?"
-  },
-  {
-    "_id": 6,
-    "ru": "Это будет за деньги?",
-    "en": "Will it be for money?"
-  },
-  {
-    "_id": 7,
-    "ru": "Кто будет с тобой?",
-    "en": "Who will be with you?"
-  },
-  {
-    "_id": 8,
-    "ru": "Как ты это сделаешь?",
-    "en": "How will you do it?"
-  },
-  {
-    "_id": 9,
-    "ru": "Когда ты будешь играть в футбол?",
-    "en": "When will you play football?"
-  },
-  {
-    "_id": 10,
-    "ru": "Когда это будет возможно?",
-    "en": "When will it be possible?"
-  },
-  {
-    "_id": 11,
-    "ru": "Кто еще это поддержит?",
-    "en": "Who else will support it?"
-  },
-  {
-    "_id": 12,
-    "ru": "Почему это будет необходимо?",
-    "en": "Why will it be necessary?"
-  },
-  {
-    "_id": 13,
-    "ru": "Когда ты будешь готов?",
-    "en": "When will you be ready?"
-  },
-  {
-    "_id": 14,
-    "ru": "Когда ты будешь свободен?",
-    "en": "When will you be free?"
-  },
-  {
-    "_id": 15,
-    "ru": "Что станет дешевле?",
-    "en": "What will become cheaper?"
-  },
-  {
-    "_id": 16,
-    "ru": "Почему он откажется?",
-    "en": "Why will he refuse?"
-  },
-  {
-    "_id": 17,
-    "ru": "Что станет дороже?",
-    "en": "What will become more expensive?"
-  },
-  {
-    "_id": 18,
-    "ru": "Кто проиграет?",
-    "en": "Who will lose?"
-  },
-  {
-    "_id": 19,
-    "ru": "Ты купишь компьютер?",
-    "en": "Will you buy a computer?"
-  },
-  {
-    "_id": 20,
-    "ru": "Почему это будет так важно?",
-    "en": "Why will it be so important?"
-  },
-  {
-    "_id": 21,
-    "ru": "Твои друзья пойдут туда с тобой?",
-    "en": "Will your friends go there with you?"
-  },
-  {
-    "_id": 22,
-    "ru": "Когда он пойдет в университет?",
-    "en": "When will he go to university?"
-  },
-  {
-    "_id": 23,
-    "ru": "Ты продашь свою старую машину?",
-    "en": "Will you sell your old car?"
-  },
-  {
-    "_id": 24,
-    "ru": "Твой друг будет там?",
-    "en": "Will your friend be there?"
-  },
-  {
-    "_id": 25,
-    "ru": "Почему это случится?",
-    "en": "Why will it happen?"
-  },
-  {
-    "_id": 26,
-    "ru": "Кто будет работать с ним?",
-    "en": "Who will work with him?"
-  },
-  {
-    "_id": 27,
-    "ru": "Что случится?",
-    "en": "What will happen?"
-  },
-  {
-    "_id": 28,
-    "ru": "Кто будет работать с тобой?",
-    "en": "Who will work with you?"
-  },
-  {
-    "_id": 29,
-    "ru": "Кто поддержит эту идею?",
-    "en": "Who will support this idea?"
-  },
-  {
-    "_id": 30,
-    "ru": "Когда мы встретимся?",
-    "en": "When will we meet?"
-  },
-  {
-    "_id": 31,
-    "ru": "Где ты будешь завтра?",
-    "en": "Where will you be tomorrow?"
-  },
-  {
-    "_id": 32,
-    "ru": "Что будет на обед?",
-    "en": "What will be for lunch?"
-  },
-  {
-    "_id": 33,
-    "ru": "Что будет на ужин?",
-    "en": "What will be for dinner?"
-  },
-  {
-    "_id": 34,
-    "ru": "Когда ты пойдешь в школу?",
-    "en": "When will you go to school?"
-  },
-  {
-    "_id": 35,
-    "ru": "Кто победит?",
-    "en": "Who will win?"
-  },
-  {
-    "_id": 36,
-    "ru": "Что будет бесплатно?",
-    "en": "What will be free?"
-  },
-  {
-    "_id": 37,
-    "ru": "Когда ты вернешься?",
-    "en": "When will you be back?"
-  },
-  {
-    "_id": 38,
-    "ru": "Что будет лучше?",
-    "en": "What will be better?"
-  },
-  {
-    "_id": 39,
-    "ru": "Кому ты позвонишь?",
-    "en": "Who will you call?"
-  },
-  {
-    "_id": 40,
-    "ru": "Что ты скачаешь?",
-    "en": "What will you download?"
-  },
-  {
-    "_id": 41,
-    "ru": "Когда она поедет в Канаду?",
-    "en": "When will she go to Canada?"
-  },
-  {
-    "_id": 42,
-    "ru": "Во сколько ты вернешься домой?",
-    "en": "What time will you come back home?"
-  },
-  {
-    "_id": 43,
-    "ru": "Когда ты поедешь на море?",
-    "en": "When will you go to the sea?"
-  },
-  {
-    "_id": 44,
-    "ru": "Какой ответ ты выберешь?",
-    "en": "Which answer will you choose?"
-  },
-  {
-    "_id": 45,
-    "ru": "Когда ты доберешься до работы?",
-    "en": "When will you get to work?"
-  },
-  {
-    "_id": 46,
-    "ru": "Когда ты поедешь в отпуск?",
-    "en": "When will you go on holiday?"
-  },
-  {
-    "_id": 47,
-    "ru": "Чью книгу ты возьмешь?",
-    "en": "Whose book will you take?"
-  },
-  {
-    "_id": 48,
-    "ru": "Сколько денег это будет стоить?",
-    "en": "How much money will it cost?"
-  },
-  {
-    "_id": 49,
-    "ru": "Кто там будет присутствовать?",
-    "en": "Who will be present there?"
-  },
-  {
-    "_id": 50,
-    "ru": "Как долго это будет длиться?",
-    "en": "How long will it last?"
-  },
-  {
-    "_id": 51,
-    "ru": "Когда они доберутся до школы?",
-    "en": "When will they get to school?"
-  },
-  {
-    "_id": 52,
-    "ru": "Когда ты пойдешь на пляж?",
-    "en": "When will you go to the beach?"
-  },
-  {
-    "_id": 53,
-    "ru": "Когда ты поедешь в эту страну?",
-    "en": "When will you go to this country?"
-  },
-  {
-    "_id": 54,
-    "ru": "Почему он пойдет в парк?",
-    "en": "Why will he go to the park?"
-  },
-  {
-    "_id": 55,
-    "ru": "Когда ты доберешься сюда?",
-    "en": "When will you get here?"
-  },
-  {
-    "_id": 56,
-    "ru": "Когда она доберется до этого места?",
-    "en": "When will she get to this place?"
-  },
-  {
-    "_id": 57,
-    "ru": "Когда мы доберемся туда?",
-    "en": "When will we get there?"
-  },
-  {
-    "_id": 58,
-    "ru": "Во сколько ты вернешься?",
-    "en": "What time will you come back?"
-  },
-  {
-    "_id": 59,
-    "ru": "Когда он придет домой?",
-    "en": "When will he come home?"
-  },
-  {
-    "_id": 60,
-    "ru": "Во сколько она вернется домой?",
-    "en": "What time will she come back home?"
-  },
-  {
-    "_id": 61,
-    "ru": "Как ты решишь эту проблему?",
-    "en": "How will you solve this problem?"
-  },
-  {
-    "_id": 62,
-    "ru": "Как она решит эту проблему?",
-    "en": "How will she solve this problem?"
-  },
-  {
-    "_id": 63,
-    "ru": "Как ты решишь эти проблемы?",
-    "en": "How will you solve these problems?"
-  },
-  {
-    "_id": 64,
-    "ru": "Сколько людей будет там?",
-    "en": "How many people will be there?"
-  },
-  {
-    "_id": 65,
-    "ru": "Сколько детей будет там?",
-    "en": "How many children will be there?"
-  },
-  {
-    "_id": 66,
-    "ru": "Сколько это будет стоить?",
-    "en": "How much will it cost?"
-  },
-  {
-    "_id": 67,
-    "ru": "Сколько денег они будут стоить?",
-    "en": "How much money will they cost?"
-  },
-  {
-    "_id": 68,
-    "ru": "Кто будет отсутствовать?",
-    "en": "Who will be absent?"
-  },
-  {
-    "_id": 69,
-    "ru": "Когда ты мне перезвонишь?",
-    "en": "When will you call me back?"
-  },
-  {
-    "_id": 70,
-    "ru": "Эта новость удивит их?",
-    "en": "Will this news surprise them?"
-  },
-  {
-    "_id": 71,
-    "ru": "Когда ты доберешься домой?",
-    "en": "When will you get home?"
-  },
-  {
-    "_id": 72,
-    "ru": "В какое время ты будешь там?",
-    "en": "What time will you be there?"
-  },
-  {
-    "_id": 73,
-    "ru": "Что будет за деньги?",
-    "en": "What will be for money?"
-  },
-  {
-    "_id": 74,
-    "ru": "В какое время это будет?",
-    "en": "What time will it be?"
-  },
-  {
-    "_id": 75,
-    "ru": "Как регулярно ты будешь тренироваться?",
-    "en": "How regularly will you train?"
-  },
-  {
-    "_id": 76,
-    "ru": "Когда они решат ту проблему?",
-    "en": "When will they solve that problem?"
-  },
-  {
-    "_id": 77,
-    "ru": "Когда ты будешь отсутствовать?",
-    "en": "When will you be absent?"
-  },
-  {
-    "_id": 78,
-    "ru": "Когда она доберется до того места?",
-    "en": "When will she get to that place?"
-  },
-  {
-    "_id": 79,
-    "ru": "Почему он будет отсутствовать?",
-    "en": "Why will he be absent?"
-  },
-  {
-    "_id": 80,
-    "ru": "Когда ты закончишь школу?",
-    "en": "When will you finish school?"
+    "id": 1,
+    "ru": {
+      "text": "Что ты будешь делать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you do?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Почему это будет необходимо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why will it be necessary?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Когда она доберется до того места?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will she get to that place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Что ты будешь делать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you do?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Что будет на завтрак?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will be for breakfast?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Это будет за деньги?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be for money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Кто будет с тобой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will be with you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Как ты это сделаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "How will you do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Когда ты будешь играть в футбол?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you play football?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Когда это будет возможно?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will it be possible?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Кто еще это поддержит?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who else will support it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Почему это будет необходимо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why will it be necessary?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Когда ты будешь готов?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you be ready?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Когда ты будешь свободен?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you be free?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Что станет дешевле?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will become cheaper?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Почему он откажется?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why will he refuse?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Что станет дороже?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will become more expensive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Кто проиграет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will lose?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Ты купишь компьютер?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you buy a computer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Почему это будет так важно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why will it be so important?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Твои друзья пойдут туда с тобой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will your friends go there with you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Когда он пойдет в университет?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will he go to university?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Ты продашь свою старую машину?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you sell your old car?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Твой друг будет там?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will your friend be there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Почему это случится?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why will it happen?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Кто будет работать с ним?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will work with him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Что случится?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will happen?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Кто будет работать с тобой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will work with you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Кто поддержит эту идею?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will support this idea?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Когда мы встретимся?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will we meet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Где ты будешь завтра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where will you be tomorrow?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Что будет на обед?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will be for lunch?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Что будет на ужин?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will be for dinner?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Когда ты пойдешь в школу?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you go to school?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Кто победит?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will win?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Что будет бесплатно?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will be free?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Когда ты вернешься?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you be back?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Что будет лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will be better?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Кому ты позвонишь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will you call?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Что ты скачаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you download?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Когда она поедет в Канаду?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will she go to Canada?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Во сколько ты вернешься домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time will you come back home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Когда ты поедешь на море?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you go to the sea?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Какой ответ ты выберешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Which answer will you choose?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Когда ты доберешься до работы?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you get to work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Когда ты поедешь в отпуск?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you go on holiday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Чью книгу ты возьмешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Whose book will you take?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Сколько денег это будет стоить?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much money will it cost?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Кто там будет присутствовать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will be present there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Как долго это будет длиться?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long will it last?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Когда они доберутся до школы?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will they get to school?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Когда ты пойдешь на пляж?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you go to the beach?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Когда ты поедешь в эту страну?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you go to this country?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Почему он пойдет в парк?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why will he go to the park?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Когда ты доберешься сюда?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you get here?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Когда она доберется до этого места?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will she get to this place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Когда мы доберемся туда?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will we get there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Во сколько ты вернешься?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time will you come back?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Когда он придет домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will he come home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Во сколько она вернется домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time will she come back home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Как ты решишь эту проблему?",
+      "audio": false
+    },
+    "en": {
+      "text": "How will you solve this problem?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Как она решит эту проблему?",
+      "audio": false
+    },
+    "en": {
+      "text": "How will she solve this problem?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Как ты решишь эти проблемы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How will you solve these problems?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Сколько людей будет там?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many people will be there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Сколько детей будет там?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many children will be there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Сколько это будет стоить?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much will it cost?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Сколько денег они будут стоить?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much money will they cost?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Кто будет отсутствовать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will be absent?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Когда ты мне перезвонишь?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you call me back?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Эта новость удивит их?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will this news surprise them?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Когда ты доберешься домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you get home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "В какое время ты будешь там?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time will you be there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Что будет за деньги?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will be for money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "В какое время это будет?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time will it be?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Как регулярно ты будешь тренироваться?",
+      "audio": false
+    },
+    "en": {
+      "text": "How regularly will you train?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Когда они решат ту проблему?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will they solve that problem?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Когда ты будешь отсутствовать?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you be absent?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Когда она доберется до того места?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will she get to that place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Почему он будет отсутствовать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why will he be absent?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Когда ты закончишь школу?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you finish school?",
+      "audio": false
+    }
   }
 ]

@@ -1,417 +1,915 @@
 [
   {
-    "_id": 1,
-    "ru": "Ты обычно приходишь домой поздно?",
-    "en": "Do you usually come home late?"
-  },
-  {
-    "_id": 2,
-    "ru": "Он тебя понимает?",
-    "en": "Does he understand you?"
-  },
-  {
-    "_id": 3,
-    "ru": "У тебя есть работа?",
-    "en": "Do you have a job?"
-  },
-  {
-    "_id": 4,
-    "ru": "Ты живешь в доме?",
-    "en": "Do you live in a house?"
-  },
-  {
-    "_id": 5,
-    "ru": "У тебя есть домашнее животное?",
-    "en": "Do you have a pet?"
-  },
-  {
-    "_id": 6,
-    "ru": "Ты обычно приходишь домой поздно?",
-    "en": "Do you usually come home late?"
-  },
-  {
-    "_id": 7,
-    "ru": "Ты часто видишь его там?",
-    "en": "Do you often see him there?"
-  },
-  {
-    "_id": 8,
-    "ru": "Они танцуют профессионально?",
-    "en": "Do they dance professionally?"
-  },
-  {
-    "_id": 9,
-    "ru": "Он приходит домой поздно?",
-    "en": "Does he come home late?"
-  },
-  {
-    "_id": 10,
-    "ru": "Он учится в другой группе?",
-    "en": "Does he study in another group?"
-  },
-  {
-    "_id": 11,
-    "ru": "Он изучает английский здесь?",
-    "en": "Does he learn English here?"
-  },
-  {
-    "_id": 12,
-    "ru": "Он встает поздно?",
-    "en": "Does he get up late?"
-  },
-  {
-    "_id": 13,
-    "ru": "Он живет в том доме?",
-    "en": "Does he live in that house?"
-  },
-  {
-    "_id": 14,
-    "ru": "Это работает лучше?",
-    "en": "Does it work better?"
-  },
-  {
-    "_id": 15,
-    "ru": "Она приходит домой рано?",
-    "en": "Does she come home early?"
-  },
-  {
-    "_id": 16,
-    "ru": "Она рано встает?",
-    "en": "Does she get up early?"
-  },
-  {
-    "_id": 17,
-    "ru": "Вы учитесь в одной группе?",
-    "en": "Do you study in one group?"
-  },
-  {
-    "_id": 18,
-    "ru": "У тебя есть какие-либо домашние животные?",
-    "en": "Do you have any pets?"
-  },
-  {
-    "_id": 19,
-    "ru": "Ты поздно встаешь?",
-    "en": "Do you get up late?"
-  },
-  {
-    "_id": 20,
-    "ru": "Тебе нравится твоя работа?",
-    "en": "Do you like your job?"
-  },
-  {
-    "_id": 21,
-    "ru": "Ты видишь тех людей?",
-    "en": "Do you see those people?"
-  },
-  {
-    "_id": 22,
-    "ru": "У тебя есть кот?",
-    "en": "Do you have a cat?"
-  },
-  {
-    "_id": 23,
-    "ru": "Вы часто обсуждаете эти вещи?",
-    "en": "Do you often discuss these things?"
-  },
-  {
-    "_id": 24,
-    "ru": "У тебя есть собака?",
-    "en": "Do you have a dog?"
-  },
-  {
-    "_id": 25,
-    "ru": "Тебе нравится эта профессия?",
-    "en": "Do you like this profession?"
-  },
-  {
-    "_id": 26,
-    "ru": "Ты учишь английский онлайн?",
-    "en": "Do you learn English online?"
-  },
-  {
-    "_id": 27,
-    "ru": "Ты работаешь каждый день?",
-    "en": "Do you work every day?"
-  },
-  {
-    "_id": 28,
-    "ru": "Это стоит намного больше денег?",
-    "en": "Does it cost much more money?"
-  },
-  {
-    "_id": 29,
-    "ru": "Тебе нужны эти билеты?",
-    "en": "Do you need these tickets?"
-  },
-  {
-    "_id": 30,
-    "ru": "Вы учитесь в разных группах?",
-    "en": "Do you study in different groups?"
-  },
-  {
-    "_id": 31,
-    "ru": "Тебе нравятся морепродукты?",
-    "en": "Do you like seafood?"
-  },
-  {
-    "_id": 32,
-    "ru": "Ты знаешь этих людей?",
-    "en": "Do you know these people?"
-  },
-  {
-    "_id": 33,
-    "ru": "Он работает больше?",
-    "en": "Does he work more?"
-  },
-  {
-    "_id": 34,
-    "ru": "Тебе нравится твоя профессия?",
-    "en": "Do you like your profession?"
-  },
-  {
-    "_id": 35,
-    "ru": "Ты обычно рано приходишь домой?",
-    "en": "Do you usually come home early?"
-  },
-  {
-    "_id": 36,
-    "ru": "Она работает меньше?",
-    "en": "Does she work less?"
-  },
-  {
-    "_id": 37,
-    "ru": "Ему нравится его профессия?",
-    "en": "Does he like his profession?"
-  },
-  {
-    "_id": 38,
-    "ru": "У него есть какие-либо домашние животные?",
-    "en": "Does he have any pets?"
-  },
-  {
-    "_id": 39,
-    "ru": "Ты встаешь рано?",
-    "en": "Do you get up early?"
-  },
-  {
-    "_id": 40,
-    "ru": "Она танцует профессионально?",
-    "en": "Does she dance professionally?"
-  },
-  {
-    "_id": 41,
-    "ru": "Ты иногда делаешь ошибки?",
-    "en": "Do you sometimes make mistakes?"
-  },
-  {
-    "_id": 42,
-    "ru": "Ты рекомендуешь тот отель?",
-    "en": "Do you recommend that hotel?"
-  },
-  {
-    "_id": 43,
-    "ru": "Это действительно интересует ее?",
-    "en": "Does it really interest her?"
-  },
-  {
-    "_id": 44,
-    "ru": "Он часто посещает тебя?",
-    "en": "Does he often visit you?"
-  },
-  {
-    "_id": 45,
-    "ru": "Он рекомендует это?",
-    "en": "Does he recommend it?"
-  },
-  {
-    "_id": 46,
-    "ru": "Он видит отель?",
-    "en": "Does he see a hotel?"
-  },
-  {
-    "_id": 47,
-    "ru": "Тебе больше нравится другая еда?",
-    "en": "Do you like another food more?"
-  },
-  {
-    "_id": 48,
-    "ru": "Ты хочешь получать больше денег?",
-    "en": "Do you want to get more money?"
-  },
-  {
-    "_id": 49,
-    "ru": "Ты часто готовишь?",
-    "en": "Do you often cook?"
-  },
-  {
-    "_id": 50,
-    "ru": "Ты хочешь заказать это онлайн?",
-    "en": "Do you want to order it online?"
-  },
-  {
-    "_id": 51,
-    "ru": "Она хочет купить это онлайн?",
-    "en": "Does she want to buy it online?"
-  },
-  {
-    "_id": 52,
-    "ru": "Они хотят заказать это онлайн?",
-    "en": "Do they want to order it online?"
-  },
-  {
-    "_id": 53,
-    "ru": "Ты платишь за это онлайн?",
-    "en": "Do you pay for it online?"
-  },
-  {
-    "_id": 54,
-    "ru": "Ты покупаешь это онлайн?",
-    "en": "Do you buy it online?"
-  },
-  {
-    "_id": 55,
-    "ru": "Они часто просыпаются очень рано?",
-    "en": "Do they often wake up very early?"
-  },
-  {
-    "_id": 56,
-    "ru": "Ты обычно просыпаешься поздно?",
-    "en": "Do you usually wake up late?"
-  },
-  {
-    "_id": 57,
-    "ru": "Ты получаешь достаточно денег?",
-    "en": "Do you get enough money?"
-  },
-  {
-    "_id": 58,
-    "ru": "Он получает достаточно денег?",
-    "en": "Does he get enough money?"
-  },
-  {
-    "_id": 59,
-    "ru": "Она хочет приготовить завтрак?",
-    "en": "Does she want to cook breakfast?"
-  },
-  {
-    "_id": 60,
-    "ru": "Она часто готовит?",
-    "en": "Does she often cook?"
-  },
-  {
-    "_id": 61,
-    "ru": "Ты хочешь потанцевать?",
-    "en": "Do you want to dance?"
-  },
-  {
-    "_id": 62,
-    "ru": "Он хочет заказать эту игрушку?",
-    "en": "Does he want to order this toy?"
-  },
-  {
-    "_id": 63,
-    "ru": "Он хочет заказать эти игрушки?",
-    "en": "Does he want to order these toys?"
-  },
-  {
-    "_id": 64,
-    "ru": "Он хочет купить эту игрушку?",
-    "en": "Does he want to buy this toy?"
-  },
-  {
-    "_id": 65,
-    "ru": "Ты заказываешь одежду онлайн?",
-    "en": "Do you order clothes online?"
-  },
-  {
-    "_id": 66,
-    "ru": "Ты покупаешь одежду онлайн?",
-    "en": "Do you buy clothes online?"
-  },
-  {
-    "_id": 67,
-    "ru": "Ты платишь за одежду онлайн?",
-    "en": "Do you pay for clothes online?"
-  },
-  {
-    "_id": 68,
-    "ru": "Ты знаешь тех людей?",
-    "en": "Do you know those people?"
-  },
-  {
-    "_id": 69,
-    "ru": "Ты знаешь этих детей?",
-    "en": "Do you know these children?"
-  },
-  {
-    "_id": 70,
-    "ru": "Ты заказываешь это онлайн?",
-    "en": "Do you order it online?"
-  },
-  {
-    "_id": 71,
-    "ru": "Ты хочешь увидеть это сейчас?",
-    "en": "Do you want to see it now?"
-  },
-  {
-    "_id": 72,
-    "ru": "Ты видишь машину?",
-    "en": "Do you see a car?"
-  },
-  {
-    "_id": 73,
-    "ru": "Он чувствует себя лучше?",
-    "en": "Does he feel better?"
-  },
-  {
-    "_id": 74,
-    "ru": "Ты заказываешь еду онлайн?",
-    "en": "Do you order food online?"
-  },
-  {
-    "_id": 75,
-    "ru": "Ты знаешь того человека?",
-    "en": "Do you know that person?"
-  },
-  {
-    "_id": 76,
-    "ru": "Это действительно мотивирует его?",
-    "en": "Does it really motivate him?"
-  },
-  {
-    "_id": 77,
-    "ru": "Тебе нравится готовить?",
-    "en": "Do you like cooking?"
-  },
-  {
-    "_id": 78,
-    "ru": "Он рекомендует этот отель?",
-    "en": "Does he recommend this hotel?"
-  },
-  {
-    "_id": 79,
-    "ru": "Ты предпочитаешь другую еду?",
-    "en": "Do you prefer another food?"
-  },
-  {
-    "_id": 80,
-    "ru": "У тебя есть деньги с собой?",
-    "en": "Do you have money with you?"
-  },
-  {
-    "_id": 81,
-    "ru": "Это случается очень часто?",
-    "en": "Does it happen very often?"
-  },
-  {
-    "_id": 82,
-    "ru": "Ты рекомендуешь эту книгу?",
-    "en": "Do you recommend this book?"
-  },
-  {
-    "_id": 83,
-    "ru": "Это случается иногда?",
-    "en": "Does it happen sometimes?"
+    "id": 1,
+    "ru": {
+      "text": "Ты обычно приходишь домой поздно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you usually come home late?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Он тебя понимает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he understand you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "У тебя есть работа?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have a job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Ты живешь в доме?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you live in a house?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "У тебя есть домашнее животное?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have a pet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Ты обычно приходишь домой поздно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you usually come home late?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Ты часто видишь его там?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often see him there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Они танцуют профессионально?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they dance professionally?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Он приходит домой поздно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he come home late?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Он учится в другой группе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he study in another group?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Он изучает английский здесь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he learn English here?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Он встает поздно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he get up late?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он живет в том доме?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he live in that house?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Это работает лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it work better?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Она приходит домой рано?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she come home early?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Она рано встает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she get up early?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Вы учитесь в одной группе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you study in one group?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "У тебя есть какие-либо домашние животные?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have any pets?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Ты поздно встаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you get up late?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Тебе нравится твоя работа?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like your job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Ты видишь тех людей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you see those people?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "У тебя есть кот?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have a cat?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Вы часто обсуждаете эти вещи?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often discuss these things?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "У тебя есть собака?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have a dog?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Тебе нравится эта профессия?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like this profession?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Ты учишь английский онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you learn English online?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Ты работаешь каждый день?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you work every day?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Это стоит намного больше денег?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it cost much more money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Тебе нужны эти билеты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you need these tickets?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Вы учитесь в разных группах?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you study in different groups?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Тебе нравятся морепродукты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like seafood?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Ты знаешь этих людей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know these people?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Он работает больше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he work more?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Тебе нравится твоя профессия?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like your profession?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Ты обычно рано приходишь домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you usually come home early?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Она работает меньше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she work less?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Ему нравится его профессия?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he like his profession?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "У него есть какие-либо домашние животные?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he have any pets?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Ты встаешь рано?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you get up early?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Она танцует профессионально?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she dance professionally?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Ты иногда делаешь ошибки?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you sometimes make mistakes?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Ты рекомендуешь тот отель?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you recommend that hotel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Это действительно интересует ее?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it really interest her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Он часто посещает тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he often visit you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Он рекомендует это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he recommend it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Он видит отель?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he see a hotel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Тебе больше нравится другая еда?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like another food more?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Ты хочешь получать больше денег?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to get more money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Ты часто готовишь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you often cook?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Ты хочешь заказать это онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to order it online?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Она хочет купить это онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she want to buy it online?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Они хотят заказать это онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they want to order it online?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Ты платишь за это онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you pay for it online?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Ты покупаешь это онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you buy it online?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Они часто просыпаются очень рано?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they often wake up very early?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Ты обычно просыпаешься поздно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you usually wake up late?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Ты получаешь достаточно денег?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you get enough money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Он получает достаточно денег?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he get enough money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Она хочет приготовить завтрак?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she want to cook breakfast?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Она часто готовит?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she often cook?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Ты хочешь потанцевать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to dance?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Он хочет заказать эту игрушку?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he want to order this toy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Он хочет заказать эти игрушки?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he want to order these toys?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он хочет купить эту игрушку?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he want to buy this toy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Ты заказываешь одежду онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you order clothes online?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Ты покупаешь одежду онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you buy clothes online?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Ты платишь за одежду онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you pay for clothes online?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Ты знаешь тех людей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know those people?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Ты знаешь этих детей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know these children?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Ты заказываешь это онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you order it online?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Ты хочешь увидеть это сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to see it now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Ты видишь машину?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you see a car?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Он чувствует себя лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he feel better?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Ты заказываешь еду онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you order food online?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Ты знаешь того человека?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know that person?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Это действительно мотивирует его?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it really motivate him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Тебе нравится готовить?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like cooking?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Он рекомендует этот отель?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he recommend this hotel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Ты предпочитаешь другую еду?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you prefer another food?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "У тебя есть деньги с собой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have money with you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Это случается очень часто?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it happen very often?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Ты рекомендуешь эту книгу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you recommend this book?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Это случается иногда?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it happen sometimes?",
+      "audio": false
+    }
   }
 ]

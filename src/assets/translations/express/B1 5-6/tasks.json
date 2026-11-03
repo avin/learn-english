@@ -1,32 +1,68 @@
 [
   {
-    "_id": 1,
-    "ru": "Я работал три часа, когда он пришел в офис",
-    "en": "I had been working for three hours when he came to the office"
+    "id": 1,
+    "ru": {
+      "text": "Я работал три часа, когда он пришел в офис",
+      "audio": false
+    },
+    "en": {
+      "text": "I had been working for three hours when he came to the office",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я буду здесь три дня к следующей неделе",
-    "en": "I will have been here for three days by next week"
+    "id": 2,
+    "ru": {
+      "text": "Я буду здесь три дня к следующей неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "I will have been here for three days by next week",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Я буду находиться здесь два дня к следующей неделе",
-    "en": "I will have been staying here for two days by next week"
+    "id": 3,
+    "ru": {
+      "text": "Я буду находиться здесь два дня к следующей неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "I will have been staying here for two days by next week",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я буду учиться здесь два года к тому времени",
-    "en": "I will have been studying here for two years by that time"
+    "id": 4,
+    "ru": {
+      "text": "Я буду учиться здесь два года к тому времени",
+      "audio": false
+    },
+    "en": {
+      "text": "I will have been studying here for two years by that time",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я готовил около часа, когда зазвонил телефон",
-    "en": "I had been cooking for about an hour when the phone rang"
+    "id": 5,
+    "ru": {
+      "text": "Я готовил около часа, когда зазвонил телефон",
+      "audio": false
+    },
+    "en": {
+      "text": "I had been cooking for about an hour when the phone rang",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я буду работать здесь год к следующей неделе",
-    "en": "I will have been working here for a year by next week"
+    "id": 6,
+    "ru": {
+      "text": "Я буду работать здесь год к следующей неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "I will have been working here for a year by next week",
+      "audio": false
+    }
   }
 ]

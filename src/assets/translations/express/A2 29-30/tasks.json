@@ -1,122 +1,266 @@
 [
   {
-    "_id": 1,
-    "ru": "Я позвоню ему, чтобы подтвердить нашу встречу",
-    "en": "I'll call him to confirm our meeting"
+    "id": 1,
+    "ru": {
+      "text": "Я позвоню ему, чтобы подтвердить нашу встречу",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll call him to confirm our meeting",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Она еще не подмела пол",
-    "en": "She hasn't swept the floor yet"
+    "id": 2,
+    "ru": {
+      "text": "Она еще не подмела пол",
+      "audio": false
+    },
+    "en": {
+      "text": "She hasn't swept the floor yet",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Пока он плавал, она лежала на пляже",
-    "en": "While he was swimming, she was lying on the beach"
+    "id": 3,
+    "ru": {
+      "text": "Пока он плавал, она лежала на пляже",
+      "audio": false
+    },
+    "en": {
+      "text": "While he was swimming, she was lying on the beach",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я спрашивал его об этом так много раз",
-    "en": "I've asked him about it so many times"
+    "id": 4,
+    "ru": {
+      "text": "Я спрашивал его об этом так много раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I've asked him about it so many times",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я катался на велосипеде вчера",
-    "en": "I rode a bike yesterday"
+    "id": 5,
+    "ru": {
+      "text": "Я катался на велосипеде вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I rode a bike yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я знаю, что его не волнует это",
-    "en": "I know that he doesn't care about it"
+    "id": 6,
+    "ru": {
+      "text": "Я знаю, что его не волнует это",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that he doesn't care about it",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Что ты делал, когда это произошло?",
-    "en": "What were you doing when it happened?"
+    "id": 7,
+    "ru": {
+      "text": "Что ты делал, когда это произошло?",
+      "audio": false
+    },
+    "en": {
+      "text": "What were you doing when it happened?",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Она сказала, что только что переехала в новую квартиру",
-    "en": "She said that she had just moved into a new apartment"
+    "id": 8,
+    "ru": {
+      "text": "Она сказала, что только что переехала в новую квартиру",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that she had just moved into a new apartment",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Посмотри! Малыш плачет",
-    "en": "Look! The baby is crying"
+    "id": 9,
+    "ru": {
+      "text": "Посмотри! Малыш плачет",
+      "audio": false
+    },
+    "en": {
+      "text": "Look! The baby is crying",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Чего он ждет?",
-    "en": "What is he waiting for?"
+    "id": 10,
+    "ru": {
+      "text": "Чего он ждет?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is he waiting for?",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Все меняется в наше время",
-    "en": "Everything is changing nowadays"
+    "id": 11,
+    "ru": {
+      "text": "Все меняется в наше время",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything is changing nowadays",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Он сказал, что она упала и повредила колено",
-    "en": "He said that she had fallen and hurt her knee"
+    "id": 12,
+    "ru": {
+      "text": "Он сказал, что она упала и повредила колено",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that she had fallen and hurt her knee",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я собираюсь достичь этой цели как можно скорее",
-    "en": "I'm going to achieve this aim as soon as possible"
+    "id": 13,
+    "ru": {
+      "text": "Я собираюсь достичь этой цели как можно скорее",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm going to achieve this aim as soon as possible",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Они уже сообщили мне об этих изменениях",
-    "en": "They've already informed me of these changes"
+    "id": 14,
+    "ru": {
+      "text": "Они уже сообщили мне об этих изменениях",
+      "audio": false
+    },
+    "en": {
+      "text": "They've already informed me of these changes",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я только что переехал в новый дом",
-    "en": "I've just moved into a new house"
+    "id": 15,
+    "ru": {
+      "text": "Я только что переехал в новый дом",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just moved into a new house",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Тебе нужно кликнуть на эту ссылку",
-    "en": "You need to click on this link"
+    "id": 16,
+    "ru": {
+      "text": "Тебе нужно кликнуть на эту ссылку",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to click on this link",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Ты когда-либо катался на лошади?",
-    "en": "Have you ever ridden a horse?"
+    "id": 17,
+    "ru": {
+      "text": "Ты когда-либо катался на лошади?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever ridden a horse?",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Я видел, что они действительно любили друг друга",
-    "en": "I saw that they really loved each other"
+    "id": 18,
+    "ru": {
+      "text": "Я видел, что они действительно любили друг друга",
+      "audio": false
+    },
+    "en": {
+      "text": "I saw that they really loved each other",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Он сказал, что закрыл дверь",
-    "en": "He said that he had closed the door"
+    "id": 19,
+    "ru": {
+      "text": "Он сказал, что закрыл дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had closed the door",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Не беспокойся об этом!",
-    "en": "Don't worry about it!"
+    "id": 20,
+    "ru": {
+      "text": "Не беспокойся об этом!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't worry about it!",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Кого ты ждешь?",
-    "en": "Who are you waiting for?"
+    "id": 21,
+    "ru": {
+      "text": "Кого ты ждешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who are you waiting for?",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Это привело к новым неожиданным проблемам",
-    "en": "It led to new unexpected problems"
+    "id": 22,
+    "ru": {
+      "text": "Это привело к новым неожиданным проблемам",
+      "audio": false
+    },
+    "en": {
+      "text": "It led to new unexpected problems",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Он женился на ней в прошлом году",
-    "en": "He married her last year"
+    "id": 23,
+    "ru": {
+      "text": "Он женился на ней в прошлом году",
+      "audio": false
+    },
+    "en": {
+      "text": "He married her last year",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Все изменилось в этом году",
-    "en": "Everything has changed this year"
+    "id": 24,
+    "ru": {
+      "text": "Все изменилось в этом году",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything has changed this year",
+      "audio": false
+    }
   }
 ]

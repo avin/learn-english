@@ -1,72 +1,156 @@
 [
   {
-    "_id": 1,
-    "ru": "Она окончит университет к следующему году",
-    "en": "She will have graduated from university by next year"
+    "id": 1,
+    "ru": {
+      "text": "Она окончит университет к следующему году",
+      "audio": false
+    },
+    "en": {
+      "text": "She will have graduated from university by next year",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я предполагаю, они построят мост к следующему лету",
-    "en": "I suppose they will have built the bridge by next summer"
+    "id": 2,
+    "ru": {
+      "text": "Я предполагаю, они построят мост к следующему лету",
+      "audio": false
+    },
+    "en": {
+      "text": "I suppose they will have built the bridge by next summer",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Я буду ждать последних новостей",
-    "en": "I'll be waiting for the latest news"
+    "id": 3,
+    "ru": {
+      "text": "Я буду ждать последних новостей",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll be waiting for the latest news",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Самолет приземлится к тому времени",
-    "en": "The plane will have landed by that time"
+    "id": 4,
+    "ru": {
+      "text": "Самолет приземлится к тому времени",
+      "audio": false
+    },
+    "en": {
+      "text": "The plane will have landed by that time",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Он закончит школу к следующему году",
-    "en": "He will have finished school by next year"
+    "id": 5,
+    "ru": {
+      "text": "Он закончит школу к следующему году",
+      "audio": false
+    },
+    "en": {
+      "text": "He will have finished school by next year",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я буду ждать тебя",
-    "en": "I'll be waiting for you"
+    "id": 6,
+    "ru": {
+      "text": "Я буду ждать тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll be waiting for you",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я буду ждать твоего звонка",
-    "en": "I'll be waiting for your call"
+    "id": 7,
+    "ru": {
+      "text": "Я буду ждать твоего звонка",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll be waiting for your call",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я буду ждать твоего сообщения",
-    "en": "I'll be waiting for your message"
+    "id": 8,
+    "ru": {
+      "text": "Я буду ждать твоего сообщения",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll be waiting for your message",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "В то время как они будут отдыхать, я буду работать",
-    "en": "While they’re having a rest, I'll be working"
+    "id": 9,
+    "ru": {
+      "text": "В то время как они будут отдыхать, я буду работать",
+      "audio": false
+    },
+    "en": {
+      "text": "While they’re having a rest, I'll be working",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я буду ждать твоего ответа",
-    "en": "I'll be waiting for your answer"
+    "id": 10,
+    "ru": {
+      "text": "Я буду ждать твоего ответа",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll be waiting for your answer",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я буду ждать твоего имейла",
-    "en": "I'll be waiting for your email"
+    "id": 11,
+    "ru": {
+      "text": "Я буду ждать твоего имейла",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll be waiting for your email",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Он придет в офис к десяти",
-    "en": "He will have come to the office by ten"
+    "id": 12,
+    "ru": {
+      "text": "Он придет в офис к десяти",
+      "audio": false
+    },
+    "en": {
+      "text": "He will have come to the office by ten",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я достигну среднего уровня к следующему месяцу",
-    "en": "I will have reached an Intermediate level by next month"
+    "id": 13,
+    "ru": {
+      "text": "Я достигну среднего уровня к следующему месяцу",
+      "audio": false
+    },
+    "en": {
+      "text": "I will have reached an Intermediate level by next month",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я закончу все к следующей неделе",
-    "en": "I will have finished everything by next week"
+    "id": 14,
+    "ru": {
+      "text": "Я закончу все к следующей неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "I will have finished everything by next week",
+      "audio": false
+    }
   }
 ]

@@ -1,372 +1,816 @@
 [
   {
-    "_id": 1,
-    "ru": "Все зависело от нас",
-    "en": "Everything depended on us"
-  },
-  {
-    "_id": 2,
-    "ru": "Я запер дверь",
-    "en": "I locked the door"
-  },
-  {
-    "_id": 3,
-    "ru": "Я не запомнил его имя",
-    "en": "I didn't remember his name"
-  },
-  {
-    "_id": 4,
-    "ru": "Я часто ждал ее",
-    "en": "I often waited for her"
-  },
-  {
-    "_id": 5,
-    "ru": "Они играли в настольный теннис",
-    "en": "They played table tennis"
-  },
-  {
-    "_id": 6,
-    "ru": "Они не хотели обсуждать это",
-    "en": "They didn't want to discuss it"
-  },
-  {
-    "_id": 7,
-    "ru": "Я не мог вспомнить это",
-    "en": "I couldn't remember it"
-  },
-  {
-    "_id": 8,
-    "ru": "Что вы обсуждали с ней?",
-    "en": "What did you discuss with her?"
-  },
-  {
-    "_id": 9,
-    "ru": "Ты запер дверь?",
-    "en": "Did you lock the door?"
-  },
-  {
-    "_id": 10,
-    "ru": "Я ждал этого",
-    "en": "I waited for it"
-  },
-  {
-    "_id": 11,
-    "ru": "Мы работали вместе",
-    "en": "We worked together"
-  },
-  {
-    "_id": 12,
-    "ru": "Она готовила очень хорошо",
-    "en": "She cooked very well"
-  },
-  {
-    "_id": 13,
-    "ru": "Вы обсуждали эту вещь с ним?",
-    "en": "Did you discuss this thing with him?"
-  },
-  {
-    "_id": 14,
-    "ru": "Она заплакала внезапно",
-    "en": "She cried suddenly"
-  },
-  {
-    "_id": 15,
-    "ru": "Я помыл свои волосы",
-    "en": "I washed my hair"
-  },
-  {
-    "_id": 16,
-    "ru": "Мы часто путешествовали",
-    "en": "We often travelled"
-  },
-  {
-    "_id": 17,
-    "ru": "Я последовал твоему совету",
-    "en": "I followed your advice"
-  },
-  {
-    "_id": 18,
-    "ru": "Я все вспомнил",
-    "en": "I remembered everything"
-  },
-  {
-    "_id": 19,
-    "ru": "Ты часто гулял в парке?",
-    "en": "Did you often walk in the park?"
-  },
-  {
-    "_id": 20,
-    "ru": "Это изменило мою жизнь",
-    "en": "It changed my life"
-  },
-  {
-    "_id": 21,
-    "ru": "Когда начался этот урок?",
-    "en": "When did this lesson start?"
-  },
-  {
-    "_id": 22,
-    "ru": "Они поцеловали друг друга",
-    "en": "They kissed each other"
-  },
-  {
-    "_id": 23,
-    "ru": "Он помыл свое тело",
-    "en": "He washed his body"
-  },
-  {
-    "_id": 24,
-    "ru": "Мы играли в бадминтон",
-    "en": "We played badminton"
-  },
-  {
-    "_id": 25,
-    "ru": "Он не курил",
-    "en": "He didn't smoke"
-  },
-  {
-    "_id": 26,
-    "ru": "Он изменил свое решение",
-    "en": "He changed his decision"
-  },
-  {
-    "_id": 27,
-    "ru": "Я следовал этой рекомендации",
-    "en": "I followed this recommendation"
-  },
-  {
-    "_id": 28,
-    "ru": "Я умыл свое лицо",
-    "en": "I washed my face"
-  },
-  {
-    "_id": 29,
-    "ru": "Мы часто играли вместе",
-    "en": "We often played together"
-  },
-  {
-    "_id": 30,
-    "ru": "Они гуляли в лесу",
-    "en": "They walked in the forest"
-  },
-  {
-    "_id": 31,
-    "ru": "Я действительно улучшил свою речь",
-    "en": "I really improved my speaking"
-  },
-  {
-    "_id": 32,
-    "ru": "Где ты работал?",
-    "en": "Where did you work?"
-  },
-  {
-    "_id": 33,
-    "ru": "Я ждал его",
-    "en": "I waited for him"
-  },
-  {
-    "_id": 34,
-    "ru": "Наш учитель проверил мою работу",
-    "en": "Our teacher checked my work"
-  },
-  {
-    "_id": 35,
-    "ru": "Мы часто гуляли в парке",
-    "en": "We often walked in the park"
-  },
-  {
-    "_id": 36,
-    "ru": "Я помылся",
-    "en": "I washed myself"
-  },
-  {
-    "_id": 37,
-    "ru": "Он поцеловал ее",
-    "en": "He kissed her"
-  },
-  {
-    "_id": 38,
-    "ru": "Я предпочитал заказывать это онлайн",
-    "en": "I preferred to order it online"
-  },
-  {
-    "_id": 39,
-    "ru": "Они не хотели убивать это животное",
-    "en": "They didn't want to kill this animal"
-  },
-  {
-    "_id": 40,
-    "ru": "Все зависело от нас",
-    "en": "Everything depended on us"
-  },
-  {
-    "_id": 41,
-    "ru": "Что вы хотели сказать?",
-    "en": "What did you want to say?"
-  },
-  {
-    "_id": 42,
-    "ru": "Я не хотел готовить",
-    "en": "I didn't want to cook"
-  },
-  {
-    "_id": 43,
-    "ru": "Они убили этого человека",
-    "en": "They killed this person"
-  },
-  {
-    "_id": 44,
-    "ru": "Это не зависело от меня",
-    "en": "It didn't depend on me"
-  },
-  {
-    "_id": 45,
-    "ru": "Я надеялся, что я был прав",
-    "en": "I hoped that I was right"
-  },
-  {
-    "_id": 46,
-    "ru": "Это зависело от меня",
-    "en": "It depended on me"
-  },
-  {
-    "_id": 47,
-    "ru": "Мои друзья поддерживали меня",
-    "en": "My friends supported me"
-  },
-  {
-    "_id": 48,
-    "ru": "Я надеялся победить",
-    "en": "I hoped to win"
-  },
-  {
-    "_id": 49,
-    "ru": "Эти парни часто смеялись над ней",
-    "en": "These boys often laughed at her"
-  },
-  {
-    "_id": 50,
-    "ru": "Те парни часто смеялись над ней",
-    "en": "Those boys often laughed at her"
-  },
-  {
-    "_id": 51,
-    "ru": "Я решил подождать это",
-    "en": "I decided to wait for it"
-  },
-  {
-    "_id": 52,
-    "ru": "Я решил подождать тебя",
-    "en": "I decided to wait for you"
-  },
-  {
-    "_id": 53,
-    "ru": "Они решили подождать это",
-    "en": "They decided to wait for it"
-  },
-  {
-    "_id": 54,
-    "ru": "Почему они смеялись над этим?",
-    "en": "Why did they laugh at it?"
-  },
-  {
-    "_id": 55,
-    "ru": "Почему они смеялись над ним?",
-    "en": "Why did they laugh at him?"
-  },
-  {
-    "_id": 56,
-    "ru": "Когда они смеялись над этим?",
-    "en": "When did they laugh at it?"
-  },
-  {
-    "_id": 57,
-    "ru": "Я значительно улучшил свою грамматику",
-    "en": "I improved my grammar a lot"
-  },
-  {
-    "_id": 58,
-    "ru": "Я улучшил свою грамматику",
-    "en": "I improved my grammar"
-  },
-  {
-    "_id": 59,
-    "ru": "Твоим друзьям понравилась эта идея?",
-    "en": "Did your friends like this idea?"
-  },
-  {
-    "_id": 60,
-    "ru": "Ты подписал тот документ?",
-    "en": "Did you sign that document?"
-  },
-  {
-    "_id": 61,
-    "ru": "Ты подписал этот документ?",
-    "en": "Did you sign this document?"
-  },
-  {
-    "_id": 62,
-    "ru": "Ты подписал эти документы?",
-    "en": "Did you sign these documents?"
-  },
-  {
-    "_id": 63,
-    "ru": "Мы вчера хотели встретиться",
-    "en": "We wanted to meet yesterday"
-  },
-  {
-    "_id": 64,
-    "ru": "Я не подписал этот документ",
-    "en": "I didn't sign this document"
-  },
-  {
-    "_id": 65,
-    "ru": "Они смеялись дома",
-    "en": "They laughed at home"
-  },
-  {
-    "_id": 66,
-    "ru": "Почему они убили этого мужчину?",
-    "en": "Why did they kill this man?"
-  },
-  {
-    "_id": 67,
-    "ru": "Я предпочел остаться дома",
-    "en": "I preferred to stay at home"
-  },
-  {
-    "_id": 68,
-    "ru": "Я надеялся, что это было так",
-    "en": "I hoped that it was so"
-  },
-  {
-    "_id": 69,
-    "ru": "Я решил подождать их",
-    "en": "I decided to wait for them"
-  },
-  {
-    "_id": 70,
-    "ru": "Я не хотел смеяться",
-    "en": "I didn't want to laugh"
-  },
-  {
-    "_id": 71,
-    "ru": "Как часто ты путешествовал?",
-    "en": "How often did you travel?"
-  },
-  {
-    "_id": 72,
-    "ru": "Это зависело от разных вещей",
-    "en": "It depended on different things"
-  },
-  {
-    "_id": 73,
-    "ru": "Я не хотел рассказывать ей эту вещь",
-    "en": "I didn't want to tell her this thing"
-  },
-  {
-    "_id": 74,
-    "ru": "Это зависело от тебя?",
-    "en": "Did it depend on you?"
+    "id": 1,
+    "ru": {
+      "text": "Все зависело от нас",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything depended on us",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я запер дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "I locked the door",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я не запомнил его имя",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't remember his name",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я часто ждал ее",
+      "audio": false
+    },
+    "en": {
+      "text": "I often waited for her",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Они играли в настольный теннис",
+      "audio": false
+    },
+    "en": {
+      "text": "They played table tennis",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Они не хотели обсуждать это",
+      "audio": false
+    },
+    "en": {
+      "text": "They didn't want to discuss it",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Я не мог вспомнить это",
+      "audio": false
+    },
+    "en": {
+      "text": "I couldn't remember it",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Что вы обсуждали с ней?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you discuss with her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Ты запер дверь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you lock the door?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я ждал этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I waited for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Мы работали вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "We worked together",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Она готовила очень хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "She cooked very well",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Вы обсуждали эту вещь с ним?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you discuss this thing with him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Она заплакала внезапно",
+      "audio": false
+    },
+    "en": {
+      "text": "She cried suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я помыл свои волосы",
+      "audio": false
+    },
+    "en": {
+      "text": "I washed my hair",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Мы часто путешествовали",
+      "audio": false
+    },
+    "en": {
+      "text": "We often travelled",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я последовал твоему совету",
+      "audio": false
+    },
+    "en": {
+      "text": "I followed your advice",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я все вспомнил",
+      "audio": false
+    },
+    "en": {
+      "text": "I remembered everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Ты часто гулял в парке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you often walk in the park?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Это изменило мою жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "It changed my life",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Когда начался этот урок?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did this lesson start?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Они поцеловали друг друга",
+      "audio": false
+    },
+    "en": {
+      "text": "They kissed each other",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он помыл свое тело",
+      "audio": false
+    },
+    "en": {
+      "text": "He washed his body",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Мы играли в бадминтон",
+      "audio": false
+    },
+    "en": {
+      "text": "We played badminton",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Он не курил",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't smoke",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Он изменил свое решение",
+      "audio": false
+    },
+    "en": {
+      "text": "He changed his decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я следовал этой рекомендации",
+      "audio": false
+    },
+    "en": {
+      "text": "I followed this recommendation",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Я умыл свое лицо",
+      "audio": false
+    },
+    "en": {
+      "text": "I washed my face",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Мы часто играли вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "We often played together",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Они гуляли в лесу",
+      "audio": false
+    },
+    "en": {
+      "text": "They walked in the forest",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Я действительно улучшил свою речь",
+      "audio": false
+    },
+    "en": {
+      "text": "I really improved my speaking",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Где ты работал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did you work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я ждал его",
+      "audio": false
+    },
+    "en": {
+      "text": "I waited for him",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Наш учитель проверил мою работу",
+      "audio": false
+    },
+    "en": {
+      "text": "Our teacher checked my work",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Мы часто гуляли в парке",
+      "audio": false
+    },
+    "en": {
+      "text": "We often walked in the park",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я помылся",
+      "audio": false
+    },
+    "en": {
+      "text": "I washed myself",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Он поцеловал ее",
+      "audio": false
+    },
+    "en": {
+      "text": "He kissed her",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Я предпочитал заказывать это онлайн",
+      "audio": false
+    },
+    "en": {
+      "text": "I preferred to order it online",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Они не хотели убивать это животное",
+      "audio": false
+    },
+    "en": {
+      "text": "They didn't want to kill this animal",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Все зависело от нас",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything depended on us",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Что вы хотели сказать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you want to say?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я не хотел готовить",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't want to cook",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Они убили этого человека",
+      "audio": false
+    },
+    "en": {
+      "text": "They killed this person",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Это не зависело от меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It didn't depend on me",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я надеялся, что я был прав",
+      "audio": false
+    },
+    "en": {
+      "text": "I hoped that I was right",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Это зависело от меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It depended on me",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Мои друзья поддерживали меня",
+      "audio": false
+    },
+    "en": {
+      "text": "My friends supported me",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я надеялся победить",
+      "audio": false
+    },
+    "en": {
+      "text": "I hoped to win",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Эти парни часто смеялись над ней",
+      "audio": false
+    },
+    "en": {
+      "text": "These boys often laughed at her",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Те парни часто смеялись над ней",
+      "audio": false
+    },
+    "en": {
+      "text": "Those boys often laughed at her",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я решил подождать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to wait for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я решил подождать тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to wait for you",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Они решили подождать это",
+      "audio": false
+    },
+    "en": {
+      "text": "They decided to wait for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Почему они смеялись над этим?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did they laugh at it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Почему они смеялись над ним?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did they laugh at him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Когда они смеялись над этим?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did they laugh at it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я значительно улучшил свою грамматику",
+      "audio": false
+    },
+    "en": {
+      "text": "I improved my grammar a lot",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я улучшил свою грамматику",
+      "audio": false
+    },
+    "en": {
+      "text": "I improved my grammar",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Твоим друзьям понравилась эта идея?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did your friends like this idea?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Ты подписал тот документ?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you sign that document?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Ты подписал этот документ?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you sign this document?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Ты подписал эти документы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you sign these documents?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Мы вчера хотели встретиться",
+      "audio": false
+    },
+    "en": {
+      "text": "We wanted to meet yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я не подписал этот документ",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't sign this document",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Они смеялись дома",
+      "audio": false
+    },
+    "en": {
+      "text": "They laughed at home",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Почему они убили этого мужчину?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did they kill this man?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я предпочел остаться дома",
+      "audio": false
+    },
+    "en": {
+      "text": "I preferred to stay at home",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я надеялся, что это было так",
+      "audio": false
+    },
+    "en": {
+      "text": "I hoped that it was so",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я решил подождать их",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to wait for them",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я не хотел смеяться",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't want to laugh",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Как часто ты путешествовал?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often did you travel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Это зависело от разных вещей",
+      "audio": false
+    },
+    "en": {
+      "text": "It depended on different things",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я не хотел рассказывать ей эту вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't want to tell her this thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Это зависело от тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did it depend on you?",
+      "audio": false
+    }
   }
 ]

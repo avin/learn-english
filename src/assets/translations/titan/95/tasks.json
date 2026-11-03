@@ -1,462 +1,1014 @@
 [
   {
-    "_id": 1,
-    "ru": "Это стоило миллионы долларов",
-    "en": "It cost millions of dollars"
-  },
-  {
-    "_id": 2,
-    "ru": "Она наконец преодолела этот страх",
-    "en": "She finally overcame this fear"
-  },
-  {
-    "_id": 3,
-    "ru": "Это стоит свыше пяти тысяч долларов",
-    "en": "It costs over five thousand dollars"
-  },
-  {
-    "_id": 4,
-    "ru": "Я уверен, что это также поможет тебе",
-    "en": "I'm sure that it’ll also help you"
-  },
-  {
-    "_id": 5,
-    "ru": "Я пожелал ему удачи",
-    "en": "I wished him good luck"
-  },
-  {
-    "_id": 6,
-    "ru": "Это стоит целое состояние",
-    "en": "It costs a fortune"
-  },
-  {
-    "_id": 7,
-    "ru": "Эти заводы производят низкокачественные продукты",
-    "en": "These factories produce low-quality products"
-  },
-  {
-    "_id": 8,
-    "ru": "Я скоро закончу это делать",
-    "en": "I’ll finish doing it soon"
-  },
-  {
-    "_id": 9,
-    "ru": "Ты будешь ездить на работу?",
-    "en": "Will you drive to work?"
-  },
-  {
-    "_id": 10,
-    "ru": "Эти цифры показывают это",
-    "en": "These figures show it"
-  },
-  {
-    "_id": 11,
-    "ru": "Какие новые песни он записал?",
-    "en": "What new songs did he record?"
-  },
-  {
-    "_id": 12,
-    "ru": "Тебе не нужно платить за это",
-    "en": "You don't need to pay for it"
-  },
-  {
-    "_id": 13,
-    "ru": "Он все мне показал",
-    "en": "He showed me everything"
-  },
-  {
-    "_id": 14,
-    "ru": "Почему ты не согласен с этим?",
-    "en": "Why do you disagree with it?"
-  },
-  {
-    "_id": 15,
-    "ru": "Компания производит товары на экспорт",
-    "en": "The company produces goods for export"
-  },
-  {
-    "_id": 16,
-    "ru": "Он это выбросил",
-    "en": "He threw it away"
-  },
-  {
-    "_id": 17,
-    "ru": "Я могу это показать",
-    "en": "I can show it"
-  },
-  {
-    "_id": 18,
-    "ru": "Я возможно выиграю",
-    "en": "I might win"
-  },
-  {
-    "_id": 19,
-    "ru": "Я с этим не согласен",
-    "en": "I disagree with it"
-  },
-  {
-    "_id": 20,
-    "ru": "Они производят высококачественные продукты",
-    "en": "They produce high-quality products"
-  },
-  {
-    "_id": 21,
-    "ru": "Завод производит вино",
-    "en": "The factory produces wine"
-  },
-  {
-    "_id": 22,
-    "ru": "Ты пригласишь своих друзей?",
-    "en": "Will you invite your friends?"
-  },
-  {
-    "_id": 23,
-    "ru": "Он запишет новый альбом?",
-    "en": "Will he record a new album?"
-  },
-  {
-    "_id": 24,
-    "ru": "Это стоило тысячи долларов",
-    "en": "It cost thousands of dollars"
-  },
-  {
-    "_id": 25,
-    "ru": "Я положил это на то место",
-    "en": "I put it in that place"
-  },
-  {
-    "_id": 26,
-    "ru": "Я должен найти другую работу",
-    "en": "I must find another job"
-  },
-  {
-    "_id": 27,
-    "ru": "Я желаю тебе крепкого здоровья",
-    "en": "I wish you strong health"
-  },
-  {
-    "_id": 28,
-    "ru": "Не выбрасывай это!",
-    "en": "Don't throw it away!"
-  },
-  {
-    "_id": 29,
-    "ru": "Он чувствовал себя расслабленно",
-    "en": "He felt relaxed"
-  },
-  {
-    "_id": 30,
-    "ru": "Это может изменить нашу жизнь",
-    "en": "It can change our life"
-  },
-  {
-    "_id": 31,
-    "ru": "Тебе нравится водить?",
-    "en": "Do you like driving?"
-  },
-  {
-    "_id": 32,
-    "ru": "Он хотел быть учителем английского",
-    "en": "He wanted to be an English teacher"
-  },
-  {
-    "_id": 33,
-    "ru": "Куда ты это положил?",
-    "en": "Where did you put it?"
-  },
-  {
-    "_id": 34,
-    "ru": "Я так сильно тебя люблю",
-    "en": "I love you so much"
-  },
-  {
-    "_id": 35,
-    "ru": "Мы закончили говорить об этом",
-    "en": "We finished talking about it"
-  },
-  {
-    "_id": 36,
-    "ru": "Я положу это рядом с кроватью",
-    "en": "I’ll put it near the bed"
-  },
-  {
-    "_id": 37,
-    "ru": "Ты пришлешь мне это сейчас?",
-    "en": "Will you send me it now?"
-  },
-  {
-    "_id": 38,
-    "ru": "Эти цифры ясно показывают это",
-    "en": "These figures clearly show it"
-  },
-  {
-    "_id": 39,
-    "ru": "Это действительно стоит целое состояние",
-    "en": "It really costs a fortune"
-  },
-  {
-    "_id": 40,
-    "ru": "Мы не можем сравнивать эти вещи",
-    "en": "We can't compare these things"
-  },
-  {
-    "_id": 41,
-    "ru": "Я знаю, что я должен начать искать другую работу",
-    "en": "I know that I must start looking for another job"
-  },
-  {
-    "_id": 42,
-    "ru": "Ему удалось победить, и это было очень неожиданно",
-    "en": "He managed to win and it was very unexpected"
-  },
-  {
-    "_id": 43,
-    "ru": "Мне кажется, он сделал ошибку",
-    "en": "It seems to me he made a mistake"
-  },
-  {
-    "_id": 44,
-    "ru": "Она может быть очень удивлена",
-    "en": "She might be very surprised"
-  },
-  {
-    "_id": 45,
-    "ru": "Он пригласил меня на эту вечеринку",
-    "en": "He invited me to this party"
-  },
-  {
-    "_id": 46,
-    "ru": "Я действительно осознаю, что это последний шанс",
-    "en": "I really realise that it's the last chance"
-  },
-  {
-    "_id": 47,
-    "ru": "Я люблю тебя всем своим сердцем",
-    "en": "I love you with all my heart"
-  },
-  {
-    "_id": 48,
-    "ru": "Мне кажется, каждый может это сделать",
-    "en": "It seems to me everyone can do it"
-  },
-  {
-    "_id": 49,
-    "ru": "Я не должен упоминать об этом во время нашего разговора",
-    "en": "I mustn't mention it during our conversation"
-  },
-  {
-    "_id": 50,
-    "ru": "Я должен упомянуть это во время этого разговора",
-    "en": "I must mention it during this conversation"
-  },
-  {
-    "_id": 51,
-    "ru": "Мне нужно упомянуть это во время нашего разговора",
-    "en": "I need to mention it during our conversation"
-  },
-  {
-    "_id": 52,
-    "ru": "Я решил пригласить его на свой день рождения",
-    "en": "I decided to invite him to my birthday party"
-  },
-  {
-    "_id": 53,
-    "ru": "Я решил пригласить их на мой день рождения",
-    "en": "I decided to invite them to my birthday party"
-  },
-  {
-    "_id": 54,
-    "ru": "Я пригласил ее на ту вечеринку",
-    "en": "I invited her to that party"
-  },
-  {
-    "_id": 55,
-    "ru": "Я прекрасно осознаю важность этого решения",
-    "en": "I perfectly realise the importance of this decision"
-  },
-  {
-    "_id": 56,
-    "ru": "Я прекрасно понимаю важность того решения",
-    "en": "I perfectly understand the importance of that decision"
-  },
-  {
-    "_id": 57,
-    "ru": "Я прекрасно осозновал важность моего решения",
-    "en": "I perfectly realised the importance of my decision"
-  },
-  {
-    "_id": 58,
-    "ru": "Я думаю, мне удастся заработать эти деньги",
-    "en": "I think I'll manage to earn this money"
-  },
-  {
-    "_id": 59,
-    "ru": "Я думаю, я заработаю эти деньги",
-    "en": "I think I'll earn this money"
-  },
-  {
-    "_id": 60,
-    "ru": "Я думаю, мне удастся заработать немного денег",
-    "en": "I think I'll manage to earn some money"
-  },
-  {
-    "_id": 61,
-    "ru": "Это может полностью изменить твою жизнь",
-    "en": "It might change your life completely"
-  },
-  {
-    "_id": 62,
-    "ru": "Это полностью изменило мою жизнь",
-    "en": "It changed my life completely"
-  },
-  {
-    "_id": 63,
-    "ru": "Это полностью изменит твою жизнь",
-    "en": "It’ll change your life completely"
-  },
-  {
-    "_id": 64,
-    "ru": "Он говорит, что позвонит тебе позже",
-    "en": "He says that he’ll ring you later"
-  },
-  {
-    "_id": 65,
-    "ru": "Он говорит, что перезвонит тебе позже",
-    "en": "He says that he’ll call you back later"
-  },
-  {
-    "_id": 66,
-    "ru": "Я позвоню тебе завтра",
-    "en": "I’ll ring you tomorrow"
-  },
-  {
-    "_id": 67,
-    "ru": "Он возможно согласится прийти к нам",
-    "en": "He might agree to come to us"
-  },
-  {
-    "_id": 68,
-    "ru": "Он согласится прийти к нам?",
-    "en": "Will he agree to come to us?"
-  },
-  {
-    "_id": 69,
-    "ru": "Он согласился прийти ко мне",
-    "en": "He agreed to come to me"
-  },
-  {
-    "_id": 70,
-    "ru": "Я прекрасно осознаю, насколько это было важно",
-    "en": "I perfectly realise how important it was"
-  },
-  {
-    "_id": 71,
-    "ru": "Я прекрасно осозновал важность этого решения",
-    "en": "I perfectly realised the importance of this decision"
-  },
-  {
-    "_id": 72,
-    "ru": "Я прекрасно осознаю, что это было очень важно",
-    "en": "I perfectly realise that it was very important"
-  },
-  {
-    "_id": 73,
-    "ru": "Я чувствовал себя чрезвычайно уставшим в конце дня",
-    "en": "I felt extremely tired at the end of the day"
-  },
-  {
-    "_id": 74,
-    "ru": "Я чувствовал себя чрезвычайно уставшим в конце концов",
-    "en": "I felt extremely tired in the end"
-  },
-  {
-    "_id": 75,
-    "ru": "Он действительно любит играть в футбол",
-    "en": "He really loves playing football"
-  },
-  {
-    "_id": 76,
-    "ru": "Он предпочитает играть в футбол",
-    "en": "He prefers to play football"
-  },
-  {
-    "_id": 77,
-    "ru": "Он действительно обожал играть в баскетбол",
-    "en": "He really enjoyed playing basketball"
-  },
-  {
-    "_id": 78,
-    "ru": "Как ты ответишь на этот вопрос?",
-    "en": "How will you answer this question?"
-  },
-  {
-    "_id": 79,
-    "ru": "Это принесло ему известность и общественное признание",
-    "en": "It brought him fame and public recognition"
-  },
-  {
-    "_id": 80,
-    "ru": "Мы все видели, что он чувствовал себя очень расслабленно",
-    "en": "We all saw that he felt very relaxed"
-  },
-  {
-    "_id": 81,
-    "ru": "Я наконец преодолел свой страх и сделал это",
-    "en": "I finally overcame my fear and did it"
-  },
-  {
-    "_id": 82,
-    "ru": "Мне казалось, что он был не прав",
-    "en": "It seemed to me that he wasn't right"
-  },
-  {
-    "_id": 83,
-    "ru": "Я полагаю, мне удастся сдать этот тест",
-    "en": "I suppose I'll manage to pass this test"
-  },
-  {
-    "_id": 84,
-    "ru": "Она отказалась отвечать на этот вопрос",
-    "en": "She refused to answer this question"
-  },
-  {
-    "_id": 85,
-    "ru": "Я думаю, каждый хочет быть богатым и здоровым",
-    "en": "I think everyone wants to be rich and healthy"
-  },
-  {
-    "_id": 86,
-    "ru": "Она представила нам своего мужа",
-    "en": "She introduced her husband to us"
-  },
-  {
-    "_id": 87,
-    "ru": "Позволь мне представиться!",
-    "en": "Let me introduce myself!"
-  },
-  {
-    "_id": 88,
-    "ru": "Цена возможно вырастет",
-    "en": "The price might go up"
-  },
-  {
-    "_id": 89,
-    "ru": "Каждый хочет быть здоровым",
-    "en": "Everyone wants to be healthy"
-  },
-  {
-    "_id": 90,
-    "ru": "Что тебе кажется?",
-    "en": "What seems to you?"
-  },
-  {
-    "_id": 91,
-    "ru": "Ты не должен делать это",
-    "en": "You mustn't do it"
-  },
-  {
-    "_id": 92,
-    "ru": "Ты не должен платить за это",
-    "en": "You mustn't pay for it"
+    "id": 1,
+    "ru": {
+      "text": "Это стоило миллионы долларов",
+      "audio": false
+    },
+    "en": {
+      "text": "It cost millions of dollars",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Она наконец преодолела этот страх",
+      "audio": false
+    },
+    "en": {
+      "text": "She finally overcame this fear",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Это стоит свыше пяти тысяч долларов",
+      "audio": false
+    },
+    "en": {
+      "text": "It costs over five thousand dollars",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я уверен, что это также поможет тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure that it’ll also help you",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я пожелал ему удачи",
+      "audio": false
+    },
+    "en": {
+      "text": "I wished him good luck",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Это стоит целое состояние",
+      "audio": false
+    },
+    "en": {
+      "text": "It costs a fortune",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Эти заводы производят низкокачественные продукты",
+      "audio": false
+    },
+    "en": {
+      "text": "These factories produce low-quality products",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я скоро закончу это делать",
+      "audio": false
+    },
+    "en": {
+      "text": "I’ll finish doing it soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Ты будешь ездить на работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you drive to work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Эти цифры показывают это",
+      "audio": false
+    },
+    "en": {
+      "text": "These figures show it",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Какие новые песни он записал?",
+      "audio": false
+    },
+    "en": {
+      "text": "What new songs did he record?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Тебе не нужно платить за это",
+      "audio": false
+    },
+    "en": {
+      "text": "You don't need to pay for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он все мне показал",
+      "audio": false
+    },
+    "en": {
+      "text": "He showed me everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Почему ты не согласен с этим?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why do you disagree with it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Компания производит товары на экспорт",
+      "audio": false
+    },
+    "en": {
+      "text": "The company produces goods for export",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Он это выбросил",
+      "audio": false
+    },
+    "en": {
+      "text": "He threw it away",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я могу это показать",
+      "audio": false
+    },
+    "en": {
+      "text": "I can show it",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я возможно выиграю",
+      "audio": false
+    },
+    "en": {
+      "text": "I might win",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я с этим не согласен",
+      "audio": false
+    },
+    "en": {
+      "text": "I disagree with it",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Они производят высококачественные продукты",
+      "audio": false
+    },
+    "en": {
+      "text": "They produce high-quality products",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Завод производит вино",
+      "audio": false
+    },
+    "en": {
+      "text": "The factory produces wine",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Ты пригласишь своих друзей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you invite your friends?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он запишет новый альбом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he record a new album?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Это стоило тысячи долларов",
+      "audio": false
+    },
+    "en": {
+      "text": "It cost thousands of dollars",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Я положил это на то место",
+      "audio": false
+    },
+    "en": {
+      "text": "I put it in that place",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я должен найти другую работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I must find another job",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я желаю тебе крепкого здоровья",
+      "audio": false
+    },
+    "en": {
+      "text": "I wish you strong health",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Не выбрасывай это!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't throw it away!",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Он чувствовал себя расслабленно",
+      "audio": false
+    },
+    "en": {
+      "text": "He felt relaxed",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Это может изменить нашу жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "It can change our life",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Тебе нравится водить?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like driving?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Он хотел быть учителем английского",
+      "audio": false
+    },
+    "en": {
+      "text": "He wanted to be an English teacher",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Куда ты это положил?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did you put it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я так сильно тебя люблю",
+      "audio": false
+    },
+    "en": {
+      "text": "I love you so much",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Мы закончили говорить об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "We finished talking about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я положу это рядом с кроватью",
+      "audio": false
+    },
+    "en": {
+      "text": "I’ll put it near the bed",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Ты пришлешь мне это сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you send me it now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Эти цифры ясно показывают это",
+      "audio": false
+    },
+    "en": {
+      "text": "These figures clearly show it",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Это действительно стоит целое состояние",
+      "audio": false
+    },
+    "en": {
+      "text": "It really costs a fortune",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Мы не можем сравнивать эти вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "We can't compare these things",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я знаю, что я должен начать искать другую работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that I must start looking for another job",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Ему удалось победить, и это было очень неожиданно",
+      "audio": false
+    },
+    "en": {
+      "text": "He managed to win and it was very unexpected",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Мне кажется, он сделал ошибку",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me he made a mistake",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Она может быть очень удивлена",
+      "audio": false
+    },
+    "en": {
+      "text": "She might be very surprised",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Он пригласил меня на эту вечеринку",
+      "audio": false
+    },
+    "en": {
+      "text": "He invited me to this party",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я действительно осознаю, что это последний шанс",
+      "audio": false
+    },
+    "en": {
+      "text": "I really realise that it's the last chance",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я люблю тебя всем своим сердцем",
+      "audio": false
+    },
+    "en": {
+      "text": "I love you with all my heart",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Мне кажется, каждый может это сделать",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me everyone can do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я не должен упоминать об этом во время нашего разговора",
+      "audio": false
+    },
+    "en": {
+      "text": "I mustn't mention it during our conversation",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я должен упомянуть это во время этого разговора",
+      "audio": false
+    },
+    "en": {
+      "text": "I must mention it during this conversation",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Мне нужно упомянуть это во время нашего разговора",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to mention it during our conversation",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я решил пригласить его на свой день рождения",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to invite him to my birthday party",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я решил пригласить их на мой день рождения",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to invite them to my birthday party",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я пригласил ее на ту вечеринку",
+      "audio": false
+    },
+    "en": {
+      "text": "I invited her to that party",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я прекрасно осознаю важность этого решения",
+      "audio": false
+    },
+    "en": {
+      "text": "I perfectly realise the importance of this decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я прекрасно понимаю важность того решения",
+      "audio": false
+    },
+    "en": {
+      "text": "I perfectly understand the importance of that decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я прекрасно осозновал важность моего решения",
+      "audio": false
+    },
+    "en": {
+      "text": "I perfectly realised the importance of my decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я думаю, мне удастся заработать эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I'll manage to earn this money",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я думаю, я заработаю эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I'll earn this money",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я думаю, мне удастся заработать немного денег",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I'll manage to earn some money",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Это может полностью изменить твою жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "It might change your life completely",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Это полностью изменило мою жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "It changed my life completely",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Это полностью изменит твою жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "It’ll change your life completely",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он говорит, что позвонит тебе позже",
+      "audio": false
+    },
+    "en": {
+      "text": "He says that he’ll ring you later",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Он говорит, что перезвонит тебе позже",
+      "audio": false
+    },
+    "en": {
+      "text": "He says that he’ll call you back later",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я позвоню тебе завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I’ll ring you tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Он возможно согласится прийти к нам",
+      "audio": false
+    },
+    "en": {
+      "text": "He might agree to come to us",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Он согласится прийти к нам?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he agree to come to us?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Он согласился прийти ко мне",
+      "audio": false
+    },
+    "en": {
+      "text": "He agreed to come to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я прекрасно осознаю, насколько это было важно",
+      "audio": false
+    },
+    "en": {
+      "text": "I perfectly realise how important it was",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я прекрасно осозновал важность этого решения",
+      "audio": false
+    },
+    "en": {
+      "text": "I perfectly realised the importance of this decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я прекрасно осознаю, что это было очень важно",
+      "audio": false
+    },
+    "en": {
+      "text": "I perfectly realise that it was very important",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я чувствовал себя чрезвычайно уставшим в конце дня",
+      "audio": false
+    },
+    "en": {
+      "text": "I felt extremely tired at the end of the day",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я чувствовал себя чрезвычайно уставшим в конце концов",
+      "audio": false
+    },
+    "en": {
+      "text": "I felt extremely tired in the end",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Он действительно любит играть в футбол",
+      "audio": false
+    },
+    "en": {
+      "text": "He really loves playing football",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Он предпочитает играть в футбол",
+      "audio": false
+    },
+    "en": {
+      "text": "He prefers to play football",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Он действительно обожал играть в баскетбол",
+      "audio": false
+    },
+    "en": {
+      "text": "He really enjoyed playing basketball",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Как ты ответишь на этот вопрос?",
+      "audio": false
+    },
+    "en": {
+      "text": "How will you answer this question?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Это принесло ему известность и общественное признание",
+      "audio": false
+    },
+    "en": {
+      "text": "It brought him fame and public recognition",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Мы все видели, что он чувствовал себя очень расслабленно",
+      "audio": false
+    },
+    "en": {
+      "text": "We all saw that he felt very relaxed",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я наконец преодолел свой страх и сделал это",
+      "audio": false
+    },
+    "en": {
+      "text": "I finally overcame my fear and did it",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Мне казалось, что он был не прав",
+      "audio": false
+    },
+    "en": {
+      "text": "It seemed to me that he wasn't right",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я полагаю, мне удастся сдать этот тест",
+      "audio": false
+    },
+    "en": {
+      "text": "I suppose I'll manage to pass this test",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Она отказалась отвечать на этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "She refused to answer this question",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я думаю, каждый хочет быть богатым и здоровым",
+      "audio": false
+    },
+    "en": {
+      "text": "I think everyone wants to be rich and healthy",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Она представила нам своего мужа",
+      "audio": false
+    },
+    "en": {
+      "text": "She introduced her husband to us",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Позволь мне представиться!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let me introduce myself!",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Цена возможно вырастет",
+      "audio": false
+    },
+    "en": {
+      "text": "The price might go up",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Каждый хочет быть здоровым",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone wants to be healthy",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Что тебе кажется?",
+      "audio": false
+    },
+    "en": {
+      "text": "What seems to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Ты не должен делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "You mustn't do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Ты не должен платить за это",
+      "audio": false
+    },
+    "en": {
+      "text": "You mustn't pay for it",
+      "audio": false
+    }
   }
 ]

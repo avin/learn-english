@@ -1,72 +1,156 @@
 [
   {
-    "_id": 1,
-    "ru": "Мы все видим, что время летит так быстро",
-    "en": "We all see that time goes by so quickly"
+    "id": 1,
+    "ru": {
+      "text": "Мы все видим, что время летит так быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "We all see that time goes by so quickly",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Он встал, чтобы задать вопрос",
-    "en": "He stood up to ask a question"
+    "id": 2,
+    "ru": {
+      "text": "Он встал, чтобы задать вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "He stood up to ask a question",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Она закрыла книгу и встала",
-    "en": "She closed the book and stood up"
+    "id": 3,
+    "ru": {
+      "text": "Она закрыла книгу и встала",
+      "audio": false
+    },
+    "en": {
+      "text": "She closed the book and stood up",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Время летит так быстро",
-    "en": "Time goes by so quickly"
+    "id": 4,
+    "ru": {
+      "text": "Время летит так быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "Time goes by so quickly",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Не забудьте потушить огонь перед тем, как уходить!",
-    "en": "Don't forget to put out the fire before leaving!"
+    "id": 5,
+    "ru": {
+      "text": "Не забудьте потушить огонь перед тем, как уходить!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't forget to put out the fire before leaving!",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Ты знаешь, я решил сделать это самостоятельно",
-    "en": "You know, I made up my mind to do in on my own"
+    "id": 6,
+    "ru": {
+      "text": "Ты знаешь, я решил сделать это самостоятельно",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, I made up my mind to do in on my own",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Они были во дворе, когда вспыхнул пожар",
-    "en": "They were in the yard when the fire broke out"
+    "id": 7,
+    "ru": {
+      "text": "Они были во дворе, когда вспыхнул пожар",
+      "audio": false
+    },
+    "en": {
+      "text": "They were in the yard when the fire broke out",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Ему было двадцать, когда разразилась война",
-    "en": "He was twenty when the war broke out"
+    "id": 8,
+    "ru": {
+      "text": "Ему было двадцать, когда разразилась война",
+      "audio": false
+    },
+    "en": {
+      "text": "He was twenty when the war broke out",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Он сказал, что игра закончилась вничью",
-    "en": "He said that the game had ended in a draw"
+    "id": 9,
+    "ru": {
+      "text": "Он сказал, что игра закончилась вничью",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that the game had ended in a draw",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Он сказал, что еще не установил эту программу",
-    "en": "He said that he hadn't set up this program yet"
+    "id": 10,
+    "ru": {
+      "text": "Он сказал, что еще не установил эту программу",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he hadn't set up this program yet",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Он сейчас пытается накопить на отпуск",
-    "en": "He's currently trying to save up for his holiday"
+    "id": 11,
+    "ru": {
+      "text": "Он сейчас пытается накопить на отпуск",
+      "audio": false
+    },
+    "en": {
+      "text": "He's currently trying to save up for his holiday",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Осторожно! Это может упасть",
-    "en": "Watch out! It can fall"
+    "id": 12,
+    "ru": {
+      "text": "Осторожно! Это может упасть",
+      "audio": false
+    },
+    "en": {
+      "text": "Watch out! It can fall",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Игра закончилась вничью",
-    "en": "The game ended in a draw"
+    "id": 13,
+    "ru": {
+      "text": "Игра закончилась вничью",
+      "audio": false
+    },
+    "en": {
+      "text": "The game ended in a draw",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Нам сказали составить свои собственные предложения",
-    "en": "We were told to make up your own sentences"
+    "id": 14,
+    "ru": {
+      "text": "Нам сказали составить свои собственные предложения",
+      "audio": false
+    },
+    "en": {
+      "text": "We were told to make up your own sentences",
+      "audio": false
+    }
   }
 ]

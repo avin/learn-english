@@ -1,122 +1,266 @@
 [
   {
-    "_id": 1,
-    "ru": "Я забыл прикрепить этот документ к письму",
-    "en": "I forgot to attach this document to the letter"
+    "id": 1,
+    "ru": {
+      "text": "Я забыл прикрепить этот документ к письму",
+      "audio": false
+    },
+    "en": {
+      "text": "I forgot to attach this document to the letter",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я осознаю, насколько это важно",
-    "en": "I realize how important it is"
+    "id": 2,
+    "ru": {
+      "text": "Я осознаю, насколько это важно",
+      "audio": false
+    },
+    "en": {
+      "text": "I realize how important it is",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Мне очень нравится проводить время с моими друзьями",
-    "en": "I really like spending time with my friends"
+    "id": 3,
+    "ru": {
+      "text": "Мне очень нравится проводить время с моими друзьями",
+      "audio": false
+    },
+    "en": {
+      "text": "I really like spending time with my friends",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Кто тебе звонит?",
-    "en": "Who is calling you?"
+    "id": 4,
+    "ru": {
+      "text": "Кто тебе звонит?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is calling you?",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я сравнивал это много раз",
-    "en": "I've compared it many times"
+    "id": 5,
+    "ru": {
+      "text": "Я сравнивал это много раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I've compared it many times",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я столько раз сравнивал эти две возможные альтернативы",
-    "en": "I've compared these two possible alternatives so many times"
+    "id": 6,
+    "ru": {
+      "text": "Я столько раз сравнивал эти две возможные альтернативы",
+      "audio": false
+    },
+    "en": {
+      "text": "I've compared these two possible alternatives so many times",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Ты сегодня работаешь?",
-    "en": "Are you working today?"
+    "id": 7,
+    "ru": {
+      "text": "Ты сегодня работаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you working today?",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Мне всегда нравилось это делать",
-    "en": "I've always liked doing it"
+    "id": 8,
+    "ru": {
+      "text": "Мне всегда нравилось это делать",
+      "audio": false
+    },
+    "en": {
+      "text": "I've always liked doing it",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я еще не купил это, потому что это стоит так дорого сейчас",
-    "en": "I haven't bought it yet because it costs so much now"
+    "id": 9,
+    "ru": {
+      "text": "Я еще не купил это, потому что это стоит так дорого сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't bought it yet because it costs so much now",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "К тому времени, как прибыла полиция, мужчины уже исчезли",
-    "en": "By the time the police arrived, the men had already disappeared"
+    "id": 10,
+    "ru": {
+      "text": "К тому времени, как прибыла полиция, мужчины уже исчезли",
+      "audio": false
+    },
+    "en": {
+      "text": "By the time the police arrived, the men had already disappeared",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я покормил своего кота два часа назад",
-    "en": "I fed my cat two hours ago"
+    "id": 11,
+    "ru": {
+      "text": "Я покормил своего кота два часа назад",
+      "audio": false
+    },
+    "en": {
+      "text": "I fed my cat two hours ago",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Она выросла в Соединенных Штатах",
-    "en": "She grew up in the United States"
+    "id": 12,
+    "ru": {
+      "text": "Она выросла в Соединенных Штатах",
+      "audio": false
+    },
+    "en": {
+      "text": "She grew up in the United States",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я получил это уведомление",
-    "en": "I received this notification"
+    "id": 13,
+    "ru": {
+      "text": "Я получил это уведомление",
+      "audio": false
+    },
+    "en": {
+      "text": "I received this notification",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я осознаю, насколько это серьезно",
-    "en": "I realize how serious it is"
+    "id": 14,
+    "ru": {
+      "text": "Я осознаю, насколько это серьезно",
+      "audio": false
+    },
+    "en": {
+      "text": "I realize how serious it is",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я чувствовал, что что-то было не так",
-    "en": "I felt that something was wrong"
+    "id": 15,
+    "ru": {
+      "text": "Я чувствовал, что что-то было не так",
+      "audio": false
+    },
+    "en": {
+      "text": "I felt that something was wrong",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Это все зависит от тебя сейчас",
-    "en": "It all depends on you now"
+    "id": 16,
+    "ru": {
+      "text": "Это все зависит от тебя сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "It all depends on you now",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я помню, что сохранил эти файлы",
-    "en": "I remember that I saved these files"
+    "id": 17,
+    "ru": {
+      "text": "Я помню, что сохранил эти файлы",
+      "audio": false
+    },
+    "en": {
+      "text": "I remember that I saved these files",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Они защищали свои права",
-    "en": "They defended their rights"
+    "id": 18,
+    "ru": {
+      "text": "Они защищали свои права",
+      "audio": false
+    },
+    "en": {
+      "text": "They defended their rights",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Я еще не выучил все эти выражения",
-    "en": "I haven't learnt all these expressions yet"
+    "id": 19,
+    "ru": {
+      "text": "Я еще не выучил все эти выражения",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't learnt all these expressions yet",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Я прикрепил два файла к письму",
-    "en": "I attached two files to the letter"
+    "id": 20,
+    "ru": {
+      "text": "Я прикрепил два файла к письму",
+      "audio": false
+    },
+    "en": {
+      "text": "I attached two files to the letter",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Я изо всех сил старался закончить это к концу недели",
-    "en": "I tried to do my best to finish doing it by the end of the week"
+    "id": 21,
+    "ru": {
+      "text": "Я изо всех сил старался закончить это к концу недели",
+      "audio": false
+    },
+    "en": {
+      "text": "I tried to do my best to finish doing it by the end of the week",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Она уже покормила детей?",
-    "en": "Has she already fed the children?"
+    "id": 22,
+    "ru": {
+      "text": "Она уже покормила детей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Has she already fed the children?",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Она сказала, что потратила свои последние деньги",
-    "en": "She said that she had spent her last money"
+    "id": 23,
+    "ru": {
+      "text": "Она сказала, что потратила свои последние деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that she had spent her last money",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Все кажется таким странным сейчас",
-    "en": "Everything seems so strange now"
+    "id": 24,
+    "ru": {
+      "text": "Все кажется таким странным сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything seems so strange now",
+      "audio": false
+    }
   }
 ]

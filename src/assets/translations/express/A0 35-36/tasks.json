@@ -1,242 +1,530 @@
 [
   {
-    "_id": 1,
-    "ru": "Я потерял ключи",
-    "en": "I lost the keys"
+    "id": 1,
+    "ru": {
+      "text": "Я потерял ключи",
+      "audio": false
+    },
+    "en": {
+      "text": "I lost the keys",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я думал об этом предложении",
-    "en": "I thought about this offer"
+    "id": 2,
+    "ru": {
+      "text": "Я думал об этом предложении",
+      "audio": false
+    },
+    "en": {
+      "text": "I thought about this offer",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Я полетел в другую страну",
-    "en": "I flew to another country"
+    "id": 3,
+    "ru": {
+      "text": "Я полетел в другую страну",
+      "audio": false
+    },
+    "en": {
+      "text": "I flew to another country",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я попил чай",
-    "en": "I drank tea"
+    "id": 4,
+    "ru": {
+      "text": "Я попил чай",
+      "audio": false
+    },
+    "en": {
+      "text": "I drank tea",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Первая команда выиграла",
-    "en": "The first team won"
+    "id": 5,
+    "ru": {
+      "text": "Первая команда выиграла",
+      "audio": false
+    },
+    "en": {
+      "text": "The first team won",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Она купалась в море",
-    "en": "She swam in the sea"
+    "id": 6,
+    "ru": {
+      "text": "Она купалась в море",
+      "audio": false
+    },
+    "en": {
+      "text": "She swam in the sea",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я часто думал об этом",
-    "en": "I often thought about it"
+    "id": 7,
+    "ru": {
+      "text": "Я часто думал об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I often thought about it",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я выбрал второй ответ",
-    "en": "I chose the second answer"
+    "id": 8,
+    "ru": {
+      "text": "Я выбрал второй ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I chose the second answer",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Они выиграли игру",
-    "en": "They won the game"
+    "id": 9,
+    "ru": {
+      "text": "Они выиграли игру",
+      "audio": false
+    },
+    "en": {
+      "text": "They won the game",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я выпил кофе",
-    "en": "I drank coffee"
+    "id": 10,
+    "ru": {
+      "text": "Я выпил кофе",
+      "audio": false
+    },
+    "en": {
+      "text": "I drank coffee",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Он потерял свой бумажник",
-    "en": "He lost his wallet"
+    "id": 11,
+    "ru": {
+      "text": "Он потерял свой бумажник",
+      "audio": false
+    },
+    "en": {
+      "text": "He lost his wallet",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я съел два бутерброда",
-    "en": "I ate two sandwiches"
+    "id": 12,
+    "ru": {
+      "text": "Я съел два бутерброда",
+      "audio": false
+    },
+    "en": {
+      "text": "I ate two sandwiches",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я выпил чашку чая",
-    "en": "I drank a сup of tea"
+    "id": 13,
+    "ru": {
+      "text": "Я выпил чашку чая",
+      "audio": false
+    },
+    "en": {
+      "text": "I drank a сup of tea",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я потерял свои ключи",
-    "en": "I lost my keys"
+    "id": 14,
+    "ru": {
+      "text": "Я потерял свои ключи",
+      "audio": false
+    },
+    "en": {
+      "text": "I lost my keys",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я выиграл наконец",
-    "en": "I won at last"
+    "id": 15,
+    "ru": {
+      "text": "Я выиграл наконец",
+      "audio": false
+    },
+    "en": {
+      "text": "I won at last",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Я выпил стакан сока",
-    "en": "I drank a glass of juice"
+    "id": 16,
+    "ru": {
+      "text": "Я выпил стакан сока",
+      "audio": false
+    },
+    "en": {
+      "text": "I drank a glass of juice",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я выпил немного сока",
-    "en": "I drank some juice"
+    "id": 17,
+    "ru": {
+      "text": "Я выпил немного сока",
+      "audio": false
+    },
+    "en": {
+      "text": "I drank some juice",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Мы купались в озере",
-    "en": "We swam in the lake"
+    "id": 18,
+    "ru": {
+      "text": "Мы купались в озере",
+      "audio": false
+    },
+    "en": {
+      "text": "We swam in the lake",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Они победили в конце",
-    "en": "They won in the end"
+    "id": 19,
+    "ru": {
+      "text": "Они победили в конце",
+      "audio": false
+    },
+    "en": {
+      "text": "They won in the end",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Он преподавал нам английский",
-    "en": "He taught us English"
+    "id": 20,
+    "ru": {
+      "text": "Он преподавал нам английский",
+      "audio": false
+    },
+    "en": {
+      "text": "He taught us English",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Я потерял сумку",
-    "en": "I lost the bag"
+    "id": 21,
+    "ru": {
+      "text": "Я потерял сумку",
+      "audio": false
+    },
+    "en": {
+      "text": "I lost the bag",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Я слышал это снова и снова",
-    "en": "I heard it again and again"
+    "id": 22,
+    "ru": {
+      "text": "Я слышал это снова и снова",
+      "audio": false
+    },
+    "en": {
+      "text": "I heard it again and again",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Я выбрал правильный ответ",
-    "en": "I chose the right answer"
+    "id": 23,
+    "ru": {
+      "text": "Я выбрал правильный ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I chose the right answer",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Я услышал это только вчера",
-    "en": "I heard it only yesterday"
+    "id": 24,
+    "ru": {
+      "text": "Я услышал это только вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I heard it only yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Я полетел в этот город",
-    "en": "I flew to this city"
+    "id": 25,
+    "ru": {
+      "text": "Я полетел в этот город",
+      "audio": false
+    },
+    "en": {
+      "text": "I flew to this city",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Вторая команда проиграла",
-    "en": "The second team lost"
+    "id": 26,
+    "ru": {
+      "text": "Вторая команда проиграла",
+      "audio": false
+    },
+    "en": {
+      "text": "The second team lost",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Я выпил чашку кофе",
-    "en": "I drank a cup of coffee"
+    "id": 27,
+    "ru": {
+      "text": "Я выпил чашку кофе",
+      "audio": false
+    },
+    "en": {
+      "text": "I drank a cup of coffee",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Я выбрал этот отель",
-    "en": "I chose this hotel"
+    "id": 28,
+    "ru": {
+      "text": "Я выбрал этот отель",
+      "audio": false
+    },
+    "en": {
+      "text": "I chose this hotel",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Она преподавал английский",
-    "en": "She taught English"
+    "id": 29,
+    "ru": {
+      "text": "Она преподавал английский",
+      "audio": false
+    },
+    "en": {
+      "text": "She taught English",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Он продал свою машину",
-    "en": "He sold his car"
+    "id": 30,
+    "ru": {
+      "text": "Он продал свою машину",
+      "audio": false
+    },
+    "en": {
+      "text": "He sold his car",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Они проиграли в финале",
-    "en": "They lost in the final"
+    "id": 31,
+    "ru": {
+      "text": "Они проиграли в финале",
+      "audio": false
+    },
+    "en": {
+      "text": "They lost in the final",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Я услышал это от него",
-    "en": "I heard it from him"
+    "id": 32,
+    "ru": {
+      "text": "Я услышал это от него",
+      "audio": false
+    },
+    "en": {
+      "text": "I heard it from him",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Я полетел в Соединенные Штаты",
-    "en": "I flew to the United States"
+    "id": 33,
+    "ru": {
+      "text": "Я полетел в Соединенные Штаты",
+      "audio": false
+    },
+    "en": {
+      "text": "I flew to the United States",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Я съела бутерброд",
-    "en": "I ate a sandwich"
+    "id": 34,
+    "ru": {
+      "text": "Я съела бутерброд",
+      "audio": false
+    },
+    "en": {
+      "text": "I ate a sandwich",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Я плавал в бассейне",
-    "en": "I swam in the swimming pool"
+    "id": 35,
+    "ru": {
+      "text": "Я плавал в бассейне",
+      "audio": false
+    },
+    "en": {
+      "text": "I swam in the swimming pool",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Я плавал в море",
-    "en": "I swam in the sea"
+    "id": 36,
+    "ru": {
+      "text": "Я плавал в море",
+      "audio": false
+    },
+    "en": {
+      "text": "I swam in the sea",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Я ел час назад",
-    "en": "I ate an hour ago"
+    "id": 37,
+    "ru": {
+      "text": "Я ел час назад",
+      "audio": false
+    },
+    "en": {
+      "text": "I ate an hour ago",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Он плавал в реке",
-    "en": "He swam in the river"
+    "id": 38,
+    "ru": {
+      "text": "Он плавал в реке",
+      "audio": false
+    },
+    "en": {
+      "text": "He swam in the river",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Они продавали это очень дешево",
-    "en": "They sold it very cheaply"
+    "id": 39,
+    "ru": {
+      "text": "Они продавали это очень дешево",
+      "audio": false
+    },
+    "en": {
+      "text": "They sold it very cheaply",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Их команда проиграла в финале",
-    "en": "Their team lost in the final"
+    "id": 40,
+    "ru": {
+      "text": "Их команда проиграла в финале",
+      "audio": false
+    },
+    "en": {
+      "text": "Their team lost in the final",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Я часто думал об этом",
-    "en": "I often thought about this thing"
+    "id": 41,
+    "ru": {
+      "text": "Я часто думал об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I often thought about this thing",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Я выбрал первый ответ",
-    "en": "I chose the first answer"
+    "id": 42,
+    "ru": {
+      "text": "Я выбрал первый ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I chose the first answer",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Я потерял свою сумку",
-    "en": "I lost my bag"
+    "id": 43,
+    "ru": {
+      "text": "Я потерял свою сумку",
+      "audio": false
+    },
+    "en": {
+      "text": "I lost my bag",
+      "audio": false
+    }
   },
   {
-    "_id": 44,
-    "ru": "Мы купались в море",
-    "en": "We swam in the sea"
+    "id": 44,
+    "ru": {
+      "text": "Мы купались в море",
+      "audio": false
+    },
+    "en": {
+      "text": "We swam in the sea",
+      "audio": false
+    }
   },
   {
-    "_id": 45,
-    "ru": "Я нашел свои ключи",
-    "en": "I found my keys"
+    "id": 45,
+    "ru": {
+      "text": "Я нашел свои ключи",
+      "audio": false
+    },
+    "en": {
+      "text": "I found my keys",
+      "audio": false
+    }
   },
   {
-    "_id": 46,
-    "ru": "Я выпил апельсиновый сок",
-    "en": "I drank orange juice"
+    "id": 46,
+    "ru": {
+      "text": "Я выпил апельсиновый сок",
+      "audio": false
+    },
+    "en": {
+      "text": "I drank orange juice",
+      "audio": false
+    }
   },
   {
-    "_id": 47,
-    "ru": "Он продал свой дом",
-    "en": "He sold his house"
+    "id": 47,
+    "ru": {
+      "text": "Он продал свой дом",
+      "audio": false
+    },
+    "en": {
+      "text": "He sold his house",
+      "audio": false
+    }
   },
   {
-    "_id": 48,
-    "ru": "Они выиграли матч",
-    "en": "They won the match"
+    "id": 48,
+    "ru": {
+      "text": "Они выиграли матч",
+      "audio": false
+    },
+    "en": {
+      "text": "They won the match",
+      "audio": false
+    }
   }
 ]

@@ -1,367 +1,805 @@
 [
   {
-    "_id": 1,
-    "ru": "Я помогу тебе, если ты попросишь меня",
-    "en": "I will help you if you ask me"
-  },
-  {
-    "_id": 2,
-    "ru": "Если это произойдет, я буду счастлив",
-    "en": "If it happens, I will be happy"
-  },
-  {
-    "_id": 3,
-    "ru": "Если ты готов, мы можем начать встречу",
-    "en": "If you are ready, we can start the meeting"
-  },
-  {
-    "_id": 4,
-    "ru": "Если бы только у меня было достаточно доказательств",
-    "en": "If only I had enough proofs"
-  },
-  {
-    "_id": 5,
-    "ru": "Если я выиграю в лотерею, я куплю что-нибудь для себя",
-    "en": "If I win the lottery, I will buy something for myself"
-  },
-  {
-    "_id": 6,
-    "ru": "Если бы я только знал это",
-    "en": "If only I knew it"
-  },
-  {
-    "_id": 7,
-    "ru": "На твоем месте, я бы начал сейчас",
-    "en": "If I were you, I would start now"
-  },
-  {
-    "_id": 8,
-    "ru": "Она желает, чтобы она умела танцевать лучше",
-    "en": "She wishes she could dance better"
-  },
-  {
-    "_id": 9,
-    "ru": "На твоем месте я бы принял это предложение",
-    "en": "If I were you, I would take this offer"
-  },
-  {
-    "_id": 10,
-    "ru": "Если пойдет дождь, я не пойду в парк",
-    "en": "If it rains, I won't go to the park"
-  },
-  {
-    "_id": 11,
-    "ru": "Если бы я был готов к этому экзамену, я бы сдал его",
-    "en": "If I were ready for this exam, I would pass it"
-  },
-  {
-    "_id": 12,
-    "ru": "Если бы он был голоден, он бы съел бутерброд",
-    "en": "If he were hungry, he would eat a sandwich"
-  },
-  {
-    "_id": 13,
-    "ru": "Подожди меня, пока я не вернусь",
-    "en": "Wait for me until I come back"
-  },
-  {
-    "_id": 14,
-    "ru": "Я дам тебе знать, когда я буду готов",
-    "en": "I will let you know when I get ready"
-  },
-  {
-    "_id": 15,
-    "ru": "Если он будет учиться лучше, то получит лучше оценки",
-    "en": "If he studies better, he will get better marks"
-  },
-  {
-    "_id": 16,
-    "ru": "Дверь откроется после того, как ты нажмешь на кнопку",
-    "en": "The door will open after you press the button"
-  },
-  {
-    "_id": 17,
-    "ru": "Я желаю, чтобы сейчас было лето",
-    "en": "I wish it were summer now"
-  },
-  {
-    "_id": 18,
-    "ru": "Я скажу тебе, когда я буду готов",
-    "en": "I will tell you when I'm ready"
-  },
-  {
-    "_id": 19,
-    "ru": "Он будет очень удивлен, когда узнает это",
-    "en": "He will be very surprised when he knows it"
-  },
-  {
-    "_id": 20,
-    "ru": "Если бы только у меня были эти знания",
-    "en": "If only I had this knowledge"
-  },
-  {
-    "_id": 21,
-    "ru": "Подожди здесь, пока я вернусь",
-    "en": "Wait here till I come back"
-  },
-  {
-    "_id": 22,
-    "ru": "Я желаю, чтобы ты был здесь сейчас",
-    "en": "I wish you were here now"
-  },
-  {
-    "_id": 23,
-    "ru": "Если бы еда не была плохой, они бы не жаловались",
-    "en": "If the food weren't bad, they wouldn't complain"
-  },
-  {
-    "_id": 24,
-    "ru": "Если я буду богат, моя жизнь полностью изменится",
-    "en": "If I am rich, my life will change completely"
-  },
-  {
-    "_id": 25,
-    "ru": "Если бы он был моим другом, я бы пригласил его",
-    "en": "If he were my friend, I would invite him"
-  },
-  {
-    "_id": 26,
-    "ru": "Если бы только ты был здесь",
-    "en": "If only you were here"
-  },
-  {
-    "_id": 27,
-    "ru": "Я куплю ноутбук, когда заработаю эти деньги",
-    "en": "I will buy a laptop when I earn this money"
-  },
-  {
-    "_id": 28,
-    "ru": "Если ты занят, я не буду тебе мешать",
-    "en": "If you are busy, I won't disturb you"
-  },
-  {
-    "_id": 29,
-    "ru": "Если бы только у меня было больше свободного времени",
-    "en": "If only I had more free time"
-  },
-  {
-    "_id": 30,
-    "ru": "Я желаю, чтобы все это знали",
-    "en": "I wish everyone knew it"
-  },
-  {
-    "_id": 31,
-    "ru": "Если поезд задержат, мы опоздаем",
-    "en": "If the train is delayed, we will be late"
-  },
-  {
-    "_id": 32,
-    "ru": "Что ты будешь делать, если ты станешь миллионером?",
-    "en": "What will you do if you become a millionaire?"
-  },
-  {
-    "_id": 33,
-    "ru": "Я желаю, чтобы было двадцать пять часов в сутках",
-    "en": "I wish there were twenty five hours in a day"
-  },
-  {
-    "_id": 34,
-    "ru": "Если ты хочешь купить билет, купи его",
-    "en": "If you want to buy a ticket, buy it"
-  },
-  {
-    "_id": 35,
-    "ru": "Что бы ты сделал на моем месте?",
-    "en": "What would you do if you were me?"
-  },
-  {
-    "_id": 36,
-    "ru": "Что бы ты сделал, если бы ты стал миллионером?",
-    "en": "What would you do if you became a millionaire?"
-  },
-  {
-    "_id": 37,
-    "ru": "Она будет шокирована, когда выяснит правду",
-    "en": "She will be shocked when she finds out the truth"
-  },
-  {
-    "_id": 38,
-    "ru": "Ты не успеешь на автобус, если не поторопишься",
-    "en": "You won't catch the bus if you don't hurry up"
-  },
-  {
-    "_id": 39,
-    "ru": "Ты подождешь меня, если я немного опоздаю?",
-    "en": "Will you wait for me if I'm late a little?"
-  },
-  {
-    "_id": 40,
-    "ru": "Мне нужно сделать все, прежде чем это произойдет",
-    "en": "I need to do everything before it happens"
-  },
-  {
-    "_id": 41,
-    "ru": "Мне нужно сделать это, прежде чем он придет",
-    "en": "I need to do it before he comes"
-  },
-  {
-    "_id": 42,
-    "ru": "Мне нужно сделать все, прежде чем я вернусь домой",
-    "en": "I need to do everything before I return home"
-  },
-  {
-    "_id": 43,
-    "ru": "Если бы только у меня был еще один шанс",
-    "en": "If only I had one more chance"
-  },
-  {
-    "_id": 44,
-    "ru": "Если бы только у меня был последний шанс",
-    "en": "If only I had the last chance"
-  },
-  {
-    "_id": 45,
-    "ru": "Если бы только у меня было больше денег",
-    "en": "If only I had more money"
-  },
-  {
-    "_id": 46,
-    "ru": "Если бы я только мог позволить себе купить это",
-    "en": "If only I could afford to buy it"
-  },
-  {
-    "_id": 47,
-    "ru": "Если бы я только мог купить это",
-    "en": "If only I could buy it"
-  },
-  {
-    "_id": 48,
-    "ru": "Если бы я только мог найти это",
-    "en": "If only I could find it"
-  },
-  {
-    "_id": 49,
-    "ru": "Если бы он только знал, как это интересно",
-    "en": "If only he knew how interesting it is"
-  },
-  {
-    "_id": 50,
-    "ru": "Если бы ты только знал, насколько это важно",
-    "en": "If only you knew how important it is"
-  },
-  {
-    "_id": 51,
-    "ru": "Если бы ты только понимал, как это было важно",
-    "en": "If only you understood how important it was"
-  },
-  {
-    "_id": 52,
-    "ru": "Что ты будешь делать после того, как это произойдет?",
-    "en": "What will you do after this thing happens?"
-  },
-  {
-    "_id": 53,
-    "ru": "Что ты будешь делать после того, как он придет?",
-    "en": "What will you do after he comes?"
-  },
-  {
-    "_id": 54,
-    "ru": "Что он скажет после того, как это произойдет?",
-    "en": "What will he say after this thing happens?"
-  },
-  {
-    "_id": 55,
-    "ru": "Если ты хочешь сделать это, сделай это сейчас",
-    "en": "If you want to do it, do it now"
-  },
-  {
-    "_id": 56,
-    "ru": "Если ты хочешь купить это, покупай сейчас",
-    "en": "If you want to buy it, buy it now"
-  },
-  {
-    "_id": 57,
-    "ru": "Если бы я только мог это увидеть",
-    "en": "If only I could see it"
-  },
-  {
-    "_id": 58,
-    "ru": "Если бы я только мог это сделать",
-    "en": "If only I could do it"
-  },
-  {
-    "_id": 59,
-    "ru": "Если тебе нужна моя помощь, дай мне знать",
-    "en": "If you need my help, let me know"
-  },
-  {
-    "_id": 60,
-    "ru": "Если тебе нужна моя поддержка, дай мне знать",
-    "en": "If you need my support, let me know"
-  },
-  {
-    "_id": 61,
-    "ru": "Если тебе нужен мой совет, дай мне знать",
-    "en": "If you need my advice, let me know"
-  },
-  {
-    "_id": 62,
-    "ru": "Если бы я только мог повернуть время вспять",
-    "en": "If only I could turn back time"
-  },
-  {
-    "_id": 63,
-    "ru": "Если бы я только мог вернуться домой",
-    "en": "If only I could come back home"
-  },
-  {
-    "_id": 64,
-    "ru": "Если бы я только мог все изменить",
-    "en": "If only I could change everything"
-  },
-  {
-    "_id": 65,
-    "ru": "Что ты будешь делать, если это произойдет?",
-    "en": "What will you do if it happens?"
-  },
-  {
-    "_id": 66,
-    "ru": "Что ты скажешь, если он спросит?",
-    "en": "What will you say if he asks?"
-  },
-  {
-    "_id": 67,
-    "ru": "Что ты купишь, если он одолжит тебе немного денег?",
-    "en": "What will you buy if he lends you some money?"
-  },
-  {
-    "_id": 68,
-    "ru": "Если бы только у меня была еще одна попытка",
-    "en": "If only I had one more attempt"
-  },
-  {
-    "_id": 69,
-    "ru": "Я желаю, чтобы я мог тратить больше времени на это",
-    "en": "I wish I could spend more time on it"
-  },
-  {
-    "_id": 70,
-    "ru": "Она была бы в шоке, если бы узнала правду",
-    "en": "She would be shocked, if she found out the truth"
-  },
-  {
-    "_id": 71,
-    "ru": "Я желаю, чтобы у меня была память получше",
-    "en": "I wish I had a better memory"
-  },
-  {
-    "_id": 72,
-    "ru": "Она будет в шоке, когда узнает это",
-    "en": "She will be shocked when she finds it out"
-  },
-  {
-    "_id": 73,
-    "ru": "Если бы я только мог вернуть это время",
-    "en": "If only I could get this time back"
+    "id": 1,
+    "ru": {
+      "text": "Я помогу тебе, если ты попросишь меня",
+      "audio": false
+    },
+    "en": {
+      "text": "I will help you if you ask me",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Если это произойдет, я буду счастлив",
+      "audio": false
+    },
+    "en": {
+      "text": "If it happens, I will be happy",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Если ты готов, мы можем начать встречу",
+      "audio": false
+    },
+    "en": {
+      "text": "If you are ready, we can start the meeting",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Если бы только у меня было достаточно доказательств",
+      "audio": false
+    },
+    "en": {
+      "text": "If only I had enough proofs",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Если я выиграю в лотерею, я куплю что-нибудь для себя",
+      "audio": false
+    },
+    "en": {
+      "text": "If I win the lottery, I will buy something for myself",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Если бы я только знал это",
+      "audio": false
+    },
+    "en": {
+      "text": "If only I knew it",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "На твоем месте, я бы начал сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "If I were you, I would start now",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Она желает, чтобы она умела танцевать лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "She wishes she could dance better",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "На твоем месте я бы принял это предложение",
+      "audio": false
+    },
+    "en": {
+      "text": "If I were you, I would take this offer",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Если пойдет дождь, я не пойду в парк",
+      "audio": false
+    },
+    "en": {
+      "text": "If it rains, I won't go to the park",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Если бы я был готов к этому экзамену, я бы сдал его",
+      "audio": false
+    },
+    "en": {
+      "text": "If I were ready for this exam, I would pass it",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Если бы он был голоден, он бы съел бутерброд",
+      "audio": false
+    },
+    "en": {
+      "text": "If he were hungry, he would eat a sandwich",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Подожди меня, пока я не вернусь",
+      "audio": false
+    },
+    "en": {
+      "text": "Wait for me until I come back",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я дам тебе знать, когда я буду готов",
+      "audio": false
+    },
+    "en": {
+      "text": "I will let you know when I get ready",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Если он будет учиться лучше, то получит лучше оценки",
+      "audio": false
+    },
+    "en": {
+      "text": "If he studies better, he will get better marks",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Дверь откроется после того, как ты нажмешь на кнопку",
+      "audio": false
+    },
+    "en": {
+      "text": "The door will open after you press the button",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я желаю, чтобы сейчас было лето",
+      "audio": false
+    },
+    "en": {
+      "text": "I wish it were summer now",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я скажу тебе, когда я буду готов",
+      "audio": false
+    },
+    "en": {
+      "text": "I will tell you when I'm ready",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он будет очень удивлен, когда узнает это",
+      "audio": false
+    },
+    "en": {
+      "text": "He will be very surprised when he knows it",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Если бы только у меня были эти знания",
+      "audio": false
+    },
+    "en": {
+      "text": "If only I had this knowledge",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Подожди здесь, пока я вернусь",
+      "audio": false
+    },
+    "en": {
+      "text": "Wait here till I come back",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Я желаю, чтобы ты был здесь сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I wish you were here now",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Если бы еда не была плохой, они бы не жаловались",
+      "audio": false
+    },
+    "en": {
+      "text": "If the food weren't bad, they wouldn't complain",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Если я буду богат, моя жизнь полностью изменится",
+      "audio": false
+    },
+    "en": {
+      "text": "If I am rich, my life will change completely",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Если бы он был моим другом, я бы пригласил его",
+      "audio": false
+    },
+    "en": {
+      "text": "If he were my friend, I would invite him",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Если бы только ты был здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "If only you were here",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я куплю ноутбук, когда заработаю эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "I will buy a laptop when I earn this money",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Если ты занят, я не буду тебе мешать",
+      "audio": false
+    },
+    "en": {
+      "text": "If you are busy, I won't disturb you",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Если бы только у меня было больше свободного времени",
+      "audio": false
+    },
+    "en": {
+      "text": "If only I had more free time",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я желаю, чтобы все это знали",
+      "audio": false
+    },
+    "en": {
+      "text": "I wish everyone knew it",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Если поезд задержат, мы опоздаем",
+      "audio": false
+    },
+    "en": {
+      "text": "If the train is delayed, we will be late",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Что ты будешь делать, если ты станешь миллионером?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you do if you become a millionaire?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я желаю, чтобы было двадцать пять часов в сутках",
+      "audio": false
+    },
+    "en": {
+      "text": "I wish there were twenty five hours in a day",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Если ты хочешь купить билет, купи его",
+      "audio": false
+    },
+    "en": {
+      "text": "If you want to buy a ticket, buy it",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Что бы ты сделал на моем месте?",
+      "audio": false
+    },
+    "en": {
+      "text": "What would you do if you were me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Что бы ты сделал, если бы ты стал миллионером?",
+      "audio": false
+    },
+    "en": {
+      "text": "What would you do if you became a millionaire?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Она будет шокирована, когда выяснит правду",
+      "audio": false
+    },
+    "en": {
+      "text": "She will be shocked when she finds out the truth",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Ты не успеешь на автобус, если не поторопишься",
+      "audio": false
+    },
+    "en": {
+      "text": "You won't catch the bus if you don't hurry up",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Ты подождешь меня, если я немного опоздаю?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you wait for me if I'm late a little?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Мне нужно сделать все, прежде чем это произойдет",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to do everything before it happens",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Мне нужно сделать это, прежде чем он придет",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to do it before he comes",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Мне нужно сделать все, прежде чем я вернусь домой",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to do everything before I return home",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Если бы только у меня был еще один шанс",
+      "audio": false
+    },
+    "en": {
+      "text": "If only I had one more chance",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Если бы только у меня был последний шанс",
+      "audio": false
+    },
+    "en": {
+      "text": "If only I had the last chance",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Если бы только у меня было больше денег",
+      "audio": false
+    },
+    "en": {
+      "text": "If only I had more money",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Если бы я только мог позволить себе купить это",
+      "audio": false
+    },
+    "en": {
+      "text": "If only I could afford to buy it",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Если бы я только мог купить это",
+      "audio": false
+    },
+    "en": {
+      "text": "If only I could buy it",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Если бы я только мог найти это",
+      "audio": false
+    },
+    "en": {
+      "text": "If only I could find it",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Если бы он только знал, как это интересно",
+      "audio": false
+    },
+    "en": {
+      "text": "If only he knew how interesting it is",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Если бы ты только знал, насколько это важно",
+      "audio": false
+    },
+    "en": {
+      "text": "If only you knew how important it is",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Если бы ты только понимал, как это было важно",
+      "audio": false
+    },
+    "en": {
+      "text": "If only you understood how important it was",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Что ты будешь делать после того, как это произойдет?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you do after this thing happens?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Что ты будешь делать после того, как он придет?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you do after he comes?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Что он скажет после того, как это произойдет?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will he say after this thing happens?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Если ты хочешь сделать это, сделай это сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "If you want to do it, do it now",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Если ты хочешь купить это, покупай сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "If you want to buy it, buy it now",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Если бы я только мог это увидеть",
+      "audio": false
+    },
+    "en": {
+      "text": "If only I could see it",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Если бы я только мог это сделать",
+      "audio": false
+    },
+    "en": {
+      "text": "If only I could do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Если тебе нужна моя помощь, дай мне знать",
+      "audio": false
+    },
+    "en": {
+      "text": "If you need my help, let me know",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Если тебе нужна моя поддержка, дай мне знать",
+      "audio": false
+    },
+    "en": {
+      "text": "If you need my support, let me know",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Если тебе нужен мой совет, дай мне знать",
+      "audio": false
+    },
+    "en": {
+      "text": "If you need my advice, let me know",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Если бы я только мог повернуть время вспять",
+      "audio": false
+    },
+    "en": {
+      "text": "If only I could turn back time",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Если бы я только мог вернуться домой",
+      "audio": false
+    },
+    "en": {
+      "text": "If only I could come back home",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Если бы я только мог все изменить",
+      "audio": false
+    },
+    "en": {
+      "text": "If only I could change everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Что ты будешь делать, если это произойдет?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you do if it happens?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Что ты скажешь, если он спросит?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you say if he asks?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Что ты купишь, если он одолжит тебе немного денег?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you buy if he lends you some money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Если бы только у меня была еще одна попытка",
+      "audio": false
+    },
+    "en": {
+      "text": "If only I had one more attempt",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я желаю, чтобы я мог тратить больше времени на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I wish I could spend more time on it",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Она была бы в шоке, если бы узнала правду",
+      "audio": false
+    },
+    "en": {
+      "text": "She would be shocked, if she found out the truth",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я желаю, чтобы у меня была память получше",
+      "audio": false
+    },
+    "en": {
+      "text": "I wish I had a better memory",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Она будет в шоке, когда узнает это",
+      "audio": false
+    },
+    "en": {
+      "text": "She will be shocked when she finds it out",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Если бы я только мог вернуть это время",
+      "audio": false
+    },
+    "en": {
+      "text": "If only I could get this time back",
+      "audio": false
+    }
   }
 ]

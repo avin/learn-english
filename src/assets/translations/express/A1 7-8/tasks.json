@@ -1,252 +1,552 @@
 [
   {
-    "_id": 1,
-    "ru": "Мои родители часто ходят туда",
-    "en": "My parents often go there"
+    "id": 1,
+    "ru": {
+      "text": "Мои родители часто ходят туда",
+      "audio": false
+    },
+    "en": {
+      "text": "My parents often go there",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Предложение очень привлекательное",
-    "en": "The offer is very attractive"
+    "id": 2,
+    "ru": {
+      "text": "Предложение очень привлекательное",
+      "audio": false
+    },
+    "en": {
+      "text": "The offer is very attractive",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Сейчас очень солнечно",
-    "en": "It's very sunny now"
+    "id": 3,
+    "ru": {
+      "text": "Сейчас очень солнечно",
+      "audio": false
+    },
+    "en": {
+      "text": "It's very sunny now",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Мой друг живет в другой стране",
-    "en": "My friend lives in another country"
+    "id": 4,
+    "ru": {
+      "text": "Мой друг живет в другой стране",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend lives in another country",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Мой лучший друг живет в этом районе",
-    "en": "My best friend lives in this area"
+    "id": 5,
+    "ru": {
+      "text": "Мой лучший друг живет в этом районе",
+      "audio": false
+    },
+    "en": {
+      "text": "My best friend lives in this area",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Мой двоюродный брат работает дизайнером",
-    "en": "My cousin works as a designer"
+    "id": 6,
+    "ru": {
+      "text": "Мой двоюродный брат работает дизайнером",
+      "audio": false
+    },
+    "en": {
+      "text": "My cousin works as a designer",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Билет кажется таким дорогим",
-    "en": "The ticket seems so expensive"
+    "id": 7,
+    "ru": {
+      "text": "Билет кажется таким дорогим",
+      "audio": false
+    },
+    "en": {
+      "text": "The ticket seems so expensive",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Билеты действительно такие дорогие",
-    "en": "The tickets are really so expensive"
+    "id": 8,
+    "ru": {
+      "text": "Билеты действительно такие дорогие",
+      "audio": false
+    },
+    "en": {
+      "text": "The tickets are really so expensive",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Это предложение кажется очень привлекательным",
-    "en": "This offer seems very attractive"
+    "id": 9,
+    "ru": {
+      "text": "Это предложение кажется очень привлекательным",
+      "audio": false
+    },
+    "en": {
+      "text": "This offer seems very attractive",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Моя мама работает там",
-    "en": "My mother works there"
+    "id": 10,
+    "ru": {
+      "text": "Моя мама работает там",
+      "audio": false
+    },
+    "en": {
+      "text": "My mother works there",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Девочка ходит в школу",
-    "en": "The girl goes to school"
+    "id": 11,
+    "ru": {
+      "text": "Девочка ходит в школу",
+      "audio": false
+    },
+    "en": {
+      "text": "The girl goes to school",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Мой лучший друг всегда помогает мне",
-    "en": "My best friend always helps me"
+    "id": 12,
+    "ru": {
+      "text": "Мой лучший друг всегда помогает мне",
+      "audio": false
+    },
+    "en": {
+      "text": "My best friend always helps me",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Мой брат работает программистом",
-    "en": "My brother works as a programmer"
+    "id": 13,
+    "ru": {
+      "text": "Мой брат работает программистом",
+      "audio": false
+    },
+    "en": {
+      "text": "My brother works as a programmer",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Тепло",
-    "en": "It's warm"
+    "id": 14,
+    "ru": {
+      "text": "Тепло",
+      "audio": false
+    },
+    "en": {
+      "text": "It's warm",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Сейчас ветрено",
-    "en": "It's windy now"
+    "id": 15,
+    "ru": {
+      "text": "Сейчас ветрено",
+      "audio": false
+    },
+    "en": {
+      "text": "It's windy now",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Эта шутка кажется такой смешной",
-    "en": "This joke seems so funny"
+    "id": 16,
+    "ru": {
+      "text": "Эта шутка кажется такой смешной",
+      "audio": false
+    },
+    "en": {
+      "text": "This joke seems so funny",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Это выражение новое для меня",
-    "en": "This expression is new for me"
+    "id": 17,
+    "ru": {
+      "text": "Это выражение новое для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "This expression is new for me",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Это слово новое для меня",
-    "en": "This word is new for me"
+    "id": 18,
+    "ru": {
+      "text": "Это слово новое для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "This word is new for me",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Мой отец работает менеджером",
-    "en": "My father works as a manager"
+    "id": 19,
+    "ru": {
+      "text": "Мой отец работает менеджером",
+      "audio": false
+    },
+    "en": {
+      "text": "My father works as a manager",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Девочка очень талантливая",
-    "en": "The girl is very talented"
+    "id": 20,
+    "ru": {
+      "text": "Девочка очень талантливая",
+      "audio": false
+    },
+    "en": {
+      "text": "The girl is very talented",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Этот тест действительно сложный",
-    "en": "This test is really difficult"
+    "id": 21,
+    "ru": {
+      "text": "Этот тест действительно сложный",
+      "audio": false
+    },
+    "en": {
+      "text": "This test is really difficult",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Жарко",
-    "en": "It's hot"
+    "id": 22,
+    "ru": {
+      "text": "Жарко",
+      "audio": false
+    },
+    "en": {
+      "text": "It's hot",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Мальчик учится там",
-    "en": "The boy studies there"
+    "id": 23,
+    "ru": {
+      "text": "Мальчик учится там",
+      "audio": false
+    },
+    "en": {
+      "text": "The boy studies there",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Это новое слово для меня",
-    "en": "It's a new word for me"
+    "id": 24,
+    "ru": {
+      "text": "Это новое слово для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a new word for me",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Сегодня солнечно",
-    "en": "It's sunny today"
+    "id": 25,
+    "ru": {
+      "text": "Сегодня солнечно",
+      "audio": false
+    },
+    "en": {
+      "text": "It's sunny today",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Сейчас очень тепло",
-    "en": "It's very warm now"
+    "id": 26,
+    "ru": {
+      "text": "Сейчас очень тепло",
+      "audio": false
+    },
+    "en": {
+      "text": "It's very warm now",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Шутка очень забавная",
-    "en": "The joke is very funny"
+    "id": 27,
+    "ru": {
+      "text": "Шутка очень забавная",
+      "audio": false
+    },
+    "en": {
+      "text": "The joke is very funny",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Моя мама работает врачом",
-    "en": "My mother works as a doctor"
+    "id": 28,
+    "ru": {
+      "text": "Моя мама работает врачом",
+      "audio": false
+    },
+    "en": {
+      "text": "My mother works as a doctor",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Его отец — бизнесмен",
-    "en": "His father is a businessman"
+    "id": 29,
+    "ru": {
+      "text": "Его отец — бизнесмен",
+      "audio": false
+    },
+    "en": {
+      "text": "His father is a businessman",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Его отец занимается бизнесом",
-    "en": "His father does business"
+    "id": 30,
+    "ru": {
+      "text": "Его отец занимается бизнесом",
+      "audio": false
+    },
+    "en": {
+      "text": "His father does business",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Студенты здесь",
-    "en": "The students are here"
+    "id": 31,
+    "ru": {
+      "text": "Студенты здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "The students are here",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Мужчина выглядит очень сильным",
-    "en": "The man looks very strong"
+    "id": 32,
+    "ru": {
+      "text": "Мужчина выглядит очень сильным",
+      "audio": false
+    },
+    "en": {
+      "text": "The man looks very strong",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Его предложение выглядит очень привлекательным",
-    "en": "His offer looks very attractive"
+    "id": 33,
+    "ru": {
+      "text": "Его предложение выглядит очень привлекательным",
+      "audio": false
+    },
+    "en": {
+      "text": "His offer looks very attractive",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Холодно",
-    "en": "It's cold"
+    "id": 34,
+    "ru": {
+      "text": "Холодно",
+      "audio": false
+    },
+    "en": {
+      "text": "It's cold",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Сейчас очень холодно",
-    "en": "It's very cold now"
+    "id": 35,
+    "ru": {
+      "text": "Сейчас очень холодно",
+      "audio": false
+    },
+    "en": {
+      "text": "It's very cold now",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Эта шутка такая смешная",
-    "en": "This joke is so funny"
+    "id": 36,
+    "ru": {
+      "text": "Эта шутка такая смешная",
+      "audio": false
+    },
+    "en": {
+      "text": "This joke is so funny",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Мальчик очень умный",
-    "en": "The boy is very smart"
+    "id": 37,
+    "ru": {
+      "text": "Мальчик очень умный",
+      "audio": false
+    },
+    "en": {
+      "text": "The boy is very smart",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Мой отец работает здесь",
-    "en": "My father works here"
+    "id": 38,
+    "ru": {
+      "text": "Мой отец работает здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "My father works here",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Сейчас очень ветрено",
-    "en": "It's very windy now"
+    "id": 39,
+    "ru": {
+      "text": "Сейчас очень ветрено",
+      "audio": false
+    },
+    "en": {
+      "text": "It's very windy now",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Я думаю, это очень эффективный метод",
-    "en": "I think it's a very effective method"
+    "id": 40,
+    "ru": {
+      "text": "Я думаю, это очень эффективный метод",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it's a very effective method",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Это новое выражение для меня",
-    "en": "It's a new expression for me"
+    "id": 41,
+    "ru": {
+      "text": "Это новое выражение для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a new expression for me",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Мужчина очень сильный",
-    "en": "The man is very strong"
+    "id": 42,
+    "ru": {
+      "text": "Мужчина очень сильный",
+      "audio": false
+    },
+    "en": {
+      "text": "The man is very strong",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Мы с другом учимся в одной группе",
-    "en": "My friend and I study in one group"
+    "id": 43,
+    "ru": {
+      "text": "Мы с другом учимся в одной группе",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend and I study in one group",
+      "audio": false
+    }
   },
   {
-    "_id": 44,
-    "ru": "Сегодня так жарко",
-    "en": "It's so hot today"
+    "id": 44,
+    "ru": {
+      "text": "Сегодня так жарко",
+      "audio": false
+    },
+    "en": {
+      "text": "It's so hot today",
+      "audio": false
+    }
   },
   {
-    "_id": 45,
-    "ru": "Студент здесь",
-    "en": "The student is here"
+    "id": 45,
+    "ru": {
+      "text": "Студент здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "The student is here",
+      "audio": false
+    }
   },
   {
-    "_id": 46,
-    "ru": "Моя сестра — студентка",
-    "en": "My sister is a student"
+    "id": 46,
+    "ru": {
+      "text": "Моя сестра — студентка",
+      "audio": false
+    },
+    "en": {
+      "text": "My sister is a student",
+      "audio": false
+    }
   },
   {
-    "_id": 47,
-    "ru": "Тест кажется очень легким",
-    "en": "The test seems very easy"
+    "id": 47,
+    "ru": {
+      "text": "Тест кажется очень легким",
+      "audio": false
+    },
+    "en": {
+      "text": "The test seems very easy",
+      "audio": false
+    }
   },
   {
-    "_id": 48,
-    "ru": "Мой друг учится со мной",
-    "en": "My friend studies with me"
+    "id": 48,
+    "ru": {
+      "text": "Мой друг учится со мной",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend studies with me",
+      "audio": false
+    }
   },
   {
-    "_id": 49,
-    "ru": "Предложение кажется таким привлекательным",
-    "en": "The offer seems so attractive"
+    "id": 49,
+    "ru": {
+      "text": "Предложение кажется таким привлекательным",
+      "audio": false
+    },
+    "en": {
+      "text": "The offer seems so attractive",
+      "audio": false
+    }
   },
   {
-    "_id": 50,
-    "ru": "Я со своим другом учусь в одной той же группу",
-    "en": "My friend and I study in the same group"
+    "id": 50,
+    "ru": {
+      "text": "Я со своим другом учусь в одной той же группу",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend and I study in the same group",
+      "audio": false
+    }
   }
 ]

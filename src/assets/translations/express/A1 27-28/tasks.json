@@ -1,157 +1,343 @@
 [
   {
-    "_id": 1,
-    "ru": "Я видел, что это было невозможно",
-    "en": "I saw that it was impossible"
+    "id": 1,
+    "ru": {
+      "text": "Я видел, что это было невозможно",
+      "audio": false
+    },
+    "en": {
+      "text": "I saw that it was impossible",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Мы поели около часа назад",
-    "en": "We ate about an hour ago"
+    "id": 2,
+    "ru": {
+      "text": "Мы поели около часа назад",
+      "audio": false
+    },
+    "en": {
+      "text": "We ate about an hour ago",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Я услышал это по радио",
-    "en": "I heard it on the radio"
+    "id": 3,
+    "ru": {
+      "text": "Я услышал это по радио",
+      "audio": false
+    },
+    "en": {
+      "text": "I heard it on the radio",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Она переплыла реку",
-    "en": "She swam across the river"
+    "id": 4,
+    "ru": {
+      "text": "Она переплыла реку",
+      "audio": false
+    },
+    "en": {
+      "text": "She swam across the river",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я показал очень хороший результат",
-    "en": "I showed a very good result"
+    "id": 5,
+    "ru": {
+      "text": "Я показал очень хороший результат",
+      "audio": false
+    },
+    "en": {
+      "text": "I showed a very good result",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Он рассказал мне очень интересную историю",
-    "en": "He told me a very interesting story"
+    "id": 6,
+    "ru": {
+      "text": "Он рассказал мне очень интересную историю",
+      "audio": false
+    },
+    "en": {
+      "text": "He told me a very interesting story",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я забыл, как это делать",
-    "en": "I forgot how to do it"
+    "id": 7,
+    "ru": {
+      "text": "Я забыл, как это делать",
+      "audio": false
+    },
+    "en": {
+      "text": "I forgot how to do it",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Он потратил много денег",
-    "en": "He spent lots of money"
+    "id": 8,
+    "ru": {
+      "text": "Он потратил много денег",
+      "audio": false
+    },
+    "en": {
+      "text": "He spent lots of money",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я забыл, что говорить",
-    "en": "I forgot what to say"
+    "id": 9,
+    "ru": {
+      "text": "Я забыл, что говорить",
+      "audio": false
+    },
+    "en": {
+      "text": "I forgot what to say",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Это заняло у меня так много времени",
-    "en": "It took me so much time"
+    "id": 10,
+    "ru": {
+      "text": "Это заняло у меня так много времени",
+      "audio": false
+    },
+    "en": {
+      "text": "It took me so much time",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я выучил очень полезные выражения здесь",
-    "en": "I learnt very useful expressions here"
+    "id": 11,
+    "ru": {
+      "text": "Я выучил очень полезные выражения здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "I learnt very useful expressions here",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я проснулся позже, чем обычно",
-    "en": "I woke up later than usual"
+    "id": 12,
+    "ru": {
+      "text": "Я проснулся позже, чем обычно",
+      "audio": false
+    },
+    "en": {
+      "text": "I woke up later than usual",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я не думаю, что он действительно выучил английский за год",
-    "en": "I don't think that he has really learnt English in a year"
+    "id": 13,
+    "ru": {
+      "text": "Я не думаю, что он действительно выучил английский за год",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that he has really learnt English in a year",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Он построил очень большой дом",
-    "en": "He built a very big house"
+    "id": 14,
+    "ru": {
+      "text": "Он построил очень большой дом",
+      "audio": false
+    },
+    "en": {
+      "text": "He built a very big house",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Этот спортсмен выиграл золотую медаль",
-    "en": "This athlete won the gold medal"
+    "id": 15,
+    "ru": {
+      "text": "Этот спортсмен выиграл золотую медаль",
+      "audio": false
+    },
+    "en": {
+      "text": "This athlete won the gold medal",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Они продавали это очень дешево",
-    "en": "They sold it very cheaply"
+    "id": 16,
+    "ru": {
+      "text": "Они продавали это очень дешево",
+      "audio": false
+    },
+    "en": {
+      "text": "They sold it very cheaply",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Они убежали",
-    "en": "They ran away"
+    "id": 17,
+    "ru": {
+      "text": "Они убежали",
+      "audio": false
+    },
+    "en": {
+      "text": "They ran away",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Мне потребовалось много времени, чтобы понять эту вещь",
-    "en": "It took me lots of time to understand this thing"
+    "id": 18,
+    "ru": {
+      "text": "Мне потребовалось много времени, чтобы понять эту вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "It took me lots of time to understand this thing",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Я так устал, что решил прилечь",
-    "en": "I was to tired that I decided to lie down"
+    "id": 19,
+    "ru": {
+      "text": "Я так устал, что решил прилечь",
+      "audio": false
+    },
+    "en": {
+      "text": "I was to tired that I decided to lie down",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Я написал очень длинное сообщение",
-    "en": "I wrote a very long message"
+    "id": 20,
+    "ru": {
+      "text": "Я написал очень длинное сообщение",
+      "audio": false
+    },
+    "en": {
+      "text": "I wrote a very long message",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Я знал все в начале",
-    "en": "I knew everything in the beginning"
+    "id": 21,
+    "ru": {
+      "text": "Я знал все в начале",
+      "audio": false
+    },
+    "en": {
+      "text": "I knew everything in the beginning",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Это принесло ему успех и счастье",
-    "en": "It brought him success and happiness"
+    "id": 22,
+    "ru": {
+      "text": "Это принесло ему успех и счастье",
+      "audio": false
+    },
+    "en": {
+      "text": "It brought him success and happiness",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Я прилег",
-    "en": "I lay down"
+    "id": 23,
+    "ru": {
+      "text": "Я прилег",
+      "audio": false
+    },
+    "en": {
+      "text": "I lay down",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Полиция поймала преступников",
-    "en": "The police caught the criminals"
+    "id": 24,
+    "ru": {
+      "text": "Полиция поймала преступников",
+      "audio": false
+    },
+    "en": {
+      "text": "The police caught the criminals",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Это стоило пять тысяч долларов",
-    "en": "It cost five thousand dollars"
+    "id": 25,
+    "ru": {
+      "text": "Это стоило пять тысяч долларов",
+      "audio": false
+    },
+    "en": {
+      "text": "It cost five thousand dollars",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Я проснулась раньше, чем обычно",
-    "en": "I woke up earlier than usual"
+    "id": 26,
+    "ru": {
+      "text": "Я проснулась раньше, чем обычно",
+      "audio": false
+    },
+    "en": {
+      "text": "I woke up earlier than usual",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Он переплыл озеро",
-    "en": "He swam across the lake"
+    "id": 27,
+    "ru": {
+      "text": "Он переплыл озеро",
+      "audio": false
+    },
+    "en": {
+      "text": "He swam across the lake",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Я был так счастлив, когда выиграл",
-    "en": "I was so happy when I won"
+    "id": 28,
+    "ru": {
+      "text": "Я был так счастлив, когда выиграл",
+      "audio": false
+    },
+    "en": {
+      "text": "I was so happy when I won",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Мы встретились после работы",
-    "en": "We met after work"
+    "id": 29,
+    "ru": {
+      "text": "Мы встретились после работы",
+      "audio": false
+    },
+    "en": {
+      "text": "We met after work",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Он поспал слишком мало",
-    "en": "He slept too little"
+    "id": 30,
+    "ru": {
+      "text": "Он поспал слишком мало",
+      "audio": false
+    },
+    "en": {
+      "text": "He slept too little",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Это заняло у меня много времени",
-    "en": "It took me lots of time"
+    "id": 31,
+    "ru": {
+      "text": "Это заняло у меня много времени",
+      "audio": false
+    },
+    "en": {
+      "text": "It took me lots of time",
+      "audio": false
+    }
   }
 ]

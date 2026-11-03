@@ -1,477 +1,1047 @@
 [
   {
-    "_id": 1,
-    "ru": "Я не думаю об этом в настоящее время",
-    "en": "I'm not thinking about it at present"
-  },
-  {
-    "_id": 2,
-    "ru": "Дети спят на первом этаже",
-    "en": "The kids are sleeping on the first floor"
-  },
-  {
-    "_id": 3,
-    "ru": "Твой английский становится все лучше и лучше",
-    "en": "Your English is getting better and better"
-  },
-  {
-    "_id": 4,
-    "ru": "Послушай! Музыка играет очень громко",
-    "en": "Listen! The music is playing very loudly"
-  },
-  {
-    "_id": 5,
-    "ru": "Я часто думаю об этом",
-    "en": "I often think about it"
-  },
-  {
-    "_id": 6,
-    "ru": "Ничего из этих вещей не интересует его",
-    "en": "None of these things interests him"
-  },
-  {
-    "_id": 7,
-    "ru": "Что делает Кейт?",
-    "en": "What is Kate doing?"
-  },
-  {
-    "_id": 8,
-    "ru": "Насколько эффективен этот метод?",
-    "en": "How effective is this method?"
-  },
-  {
-    "_id": 9,
-    "ru": "Он никогда не ходит в это место",
-    "en": "He never goes to this place"
-  },
-  {
-    "_id": 10,
-    "ru": "Каждый из нас хочет сделать то же самое",
-    "en": "Each of us wants to do the same"
-  },
-  {
-    "_id": 11,
-    "ru": "Все в порядке",
-    "en": "Everything is alright"
-  },
-  {
-    "_id": 12,
-    "ru": "Насколько длинное это расстояние?",
-    "en": "How long is this distance?"
-  },
-  {
-    "_id": 13,
-    "ru": "Что говорит Алекс?",
-    "en": "What is Alex saying?"
-  },
-  {
-    "_id": 14,
-    "ru": "Никто не знает этого",
-    "en": "No one knows it"
-  },
-  {
-    "_id": 15,
-    "ru": "Все это понимают сейчас",
-    "en": "Everyone understands it now"
-  },
-  {
-    "_id": 16,
-    "ru": "Этого сейчас никто не понимает",
-    "en": "No one understands it now"
-  },
-  {
-    "_id": 17,
-    "ru": "Мне это никогда не помогает",
-    "en": "It never helps me"
-  },
-  {
-    "_id": 18,
-    "ru": "Кто-то здесь есть",
-    "en": "Somebody is here"
-  },
-  {
-    "_id": 19,
-    "ru": "Все это понимают",
-    "en": "Everyone understands it"
-  },
-  {
-    "_id": 20,
-    "ru": "Никому из нас это не нравится",
-    "en": "None of us likes it"
-  },
-  {
-    "_id": 21,
-    "ru": "Идет дождь",
-    "en": "It's raining"
-  },
-  {
-    "_id": 22,
-    "ru": "Я стараюсь делать это на регулярной основе",
-    "en": "I try to do it on a regular basis"
-  },
-  {
-    "_id": 23,
-    "ru": "Какая длина комнаты?",
-    "en": "What's the length of the room?"
-  },
-  {
-    "_id": 24,
-    "ru": "Кажется, все в порядке",
-    "en": "Everything seems alright"
-  },
-  {
-    "_id": 25,
-    "ru": "Идет снег",
-    "en": "It's snowing"
-  },
-  {
-    "_id": 26,
-    "ru": "Ребенок плачет",
-    "en": "The baby is crying"
-  },
-  {
-    "_id": 27,
-    "ru": "Он делает физические упражнения довольно регулярно",
-    "en": "He does physical exercises quite regularly"
-  },
-  {
-    "_id": 28,
-    "ru": "Она любит блины",
-    "en": "She loves pancakes"
-  },
-  {
-    "_id": 29,
-    "ru": "Ребенок часто плачет",
-    "en": "The baby often cries"
-  },
-  {
-    "_id": 30,
-    "ru": "Каждый из нас прекрасно понимает это сейчас",
-    "en": "Each of us perfectly understands it now"
-  },
-  {
-    "_id": 31,
-    "ru": "Они сейчас едут домой",
-    "en": "They are going home now"
-  },
-  {
-    "_id": 32,
-    "ru": "Все кажется очень странным сейчас",
-    "en": "Everything seems very strange now"
-  },
-  {
-    "_id": 33,
-    "ru": "Никому из них не нравится эта идея сейчас",
-    "en": "None of them likes this idea now"
-  },
-  {
-    "_id": 34,
-    "ru": "Он пишет что-то на доске",
-    "en": "He is writing something on the blackboard"
-  },
-  {
-    "_id": 35,
-    "ru": "Никто из них действительно не понимает это сейчас",
-    "en": "None of them really understands it now"
-  },
-  {
-    "_id": 36,
-    "ru": "Что делает учитель?",
-    "en": "What is the teacher doing?"
-  },
-  {
-    "_id": 37,
-    "ru": "Кто-то звонит мне",
-    "en": "Somebody is calling me"
-  },
-  {
-    "_id": 38,
-    "ru": "Каждый из нас это осознает",
-    "en": "Each of us realizes it"
-  },
-  {
-    "_id": 39,
-    "ru": "Я сейчас пишу письмо своему коллеге",
-    "en": "I am writing a letter to my colleague now"
-  },
-  {
-    "_id": 40,
-    "ru": "Врач очень успешно проводит все свои операции",
-    "en": "The doctor conducts all his operations very successfully"
-  },
-  {
-    "_id": 41,
-    "ru": "О чем они говорят в данный момент?",
-    "en": "What are they talking about at the moment?"
-  },
-  {
-    "_id": 42,
-    "ru": "Я полностью не согласен с таким утверждением",
-    "en": "I totally disagree with such a statement"
-  },
-  {
-    "_id": 43,
-    "ru": "Бензин становится все более и более дорогим",
-    "en": "The petrol is getting more and more expensive"
-  },
-  {
-    "_id": 44,
-    "ru": "Все становится все более и более дорогим",
-    "en": "Everything is getting more and more expensive"
-  },
-  {
-    "_id": 45,
-    "ru": "Врачи проводят операцию",
-    "en": "The doctors are conducting an operation"
-  },
-  {
-    "_id": 46,
-    "ru": "Я совершенно не согласен с этим сейчас",
-    "en": "I totally disagree with it now"
-  },
-  {
-    "_id": 47,
-    "ru": "Идет сильный дождь",
-    "en": "It is raining heavily"
-  },
-  {
-    "_id": 48,
-    "ru": "Летом здесь часто идет дождь?",
-    "en": "Does it often rain here in summer?"
-  },
-  {
-    "_id": 49,
-    "ru": "У меня будет очень важная встреча завтра",
-    "en": "I'm having a very important meeting tomorrow"
-  },
-  {
-    "_id": 50,
-    "ru": "Мы встречаемся завтра в шесть",
-    "en": "We are meeting tomorrow at six"
-  },
-  {
-    "_id": 51,
-    "ru": "Я и мой друг разговариваем по телефону",
-    "en": "My friend and I are talking on the phone"
-  },
-  {
-    "_id": 52,
-    "ru": "Мы встречаемся после работы",
-    "en": "We are meeting after work"
-  },
-  {
-    "_id": 53,
-    "ru": "Они болтают после работы",
-    "en": "They chat after work"
-  },
-  {
-    "_id": 54,
-    "ru": "Я работаю над этим проектом сейчас",
-    "en": "I am working on this project now"
-  },
-  {
-    "_id": 55,
-    "ru": "Сейчас идет дождь?",
-    "en": "Is it raining now?"
-  },
-  {
-    "_id": 56,
-    "ru": "Сейчас идет снег?",
-    "en": "Is it snowing now?"
-  },
-  {
-    "_id": 57,
-    "ru": "Вчера в 5 шел дождь?",
-    "en": "Was it raining yesterday at 5?"
-  },
-  {
-    "_id": 58,
-    "ru": "Она постоянно жалуется на него",
-    "en": "She is constantly complaining about him"
-  },
-  {
-    "_id": 59,
-    "ru": "Она жалуется на него в данный момент",
-    "en": "She is complaining about him at the moment"
-  },
-  {
-    "_id": 60,
-    "ru": "Они постоянно ведут себя очень плохо",
-    "en": "They are constantly behaving very badly"
-  },
-  {
-    "_id": 61,
-    "ru": "От чего зависит эта вещь?",
-    "en": "What does this thing depend on?"
-  },
-  {
-    "_id": 62,
-    "ru": "От кого зависят эти вещи?",
-    "en": "Who do these things depend on?"
-  },
-  {
-    "_id": 63,
-    "ru": "От чего зависит твое решение?",
-    "en": "What does your decision depend on?"
-  },
-  {
-    "_id": 64,
-    "ru": "Эта вещь касается каждого из нас",
-    "en": "This thing concerns each of us"
-  },
-  {
-    "_id": 65,
-    "ru": "Эти изменения касаются каждого из нас",
-    "en": "These changes concern each of us"
-  },
-  {
-    "_id": 66,
-    "ru": "Эти вещи не касаются никого из нас",
-    "en": "These things concern none of us"
-  },
-  {
-    "_id": 67,
-    "ru": "Необходимо сделать это сегодня",
-    "en": "It is necessary to do it today"
-  },
-  {
-    "_id": 68,
-    "ru": "Необходимо было сделать это вчера",
-    "en": "It was necessary to do it yesterday"
-  },
-  {
-    "_id": 69,
-    "ru": "Необходимо будет сделать это завтра",
-    "en": "It will be necessary to do it tomorrow"
-  },
-  {
-    "_id": 70,
-    "ru": "Я уезжаю из города завтра",
-    "en": "I'm leaving the city tomorrow"
-  },
-  {
-    "_id": 71,
-    "ru": "Я возвращаюсь в город завтра",
-    "en": "I'm coming back to the city tomorrow"
-  },
-  {
-    "_id": 72,
-    "ru": "Я прибываю туда завтра в шесть",
-    "en": "I'm arriving there tomorrow at six"
-  },
-  {
-    "_id": 73,
-    "ru": "Он идет к стоматологу завтра",
-    "en": "He is going to the dentist tomorrow"
-  },
-  {
-    "_id": 74,
-    "ru": "Она идет в школу завтра",
-    "en": "She is going to school tomorrow"
-  },
-  {
-    "_id": 75,
-    "ru": "Он не идет туда завтра",
-    "en": "He isn't going there tomorrow"
-  },
-  {
-    "_id": 76,
-    "ru": "Мы иногда встречаемся после работы",
-    "en": "We sometimes meet after work"
-  },
-  {
-    "_id": 77,
-    "ru": "Мы обычно встречаемся перед работой",
-    "en": "We usually meet before work"
-  },
-  {
-    "_id": 78,
-    "ru": "Они всегда встречают его после работы",
-    "en": "They always meet him after work"
-  },
-  {
-    "_id": 79,
-    "ru": "Это касается каждого из нас сейчас",
-    "en": "It concerns each of us now"
-  },
-  {
-    "_id": 80,
-    "ru": "Это касается всех нас сейчас",
-    "en": "It concerns all of us now"
-  },
-  {
-    "_id": 81,
-    "ru": "Это касалось каждого из них",
-    "en": "It concerned each of them"
-  },
-  {
-    "_id": 82,
-    "ru": "Почему она всегда перебивает других людей?",
-    "en": "Why is she always interrupting other people?"
-  },
-  {
-    "_id": 83,
-    "ru": "Почему они обычно говорят об этом?",
-    "en": "Why do they usually talk about it?"
-  },
-  {
-    "_id": 84,
-    "ru": "Я лечу в Соединенные Штаты на следующей неделе",
-    "en": "I am flying to the United States next week"
-  },
-  {
-    "_id": 85,
-    "ru": "Такая важная вещь касается каждого из нас",
-    "en": "Such an important thing concerns each of us"
-  },
-  {
-    "_id": 86,
-    "ru": "Она часто кричит на него без причины",
-    "en": "She often shouts at him for no reason"
-  },
-  {
-    "_id": 87,
-    "ru": "Это очень легко сказать, но это не так легко сделать",
-    "en": "It is very easy to say so but it isn't so easy to do it"
-  },
-  {
-    "_id": 88,
-    "ru": "От чего это зависит сейчас?",
-    "en": "What does it depend on now?"
-  },
-  {
-    "_id": 89,
-    "ru": "Почему он всегда жалуется?",
-    "en": "Why is he always complaining?"
-  },
-  {
-    "_id": 90,
-    "ru": "Летом здесь часто идут дожди",
-    "en": "It often rains here in summer"
-  },
-  {
-    "_id": 91,
-    "ru": "Они прибывают в Нью-Йорк сегодня вечером",
-    "en": "They are arriving in New York tonight"
-  },
-  {
-    "_id": 92,
-    "ru": "Я ухожу в четыре",
-    "en": "I am leaving at four"
-  },
-  {
-    "_id": 93,
-    "ru": "Идет сильный снег",
-    "en": "It is snowing heavily"
-  },
-  {
-    "_id": 94,
-    "ru": "Такая возможность существует",
-    "en": "Such a possibility exists"
-  },
-  {
-    "_id": 95,
-    "ru": "Она всегда кричит на него",
-    "en": "She is always shouting at him"
+    "id": 1,
+    "ru": {
+      "text": "Я не думаю об этом в настоящее время",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not thinking about it at present",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Дети спят на первом этаже",
+      "audio": false
+    },
+    "en": {
+      "text": "The kids are sleeping on the first floor",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Твой английский становится все лучше и лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "Your English is getting better and better",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Послушай! Музыка играет очень громко",
+      "audio": false
+    },
+    "en": {
+      "text": "Listen! The music is playing very loudly",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я часто думаю об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I often think about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Ничего из этих вещей не интересует его",
+      "audio": false
+    },
+    "en": {
+      "text": "None of these things interests him",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Что делает Кейт?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is Kate doing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Насколько эффективен этот метод?",
+      "audio": false
+    },
+    "en": {
+      "text": "How effective is this method?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Он никогда не ходит в это место",
+      "audio": false
+    },
+    "en": {
+      "text": "He never goes to this place",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Каждый из нас хочет сделать то же самое",
+      "audio": false
+    },
+    "en": {
+      "text": "Each of us wants to do the same",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Все в порядке",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything is alright",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Насколько длинное это расстояние?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long is this distance?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Что говорит Алекс?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is Alex saying?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Никто не знает этого",
+      "audio": false
+    },
+    "en": {
+      "text": "No one knows it",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Все это понимают сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone understands it now",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Этого сейчас никто не понимает",
+      "audio": false
+    },
+    "en": {
+      "text": "No one understands it now",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Мне это никогда не помогает",
+      "audio": false
+    },
+    "en": {
+      "text": "It never helps me",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Кто-то здесь есть",
+      "audio": false
+    },
+    "en": {
+      "text": "Somebody is here",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Все это понимают",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone understands it",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Никому из нас это не нравится",
+      "audio": false
+    },
+    "en": {
+      "text": "None of us likes it",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Идет дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "It's raining",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Я стараюсь делать это на регулярной основе",
+      "audio": false
+    },
+    "en": {
+      "text": "I try to do it on a regular basis",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Какая длина комнаты?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's the length of the room?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Кажется, все в порядке",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything seems alright",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Идет снег",
+      "audio": false
+    },
+    "en": {
+      "text": "It's snowing",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Ребенок плачет",
+      "audio": false
+    },
+    "en": {
+      "text": "The baby is crying",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Он делает физические упражнения довольно регулярно",
+      "audio": false
+    },
+    "en": {
+      "text": "He does physical exercises quite regularly",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Она любит блины",
+      "audio": false
+    },
+    "en": {
+      "text": "She loves pancakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Ребенок часто плачет",
+      "audio": false
+    },
+    "en": {
+      "text": "The baby often cries",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Каждый из нас прекрасно понимает это сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "Each of us perfectly understands it now",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Они сейчас едут домой",
+      "audio": false
+    },
+    "en": {
+      "text": "They are going home now",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Все кажется очень странным сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything seems very strange now",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Никому из них не нравится эта идея сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "None of them likes this idea now",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он пишет что-то на доске",
+      "audio": false
+    },
+    "en": {
+      "text": "He is writing something on the blackboard",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Никто из них действительно не понимает это сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "None of them really understands it now",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Что делает учитель?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is the teacher doing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Кто-то звонит мне",
+      "audio": false
+    },
+    "en": {
+      "text": "Somebody is calling me",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Каждый из нас это осознает",
+      "audio": false
+    },
+    "en": {
+      "text": "Each of us realizes it",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я сейчас пишу письмо своему коллеге",
+      "audio": false
+    },
+    "en": {
+      "text": "I am writing a letter to my colleague now",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Врач очень успешно проводит все свои операции",
+      "audio": false
+    },
+    "en": {
+      "text": "The doctor conducts all his operations very successfully",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "О чем они говорят в данный момент?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are they talking about at the moment?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я полностью не согласен с таким утверждением",
+      "audio": false
+    },
+    "en": {
+      "text": "I totally disagree with such a statement",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Бензин становится все более и более дорогим",
+      "audio": false
+    },
+    "en": {
+      "text": "The petrol is getting more and more expensive",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Все становится все более и более дорогим",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything is getting more and more expensive",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Врачи проводят операцию",
+      "audio": false
+    },
+    "en": {
+      "text": "The doctors are conducting an operation",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я совершенно не согласен с этим сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I totally disagree with it now",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Идет сильный дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "It is raining heavily",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Летом здесь часто идет дождь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it often rain here in summer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "У меня будет очень важная встреча завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm having a very important meeting tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Мы встречаемся завтра в шесть",
+      "audio": false
+    },
+    "en": {
+      "text": "We are meeting tomorrow at six",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я и мой друг разговариваем по телефону",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend and I are talking on the phone",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Мы встречаемся после работы",
+      "audio": false
+    },
+    "en": {
+      "text": "We are meeting after work",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Они болтают после работы",
+      "audio": false
+    },
+    "en": {
+      "text": "They chat after work",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я работаю над этим проектом сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I am working on this project now",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Сейчас идет дождь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it raining now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Сейчас идет снег?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it snowing now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Вчера в 5 шел дождь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it raining yesterday at 5?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Она постоянно жалуется на него",
+      "audio": false
+    },
+    "en": {
+      "text": "She is constantly complaining about him",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Она жалуется на него в данный момент",
+      "audio": false
+    },
+    "en": {
+      "text": "She is complaining about him at the moment",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Они постоянно ведут себя очень плохо",
+      "audio": false
+    },
+    "en": {
+      "text": "They are constantly behaving very badly",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "От чего зависит эта вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What does this thing depend on?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "От кого зависят эти вещи?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who do these things depend on?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "От чего зависит твое решение?",
+      "audio": false
+    },
+    "en": {
+      "text": "What does your decision depend on?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Эта вещь касается каждого из нас",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing concerns each of us",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Эти изменения касаются каждого из нас",
+      "audio": false
+    },
+    "en": {
+      "text": "These changes concern each of us",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Эти вещи не касаются никого из нас",
+      "audio": false
+    },
+    "en": {
+      "text": "These things concern none of us",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Необходимо сделать это сегодня",
+      "audio": false
+    },
+    "en": {
+      "text": "It is necessary to do it today",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Необходимо было сделать это вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "It was necessary to do it yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Необходимо будет сделать это завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "It will be necessary to do it tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я уезжаю из города завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm leaving the city tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я возвращаюсь в город завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm coming back to the city tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я прибываю туда завтра в шесть",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm arriving there tomorrow at six",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Он идет к стоматологу завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "He is going to the dentist tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Она идет в школу завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "She is going to school tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Он не идет туда завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't going there tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Мы иногда встречаемся после работы",
+      "audio": false
+    },
+    "en": {
+      "text": "We sometimes meet after work",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Мы обычно встречаемся перед работой",
+      "audio": false
+    },
+    "en": {
+      "text": "We usually meet before work",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Они всегда встречают его после работы",
+      "audio": false
+    },
+    "en": {
+      "text": "They always meet him after work",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Это касается каждого из нас сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "It concerns each of us now",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Это касается всех нас сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "It concerns all of us now",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Это касалось каждого из них",
+      "audio": false
+    },
+    "en": {
+      "text": "It concerned each of them",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Почему она всегда перебивает других людей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is she always interrupting other people?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Почему они обычно говорят об этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why do they usually talk about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я лечу в Соединенные Штаты на следующей неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "I am flying to the United States next week",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Такая важная вещь касается каждого из нас",
+      "audio": false
+    },
+    "en": {
+      "text": "Such an important thing concerns each of us",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Она часто кричит на него без причины",
+      "audio": false
+    },
+    "en": {
+      "text": "She often shouts at him for no reason",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Это очень легко сказать, но это не так легко сделать",
+      "audio": false
+    },
+    "en": {
+      "text": "It is very easy to say so but it isn't so easy to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "От чего это зависит сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "What does it depend on now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Почему он всегда жалуется?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is he always complaining?",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Летом здесь часто идут дожди",
+      "audio": false
+    },
+    "en": {
+      "text": "It often rains here in summer",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Они прибывают в Нью-Йорк сегодня вечером",
+      "audio": false
+    },
+    "en": {
+      "text": "They are arriving in New York tonight",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Я ухожу в четыре",
+      "audio": false
+    },
+    "en": {
+      "text": "I am leaving at four",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Идет сильный снег",
+      "audio": false
+    },
+    "en": {
+      "text": "It is snowing heavily",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Такая возможность существует",
+      "audio": false
+    },
+    "en": {
+      "text": "Such a possibility exists",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Она всегда кричит на него",
+      "audio": false
+    },
+    "en": {
+      "text": "She is always shouting at him",
+      "audio": false
+    }
   }
 ]

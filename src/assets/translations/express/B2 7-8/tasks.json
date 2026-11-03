@@ -1,67 +1,145 @@
 [
   {
-    "_id": 1,
-    "ru": "Как насчет того, чтобы поесть вне дома сегодня вечером? (1)",
-    "en": "What about eating out eating out tonight? (1)"
+    "id": 1,
+    "ru": {
+      "text": "Как насчет того, чтобы поесть вне дома сегодня вечером? (1)",
+      "audio": false
+    },
+    "en": {
+      "text": "What about eating out eating out tonight? (1)",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Она весь день присматривала за детьми",
-    "en": "She's been looking after the kids all day"
+    "id": 2,
+    "ru": {
+      "text": "Она весь день присматривала за детьми",
+      "audio": false
+    },
+    "en": {
+      "text": "She's been looking after the kids all day",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Она сказала, что присмотрит за детьми",
-    "en": "She said that she would look after the kids"
+    "id": 3,
+    "ru": {
+      "text": "Она сказала, что присмотрит за детьми",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that she would look after the kids",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я еще не включил компьютер",
-    "en": "I haven't turned on the computer yet"
+    "id": 4,
+    "ru": {
+      "text": "Я еще не включил компьютер",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't turned on the computer yet",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Успокойся! Нет никакой нужды беспокоиться",
-    "en": "Calm down! There is no need to worry"
+    "id": 5,
+    "ru": {
+      "text": "Успокойся! Нет никакой нужды беспокоиться",
+      "audio": false
+    },
+    "en": {
+      "text": "Calm down! There is no need to worry",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Не могли бы вы включить свет, пожалуйста?",
-    "en": "Could you switch on the light, please?"
+    "id": 6,
+    "ru": {
+      "text": "Не могли бы вы включить свет, пожалуйста?",
+      "audio": false
+    },
+    "en": {
+      "text": "Could you switch on the light, please?",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Компьютер включен?",
-    "en": "Is the computer turned on?"
+    "id": 7,
+    "ru": {
+      "text": "Компьютер включен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the computer turned on?",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Если ты не поторопишься, то можешь отстать",
-    "en": "If you don't hurry up, you can fall behind"
+    "id": 8,
+    "ru": {
+      "text": "Если ты не поторопишься, то можешь отстать",
+      "audio": false
+    },
+    "en": {
+      "text": "If you don't hurry up, you can fall behind",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Как насчет того, чтобы поесть вне дома сегодня вечером? (2)",
-    "en": "How about eating out eating out tonight? (2)"
+    "id": 9,
+    "ru": {
+      "text": "Как насчет того, чтобы поесть вне дома сегодня вечером? (2)",
+      "audio": false
+    },
+    "en": {
+      "text": "How about eating out eating out tonight? (2)",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Тебе нужно успокоиться чуть-чуть!",
-    "en": "You need to calm down a bit!"
+    "id": 10,
+    "ru": {
+      "text": "Тебе нужно успокоиться чуть-чуть!",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to calm down a bit!",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я раньше вставал очень рано, когда работал там",
-    "en": "I used to get up very early when I worked there"
+    "id": 11,
+    "ru": {
+      "text": "Я раньше вставал очень рано, когда работал там",
+      "audio": false
+    },
+    "en": {
+      "text": "I used to get up very early when I worked there",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "К тому времени, как он мне позвонил, я уже проснулся",
-    "en": "By the time he called me, I had already woken up"
+    "id": 12,
+    "ru": {
+      "text": "К тому времени, как он мне позвонил, я уже проснулся",
+      "audio": false
+    },
+    "en": {
+      "text": "By the time he called me, I had already woken up",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Меня попросили заполнить форму",
-    "en": "I was asked to fill in the form"
+    "id": 13,
+    "ru": {
+      "text": "Меня попросили заполнить форму",
+      "audio": false
+    },
+    "en": {
+      "text": "I was asked to fill in the form",
+      "audio": false
+    }
   }
 ]

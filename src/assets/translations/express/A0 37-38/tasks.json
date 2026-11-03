@@ -1,257 +1,563 @@
 [
   {
-    "_id": 1,
-    "ru": "Я отправил ей сообщение",
-    "en": "I sent her a message"
+    "id": 1,
+    "ru": {
+      "text": "Я отправил ей сообщение",
+      "audio": false
+    },
+    "en": {
+      "text": "I sent her a message",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Он дал ей эти деньги",
-    "en": "He gave her this money"
+    "id": 2,
+    "ru": {
+      "text": "Он дал ей эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "He gave her this money",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "У меня были некоторые вопросы",
-    "en": "I had some questions"
+    "id": 3,
+    "ru": {
+      "text": "У меня были некоторые вопросы",
+      "audio": false
+    },
+    "en": {
+      "text": "I had some questions",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Она дала мне этот совет",
-    "en": "She gave me this advice"
+    "id": 4,
+    "ru": {
+      "text": "Она дала мне этот совет",
+      "audio": false
+    },
+    "en": {
+      "text": "She gave me this advice",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Он бежал очень быстро",
-    "en": "He ran very fast"
+    "id": 5,
+    "ru": {
+      "text": "Он бежал очень быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "He ran very fast",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Она стала учителем",
-    "en": "She became a teacher"
+    "id": 6,
+    "ru": {
+      "text": "Она стала учителем",
+      "audio": false
+    },
+    "en": {
+      "text": "She became a teacher",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Они говорили по-английски",
-    "en": "They spoke English"
+    "id": 7,
+    "ru": {
+      "text": "Они говорили по-английски",
+      "audio": false
+    },
+    "en": {
+      "text": "They spoke English",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Он водил машину",
-    "en": "He drove a car"
+    "id": 8,
+    "ru": {
+      "text": "Он водил машину",
+      "audio": false
+    },
+    "en": {
+      "text": "He drove a car",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я положил это на стол",
-    "en": "I put it on the table"
+    "id": 9,
+    "ru": {
+      "text": "Я положил это на стол",
+      "audio": false
+    },
+    "en": {
+      "text": "I put it on the table",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Она стала известной",
-    "en": "She became famous"
+    "id": 10,
+    "ru": {
+      "text": "Она стала известной",
+      "audio": false
+    },
+    "en": {
+      "text": "She became famous",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Мы встретились снова",
-    "en": "We met again"
+    "id": 11,
+    "ru": {
+      "text": "Мы встретились снова",
+      "audio": false
+    },
+    "en": {
+      "text": "We met again",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Он стал очень известным",
-    "en": "He became very famous"
+    "id": 12,
+    "ru": {
+      "text": "Он стал очень известным",
+      "audio": false
+    },
+    "en": {
+      "text": "He became very famous",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Он чувствовал себя лучше вчера",
-    "en": "He felt better yesterday"
+    "id": 13,
+    "ru": {
+      "text": "Он чувствовал себя лучше вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "He felt better yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Они убежали",
-    "en": "They ran away"
+    "id": 14,
+    "ru": {
+      "text": "Они убежали",
+      "audio": false
+    },
+    "en": {
+      "text": "They ran away",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я положил это на пол",
-    "en": "I put it on the floor"
+    "id": 15,
+    "ru": {
+      "text": "Я положил это на пол",
+      "audio": false
+    },
+    "en": {
+      "text": "I put it on the floor",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Она встала",
-    "en": "She stood up"
+    "id": 16,
+    "ru": {
+      "text": "Она встала",
+      "audio": false
+    },
+    "en": {
+      "text": "She stood up",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Она присела и затем встала",
-    "en": "She sat down and then stood up"
+    "id": 17,
+    "ru": {
+      "text": "Она присела и затем встала",
+      "audio": false
+    },
+    "en": {
+      "text": "She sat down and then stood up",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Я водил машину вчера",
-    "en": "I drove a car yesterday"
+    "id": 18,
+    "ru": {
+      "text": "Я водил машину вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I drove a car yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Они сбежали от полиции",
-    "en": "They ran from the police"
+    "id": 19,
+    "ru": {
+      "text": "Они сбежали от полиции",
+      "audio": false
+    },
+    "en": {
+      "text": "They ran from the police",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "У меня была одна проблема",
-    "en": "I had one problem"
+    "id": 20,
+    "ru": {
+      "text": "У меня была одна проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "I had one problem",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Я положил это рядом с моей кроватью",
-    "en": "I put it near my bed"
+    "id": 21,
+    "ru": {
+      "text": "Я положил это рядом с моей кроватью",
+      "audio": false
+    },
+    "en": {
+      "text": "I put it near my bed",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Мы говорили только по-английски",
-    "en": "We spoke only English"
+    "id": 22,
+    "ru": {
+      "text": "Мы говорили только по-английски",
+      "audio": false
+    },
+    "en": {
+      "text": "We spoke only English",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Эта встреча началась",
-    "en": "This meeting began"
+    "id": 23,
+    "ru": {
+      "text": "Эта встреча началась",
+      "audio": false
+    },
+    "en": {
+      "text": "This meeting began",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Я отправил ей письмо",
-    "en": "I sent her a letter"
+    "id": 24,
+    "ru": {
+      "text": "Я отправил ей письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I sent her a letter",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "У меня было мало свободного времени",
-    "en": "I had little free time"
+    "id": 25,
+    "ru": {
+      "text": "У меня было мало свободного времени",
+      "audio": false
+    },
+    "en": {
+      "text": "I had little free time",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Я сел на тот стул",
-    "en": "I sat on that chair"
+    "id": 26,
+    "ru": {
+      "text": "Я сел на тот стул",
+      "audio": false
+    },
+    "en": {
+      "text": "I sat on that chair",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Он убежал",
-    "en": "He ran away"
+    "id": 27,
+    "ru": {
+      "text": "Он убежал",
+      "audio": false
+    },
+    "en": {
+      "text": "He ran away",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Я чувствовал себя намного лучше вечером",
-    "en": "I felt much better in the evening"
+    "id": 28,
+    "ru": {
+      "text": "Я чувствовал себя намного лучше вечером",
+      "audio": false
+    },
+    "en": {
+      "text": "I felt much better in the evening",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Он стал бизнесменом",
-    "en": "He became a businessman"
+    "id": 29,
+    "ru": {
+      "text": "Он стал бизнесменом",
+      "audio": false
+    },
+    "en": {
+      "text": "He became a businessman",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Они говорили по-испански",
-    "en": "They spoke Spanish"
+    "id": 30,
+    "ru": {
+      "text": "Они говорили по-испански",
+      "audio": false
+    },
+    "en": {
+      "text": "They spoke Spanish",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Он построил дом",
-    "en": "He built a house"
+    "id": 31,
+    "ru": {
+      "text": "Он построил дом",
+      "audio": false
+    },
+    "en": {
+      "text": "He built a house",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Я положил это на письменный стол",
-    "en": "I put it on the desk"
+    "id": 32,
+    "ru": {
+      "text": "Я положил это на письменный стол",
+      "audio": false
+    },
+    "en": {
+      "text": "I put it on the desk",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Мы встретились наконец",
-    "en": "We met at last"
+    "id": 33,
+    "ru": {
+      "text": "Мы встретились наконец",
+      "audio": false
+    },
+    "en": {
+      "text": "We met at last",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Он стал врачом",
-    "en": "He became a doctor"
+    "id": 34,
+    "ru": {
+      "text": "Он стал врачом",
+      "audio": false
+    },
+    "en": {
+      "text": "He became a doctor",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Я отправил ему имейл",
-    "en": "I sent him an email"
+    "id": 35,
+    "ru": {
+      "text": "Я отправил ему имейл",
+      "audio": false
+    },
+    "en": {
+      "text": "I sent him an email",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Его машина сломалась",
-    "en": "His car broke down"
+    "id": 36,
+    "ru": {
+      "text": "Его машина сломалась",
+      "audio": false
+    },
+    "en": {
+      "text": "His car broke down",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Мы встретились в аэропорту",
-    "en": "We met at the airport"
+    "id": 37,
+    "ru": {
+      "text": "Мы встретились в аэропорту",
+      "audio": false
+    },
+    "en": {
+      "text": "We met at the airport",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Он присел",
-    "en": "He sat down"
+    "id": 38,
+    "ru": {
+      "text": "Он присел",
+      "audio": false
+    },
+    "en": {
+      "text": "He sat down",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Мы часто проводили время вместе",
-    "en": "We often spent time together"
+    "id": 39,
+    "ru": {
+      "text": "Мы часто проводили время вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "We often spent time together",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Я отправил ей два сообщения",
-    "en": "I sent her two messages"
+    "id": 40,
+    "ru": {
+      "text": "Я отправил ей два сообщения",
+      "audio": false
+    },
+    "en": {
+      "text": "I sent her two messages",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Я положил это рядом со своим компьютером",
-    "en": "I put it near my computer"
+    "id": 41,
+    "ru": {
+      "text": "Я положил это рядом со своим компьютером",
+      "audio": false
+    },
+    "en": {
+      "text": "I put it near my computer",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Он заплатил за нее",
-    "en": "He paid for her"
+    "id": 42,
+    "ru": {
+      "text": "Он заплатил за нее",
+      "audio": false
+    },
+    "en": {
+      "text": "He paid for her",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Этот урок начался пять минут назад",
-    "en": "This lesson began five minutes ago"
+    "id": 43,
+    "ru": {
+      "text": "Этот урок начался пять минут назад",
+      "audio": false
+    },
+    "en": {
+      "text": "This lesson began five minutes ago",
+      "audio": false
+    }
   },
   {
-    "_id": 44,
-    "ru": "Я заплатил за нее",
-    "en": "I paid for her"
+    "id": 44,
+    "ru": {
+      "text": "Я заплатил за нее",
+      "audio": false
+    },
+    "en": {
+      "text": "I paid for her",
+      "audio": false
+    }
   },
   {
-    "_id": 45,
-    "ru": "Я чувствовал себя очень хорошо",
-    "en": "I felt very good"
+    "id": 45,
+    "ru": {
+      "text": "Я чувствовал себя очень хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "I felt very good",
+      "audio": false
+    }
   },
   {
-    "_id": 46,
-    "ru": "Они построили мост",
-    "en": "They built a bridge"
+    "id": 46,
+    "ru": {
+      "text": "Они построили мост",
+      "audio": false
+    },
+    "en": {
+      "text": "They built a bridge",
+      "audio": false
+    }
   },
   {
-    "_id": 47,
-    "ru": "У меня было слишком мало времени",
-    "en": "I had too little time"
+    "id": 47,
+    "ru": {
+      "text": "У меня было слишком мало времени",
+      "audio": false
+    },
+    "en": {
+      "text": "I had too little time",
+      "audio": false
+    }
   },
   {
-    "_id": 48,
-    "ru": "Его машина сломалась вчера",
-    "en": "His car broke down yesterday"
+    "id": 48,
+    "ru": {
+      "text": "Его машина сломалась вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "His car broke down yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 49,
-    "ru": "Их машина сломалась вдруг",
-    "en": "Their car broke down suddenly"
+    "id": 49,
+    "ru": {
+      "text": "Их машина сломалась вдруг",
+      "audio": false
+    },
+    "en": {
+      "text": "Their car broke down suddenly",
+      "audio": false
+    }
   },
   {
-    "_id": 50,
-    "ru": "У меня был вопрос",
-    "en": "I had a question"
+    "id": 50,
+    "ru": {
+      "text": "У меня был вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I had a question",
+      "audio": false
+    }
   },
   {
-    "_id": 51,
-    "ru": "Я заплатил за эту услугу",
-    "en": "I paid for this service"
+    "id": 51,
+    "ru": {
+      "text": "Я заплатил за эту услугу",
+      "audio": false
+    },
+    "en": {
+      "text": "I paid for this service",
+      "audio": false
+    }
   }
 ]

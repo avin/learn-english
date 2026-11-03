@@ -1,482 +1,1058 @@
 [
   {
-    "_id": 1,
-    "ru": "Что ты увидишь там?",
-    "en": "What will you see there?"
-  },
-  {
-    "_id": 2,
-    "ru": "Когда ты подтвердишь нашу встречу?",
-    "en": "When will you confirm our meeting?"
-  },
-  {
-    "_id": 3,
-    "ru": "Почему он будет чувствовать себя там так неудобно?",
-    "en": "Why will he feel so uncomfortable there?"
-  },
-  {
-    "_id": 4,
-    "ru": "Когда мы встретимся в аэропорту?",
-    "en": "When will we meet at the airport?"
-  },
-  {
-    "_id": 5,
-    "ru": "Сколько продлится один урок английского?",
-    "en": "How long will one English lesson last?"
-  },
-  {
-    "_id": 6,
-    "ru": "Когда начнется встреча?",
-    "en": "When will the meeting begin?"
-  },
-  {
-    "_id": 7,
-    "ru": "Когда она выйдет за него замуж?",
-    "en": "When will she marry him?"
-  },
-  {
-    "_id": 8,
-    "ru": "Почему ты будешь чувствовать себя там очень неудобно?",
-    "en": "Why will you feel very uncomfortable there?"
-  },
-  {
-    "_id": 9,
-    "ru": "Почему это случится с ними?",
-    "en": "Why will it happen to them?"
-  },
-  {
-    "_id": 10,
-    "ru": "Где мы встретимся с ним?",
-    "en": "Where will we meet him?"
-  },
-  {
-    "_id": 11,
-    "ru": "Когда она вернется?",
-    "en": "When will she come back?"
-  },
-  {
-    "_id": 12,
-    "ru": "Какой у тебя будет новый номер телефона?",
-    "en": "What will your new phone number be?"
-  },
-  {
-    "_id": 13,
-    "ru": "Когда начнутся экзамены?",
-    "en": "When will the exams start?"
-  },
-  {
-    "_id": 14,
-    "ru": "Где он будет завтра?",
-    "en": "Where will he be tomorrow?"
-  },
-  {
-    "_id": 15,
-    "ru": "Когда ты придешь на работу?",
-    "en": "When will you come to work?"
-  },
-  {
-    "_id": 16,
-    "ru": "Когда ты уйдешь из дома?",
-    "en": "When will you leave home?"
-  },
-  {
-    "_id": 17,
-    "ru": "Когда ты увидишь его в следующий раз?",
-    "en": "When will you see him next time?"
-  },
-  {
-    "_id": 18,
-    "ru": "Когда начнется конференция?",
-    "en": "When will the conference begin?"
-  },
-  {
-    "_id": 19,
-    "ru": "Что ты там увидишь?",
-    "en": "What will you see there?"
-  },
-  {
-    "_id": 20,
-    "ru": "Почему они будут жить отдельно?",
-    "en": "Why will they live separately?"
-  },
-  {
-    "_id": 21,
-    "ru": "Когда ты подтвердишь нашу встречу?",
-    "en": "When will you confirm our meeting?"
-  },
-  {
-    "_id": 22,
-    "ru": "Как ты будешь работать в этих условиях?",
-    "en": "How will you work in these conditions?"
-  },
-  {
-    "_id": 23,
-    "ru": "Когда начнется экзамен?",
-    "en": "When will the exam start?"
-  },
-  {
-    "_id": 24,
-    "ru": "Когда вы поженитесь?",
-    "en": "When will you get married?"
-  },
-  {
-    "_id": 25,
-    "ru": "Когда он закончит школу?",
-    "en": "When will he finish school?"
-  },
-  {
-    "_id": 26,
-    "ru": "Как долго это будет?",
-    "en": "How long will it be?"
-  },
-  {
-    "_id": 27,
-    "ru": "Какие города ты посетишь?",
-    "en": "What cities will you visit?"
-  },
-  {
-    "_id": 28,
-    "ru": "Куда ты пойдешь?",
-    "en": "Where will you go?"
-  },
-  {
-    "_id": 29,
-    "ru": "Как долго ты там будешь?",
-    "en": "How long will you be there?"
-  },
-  {
-    "_id": 30,
-    "ru": "Как ты будешь проводить свое свободное время?",
-    "en": "How will you spend your free time?"
-  },
-  {
-    "_id": 31,
-    "ru": "Как часто ты будешь пользоваться этим приложением?",
-    "en": "How often will you use this application?"
-  },
-  {
-    "_id": 32,
-    "ru": "Что ты будешь делать в этой ситуации?",
-    "en": "What will you do in this situation?"
-  },
-  {
-    "_id": 33,
-    "ru": "Что ты скажешь своим родителям?",
-    "en": "What will you tell your parents?"
-  },
-  {
-    "_id": 34,
-    "ru": "Сколько денег будет достаточно?",
-    "en": "How much money will be enough?"
-  },
-  {
-    "_id": 35,
-    "ru": "Что ты будешь делать в этом случае?",
-    "en": "What will you do in this case?"
-  },
-  {
-    "_id": 36,
-    "ru": "Кто тебя там увидит?",
-    "en": "Who will see you there?"
-  },
-  {
-    "_id": 37,
-    "ru": "Когда ты пойдешь спать?",
-    "en": "When will you go to bed?"
-  },
-  {
-    "_id": 38,
-    "ru": "Во сколько ты мне перезвонишь?",
-    "en": "What time will you call me back?"
-  },
-  {
-    "_id": 39,
-    "ru": "Сколько ты за это заплатишь?",
-    "en": "How much will you pay for it?"
-  },
-  {
-    "_id": 40,
-    "ru": "Какой у него будет новый адрес?",
-    "en": "What will his new address be?"
-  },
-  {
-    "_id": 41,
-    "ru": "Во сколько ты завтра встанешь?",
-    "en": "What time will you get up tomorrow?"
-  },
-  {
-    "_id": 42,
-    "ru": "Когда он женится на ней?",
-    "en": "When will he marry her?"
-  },
-  {
-    "_id": 43,
-    "ru": "Сколько будет стоить учиться в Соединенных Штатах?",
-    "en": "How much will it cost to study in the United States?"
-  },
-  {
-    "_id": 44,
-    "ru": "Почему это будет лучшим решением этой проблемы?",
-    "en": "Why will it be the best solution to this problem?"
-  },
-  {
-    "_id": 45,
-    "ru": "Сколько будет стоить арендовать такого рода машину?",
-    "en": "How much will it be to rent this kind of car?"
-  },
-  {
-    "_id": 46,
-    "ru": "Почему это будет полная трата времени?",
-    "en": "Why will it be a complete waste of time?"
-  },
-  {
-    "_id": 47,
-    "ru": "Кого ты пригласишь на свой день рождения?",
-    "en": "Who will you invite to your birthday party?"
-  },
-  {
-    "_id": 48,
-    "ru": "Где я смогу купить это?",
-    "en": "Where will I be able to buy it?"
-  },
-  {
-    "_id": 49,
-    "ru": "Сколько будет стоить арендовать эту квартиру?",
-    "en": "How much will it be to rent this apartment?"
-  },
-  {
-    "_id": 50,
-    "ru": "Когда это будет возможно сделать?",
-    "en": "When will it be possible to do it?"
-  },
-  {
-    "_id": 51,
-    "ru": "Когда он разведется?",
-    "en": "When will he get divorced?"
-  },
-  {
-    "_id": 52,
-    "ru": "Сколько ты заплатишь за новую квартиру?",
-    "en": "How much will you pay for a new apartment?"
-  },
-  {
-    "_id": 53,
-    "ru": "Насколько полезным будет урок?",
-    "en": "How useful will the lesson be?"
-  },
-  {
-    "_id": 54,
-    "ru": "Сколько будет стоить арендовать дом?",
-    "en": "How much will it cost to rent a house?"
-  },
-  {
-    "_id": 55,
-    "ru": "Сколько денег мне нужно будет взять с собой?",
-    "en": "How much money will I need to take with me?"
-  },
-  {
-    "_id": 56,
-    "ru": "Что ты будешь делать, чтобы улучшить свою речь?",
-    "en": "What will you do to improve your speaking?"
-  },
-  {
-    "_id": 57,
-    "ru": "Когда она улучшит свое произношение?",
-    "en": "When will she improve her pronunciation?"
-  },
-  {
-    "_id": 58,
-    "ru": "Когда закончится урок?",
-    "en": "When will the lesson finish?"
-  },
-  {
-    "_id": 59,
-    "ru": "Когда эти уроки закончатся?",
-    "en": "When will these lessons finish?"
-  },
-  {
-    "_id": 60,
-    "ru": "Когда начнется урок?",
-    "en": "When will the lesson start?"
-  },
-  {
-    "_id": 61,
-    "ru": "Как ты сможешь это сделать?",
-    "en": "How will you be able to do it?"
-  },
-  {
-    "_id": 62,
-    "ru": "Как она сможет это сделать?",
-    "en": "How will she be able to do it?"
-  },
-  {
-    "_id": 63,
-    "ru": "Когда они смогут это сделать?",
-    "en": "When will they be able to do it?"
-  },
-  {
-    "_id": 64,
-    "ru": "Насколько эффективным будет курс?",
-    "en": "How effective will the course be?"
-  },
-  {
-    "_id": 65,
-    "ru": "Насколько эффективными будут курсы?",
-    "en": "How effective will the courses be?"
-  },
-  {
-    "_id": 66,
-    "ru": "Насколько эффективным будет тот курс?",
-    "en": "How effective will that course be?"
-  },
-  {
-    "_id": 67,
-    "ru": "Сколько будет стоить учиться за границей?",
-    "en": "How much will it cost to study abroad?"
-  },
-  {
-    "_id": 68,
-    "ru": "Сколько будет стоить поехать за границу?",
-    "en": "How much will it cost to go abroad?"
-  },
-  {
-    "_id": 69,
-    "ru": "Когда он подтвердит время нашей встречи?",
-    "en": "When will he confirm the time of our meeting?"
-  },
-  {
-    "_id": 70,
-    "ru": "Когда они подтвердят время этой встречи?",
-    "en": "When will they confirm the time of this meeting?"
-  },
-  {
-    "_id": 71,
-    "ru": "Когда она подтвердит нашу встречу?",
-    "en": "When will she confirm our meeting?"
-  },
-  {
-    "_id": 72,
-    "ru": "Насколько интересной будет книга?",
-    "en": "How interesting will the book be?"
-  },
-  {
-    "_id": 73,
-    "ru": "Насколько дорогой будет эта книга?",
-    "en": "How expensive will this book be?"
-  },
-  {
-    "_id": 74,
-    "ru": "Насколько интересным будет фильм?",
-    "en": "How interesting will the movie be?"
-  },
-  {
-    "_id": 75,
-    "ru": "Что будет необходимо исправить?",
-    "en": "What will be necessary to correct?"
-  },
-  {
-    "_id": 76,
-    "ru": "Что будет необходимо изменить?",
-    "en": "What will be necessary to change?"
-  },
-  {
-    "_id": 77,
-    "ru": "Что будет необходимо улучшить?",
-    "en": "What will be necessary to improve?"
-  },
-  {
-    "_id": 78,
-    "ru": "Какого рода книги ты будешь читать?",
-    "en": "What kind of books will you read?"
-  },
-  {
-    "_id": 79,
-    "ru": "Какого рода книги ты будешь покупать?",
-    "en": "What kind of books will you buy?"
-  },
-  {
-    "_id": 80,
-    "ru": "Какую книгу ты будешь читать?",
-    "en": "What book will you read?"
-  },
-  {
-    "_id": 81,
-    "ru": "Во сколько закончатся занятия?",
-    "en": "What time will the classes end?"
-  },
-  {
-    "_id": 82,
-    "ru": "Когда закончатся занятия?",
-    "en": "When will the classes end?"
-  },
-  {
-    "_id": 83,
-    "ru": "Во сколько начнется урок?",
-    "en": "What time will the lesson start?"
-  },
-  {
-    "_id": 84,
-    "ru": "Когда ты закончишь этот университет?",
-    "en": "When will you graduate from this university?"
-  },
-  {
-    "_id": 85,
-    "ru": "Кто сможет сделать это?",
-    "en": "Who will be able to do it?"
-  },
-  {
-    "_id": 86,
-    "ru": "Сколько денег мне нужно будет потратить на это?",
-    "en": "How much money will I need to spend on it?"
-  },
-  {
-    "_id": 87,
-    "ru": "Сколько гостей придут на вечеринку?",
-    "en": "How many guests will come to the party?"
-  },
-  {
-    "_id": 88,
-    "ru": "Сколько он заплатит за новый дом?",
-    "en": "How much will he pay for a new house?"
-  },
-  {
-    "_id": 89,
-    "ru": "Сколько будет стоить жить в этом городе?",
-    "en": "How much will it cost to live in this city?"
-  },
-  {
-    "_id": 90,
-    "ru": "Во сколько закончится фильм?",
-    "en": "What time will the movie end?"
-  },
-  {
-    "_id": 91,
-    "ru": "Какого рода фильмы ты будешь смотреть?",
-    "en": "What kind of movies will you watch?"
-  },
-  {
-    "_id": 92,
-    "ru": "Когда ты подтвердишь дату нашей встречи?",
-    "en": "When will you confirm the date of our meeting?"
-  },
-  {
-    "_id": 93,
-    "ru": "Сколько будет стоить арендовать этот автомобиль?",
-    "en": "How much will it be to rent this car?"
-  },
-  {
-    "_id": 94,
-    "ru": "Что будет необходимо сделать?",
-    "en": "What will be necessary to do?"
-  },
-  {
-    "_id": 95,
-    "ru": "Во сколько закончится урок?",
-    "en": "What time will the class end?"
-  },
-  {
-    "_id": 96,
-    "ru": "Почему они разведутся?",
-    "en": "Why will they get divorced?"
+    "id": 1,
+    "ru": {
+      "text": "Что ты увидишь там?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you see there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Когда ты подтвердишь нашу встречу?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you confirm our meeting?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Почему он будет чувствовать себя там так неудобно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why will he feel so uncomfortable there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Когда мы встретимся в аэропорту?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will we meet at the airport?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Сколько продлится один урок английского?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long will one English lesson last?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Когда начнется встреча?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will the meeting begin?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Когда она выйдет за него замуж?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will she marry him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Почему ты будешь чувствовать себя там очень неудобно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why will you feel very uncomfortable there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Почему это случится с ними?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why will it happen to them?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Где мы встретимся с ним?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where will we meet him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Когда она вернется?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will she come back?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Какой у тебя будет новый номер телефона?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will your new phone number be?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Когда начнутся экзамены?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will the exams start?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Где он будет завтра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where will he be tomorrow?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Когда ты придешь на работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you come to work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Когда ты уйдешь из дома?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you leave home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Когда ты увидишь его в следующий раз?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you see him next time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Когда начнется конференция?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will the conference begin?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Что ты там увидишь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you see there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Почему они будут жить отдельно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why will they live separately?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Когда ты подтвердишь нашу встречу?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you confirm our meeting?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Как ты будешь работать в этих условиях?",
+      "audio": false
+    },
+    "en": {
+      "text": "How will you work in these conditions?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Когда начнется экзамен?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will the exam start?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Когда вы поженитесь?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you get married?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Когда он закончит школу?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will he finish school?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Как долго это будет?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long will it be?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Какие города ты посетишь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What cities will you visit?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Куда ты пойдешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where will you go?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Как долго ты там будешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long will you be there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Как ты будешь проводить свое свободное время?",
+      "audio": false
+    },
+    "en": {
+      "text": "How will you spend your free time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Как часто ты будешь пользоваться этим приложением?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often will you use this application?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Что ты будешь делать в этой ситуации?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you do in this situation?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Что ты скажешь своим родителям?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you tell your parents?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Сколько денег будет достаточно?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much money will be enough?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Что ты будешь делать в этом случае?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you do in this case?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Кто тебя там увидит?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will see you there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Когда ты пойдешь спать?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you go to bed?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Во сколько ты мне перезвонишь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time will you call me back?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Сколько ты за это заплатишь?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much will you pay for it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Какой у него будет новый адрес?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will his new address be?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Во сколько ты завтра встанешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time will you get up tomorrow?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Когда он женится на ней?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will he marry her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Сколько будет стоить учиться в Соединенных Штатах?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much will it cost to study in the United States?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Почему это будет лучшим решением этой проблемы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why will it be the best solution to this problem?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Сколько будет стоить арендовать такого рода машину?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much will it be to rent this kind of car?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Почему это будет полная трата времени?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why will it be a complete waste of time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Кого ты пригласишь на свой день рождения?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will you invite to your birthday party?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Где я смогу купить это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where will I be able to buy it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Сколько будет стоить арендовать эту квартиру?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much will it be to rent this apartment?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Когда это будет возможно сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will it be possible to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Когда он разведется?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will he get divorced?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Сколько ты заплатишь за новую квартиру?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much will you pay for a new apartment?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Насколько полезным будет урок?",
+      "audio": false
+    },
+    "en": {
+      "text": "How useful will the lesson be?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Сколько будет стоить арендовать дом?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much will it cost to rent a house?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Сколько денег мне нужно будет взять с собой?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much money will I need to take with me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Что ты будешь делать, чтобы улучшить свою речь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you do to improve your speaking?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Когда она улучшит свое произношение?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will she improve her pronunciation?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Когда закончится урок?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will the lesson finish?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Когда эти уроки закончатся?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will these lessons finish?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Когда начнется урок?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will the lesson start?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Как ты сможешь это сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "How will you be able to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Как она сможет это сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "How will she be able to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Когда они смогут это сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will they be able to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Насколько эффективным будет курс?",
+      "audio": false
+    },
+    "en": {
+      "text": "How effective will the course be?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Насколько эффективными будут курсы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How effective will the courses be?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Насколько эффективным будет тот курс?",
+      "audio": false
+    },
+    "en": {
+      "text": "How effective will that course be?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Сколько будет стоить учиться за границей?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much will it cost to study abroad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Сколько будет стоить поехать за границу?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much will it cost to go abroad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Когда он подтвердит время нашей встречи?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will he confirm the time of our meeting?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Когда они подтвердят время этой встречи?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will they confirm the time of this meeting?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Когда она подтвердит нашу встречу?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will she confirm our meeting?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Насколько интересной будет книга?",
+      "audio": false
+    },
+    "en": {
+      "text": "How interesting will the book be?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Насколько дорогой будет эта книга?",
+      "audio": false
+    },
+    "en": {
+      "text": "How expensive will this book be?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Насколько интересным будет фильм?",
+      "audio": false
+    },
+    "en": {
+      "text": "How interesting will the movie be?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Что будет необходимо исправить?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will be necessary to correct?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Что будет необходимо изменить?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will be necessary to change?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Что будет необходимо улучшить?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will be necessary to improve?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Какого рода книги ты будешь читать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What kind of books will you read?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Какого рода книги ты будешь покупать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What kind of books will you buy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Какую книгу ты будешь читать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What book will you read?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Во сколько закончатся занятия?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time will the classes end?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Когда закончатся занятия?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will the classes end?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Во сколько начнется урок?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time will the lesson start?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Когда ты закончишь этот университет?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you graduate from this university?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Кто сможет сделать это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will be able to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Сколько денег мне нужно будет потратить на это?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much money will I need to spend on it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Сколько гостей придут на вечеринку?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many guests will come to the party?",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Сколько он заплатит за новый дом?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much will he pay for a new house?",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Сколько будет стоить жить в этом городе?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much will it cost to live in this city?",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Во сколько закончится фильм?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time will the movie end?",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Какого рода фильмы ты будешь смотреть?",
+      "audio": false
+    },
+    "en": {
+      "text": "What kind of movies will you watch?",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Когда ты подтвердишь дату нашей встречи?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you confirm the date of our meeting?",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Сколько будет стоить арендовать этот автомобиль?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much will it be to rent this car?",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Что будет необходимо сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will be necessary to do?",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Во сколько закончится урок?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time will the class end?",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Почему они разведутся?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why will they get divorced?",
+      "audio": false
+    }
   }
 ]

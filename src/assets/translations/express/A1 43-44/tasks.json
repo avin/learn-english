@@ -1,167 +1,365 @@
 [
   {
-    "_id": 1,
-    "ru": "Это происходит каждый день",
-    "en": "It happens every day"
+    "id": 1,
+    "ru": {
+      "text": "Это происходит каждый день",
+      "audio": false
+    },
+    "en": {
+      "text": "It happens every day",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Ты всегда говоришь это",
-    "en": "You always say it"
+    "id": 2,
+    "ru": {
+      "text": "Ты всегда говоришь это",
+      "audio": false
+    },
+    "en": {
+      "text": "You always say it",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Я редко встречаю с ним",
-    "en": "I rarely meet him"
+    "id": 3,
+    "ru": {
+      "text": "Я редко встречаю с ним",
+      "audio": false
+    },
+    "en": {
+      "text": "I rarely meet him",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я думаю об этом время от времени",
-    "en": "I think about it from time to time"
+    "id": 4,
+    "ru": {
+      "text": "Я думаю об этом время от времени",
+      "audio": false
+    },
+    "en": {
+      "text": "I think about it from time to time",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я обычно провожу время со своими друзьями на выходных",
-    "en": "I usually spend time with my friends at the weekend"
+    "id": 5,
+    "ru": {
+      "text": "Я обычно провожу время со своими друзьями на выходных",
+      "audio": false
+    },
+    "en": {
+      "text": "I usually spend time with my friends at the weekend",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Мы в основном всё обсуждаем на работе",
-    "en": "We mostly discuss everything at work"
+    "id": 6,
+    "ru": {
+      "text": "Мы в основном всё обсуждаем на работе",
+      "audio": false
+    },
+    "en": {
+      "text": "We mostly discuss everything at work",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я часто обращаю внимание на это",
-    "en": "I often pay attention to it"
+    "id": 7,
+    "ru": {
+      "text": "Я часто обращаю внимание на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I often pay attention to it",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я хожу в этот клуб два раза в неделю",
-    "en": "I go to this club two times a week"
+    "id": 8,
+    "ru": {
+      "text": "Я хожу в этот клуб два раза в неделю",
+      "audio": false
+    },
+    "en": {
+      "text": "I go to this club two times a week",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Они публикуют эти новости ежедневно",
-    "en": "They publish this news daily"
+    "id": 9,
+    "ru": {
+      "text": "Они публикуют эти новости ежедневно",
+      "audio": false
+    },
+    "en": {
+      "text": "They publish this news daily",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Они встречаются по воскресеньям",
-    "en": "They meet on Sundays"
+    "id": 10,
+    "ru": {
+      "text": "Они встречаются по воскресеньям",
+      "audio": false
+    },
+    "en": {
+      "text": "They meet on Sundays",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Он ходит в спортзал два или три раза в неделю",
-    "en": "He goes two the gym two or three times a week"
+    "id": 11,
+    "ru": {
+      "text": "Он ходит в спортзал два или три раза в неделю",
+      "audio": false
+    },
+    "en": {
+      "text": "He goes two the gym two or three times a week",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я вижу, что это происходит снова и снова",
-    "en": "I see that it happens again and again"
+    "id": 12,
+    "ru": {
+      "text": "Я вижу, что это происходит снова и снова",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that it happens again and again",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я предпочитаю проводить время с семьей по выходным",
-    "en": "I prefer to spend time with my family at the weekend"
+    "id": 13,
+    "ru": {
+      "text": "Я предпочитаю проводить время с семьей по выходным",
+      "audio": false
+    },
+    "en": {
+      "text": "I prefer to spend time with my family at the weekend",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Он старается ездить за границу каждый год",
-    "en": "He tries to go abroad every year"
+    "id": 14,
+    "ru": {
+      "text": "Он старается ездить за границу каждый год",
+      "audio": false
+    },
+    "en": {
+      "text": "He tries to go abroad every year",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я никогда не делаю это",
-    "en": "I never do it"
+    "id": 15,
+    "ru": {
+      "text": "Я никогда не делаю это",
+      "audio": false
+    },
+    "en": {
+      "text": "I never do it",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Он жалуется очень редко",
-    "en": "He complains very rarely"
+    "id": 16,
+    "ru": {
+      "text": "Он жалуется очень редко",
+      "audio": false
+    },
+    "en": {
+      "text": "He complains very rarely",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я обычно заказываю такие вещи онлайн",
-    "en": "I usually order such things online"
+    "id": 17,
+    "ru": {
+      "text": "Я обычно заказываю такие вещи онлайн",
+      "audio": false
+    },
+    "en": {
+      "text": "I usually order such things online",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Я в основном стараюсь не обращать внимания на такие вещи",
-    "en": "I mostly try not to pay attention to such things"
+    "id": 18,
+    "ru": {
+      "text": "Я в основном стараюсь не обращать внимания на такие вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "I mostly try not to pay attention to such things",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Я стараюсь делать это, когда у меня есть свободное время",
-    "en": "I try to do it when I have free time"
+    "id": 19,
+    "ru": {
+      "text": "Я стараюсь делать это, когда у меня есть свободное время",
+      "audio": false
+    },
+    "en": {
+      "text": "I try to do it when I have free time",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Он приходит к нам дважды в неделю",
-    "en": "He comes to us twice a week"
+    "id": 20,
+    "ru": {
+      "text": "Он приходит к нам дважды в неделю",
+      "audio": false
+    },
+    "en": {
+      "text": "He comes to us twice a week",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Я работаю по понедельникам",
-    "en": "I work on Mondays"
+    "id": 21,
+    "ru": {
+      "text": "Я работаю по понедельникам",
+      "audio": false
+    },
+    "en": {
+      "text": "I work on Mondays",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Я редко покупаю такого рода вещи",
-    "en": "I rarely buy this kind of thing"
+    "id": 22,
+    "ru": {
+      "text": "Я редко покупаю такого рода вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "I rarely buy this kind of thing",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Я часто слышу такие вещи",
-    "en": "I often hear such things"
+    "id": 23,
+    "ru": {
+      "text": "Я часто слышу такие вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "I often hear such things",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Я пользуюсь словарем очень редко",
-    "en": "I use a dictionary very rarely"
+    "id": 24,
+    "ru": {
+      "text": "Я пользуюсь словарем очень редко",
+      "audio": false
+    },
+    "en": {
+      "text": "I use a dictionary very rarely",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Я иногда думаю об этом",
-    "en": "I sometimes think about it"
+    "id": 25,
+    "ru": {
+      "text": "Я иногда думаю об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I sometimes think about it",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Я в основном пользуюсь этим приложением",
-    "en": "I mostly use this application"
+    "id": 26,
+    "ru": {
+      "text": "Я в основном пользуюсь этим приложением",
+      "audio": false
+    },
+    "en": {
+      "text": "I mostly use this application",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Я хожу туда три раза в неделю",
-    "en": "I go there three times a week"
+    "id": 27,
+    "ru": {
+      "text": "Я хожу туда три раза в неделю",
+      "audio": false
+    },
+    "en": {
+      "text": "I go there three times a week",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Я смотрю телевизор очень редко",
-    "en": "I watch TV very rarely"
+    "id": 28,
+    "ru": {
+      "text": "Я смотрю телевизор очень редко",
+      "audio": false
+    },
+    "en": {
+      "text": "I watch TV very rarely",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Он никогда не замечает этого",
-    "en": "He never notices it"
+    "id": 29,
+    "ru": {
+      "text": "Он никогда не замечает этого",
+      "audio": false
+    },
+    "en": {
+      "text": "He never notices it",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Я никогда не обращаю внимание на это",
-    "en": "I never pay attention to it"
+    "id": 30,
+    "ru": {
+      "text": "Я никогда не обращаю внимание на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I never pay attention to it",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Она часто жалуется",
-    "en": "She often complains"
+    "id": 31,
+    "ru": {
+      "text": "Она часто жалуется",
+      "audio": false
+    },
+    "en": {
+      "text": "She often complains",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Она никогда не замечает такого рода вещи",
-    "en": "She never notices this kind of thing"
+    "id": 32,
+    "ru": {
+      "text": "Она никогда не замечает такого рода вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "She never notices this kind of thing",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Мы в основном встречаемся по вечерам",
-    "en": "We mostly meet in the evenings"
+    "id": 33,
+    "ru": {
+      "text": "Мы в основном встречаемся по вечерам",
+      "audio": false
+    },
+    "en": {
+      "text": "We mostly meet in the evenings",
+      "audio": false
+    }
   }
 ]

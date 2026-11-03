@@ -1,107 +1,233 @@
 [
   {
-    "_id": 1,
-    "ru": "Моя мечта - это посетить эту страну однажды",
-    "en": "My dream is to visit this country one day"
+    "id": 1,
+    "ru": {
+      "text": "Моя мечта - это посетить эту страну однажды",
+      "audio": false
+    },
+    "en": {
+      "text": "My dream is to visit this country one day",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Он не был согласен с этим утверждением",
-    "en": "He disagreed with this statement"
+    "id": 2,
+    "ru": {
+      "text": "Он не был согласен с этим утверждением",
+      "audio": false
+    },
+    "en": {
+      "text": "He disagreed with this statement",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Ключи еще не нашлись",
-    "en": "The keys haven't been found yet"
+    "id": 3,
+    "ru": {
+      "text": "Ключи еще не нашлись",
+      "audio": false
+    },
+    "en": {
+      "text": "The keys haven't been found yet",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Ожидается, что эти проблемы будут скоро решены",
-    "en": "It's expected that these problems will be solved soon"
+    "id": 4,
+    "ru": {
+      "text": "Ожидается, что эти проблемы будут скоро решены",
+      "audio": false
+    },
+    "en": {
+      "text": "It's expected that these problems will be solved soon",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Мы увидели, что магазин закрыт",
-    "en": "We saw that the shop was closed"
+    "id": 5,
+    "ru": {
+      "text": "Мы увидели, что магазин закрыт",
+      "audio": false
+    },
+    "en": {
+      "text": "We saw that the shop was closed",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Кому принадлежит этот дом?",
-    "en": "Who does this house belong to?"
+    "id": 6,
+    "ru": {
+      "text": "Кому принадлежит этот дом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who does this house belong to?",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Все объяснили очень четко",
-    "en": "Everything was explained very clearly"
+    "id": 7,
+    "ru": {
+      "text": "Все объяснили очень четко",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything was explained very clearly",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я сделаю это, если ты не возражаешь",
-    "en": "I'll do it if you don't mind"
+    "id": 8,
+    "ru": {
+      "text": "Я сделаю это, если ты не возражаешь",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll do it if you don't mind",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Об этом упоминалось в предыдущем видео",
-    "en": "It was mentioned in the previous video"
+    "id": 9,
+    "ru": {
+      "text": "Об этом упоминалось в предыдущем видео",
+      "audio": false
+    },
+    "en": {
+      "text": "It was mentioned in the previous video",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Это только что было продано",
-    "en": "It has just been sold"
+    "id": 10,
+    "ru": {
+      "text": "Это только что было продано",
+      "audio": false
+    },
+    "en": {
+      "text": "It has just been sold",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я прослушаю эту запись к завтрашнему дню",
-    "en": "I will have listened to this recording by tomorrow"
+    "id": 11,
+    "ru": {
+      "text": "Я прослушаю эту запись к завтрашнему дню",
+      "audio": false
+    },
+    "en": {
+      "text": "I will have listened to this recording by tomorrow",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Он сказал, что деньги никогда не мотивировали его",
-    "en": "He said that money had never motivated him"
+    "id": 12,
+    "ru": {
+      "text": "Он сказал, что деньги никогда не мотивировали его",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that money had never motivated him",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Такие меры привели компанию к банкротству",
-    "en": "Such measures led the company to bankruptcy"
+    "id": 13,
+    "ru": {
+      "text": "Такие меры привели компанию к банкротству",
+      "audio": false
+    },
+    "en": {
+      "text": "Such measures led the company to bankruptcy",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я все еще рассматриваю это предложение",
-    "en": "I'm still considering this offer"
+    "id": 14,
+    "ru": {
+      "text": "Я все еще рассматриваю это предложение",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm still considering this offer",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Было не так легко поднять ту сумку",
-    "en": "It wasn't so easy to lift that bag"
+    "id": 15,
+    "ru": {
+      "text": "Было не так легко поднять ту сумку",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't so easy to lift that bag",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Если честно, у меня никогда не было такого рода опыта",
-    "en": "To be honest, I've never had this kind of experience"
+    "id": 16,
+    "ru": {
+      "text": "Если честно, у меня никогда не было такого рода опыта",
+      "audio": false
+    },
+    "en": {
+      "text": "To be honest, I've never had this kind of experience",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Конфликт был разрешен успешно",
-    "en": "The conflict was resolved successfully"
+    "id": 17,
+    "ru": {
+      "text": "Конфликт был разрешен успешно",
+      "audio": false
+    },
+    "en": {
+      "text": "The conflict was resolved successfully",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Книга была опубликована в этом году",
-    "en": "The book has been published this year"
+    "id": 18,
+    "ru": {
+      "text": "Книга была опубликована в этом году",
+      "audio": false
+    },
+    "en": {
+      "text": "The book has been published this year",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Их новый альбом будет выпущен в этом году",
-    "en": "Their new album will be released this year"
+    "id": 19,
+    "ru": {
+      "text": "Их новый альбом будет выпущен в этом году",
+      "audio": false
+    },
+    "en": {
+      "text": "Their new album will be released this year",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Это возможно изменит твою точку зрения",
-    "en": "It might change your point of view"
+    "id": 20,
+    "ru": {
+      "text": "Это возможно изменит твою точку зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "It might change your point of view",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Они соревнуются друг с другом очень долго",
-    "en": "They have been competing with each other for a very long time"
+    "id": 21,
+    "ru": {
+      "text": "Они соревнуются друг с другом очень долго",
+      "audio": false
+    },
+    "en": {
+      "text": "They have been competing with each other for a very long time",
+      "audio": false
+    }
   }
 ]

@@ -1,452 +1,992 @@
 [
   {
-    "_id": 1,
-    "ru": "Я проснулся очень поздно",
-    "en": "I woke up very late"
-  },
-  {
-    "_id": 2,
-    "ru": "Я встал в восемь часов утра",
-    "en": "I got up at eight o'clock in the morning"
-  },
-  {
-    "_id": 3,
-    "ru": "Я взял деньги с собой",
-    "en": "I took money with me"
-  },
-  {
-    "_id": 4,
-    "ru": "Это стоило слишком много",
-    "en": "It cost too much"
-  },
-  {
-    "_id": 5,
-    "ru": "Я выиграл в том чемпионате",
-    "en": "I won that championship"
-  },
-  {
-    "_id": 6,
-    "ru": "Это стоило много",
-    "en": "It cost a lot"
-  },
-  {
-    "_id": 7,
-    "ru": "Когда этот урок начался?",
-    "en": "When did this lesson begin?"
-  },
-  {
-    "_id": 8,
-    "ru": "Он заплатил за нее",
-    "en": "He paid for her"
-  },
-  {
-    "_id": 9,
-    "ru": "Я не знал этого слова",
-    "en": "I didn't know this word"
-  },
-  {
-    "_id": 10,
-    "ru": "Я выиграл в этом соревновании",
-    "en": "I won this competition"
-  },
-  {
-    "_id": 11,
-    "ru": "Что это означало?",
-    "en": "What did it mean?"
-  },
-  {
-    "_id": 12,
-    "ru": "Это стоило слишком мало",
-    "en": "It cost too little"
-  },
-  {
-    "_id": 13,
-    "ru": "Я пошел на работу",
-    "en": "I went to work"
-  },
-  {
-    "_id": 14,
-    "ru": "Он часто ходил в кино",
-    "en": "He often went to the cinema"
-  },
-  {
-    "_id": 15,
-    "ru": "Что ты имел в виду?",
-    "en": "What did you mean?"
-  },
-  {
-    "_id": 16,
-    "ru": "Они построили мост",
-    "en": "They built a bridge"
-  },
-  {
-    "_id": 17,
-    "ru": "Ты выиграл в том конкурсе?",
-    "en": "Did you win in that competition?"
-  },
-  {
-    "_id": 18,
-    "ru": "Этот бумажник стоил очень мало",
-    "en": "This wallet cost very little"
-  },
-  {
-    "_id": 19,
-    "ru": "Я взял эти деньги",
-    "en": "I took this money"
-  },
-  {
-    "_id": 20,
-    "ru": "Мы выиграли в этом чемпионате",
-    "en": "We won in this championship"
-  },
-  {
-    "_id": 21,
-    "ru": "Я нашел свои ключи",
-    "en": "I found my keys"
-  },
-  {
-    "_id": 22,
-    "ru": "Я знал это очень хорошо",
-    "en": "I knew it very well"
-  },
-  {
-    "_id": 23,
-    "ru": "Они пошли в школу",
-    "en": "They went to school"
-  },
-  {
-    "_id": 24,
-    "ru": "Это стоило так много",
-    "en": "It cost so much"
-  },
-  {
-    "_id": 25,
-    "ru": "Извини, я не понял тебя",
-    "en": "Sorry, I didn't understand you"
-  },
-  {
-    "_id": 26,
-    "ru": "Она потеряла свою сумку",
-    "en": "She lost her bag"
-  },
-  {
-    "_id": 27,
-    "ru": "Извини, я не понял этого",
-    "en": "Sorry, I didn't understand it"
-  },
-  {
-    "_id": 28,
-    "ru": "Я не знал эту фразу",
-    "en": "I didn't know this phrase"
-  },
-  {
-    "_id": 29,
-    "ru": "Он пошел в университет",
-    "en": "He went to university"
-  },
-  {
-    "_id": 30,
-    "ru": "Я нашел свою сумку",
-    "en": "I found my bag"
-  },
-  {
-    "_id": 31,
-    "ru": "Я не понял это предложение",
-    "en": "I didn't understand this sentence"
-  },
-  {
-    "_id": 32,
-    "ru": "Во сколько ты вчера встал?",
-    "en": "What time did you get up yesterday?"
-  },
-  {
-    "_id": 33,
-    "ru": "Этот урок начался",
-    "en": "This lesson began"
-  },
-  {
-    "_id": 34,
-    "ru": "Он поехал в Индию",
-    "en": "He went to India"
-  },
-  {
-    "_id": 35,
-    "ru": "Я поехал в Соединенное Королевство",
-    "en": "I went to the United Kingdom"
-  },
-  {
-    "_id": 36,
-    "ru": "Они построили дом",
-    "en": "They built a house"
-  },
-  {
-    "_id": 37,
-    "ru": "Я пошел домой после работы",
-    "en": "I went home after work"
-  },
-  {
-    "_id": 38,
-    "ru": "Ты видел ее вчера?",
-    "en": "Did you see her yesterday?"
-  },
-  {
-    "_id": 39,
-    "ru": "Он потерял свой кошелек",
-    "en": "He lost his wallet"
-  },
-  {
-    "_id": 40,
-    "ru": "Они говорили очень тихо",
-    "en": "They spoke very quietly"
-  },
-  {
-    "_id": 41,
-    "ru": "Мой друг стал программистом",
-    "en": "My friend became a programmer"
-  },
-  {
-    "_id": 42,
-    "ru": "Я часто видел ее на работе",
-    "en": "I often saw her at work"
-  },
-  {
-    "_id": 43,
-    "ru": "Она стала юристом",
-    "en": "She became a lawyer"
-  },
-  {
-    "_id": 44,
-    "ru": "Во сколько ты проснулся вчера?",
-    "en": "What time did you wake up yesterday?"
-  },
-  {
-    "_id": 45,
-    "ru": "Я заплатил за эту услугу",
-    "en": "I paid for this service"
-  },
-  {
-    "_id": 46,
-    "ru": "Ты выбрал правильный ответ",
-    "en": "You chose the correct answer"
-  },
-  {
-    "_id": 47,
-    "ru": "Я думаю, он знал это лучше",
-    "en": "I think he knew it better"
-  },
-  {
-    "_id": 48,
-    "ru": "Он сказал это очень тихо",
-    "en": "He said it very quietly"
-  },
-  {
-    "_id": 49,
-    "ru": "Это означало другую вещь",
-    "en": "It meant another thing"
-  },
-  {
-    "_id": 50,
-    "ru": "Он говорил очень громко",
-    "en": "He spoke very loudly"
-  },
-  {
-    "_id": 51,
-    "ru": "Наш учитель сказал это очень громко",
-    "en": "Our teacher said it very loudly"
-  },
-  {
-    "_id": 52,
-    "ru": "Я не мог найти свои ключи",
-    "en": "I couldn't find my keys"
-  },
-  {
-    "_id": 53,
-    "ru": "Он не мог найти свои деньги",
-    "en": "He couldn't find his money"
-  },
-  {
-    "_id": 54,
-    "ru": "Она не могла найти свои ключи",
-    "en": "She couldn't find her keys"
-  },
-  {
-    "_id": 55,
-    "ru": "Я не знал, что выбрать",
-    "en": "I didn't know what to choose"
-  },
-  {
-    "_id": 56,
-    "ru": "Ты не знал, что ответить",
-    "en": "You didn't know what to answer"
-  },
-  {
-    "_id": 57,
-    "ru": "Мы не знали, что выбрать",
-    "en": "We didn't know what to choose"
-  },
-  {
-    "_id": 58,
-    "ru": "Я проснулся вчера поздно",
-    "en": "I woke up too late yesterday"
-  },
-  {
-    "_id": 59,
-    "ru": "Она встала очень поздно",
-    "en": "She got up very late"
-  },
-  {
-    "_id": 60,
-    "ru": "Ты проснулся вчера поздно",
-    "en": "You woke up late yesterday"
-  },
-  {
-    "_id": 61,
-    "ru": "Его мама заплатила за машину",
-    "en": "His mother paid for the car"
-  },
-  {
-    "_id": 62,
-    "ru": "Он хотел стать юристом",
-    "en": "He wanted to become a lawyer"
-  },
-  {
-    "_id": 63,
-    "ru": "Я хотел стать врачом",
-    "en": "I wanted to become a doctor"
-  },
-  {
-    "_id": 64,
-    "ru": "Я проснулся слишком рано",
-    "en": "I woke up too early"
-  },
-  {
-    "_id": 65,
-    "ru": "Она проснулась так рано",
-    "en": "She woke up so early"
-  },
-  {
-    "_id": 66,
-    "ru": "Он проснулся слишком рано",
-    "en": "He woke up too early"
-  },
-  {
-    "_id": 67,
-    "ru": "Я знал, что делать",
-    "en": "I knew what to do"
-  },
-  {
-    "_id": 68,
-    "ru": "Я знал, что сказать",
-    "en": "I knew what to say"
-  },
-  {
-    "_id": 69,
-    "ru": "Мы не знали, что сказать",
-    "en": "We didn't know what to say"
-  },
-  {
-    "_id": 70,
-    "ru": "Я не выбрал другой ответ",
-    "en": "I didn't choose another answer"
-  },
-  {
-    "_id": 71,
-    "ru": "Я выбрал другой ответ",
-    "en": "I chose another answer"
-  },
-  {
-    "_id": 72,
-    "ru": "Мы выбрали другой отель",
-    "en": "We chose another hotel"
-  },
-  {
-    "_id": 73,
-    "ru": "Я не смог найти свою сумку",
-    "en": "I couldn't find my bag"
-  },
-  {
-    "_id": 74,
-    "ru": "Он не мог найти свою машину",
-    "en": "He couldn't find his car"
-  },
-  {
-    "_id": 75,
-    "ru": "Она не могла найти твою сумку",
-    "en": "She couldn't find your bag"
-  },
-  {
-    "_id": 76,
-    "ru": "Ты заплатил за это?",
-    "en": "Did you pay for it?"
-  },
-  {
-    "_id": 77,
-    "ru": "Он заплатил за то?",
-    "en": "Did he pay for that?"
-  },
-  {
-    "_id": 78,
-    "ru": "Мы заплатили за эту еду?",
-    "en": "Did we pay for this food?"
-  },
-  {
-    "_id": 79,
-    "ru": "Я не мог этого понять",
-    "en": "I couldn't understand it"
-  },
-  {
-    "_id": 80,
-    "ru": "Она преподавала математику",
-    "en": "She taught mathematics"
-  },
-  {
-    "_id": 81,
-    "ru": "Ты понял это правило?",
-    "en": "Did you understand this rule?"
-  },
-  {
-    "_id": 82,
-    "ru": "Я выбрал правильный ответ",
-    "en": "I chose the right answer"
-  },
-  {
-    "_id": 83,
-    "ru": "Она стала учителем",
-    "en": "She became a teacher"
-  },
-  {
-    "_id": 84,
-    "ru": "Он стал певцом",
-    "en": "He became a singer"
-  },
-  {
-    "_id": 85,
-    "ru": "Я решил заплатить за это позже",
-    "en": "I decided to pay for it later"
-  },
-  {
-    "_id": 86,
-    "ru": "Мы выбрали третий ответ",
-    "en": "We chose the third answer"
-  },
-  {
-    "_id": 87,
-    "ru": "Она стала актрисой",
-    "en": "She became an actress"
-  },
-  {
-    "_id": 88,
-    "ru": "Я выбрал второй ответ",
-    "en": "I chose the second answer"
-  },
-  {
-    "_id": 89,
-    "ru": "Он выбрал неверный ответ",
-    "en": "He chose the wrong answer"
-  },
-  {
-    "_id": 90,
-    "ru": "Я не заплатил за свою учебу",
-    "en": "I didn't pay for my studies"
+    "id": 1,
+    "ru": {
+      "text": "Я проснулся очень поздно",
+      "audio": false
+    },
+    "en": {
+      "text": "I woke up very late",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я встал в восемь часов утра",
+      "audio": false
+    },
+    "en": {
+      "text": "I got up at eight o'clock in the morning",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я взял деньги с собой",
+      "audio": false
+    },
+    "en": {
+      "text": "I took money with me",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Это стоило слишком много",
+      "audio": false
+    },
+    "en": {
+      "text": "It cost too much",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я выиграл в том чемпионате",
+      "audio": false
+    },
+    "en": {
+      "text": "I won that championship",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Это стоило много",
+      "audio": false
+    },
+    "en": {
+      "text": "It cost a lot",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Когда этот урок начался?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did this lesson begin?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Он заплатил за нее",
+      "audio": false
+    },
+    "en": {
+      "text": "He paid for her",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я не знал этого слова",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't know this word",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я выиграл в этом соревновании",
+      "audio": false
+    },
+    "en": {
+      "text": "I won this competition",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Что это означало?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did it mean?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Это стоило слишком мало",
+      "audio": false
+    },
+    "en": {
+      "text": "It cost too little",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Я пошел на работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I went to work",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Он часто ходил в кино",
+      "audio": false
+    },
+    "en": {
+      "text": "He often went to the cinema",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Что ты имел в виду?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you mean?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Они построили мост",
+      "audio": false
+    },
+    "en": {
+      "text": "They built a bridge",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Ты выиграл в том конкурсе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you win in that competition?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Этот бумажник стоил очень мало",
+      "audio": false
+    },
+    "en": {
+      "text": "This wallet cost very little",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я взял эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "I took this money",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Мы выиграли в этом чемпионате",
+      "audio": false
+    },
+    "en": {
+      "text": "We won in this championship",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Я нашел свои ключи",
+      "audio": false
+    },
+    "en": {
+      "text": "I found my keys",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Я знал это очень хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "I knew it very well",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Они пошли в школу",
+      "audio": false
+    },
+    "en": {
+      "text": "They went to school",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Это стоило так много",
+      "audio": false
+    },
+    "en": {
+      "text": "It cost so much",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Извини, я не понял тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "Sorry, I didn't understand you",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Она потеряла свою сумку",
+      "audio": false
+    },
+    "en": {
+      "text": "She lost her bag",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Извини, я не понял этого",
+      "audio": false
+    },
+    "en": {
+      "text": "Sorry, I didn't understand it",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Я не знал эту фразу",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't know this phrase",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Он пошел в университет",
+      "audio": false
+    },
+    "en": {
+      "text": "He went to university",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я нашел свою сумку",
+      "audio": false
+    },
+    "en": {
+      "text": "I found my bag",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Я не понял это предложение",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't understand this sentence",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Во сколько ты вчера встал?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time did you get up yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Этот урок начался",
+      "audio": false
+    },
+    "en": {
+      "text": "This lesson began",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он поехал в Индию",
+      "audio": false
+    },
+    "en": {
+      "text": "He went to India",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я поехал в Соединенное Королевство",
+      "audio": false
+    },
+    "en": {
+      "text": "I went to the United Kingdom",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Они построили дом",
+      "audio": false
+    },
+    "en": {
+      "text": "They built a house",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я пошел домой после работы",
+      "audio": false
+    },
+    "en": {
+      "text": "I went home after work",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Ты видел ее вчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you see her yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Он потерял свой кошелек",
+      "audio": false
+    },
+    "en": {
+      "text": "He lost his wallet",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Они говорили очень тихо",
+      "audio": false
+    },
+    "en": {
+      "text": "They spoke very quietly",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Мой друг стал программистом",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend became a programmer",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я часто видел ее на работе",
+      "audio": false
+    },
+    "en": {
+      "text": "I often saw her at work",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Она стала юристом",
+      "audio": false
+    },
+    "en": {
+      "text": "She became a lawyer",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Во сколько ты проснулся вчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time did you wake up yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я заплатил за эту услугу",
+      "audio": false
+    },
+    "en": {
+      "text": "I paid for this service",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Ты выбрал правильный ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "You chose the correct answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я думаю, он знал это лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he knew it better",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Он сказал это очень тихо",
+      "audio": false
+    },
+    "en": {
+      "text": "He said it very quietly",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Это означало другую вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "It meant another thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он говорил очень громко",
+      "audio": false
+    },
+    "en": {
+      "text": "He spoke very loudly",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Наш учитель сказал это очень громко",
+      "audio": false
+    },
+    "en": {
+      "text": "Our teacher said it very loudly",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я не мог найти свои ключи",
+      "audio": false
+    },
+    "en": {
+      "text": "I couldn't find my keys",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Он не мог найти свои деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "He couldn't find his money",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Она не могла найти свои ключи",
+      "audio": false
+    },
+    "en": {
+      "text": "She couldn't find her keys",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я не знал, что выбрать",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't know what to choose",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Ты не знал, что ответить",
+      "audio": false
+    },
+    "en": {
+      "text": "You didn't know what to answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Мы не знали, что выбрать",
+      "audio": false
+    },
+    "en": {
+      "text": "We didn't know what to choose",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я проснулся вчера поздно",
+      "audio": false
+    },
+    "en": {
+      "text": "I woke up too late yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Она встала очень поздно",
+      "audio": false
+    },
+    "en": {
+      "text": "She got up very late",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Ты проснулся вчера поздно",
+      "audio": false
+    },
+    "en": {
+      "text": "You woke up late yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Его мама заплатила за машину",
+      "audio": false
+    },
+    "en": {
+      "text": "His mother paid for the car",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Он хотел стать юристом",
+      "audio": false
+    },
+    "en": {
+      "text": "He wanted to become a lawyer",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я хотел стать врачом",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to become a doctor",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я проснулся слишком рано",
+      "audio": false
+    },
+    "en": {
+      "text": "I woke up too early",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Она проснулась так рано",
+      "audio": false
+    },
+    "en": {
+      "text": "She woke up so early",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Он проснулся слишком рано",
+      "audio": false
+    },
+    "en": {
+      "text": "He woke up too early",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я знал, что делать",
+      "audio": false
+    },
+    "en": {
+      "text": "I knew what to do",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я знал, что сказать",
+      "audio": false
+    },
+    "en": {
+      "text": "I knew what to say",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Мы не знали, что сказать",
+      "audio": false
+    },
+    "en": {
+      "text": "We didn't know what to say",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я не выбрал другой ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't choose another answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я выбрал другой ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I chose another answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Мы выбрали другой отель",
+      "audio": false
+    },
+    "en": {
+      "text": "We chose another hotel",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я не смог найти свою сумку",
+      "audio": false
+    },
+    "en": {
+      "text": "I couldn't find my bag",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Он не мог найти свою машину",
+      "audio": false
+    },
+    "en": {
+      "text": "He couldn't find his car",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Она не могла найти твою сумку",
+      "audio": false
+    },
+    "en": {
+      "text": "She couldn't find your bag",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Ты заплатил за это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you pay for it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Он заплатил за то?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did he pay for that?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Мы заплатили за эту еду?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did we pay for this food?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Я не мог этого понять",
+      "audio": false
+    },
+    "en": {
+      "text": "I couldn't understand it",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Она преподавала математику",
+      "audio": false
+    },
+    "en": {
+      "text": "She taught mathematics",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Ты понял это правило?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you understand this rule?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я выбрал правильный ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I chose the right answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Она стала учителем",
+      "audio": false
+    },
+    "en": {
+      "text": "She became a teacher",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Он стал певцом",
+      "audio": false
+    },
+    "en": {
+      "text": "He became a singer",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я решил заплатить за это позже",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to pay for it later",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Мы выбрали третий ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "We chose the third answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Она стала актрисой",
+      "audio": false
+    },
+    "en": {
+      "text": "She became an actress",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Я выбрал второй ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I chose the second answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Он выбрал неверный ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "He chose the wrong answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Я не заплатил за свою учебу",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't pay for my studies",
+      "audio": false
+    }
   }
 ]

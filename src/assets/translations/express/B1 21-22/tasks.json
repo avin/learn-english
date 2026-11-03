@@ -1,97 +1,211 @@
 [
   {
-    "_id": 1,
-    "ru": "Эта программа транслировалась в прямом эфире",
-    "en": "This program was broadcast live"
+    "id": 1,
+    "ru": {
+      "text": "Эта программа транслировалась в прямом эфире",
+      "audio": false
+    },
+    "en": {
+      "text": "This program was broadcast live",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Суп пахнет очень хорошо",
-    "en": "The soup smells very good"
+    "id": 2,
+    "ru": {
+      "text": "Суп пахнет очень хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "The soup smells very good",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "К счастью, бомба не взорвалась",
-    "en": "Luckily, the bomb didn't explode"
+    "id": 3,
+    "ru": {
+      "text": "К счастью, бомба не взорвалась",
+      "audio": false
+    },
+    "en": {
+      "text": "Luckily, the bomb didn't explode",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Это предложение звучит очень подозрительно сейчас",
-    "en": "This offer sounds very suspicious now"
+    "id": 4,
+    "ru": {
+      "text": "Это предложение звучит очень подозрительно сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "This offer sounds very suspicious now",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Мне всегда нравилось делать такого рода вещи",
-    "en": "I've always liked doing this kind of things"
+    "id": 5,
+    "ru": {
+      "text": "Мне всегда нравилось делать такого рода вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "I've always liked doing this kind of things",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Когда я его увидел, он что-то искал",
-    "en": "When I saw him, he was looking for something"
+    "id": 6,
+    "ru": {
+      "text": "Когда я его увидел, он что-то искал",
+      "audio": false
+    },
+    "en": {
+      "text": "When I saw him, he was looking for something",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Он сказал, что служил в армии",
-    "en": "He said that he had served in the army"
+    "id": 7,
+    "ru": {
+      "text": "Он сказал, что служил в армии",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had served in the army",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Эта работа будет завершена к следующему году",
-    "en": "This work will have been completed by next year"
+    "id": 8,
+    "ru": {
+      "text": "Эта работа будет завершена к следующему году",
+      "audio": false
+    },
+    "en": {
+      "text": "This work will have been completed by next year",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Как мне кажется, он знает, что делает сейчас",
-    "en": "As it seems to me, he knows what he's doing now"
+    "id": 9,
+    "ru": {
+      "text": "Как мне кажется, он знает, что делает сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "As it seems to me, he knows what he's doing now",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Мне посоветовали не делать этого",
-    "en": "I was advised not to do it"
+    "id": 10,
+    "ru": {
+      "text": "Мне посоветовали не делать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I was advised not to do it",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Мне нужно измерить размер комнаты",
-    "en": "I need to measure the size of the room"
+    "id": 11,
+    "ru": {
+      "text": "Мне нужно измерить размер комнаты",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to measure the size of the room",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Самолет еще не приземлился",
-    "en": "The plane hasn't landed yet"
+    "id": 12,
+    "ru": {
+      "text": "Самолет еще не приземлился",
+      "audio": false
+    },
+    "en": {
+      "text": "The plane hasn't landed yet",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Они только что предложили ему эту работу",
-    "en": "They've just offered him this job"
+    "id": 13,
+    "ru": {
+      "text": "Они только что предложили ему эту работу",
+      "audio": false
+    },
+    "en": {
+      "text": "They've just offered him this job",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Он шел домой, когда я встретил его",
-    "en": "He was going home when I met him"
+    "id": 14,
+    "ru": {
+      "text": "Он шел домой, когда я встретил его",
+      "audio": false
+    },
+    "en": {
+      "text": "He was going home when I met him",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Компания собирается удвоить свои продажи в этом году",
-    "en": "The company is going to double its sales this year"
+    "id": 15,
+    "ru": {
+      "text": "Компания собирается удвоить свои продажи в этом году",
+      "audio": false
+    },
+    "en": {
+      "text": "The company is going to double its sales this year",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Он сказал, что положил свою сумку на пол",
-    "en": "He said that he had laid his bag on the floor"
+    "id": 16,
+    "ru": {
+      "text": "Он сказал, что положил свою сумку на пол",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had laid his bag on the floor",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Это хранилось в маленьком контейнере",
-    "en": "It was stored in a small container"
+    "id": 17,
+    "ru": {
+      "text": "Это хранилось в маленьком контейнере",
+      "audio": false
+    },
+    "en": {
+      "text": "It was stored in a small container",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Она позвонила ему, когда он вел машину",
-    "en": "She called him when he was driving a car"
+    "id": 18,
+    "ru": {
+      "text": "Она позвонила ему, когда он вел машину",
+      "audio": false
+    },
+    "en": {
+      "text": "She called him when he was driving a car",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Я хотел бы подчеркнуть важность этого события",
-    "en": "I'd like to emphasize the importance of this event"
+    "id": 19,
+    "ru": {
+      "text": "Я хотел бы подчеркнуть важность этого события",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to emphasize the importance of this event",
+      "audio": false
+    }
   }
 ]

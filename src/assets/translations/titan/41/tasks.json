@@ -1,482 +1,1058 @@
 [
   {
-    "_id": 1,
-    "ru": "Это не было ошибкой",
-    "en": "It wasn't a mistake"
-  },
-  {
-    "_id": 2,
-    "ru": "Они не были бедными мальчиками",
-    "en": "They weren't poor boys"
-  },
-  {
-    "_id": 3,
-    "ru": "Я был там зимой",
-    "en": "I was there in winter"
-  },
-  {
-    "_id": 4,
-    "ru": "Это не было так легко",
-    "en": "It wasn't so easy"
-  },
-  {
-    "_id": 5,
-    "ru": "Я не был в банке",
-    "en": "I wasn't in a bank"
-  },
-  {
-    "_id": 6,
-    "ru": "Это не было так дешево",
-    "en": "It wasn't so cheap"
-  },
-  {
-    "_id": 7,
-    "ru": "Он не был бизнесменом",
-    "en": "He wasn't a businessman"
-  },
-  {
-    "_id": 8,
-    "ru": "Это не было дешево",
-    "en": "It wasn't cheap"
-  },
-  {
-    "_id": 9,
-    "ru": "Это не было правильно",
-    "en": "It wasn't right"
-  },
-  {
-    "_id": 10,
-    "ru": "Это не было в моей сумке",
-    "en": "It wasn't in my bag"
-  },
-  {
-    "_id": 11,
-    "ru": "Я не был одинок",
-    "en": "I wasn't alone"
-  },
-  {
-    "_id": 12,
-    "ru": "Он не был прав",
-    "en": "He wasn't right"
-  },
-  {
-    "_id": 13,
-    "ru": "Это не было ошибкой",
-    "en": "It wasn't a mistake"
-  },
-  {
-    "_id": 14,
-    "ru": "Она не была занята",
-    "en": "She wasn't busy"
-  },
-  {
-    "_id": 15,
-    "ru": "Это не было дорого",
-    "en": "It wasn't expensive"
-  },
-  {
-    "_id": 16,
-    "ru": "Это не было рядом",
-    "en": "It wasn't near"
-  },
-  {
-    "_id": 17,
-    "ru": "Этого не было достаточно",
-    "en": "It wasn't enough"
-  },
-  {
-    "_id": 18,
-    "ru": "Они не были бедными мальчиками",
-    "en": "They weren't poor boys"
-  },
-  {
-    "_id": 19,
-    "ru": "Это не было далеко",
-    "en": "It wasn't far"
-  },
-  {
-    "_id": 20,
-    "ru": "Она не была в Англии в прошлом году",
-    "en": "She wasn't in England last year"
-  },
-  {
-    "_id": 21,
-    "ru": "Он был не один",
-    "en": "He wasn't alone"
-  },
-  {
-    "_id": 22,
-    "ru": "Это не было в моих планах",
-    "en": "It wasn't in my plans"
-  },
-  {
-    "_id": 23,
-    "ru": "Он не был здоров",
-    "en": "He wasn't healthy"
-  },
-  {
-    "_id": 24,
-    "ru": "Это было так неэффективно",
-    "en": "It was so ineffective"
-  },
-  {
-    "_id": 25,
-    "ru": "Он не был ленивым",
-    "en": "He wasn't lazy"
-  },
-  {
-    "_id": 26,
-    "ru": "Это было трудно для нас",
-    "en": "It was difficult for us"
-  },
-  {
-    "_id": 27,
-    "ru": "Это не было эффективно",
-    "en": "It wasn't effective"
-  },
-  {
-    "_id": 28,
-    "ru": "Она не была в магазине",
-    "en": "She wasn't in a shop"
-  },
-  {
-    "_id": 29,
-    "ru": "Ты не был там",
-    "en": "You weren't there"
-  },
-  {
-    "_id": 30,
-    "ru": "Они не были счастливы",
-    "en": "They weren't happy"
-  },
-  {
-    "_id": 31,
-    "ru": "Это не было полезно",
-    "en": "It wasn't useful"
-  },
-  {
-    "_id": 32,
-    "ru": "Это не было бесплатно",
-    "en": "It wasn't free"
-  },
-  {
-    "_id": 33,
-    "ru": "Он не был врачом",
-    "en": "He wasn't a doctor"
-  },
-  {
-    "_id": 34,
-    "ru": "Он не был очень трудолюбивым",
-    "en": "He wasn't very hard-working"
-  },
-  {
-    "_id": 35,
-    "ru": "Я не был дома",
-    "en": "I wasn't at home"
-  },
-  {
-    "_id": 36,
-    "ru": "Он не был свободен вчера",
-    "en": "He wasn't free yesterday"
-  },
-  {
-    "_id": 37,
-    "ru": "Они не были богатыми людьми",
-    "en": "They weren't rich people"
-  },
-  {
-    "_id": 38,
-    "ru": "Это не была моя идея",
-    "en": "It wasn't my idea"
-  },
-  {
-    "_id": 39,
-    "ru": "Они не были вместе",
-    "en": "They weren't together"
-  },
-  {
-    "_id": 40,
-    "ru": "Это не было интересно для меня",
-    "en": "It wasn't interesting for me"
-  },
-  {
-    "_id": 41,
-    "ru": "Они не были с нами",
-    "en": "They weren't with us"
-  },
-  {
-    "_id": 42,
-    "ru": "Это не было важно",
-    "en": "It wasn't important"
-  },
-  {
-    "_id": 43,
-    "ru": "Он не был бедным",
-    "en": "He wasn't poor"
-  },
-  {
-    "_id": 44,
-    "ru": "Это не было в сумке",
-    "en": "It wasn't in the bag"
-  },
-  {
-    "_id": 45,
-    "ru": "Я не был там зимой",
-    "en": "I wasn't there in winter"
-  },
-  {
-    "_id": 46,
-    "ru": "Они не были в зоопарке",
-    "en": "They weren't in the zoo"
-  },
-  {
-    "_id": 47,
-    "ru": "Этого не было в коробке",
-    "en": "It wasn't in the box"
-  },
-  {
-    "_id": 48,
-    "ru": "Он не был в этой ситуации",
-    "en": "He wasn't in this situation"
-  },
-  {
-    "_id": 49,
-    "ru": "Я не был готов к этому",
-    "en": "I wasn't ready for it"
-  },
-  {
-    "_id": 50,
-    "ru": "Мы были там прошлой весной",
-    "en": "We were there last spring"
-  },
-  {
-    "_id": 51,
-    "ru": "Они не были голодны",
-    "en": "They weren't hungry"
-  },
-  {
-    "_id": 52,
-    "ru": "Это не было лучшим выбором",
-    "en": "It wasn't the best choice"
-  },
-  {
-    "_id": 53,
-    "ru": "Это не было возможно",
-    "en": "It wasn't possible"
-  },
-  {
-    "_id": 54,
-    "ru": "Она не была в саду",
-    "en": "She wasn't in the garden"
-  },
-  {
-    "_id": 55,
-    "ru": "Этого не было в моем кармане",
-    "en": "It wasn't in my pocket"
-  },
-  {
-    "_id": 56,
-    "ru": "Я думаю, что это не было так важно",
-    "en": "I think that it wasn't so important"
-  },
-  {
-    "_id": 57,
-    "ru": "Это не было его лучшим результатом",
-    "en": "It wasn't his best result"
-  },
-  {
-    "_id": 58,
-    "ru": "Этого не было на моем столе",
-    "en": "It wasn't on my table"
-  },
-  {
-    "_id": 59,
-    "ru": "Это было на моем столе",
-    "en": "It was on my desk"
-  },
-  {
-    "_id": 60,
-    "ru": "Этого там не было",
-    "en": "It wasn't there"
-  },
-  {
-    "_id": 61,
-    "ru": "Они не были женаты",
-    "en": "They weren't married"
-  },
-  {
-    "_id": 62,
-    "ru": "Мы не были женаты",
-    "en": "We weren't married"
-  },
-  {
-    "_id": 63,
-    "ru": "Я знаю, что это было не бесплатно",
-    "en": "I know that it wasn't free"
-  },
-  {
-    "_id": 64,
-    "ru": "Он знает, что это было бесплатно",
-    "en": "He knows that it was free"
-  },
-  {
-    "_id": 65,
-    "ru": "Я знаю, что это не было дорого",
-    "en": "I know that it wasn't expensive"
-  },
-  {
-    "_id": 66,
-    "ru": "Я был действительно голоден",
-    "en": "I was really hungry"
-  },
-  {
-    "_id": 67,
-    "ru": "Она не была голодна вчера",
-    "en": "She wasn't hungry yesterday"
-  },
-  {
-    "_id": 68,
-    "ru": "Я думаю, это не было полезно для меня",
-    "en": "I think it wasn't useful to me"
-  },
-  {
-    "_id": 69,
-    "ru": "Я думаю, это не было полезно для нее",
-    "en": "I think it wasn't useful for her"
-  },
-  {
-    "_id": 70,
-    "ru": "Он думает, это было очень полезно",
-    "en": "He thinks it was very useful"
-  },
-  {
-    "_id": 71,
-    "ru": "Он не был готов к этому тесту",
-    "en": "He wasn't ready for this test"
-  },
-  {
-    "_id": 72,
-    "ru": "Она была готова к экзамену",
-    "en": "She was ready for the exam"
-  },
-  {
-    "_id": 73,
-    "ru": "Я не был готов к этой ситуации",
-    "en": "I wasn't ready for this situation"
-  },
-  {
-    "_id": 74,
-    "ru": "Я думаю, это был не лучший ответ",
-    "en": "I think it wasn't the best answer"
-  },
-  {
-    "_id": 75,
-    "ru": "Он думает, это не было так хорошо",
-    "en": "He thinks it wasn't so good"
-  },
-  {
-    "_id": 76,
-    "ru": "Я думаю, это была лучшая идея",
-    "en": "I think it was the best idea"
-  },
-  {
-    "_id": 77,
-    "ru": "Это был не лучший ответ",
-    "en": "It wasn't the best answer"
-  },
-  {
-    "_id": 78,
-    "ru": "Он был лучшим певцом",
-    "en": "He was the best singer"
-  },
-  {
-    "_id": 79,
-    "ru": "Она не была лучшей танцовщицей",
-    "en": "She wasn't the best dancer"
-  },
-  {
-    "_id": 80,
-    "ru": "Они не были злы",
-    "en": "They weren't angry"
-  },
-  {
-    "_id": 81,
-    "ru": "Я не был голоден",
-    "en": "I wasn't hungry"
-  },
-  {
-    "_id": 82,
-    "ru": "Мы не были счастливы",
-    "en": "We weren't happy"
-  },
-  {
-    "_id": 83,
-    "ru": "Я знал, что это не было возможно",
-    "en": "I knew that it wasn't possible"
-  },
-  {
-    "_id": 84,
-    "ru": "Этого не было на бумаге",
-    "en": "It wasn't on paper"
-  },
-  {
-    "_id": 85,
-    "ru": "Это было в сумке",
-    "en": "It was in the bag"
-  },
-  {
-    "_id": 86,
-    "ru": "Это не было дорого для нас",
-    "en": "It wasn't expensive for us"
-  },
-  {
-    "_id": 87,
-    "ru": "Я не был готов к этому экзамену",
-    "en": "I wasn't ready for this exam"
-  },
-  {
-    "_id": 88,
-    "ru": "Я думаю, это была не лучшая идея",
-    "en": "I think it wasn't the best idea"
-  },
-  {
-    "_id": 89,
-    "ru": "Я не был в парке",
-    "en": "I wasn't in the park"
-  },
-  {
-    "_id": 90,
-    "ru": "Этого не было на столе",
-    "en": "It wasn't on the table"
-  },
-  {
-    "_id": 91,
-    "ru": "Это было летом",
-    "en": "It was in summer"
-  },
-  {
-    "_id": 92,
-    "ru": "Это не было нам интересно",
-    "en": "It wasn't interesting for us"
-  },
-  {
-    "_id": 93,
-    "ru": "Я видел, что это было не легко",
-    "en": "I saw that it wasn't easy"
-  },
-  {
-    "_id": 94,
-    "ru": "Это не было проблемой для меня",
-    "en": "It wasn't a problem for me"
-  },
-  {
-    "_id": 95,
-    "ru": "Это было осенью",
-    "en": "It was in autumn"
-  },
-  {
-    "_id": 96,
-    "ru": "Я думаю, они были не правы",
-    "en": "I think they weren't right"
+    "id": 1,
+    "ru": {
+      "text": "Это не было ошибкой",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't a mistake",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Они не были бедными мальчиками",
+      "audio": false
+    },
+    "en": {
+      "text": "They weren't poor boys",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я был там зимой",
+      "audio": false
+    },
+    "en": {
+      "text": "I was there in winter",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Это не было так легко",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't so easy",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я не был в банке",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't in a bank",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Это не было так дешево",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't so cheap",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Он не был бизнесменом",
+      "audio": false
+    },
+    "en": {
+      "text": "He wasn't a businessman",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Это не было дешево",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't cheap",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Это не было правильно",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't right",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Это не было в моей сумке",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't in my bag",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я не был одинок",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't alone",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Он не был прав",
+      "audio": false
+    },
+    "en": {
+      "text": "He wasn't right",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Это не было ошибкой",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't a mistake",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Она не была занята",
+      "audio": false
+    },
+    "en": {
+      "text": "She wasn't busy",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Это не было дорого",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't expensive",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Это не было рядом",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't near",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Этого не было достаточно",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Они не были бедными мальчиками",
+      "audio": false
+    },
+    "en": {
+      "text": "They weren't poor boys",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Это не было далеко",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't far",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Она не была в Англии в прошлом году",
+      "audio": false
+    },
+    "en": {
+      "text": "She wasn't in England last year",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Он был не один",
+      "audio": false
+    },
+    "en": {
+      "text": "He wasn't alone",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это не было в моих планах",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't in my plans",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он не был здоров",
+      "audio": false
+    },
+    "en": {
+      "text": "He wasn't healthy",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Это было так неэффективно",
+      "audio": false
+    },
+    "en": {
+      "text": "It was so ineffective",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Он не был ленивым",
+      "audio": false
+    },
+    "en": {
+      "text": "He wasn't lazy",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Это было трудно для нас",
+      "audio": false
+    },
+    "en": {
+      "text": "It was difficult for us",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Это не было эффективно",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't effective",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Она не была в магазине",
+      "audio": false
+    },
+    "en": {
+      "text": "She wasn't in a shop",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Ты не был там",
+      "audio": false
+    },
+    "en": {
+      "text": "You weren't there",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Они не были счастливы",
+      "audio": false
+    },
+    "en": {
+      "text": "They weren't happy",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Это не было полезно",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't useful",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Это не было бесплатно",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't free",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Он не был врачом",
+      "audio": false
+    },
+    "en": {
+      "text": "He wasn't a doctor",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он не был очень трудолюбивым",
+      "audio": false
+    },
+    "en": {
+      "text": "He wasn't very hard-working",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я не был дома",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't at home",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Он не был свободен вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "He wasn't free yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Они не были богатыми людьми",
+      "audio": false
+    },
+    "en": {
+      "text": "They weren't rich people",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Это не была моя идея",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't my idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Они не были вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "They weren't together",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Это не было интересно для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't interesting for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Они не были с нами",
+      "audio": false
+    },
+    "en": {
+      "text": "They weren't with us",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Это не было важно",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't important",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Он не был бедным",
+      "audio": false
+    },
+    "en": {
+      "text": "He wasn't poor",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Это не было в сумке",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't in the bag",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я не был там зимой",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't there in winter",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Они не были в зоопарке",
+      "audio": false
+    },
+    "en": {
+      "text": "They weren't in the zoo",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Этого не было в коробке",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't in the box",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Он не был в этой ситуации",
+      "audio": false
+    },
+    "en": {
+      "text": "He wasn't in this situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я не был готов к этому",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't ready for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Мы были там прошлой весной",
+      "audio": false
+    },
+    "en": {
+      "text": "We were there last spring",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Они не были голодны",
+      "audio": false
+    },
+    "en": {
+      "text": "They weren't hungry",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Это не было лучшим выбором",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't the best choice",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Это не было возможно",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't possible",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Она не была в саду",
+      "audio": false
+    },
+    "en": {
+      "text": "She wasn't in the garden",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Этого не было в моем кармане",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't in my pocket",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я думаю, что это не было так важно",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that it wasn't so important",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Это не было его лучшим результатом",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't his best result",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Этого не было на моем столе",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't on my table",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Это было на моем столе",
+      "audio": false
+    },
+    "en": {
+      "text": "It was on my desk",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Этого там не было",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't there",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Они не были женаты",
+      "audio": false
+    },
+    "en": {
+      "text": "They weren't married",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Мы не были женаты",
+      "audio": false
+    },
+    "en": {
+      "text": "We weren't married",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я знаю, что это было не бесплатно",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that it wasn't free",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он знает, что это было бесплатно",
+      "audio": false
+    },
+    "en": {
+      "text": "He knows that it was free",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я знаю, что это не было дорого",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that it wasn't expensive",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я был действительно голоден",
+      "audio": false
+    },
+    "en": {
+      "text": "I was really hungry",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Она не была голодна вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "She wasn't hungry yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я думаю, это не было полезно для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it wasn't useful to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я думаю, это не было полезно для нее",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it wasn't useful for her",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Он думает, это было очень полезно",
+      "audio": false
+    },
+    "en": {
+      "text": "He thinks it was very useful",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Он не был готов к этому тесту",
+      "audio": false
+    },
+    "en": {
+      "text": "He wasn't ready for this test",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Она была готова к экзамену",
+      "audio": false
+    },
+    "en": {
+      "text": "She was ready for the exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я не был готов к этой ситуации",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't ready for this situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я думаю, это был не лучший ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it wasn't the best answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Он думает, это не было так хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "He thinks it wasn't so good",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я думаю, это была лучшая идея",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it was the best idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Это был не лучший ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't the best answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Он был лучшим певцом",
+      "audio": false
+    },
+    "en": {
+      "text": "He was the best singer",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Она не была лучшей танцовщицей",
+      "audio": false
+    },
+    "en": {
+      "text": "She wasn't the best dancer",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Они не были злы",
+      "audio": false
+    },
+    "en": {
+      "text": "They weren't angry",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я не был голоден",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't hungry",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Мы не были счастливы",
+      "audio": false
+    },
+    "en": {
+      "text": "We weren't happy",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я знал, что это не было возможно",
+      "audio": false
+    },
+    "en": {
+      "text": "I knew that it wasn't possible",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Этого не было на бумаге",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't on paper",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Это было в сумке",
+      "audio": false
+    },
+    "en": {
+      "text": "It was in the bag",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Это не было дорого для нас",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't expensive for us",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Я не был готов к этому экзамену",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't ready for this exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Я думаю, это была не лучшая идея",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it wasn't the best idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Я не был в парке",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't in the park",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Этого не было на столе",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't on the table",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Это было летом",
+      "audio": false
+    },
+    "en": {
+      "text": "It was in summer",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Это не было нам интересно",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't interesting for us",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Я видел, что это было не легко",
+      "audio": false
+    },
+    "en": {
+      "text": "I saw that it wasn't easy",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Это не было проблемой для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't a problem for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Это было осенью",
+      "audio": false
+    },
+    "en": {
+      "text": "It was in autumn",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Я думаю, они были не правы",
+      "audio": false
+    },
+    "en": {
+      "text": "I think they weren't right",
+      "audio": false
+    }
   }
 ]

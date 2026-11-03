@@ -1,427 +1,937 @@
 [
   {
-    "_id": 1,
-    "ru": "Компания решила снизить цену",
-    "en": "The company decided to bring down the price"
-  },
-  {
-    "_id": 2,
-    "ru": "Я поддержу тебя, когда тебе это понадобится",
-    "en": "I will back you up when you need it"
-  },
-  {
-    "_id": 3,
-    "ru": "Отбрось все свои страхи в сторону",
-    "en": "Put all your fears aside"
-  },
-  {
-    "_id": 4,
-    "ru": "Некоторые дети обожают наряжаться",
-    "en": "Some children enjoy dressing up"
-  },
-  {
-    "_id": 5,
-    "ru": "Ты можешь мне это вернуть?",
-    "en": "Can you give it back to me?"
-  },
-  {
-    "_id": 6,
-    "ru": "Перестань его унижать!",
-    "en": "Stop putting him down!"
-  },
-  {
-    "_id": 7,
-    "ru": "Позволь еде остыть!",
-    "en": "Let the food cool down!"
-  },
-  {
-    "_id": 8,
-    "ru": "Я отложил книгу",
-    "en": "I put the book away"
-  },
-  {
-    "_id": 9,
-    "ru": "Он остыл и осознал, что был не прав",
-    "en": "He cooled down and realized that he was wrong"
-  },
-  {
-    "_id": 10,
-    "ru": "Она вернула ему эту книгу",
-    "en": "She gave him this book back"
-  },
-  {
-    "_id": 11,
-    "ru": "Мне нужно положить это",
-    "en": "I need to put it down"
-  },
-  {
-    "_id": 12,
-    "ru": "Он часто унижает других людей",
-    "en": "He often puts down other people"
-  },
-  {
-    "_id": 13,
-    "ru": "Так много магазинов закрывается в наши дни",
-    "en": "So many shops close down nowadays"
-  },
-  {
-    "_id": 14,
-    "ru": "Я запишу это слово",
-    "en": "I will write down this word"
-  },
-  {
-    "_id": 15,
-    "ru": "Остынь!",
-    "en": "Cool down!"
-  },
-  {
-    "_id": 16,
-    "ru": "Она часто небрежно одевается",
-    "en": "She often dresses down"
-  },
-  {
-    "_id": 17,
-    "ru": "Он в основном имеет дело с поставщиками",
-    "en": "He mostly deals with suppliers"
-  },
-  {
-    "_id": 18,
-    "ru": "Я приду немного позже",
-    "en": "I will come along a bit later"
-  },
-  {
-    "_id": 19,
-    "ru": "Я зарегистрировался в отеле",
-    "en": "I checked in at the hotel"
-  },
-  {
-    "_id": 20,
-    "ru": "Ты должен вернуть эти деньги",
-    "en": "You must give back this money"
-  },
-  {
-    "_id": 21,
-    "ru": "Успокойся!",
-    "en": "Calm down!"
-  },
-  {
-    "_id": 22,
-    "ru": "Ты можешь пойти вместе с нами сейчас или позже",
-    "en": "You can come along now or later"
-  },
-  {
-    "_id": 23,
-    "ru": "Пожар начался внезапно",
-    "en": "The fire broke out suddenly"
-  },
-  {
-    "_id": 24,
-    "ru": "Дети обычно любят наряжаться",
-    "en": "Kids usually like dressing up"
-  },
-  {
-    "_id": 25,
-    "ru": "Мы готовы двигаться вперед",
-    "en": "We are ready to move forward"
-  },
-  {
-    "_id": 26,
-    "ru": "Он вернул ей эту книгу",
-    "en": "He gave this book back to her"
-  },
-  {
-    "_id": 27,
-    "ru": "Ты хочешь пойти вместе со мной?",
-    "en": "Do you want to come along?"
-  },
-  {
-    "_id": 28,
-    "ru": "Во сколько он будет выселяться?",
-    "en": "What time will he check out?"
-  },
-  {
-    "_id": 29,
-    "ru": "Тебе нужно немного успокоиться",
-    "en": "You need to calm down a bit"
-  },
-  {
-    "_id": 30,
-    "ru": "Ты можешь отбросить все свои сомнения",
-    "en": "You can put all your doubts aside"
-  },
-  {
-    "_id": 31,
-    "ru": "Пойдем со мной",
-    "en": "Come along with me"
-  },
-  {
-    "_id": 32,
-    "ru": "Убедись, что ты сохранил все",
-    "en": "Make sure you've backed up everything"
-  },
-  {
-    "_id": 33,
-    "ru": "Вторая Мировая война вспыхнула в 1939 году",
-    "en": "The Second World War broke out in 1939"
-  },
-  {
-    "_id": 34,
-    "ru": "Она нарядилась для вечеринки",
-    "en": "She dressed up for the party"
-  },
-  {
-    "_id": 35,
-    "ru": "Это требует дополнительных усилий",
-    "en": "It calls for extra efforts"
-  },
-  {
-    "_id": 36,
-    "ru": "В котором часу ты будешь регистрироваться?",
-    "en": "What time will you check in?"
-  },
-  {
-    "_id": 37,
-    "ru": "Тебе следует нарядиться для вечеринки",
-    "en": "You should dress up for the party"
-  },
-  {
-    "_id": 38,
-    "ru": "Ты можешь вернуть мне мой мобильный телефон?",
-    "en": "Can you give me back my mobile phone?"
-  },
-  {
-    "_id": 39,
-    "ru": "Тебе не нужно наряжаться для такого случая",
-    "en": "You don't need to dress up for such an occasion"
-  },
-  {
-    "_id": 40,
-    "ru": "Он на минуту успокоился и начал ее слушать",
-    "en": "He calmed down for a minute and started listening to her"
-  },
-  {
-    "_id": 41,
-    "ru": "Их попросили снизить цену",
-    "en": "They were asked to bring down the price"
-  },
-  {
-    "_id": 42,
-    "ru": "Мне нужно убедиться, что я все сохранил",
-    "en": "I need to make sure that I backed up everything"
-  },
-  {
-    "_id": 43,
-    "ru": "Детям только что сказали убрать свои игрушки",
-    "en": "The children have just been told to put away their toys"
-  },
-  {
-    "_id": 44,
-    "ru": "Они приняли решение закрыть фабрику",
-    "en": "They made a decision to close down the factory"
-  },
-  {
-    "_id": 45,
-    "ru": "Я уже зарегистрировался в отеле",
-    "en": "I have already checked in at the hotel"
-  },
-  {
-    "_id": 46,
-    "ru": "С тобой легко иметь дело",
-    "en": "You are easy to deal with"
-  },
-  {
-    "_id": 47,
-    "ru": "Такого рода работа требует большей концентрации",
-    "en": "This kind of work calls for more concentration"
-  },
-  {
-    "_id": 48,
-    "ru": "Его друг пришел вместе с ним на вечеринку",
-    "en": "His friend came along with him to the party"
-  },
-  {
-    "_id": 49,
-    "ru": "Эта фирма была захвачена ее конкурентом",
-    "en": "This firm was taken over by its competitor"
-  },
-  {
-    "_id": 50,
-    "ru": "Не было необходимости наряжаться",
-    "en": "There was no need to dress up"
-  },
-  {
-    "_id": 51,
-    "ru": "Тебе нужно принарядиться для этой встречи",
-    "en": "You need to dress up for this meeting"
-  },
-  {
-    "_id": 52,
-    "ru": "Большинство девочек обожают наряжаться",
-    "en": "Most girls enjoy dressing up"
-  },
-  {
-    "_id": 53,
-    "ru": "Я подожду, пока он успокоится",
-    "en": "I will wait until he calms down"
-  },
-  {
-    "_id": 54,
-    "ru": "Я попрошу ее успокоиться",
-    "en": "I will ask her to calm down"
-  },
-  {
-    "_id": 55,
-    "ru": "С ним очень легко иметь дело",
-    "en": "He is very easy to deal with"
-  },
-  {
-    "_id": 56,
-    "ru": "С ними легко иметь дело",
-    "en": "They are easy to deal with"
-  },
-  {
-    "_id": 57,
-    "ru": "Я имею дело с такими клиентами",
-    "en": "I deal with such customers"
-  },
-  {
-    "_id": 58,
-    "ru": "Их план - захватить эту компанию",
-    "en": "Their plan is to take over this company"
-  },
-  {
-    "_id": 59,
-    "ru": "Огромная компания хочет захватить меньшую",
-    "en": "A huge company wants to take over a smaller one"
-  },
-  {
-    "_id": 60,
-    "ru": "Это единственный способ двигаться вперед",
-    "en": "It is the only way to move forward"
-  },
-  {
-    "_id": 61,
-    "ru": "Они готовы двигаться вперед",
-    "en": "They are ready to move forward"
-  },
-  {
-    "_id": 62,
-    "ru": "Ты готов двигаться вперед?",
-    "en": "Are you ready to move forward?"
-  },
-  {
-    "_id": 63,
-    "ru": "Война разразилась в прошлом году",
-    "en": "The war broke out last year"
-  },
-  {
-    "_id": 64,
-    "ru": "Первая мировая война разразилась в 1914 году",
-    "en": "The First World War broke out in 1914"
-  },
-  {
-    "_id": 65,
-    "ru": "Этой компании придется закрыться",
-    "en": "This company will have to close down"
-  },
-  {
-    "_id": 66,
-    "ru": "Им приходится закрывать свою компанию",
-    "en": "They have to close down their company"
-  },
-  {
-    "_id": 67,
-    "ru": "Его мама сказала ему убрать все свои игрушки",
-    "en": "His mother told him to put all his toys away"
-  },
-  {
-    "_id": 68,
-    "ru": "Детям было сказано убрать свои игрушки",
-    "en": "The children were told to put away their toys"
-  },
-  {
-    "_id": 69,
-    "ru": "Ее мама попросила ее убрать свои игрушки",
-    "en": "Her mother asked her to put away her toys"
-  },
-  {
-    "_id": 70,
-    "ru": "Мне надо убедиться в том, что я сохранил это",
-    "en": "I need to make sure that I backed it up"
-  },
-  {
-    "_id": 71,
-    "ru": "Тебе нужно быть уверенным, что ты это сохранил",
-    "en": "You need to be sure that you backed it up"
-  },
-  {
-    "_id": 72,
-    "ru": "Убедись, что ты сохранил все файлы",
-    "en": "Make sure you backed up all the files"
-  },
-  {
-    "_id": 73,
-    "ru": "Во сколько тебе нужно зарегистрироваться?",
-    "en": "What time do you need to check in?"
-  },
-  {
-    "_id": 74,
-    "ru": "Когда ты собираешься зарегистрироваться?",
-    "en": "When are you going to check in?"
-  },
-  {
-    "_id": 75,
-    "ru": "Тебе лучше сохранить этот файл",
-    "en": "You'd better back up this file"
-  },
-  {
-    "_id": 76,
-    "ru": "Им давно пора перестать его унижать",
-    "en": "It's high time they stopped putting him down"
-  },
-  {
-    "_id": 77,
-    "ru": "Я постараюсь ее успокоить",
-    "en": "I will try to calm her down"
-  },
-  {
-    "_id": 78,
-    "ru": "Ребенку было сказано убрать свои игрушки",
-    "en": "The child was told to put away his toys"
-  },
-  {
-    "_id": 79,
-    "ru": "Компании пришлось закрыться из-за кризиса",
-    "en": "The company had to close down because of the crisis"
-  },
-  {
-    "_id": 80,
-    "ru": "Я не думаю, что они поддержат эту инициативу",
-    "en": "I don't think that they will back up this initiative"
-  },
-  {
-    "_id": 81,
-    "ru": "Я привык иметь дело с такими клиентами",
-    "en": "I am used to dealing with such customers"
-  },
-  {
-    "_id": 82,
-    "ru": "Тебе лучше положить это",
-    "en": "You'd better put it down"
-  },
-  {
-    "_id": 83,
-    "ru": "Ты уже зарегистрировался?",
-    "en": "Have you already checked in?"
-  },
-  {
-    "_id": 84,
-    "ru": "Ты можешь зарегистрироваться онлайн, чтобы сэкономить время",
-    "en": "You can check in online to save time"
-  },
-  {
-    "_id": 85,
-    "ru": "Что ты будешь делать, если магазин закроется?",
-    "en": "What will you do if the shop closes down?"
+    "id": 1,
+    "ru": {
+      "text": "Компания решила снизить цену",
+      "audio": false
+    },
+    "en": {
+      "text": "The company decided to bring down the price",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я поддержу тебя, когда тебе это понадобится",
+      "audio": false
+    },
+    "en": {
+      "text": "I will back you up when you need it",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Отбрось все свои страхи в сторону",
+      "audio": false
+    },
+    "en": {
+      "text": "Put all your fears aside",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Некоторые дети обожают наряжаться",
+      "audio": false
+    },
+    "en": {
+      "text": "Some children enjoy dressing up",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Ты можешь мне это вернуть?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you give it back to me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Перестань его унижать!",
+      "audio": false
+    },
+    "en": {
+      "text": "Stop putting him down!",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Позволь еде остыть!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let the food cool down!",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я отложил книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "I put the book away",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Он остыл и осознал, что был не прав",
+      "audio": false
+    },
+    "en": {
+      "text": "He cooled down and realized that he was wrong",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Она вернула ему эту книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "She gave him this book back",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Мне нужно положить это",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to put it down",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Он часто унижает других людей",
+      "audio": false
+    },
+    "en": {
+      "text": "He often puts down other people",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Так много магазинов закрывается в наши дни",
+      "audio": false
+    },
+    "en": {
+      "text": "So many shops close down nowadays",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я запишу это слово",
+      "audio": false
+    },
+    "en": {
+      "text": "I will write down this word",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Остынь!",
+      "audio": false
+    },
+    "en": {
+      "text": "Cool down!",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Она часто небрежно одевается",
+      "audio": false
+    },
+    "en": {
+      "text": "She often dresses down",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Он в основном имеет дело с поставщиками",
+      "audio": false
+    },
+    "en": {
+      "text": "He mostly deals with suppliers",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я приду немного позже",
+      "audio": false
+    },
+    "en": {
+      "text": "I will come along a bit later",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я зарегистрировался в отеле",
+      "audio": false
+    },
+    "en": {
+      "text": "I checked in at the hotel",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Ты должен вернуть эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "You must give back this money",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Успокойся!",
+      "audio": false
+    },
+    "en": {
+      "text": "Calm down!",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Ты можешь пойти вместе с нами сейчас или позже",
+      "audio": false
+    },
+    "en": {
+      "text": "You can come along now or later",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Пожар начался внезапно",
+      "audio": false
+    },
+    "en": {
+      "text": "The fire broke out suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Дети обычно любят наряжаться",
+      "audio": false
+    },
+    "en": {
+      "text": "Kids usually like dressing up",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Мы готовы двигаться вперед",
+      "audio": false
+    },
+    "en": {
+      "text": "We are ready to move forward",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Он вернул ей эту книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "He gave this book back to her",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Ты хочешь пойти вместе со мной?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to come along?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Во сколько он будет выселяться?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time will he check out?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Тебе нужно немного успокоиться",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to calm down a bit",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Ты можешь отбросить все свои сомнения",
+      "audio": false
+    },
+    "en": {
+      "text": "You can put all your doubts aside",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Пойдем со мной",
+      "audio": false
+    },
+    "en": {
+      "text": "Come along with me",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Убедись, что ты сохранил все",
+      "audio": false
+    },
+    "en": {
+      "text": "Make sure you've backed up everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Вторая Мировая война вспыхнула в 1939 году",
+      "audio": false
+    },
+    "en": {
+      "text": "The Second World War broke out in 1939",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Она нарядилась для вечеринки",
+      "audio": false
+    },
+    "en": {
+      "text": "She dressed up for the party",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Это требует дополнительных усилий",
+      "audio": false
+    },
+    "en": {
+      "text": "It calls for extra efforts",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "В котором часу ты будешь регистрироваться?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time will you check in?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Тебе следует нарядиться для вечеринки",
+      "audio": false
+    },
+    "en": {
+      "text": "You should dress up for the party",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Ты можешь вернуть мне мой мобильный телефон?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you give me back my mobile phone?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Тебе не нужно наряжаться для такого случая",
+      "audio": false
+    },
+    "en": {
+      "text": "You don't need to dress up for such an occasion",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Он на минуту успокоился и начал ее слушать",
+      "audio": false
+    },
+    "en": {
+      "text": "He calmed down for a minute and started listening to her",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Их попросили снизить цену",
+      "audio": false
+    },
+    "en": {
+      "text": "They were asked to bring down the price",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Мне нужно убедиться, что я все сохранил",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to make sure that I backed up everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Детям только что сказали убрать свои игрушки",
+      "audio": false
+    },
+    "en": {
+      "text": "The children have just been told to put away their toys",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Они приняли решение закрыть фабрику",
+      "audio": false
+    },
+    "en": {
+      "text": "They made a decision to close down the factory",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я уже зарегистрировался в отеле",
+      "audio": false
+    },
+    "en": {
+      "text": "I have already checked in at the hotel",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "С тобой легко иметь дело",
+      "audio": false
+    },
+    "en": {
+      "text": "You are easy to deal with",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Такого рода работа требует большей концентрации",
+      "audio": false
+    },
+    "en": {
+      "text": "This kind of work calls for more concentration",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Его друг пришел вместе с ним на вечеринку",
+      "audio": false
+    },
+    "en": {
+      "text": "His friend came along with him to the party",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Эта фирма была захвачена ее конкурентом",
+      "audio": false
+    },
+    "en": {
+      "text": "This firm was taken over by its competitor",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Не было необходимости наряжаться",
+      "audio": false
+    },
+    "en": {
+      "text": "There was no need to dress up",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Тебе нужно принарядиться для этой встречи",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to dress up for this meeting",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Большинство девочек обожают наряжаться",
+      "audio": false
+    },
+    "en": {
+      "text": "Most girls enjoy dressing up",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я подожду, пока он успокоится",
+      "audio": false
+    },
+    "en": {
+      "text": "I will wait until he calms down",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я попрошу ее успокоиться",
+      "audio": false
+    },
+    "en": {
+      "text": "I will ask her to calm down",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "С ним очень легко иметь дело",
+      "audio": false
+    },
+    "en": {
+      "text": "He is very easy to deal with",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "С ними легко иметь дело",
+      "audio": false
+    },
+    "en": {
+      "text": "They are easy to deal with",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я имею дело с такими клиентами",
+      "audio": false
+    },
+    "en": {
+      "text": "I deal with such customers",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Их план - захватить эту компанию",
+      "audio": false
+    },
+    "en": {
+      "text": "Their plan is to take over this company",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Огромная компания хочет захватить меньшую",
+      "audio": false
+    },
+    "en": {
+      "text": "A huge company wants to take over a smaller one",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Это единственный способ двигаться вперед",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the only way to move forward",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Они готовы двигаться вперед",
+      "audio": false
+    },
+    "en": {
+      "text": "They are ready to move forward",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Ты готов двигаться вперед?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you ready to move forward?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Война разразилась в прошлом году",
+      "audio": false
+    },
+    "en": {
+      "text": "The war broke out last year",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Первая мировая война разразилась в 1914 году",
+      "audio": false
+    },
+    "en": {
+      "text": "The First World War broke out in 1914",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Этой компании придется закрыться",
+      "audio": false
+    },
+    "en": {
+      "text": "This company will have to close down",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Им приходится закрывать свою компанию",
+      "audio": false
+    },
+    "en": {
+      "text": "They have to close down their company",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Его мама сказала ему убрать все свои игрушки",
+      "audio": false
+    },
+    "en": {
+      "text": "His mother told him to put all his toys away",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Детям было сказано убрать свои игрушки",
+      "audio": false
+    },
+    "en": {
+      "text": "The children were told to put away their toys",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Ее мама попросила ее убрать свои игрушки",
+      "audio": false
+    },
+    "en": {
+      "text": "Her mother asked her to put away her toys",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Мне надо убедиться в том, что я сохранил это",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to make sure that I backed it up",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Тебе нужно быть уверенным, что ты это сохранил",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to be sure that you backed it up",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Убедись, что ты сохранил все файлы",
+      "audio": false
+    },
+    "en": {
+      "text": "Make sure you backed up all the files",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Во сколько тебе нужно зарегистрироваться?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time do you need to check in?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Когда ты собираешься зарегистрироваться?",
+      "audio": false
+    },
+    "en": {
+      "text": "When are you going to check in?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Тебе лучше сохранить этот файл",
+      "audio": false
+    },
+    "en": {
+      "text": "You'd better back up this file",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Им давно пора перестать его унижать",
+      "audio": false
+    },
+    "en": {
+      "text": "It's high time they stopped putting him down",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я постараюсь ее успокоить",
+      "audio": false
+    },
+    "en": {
+      "text": "I will try to calm her down",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Ребенку было сказано убрать свои игрушки",
+      "audio": false
+    },
+    "en": {
+      "text": "The child was told to put away his toys",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Компании пришлось закрыться из-за кризиса",
+      "audio": false
+    },
+    "en": {
+      "text": "The company had to close down because of the crisis",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я не думаю, что они поддержат эту инициативу",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that they will back up this initiative",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я привык иметь дело с такими клиентами",
+      "audio": false
+    },
+    "en": {
+      "text": "I am used to dealing with such customers",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Тебе лучше положить это",
+      "audio": false
+    },
+    "en": {
+      "text": "You'd better put it down",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Ты уже зарегистрировался?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you already checked in?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Ты можешь зарегистрироваться онлайн, чтобы сэкономить время",
+      "audio": false
+    },
+    "en": {
+      "text": "You can check in online to save time",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Что ты будешь делать, если магазин закроется?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will you do if the shop closes down?",
+      "audio": false
+    }
   }
 ]

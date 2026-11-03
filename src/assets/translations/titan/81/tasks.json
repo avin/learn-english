@@ -1,517 +1,1135 @@
 [
   {
-    "_id": 1,
-    "ru": "Это была долгая история",
-    "en": "It was a long story"
-  },
-  {
-    "_id": 2,
-    "ru": "Они были великими людьми",
-    "en": "They were great people"
-  },
-  {
-    "_id": 3,
-    "ru": "Еда была очень вкусной",
-    "en": "The food was very tasty"
-  },
-  {
-    "_id": 4,
-    "ru": "Многие люди были очень голодные",
-    "en": "Many people were very hungry"
-  },
-  {
-    "_id": 5,
-    "ru": "Я играл в футбол",
-    "en": "I played [d] football"
-  },
-  {
-    "_id": 6,
-    "ru": "Он пошел домой",
-    "en": "He went home"
-  },
-  {
-    "_id": 7,
-    "ru": "Он жил в этом старом доме",
-    "en": "He lived [d] in this old house"
-  },
-  {
-    "_id": 8,
-    "ru": "Те меры привели к новым конфликтам",
-    "en": "Those measures led to new conflicts"
-  },
-  {
-    "_id": 9,
-    "ru": "Это привело к новым протестам",
-    "en": "It led to new protests"
-  },
-  {
-    "_id": 10,
-    "ru": "Это было очевидно для меня",
-    "en": "It was obvious to me"
-  },
-  {
-    "_id": 11,
-    "ru": "Они были действительно шокированы",
-    "en": "They were really shocked"
-  },
-  {
-    "_id": 12,
-    "ru": "У меня был небольшой перерыв между уроками",
-    "en": "I had a short break between the lessons"
-  },
-  {
-    "_id": 13,
-    "ru": "Это была очень популярная песня несколько лет назад",
-    "en": "It was a very popular song several years ago"
-  },
-  {
-    "_id": 14,
-    "ru": "Тренировки были очень интенсивными",
-    "en": "The trainings were very intensive"
-  },
-  {
-    "_id": 15,
-    "ru": "Та работа требовала большего опыта работы",
-    "en": "That job required more work experience"
-  },
-  {
-    "_id": 16,
-    "ru": "Тяжелая работа привела его к успеху",
-    "en": "Hard work led him to success"
-  },
-  {
-    "_id": 17,
-    "ru": "Это было очень мудрое решение",
-    "en": "It was a very wise decision"
-  },
-  {
-    "_id": 18,
-    "ru": "Она действительно боялась этого",
-    "en": "She was really afraid of it"
-  },
-  {
-    "_id": 19,
-    "ru": "Я отдыхал вечером",
-    "en": "I had a rest in the evening"
-  },
-  {
-    "_id": 20,
-    "ru": "Еда была очень вкусной",
-    "en": "The food [d] was very tasty"
-  },
-  {
-    "_id": 21,
-    "ru": "Я написал короткое эссе",
-    "en": "I wrote a short essay"
-  },
-  {
-    "_id": 22,
-    "ru": "Он написал сочинение",
-    "en": "He wrote a composition"
-  },
-  {
-    "_id": 23,
-    "ru": "Тренировка была очень интенсивной",
-    "en": "The training was very intensive"
-  },
-  {
-    "_id": 24,
-    "ru": "Это была долгая история",
-    "en": "It was a long story"
-  },
-  {
-    "_id": 25,
-    "ru": "Забор был коричневый",
-    "en": "The fence was brown"
-  },
-  {
-    "_id": 26,
-    "ru": "Это была правдивая история",
-    "en": "It was a true story"
-  },
-  {
-    "_id": 27,
-    "ru": "Я положил это в свою сумку",
-    "en": "I put it in my bag"
-  },
-  {
-    "_id": 28,
-    "ru": "Это было великое открытие",
-    "en": "It was a great discovery"
-  },
-  {
-    "_id": 29,
-    "ru": "Ее решение было очень мудрым",
-    "en": "Her decision was very wise"
-  },
-  {
-    "_id": 30,
-    "ru": "Я был так удивлен",
-    "en": "I was so surprised"
-  },
-  {
-    "_id": 31,
-    "ru": "Клиника была действительно хорошая",
-    "en": "The clinic was really good"
-  },
-  {
-    "_id": 32,
-    "ru": "Еда была действительно восхитительной",
-    "en": "The food was really amazing"
-  },
-  {
-    "_id": 33,
-    "ru": "Многие люди были очень голодные",
-    "en": "Many people were very hungry"
-  },
-  {
-    "_id": 34,
-    "ru": "Мальчики были во дворе",
-    "en": "The boys were in the yard"
-  },
-  {
-    "_id": 35,
-    "ru": "Он сделал великое открытие",
-    "en": "He made a great discovery"
-  },
-  {
-    "_id": 36,
-    "ru": "Это была удивительная история",
-    "en": "It was an amazing story"
-  },
-  {
-    "_id": 37,
-    "ru": "Качество было очень хорошее",
-    "en": "The quality was very good"
-  },
-  {
-    "_id": 38,
-    "ru": "Еда была вкусная",
-    "en": "The food was delicious"
-  },
-  {
-    "_id": 39,
-    "ru": "Кризис был очень серьезный",
-    "en": "The crisis was very serious"
-  },
-  {
-    "_id": 40,
-    "ru": "Это была настоящая революция в технике",
-    "en": "It was a real revolution in technology"
-  },
-  {
-    "_id": 41,
-    "ru": "У нас был короткий перерыв после урока",
-    "en": "We had a short break after the lesson"
-  },
-  {
-    "_id": 42,
-    "ru": "Он сделал маленькую ошибку",
-    "en": "He made a small mistake"
-  },
-  {
-    "_id": 43,
-    "ru": "Эта работа требовала больше навыков",
-    "en": "This job required more skills"
-  },
-  {
-    "_id": 44,
-    "ru": "Эти меры привели к новым протестам",
-    "en": "These measures led to new protests"
-  },
-  {
-    "_id": 45,
-    "ru": "Коттедж был слишком мал для их семьи",
-    "en": "The cottage was too small for their family"
-  },
-  {
-    "_id": 46,
-    "ru": "Многие люди жили в очень плохих условиях",
-    "en": "Many people lived in very bad conditions"
-  },
-  {
-    "_id": 47,
-    "ru": "Я сделал все правильно",
-    "en": "I did everything correctly"
-  },
-  {
-    "_id": 48,
-    "ru": "Мы согласились сделать это",
-    "en": "We agreed to do it"
-  },
-  {
-    "_id": 49,
-    "ru": "Это было чрезвычайно сложное упражнение",
-    "en": "It was an extremely difficult exercise"
-  },
-  {
-    "_id": 50,
-    "ru": "Для нас все было очевидно",
-    "en": "Everything was obvious to us"
-  },
-  {
-    "_id": 51,
-    "ru": "Я был полностью удовлетворен моими результатами",
-    "en": "I was fully satisfied with my results"
-  },
-  {
-    "_id": 52,
-    "ru": "Мой отец собирал монеты, когда он был молодым",
-    "en": "My father collected coins when he was young"
-  },
-  {
-    "_id": 53,
-    "ru": "Те меры привели к новым конфликтам и протестам",
-    "en": "Those measures led to new conflicts and protests"
-  },
-  {
-    "_id": 54,
-    "ru": "Мне удалось сдать этот экзамен",
-    "en": "I managed to pass this exam"
-  },
-  {
-    "_id": 55,
-    "ru": "Качество этих продуктов было очень хорошим",
-    "en": "The quality of these products was very good"
-  },
-  {
-    "_id": 56,
-    "ru": "Мне удалось сдать тот тест",
-    "en": "I managed to pass that test"
-  },
-  {
-    "_id": 57,
-    "ru": "Это была очень неприятная вещь",
-    "en": "It was a very unpleasant thing"
-  },
-  {
-    "_id": 58,
-    "ru": "Он часто опаздывал, и мне это не нравилось",
-    "en": "He was often late and I didn't like it"
-  },
-  {
-    "_id": 59,
-    "ru": "Я хотел увидеть мир",
-    "en": "I wanted to see the world"
-  },
-  {
-    "_id": 60,
-    "ru": "Все было чрезвычайно сложно",
-    "en": "Everything was extremely difficult"
-  },
-  {
-    "_id": 61,
-    "ru": "Эти экзамены были чрезвычайно сложными",
-    "en": "These exams were extremely difficult"
-  },
-  {
-    "_id": 62,
-    "ru": "Все было действительно сложно",
-    "en": "Everything was really difficult"
-  },
-  {
-    "_id": 63,
-    "ru": "Я знаю, что принял правильное решение",
-    "en": "I know that I made the right decision"
-  },
-  {
-    "_id": 64,
-    "ru": "Она знает, что приняла правильное решение",
-    "en": "She knows that she made the right decision"
-  },
-  {
-    "_id": 65,
-    "ru": "Я знаю, что он нашел лучшее решение",
-    "en": "I know that he found the best solution"
-  },
-  {
-    "_id": 66,
-    "ru": "Это был чрезвычайно полезный урок",
-    "en": "It was an extremely useful lesson"
-  },
-  {
-    "_id": 67,
-    "ru": "Это был очень полезный урок",
-    "en": "It was a very useful lesson"
-  },
-  {
-    "_id": 68,
-    "ru": "Это был очень полезный курс",
-    "en": "It was a very useful course"
-  },
-  {
-    "_id": 69,
-    "ru": "Все было так необычно",
-    "en": "Everything was so unusual"
-  },
-  {
-    "_id": 70,
-    "ru": "Все было так обычно",
-    "en": "Everything was so usual"
-  },
-  {
-    "_id": 71,
-    "ru": "Все было необычно",
-    "en": "Everything was unusual"
-  },
-  {
-    "_id": 72,
-    "ru": "Я знаю, что мне действительно повезло",
-    "en": "I know that I was really lucky"
-  },
-  {
-    "_id": 73,
-    "ru": "Я знаю, что мне очень повезло",
-    "en": "I know that I was very lucky"
-  },
-  {
-    "_id": 74,
-    "ru": "Я знаю, что им очень повезло",
-    "en": "I know that they were very lucky"
-  },
-  {
-    "_id": 75,
-    "ru": "Это был чрезвычайно длинный курс",
-    "en": "It was an extremely long course"
-  },
-  {
-    "_id": 76,
-    "ru": "Это был чрезвычайно сложный курс",
-    "en": "It was an extremely difficult course"
-  },
-  {
-    "_id": 77,
-    "ru": "Это был очень длинный курс",
-    "en": "It was a very long course"
-  },
-  {
-    "_id": 78,
-    "ru": "Это было очень приятное чувство",
-    "en": "It was a very pleasant feeling"
-  },
-  {
-    "_id": 79,
-    "ru": "Это очень приятное чувство",
-    "en": "It’s a very pleasant feeling"
-  },
-  {
-    "_id": 80,
-    "ru": "Это было очень хорошее чувство",
-    "en": "It was a very good feeling"
-  },
-  {
-    "_id": 81,
-    "ru": "Коттедж был достаточно большим",
-    "en": "The cottage was big enough"
-  },
-  {
-    "_id": 82,
-    "ru": "Дом был достаточно большим",
-    "en": "The house was big enough"
-  },
-  {
-    "_id": 83,
-    "ru": "Это здание было достаточно большим",
-    "en": "This building was big enough"
-  },
-  {
-    "_id": 84,
-    "ru": "Я не думаю, что я сделал большую ошибку",
-    "en": "I don't think that I made a big mistake"
-  },
-  {
-    "_id": 85,
-    "ru": "Она не думает, что сделала большую ошибку",
-    "en": "She doesn't think that she made a big mistake"
-  },
-  {
-    "_id": 86,
-    "ru": "Я не думаю, что я сделал много ошибок",
-    "en": "I don't think that I made many mistakes"
-  },
-  {
-    "_id": 87,
-    "ru": "Все люди в том городе были очень дружелюбные",
-    "en": "All the people in that city were very friendly"
-  },
-  {
-    "_id": 88,
-    "ru": "Все люди в этом городе были очень дружелюбные",
-    "en": "All the people in this city were very friendly"
-  },
-  {
-    "_id": 89,
-    "ru": "Многие люди в том городе были очень дружелюбные",
-    "en": "Many people in that city were very friendly"
-  },
-  {
-    "_id": 90,
-    "ru": "Одно из этих мест действительно впечатлило меня",
-    "en": "One of these places really impressed me"
-  },
-  {
-    "_id": 91,
-    "ru": "Комната была достаточно большая",
-    "en": "The room was big enough"
-  },
-  {
-    "_id": 92,
-    "ru": "Это был чрезвычайно важный урок",
-    "en": "It was an extremely important lesson"
-  },
-  {
-    "_id": 93,
-    "ru": "Один из моих друзей работал в банке",
-    "en": "One of my friends worked in a bank"
-  },
-  {
-    "_id": 94,
-    "ru": "Он согласился сделать это в конце",
-    "en": "He agreed to do it in the end"
-  },
-  {
-    "_id": 95,
-    "ru": "Люди в этом городе были очень дружелюбные",
-    "en": "The people in this city were very friendly"
-  },
-  {
-    "_id": 96,
-    "ru": "Я старался не показывать это",
-    "en": "I tried not to show it"
-  },
-  {
-    "_id": 97,
-    "ru": "Я хотел общаться с иностранцами",
-    "en": "I wanted to communicate with foreigners"
-  },
-  {
-    "_id": 98,
-    "ru": "Мне удалось сделать все вовремя",
-    "en": "I managed to do everything on time"
-  },
-  {
-    "_id": 99,
-    "ru": "Я часто опаздывал",
-    "en": "I was often late"
-  },
-  {
-    "_id": 100,
-    "ru": "Я верил, что это была правда",
-    "en": "I believed that it was true"
-  },
-  {
-    "_id": 101,
-    "ru": "Это было необходимо сделать",
-    "en": "It was necessary to do"
-  },
-  {
-    "_id": 102,
-    "ru": "Он стал американским гражданином",
-    "en": "He became an American citizen"
-  },
-  {
-    "_id": 103,
-    "ru": "Вам действительно повезло",
-    "en": "You were really lucky"
+    "id": 1,
+    "ru": {
+      "text": "Это была долгая история",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a long story",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Они были великими людьми",
+      "audio": false
+    },
+    "en": {
+      "text": "They were great people",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Еда была очень вкусной",
+      "audio": false
+    },
+    "en": {
+      "text": "The food was very tasty",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Многие люди были очень голодные",
+      "audio": false
+    },
+    "en": {
+      "text": "Many people were very hungry",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я играл в футбол",
+      "audio": false
+    },
+    "en": {
+      "text": "I played [d] football",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Он пошел домой",
+      "audio": false
+    },
+    "en": {
+      "text": "He went home",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Он жил в этом старом доме",
+      "audio": false
+    },
+    "en": {
+      "text": "He lived [d] in this old house",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Те меры привели к новым конфликтам",
+      "audio": false
+    },
+    "en": {
+      "text": "Those measures led to new conflicts",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Это привело к новым протестам",
+      "audio": false
+    },
+    "en": {
+      "text": "It led to new protests",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Это было очевидно для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It was obvious to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Они были действительно шокированы",
+      "audio": false
+    },
+    "en": {
+      "text": "They were really shocked",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "У меня был небольшой перерыв между уроками",
+      "audio": false
+    },
+    "en": {
+      "text": "I had a short break between the lessons",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Это была очень популярная песня несколько лет назад",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a very popular song several years ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Тренировки были очень интенсивными",
+      "audio": false
+    },
+    "en": {
+      "text": "The trainings were very intensive",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Та работа требовала большего опыта работы",
+      "audio": false
+    },
+    "en": {
+      "text": "That job required more work experience",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Тяжелая работа привела его к успеху",
+      "audio": false
+    },
+    "en": {
+      "text": "Hard work led him to success",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Это было очень мудрое решение",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a very wise decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Она действительно боялась этого",
+      "audio": false
+    },
+    "en": {
+      "text": "She was really afraid of it",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я отдыхал вечером",
+      "audio": false
+    },
+    "en": {
+      "text": "I had a rest in the evening",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Еда была очень вкусной",
+      "audio": false
+    },
+    "en": {
+      "text": "The food [d] was very tasty",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Я написал короткое эссе",
+      "audio": false
+    },
+    "en": {
+      "text": "I wrote a short essay",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Он написал сочинение",
+      "audio": false
+    },
+    "en": {
+      "text": "He wrote a composition",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Тренировка была очень интенсивной",
+      "audio": false
+    },
+    "en": {
+      "text": "The training was very intensive",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Это была долгая история",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a long story",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Забор был коричневый",
+      "audio": false
+    },
+    "en": {
+      "text": "The fence was brown",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Это была правдивая история",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a true story",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я положил это в свою сумку",
+      "audio": false
+    },
+    "en": {
+      "text": "I put it in my bag",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Это было великое открытие",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a great discovery",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Ее решение было очень мудрым",
+      "audio": false
+    },
+    "en": {
+      "text": "Her decision was very wise",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я был так удивлен",
+      "audio": false
+    },
+    "en": {
+      "text": "I was so surprised",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Клиника была действительно хорошая",
+      "audio": false
+    },
+    "en": {
+      "text": "The clinic was really good",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Еда была действительно восхитительной",
+      "audio": false
+    },
+    "en": {
+      "text": "The food was really amazing",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Многие люди были очень голодные",
+      "audio": false
+    },
+    "en": {
+      "text": "Many people were very hungry",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Мальчики были во дворе",
+      "audio": false
+    },
+    "en": {
+      "text": "The boys were in the yard",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Он сделал великое открытие",
+      "audio": false
+    },
+    "en": {
+      "text": "He made a great discovery",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Это была удивительная история",
+      "audio": false
+    },
+    "en": {
+      "text": "It was an amazing story",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Качество было очень хорошее",
+      "audio": false
+    },
+    "en": {
+      "text": "The quality was very good",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Еда была вкусная",
+      "audio": false
+    },
+    "en": {
+      "text": "The food was delicious",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Кризис был очень серьезный",
+      "audio": false
+    },
+    "en": {
+      "text": "The crisis was very serious",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Это была настоящая революция в технике",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a real revolution in technology",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "У нас был короткий перерыв после урока",
+      "audio": false
+    },
+    "en": {
+      "text": "We had a short break after the lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Он сделал маленькую ошибку",
+      "audio": false
+    },
+    "en": {
+      "text": "He made a small mistake",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Эта работа требовала больше навыков",
+      "audio": false
+    },
+    "en": {
+      "text": "This job required more skills",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Эти меры привели к новым протестам",
+      "audio": false
+    },
+    "en": {
+      "text": "These measures led to new protests",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Коттедж был слишком мал для их семьи",
+      "audio": false
+    },
+    "en": {
+      "text": "The cottage was too small for their family",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Многие люди жили в очень плохих условиях",
+      "audio": false
+    },
+    "en": {
+      "text": "Many people lived in very bad conditions",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я сделал все правильно",
+      "audio": false
+    },
+    "en": {
+      "text": "I did everything correctly",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Мы согласились сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "We agreed to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Это было чрезвычайно сложное упражнение",
+      "audio": false
+    },
+    "en": {
+      "text": "It was an extremely difficult exercise",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Для нас все было очевидно",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything was obvious to us",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я был полностью удовлетворен моими результатами",
+      "audio": false
+    },
+    "en": {
+      "text": "I was fully satisfied with my results",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Мой отец собирал монеты, когда он был молодым",
+      "audio": false
+    },
+    "en": {
+      "text": "My father collected coins when he was young",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Те меры привели к новым конфликтам и протестам",
+      "audio": false
+    },
+    "en": {
+      "text": "Those measures led to new conflicts and protests",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Мне удалось сдать этот экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "I managed to pass this exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Качество этих продуктов было очень хорошим",
+      "audio": false
+    },
+    "en": {
+      "text": "The quality of these products was very good",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Мне удалось сдать тот тест",
+      "audio": false
+    },
+    "en": {
+      "text": "I managed to pass that test",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Это была очень неприятная вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a very unpleasant thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Он часто опаздывал, и мне это не нравилось",
+      "audio": false
+    },
+    "en": {
+      "text": "He was often late and I didn't like it",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я хотел увидеть мир",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to see the world",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Все было чрезвычайно сложно",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything was extremely difficult",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Эти экзамены были чрезвычайно сложными",
+      "audio": false
+    },
+    "en": {
+      "text": "These exams were extremely difficult",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Все было действительно сложно",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything was really difficult",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я знаю, что принял правильное решение",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that I made the right decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Она знает, что приняла правильное решение",
+      "audio": false
+    },
+    "en": {
+      "text": "She knows that she made the right decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я знаю, что он нашел лучшее решение",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that he found the best solution",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Это был чрезвычайно полезный урок",
+      "audio": false
+    },
+    "en": {
+      "text": "It was an extremely useful lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Это был очень полезный урок",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a very useful lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Это был очень полезный курс",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a very useful course",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Все было так необычно",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything was so unusual",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Все было так обычно",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything was so usual",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Все было необычно",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything was unusual",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я знаю, что мне действительно повезло",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that I was really lucky",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я знаю, что мне очень повезло",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that I was very lucky",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я знаю, что им очень повезло",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that they were very lucky",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Это был чрезвычайно длинный курс",
+      "audio": false
+    },
+    "en": {
+      "text": "It was an extremely long course",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Это был чрезвычайно сложный курс",
+      "audio": false
+    },
+    "en": {
+      "text": "It was an extremely difficult course",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Это был очень длинный курс",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a very long course",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Это было очень приятное чувство",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a very pleasant feeling",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Это очень приятное чувство",
+      "audio": false
+    },
+    "en": {
+      "text": "It’s a very pleasant feeling",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Это было очень хорошее чувство",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a very good feeling",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Коттедж был достаточно большим",
+      "audio": false
+    },
+    "en": {
+      "text": "The cottage was big enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Дом был достаточно большим",
+      "audio": false
+    },
+    "en": {
+      "text": "The house was big enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Это здание было достаточно большим",
+      "audio": false
+    },
+    "en": {
+      "text": "This building was big enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я не думаю, что я сделал большую ошибку",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that I made a big mistake",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Она не думает, что сделала большую ошибку",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't think that she made a big mistake",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Я не думаю, что я сделал много ошибок",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that I made many mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Все люди в том городе были очень дружелюбные",
+      "audio": false
+    },
+    "en": {
+      "text": "All the people in that city were very friendly",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Все люди в этом городе были очень дружелюбные",
+      "audio": false
+    },
+    "en": {
+      "text": "All the people in this city were very friendly",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Многие люди в том городе были очень дружелюбные",
+      "audio": false
+    },
+    "en": {
+      "text": "Many people in that city were very friendly",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Одно из этих мест действительно впечатлило меня",
+      "audio": false
+    },
+    "en": {
+      "text": "One of these places really impressed me",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Комната была достаточно большая",
+      "audio": false
+    },
+    "en": {
+      "text": "The room was big enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Это был чрезвычайно важный урок",
+      "audio": false
+    },
+    "en": {
+      "text": "It was an extremely important lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Один из моих друзей работал в банке",
+      "audio": false
+    },
+    "en": {
+      "text": "One of my friends worked in a bank",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Он согласился сделать это в конце",
+      "audio": false
+    },
+    "en": {
+      "text": "He agreed to do it in the end",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Люди в этом городе были очень дружелюбные",
+      "audio": false
+    },
+    "en": {
+      "text": "The people in this city were very friendly",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Я старался не показывать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I tried not to show it",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Я хотел общаться с иностранцами",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to communicate with foreigners",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Мне удалось сделать все вовремя",
+      "audio": false
+    },
+    "en": {
+      "text": "I managed to do everything on time",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Я часто опаздывал",
+      "audio": false
+    },
+    "en": {
+      "text": "I was often late",
+      "audio": false
+    }
+  },
+  {
+    "id": 100,
+    "ru": {
+      "text": "Я верил, что это была правда",
+      "audio": false
+    },
+    "en": {
+      "text": "I believed that it was true",
+      "audio": false
+    }
+  },
+  {
+    "id": 101,
+    "ru": {
+      "text": "Это было необходимо сделать",
+      "audio": false
+    },
+    "en": {
+      "text": "It was necessary to do",
+      "audio": false
+    }
+  },
+  {
+    "id": 102,
+    "ru": {
+      "text": "Он стал американским гражданином",
+      "audio": false
+    },
+    "en": {
+      "text": "He became an American citizen",
+      "audio": false
+    }
+  },
+  {
+    "id": 103,
+    "ru": {
+      "text": "Вам действительно повезло",
+      "audio": false
+    },
+    "en": {
+      "text": "You were really lucky",
+      "audio": false
+    }
   }
 ]

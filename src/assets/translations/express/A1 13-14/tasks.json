@@ -1,247 +1,541 @@
 [
   {
-    "_id": 1,
-    "ru": "Все в порядке",
-    "en": "Everything is OK"
+    "id": 1,
+    "ru": {
+      "text": "Все в порядке",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything is OK",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я не знаю, что сказать тебе",
-    "en": "I don't know what to tell you"
+    "id": 2,
+    "ru": {
+      "text": "Я не знаю, что сказать тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know what to tell you",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Все очень дорого здесь",
-    "en": "Everything is very expensive here"
+    "id": 3,
+    "ru": {
+      "text": "Все очень дорого здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything is very expensive here",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Что действительно вдохновляет тебя?",
-    "en": "What really inspires you?"
+    "id": 4,
+    "ru": {
+      "text": "Что действительно вдохновляет тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "What really inspires you?",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Все понимают это",
-    "en": "Everyone understands it"
+    "id": 5,
+    "ru": {
+      "text": "Все понимают это",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone understands it",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я хочу сказать, что я действительно обожаю заниматься английским",
-    "en": "I want to say that I really enjoy learning English"
+    "id": 6,
+    "ru": {
+      "text": "Я хочу сказать, что я действительно обожаю заниматься английским",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to say that I really enjoy learning English",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Ты знаешь, я действительно обожаю путешествовать",
-    "en": "You know, I really enjoy travelling"
+    "id": 7,
+    "ru": {
+      "text": "Ты знаешь, я действительно обожаю путешествовать",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, I really enjoy travelling",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Все люди знают это",
-    "en": "All people know it"
+    "id": 8,
+    "ru": {
+      "text": "Все люди знают это",
+      "audio": false
+    },
+    "en": {
+      "text": "All people know it",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Что ты хочешь изменить?",
-    "en": "What do you want to change?"
+    "id": 9,
+    "ru": {
+      "text": "Что ты хочешь изменить?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do you want to change?",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Что интересует тебя?",
-    "en": "What interests you?"
+    "id": 10,
+    "ru": {
+      "text": "Что интересует тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "What interests you?",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Все под контролем",
-    "en": "Everything is under control"
+    "id": 11,
+    "ru": {
+      "text": "Все под контролем",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything is under control",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я не знаю, что делать в этой ситуации",
-    "en": "I don't know what to do in this situation"
+    "id": 12,
+    "ru": {
+      "text": "Я не знаю, что делать в этой ситуации",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know what to do in this situation",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я обожаю проводить время со своими друзьями",
-    "en": "I enjoy spending time with my friends"
+    "id": 13,
+    "ru": {
+      "text": "Я обожаю проводить время со своими друзьями",
+      "audio": false
+    },
+    "en": {
+      "text": "I enjoy spending time with my friends",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Кого ты видишь?",
-    "en": "Who do you see?"
+    "id": 14,
+    "ru": {
+      "text": "Кого ты видишь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who do you see?",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я не знаю, что делать",
-    "en": "I don't know what to do"
+    "id": 15,
+    "ru": {
+      "text": "Я не знаю, что делать",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know what to do",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Ты знаешь, как найти эту информацию?",
-    "en": "Do you know how to find this information?"
+    "id": 16,
+    "ru": {
+      "text": "Ты знаешь, как найти эту информацию?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know how to find this information?",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я не знаю, что сказать",
-    "en": "I don't know what to say"
+    "id": 17,
+    "ru": {
+      "text": "Я не знаю, что сказать",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know what to say",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Я действительно обожаю проводить время со своими друзьями",
-    "en": "I really enjoy spending time with my friends"
+    "id": 18,
+    "ru": {
+      "text": "Я действительно обожаю проводить время со своими друзьями",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy spending time with my friends",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Ты знаешь, что делать?",
-    "en": "Do you know what to do?"
+    "id": 19,
+    "ru": {
+      "text": "Ты знаешь, что делать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you know what to do?",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Что кажется лучше?",
-    "en": "What seems better?"
+    "id": 20,
+    "ru": {
+      "text": "Что кажется лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "What seems better?",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Ты думаешь, это действительно возможно?",
-    "en": "Do you think it's really possible?"
+    "id": 21,
+    "ru": {
+      "text": "Ты думаешь, это действительно возможно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you think it's really possible?",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Я обожаю путешествовать",
-    "en": "I enjoy travelling"
+    "id": 22,
+    "ru": {
+      "text": "Я обожаю путешествовать",
+      "audio": false
+    },
+    "en": {
+      "text": "I enjoy travelling",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Я обожаю заниматься английским",
-    "en": "I enjoy learning English"
+    "id": 23,
+    "ru": {
+      "text": "Я обожаю заниматься английским",
+      "audio": false
+    },
+    "en": {
+      "text": "I enjoy learning English",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Я не знаю, как ответить на этот вопрос",
-    "en": "I don't know how to answer this question"
+    "id": 24,
+    "ru": {
+      "text": "Я не знаю, как ответить на этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know how to answer this question",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Я обожаю английский",
-    "en": "I enjoy English"
+    "id": 25,
+    "ru": {
+      "text": "Я обожаю английский",
+      "audio": false
+    },
+    "en": {
+      "text": "I enjoy English",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Я не знаю, как этим пользоваться",
-    "en": "I don't know how to use it"
+    "id": 26,
+    "ru": {
+      "text": "Я не знаю, как этим пользоваться",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know how to use it",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Ты думаешь, это хорошая цена?",
-    "en": "Do you think it's a good price?"
+    "id": 27,
+    "ru": {
+      "text": "Ты думаешь, это хорошая цена?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you think it's a good price?",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Что беспокоит тебя?",
-    "en": "What worries you?"
+    "id": 28,
+    "ru": {
+      "text": "Что беспокоит тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "What worries you?",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Что звучит интереснее?",
-    "en": "What sounds more interesting?"
+    "id": 29,
+    "ru": {
+      "text": "Что звучит интереснее?",
+      "audio": false
+    },
+    "en": {
+      "text": "What sounds more interesting?",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Все кажется очень важным",
-    "en": "Everything seems very important"
+    "id": 30,
+    "ru": {
+      "text": "Все кажется очень важным",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything seems very important",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Все знают это",
-    "en": "Everyone knows it"
+    "id": 31,
+    "ru": {
+      "text": "Все знают это",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone knows it",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Я не думаю, что это действительно возможно",
-    "en": "I don't think that it's really possible"
+    "id": 32,
+    "ru": {
+      "text": "Я не думаю, что это действительно возможно",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that it's really possible",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Я не знаю, как перевести это",
-    "en": "I don't know how to translate it"
+    "id": 33,
+    "ru": {
+      "text": "Я не знаю, как перевести это",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know how to translate it",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Кто знает это?",
-    "en": "Who knows it?"
+    "id": 34,
+    "ru": {
+      "text": "Кто знает это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who knows it?",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Все кажется очень дорогим",
-    "en": "Everything seems very expensive"
+    "id": 35,
+    "ru": {
+      "text": "Все кажется очень дорогим",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything seems very expensive",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Что помогает тебе?",
-    "en": "What helps you?"
+    "id": 36,
+    "ru": {
+      "text": "Что помогает тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "What helps you?",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Все люди понимают это",
-    "en": "All people understand it"
+    "id": 37,
+    "ru": {
+      "text": "Все люди понимают это",
+      "audio": false
+    },
+    "en": {
+      "text": "All people understand it",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Я думаю, это возможно",
-    "en": "I think it's possible"
+    "id": 38,
+    "ru": {
+      "text": "Я думаю, это возможно",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it's possible",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Я хочу сказать тебе, что я действительно обожаю музыку",
-    "en": "I want to tell you that I really enjoy music"
+    "id": 39,
+    "ru": {
+      "text": "Я хочу сказать тебе, что я действительно обожаю музыку",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to tell you that I really enjoy music",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Я действительно обожаю изучать иностранные языки",
-    "en": "I really enjoy learning foreign languages"
+    "id": 40,
+    "ru": {
+      "text": "Я действительно обожаю изучать иностранные языки",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy learning foreign languages",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Ты думаешь, это возможно?",
-    "en": "Do you think it's possible?"
+    "id": 41,
+    "ru": {
+      "text": "Ты думаешь, это возможно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you think it's possible?",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Что вдохновляет тебя?",
-    "en": "What inspires you?"
+    "id": 42,
+    "ru": {
+      "text": "Что вдохновляет тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "What inspires you?",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Я хочу сказать, что я обожаю музыку",
-    "en": "I want to say that I enjoy music"
+    "id": 43,
+    "ru": {
+      "text": "Я хочу сказать, что я обожаю музыку",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to say that I enjoy music",
+      "audio": false
+    }
   },
   {
-    "_id": 44,
-    "ru": "Я хочу сказать, что я действительно обожаю спорт",
-    "en": "I want to say that I really enjoy sport"
+    "id": 44,
+    "ru": {
+      "text": "Я хочу сказать, что я действительно обожаю спорт",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to say that I really enjoy sport",
+      "audio": false
+    }
   },
   {
-    "_id": 45,
-    "ru": "Почему ты так сильно об этом беспокоишься?",
-    "en": "Why do you worry about it so much?"
+    "id": 45,
+    "ru": {
+      "text": "Почему ты так сильно об этом беспокоишься?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why do you worry about it so much?",
+      "audio": false
+    }
   },
   {
-    "_id": 46,
-    "ru": "Что мотивирует тебя?",
-    "en": "What motivates you?"
+    "id": 46,
+    "ru": {
+      "text": "Что мотивирует тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "What motivates you?",
+      "audio": false
+    }
   },
   {
-    "_id": 47,
-    "ru": "Что касается меня, я действительно обожаю путешествовать",
-    "en": "As for me, I really enjoy travelling"
+    "id": 47,
+    "ru": {
+      "text": "Что касается меня, я действительно обожаю путешествовать",
+      "audio": false
+    },
+    "en": {
+      "text": "As for me, I really enjoy travelling",
+      "audio": false
+    }
   },
   {
-    "_id": 48,
-    "ru": "Я не знаю, что ответить",
-    "en": "I don't know what to answer"
+    "id": 48,
+    "ru": {
+      "text": "Я не знаю, что ответить",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know what to answer",
+      "audio": false
+    }
   },
   {
-    "_id": 49,
-    "ru": "Что звучит лучше?",
-    "en": "What sounds better?"
+    "id": 49,
+    "ru": {
+      "text": "Что звучит лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "What sounds better?",
+      "audio": false
+    }
   }
 ]

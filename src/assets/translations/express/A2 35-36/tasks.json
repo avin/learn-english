@@ -1,102 +1,222 @@
 [
   {
-    "_id": 1,
-    "ru": "У меня никогда не было такого рода опыта",
-    "en": "I've never had this kind of experience"
+    "id": 1,
+    "ru": {
+      "text": "У меня никогда не было такого рода опыта",
+      "audio": false
+    },
+    "en": {
+      "text": "I've never had this kind of experience",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Учитель попросил их заполнить пропуски",
-    "en": "The teacher asked them to fill in the gaps"
+    "id": 2,
+    "ru": {
+      "text": "Учитель попросил их заполнить пропуски",
+      "audio": false
+    },
+    "en": {
+      "text": "The teacher asked them to fill in the gaps",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Заполните форму, пожалуйста!",
-    "en": "Fill in the form, please!"
+    "id": 3,
+    "ru": {
+      "text": "Заполните форму, пожалуйста!",
+      "audio": false
+    },
+    "en": {
+      "text": "Fill in the form, please!",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Что он сейчас ест?",
-    "en": "What is he eating now?"
+    "id": 4,
+    "ru": {
+      "text": "Что он сейчас ест?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is he eating now?",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Он только что извинился за свое грубое поведение",
-    "en": "He's just apologized for his rude behaviour"
+    "id": 5,
+    "ru": {
+      "text": "Он только что извинился за свое грубое поведение",
+      "audio": false
+    },
+    "en": {
+      "text": "He's just apologized for his rude behaviour",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Он только что сделал ошибку",
-    "en": "He's just made a mistake"
+    "id": 6,
+    "ru": {
+      "text": "Он только что сделал ошибку",
+      "audio": false
+    },
+    "en": {
+      "text": "He's just made a mistake",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я чувствовал, что мне нужно было гораздо больше практики",
-    "en": "I felt that I needed much more practice"
+    "id": 7,
+    "ru": {
+      "text": "Я чувствовал, что мне нужно было гораздо больше практики",
+      "audio": false
+    },
+    "en": {
+      "text": "I felt that I needed much more practice",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Ты можешь копировать ошибки других людей там",
-    "en": "You can copy other people's mistakes there"
+    "id": 8,
+    "ru": {
+      "text": "Ты можешь копировать ошибки других людей там",
+      "audio": false
+    },
+    "en": {
+      "text": "You can copy other people's mistakes there",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Когда я пришел туда, я осознал, что пропустил автобус",
-    "en": "When I came there, I realized that I had missed the bus"
+    "id": 9,
+    "ru": {
+      "text": "Когда я пришел туда, я осознал, что пропустил автобус",
+      "audio": false
+    },
+    "en": {
+      "text": "When I came there, I realized that I had missed the bus",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Это сейчас так дорого стоит",
-    "en": "It costs so much now"
+    "id": 10,
+    "ru": {
+      "text": "Это сейчас так дорого стоит",
+      "audio": false
+    },
+    "en": {
+      "text": "It costs so much now",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я еще не выбрал ответ",
-    "en": "I haven't chosen the answer yet"
+    "id": 11,
+    "ru": {
+      "text": "Я еще не выбрал ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't chosen the answer yet",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Он обещал сделать это так много раз",
-    "en": "He's promised to do it so many times"
+    "id": 12,
+    "ru": {
+      "text": "Он обещал сделать это так много раз",
+      "audio": false
+    },
+    "en": {
+      "text": "He's promised to do it so many times",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Пока он нес ее сумку, они говорили о чем-то",
-    "en": "While he was carrying her bag, they were talking about something"
+    "id": 13,
+    "ru": {
+      "text": "Пока он нес ее сумку, они говорили о чем-то",
+      "audio": false
+    },
+    "en": {
+      "text": "While he was carrying her bag, they were talking about something",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я еще не ответил на это письмо",
-    "en": "I haven't answered this letter yet"
+    "id": 14,
+    "ru": {
+      "text": "Я еще не ответил на это письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't answered this letter yet",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Вы можете копировать ошибки других студентов там",
-    "en": "You can copy other students' mistakes there"
+    "id": 15,
+    "ru": {
+      "text": "Вы можете копировать ошибки других студентов там",
+      "audio": false
+    },
+    "en": {
+      "text": "You can copy other students' mistakes there",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "О чем он говорит? Я не могу понять это",
-    "en": "What is he talking about? I can't understand it"
+    "id": 16,
+    "ru": {
+      "text": "О чем он говорит? Я не могу понять это",
+      "audio": false
+    },
+    "en": {
+      "text": "What is he talking about? I can't understand it",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я еще не заметил каких-либо серьезных изменений",
-    "en": "I haven't noticed any serious changes yet"
+    "id": 17,
+    "ru": {
+      "text": "Я еще не заметил каких-либо серьезных изменений",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't noticed any serious changes yet",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Он занял очень большую сумму денег в этом месяце",
-    "en": "He's borrowed a very big sum of money this month"
+    "id": 18,
+    "ru": {
+      "text": "Он занял очень большую сумму денег в этом месяце",
+      "audio": false
+    },
+    "en": {
+      "text": "He's borrowed a very big sum of money this month",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Он старается путешествовать каждый год",
-    "en": "He tries to travel every year"
+    "id": 19,
+    "ru": {
+      "text": "Он старается путешествовать каждый год",
+      "audio": false
+    },
+    "en": {
+      "text": "He tries to travel every year",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Мальчик играл в эту игру весь день",
-    "en": "The boy was playing this game all day"
+    "id": 20,
+    "ru": {
+      "text": "Мальчик играл в эту игру весь день",
+      "audio": false
+    },
+    "en": {
+      "text": "The boy was playing this game all day",
+      "audio": false
+    }
   }
 ]

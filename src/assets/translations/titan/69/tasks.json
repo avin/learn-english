@@ -1,497 +1,1091 @@
 [
   {
-    "_id": 1,
-    "ru": "Сколько у тебя вопросов?",
-    "en": "How many questions do you have?"
-  },
-  {
-    "_id": 2,
-    "ru": "Почему он учит английский?",
-    "en": "Why does he learn English?"
-  },
-  {
-    "_id": 3,
-    "ru": "Почему эти студенты такие счастливые?",
-    "en": "Why are these students so happy?"
-  },
-  {
-    "_id": 4,
-    "ru": "Какой твой адрес?",
-    "en": "What is your address?"
-  },
-  {
-    "_id": 5,
-    "ru": "Мой английский звучит намного лучше, чем раньше?",
-    "en": "Does my English sound much better than before?"
-  },
-  {
-    "_id": 6,
-    "ru": "Сколько вопросов ты обычно задаешь?",
-    "en": "How many questions do you usually make?"
-  },
-  {
-    "_id": 7,
-    "ru": "Как часто ты ходишь на пляж?",
-    "en": "How often do you go to the beach?"
-  },
-  {
-    "_id": 8,
-    "ru": "Почему эта тема интересна тебе?",
-    "en": "Why is this topic interesting for you?"
-  },
-  {
-    "_id": 9,
-    "ru": "Сколько лет твоим родителям?",
-    "en": "How old are your parents?"
-  },
-  {
-    "_id": 10,
-    "ru": "Что означает это слово?",
-    "en": "What does this word mean?"
-  },
-  {
-    "_id": 11,
-    "ru": "Сколько у тебя вопросов?",
-    "en": "How many questions do you have?"
-  },
-  {
-    "_id": 12,
-    "ru": "Почему эта работа такая стрессовая для вас?",
-    "en": "Why is this job so stressful for you?"
-  },
-  {
-    "_id": 13,
-    "ru": "В чем проблема?",
-    "en": "What's the problem?"
-  },
-  {
-    "_id": 14,
-    "ru": "Почему эта вещь кажется такой важной?",
-    "en": "Why does this thing seem so important?"
-  },
-  {
-    "_id": 15,
-    "ru": "Почему это неправильно?",
-    "en": "Why is it incorrect?"
-  },
-  {
-    "_id": 16,
-    "ru": "Почему ты так много думаешь об этом?",
-    "en": "Why do you think about it so much?"
-  },
-  {
-    "_id": 17,
-    "ru": "Где работают твои родители?",
-    "en": "Where do your parents work?"
-  },
-  {
-    "_id": 18,
-    "ru": "Где работает твоя мама?",
-    "en": "Where does your mother work?"
-  },
-  {
-    "_id": 19,
-    "ru": "Что означают эти слова?",
-    "en": "What do these words mean?"
-  },
-  {
-    "_id": 20,
-    "ru": "Что дальше?",
-    "en": "What's next?"
-  },
-  {
-    "_id": 21,
-    "ru": "Насколько это рискованно?",
-    "en": "How risky is it?"
-  },
-  {
-    "_id": 22,
-    "ru": "Кто следующий?",
-    "en": "Who's next?"
-  },
-  {
-    "_id": 23,
-    "ru": "Какой твой адрес?",
-    "en": "What's your address?"
-  },
-  {
-    "_id": 24,
-    "ru": "Какая у твоего отца работа?",
-    "en": "What's your father's job?"
-  },
-  {
-    "_id": 25,
-    "ru": "Какой его совет?",
-    "en": "What's his advice?"
-  },
-  {
-    "_id": 26,
-    "ru": "Как часто он путешествует?",
-    "en": "How often does he travel?"
-  },
-  {
-    "_id": 27,
-    "ru": "Аэропорт рядом?",
-    "en": "Is the airport near?"
-  },
-  {
-    "_id": 28,
-    "ru": "Какой у нее адрес?",
-    "en": "What's her address?"
-  },
-  {
-    "_id": 29,
-    "ru": "Какие их рекомендации?",
-    "en": "What are their recommendations?"
-  },
-  {
-    "_id": 30,
-    "ru": "Сколько лет твоей маме?",
-    "en": "How old is your mother?"
-  },
-  {
-    "_id": 31,
-    "ru": "Какая у твоей мамы работа?",
-    "en": "What's your mother's job?"
-  },
-  {
-    "_id": 32,
-    "ru": "Насколько глубокое озеро?",
-    "en": "How deep is the lake?"
-  },
-  {
-    "_id": 33,
-    "ru": "Почему тебе нравится этот отель?",
-    "en": "Why do you like this hotel?"
-  },
-  {
-    "_id": 34,
-    "ru": "Что в посылке?",
-    "en": "What's in the parcel?"
-  },
-  {
-    "_id": 35,
-    "ru": "Этот отель рядом с этим местом?",
-    "en": "Is this hotel near this place?"
-  },
-  {
-    "_id": 36,
-    "ru": "Насколько опасно это?",
-    "en": "How dangerous is it?"
-  },
-  {
-    "_id": 37,
-    "ru": "Насколько красивый этот город?",
-    "en": "How beautiful is this city?"
-  },
-  {
-    "_id": 38,
-    "ru": "Насколько это важно для тебя?",
-    "en": "How important is it for you?"
-  },
-  {
-    "_id": 39,
-    "ru": "Что означает это выражение?",
-    "en": "What does this expression mean?"
-  },
-  {
-    "_id": 40,
-    "ru": "Почему это тебе так интересно?",
-    "en": "Why is it so interesting for you?"
-  },
-  {
-    "_id": 41,
-    "ru": "Сколько лет твоему отцу?",
-    "en": "How old is your father?"
-  },
-  {
-    "_id": 42,
-    "ru": "Где работает твой отец?",
-    "en": "Where does your father work?"
-  },
-  {
-    "_id": 43,
-    "ru": "Мой английский намного лучше, чем раньше?",
-    "en": "Is my English much better than before?"
-  },
-  {
-    "_id": 44,
-    "ru": "Что означает эта фраза?",
-    "en": "What does this phrase mean?"
-  },
-  {
-    "_id": 45,
-    "ru": "Как зовут мальчика?",
-    "en": "What's the boy's name?"
-  },
-  {
-    "_id": 46,
-    "ru": "Почему тебе нужно сделать это как можно скорее?",
-    "en": "Why do you need to do it as soon as possible?"
-  },
-  {
-    "_id": 47,
-    "ru": "Как ты заботишься о своем здоровье?",
-    "en": "How do you look after your health?"
-  },
-  {
-    "_id": 48,
-    "ru": "Как долго он добирается до школы?",
-    "en": "How long does he get to school?"
-  },
-  {
-    "_id": 49,
-    "ru": "Почему он так заинтересован в этом проекте?",
-    "en": "Why is he so interested in this project?"
-  },
-  {
-    "_id": 50,
-    "ru": "Почему ты предпочитаешь изучать английский язык сам?",
-    "en": "Why do you prefer to learn English by yourself?"
-  },
-  {
-    "_id": 51,
-    "ru": "Сколько раз в неделю ты ходишь в бассейн?",
-    "en": "How many times a week do you go to the swimming pool?"
-  },
-  {
-    "_id": 52,
-    "ru": "Почему он предпочитает изучать английский сам?",
-    "en": "Why does he prefer to learn English by himself?"
-  },
-  {
-    "_id": 53,
-    "ru": "Как долго она добирается домой?",
-    "en": "How long does she get home?"
-  },
-  {
-    "_id": 54,
-    "ru": "Какие у девочки интересы?",
-    "en": "What are the girl's interests?"
-  },
-  {
-    "_id": 55,
-    "ru": "Какой у тебя уровень английского?",
-    "en": "What's your English level?"
-  },
-  {
-    "_id": 56,
-    "ru": "Как часто ты читаешь этот журнал?",
-    "en": "How often do you read this magazine?"
-  },
-  {
-    "_id": 57,
-    "ru": "Что в коробке?",
-    "en": "What's in the box?"
-  },
-  {
-    "_id": 58,
-    "ru": "Как зовут твоего друга?",
-    "en": "What's your friend's name?"
-  },
-  {
-    "_id": 59,
-    "ru": "Как долго идет урок?",
-    "en": "How long is the lesson?"
-  },
-  {
-    "_id": 60,
-    "ru": "Как долго идет фильм?",
-    "en": "How long is the movie?"
-  },
-  {
-    "_id": 61,
-    "ru": "Как долго идут эти уроки?",
-    "en": "How long are these lessons?"
-  },
-  {
-    "_id": 62,
-    "ru": "Как зовут девочек?",
-    "en": "What are the girls' names?"
-  },
-  {
-    "_id": 63,
-    "ru": "Как зовут девочку?",
-    "en": "What is the girl's name?"
-  },
-  {
-    "_id": 64,
-    "ru": "Как зовут женщину?",
-    "en": "What is the woman's name?"
-  },
-  {
-    "_id": 65,
-    "ru": "Какие у мальчика хобби?",
-    "en": "What are the boy's hobbies?"
-  },
-  {
-    "_id": 66,
-    "ru": "Какое у мальчика хобби?",
-    "en": "What is the boy's hobby?"
-  },
-  {
-    "_id": 67,
-    "ru": "Какие у того мальчика хобби?",
-    "en": "What are that boy's hobbies?"
-  },
-  {
-    "_id": 68,
-    "ru": "Как он обычно туда добирается?",
-    "en": "How does he usually get there?"
-  },
-  {
-    "_id": 69,
-    "ru": "Как она обычно туда добирается?",
-    "en": "How does she usually get there?"
-  },
-  {
-    "_id": 70,
-    "ru": "Когда ты обычно туда добираешься?",
-    "en": "When do you usually get there?"
-  },
-  {
-    "_id": 71,
-    "ru": "Как долго идут уроки?",
-    "en": "How long are the lessons?"
-  },
-  {
-    "_id": 72,
-    "ru": "Как долго идет этот урок?",
-    "en": "How long is this lesson?"
-  },
-  {
-    "_id": 73,
-    "ru": "Какой у него уровень английского?",
-    "en": "What's his English level?"
-  },
-  {
-    "_id": 74,
-    "ru": "Какой у нее уровень английского?",
-    "en": "What's her English level?"
-  },
-  {
-    "_id": 75,
-    "ru": "Как зовут эту девочку?",
-    "en": "What's this girl's name?"
-  },
-  {
-    "_id": 76,
-    "ru": "Как ты добираешься до работы?",
-    "en": "How do you get to work?"
-  },
-  {
-    "_id": 77,
-    "ru": "Как он добирается до работы?",
-    "en": "How does he get to work?"
-  },
-  {
-    "_id": 78,
-    "ru": "Как ты добираешься до школы?",
-    "en": "How do you get to school?"
-  },
-  {
-    "_id": 79,
-    "ru": "Как долго идут курсы?",
-    "en": "How long are the courses?"
-  },
-  {
-    "_id": 80,
-    "ru": "Как долго идут эти курсы?",
-    "en": "How long are these courses?"
-  },
-  {
-    "_id": 81,
-    "ru": "Как долго идет этот курс?",
-    "en": "How long is this course?"
-  },
-  {
-    "_id": 82,
-    "ru": "Как ты добираешься домой после работы?",
-    "en": "How do you get home after work?"
-  },
-  {
-    "_id": 83,
-    "ru": "Как она добирается домой после работы?",
-    "en": "How does she get home after work?"
-  },
-  {
-    "_id": 84,
-    "ru": "Как ты возвращаешься домой?",
-    "en": "How do you get back home?"
-  },
-  {
-    "_id": 85,
-    "ru": "Сколько раз в неделю он ходит на работу?",
-    "en": "How many times a week does he go to work?"
-  },
-  {
-    "_id": 86,
-    "ru": "Что в сумке?",
-    "en": "What is in the bag?"
-  },
-  {
-    "_id": 87,
-    "ru": "Какие их потребности?",
-    "en": "What are their needs?"
-  },
-  {
-    "_id": 88,
-    "ru": "Как долго ты добираешься до работы?",
-    "en": "How long do you get to work?"
-  },
-  {
-    "_id": 89,
-    "ru": "Почему он изучает английский самостоятельно?",
-    "en": "Why does he learn English on his own?"
-  },
-  {
-    "_id": 90,
-    "ru": "Сколько раз в неделю ты ходишь в спортзал?",
-    "en": "How many times a week do you go to the gym?"
-  },
-  {
-    "_id": 91,
-    "ru": "Как долго ты добираешься в университет?",
-    "en": "How long do you get to university?"
-  },
-  {
-    "_id": 92,
-    "ru": "Как часто ты бегаешь трусцой?",
-    "en": "How often do you go jogging?"
-  },
-  {
-    "_id": 93,
-    "ru": "Почему ты предпочитаешь делать это самостоятельно?",
-    "en": "Why do you prefer to do it on your own?"
-  },
-  {
-    "_id": 94,
-    "ru": "Насколько дорогие эти часы?",
-    "en": "How expensive is this watch?"
-  },
-  {
-    "_id": 95,
-    "ru": "Какой у тебя уровень?",
-    "en": "What's your level?"
-  },
-  {
-    "_id": 96,
-    "ru": "Какие у мальчиков хобби?",
-    "en": "What are the boys' hobbies?"
-  },
-  {
-    "_id": 97,
-    "ru": "Насколько это полезно?",
-    "en": "How useful is it?"
-  },
-  {
-    "_id": 98,
-    "ru": "Насколько это эффективно?",
-    "en": "How effective is it?"
-  },
-  {
-    "_id": 99,
-    "ru": "Как зовут мальчиков?",
-    "en": "What are the boys' names?"
+    "id": 1,
+    "ru": {
+      "text": "Сколько у тебя вопросов?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many questions do you have?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Почему он учит английский?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why does he learn English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Почему эти студенты такие счастливые?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why are these students so happy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Какой твой адрес?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is your address?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Мой английский звучит намного лучше, чем раньше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does my English sound much better than before?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Сколько вопросов ты обычно задаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many questions do you usually make?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Как часто ты ходишь на пляж?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often do you go to the beach?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Почему эта тема интересна тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is this topic interesting for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Сколько лет твоим родителям?",
+      "audio": false
+    },
+    "en": {
+      "text": "How old are your parents?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Что означает это слово?",
+      "audio": false
+    },
+    "en": {
+      "text": "What does this word mean?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Сколько у тебя вопросов?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many questions do you have?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Почему эта работа такая стрессовая для вас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is this job so stressful for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "В чем проблема?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's the problem?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Почему эта вещь кажется такой важной?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why does this thing seem so important?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Почему это неправильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is it incorrect?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Почему ты так много думаешь об этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why do you think about it so much?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Где работают твои родители?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where do your parents work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Где работает твоя мама?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where does your mother work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Что означают эти слова?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do these words mean?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Что дальше?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's next?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Насколько это рискованно?",
+      "audio": false
+    },
+    "en": {
+      "text": "How risky is it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Кто следующий?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who's next?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Какой твой адрес?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's your address?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Какая у твоего отца работа?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's your father's job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Какой его совет?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's his advice?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Как часто он путешествует?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often does he travel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Аэропорт рядом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the airport near?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Какой у нее адрес?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's her address?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Какие их рекомендации?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are their recommendations?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Сколько лет твоей маме?",
+      "audio": false
+    },
+    "en": {
+      "text": "How old is your mother?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Какая у твоей мамы работа?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's your mother's job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Насколько глубокое озеро?",
+      "audio": false
+    },
+    "en": {
+      "text": "How deep is the lake?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Почему тебе нравится этот отель?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why do you like this hotel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Что в посылке?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's in the parcel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Этот отель рядом с этим местом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this hotel near this place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Насколько опасно это?",
+      "audio": false
+    },
+    "en": {
+      "text": "How dangerous is it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Насколько красивый этот город?",
+      "audio": false
+    },
+    "en": {
+      "text": "How beautiful is this city?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Насколько это важно для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "How important is it for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Что означает это выражение?",
+      "audio": false
+    },
+    "en": {
+      "text": "What does this expression mean?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Почему это тебе так интересно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is it so interesting for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Сколько лет твоему отцу?",
+      "audio": false
+    },
+    "en": {
+      "text": "How old is your father?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Где работает твой отец?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where does your father work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Мой английский намного лучше, чем раньше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is my English much better than before?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Что означает эта фраза?",
+      "audio": false
+    },
+    "en": {
+      "text": "What does this phrase mean?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Как зовут мальчика?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's the boy's name?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Почему тебе нужно сделать это как можно скорее?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why do you need to do it as soon as possible?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Как ты заботишься о своем здоровье?",
+      "audio": false
+    },
+    "en": {
+      "text": "How do you look after your health?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Как долго он добирается до школы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long does he get to school?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Почему он так заинтересован в этом проекте?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is he so interested in this project?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Почему ты предпочитаешь изучать английский язык сам?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why do you prefer to learn English by yourself?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Сколько раз в неделю ты ходишь в бассейн?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many times a week do you go to the swimming pool?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Почему он предпочитает изучать английский сам?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why does he prefer to learn English by himself?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Как долго она добирается домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long does she get home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Какие у девочки интересы?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are the girl's interests?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Какой у тебя уровень английского?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's your English level?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Как часто ты читаешь этот журнал?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often do you read this magazine?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Что в коробке?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's in the box?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Как зовут твоего друга?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's your friend's name?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Как долго идет урок?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long is the lesson?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Как долго идет фильм?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long is the movie?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Как долго идут эти уроки?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long are these lessons?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Как зовут девочек?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are the girls' names?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Как зовут девочку?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is the girl's name?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Как зовут женщину?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is the woman's name?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Какие у мальчика хобби?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are the boy's hobbies?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Какое у мальчика хобби?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is the boy's hobby?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Какие у того мальчика хобби?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are that boy's hobbies?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Как он обычно туда добирается?",
+      "audio": false
+    },
+    "en": {
+      "text": "How does he usually get there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Как она обычно туда добирается?",
+      "audio": false
+    },
+    "en": {
+      "text": "How does she usually get there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Когда ты обычно туда добираешься?",
+      "audio": false
+    },
+    "en": {
+      "text": "When do you usually get there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Как долго идут уроки?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long are the lessons?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Как долго идет этот урок?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long is this lesson?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Какой у него уровень английского?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's his English level?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Какой у нее уровень английского?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's her English level?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Как зовут эту девочку?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's this girl's name?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Как ты добираешься до работы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How do you get to work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Как он добирается до работы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How does he get to work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Как ты добираешься до школы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How do you get to school?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Как долго идут курсы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long are the courses?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Как долго идут эти курсы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long are these courses?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Как долго идет этот курс?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long is this course?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Как ты добираешься домой после работы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How do you get home after work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Как она добирается домой после работы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How does she get home after work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Как ты возвращаешься домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "How do you get back home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Сколько раз в неделю он ходит на работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many times a week does he go to work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Что в сумке?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is in the bag?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Какие их потребности?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are their needs?",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Как долго ты добираешься до работы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long do you get to work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Почему он изучает английский самостоятельно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why does he learn English on his own?",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Сколько раз в неделю ты ходишь в спортзал?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many times a week do you go to the gym?",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Как долго ты добираешься в университет?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long do you get to university?",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Как часто ты бегаешь трусцой?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often do you go jogging?",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Почему ты предпочитаешь делать это самостоятельно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why do you prefer to do it on your own?",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Насколько дорогие эти часы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How expensive is this watch?",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Какой у тебя уровень?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's your level?",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Какие у мальчиков хобби?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are the boys' hobbies?",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Насколько это полезно?",
+      "audio": false
+    },
+    "en": {
+      "text": "How useful is it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Насколько это эффективно?",
+      "audio": false
+    },
+    "en": {
+      "text": "How effective is it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Как зовут мальчиков?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are the boys' names?",
+      "audio": false
+    }
   }
 ]

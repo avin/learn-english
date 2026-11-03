@@ -1,517 +1,1135 @@
 [
   {
-    "_id": 1,
-    "ru": "Мы уже встречались",
-    "en": "We have already met"
-  },
-  {
-    "_id": 2,
-    "ru": "Он только что посмотрел этот фильм",
-    "en": "He has just watched this film"
-  },
-  {
-    "_id": 3,
-    "ru": "Я уже получил твое письмо",
-    "en": "I’ve already got your letter"
-  },
-  {
-    "_id": 4,
-    "ru": "Он только что прочитал эту книгу",
-    "en": "He's just read this book"
-  },
-  {
-    "_id": 5,
-    "ru": "Я только что закончил свою домашнюю работу",
-    "en": "I have just finished my homework"
-  },
-  {
-    "_id": 6,
-    "ru": "Мы уже посмотрели этот фильм",
-    "en": "We have already watched this movie"
-  },
-  {
-    "_id": 7,
-    "ru": "Я еще не получил твою посылку",
-    "en": "I haven’t received your parcel yet"
-  },
-  {
-    "_id": 8,
-    "ru": "Она еще не приготовила ужин",
-    "en": "She hasn’t cooked dinner yet"
-  },
-  {
-    "_id": 9,
-    "ru": "Ты когда-нибудь был там?",
-    "en": "Have you ever been there?"
-  },
-  {
-    "_id": 10,
-    "ru": "Он когда-нибудь был в Канаде?",
-    "en": "Has he ever been to Canada?"
-  },
-  {
-    "_id": 11,
-    "ru": "Я был в этом городе много раз",
-    "en": "I've been to this city many times"
-  },
-  {
-    "_id": 12,
-    "ru": "Я там еще не был",
-    "en": "I haven't been there yet"
-  },
-  {
-    "_id": 13,
-    "ru": "Он закончил школу в этом году",
-    "en": "He has finished school this year"
-  },
-  {
-    "_id": 14,
-    "ru": "Мы только что посетили этот замок",
-    "en": "We have just visited this castle"
-  },
-  {
-    "_id": 15,
-    "ru": "Я посетил тот музей на этой неделе",
-    "en": "I've visited that museum this week"
-  },
-  {
-    "_id": 16,
-    "ru": "Я уже зарезервировал столик в местном ресторане",
-    "en": "I have already reserved a table at the local restaurant"
-  },
-  {
-    "_id": 17,
-    "ru": "Я только что узнал это",
-    "en": "I have just known it"
-  },
-  {
-    "_id": 18,
-    "ru": "Я никогда не был в Китае",
-    "en": "I have never been to China"
-  },
-  {
-    "_id": 19,
-    "ru": "Я только что закончил свой проект",
-    "en": "I have just finished my project"
-  },
-  {
-    "_id": 20,
-    "ru": "Мы уже встречались",
-    "en": "We have already met"
-  },
-  {
-    "_id": 21,
-    "ru": "Я только что понял это",
-    "en": "I have just understood it"
-  },
-  {
-    "_id": 22,
-    "ru": "Он был на Мальте",
-    "en": "He's been to Malta"
-  },
-  {
-    "_id": 23,
-    "ru": "Пациент только что выздоровел",
-    "en": "The patient has just recovered"
-  },
-  {
-    "_id": 24,
-    "ru": "Я был в Англии три раза",
-    "en": "I've been to England three times"
-  },
-  {
-    "_id": 25,
-    "ru": "Я видел это так много раз",
-    "en": "I have seen it so many times"
-  },
-  {
-    "_id": 26,
-    "ru": "Я был за границей",
-    "en": "I've been abroad"
-  },
-  {
-    "_id": 27,
-    "ru": "Я несколько раз посещал Нью-Йорк",
-    "en": "I have visited New York several times"
-  },
-  {
-    "_id": 28,
-    "ru": "Шоу только началось",
-    "en": "The show has just begun"
-  },
-  {
-    "_id": 29,
-    "ru": "Она еще не вернулась из школы",
-    "en": "She hasn't returned from school yet"
-  },
-  {
-    "_id": 30,
-    "ru": "Я уже был там",
-    "en": "I have already been there"
-  },
-  {
-    "_id": 31,
-    "ru": "Ты когда-нибудь был за границей?",
-    "en": "Have you ever been abroad?"
-  },
-  {
-    "_id": 32,
-    "ru": "Ты когда-нибудь был в этой стране?",
-    "en": "Have you ever been to this country?"
-  },
-  {
-    "_id": 33,
-    "ru": "Я смотрел этот фильм много раз",
-    "en": "I have watched this movie many times"
-  },
-  {
-    "_id": 34,
-    "ru": "Я уже сделал это",
-    "en": "I have already done it"
-  },
-  {
-    "_id": 35,
-    "ru": "Я уже погладил свой костюм",
-    "en": "I have already ironed my suit"
-  },
-  {
-    "_id": 36,
-    "ru": "Я был в Канаде",
-    "en": "I've been to Canada"
-  },
-  {
-    "_id": 37,
-    "ru": "Я был в Англии",
-    "en": "I've been to England"
-  },
-  {
-    "_id": 38,
-    "ru": "Я уже забронировал билеты",
-    "en": "I have already booked the tickets"
-  },
-  {
-    "_id": 39,
-    "ru": "Пациент уже выздоровел",
-    "en": "The patient has already recovered"
-  },
-  {
-    "_id": 40,
-    "ru": "Ты когда-нибудь был в этом городе?",
-    "en": "Have you ever been to this city?"
-  },
-  {
-    "_id": 41,
-    "ru": "Она позвонила мне на этой неделе",
-    "en": "She has called me this week"
-  },
-  {
-    "_id": 42,
-    "ru": "Я только что позвонил ему",
-    "en": "I have just called him"
-  },
-  {
-    "_id": 43,
-    "ru": "Он уже забронировал стол в местном кафе",
-    "en": "He has already reserved the table in a local cafe"
-  },
-  {
-    "_id": 44,
-    "ru": "Я был в Соединенных Штатах дважды",
-    "en": "I've been to the United States twice"
-  },
-  {
-    "_id": 45,
-    "ru": "Ты когда-нибудь думал об этом?",
-    "en": "Have you ever thought about it?"
-  },
-  {
-    "_id": 46,
-    "ru": "Она закончила колледж в этом году",
-    "en": "She has graduated from college this year"
-  },
-  {
-    "_id": 47,
-    "ru": "Он только что подтвердил нашу встречу",
-    "en": "He has just confirmed our meeting"
-  },
-  {
-    "_id": 48,
-    "ru": "Она только что погладила рубашки",
-    "en": "She has just ironed the shirts"
-  },
-  {
-    "_id": 49,
-    "ru": "Я всегда хотел иметь свой собственный бизнес",
-    "en": "I've always wanted to have my own business"
-  },
-  {
-    "_id": 50,
-    "ru": "Он всегда хотел иметь большую семью",
-    "en": "He has always wanted to have a big family"
-  },
-  {
-    "_id": 51,
-    "ru": "Он всегда хотел стать ученым",
-    "en": "He has always wanted to become a scientist"
-  },
-  {
-    "_id": 52,
-    "ru": "Я всегда хотел уметь говорить по-английски",
-    "en": "I've always wanted to be able to speak English"
-  },
-  {
-    "_id": 53,
-    "ru": "Я знал его около десяти лет",
-    "en": "I have known him for about ten years"
-  },
-  {
-    "_id": 54,
-    "ru": "Она потеряла свою сумку. Она не может найти ее",
-    "en": "She has lost her bag. She can't find it"
-  },
-  {
-    "_id": 55,
-    "ru": "Я не могу найти свои ключи. Я думаю, что потерял их",
-    "en": "I can't find my keys. I think I've lost them"
-  },
-  {
-    "_id": 56,
-    "ru": "Она никогда не была в Соединенных Штатах",
-    "en": "She's never been to the United States"
-  },
-  {
-    "_id": 57,
-    "ru": "Я потерял свой бумажник. Я не могу найти его",
-    "en": "I've lost my wallet. I can't find it"
-  },
-  {
-    "_id": 58,
-    "ru": "Я никогда не был в Японии",
-    "en": "I have never been to Japan"
-  },
-  {
-    "_id": 59,
-    "ru": "Ты когда-нибудь был в Англии?",
-    "en": "Have you ever been to England?"
-  },
-  {
-    "_id": 60,
-    "ru": "Я только что закончил работу над этим проектом",
-    "en": "I have just finished working on this project"
-  },
-  {
-    "_id": 61,
-    "ru": "Ты был в англоязычной стране?",
-    "en": "Have you been to an English-speaking country?"
-  },
-  {
-    "_id": 62,
-    "ru": "Он всегда хотел стать предпринимателем",
-    "en": "He's always wanted to become an entrepreneur"
-  },
-  {
-    "_id": 63,
-    "ru": "Он никогда не хотел стать предпринимателем",
-    "en": "He's never wanted to become an entrepreneur"
-  },
-  {
-    "_id": 64,
-    "ru": "Он всегда хотел стать инженером",
-    "en": "He's always wanted to become an engineer"
-  },
-  {
-    "_id": 65,
-    "ru": "Я никогда не был в Лос-Анджелесе",
-    "en": "I have never been to Los Angeles"
-  },
-  {
-    "_id": 66,
-    "ru": "Я никогда не был в Соединенных Штатах",
-    "en": "I have never been to The United States"
-  },
-  {
-    "_id": 67,
-    "ru": "Он никогда не был в Англии",
-    "en": "He has never been to England"
-  },
-  {
-    "_id": 68,
-    "ru": "У него плохие новости. Он потерял работу",
-    "en": "He has bad news. He has lost his job"
-  },
-  {
-    "_id": 69,
-    "ru": "У меня плохие новости. Я потерял работу",
-    "en": "I have bad news. I have lost my job"
-  },
-  {
-    "_id": 70,
-    "ru": "У нее очень плохие новости. Она потеряла работу",
-    "en": "She has very bad news. She's lost her job"
-  },
-  {
-    "_id": 71,
-    "ru": "Ты когда-нибудь слышал об этом?",
-    "en": "Have you ever heard about it?"
-  },
-  {
-    "_id": 72,
-    "ru": "Ты когда-нибудь был там?",
-    "en": "Have you ever been there?"
-  },
-  {
-    "_id": 73,
-    "ru": "Ты когда-нибудь слышал эту информацию?",
-    "en": "Have you ever heard this information?"
-  },
-  {
-    "_id": 74,
-    "ru": "Ты когда-нибудь смотрел этот фильм?",
-    "en": "Have you ever watched this movie?"
-  },
-  {
-    "_id": 75,
-    "ru": "Я никогда не смотрел этот фильм",
-    "en": "I have never watched this movie"
-  },
-  {
-    "_id": 76,
-    "ru": "Она когда-нибудь смотрела это видео?",
-    "en": "Has she ever watched this video?"
-  },
-  {
-    "_id": 77,
-    "ru": "Я не видел его с прошлого года",
-    "en": "I haven't seen him since last year"
-  },
-  {
-    "_id": 78,
-    "ru": "Я не видел ее с прошлого месяца",
-    "en": "I haven't seen her since last month"
-  },
-  {
-    "_id": 79,
-    "ru": "Я не видел тебя с прошлого года",
-    "en": "I haven't seen you since last year"
-  },
-  {
-    "_id": 80,
-    "ru": "Я еще не получил твое электронное письмо",
-    "en": "I haven't received your email yet"
-  },
-  {
-    "_id": 81,
-    "ru": "Я уже получил твое электронное письмо",
-    "en": "I have already received your email"
-  },
-  {
-    "_id": 82,
-    "ru": "Я еще не получил твою посылку",
-    "en": "I haven't received your parcel yet"
-  },
-  {
-    "_id": 83,
-    "ru": "Я только что закончил писать этот отчет",
-    "en": "I've just finished writing this report"
-  },
-  {
-    "_id": 84,
-    "ru": "Я только начал писать этот отчет",
-    "en": "I've just started writing this report"
-  },
-  {
-    "_id": 85,
-    "ru": "Я только что закончил писать тебе письмо",
-    "en": "I've just finished writing a letter to you"
-  },
-  {
-    "_id": 86,
-    "ru": "Он никогда не был в англоязычной стране",
-    "en": "He has never been to an English-speaking country"
-  },
-  {
-    "_id": 87,
-    "ru": "Ты когда-нибудь был в англоязычной стране?",
-    "en": "Have you ever been to an English-speaking country?"
-  },
-  {
-    "_id": 88,
-    "ru": "Мы знаем друг друга с детства",
-    "en": "We have known each other since childhood"
-  },
-  {
-    "_id": 89,
-    "ru": "Мы знаем друг друга с прошлого года",
-    "en": "We have known each other since last year"
-  },
-  {
-    "_id": 90,
-    "ru": "Они знают друг друга с детства",
-    "en": "They have known each other since childhood"
-  },
-  {
-    "_id": 91,
-    "ru": "Я всегда хотел знать английский",
-    "en": "I've always wanted to know English"
-  },
-  {
-    "_id": 92,
-    "ru": "Ты когда-нибудь летал на самолете?",
-    "en": "Have you ever flown on a plane?"
-  },
-  {
-    "_id": 93,
-    "ru": "Ты уже устал?",
-    "en": "Have you already got tired?"
-  },
-  {
-    "_id": 94,
-    "ru": "Ты когда-нибудь читал эту книгу?",
-    "en": "Have you ever read this book?"
-  },
-  {
-    "_id": 95,
-    "ru": "Она всегда хотела стать суперзвездой",
-    "en": "She has always wanted to become a superstar"
-  },
-  {
-    "_id": 96,
-    "ru": "Ты когда-нибудь интересовался бизнесом?",
-    "en": "Have you ever been interested in business?"
-  },
-  {
-    "_id": 97,
-    "ru": "Мы знаем друг друга два года",
-    "en": "We have known each other for two years"
-  },
-  {
-    "_id": 98,
-    "ru": "Программа еще не началась",
-    "en": "The program hasn't started yet"
-  },
-  {
-    "_id": 99,
-    "ru": "Ты когда-нибудь катался на лошади?",
-    "en": "Have you ever ridden a horse?"
-  },
-  {
-    "_id": 100,
-    "ru": "Я никогда не была в Англии",
-    "en": "I've never been to England"
-  },
-  {
-    "_id": 101,
-    "ru": "Я всегда хотел сделать это",
-    "en": "I've always wanted to do it"
-  },
-  {
-    "_id": 102,
-    "ru": "Ты когда-нибудь водил машину?",
-    "en": "Have you ever driven a car?"
-  },
-  {
-    "_id": 103,
-    "ru": "Ты когда-нибудь катался на верблюде?",
-    "en": "Have you ever ridden a camel?"
+    "id": 1,
+    "ru": {
+      "text": "Мы уже встречались",
+      "audio": false
+    },
+    "en": {
+      "text": "We have already met",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Он только что посмотрел этот фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "He has just watched this film",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я уже получил твое письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I’ve already got your letter",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Он только что прочитал эту книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "He's just read this book",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я только что закончил свою домашнюю работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I have just finished my homework",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Мы уже посмотрели этот фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "We have already watched this movie",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Я еще не получил твою посылку",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven’t received your parcel yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Она еще не приготовила ужин",
+      "audio": false
+    },
+    "en": {
+      "text": "She hasn’t cooked dinner yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Ты когда-нибудь был там?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever been there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Он когда-нибудь был в Канаде?",
+      "audio": false
+    },
+    "en": {
+      "text": "Has he ever been to Canada?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я был в этом городе много раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been to this city many times",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я там еще не был",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't been there yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он закончил школу в этом году",
+      "audio": false
+    },
+    "en": {
+      "text": "He has finished school this year",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Мы только что посетили этот замок",
+      "audio": false
+    },
+    "en": {
+      "text": "We have just visited this castle",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я посетил тот музей на этой неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "I've visited that museum this week",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я уже зарезервировал столик в местном ресторане",
+      "audio": false
+    },
+    "en": {
+      "text": "I have already reserved a table at the local restaurant",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я только что узнал это",
+      "audio": false
+    },
+    "en": {
+      "text": "I have just known it",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я никогда не был в Китае",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never been to China",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я только что закончил свой проект",
+      "audio": false
+    },
+    "en": {
+      "text": "I have just finished my project",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Мы уже встречались",
+      "audio": false
+    },
+    "en": {
+      "text": "We have already met",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Я только что понял это",
+      "audio": false
+    },
+    "en": {
+      "text": "I have just understood it",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Он был на Мальте",
+      "audio": false
+    },
+    "en": {
+      "text": "He's been to Malta",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Пациент только что выздоровел",
+      "audio": false
+    },
+    "en": {
+      "text": "The patient has just recovered",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Я был в Англии три раза",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been to England three times",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Я видел это так много раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I have seen it so many times",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я был за границей",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been abroad",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я несколько раз посещал Нью-Йорк",
+      "audio": false
+    },
+    "en": {
+      "text": "I have visited New York several times",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Шоу только началось",
+      "audio": false
+    },
+    "en": {
+      "text": "The show has just begun",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Она еще не вернулась из школы",
+      "audio": false
+    },
+    "en": {
+      "text": "She hasn't returned from school yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я уже был там",
+      "audio": false
+    },
+    "en": {
+      "text": "I have already been there",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Ты когда-нибудь был за границей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever been abroad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Ты когда-нибудь был в этой стране?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever been to this country?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я смотрел этот фильм много раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I have watched this movie many times",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я уже сделал это",
+      "audio": false
+    },
+    "en": {
+      "text": "I have already done it",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я уже погладил свой костюм",
+      "audio": false
+    },
+    "en": {
+      "text": "I have already ironed my suit",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я был в Канаде",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been to Canada",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я был в Англии",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been to England",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Я уже забронировал билеты",
+      "audio": false
+    },
+    "en": {
+      "text": "I have already booked the tickets",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Пациент уже выздоровел",
+      "audio": false
+    },
+    "en": {
+      "text": "The patient has already recovered",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Ты когда-нибудь был в этом городе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever been to this city?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Она позвонила мне на этой неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "She has called me this week",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я только что позвонил ему",
+      "audio": false
+    },
+    "en": {
+      "text": "I have just called him",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Он уже забронировал стол в местном кафе",
+      "audio": false
+    },
+    "en": {
+      "text": "He has already reserved the table in a local cafe",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я был в Соединенных Штатах дважды",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been to the United States twice",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Ты когда-нибудь думал об этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever thought about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Она закончила колледж в этом году",
+      "audio": false
+    },
+    "en": {
+      "text": "She has graduated from college this year",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Он только что подтвердил нашу встречу",
+      "audio": false
+    },
+    "en": {
+      "text": "He has just confirmed our meeting",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Она только что погладила рубашки",
+      "audio": false
+    },
+    "en": {
+      "text": "She has just ironed the shirts",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я всегда хотел иметь свой собственный бизнес",
+      "audio": false
+    },
+    "en": {
+      "text": "I've always wanted to have my own business",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он всегда хотел иметь большую семью",
+      "audio": false
+    },
+    "en": {
+      "text": "He has always wanted to have a big family",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Он всегда хотел стать ученым",
+      "audio": false
+    },
+    "en": {
+      "text": "He has always wanted to become a scientist",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я всегда хотел уметь говорить по-английски",
+      "audio": false
+    },
+    "en": {
+      "text": "I've always wanted to be able to speak English",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я знал его около десяти лет",
+      "audio": false
+    },
+    "en": {
+      "text": "I have known him for about ten years",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Она потеряла свою сумку. Она не может найти ее",
+      "audio": false
+    },
+    "en": {
+      "text": "She has lost her bag. She can't find it",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я не могу найти свои ключи. Я думаю, что потерял их",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't find my keys. I think I've lost them",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Она никогда не была в Соединенных Штатах",
+      "audio": false
+    },
+    "en": {
+      "text": "She's never been to the United States",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я потерял свой бумажник. Я не могу найти его",
+      "audio": false
+    },
+    "en": {
+      "text": "I've lost my wallet. I can't find it",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я никогда не был в Японии",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never been to Japan",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Ты когда-нибудь был в Англии?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever been to England?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я только что закончил работу над этим проектом",
+      "audio": false
+    },
+    "en": {
+      "text": "I have just finished working on this project",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Ты был в англоязычной стране?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you been to an English-speaking country?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Он всегда хотел стать предпринимателем",
+      "audio": false
+    },
+    "en": {
+      "text": "He's always wanted to become an entrepreneur",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Он никогда не хотел стать предпринимателем",
+      "audio": false
+    },
+    "en": {
+      "text": "He's never wanted to become an entrepreneur",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он всегда хотел стать инженером",
+      "audio": false
+    },
+    "en": {
+      "text": "He's always wanted to become an engineer",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я никогда не был в Лос-Анджелесе",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never been to Los Angeles",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я никогда не был в Соединенных Штатах",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never been to The United States",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Он никогда не был в Англии",
+      "audio": false
+    },
+    "en": {
+      "text": "He has never been to England",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "У него плохие новости. Он потерял работу",
+      "audio": false
+    },
+    "en": {
+      "text": "He has bad news. He has lost his job",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "У меня плохие новости. Я потерял работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I have bad news. I have lost my job",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "У нее очень плохие новости. Она потеряла работу",
+      "audio": false
+    },
+    "en": {
+      "text": "She has very bad news. She's lost her job",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Ты когда-нибудь слышал об этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever heard about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Ты когда-нибудь был там?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever been there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Ты когда-нибудь слышал эту информацию?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever heard this information?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Ты когда-нибудь смотрел этот фильм?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever watched this movie?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я никогда не смотрел этот фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never watched this movie",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Она когда-нибудь смотрела это видео?",
+      "audio": false
+    },
+    "en": {
+      "text": "Has she ever watched this video?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я не видел его с прошлого года",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't seen him since last year",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я не видел ее с прошлого месяца",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't seen her since last month",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Я не видел тебя с прошлого года",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't seen you since last year",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я еще не получил твое электронное письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't received your email yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я уже получил твое электронное письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I have already received your email",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я еще не получил твою посылку",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't received your parcel yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я только что закончил писать этот отчет",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just finished writing this report",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я только начал писать этот отчет",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just started writing this report",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я только что закончил писать тебе письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just finished writing a letter to you",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Он никогда не был в англоязычной стране",
+      "audio": false
+    },
+    "en": {
+      "text": "He has never been to an English-speaking country",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Ты когда-нибудь был в англоязычной стране?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever been to an English-speaking country?",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Мы знаем друг друга с детства",
+      "audio": false
+    },
+    "en": {
+      "text": "We have known each other since childhood",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Мы знаем друг друга с прошлого года",
+      "audio": false
+    },
+    "en": {
+      "text": "We have known each other since last year",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Они знают друг друга с детства",
+      "audio": false
+    },
+    "en": {
+      "text": "They have known each other since childhood",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Я всегда хотел знать английский",
+      "audio": false
+    },
+    "en": {
+      "text": "I've always wanted to know English",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Ты когда-нибудь летал на самолете?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever flown on a plane?",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Ты уже устал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you already got tired?",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Ты когда-нибудь читал эту книгу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever read this book?",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Она всегда хотела стать суперзвездой",
+      "audio": false
+    },
+    "en": {
+      "text": "She has always wanted to become a superstar",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Ты когда-нибудь интересовался бизнесом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever been interested in business?",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Мы знаем друг друга два года",
+      "audio": false
+    },
+    "en": {
+      "text": "We have known each other for two years",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Программа еще не началась",
+      "audio": false
+    },
+    "en": {
+      "text": "The program hasn't started yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Ты когда-нибудь катался на лошади?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever ridden a horse?",
+      "audio": false
+    }
+  },
+  {
+    "id": 100,
+    "ru": {
+      "text": "Я никогда не была в Англии",
+      "audio": false
+    },
+    "en": {
+      "text": "I've never been to England",
+      "audio": false
+    }
+  },
+  {
+    "id": 101,
+    "ru": {
+      "text": "Я всегда хотел сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I've always wanted to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 102,
+    "ru": {
+      "text": "Ты когда-нибудь водил машину?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever driven a car?",
+      "audio": false
+    }
+  },
+  {
+    "id": 103,
+    "ru": {
+      "text": "Ты когда-нибудь катался на верблюде?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever ridden a camel?",
+      "audio": false
+    }
   }
 ]

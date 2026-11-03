@@ -1,72 +1,156 @@
 [
   {
-    "_id": 1,
-    "ru": "Он сказал, что выступление не оправдало его ожиданий",
-    "en": "He said that the performance hadn't lived up to his expectations"
+    "id": 1,
+    "ru": {
+      "text": "Он сказал, что выступление не оправдало его ожиданий",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that the performance hadn't lived up to his expectations",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Он сказал, что никогда раньше не был в Китае",
-    "en": "He said that he had never been to China before"
+    "id": 2,
+    "ru": {
+      "text": "Он сказал, что никогда раньше не был в Китае",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had never been to China before",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Я никогда не видел ничего подобного раньше",
-    "en": "I have never seen anything like it before"
+    "id": 3,
+    "ru": {
+      "text": "Я никогда не видел ничего подобного раньше",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never seen anything like it before",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Это не оправдало моих ожиданий",
-    "en": "It didn't live up to my expectations"
+    "id": 4,
+    "ru": {
+      "text": "Это не оправдало моих ожиданий",
+      "audio": false
+    },
+    "en": {
+      "text": "It didn't live up to my expectations",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Когда я увидел это в первый раз, я был действительно шокирован",
-    "en": "When I saw it for the first time, I was really shocked"
+    "id": 5,
+    "ru": {
+      "text": "Когда я увидел это в первый раз, я был действительно шокирован",
+      "audio": false
+    },
+    "en": {
+      "text": "When I saw it for the first time, I was really shocked",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Она сказала, что никогда не испытывала такого чувства раньше",
-    "en": "She said that she had never experienced such a feeling before"
+    "id": 6,
+    "ru": {
+      "text": "Она сказала, что никогда не испытывала такого чувства раньше",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that she had never experienced such a feeling before",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я еще не решил это",
-    "en": "I haven't decided it yet"
+    "id": 7,
+    "ru": {
+      "text": "Я еще не решил это",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't decided it yet",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Когда я их увидел, они спорили о чем-то",
-    "en": "When I saw them, they were arguing about something"
+    "id": 8,
+    "ru": {
+      "text": "Когда я их увидел, они спорили о чем-то",
+      "audio": false
+    },
+    "en": {
+      "text": "When I saw them, they were arguing about something",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я вспомнил, что забыл ключи дома",
-    "en": "I remembered that I had left my keys at home"
+    "id": 9,
+    "ru": {
+      "text": "Я вспомнил, что забыл ключи дома",
+      "audio": false
+    },
+    "en": {
+      "text": "I remembered that I had left my keys at home",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я всегда хотел поcетить англоязычную страну",
-    "en": "I have always wanted to visit an English-speaking country"
+    "id": 10,
+    "ru": {
+      "text": "Я всегда хотел поcетить англоязычную страну",
+      "audio": false
+    },
+    "en": {
+      "text": "I have always wanted to visit an English-speaking country",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я только что получил сообщение от него",
-    "en": "I have just got a message from him"
+    "id": 11,
+    "ru": {
+      "text": "Я только что получил сообщение от него",
+      "audio": false
+    },
+    "en": {
+      "text": "I have just got a message from him",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я никогда не был в Китае",
-    "en": "I've never been to China"
+    "id": 12,
+    "ru": {
+      "text": "Я никогда не был в Китае",
+      "audio": false
+    },
+    "en": {
+      "text": "I've never been to China",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Сказать правду, у меня никогда не было такого рода проблем",
-    "en": "To tell the truth, I've never had this kind of problems"
+    "id": 13,
+    "ru": {
+      "text": "Сказать правду, у меня никогда не было такого рода проблем",
+      "audio": false
+    },
+    "en": {
+      "text": "To tell the truth, I've never had this kind of problems",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я объяснил ему это",
-    "en": "I explained it to him"
+    "id": 14,
+    "ru": {
+      "text": "Я объяснил ему это",
+      "audio": false
+    },
+    "en": {
+      "text": "I explained it to him",
+      "audio": false
+    }
   }
 ]

@@ -1,442 +1,970 @@
 [
   {
-    "_id": 1,
-    "ru": "Он не понимает ее",
-    "en": "He doesn’t understand her"
-  },
-  {
-    "_id": 2,
-    "ru": "Я совсем не пью алкоголь",
-    "en": "I don’t drink alcohol at all"
-  },
-  {
-    "_id": 3,
-    "ru": "Я не на работе сейчас",
-    "en": "I’m not at work now"
-  },
-  {
-    "_id": 4,
-    "ru": "Они не больны",
-    "en": "They aren’t sick"
-  },
-  {
-    "_id": 5,
-    "ru": "Он не студент",
-    "en": "He isn’t a student"
-  },
-  {
-    "_id": 6,
-    "ru": "Он не нервничает",
-    "en": "He doesn't feel nervous"
-  },
-  {
-    "_id": 7,
-    "ru": "Это дешевое ожерелье",
-    "en": "It's a cheap necklace"
-  },
-  {
-    "_id": 8,
-    "ru": "Они не чувствуют себя плохо",
-    "en": "They don't feel bad"
-  },
-  {
-    "_id": 9,
-    "ru": "Это не дорогие часы",
-    "en": "It isn't an expensive watch"
-  },
-  {
-    "_id": 10,
-    "ru": "Они не учатся за границей",
-    "en": "They don't study abroad"
-  },
-  {
-    "_id": 11,
-    "ru": "Он не работает переводчиком",
-    "en": "He doesn't work as a translator"
-  },
-  {
-    "_id": 12,
-    "ru": "Это не важная вещь",
-    "en": "It isn't an important thing"
-  },
-  {
-    "_id": 13,
-    "ru": "Он не болен",
-    "en": "He isn't sick"
-  },
-  {
-    "_id": 14,
-    "ru": "Это не очень легкая задача для меня",
-    "en": "It isn't a very easy task for me"
-  },
-  {
-    "_id": 15,
-    "ru": "Это не важная вещь",
-    "en": "It's an unimportant thing"
-  },
-  {
-    "_id": 16,
-    "ru": "Это не главная задача",
-    "en": "It isn't the main task"
-  },
-  {
-    "_id": 17,
-    "ru": "Он не хирург",
-    "en": "He isn't a surgeon"
-  },
-  {
-    "_id": 18,
-    "ru": "Это не очень хорошая клиника",
-    "en": "It isn't a very good clinic"
-  },
-  {
-    "_id": 19,
-    "ru": "Он не работает дизайнером",
-    "en": "He doesn't work as a designer"
-  },
-  {
-    "_id": 20,
-    "ru": "Мне это совсем не интересно",
-    "en": "It isn't interesting for me at all"
-  },
-  {
-    "_id": 21,
-    "ru": "Он не инженер",
-    "en": "He isn't an engineer"
-  },
-  {
-    "_id": 22,
-    "ru": "Это не кажется очень хорошей клиникой",
-    "en": "It doesn't seem a very good clinic"
-  },
-  {
-    "_id": 23,
-    "ru": "Они не больны",
-    "en": "They aren't ill"
-  },
-  {
-    "_id": 24,
-    "ru": "Это не кажется неэффективным",
-    "en": "It doesn't seem ineffective"
-  },
-  {
-    "_id": 25,
-    "ru": "Они не за границей сейчас",
-    "en": "They aren't abroad now"
-  },
-  {
-    "_id": 26,
-    "ru": "Он не работает инженером",
-    "en": "He doesn't work as an engineer"
-  },
-  {
-    "_id": 27,
-    "ru": "Это не плохая клиника",
-    "en": "It isn't a bad clinic"
-  },
-  {
-    "_id": 28,
-    "ru": "Он не переводчик",
-    "en": "He isn't a translator"
-  },
-  {
-    "_id": 29,
-    "ru": "Он не нервный",
-    "en": "He isn't nervous"
-  },
-  {
-    "_id": 30,
-    "ru": "Это не серьезная болезнь",
-    "en": "It isn't a serious illness"
-  },
-  {
-    "_id": 31,
-    "ru": "Это не выглядит дешево",
-    "en": "It doesn't look cheap"
-  },
-  {
-    "_id": 32,
-    "ru": "Он не дизайнер",
-    "en": "He isn't a designer"
-  },
-  {
-    "_id": 33,
-    "ru": "Он не уверен насчет этого",
-    "en": "He isn't sure about it"
-  },
-  {
-    "_id": 34,
-    "ru": "Это не сложное упражнение",
-    "en": "It isn't a difficult exercise"
-  },
-  {
-    "_id": 35,
-    "ru": "Это не выглядит таким сложным",
-    "en": "It doesn't look so difficult"
-  },
-  {
-    "_id": 36,
-    "ru": "Он не работает хирургом в той больнице",
-    "en": "He doesn't work as a surgeon in that hospital"
-  },
-  {
-    "_id": 37,
-    "ru": "Я не так уверен",
-    "en": "I am not so sure"
-  },
-  {
-    "_id": 38,
-    "ru": "Это совсем меня не интересует",
-    "en": "It doesn't interest me at all"
-  },
-  {
-    "_id": 39,
-    "ru": "Это не выглядит таким дорогим",
-    "en": "It doesn't look so expensive"
-  },
-  {
-    "_id": 40,
-    "ru": "Это не сложная задача",
-    "en": "It isn't a difficult task"
-  },
-  {
-    "_id": 41,
-    "ru": "Я так не чувствую",
-    "en": "I don't feel so"
-  },
-  {
-    "_id": 42,
-    "ru": "Это не дорогое ожерелье",
-    "en": "It isn't an expensive necklace"
-  },
-  {
-    "_id": 43,
-    "ru": "Это совсем не эффективно",
-    "en": "It isn't effective at all"
-  },
-  {
-    "_id": 44,
-    "ru": "Это не кажется хорошей клиникой",
-    "en": "It doesn't seem a good clinic"
-  },
-  {
-    "_id": 45,
-    "ru": "Это не наша главная задача",
-    "en": "It isn't our main task"
-  },
-  {
-    "_id": 46,
-    "ru": "Это действительно странно, что он не сожалеет об этом",
-    "en": "It's really strange that he isn't sorry about it"
-  },
-  {
-    "_id": 47,
-    "ru": "Она говорит, что они не хотят извиняться за это",
-    "en": "She says that they don't want to apologize for it"
-  },
-  {
-    "_id": 48,
-    "ru": "Он не понимает, что он не прав",
-    "en": "He doesn't understand that he isn't right"
-  },
-  {
-    "_id": 49,
-    "ru": "Я думаю, это не плохое приложение",
-    "en": "I think it isn't a bad app"
-  },
-  {
-    "_id": 50,
-    "ru": "Он не в бассейне сейчас",
-    "en": "He isn't in the swimming pool now"
-  },
-  {
-    "_id": 51,
-    "ru": "Я думаю, это не лучшая клиника в области",
-    "en": "I think it isn't the best clinic in the area"
-  },
-  {
-    "_id": 52,
-    "ru": "Он не профессиональный тренер",
-    "en": "He isn't a professional trainer"
-  },
-  {
-    "_id": 53,
-    "ru": "Это не большое достижение для него",
-    "en": "It isn't a big achievement for him"
-  },
-  {
-    "_id": 54,
-    "ru": "Я не знаю, что делать с этим",
-    "en": "I don't know what to do with it"
-  },
-  {
-    "_id": 55,
-    "ru": "Я не понимаю, почему это не бесплатно",
-    "en": "I don't understand why it isn't free"
-  },
-  {
-    "_id": 56,
-    "ru": "Она не знает, как добраться до этого места",
-    "en": "She doesn't know how to get to this place"
-  },
-  {
-    "_id": 57,
-    "ru": "Я знаю как добраться до этого места",
-    "en": "I know how to get to this place"
-  },
-  {
-    "_id": 58,
-    "ru": "Он не знает, как добраться до того места",
-    "en": "He doesn't know how to get to that place"
-  },
-  {
-    "_id": 59,
-    "ru": "Он не чувствует себя финансово независимым",
-    "en": "He doesn't feel financially independent"
-  },
-  {
-    "_id": 60,
-    "ru": "Она не чувствует себя финансово независимой",
-    "en": "She doesn't feel financially independent"
-  },
-  {
-    "_id": 61,
-    "ru": "Я не чувствую себя финансово независимым",
-    "en": "I don't feel financially independent"
-  },
-  {
-    "_id": 62,
-    "ru": "Он не знает, куда идти",
-    "en": "He doesn't know where to go"
-  },
-  {
-    "_id": 63,
-    "ru": "Я не знаю, куда идти",
-    "en": "I don't know where to go"
-  },
-  {
-    "_id": 64,
-    "ru": "Она не знает, куда идти",
-    "en": "She doesn't know where to go"
-  },
-  {
-    "_id": 65,
-    "ru": "Я не чувствую себя достаточно уверенно",
-    "en": "I don't feel confident enough"
-  },
-  {
-    "_id": 66,
-    "ru": "Они не чувствуют себя достаточно уверенно",
-    "en": "They don't feel confident enough"
-  },
-  {
-    "_id": 67,
-    "ru": "Она не чувствует себя достаточно уверенно",
-    "en": "She doesn't feel confident enough"
-  },
-  {
-    "_id": 68,
-    "ru": "Это не высокая зарплата",
-    "en": "It isn't a high salary"
-  },
-  {
-    "_id": 69,
-    "ru": "Это высокая зарплата",
-    "en": "It is a high salary"
-  },
-  {
-    "_id": 70,
-    "ru": "Это не большая зарплата",
-    "en": "It isn't a big salary"
-  },
-  {
-    "_id": 71,
-    "ru": "Я знаю, что это не низкая зарплата",
-    "en": "I know that it isn't a low salary"
-  },
-  {
-    "_id": 72,
-    "ru": "Я знаю, что моя зарплата низкая",
-    "en": "I know that my salary is low"
-  },
-  {
-    "_id": 73,
-    "ru": "Она знает, что это не высокая зарплата",
-    "en": "She knows that it isn't a high salary"
-  },
-  {
-    "_id": 74,
-    "ru": "Его работа не такая хорошо оплачиваемая",
-    "en": "His job isn't so well-paid"
-  },
-  {
-    "_id": 75,
-    "ru": "Моя работа не такая хорошо оплачиваемая",
-    "en": "My job isn't so well-paid"
-  },
-  {
-    "_id": 76,
-    "ru": "Ее работа хорошо оплачиваемая",
-    "en": "Her job is well-paid"
-  },
-  {
-    "_id": 77,
-    "ru": "У него не хорошо оплачиваемая работа",
-    "en": "He doesn't have a well-paid job"
-  },
-  {
-    "_id": 78,
-    "ru": "Он говорит, что он так не думает",
-    "en": "He says that he doesn't think so"
-  },
-  {
-    "_id": 79,
-    "ru": "Он не зависит финансово",
-    "en": "He isn't financially dependent"
-  },
-  {
-    "_id": 80,
-    "ru": "Она не ходит в бассейн",
-    "en": "She doesn't go to the swimming pool"
-  },
-  {
-    "_id": 81,
-    "ru": "Я знаю, что это не так популярно среди американцев",
-    "en": "I know that it isn't so popular among Americans"
-  },
-  {
-    "_id": 82,
-    "ru": "У него не высокая зарплата",
-    "en": "He doesn't have a high salary"
-  },
-  {
-    "_id": 83,
-    "ru": "Я не знаю, как туда добраться",
-    "en": "I don't know how to get there"
-  },
-  {
-    "_id": 84,
-    "ru": "Это совсем не проблема для меня",
-    "en": "It isn't a problem for me at all"
-  },
-  {
-    "_id": 85,
-    "ru": "Они не чувствуют себя независимыми",
-    "en": "They don't feel independent"
-  },
-  {
-    "_id": 86,
-    "ru": "Он не хочет извиняться за это",
-    "en": "He doesn't want to apologize for it"
-  },
-  {
-    "_id": 87,
-    "ru": "Я не знаю, почему это не так",
-    "en": "I don't know why it isn't so"
-  },
-  {
-    "_id": 88,
-    "ru": "Он не сожалеет об этом",
-    "en": "He doesn't feel sorry about it"
+    "id": 1,
+    "ru": {
+      "text": "Он не понимает ее",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn’t understand her",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я совсем не пью алкоголь",
+      "audio": false
+    },
+    "en": {
+      "text": "I don’t drink alcohol at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я не на работе сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I’m not at work now",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Они не больны",
+      "audio": false
+    },
+    "en": {
+      "text": "They aren’t sick",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Он не студент",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn’t a student",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Он не нервничает",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't feel nervous",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Это дешевое ожерелье",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a cheap necklace",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Они не чувствуют себя плохо",
+      "audio": false
+    },
+    "en": {
+      "text": "They don't feel bad",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Это не дорогие часы",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't an expensive watch",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Они не учатся за границей",
+      "audio": false
+    },
+    "en": {
+      "text": "They don't study abroad",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Он не работает переводчиком",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't work as a translator",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Это не важная вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't an important thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он не болен",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't sick",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Это не очень легкая задача для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't a very easy task for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Это не важная вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an unimportant thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Это не главная задача",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't the main task",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Он не хирург",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't a surgeon",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Это не очень хорошая клиника",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't a very good clinic",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он не работает дизайнером",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't work as a designer",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Мне это совсем не интересно",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't interesting for me at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Он не инженер",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't an engineer",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это не кажется очень хорошей клиникой",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't seem a very good clinic",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Они не больны",
+      "audio": false
+    },
+    "en": {
+      "text": "They aren't ill",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Это не кажется неэффективным",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't seem ineffective",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Они не за границей сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "They aren't abroad now",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Он не работает инженером",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't work as an engineer",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Это не плохая клиника",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't a bad clinic",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Он не переводчик",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't a translator",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Он не нервный",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't nervous",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Это не серьезная болезнь",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't a serious illness",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Это не выглядит дешево",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't look cheap",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Он не дизайнер",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't a designer",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Он не уверен насчет этого",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't sure about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Это не сложное упражнение",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't a difficult exercise",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Это не выглядит таким сложным",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't look so difficult",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Он не работает хирургом в той больнице",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't work as a surgeon in that hospital",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я не так уверен",
+      "audio": false
+    },
+    "en": {
+      "text": "I am not so sure",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Это совсем меня не интересует",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't interest me at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Это не выглядит таким дорогим",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't look so expensive",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Это не сложная задача",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't a difficult task",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я так не чувствую",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't feel so",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Это не дорогое ожерелье",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't an expensive necklace",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Это совсем не эффективно",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't effective at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Это не кажется хорошей клиникой",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't seem a good clinic",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Это не наша главная задача",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't our main task",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Это действительно странно, что он не сожалеет об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "It's really strange that he isn't sorry about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Она говорит, что они не хотят извиняться за это",
+      "audio": false
+    },
+    "en": {
+      "text": "She says that they don't want to apologize for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Он не понимает, что он не прав",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't understand that he isn't right",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я думаю, это не плохое приложение",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it isn't a bad app",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он не в бассейне сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't in the swimming pool now",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я думаю, это не лучшая клиника в области",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it isn't the best clinic in the area",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Он не профессиональный тренер",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't a professional trainer",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Это не большое достижение для него",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't a big achievement for him",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я не знаю, что делать с этим",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know what to do with it",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я не понимаю, почему это не бесплатно",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't understand why it isn't free",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Она не знает, как добраться до этого места",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't know how to get to this place",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я знаю как добраться до этого места",
+      "audio": false
+    },
+    "en": {
+      "text": "I know how to get to this place",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Он не знает, как добраться до того места",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't know how to get to that place",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Он не чувствует себя финансово независимым",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't feel financially independent",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Она не чувствует себя финансово независимой",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't feel financially independent",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я не чувствую себя финансово независимым",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't feel financially independent",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Он не знает, куда идти",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't know where to go",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я не знаю, куда идти",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know where to go",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Она не знает, куда идти",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't know where to go",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я не чувствую себя достаточно уверенно",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't feel confident enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Они не чувствуют себя достаточно уверенно",
+      "audio": false
+    },
+    "en": {
+      "text": "They don't feel confident enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Она не чувствует себя достаточно уверенно",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't feel confident enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Это не высокая зарплата",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't a high salary",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Это высокая зарплата",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a high salary",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Это не большая зарплата",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't a big salary",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я знаю, что это не низкая зарплата",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that it isn't a low salary",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я знаю, что моя зарплата низкая",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that my salary is low",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Она знает, что это не высокая зарплата",
+      "audio": false
+    },
+    "en": {
+      "text": "She knows that it isn't a high salary",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Его работа не такая хорошо оплачиваемая",
+      "audio": false
+    },
+    "en": {
+      "text": "His job isn't so well-paid",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Моя работа не такая хорошо оплачиваемая",
+      "audio": false
+    },
+    "en": {
+      "text": "My job isn't so well-paid",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Ее работа хорошо оплачиваемая",
+      "audio": false
+    },
+    "en": {
+      "text": "Her job is well-paid",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "У него не хорошо оплачиваемая работа",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't have a well-paid job",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Он говорит, что он так не думает",
+      "audio": false
+    },
+    "en": {
+      "text": "He says that he doesn't think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Он не зависит финансово",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't financially dependent",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Она не ходит в бассейн",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't go to the swimming pool",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я знаю, что это не так популярно среди американцев",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that it isn't so popular among Americans",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "У него не высокая зарплата",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't have a high salary",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я не знаю, как туда добраться",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know how to get there",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Это совсем не проблема для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't a problem for me at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Они не чувствуют себя независимыми",
+      "audio": false
+    },
+    "en": {
+      "text": "They don't feel independent",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Он не хочет извиняться за это",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't want to apologize for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Я не знаю, почему это не так",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know why it isn't so",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Он не сожалеет об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't feel sorry about it",
+      "audio": false
+    }
   }
 ]

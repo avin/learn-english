@@ -1,467 +1,1025 @@
 [
   {
-    "_id": 1,
-    "ru": "Это не интересует их",
-    "en": "It doesn't interest them"
-  },
-  {
-    "_id": 2,
-    "ru": "У него нет каких-либо вопросов",
-    "en": "He doesn't have any questions"
-  },
-  {
-    "_id": 3,
-    "ru": "У меня нет каких-либо планов",
-    "en": "I don't have any plans"
-  },
-  {
-    "_id": 4,
-    "ru": "Это не интересует их",
-    "en": "It doesn't interest them"
-  },
-  {
-    "_id": 5,
-    "ru": "Я пользуюсь интернетом каждый день",
-    "en": "I use the Internet every day"
-  },
-  {
-    "_id": 6,
-    "ru": "Я пользуюсь этим сервисом",
-    "en": "I use this service"
-  },
-  {
-    "_id": 7,
-    "ru": "Это не помогает нам",
-    "en": "It doesn't help us"
-  },
-  {
-    "_id": 8,
-    "ru": "Ему не нравится это",
-    "en": "He doesn't like it"
-  },
-  {
-    "_id": 9,
-    "ru": "Это не мотивирует меня",
-    "en": "It doesn't motivate me"
-  },
-  {
-    "_id": 10,
-    "ru": "Я не ем это",
-    "en": "I don't eat it"
-  },
-  {
-    "_id": 11,
-    "ru": "Она так не думает",
-    "en": "She doesn't think so"
-  },
-  {
-    "_id": 12,
-    "ru": "Это не интересует ее",
-    "en": "It doesn't interest her"
-  },
-  {
-    "_id": 13,
-    "ru": "Он не контролирует эту ситуацию",
-    "en": "He doesn't control this situation"
-  },
-  {
-    "_id": 14,
-    "ru": "У нее нет детей",
-    "en": "She doesn't have children"
-  },
-  {
-    "_id": 15,
-    "ru": "Это не мотивирует их",
-    "en": "It doesn't motivate them"
-  },
-  {
-    "_id": 16,
-    "ru": "Она не согласна",
-    "en": "She doesn't agree"
-  },
-  {
-    "_id": 17,
-    "ru": "Это мне не помогает",
-    "en": "It doesn't help me"
-  },
-  {
-    "_id": 18,
-    "ru": "У меня есть несколько интересных идей",
-    "en": "I have some interesting ideas"
-  },
-  {
-    "_id": 19,
-    "ru": "Я так не думаю",
-    "en": "I don't think so"
-  },
-  {
-    "_id": 20,
-    "ru": "Это не работает",
-    "en": "It doesn't work"
-  },
-  {
-    "_id": 21,
-    "ru": "Я не пользуюсь этой услугой",
-    "en": "I don't use this service"
-  },
-  {
-    "_id": 22,
-    "ru": "Ей это не нравится",
-    "en": "She doesn't like it"
-  },
-  {
-    "_id": 23,
-    "ru": "Это не мотивирует его",
-    "en": "It doesn't motivate him"
-  },
-  {
-    "_id": 24,
-    "ru": "Это не интересует его",
-    "en": "It doesn't interest him"
-  },
-  {
-    "_id": 25,
-    "ru": "У него нет каких-либо вопросов",
-    "en": "He doesn't have any questions"
-  },
-  {
-    "_id": 26,
-    "ru": "У него нет детей",
-    "en": "He doesn't have children"
-  },
-  {
-    "_id": 27,
-    "ru": "Ей не нравится это место",
-    "en": "She doesn't like this place"
-  },
-  {
-    "_id": 28,
-    "ru": "У меня нет каких-либо планов",
-    "en": "I don't have any plans"
-  },
-  {
-    "_id": 29,
-    "ru": "Это не стоит этих денег",
-    "en": "It doesn't cost this money"
-  },
-  {
-    "_id": 30,
-    "ru": "Он не ест мясо",
-    "en": "He doesn't eat meat"
-  },
-  {
-    "_id": 31,
-    "ru": "Это не интересует меня",
-    "en": "It doesn't interest me"
-  },
-  {
-    "_id": 32,
-    "ru": "Она не ест эту еду",
-    "en": "She doesn't eat this food"
-  },
-  {
-    "_id": 33,
-    "ru": "У меня есть некоторые планы",
-    "en": "I have some plans"
-  },
-  {
-    "_id": 34,
-    "ru": "Я часто пользуюсь интернетом",
-    "en": "I often use the Internet"
-  },
-  {
-    "_id": 35,
-    "ru": "Он не говорит эти вещи",
-    "en": "He doesn't say these things"
-  },
-  {
-    "_id": 36,
-    "ru": "Он не пользуется этой услугой",
-    "en": "He doesn't use this service"
-  },
-  {
-    "_id": 37,
-    "ru": "У меня нет каких-либо идей",
-    "en": "I don't have any ideas"
-  },
-  {
-    "_id": 38,
-    "ru": "Я так думаю",
-    "en": "I think so"
-  },
-  {
-    "_id": 39,
-    "ru": "Он так не думает",
-    "en": "He doesn't think so"
-  },
-  {
-    "_id": 40,
-    "ru": "Он не хочет этого",
-    "en": "He doesn't want it"
-  },
-  {
-    "_id": 41,
-    "ru": "У меня нет каких-либо вопросов",
-    "en": "I don't have any questions"
-  },
-  {
-    "_id": 42,
-    "ru": "Это не интересует его друга",
-    "en": "It doesn't interest his friend"
-  },
-  {
-    "_id": 43,
-    "ru": "Мне не нравятся экзамены",
-    "en": "I don't like exams"
-  },
-  {
-    "_id": 44,
-    "ru": "У нее есть собака",
-    "en": "She has a dog"
-  },
-  {
-    "_id": 45,
-    "ru": "Я не беспокоюсь об этом",
-    "en": "I don't worry about it"
-  },
-  {
-    "_id": 46,
-    "ru": "Она преподает математику",
-    "en": "She teaches maths"
-  },
-  {
-    "_id": 47,
-    "ru": "Я не думаю, что это помогает",
-    "en": "I don't think that it helps"
-  },
-  {
-    "_id": 48,
-    "ru": "Мне нравится этот тест",
-    "en": "I like this test"
-  },
-  {
-    "_id": 49,
-    "ru": "У него нет собаки",
-    "en": "He doesn't have a dog"
-  },
-  {
-    "_id": 50,
-    "ru": "Он не чувствует себя лучше",
-    "en": "He doesn't feel better"
-  },
-  {
-    "_id": 51,
-    "ru": "Она не ходит в школу",
-    "en": "She doesn't go to school"
-  },
-  {
-    "_id": 52,
-    "ru": "Он преподает математику",
-    "en": "He teaches maths"
-  },
-  {
-    "_id": 53,
-    "ru": "Я понимаю, как это работает",
-    "en": "I understand how it works"
-  },
-  {
-    "_id": 54,
-    "ru": "Она чувствует себя лучше",
-    "en": "She feels better"
-  },
-  {
-    "_id": 55,
-    "ru": "Я думаю, что это не работает",
-    "en": "I think that it doesn't work"
-  },
-  {
-    "_id": 56,
-    "ru": "Они не хотят продавать это",
-    "en": "They don't want to sell it"
-  },
-  {
-    "_id": 57,
-    "ru": "Она не хочет покупать этот дом",
-    "en": "She doesn't want to buy this house"
-  },
-  {
-    "_id": 58,
-    "ru": "Мы не хотим продавать это",
-    "en": "We don't want to sell it"
-  },
-  {
-    "_id": 59,
-    "ru": "Она не преподает английский",
-    "en": "She doesn't teach English"
-  },
-  {
-    "_id": 60,
-    "ru": "Они не преподают английский",
-    "en": "They don't teach English"
-  },
-  {
-    "_id": 61,
-    "ru": "Он не преподает математику",
-    "en": "He doesn't teach maths"
-  },
-  {
-    "_id": 62,
-    "ru": "Мне не нравятся эти экзамены",
-    "en": "I don't like these exams"
-  },
-  {
-    "_id": 63,
-    "ru": "Ему не нравятся эти экзамены",
-    "en": "He doesn't like these exams"
-  },
-  {
-    "_id": 64,
-    "ru": "Я думаю, это не стоит этих денег",
-    "en": "I think it doesn't cost this money"
-  },
-  {
-    "_id": 65,
-    "ru": "Они думают, это стоит этих денег",
-    "en": "They think it costs this money"
-  },
-  {
-    "_id": 66,
-    "ru": "Он смотрит телевизор только иногда",
-    "en": "He watches TV only sometimes"
-  },
-  {
-    "_id": 67,
-    "ru": "Он не смотрит телевизор",
-    "en": "He doesn't watch TV"
-  },
-  {
-    "_id": 68,
-    "ru": "Мне не нравится этот предмет",
-    "en": "I don't like this subject"
-  },
-  {
-    "_id": 69,
-    "ru": "Мне не нравится тот предмет",
-    "en": "I don't like that subject"
-  },
-  {
-    "_id": 70,
-    "ru": "Ей не нравятся эти предметы",
-    "en": "She doesn't like these subjects"
-  },
-  {
-    "_id": 71,
-    "ru": "Я делаю это только иногда",
-    "en": "I do it only sometimes"
-  },
-  {
-    "_id": 72,
-    "ru": "Она делает это только иногда",
-    "en": "She does it only sometimes"
-  },
-  {
-    "_id": 73,
-    "ru": "Мы делаем это так часто",
-    "en": "We do it so often"
-  },
-  {
-    "_id": 74,
-    "ru": "Он не хочет звонить ей",
-    "en": "He doesn't want to call her"
-  },
-  {
-    "_id": 75,
-    "ru": "Я не хочу звонить ему",
-    "en": "I don't want to call him"
-  },
-  {
-    "_id": 76,
-    "ru": "Она не хочет звонить ей",
-    "en": "She doesn't want to call her"
-  },
-  {
-    "_id": 77,
-    "ru": "Он не хочет продавать дом",
-    "en": "He doesn't want to sell a house"
-  },
-  {
-    "_id": 78,
-    "ru": "Она не хочет покупать его дом",
-    "en": "She doesn't want to buy his house"
-  },
-  {
-    "_id": 79,
-    "ru": "Он не хочет продавать этот дом",
-    "en": "He doesn't want to sell this house"
-  },
-  {
-    "_id": 80,
-    "ru": "Она не хочет звонить ему",
-    "en": "She doesn't want to call him"
-  },
-  {
-    "_id": 81,
-    "ru": "Я не волнуюсь",
-    "en": "I don't worry"
-  },
-  {
-    "_id": 82,
-    "ru": "У него есть кот",
-    "en": "He has a cat"
-  },
-  {
-    "_id": 83,
-    "ru": "Он не ходит на работу",
-    "en": "He doesn't go to work"
-  },
-  {
-    "_id": 84,
-    "ru": "Ему нравятся эти тесты",
-    "en": "He likes these tests"
-  },
-  {
-    "_id": 85,
-    "ru": "Он не хочет платить за это",
-    "en": "He doesn't want to pay for it"
-  },
-  {
-    "_id": 86,
-    "ru": "Он не занимается бизнесом",
-    "en": "He doesn't do business"
-  },
-  {
-    "_id": 87,
-    "ru": "Он не хочет говорить об этом",
-    "en": "He doesn't want to talk about it"
-  },
-  {
-    "_id": 88,
-    "ru": "Я не беспокоюсь об этой вещи",
-    "en": "I don't worry about this thing"
-  },
-  {
-    "_id": 89,
-    "ru": "Я думаю, это стоит гораздо больше",
-    "en": "I think it costs much more"
-  },
-  {
-    "_id": 90,
-    "ru": "Я не хочу смотреть телевизор",
-    "en": "I don't want to watch TV"
-  },
-  {
-    "_id": 91,
-    "ru": "У нее нет кошки",
-    "en": "She doesn't have a cat"
-  },
-  {
-    "_id": 92,
-    "ru": "Мне нравится этот предмет",
-    "en": "I like this subject"
-  },
-  {
-    "_id": 93,
-    "ru": "Я не хочу беспокоиться об этом",
-    "en": "I don't want to worry about it"
+    "id": 1,
+    "ru": {
+      "text": "Это не интересует их",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't interest them",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "У него нет каких-либо вопросов",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't have any questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "У меня нет каких-либо планов",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't have any plans",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Это не интересует их",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't interest them",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я пользуюсь интернетом каждый день",
+      "audio": false
+    },
+    "en": {
+      "text": "I use the Internet every day",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я пользуюсь этим сервисом",
+      "audio": false
+    },
+    "en": {
+      "text": "I use this service",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Это не помогает нам",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't help us",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Ему не нравится это",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't like it",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Это не мотивирует меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't motivate me",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я не ем это",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't eat it",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Она так не думает",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Это не интересует ее",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't interest her",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он не контролирует эту ситуацию",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't control this situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "У нее нет детей",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't have children",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Это не мотивирует их",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't motivate them",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Она не согласна",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't agree",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Это мне не помогает",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't help me",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "У меня есть несколько интересных идей",
+      "audio": false
+    },
+    "en": {
+      "text": "I have some interesting ideas",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я так не думаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Это не работает",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't work",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Я не пользуюсь этой услугой",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't use this service",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Ей это не нравится",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't like it",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Это не мотивирует его",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't motivate him",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Это не интересует его",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't interest him",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "У него нет каких-либо вопросов",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't have any questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "У него нет детей",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't have children",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Ей не нравится это место",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't like this place",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "У меня нет каких-либо планов",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't have any plans",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Это не стоит этих денег",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't cost this money",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Он не ест мясо",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't eat meat",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Это не интересует меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't interest me",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Она не ест эту еду",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't eat this food",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "У меня есть некоторые планы",
+      "audio": false
+    },
+    "en": {
+      "text": "I have some plans",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я часто пользуюсь интернетом",
+      "audio": false
+    },
+    "en": {
+      "text": "I often use the Internet",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Он не говорит эти вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't say these things",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Он не пользуется этой услугой",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't use this service",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "У меня нет каких-либо идей",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't have any ideas",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Я так думаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Он так не думает",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Он не хочет этого",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't want it",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "У меня нет каких-либо вопросов",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't have any questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Это не интересует его друга",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't interest his friend",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Мне не нравятся экзамены",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't like exams",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "У нее есть собака",
+      "audio": false
+    },
+    "en": {
+      "text": "She has a dog",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я не беспокоюсь об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't worry about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Она преподает математику",
+      "audio": false
+    },
+    "en": {
+      "text": "She teaches maths",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я не думаю, что это помогает",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that it helps",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Мне нравится этот тест",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this test",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "У него нет собаки",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't have a dog",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он не чувствует себя лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't feel better",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Она не ходит в школу",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't go to school",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Он преподает математику",
+      "audio": false
+    },
+    "en": {
+      "text": "He teaches maths",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я понимаю, как это работает",
+      "audio": false
+    },
+    "en": {
+      "text": "I understand how it works",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Она чувствует себя лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "She feels better",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я думаю, что это не работает",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that it doesn't work",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Они не хотят продавать это",
+      "audio": false
+    },
+    "en": {
+      "text": "They don't want to sell it",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Она не хочет покупать этот дом",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't want to buy this house",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Мы не хотим продавать это",
+      "audio": false
+    },
+    "en": {
+      "text": "We don't want to sell it",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Она не преподает английский",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't teach English",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Они не преподают английский",
+      "audio": false
+    },
+    "en": {
+      "text": "They don't teach English",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он не преподает математику",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't teach maths",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Мне не нравятся эти экзамены",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't like these exams",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Ему не нравятся эти экзамены",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't like these exams",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я думаю, это не стоит этих денег",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it doesn't cost this money",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Они думают, это стоит этих денег",
+      "audio": false
+    },
+    "en": {
+      "text": "They think it costs this money",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Он смотрит телевизор только иногда",
+      "audio": false
+    },
+    "en": {
+      "text": "He watches TV only sometimes",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Он не смотрит телевизор",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't watch TV",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Мне не нравится этот предмет",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't like this subject",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Мне не нравится тот предмет",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't like that subject",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Ей не нравятся эти предметы",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't like these subjects",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я делаю это только иногда",
+      "audio": false
+    },
+    "en": {
+      "text": "I do it only sometimes",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Она делает это только иногда",
+      "audio": false
+    },
+    "en": {
+      "text": "She does it only sometimes",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Мы делаем это так часто",
+      "audio": false
+    },
+    "en": {
+      "text": "We do it so often",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Он не хочет звонить ей",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't want to call her",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я не хочу звонить ему",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't want to call him",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Она не хочет звонить ей",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't want to call her",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Он не хочет продавать дом",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't want to sell a house",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Она не хочет покупать его дом",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't want to buy his house",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Он не хочет продавать этот дом",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't want to sell this house",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Она не хочет звонить ему",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't want to call him",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я не волнуюсь",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't worry",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "У него есть кот",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a cat",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Он не ходит на работу",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't go to work",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Ему нравятся эти тесты",
+      "audio": false
+    },
+    "en": {
+      "text": "He likes these tests",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Он не хочет платить за это",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't want to pay for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Он не занимается бизнесом",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't do business",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Он не хочет говорить об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't want to talk about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Я не беспокоюсь об этой вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't worry about this thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Я думаю, это стоит гораздо больше",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it costs much more",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Я не хочу смотреть телевизор",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't want to watch TV",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "У нее нет кошки",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't have a cat",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Мне нравится этот предмет",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this subject",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Я не хочу беспокоиться об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't want to worry about it",
+      "audio": false
+    }
   }
 ]

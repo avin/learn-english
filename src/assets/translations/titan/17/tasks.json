@@ -1,437 +1,959 @@
 [
   {
-    "_id": 1,
-    "ru": "Почему ты так занят?",
-    "en": "Why are you so busy?"
-  },
-  {
-    "_id": 2,
-    "ru": "Почему он прав?",
-    "en": "Why is he right?"
-  },
-  {
-    "_id": 3,
-    "ru": "Сколько им лет?",
-    "en": "How old are they?"
-  },
-  {
-    "_id": 4,
-    "ru": "Что в этой коробке?",
-    "en": "What's in this box?"
-  },
-  {
-    "_id": 5,
-    "ru": "Почему он прав?",
-    "en": "Why is he right?"
-  },
-  {
-    "_id": 6,
-    "ru": "Почему это так?",
-    "en": "Why is it so?"
-  },
-  {
-    "_id": 7,
-    "ru": "Почему это так дорого?",
-    "en": "Why is it so expensive?"
-  },
-  {
-    "_id": 8,
-    "ru": "Сколько ей лет?",
-    "en": "How old is she?"
-  },
-  {
-    "_id": 9,
-    "ru": "Почему ты так занят?",
-    "en": "Why are you so busy?"
-  },
-  {
-    "_id": 10,
-    "ru": "Кто прав?",
-    "en": "Who is right?"
-  },
-  {
-    "_id": 11,
-    "ru": "Кто они?",
-    "en": "Who are they?"
-  },
-  {
-    "_id": 12,
-    "ru": "Когда она на работе?",
-    "en": "When is she at work?"
-  },
-  {
-    "_id": 13,
-    "ru": "Как она?",
-    "en": "How is she?"
-  },
-  {
-    "_id": 14,
-    "ru": "Что неправильно?",
-    "en": "What is wrong?"
-  },
-  {
-    "_id": 15,
-    "ru": "Когда ты свободен?",
-    "en": "When are you free?"
-  },
-  {
-    "_id": 16,
-    "ru": "Сколько им лет?",
-    "en": "How old are they?"
-  },
-  {
-    "_id": 17,
-    "ru": "Что в этой коробке?",
-    "en": "What is in this box?"
-  },
-  {
-    "_id": 18,
-    "ru": "Что правильно?",
-    "en": "What is correct?"
-  },
-  {
-    "_id": 19,
-    "ru": "Почему ты на работе сейчас?",
-    "en": "Why are you at work now?"
-  },
-  {
-    "_id": 20,
-    "ru": "Когда ты дома?",
-    "en": "When are you at home?"
-  },
-  {
-    "_id": 21,
-    "ru": "Сколько тебе лет?",
-    "en": "How old are you?"
-  },
-  {
-    "_id": 22,
-    "ru": "Почему это неправильно?",
-    "en": "Why is it wrong?"
-  },
-  {
-    "_id": 23,
-    "ru": "Кто не прав?",
-    "en": "Who is wrong?"
-  },
-  {
-    "_id": 24,
-    "ru": "Сколько ему лет?",
-    "en": "How old is he?"
-  },
-  {
-    "_id": 25,
-    "ru": "Кто он?",
-    "en": "Who is he?"
-  },
-  {
-    "_id": 26,
-    "ru": "Где ты?",
-    "en": "Where are you?"
-  },
-  {
-    "_id": 27,
-    "ru": "Где они?",
-    "en": "Where are they?"
-  },
-  {
-    "_id": 28,
-    "ru": "Почему ты такой грустный?",
-    "en": "Why are you so sad?"
-  },
-  {
-    "_id": 29,
-    "ru": "Почему ты такой счастливый?",
-    "en": "Why are you so happy?"
-  },
-  {
-    "_id": 30,
-    "ru": "Почему это бесплатно?",
-    "en": "Why is it free?"
-  },
-  {
-    "_id": 31,
-    "ru": "Почему она так расстроена?",
-    "en": "Why is she so upset?"
-  },
-  {
-    "_id": 32,
-    "ru": "Кто здесь?",
-    "en": "Who is here?"
-  },
-  {
-    "_id": 33,
-    "ru": "Почему она такая грустная?",
-    "en": "Why is she so sad?"
-  },
-  {
-    "_id": 34,
-    "ru": "Где это?",
-    "en": "Where is it?"
-  },
-  {
-    "_id": 35,
-    "ru": "Как он?",
-    "en": "How is he?"
-  },
-  {
-    "_id": 36,
-    "ru": "Что это?",
-    "en": "What is it?"
-  },
-  {
-    "_id": 37,
-    "ru": "Почему она злится?",
-    "en": "Why is she angry?"
-  },
-  {
-    "_id": 38,
-    "ru": "Когда он там?",
-    "en": "When is he there?"
-  },
-  {
-    "_id": 39,
-    "ru": "Как ты?",
-    "en": "How are you?"
-  },
-  {
-    "_id": 40,
-    "ru": "Почему он так расстроен?",
-    "en": "Why is he so upset?"
-  },
-  {
-    "_id": 41,
-    "ru": "Кто там?",
-    "en": "Who is there?"
-  },
-  {
-    "_id": 42,
-    "ru": "Сколько стоит эта вещь?",
-    "en": "How much is this thing?"
-  },
-  {
-    "_id": 43,
-    "ru": "Что в коробке?",
-    "en": "What is in the box?"
-  },
-  {
-    "_id": 44,
-    "ru": "Почему это правильно?",
-    "en": "Why is it correct?"
-  },
-  {
-    "_id": 45,
-    "ru": "Сколько стоят эти брюки?",
-    "en": "How much are these trousers?"
-  },
-  {
-    "_id": 46,
-    "ru": "Какая у него работа?",
-    "en": "What's his job?"
-  },
-  {
-    "_id": 47,
-    "ru": "Сколько стоит эта пара джинсов?",
-    "en": "How much is this pair of jeans?"
-  },
-  {
-    "_id": 48,
-    "ru": "Где то место?",
-    "en": "Where is that place?"
-  },
-  {
-    "_id": 49,
-    "ru": "Сколько стоят эти джинсы?",
-    "en": "How much are these jeans?"
-  },
-  {
-    "_id": 50,
-    "ru": "Что в этой коробке?",
-    "en": "What's in this box?"
-  },
-  {
-    "_id": 51,
-    "ru": "Что там?",
-    "en": "What's there?"
-  },
-  {
-    "_id": 52,
-    "ru": "Сколько стоит это платье?",
-    "en": "How much is this dress?"
-  },
-  {
-    "_id": 53,
-    "ru": "Как тебя зовут?",
-    "en": "What's your name?"
-  },
-  {
-    "_id": 54,
-    "ru": "Что лучше?",
-    "en": "What's better?"
-  },
-  {
-    "_id": 55,
-    "ru": "Почему это лучше?",
-    "en": "Why is it better?"
-  },
-  {
-    "_id": 56,
-    "ru": "Какая у тебя работа?",
-    "en": "What's your job?"
-  },
-  {
-    "_id": 57,
-    "ru": "Где это место?",
-    "en": "Where is this place?"
-  },
-  {
-    "_id": 58,
-    "ru": "Почему это хуже?",
-    "en": "Why is it worse?"
-  },
-  {
-    "_id": 59,
-    "ru": "Кто она?",
-    "en": "Who is she?"
-  },
-  {
-    "_id": 60,
-    "ru": "Что хуже?",
-    "en": "What is worse?"
-  },
-  {
-    "_id": 61,
-    "ru": "Что лучше?",
-    "en": "What is better?"
-  },
-  {
-    "_id": 62,
-    "ru": "Откуда она?",
-    "en": "Where is she from?"
-  },
-  {
-    "_id": 63,
-    "ru": "Откуда ты?",
-    "en": "Where are you from?"
-  },
-  {
-    "_id": 64,
-    "ru": "Сколько стоит эта книга?",
-    "en": "How much is this book?"
-  },
-  {
-    "_id": 65,
-    "ru": "Сколько стоят эти игрушки?",
-    "en": "How much are these toys?"
-  },
-  {
-    "_id": 66,
-    "ru": "Сколько стоит эта игрушка?",
-    "en": "How much is this toy?"
-  },
-  {
-    "_id": 67,
-    "ru": "Сколько стоят те книги?",
-    "en": "How much are those books?"
-  },
-  {
-    "_id": 68,
-    "ru": "Какая у нее работа?",
-    "en": "What's her job?"
-  },
-  {
-    "_id": 69,
-    "ru": "Сколько стоит эта пара брюк?",
-    "en": "How much is this pair of trousers?"
-  },
-  {
-    "_id": 70,
-    "ru": "Сколько стоят эти сумки?",
-    "en": "How much are these bags?"
-  },
-  {
-    "_id": 71,
-    "ru": "Откуда он?",
-    "en": "Where is he from?"
-  },
-  {
-    "_id": 72,
-    "ru": "Что здесь сейчас?",
-    "en": "What's here now?"
-  },
-  {
-    "_id": 73,
-    "ru": "Как ее зовут?",
-    "en": "What's her name?"
-  },
-  {
-    "_id": 74,
-    "ru": "Почему это дешевле?",
-    "en": "Why is it cheaper?"
-  },
-  {
-    "_id": 75,
-    "ru": "Что дешевле?",
-    "en": "What's cheaper?"
-  },
-  {
-    "_id": 76,
-    "ru": "Что дороже?",
-    "en": "What's more expensive?"
-  },
-  {
-    "_id": 77,
-    "ru": "Почему ты расстроен?",
-    "en": "Why are you upset?"
-  },
-  {
-    "_id": 78,
-    "ru": "Что более эффективно?",
-    "en": "What's more effective?"
-  },
-  {
-    "_id": 79,
-    "ru": "Как его зовут?",
-    "en": "What's his name?"
-  },
-  {
-    "_id": 80,
-    "ru": "Сколько стоит эта сумка?",
-    "en": "How much is this bag?"
-  },
-  {
-    "_id": 81,
-    "ru": "Сколько это стоит?",
-    "en": "How much is it?"
-  },
-  {
-    "_id": 82,
-    "ru": "Где твоя машина?",
-    "en": "Where is your car?"
-  },
-  {
-    "_id": 83,
-    "ru": "Где этот магазин?",
-    "en": "Where is this shop?"
-  },
-  {
-    "_id": 84,
-    "ru": "Сколько стоит этот дом?",
-    "en": "How much is this house?"
-  },
-  {
-    "_id": 85,
-    "ru": "Что важнее?",
-    "en": "What's more important?"
-  },
-  {
-    "_id": 86,
-    "ru": "Сколько стоит твой компьютер?",
-    "en": "How much is your computer?"
-  },
-  {
-    "_id": 87,
-    "ru": "Сколько стоит эта квартира?",
-    "en": "How much is this apartment?"
+    "id": 1,
+    "ru": {
+      "text": "Почему ты так занят?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why are you so busy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Почему он прав?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is he right?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Сколько им лет?",
+      "audio": false
+    },
+    "en": {
+      "text": "How old are they?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Что в этой коробке?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's in this box?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Почему он прав?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is he right?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Почему это так?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is it so?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Почему это так дорого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is it so expensive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Сколько ей лет?",
+      "audio": false
+    },
+    "en": {
+      "text": "How old is she?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Почему ты так занят?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why are you so busy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Кто прав?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is right?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Кто они?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who are they?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Когда она на работе?",
+      "audio": false
+    },
+    "en": {
+      "text": "When is she at work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Как она?",
+      "audio": false
+    },
+    "en": {
+      "text": "How is she?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Что неправильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is wrong?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Когда ты свободен?",
+      "audio": false
+    },
+    "en": {
+      "text": "When are you free?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Сколько им лет?",
+      "audio": false
+    },
+    "en": {
+      "text": "How old are they?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Что в этой коробке?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is in this box?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Что правильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is correct?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Почему ты на работе сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why are you at work now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Когда ты дома?",
+      "audio": false
+    },
+    "en": {
+      "text": "When are you at home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Сколько тебе лет?",
+      "audio": false
+    },
+    "en": {
+      "text": "How old are you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Почему это неправильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is it wrong?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Кто не прав?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is wrong?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Сколько ему лет?",
+      "audio": false
+    },
+    "en": {
+      "text": "How old is he?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Кто он?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is he?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Где ты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where are you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Где они?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where are they?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Почему ты такой грустный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why are you so sad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Почему ты такой счастливый?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why are you so happy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Почему это бесплатно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is it free?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Почему она так расстроена?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is she so upset?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Кто здесь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is here?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Почему она такая грустная?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is she so sad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Где это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where is it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Как он?",
+      "audio": false
+    },
+    "en": {
+      "text": "How is he?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Что это?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Почему она злится?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is she angry?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Когда он там?",
+      "audio": false
+    },
+    "en": {
+      "text": "When is he there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Как ты?",
+      "audio": false
+    },
+    "en": {
+      "text": "How are you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Почему он так расстроен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is he so upset?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Кто там?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Сколько стоит эта вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much is this thing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Что в коробке?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is in the box?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Почему это правильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is it correct?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Сколько стоят эти брюки?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much are these trousers?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Какая у него работа?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's his job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Сколько стоит эта пара джинсов?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much is this pair of jeans?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Где то место?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where is that place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Сколько стоят эти джинсы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much are these jeans?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Что в этой коробке?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's in this box?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Что там?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Сколько стоит это платье?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much is this dress?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Как тебя зовут?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's your name?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Что лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's better?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Почему это лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is it better?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Какая у тебя работа?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's your job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Где это место?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where is this place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Почему это хуже?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is it worse?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Кто она?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is she?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Что хуже?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is worse?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Что лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is better?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Откуда она?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where is she from?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Откуда ты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where are you from?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Сколько стоит эта книга?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much is this book?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Сколько стоят эти игрушки?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much are these toys?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Сколько стоит эта игрушка?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much is this toy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Сколько стоят те книги?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much are those books?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Какая у нее работа?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's her job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Сколько стоит эта пара брюк?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much is this pair of trousers?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Сколько стоят эти сумки?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much are these bags?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Откуда он?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where is he from?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Что здесь сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's here now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Как ее зовут?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's her name?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Почему это дешевле?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is it cheaper?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Что дешевле?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's cheaper?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Что дороже?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's more expensive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Почему ты расстроен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why are you upset?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Что более эффективно?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's more effective?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Как его зовут?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's his name?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Сколько стоит эта сумка?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much is this bag?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Сколько это стоит?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much is it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Где твоя машина?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where is your car?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Где этот магазин?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where is this shop?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Сколько стоит этот дом?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much is this house?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Что важнее?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's more important?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Сколько стоит твой компьютер?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much is your computer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Сколько стоит эта квартира?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much is this apartment?",
+      "audio": false
+    }
   }
 ]

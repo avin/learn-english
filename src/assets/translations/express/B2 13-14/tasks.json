@@ -1,77 +1,167 @@
 [
   {
-    "_id": 1,
-    "ru": "Полиция расследует это преступление",
-    "en": "The police are looking into this crime"
+    "id": 1,
+    "ru": {
+      "text": "Полиция расследует это преступление",
+      "audio": false
+    },
+    "en": {
+      "text": "The police are looking into this crime",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Он наконец выплатил кредит",
-    "en": "He finally paid off the loan"
+    "id": 2,
+    "ru": {
+      "text": "Он наконец выплатил кредит",
+      "audio": false
+    },
+    "en": {
+      "text": "He finally paid off the loan",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Она была так рассержена, что повесила трубку",
-    "en": "She was so angry that she hung up the phone"
+    "id": 3,
+    "ru": {
+      "text": "Она была так рассержена, что повесила трубку",
+      "audio": false
+    },
+    "en": {
+      "text": "She was so angry that she hung up the phone",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я с нетерпением жду вашего ответа в ближайшее время (1)",
-    "en": "I look forward to hearing from you soon"
+    "id": 4,
+    "ru": {
+      "text": "Я с нетерпением жду вашего ответа в ближайшее время (1)",
+      "audio": false
+    },
+    "en": {
+      "text": "I look forward to hearing from you soon",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я уверен, что твой усердный труд окупится в конце концов",
-    "en": "I'm sure that your hard work will pay off in the end"
+    "id": 5,
+    "ru": {
+      "text": "Я уверен, что твой усердный труд окупится в конце концов",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure that your hard work will pay off in the end",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Эта новость скрасила мой день",
-    "en": "This news brightened up my day"
+    "id": 6,
+    "ru": {
+      "text": "Эта новость скрасила мой день",
+      "audio": false
+    },
+    "en": {
+      "text": "This news brightened up my day",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Он оказался прав",
-    "en": "He turned out to be right"
+    "id": 7,
+    "ru": {
+      "text": "Он оказался прав",
+      "audio": false
+    },
+    "en": {
+      "text": "He turned out to be right",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Тебе лучше посмотреть это в словаре",
-    "en": "You'd better look it up in a dictionary"
+    "id": 8,
+    "ru": {
+      "text": "Тебе лучше посмотреть это в словаре",
+      "audio": false
+    },
+    "en": {
+      "text": "You'd better look it up in a dictionary",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "К сожалению, он не смог выплатить все деньги",
-    "en": "Unfortunately, he couldn't pay back all the money"
+    "id": 9,
+    "ru": {
+      "text": "К сожалению, он не смог выплатить все деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "Unfortunately, he couldn't pay back all the money",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Она была вынуждена повесить трубку",
-    "en": "She was forced to hang up the phone"
+    "id": 10,
+    "ru": {
+      "text": "Она была вынуждена повесить трубку",
+      "audio": false
+    },
+    "en": {
+      "text": "She was forced to hang up the phone",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Он говорит, что они изучат это дело",
-    "en": "He says that they will look into this matter"
+    "id": 11,
+    "ru": {
+      "text": "Он говорит, что они изучат это дело",
+      "audio": false
+    },
+    "en": {
+      "text": "He says that they will look into this matter",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Он пообещал, что вернет все деньги",
-    "en": "He promised that he would pay back all the money"
+    "id": 12,
+    "ru": {
+      "text": "Он пообещал, что вернет все деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "He promised that he would pay back all the money",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Он сказал, что заберет тебя после работы",
-    "en": "He said that he would pick you up after work"
+    "id": 13,
+    "ru": {
+      "text": "Он сказал, что заберет тебя после работы",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he would pick you up after work",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я с нетерпением жду вашего ответа (2)",
-    "en": "I look forward to your reply"
+    "id": 14,
+    "ru": {
+      "text": "Я с нетерпением жду вашего ответа (2)",
+      "audio": false
+    },
+    "en": {
+      "text": "I look forward to your reply",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Определенно, это скрасит твой день",
-    "en": "Definitely, it will brighten up your day"
+    "id": 15,
+    "ru": {
+      "text": "Определенно, это скрасит твой день",
+      "audio": false
+    },
+    "en": {
+      "text": "Definitely, it will brighten up your day",
+      "audio": false
+    }
   }
 ]

@@ -1,472 +1,1036 @@
 [
   {
-    "_id": 1,
-    "ru": "Я увлекаюсь футболом",
-    "en": "I’m keen on football"
-  },
-  {
-    "_id": 2,
-    "ru": "Он гордится своим сыном",
-    "en": "He's proud of his son"
-  },
-  {
-    "_id": 3,
-    "ru": "Она действительно устала от этого беспорядка",
-    "en": "She's really tired of this mess"
-  },
-  {
-    "_id": 4,
-    "ru": "Я действительно в восторге от этой поездки в Америку",
-    "en": "I'm really excited about this trip to America"
-  },
-  {
-    "_id": 5,
-    "ru": "Он без ума от футбола",
-    "en": "He's crazy about football"
-  },
-  {
-    "_id": 6,
-    "ru": "Я очень рад за тебя",
-    "en": "I'm very happy for you"
-  },
-  {
-    "_id": 7,
-    "ru": "Он действительно в восторге от этой возможности",
-    "en": "He's really excited about this opportunity"
-  },
-  {
-    "_id": 8,
-    "ru": "Она действительно рада своему прогрессу",
-    "en": "She feels really happy about her progress"
-  },
-  {
-    "_id": 9,
-    "ru": "Я действительно в восторге от твоего предложения",
-    "en": "I'm really excited about your offer"
-  },
-  {
-    "_id": 10,
-    "ru": "Я чувствую себя удовлетворенным своими результатами",
-    "en": "I feel satisfied with my results"
-  },
-  {
-    "_id": 11,
-    "ru": "Она действительно разочарована этой покупкой",
-    "en": "She's really disappointed about this purchase"
-  },
-  {
-    "_id": 12,
-    "ru": "Я действительно рад этому",
-    "en": "I'm really happy about it"
-  },
-  {
-    "_id": 13,
-    "ru": "Это типично для американцев",
-    "en": "It's typical of Americans"
-  },
-  {
-    "_id": 14,
-    "ru": "Он действительно без ума от бейсбола",
-    "en": "He is really crazy about baseball"
-  },
-  {
-    "_id": 15,
-    "ru": "Она увлекается музыкой",
-    "en": "She is keen on music"
-  },
-  {
-    "_id": 16,
-    "ru": "Ты действительно устал от этого?",
-    "en": "Are you really tired of it?"
-  },
-  {
-    "_id": 17,
-    "ru": "Я не устал",
-    "en": "I'm not tired"
-  },
-  {
-    "_id": 18,
-    "ru": "Ты рад этому?",
-    "en": "Are you happy about it?"
-  },
-  {
-    "_id": 19,
-    "ru": "Она без ума от него",
-    "en": "She's crazy about him"
-  },
-  {
-    "_id": 20,
-    "ru": "Я горжусь собой",
-    "en": "I'm proud of myself"
-  },
-  {
-    "_id": 21,
-    "ru": "Я просто немного устал",
-    "en": "I'm tired just a little bit"
-  },
-  {
-    "_id": 22,
-    "ru": "Он действительно рад своим результатам",
-    "en": "He's really happy about his results"
-  },
-  {
-    "_id": 23,
-    "ru": "Ты удовлетворен своим результатом?",
-    "en": "Do you feel satisfied with your result?"
-  },
-  {
-    "_id": 24,
-    "ru": "Почему ты был так разочарован?",
-    "en": "Why were you so disappointed?"
-  },
-  {
-    "_id": 25,
-    "ru": "Она без ума от этого певца",
-    "en": "She's crazy about this singer"
-  },
-  {
-    "_id": 26,
-    "ru": "Я был очень разочарован своими результатами",
-    "en": "I was very disappointed about my results"
-  },
-  {
-    "_id": 27,
-    "ru": "Это поведение не типично для него",
-    "en": "This behaviour isn't typical of him"
-  },
-  {
-    "_id": 28,
-    "ru": "Ты был действительно разочарован этим?",
-    "en": "Were you really disappointed about it?"
-  },
-  {
-    "_id": 29,
-    "ru": "Почему ты так устал?",
-    "en": "Why are you so tired?"
-  },
-  {
-    "_id": 30,
-    "ru": "Она очень увлекается теннисом",
-    "en": "She's very keen on tennis"
-  },
-  {
-    "_id": 31,
-    "ru": "Я не заинтересован в этом",
-    "en": "I'm not interested in it"
-  },
-  {
-    "_id": 32,
-    "ru": "Она действительно без ума от музыки",
-    "en": "She's really crazy about music"
-  },
-  {
-    "_id": 33,
-    "ru": "Он увлекается футболом",
-    "en": "He's keen on football"
-  },
-  {
-    "_id": 34,
-    "ru": "Это очень типично для него",
-    "en": "It's very typical of him"
-  },
-  {
-    "_id": 35,
-    "ru": "Я был действительно разочарован этим решением",
-    "en": "I was really disappointed about this decision"
-  },
-  {
-    "_id": 36,
-    "ru": "Ты удовлетворен своими результатами?",
-    "en": "Are you satisfied with your results?"
-  },
-  {
-    "_id": 37,
-    "ru": "Я был очень разочарован этим",
-    "en": "I was very disappointed about it"
-  },
-  {
-    "_id": 38,
-    "ru": "Он был удивлен ее реакцией?",
-    "en": "Was he surprised by her reaction?"
-  },
-  {
-    "_id": 39,
-    "ru": "Я действительно счастлив за тебя",
-    "en": "I'm really happy for you"
-  },
-  {
-    "_id": 40,
-    "ru": "Я действительно разочарован этой покупкой",
-    "en": "I'm really disappointed about this purchase"
-  },
-  {
-    "_id": 41,
-    "ru": "Он очень сильно отличается от своего брата",
-    "en": "He's very different from his brother"
-  },
-  {
-    "_id": 42,
-    "ru": "Он полностью удовлетворен качеством этого продукта",
-    "en": "He's fully satisfied with the quality of this product"
-  },
-  {
-    "_id": 43,
-    "ru": "Город славится своей ночной жизнью",
-    "en": "The city is famous for its nightlife"
-  },
-  {
-    "_id": 44,
-    "ru": "Ты заинтересован в шахматах?",
-    "en": "Are you interested in chess?"
-  },
-  {
-    "_id": 45,
-    "ru": "Он был действительно удивлен ее реакцией",
-    "en": "He was really surprised by her reaction"
-  },
-  {
-    "_id": 46,
-    "ru": "Я был удивлен этими новостями",
-    "en": "I was surprised by this news"
-  },
-  {
-    "_id": 47,
-    "ru": "Они все были шокированы новостями",
-    "en": "They were all shocked by the news"
-  },
-  {
-    "_id": 48,
-    "ru": "Очевидно, он был очень разочарован",
-    "en": "Obviously, he was very disappointed"
-  },
-  {
-    "_id": 49,
-    "ru": "Он говорит, что он действительно гордится собой",
-    "en": "He says that he is really proud of himself"
-  },
-  {
-    "_id": 50,
-    "ru": "Город славится своими музеями и театрами",
-    "en": "The city is famous for its museums and theatres"
-  },
-  {
-    "_id": 51,
-    "ru": "Я был горько разочарован",
-    "en": "I was bitterly disappointed"
-  },
-  {
-    "_id": 52,
-    "ru": "Он увлекается игрой на гитаре",
-    "en": "He's keen on playing the guitar"
-  },
-  {
-    "_id": 53,
-    "ru": "Я полностью удовлетворен своим результатом",
-    "en": "I'm fully satisfied with my result"
-  },
-  {
-    "_id": 54,
-    "ru": "Я был действительно шокирован ее словами",
-    "en": "I was really shocked by her words"
-  },
-  {
-    "_id": 55,
-    "ru": "Я был горько разочарован этим",
-    "en": "I was bitterly disappointed about it"
-  },
-  {
-    "_id": 56,
-    "ru": "Они были очень разочарованы моими результатами",
-    "en": "They were very disappointed with my results"
-  },
-  {
-    "_id": 57,
-    "ru": "Почему он был разочарован этим?",
-    "en": "Why was he disappointed about it?"
-  },
-  {
-    "_id": 58,
-    "ru": "Университет славится качеством образования",
-    "en": "The university is famous for the quality of education"
-  },
-  {
-    "_id": 59,
-    "ru": "Этот университет славился своей историей",
-    "en": "This university was famous for its history"
-  },
-  {
-    "_id": 60,
-    "ru": "Этот город славится музеями и театрами",
-    "en": "This city is famous for museums and theatres"
-  },
-  {
-    "_id": 61,
-    "ru": "К сожалению, я очень плох в игре на гитаре",
-    "en": "Unfortunately, I'm very bad at playing the guitar"
-  },
-  {
-    "_id": 62,
-    "ru": "Я знаю, что я очень плох в игре в теннис",
-    "en": "I know that I'm very bad at playing tennis"
-  },
-  {
-    "_id": 63,
-    "ru": "К сожалению, я не так хорош в игре на гитаре",
-    "en": "Unfortunately, I'm not so good at playing the guitar"
-  },
-  {
-    "_id": 64,
-    "ru": "Я вполне доволен результатом этого экзамена",
-    "en": "I'm quite satisfied with the result of this exam"
-  },
-  {
-    "_id": 65,
-    "ru": "Я полностью удовлетворен своими результатами",
-    "en": "I'm fully satisfied with my results"
-  },
-  {
-    "_id": 66,
-    "ru": "Ты удовлетворен результатом этого теста?",
-    "en": "Are you satisfied with the result of this test?"
-  },
-  {
-    "_id": 67,
-    "ru": "Это очень типично для людей ее поколения",
-    "en": "It's very typical of people of her generation"
-  },
-  {
-    "_id": 68,
-    "ru": "Это не типично для него",
-    "en": "It's not typical of him"
-  },
-  {
-    "_id": 69,
-    "ru": "Это поведение типично для нее?",
-    "en": "Is this behaviour typical of her?"
-  },
-  {
-    "_id": 70,
-    "ru": "Город очень известен своим старым замком",
-    "en": "The town is very famous for its old castle"
-  },
-  {
-    "_id": 71,
-    "ru": "Та женщина очень известна своим талантом",
-    "en": "That woman is very famous for her talent"
-  },
-  {
-    "_id": 72,
-    "ru": "Мой родной город славится своей природой",
-    "en": "My own town is famous for its nature"
-  },
-  {
-    "_id": 73,
-    "ru": "Ты шокирован этой новостью?",
-    "en": "Are you shocked by this news?"
-  },
-  {
-    "_id": 74,
-    "ru": "Я совсем не был шокирован этой новостью",
-    "en": "I wasn't shocked by this news at all"
-  },
-  {
-    "_id": 75,
-    "ru": "Эта новость так сильно меня шокировала",
-    "en": "This news shocked me so much"
-  },
-  {
-    "_id": 76,
-    "ru": "Я в восторге от той вечеринки",
-    "en": "I'm excited about that party"
-  },
-  {
-    "_id": 77,
-    "ru": "Он в восторге от твоего предложения",
-    "en": "He's very excited about your offer"
-  },
-  {
-    "_id": 78,
-    "ru": "Он был в восторге от вечеринки?",
-    "en": "Was he excited about the party?"
-  },
-  {
-    "_id": 79,
-    "ru": "Эти два языка отличаются друг от друга?",
-    "en": "Are these two languages different from each other?"
-  },
-  {
-    "_id": 80,
-    "ru": "Мы все были шокированы его внезапной смертью",
-    "en": "We were all shocked by his sudden death"
-  },
-  {
-    "_id": 81,
-    "ru": "Я очень шокирован его ранней смертью",
-    "en": "I am very shocked by his early death"
-  },
-  {
-    "_id": 82,
-    "ru": "Они шокированы твоим решением",
-    "en": "They are shocked by your decision"
-  },
-  {
-    "_id": 83,
-    "ru": "Я очень рад этой новости",
-    "en": "I'm very excited about this news"
-  },
-  {
-    "_id": 84,
-    "ru": "Все были шокированы этой аварией",
-    "en": "Everyone was shocked by that accident"
-  },
-  {
-    "_id": 85,
-    "ru": "Ты заинтересован в игре в шахматы?",
-    "en": "Are you interested in playing chess?"
-  },
-  {
-    "_id": 86,
-    "ru": "Ты увлекаешься игрой на гитаре?",
-    "en": "Are you keen on playing the guitar?"
-  },
-  {
-    "_id": 87,
-    "ru": "Город знаменит своими ночными клубами",
-    "en": "The city is famous for its nightclubs"
-  },
-  {
-    "_id": 88,
-    "ru": "Я ничего не боюсь",
-    "en": "I'm not afraid of anything"
-  },
-  {
-    "_id": 89,
-    "ru": "Я был горько разочарован своими результатами",
-    "en": "I was bitterly disappointed about my results"
-  },
-  {
-    "_id": 90,
-    "ru": "Мы были шокированы ее словами",
-    "en": "We were shocked by her words"
-  },
-  {
-    "_id": 91,
-    "ru": "Я не боюсь ничего",
-    "en": "I'm afraid of nothing"
-  },
-  {
-    "_id": 92,
-    "ru": "Я удовлетворен результатами теста",
-    "en": "I'm satisfied with the results of the test"
-  },
-  {
-    "_id": 93,
-    "ru": "Я был действительно удивлен услышать это",
-    "en": "I was really surprised to hear it"
-  },
-  {
-    "_id": 94,
-    "ru": "Этот город известен своей историей",
-    "en": "This city is famous for its history"
+    "id": 1,
+    "ru": {
+      "text": "Я увлекаюсь футболом",
+      "audio": false
+    },
+    "en": {
+      "text": "I’m keen on football",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Он гордится своим сыном",
+      "audio": false
+    },
+    "en": {
+      "text": "He's proud of his son",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Она действительно устала от этого беспорядка",
+      "audio": false
+    },
+    "en": {
+      "text": "She's really tired of this mess",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я действительно в восторге от этой поездки в Америку",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really excited about this trip to America",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Он без ума от футбола",
+      "audio": false
+    },
+    "en": {
+      "text": "He's crazy about football",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я очень рад за тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm very happy for you",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Он действительно в восторге от этой возможности",
+      "audio": false
+    },
+    "en": {
+      "text": "He's really excited about this opportunity",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Она действительно рада своему прогрессу",
+      "audio": false
+    },
+    "en": {
+      "text": "She feels really happy about her progress",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я действительно в восторге от твоего предложения",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really excited about your offer",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я чувствую себя удовлетворенным своими результатами",
+      "audio": false
+    },
+    "en": {
+      "text": "I feel satisfied with my results",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Она действительно разочарована этой покупкой",
+      "audio": false
+    },
+    "en": {
+      "text": "She's really disappointed about this purchase",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я действительно рад этому",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really happy about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Это типично для американцев",
+      "audio": false
+    },
+    "en": {
+      "text": "It's typical of Americans",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Он действительно без ума от бейсбола",
+      "audio": false
+    },
+    "en": {
+      "text": "He is really crazy about baseball",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Она увлекается музыкой",
+      "audio": false
+    },
+    "en": {
+      "text": "She is keen on music",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Ты действительно устал от этого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you really tired of it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я не устал",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not tired",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Ты рад этому?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you happy about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Она без ума от него",
+      "audio": false
+    },
+    "en": {
+      "text": "She's crazy about him",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я горжусь собой",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm proud of myself",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Я просто немного устал",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm tired just a little bit",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Он действительно рад своим результатам",
+      "audio": false
+    },
+    "en": {
+      "text": "He's really happy about his results",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Ты удовлетворен своим результатом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you feel satisfied with your result?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Почему ты был так разочарован?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why were you so disappointed?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Она без ума от этого певца",
+      "audio": false
+    },
+    "en": {
+      "text": "She's crazy about this singer",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я был очень разочарован своими результатами",
+      "audio": false
+    },
+    "en": {
+      "text": "I was very disappointed about my results",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Это поведение не типично для него",
+      "audio": false
+    },
+    "en": {
+      "text": "This behaviour isn't typical of him",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Ты был действительно разочарован этим?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you really disappointed about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Почему ты так устал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why are you so tired?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Она очень увлекается теннисом",
+      "audio": false
+    },
+    "en": {
+      "text": "She's very keen on tennis",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Я не заинтересован в этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not interested in it",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Она действительно без ума от музыки",
+      "audio": false
+    },
+    "en": {
+      "text": "She's really crazy about music",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Он увлекается футболом",
+      "audio": false
+    },
+    "en": {
+      "text": "He's keen on football",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Это очень типично для него",
+      "audio": false
+    },
+    "en": {
+      "text": "It's very typical of him",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я был действительно разочарован этим решением",
+      "audio": false
+    },
+    "en": {
+      "text": "I was really disappointed about this decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Ты удовлетворен своими результатами?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you satisfied with your results?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я был очень разочарован этим",
+      "audio": false
+    },
+    "en": {
+      "text": "I was very disappointed about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Он был удивлен ее реакцией?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was he surprised by her reaction?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я действительно счастлив за тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really happy for you",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я действительно разочарован этой покупкой",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really disappointed about this purchase",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Он очень сильно отличается от своего брата",
+      "audio": false
+    },
+    "en": {
+      "text": "He's very different from his brother",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Он полностью удовлетворен качеством этого продукта",
+      "audio": false
+    },
+    "en": {
+      "text": "He's fully satisfied with the quality of this product",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Город славится своей ночной жизнью",
+      "audio": false
+    },
+    "en": {
+      "text": "The city is famous for its nightlife",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Ты заинтересован в шахматах?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you interested in chess?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Он был действительно удивлен ее реакцией",
+      "audio": false
+    },
+    "en": {
+      "text": "He was really surprised by her reaction",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я был удивлен этими новостями",
+      "audio": false
+    },
+    "en": {
+      "text": "I was surprised by this news",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Они все были шокированы новостями",
+      "audio": false
+    },
+    "en": {
+      "text": "They were all shocked by the news",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Очевидно, он был очень разочарован",
+      "audio": false
+    },
+    "en": {
+      "text": "Obviously, he was very disappointed",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Он говорит, что он действительно гордится собой",
+      "audio": false
+    },
+    "en": {
+      "text": "He says that he is really proud of himself",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Город славится своими музеями и театрами",
+      "audio": false
+    },
+    "en": {
+      "text": "The city is famous for its museums and theatres",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я был горько разочарован",
+      "audio": false
+    },
+    "en": {
+      "text": "I was bitterly disappointed",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Он увлекается игрой на гитаре",
+      "audio": false
+    },
+    "en": {
+      "text": "He's keen on playing the guitar",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я полностью удовлетворен своим результатом",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm fully satisfied with my result",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я был действительно шокирован ее словами",
+      "audio": false
+    },
+    "en": {
+      "text": "I was really shocked by her words",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я был горько разочарован этим",
+      "audio": false
+    },
+    "en": {
+      "text": "I was bitterly disappointed about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Они были очень разочарованы моими результатами",
+      "audio": false
+    },
+    "en": {
+      "text": "They were very disappointed with my results",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Почему он был разочарован этим?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was he disappointed about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Университет славится качеством образования",
+      "audio": false
+    },
+    "en": {
+      "text": "The university is famous for the quality of education",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Этот университет славился своей историей",
+      "audio": false
+    },
+    "en": {
+      "text": "This university was famous for its history",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Этот город славится музеями и театрами",
+      "audio": false
+    },
+    "en": {
+      "text": "This city is famous for museums and theatres",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "К сожалению, я очень плох в игре на гитаре",
+      "audio": false
+    },
+    "en": {
+      "text": "Unfortunately, I'm very bad at playing the guitar",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я знаю, что я очень плох в игре в теннис",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that I'm very bad at playing tennis",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "К сожалению, я не так хорош в игре на гитаре",
+      "audio": false
+    },
+    "en": {
+      "text": "Unfortunately, I'm not so good at playing the guitar",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я вполне доволен результатом этого экзамена",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm quite satisfied with the result of this exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я полностью удовлетворен своими результатами",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm fully satisfied with my results",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Ты удовлетворен результатом этого теста?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you satisfied with the result of this test?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Это очень типично для людей ее поколения",
+      "audio": false
+    },
+    "en": {
+      "text": "It's very typical of people of her generation",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Это не типично для него",
+      "audio": false
+    },
+    "en": {
+      "text": "It's not typical of him",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Это поведение типично для нее?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this behaviour typical of her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Город очень известен своим старым замком",
+      "audio": false
+    },
+    "en": {
+      "text": "The town is very famous for its old castle",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Та женщина очень известна своим талантом",
+      "audio": false
+    },
+    "en": {
+      "text": "That woman is very famous for her talent",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Мой родной город славится своей природой",
+      "audio": false
+    },
+    "en": {
+      "text": "My own town is famous for its nature",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Ты шокирован этой новостью?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you shocked by this news?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я совсем не был шокирован этой новостью",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't shocked by this news at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Эта новость так сильно меня шокировала",
+      "audio": false
+    },
+    "en": {
+      "text": "This news shocked me so much",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я в восторге от той вечеринки",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm excited about that party",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Он в восторге от твоего предложения",
+      "audio": false
+    },
+    "en": {
+      "text": "He's very excited about your offer",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Он был в восторге от вечеринки?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was he excited about the party?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Эти два языка отличаются друг от друга?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are these two languages different from each other?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Мы все были шокированы его внезапной смертью",
+      "audio": false
+    },
+    "en": {
+      "text": "We were all shocked by his sudden death",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я очень шокирован его ранней смертью",
+      "audio": false
+    },
+    "en": {
+      "text": "I am very shocked by his early death",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Они шокированы твоим решением",
+      "audio": false
+    },
+    "en": {
+      "text": "They are shocked by your decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я очень рад этой новости",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm very excited about this news",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Все были шокированы этой аварией",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone was shocked by that accident",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Ты заинтересован в игре в шахматы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you interested in playing chess?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Ты увлекаешься игрой на гитаре?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you keen on playing the guitar?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Город знаменит своими ночными клубами",
+      "audio": false
+    },
+    "en": {
+      "text": "The city is famous for its nightclubs",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Я ничего не боюсь",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not afraid of anything",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Я был горько разочарован своими результатами",
+      "audio": false
+    },
+    "en": {
+      "text": "I was bitterly disappointed about my results",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Мы были шокированы ее словами",
+      "audio": false
+    },
+    "en": {
+      "text": "We were shocked by her words",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Я не боюсь ничего",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm afraid of nothing",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Я удовлетворен результатами теста",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm satisfied with the results of the test",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Я был действительно удивлен услышать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I was really surprised to hear it",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Этот город известен своей историей",
+      "audio": false
+    },
+    "en": {
+      "text": "This city is famous for its history",
+      "audio": false
+    }
   }
 ]

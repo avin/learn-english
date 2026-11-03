@@ -1,507 +1,1113 @@
 [
   {
-    "_id": 1,
-    "ru": "Я пою сейчас",
-    "en": "I am singing"
-  },
-  {
-    "_id": 2,
-    "ru": "Мы смотрим телевизор сейчас",
-    "en": "We are watching TV"
-  },
-  {
-    "_id": 3,
-    "ru": "Он принимает душ сейчас",
-    "en": "He is taking a shower"
-  },
-  {
-    "_id": 4,
-    "ru": "Он танцует сейчас",
-    "en": "He’s dancing"
-  },
-  {
-    "_id": 5,
-    "ru": "Мы играем на стадионе сейчас",
-    "en": "We’re playing at the stadium"
-  },
-  {
-    "_id": 6,
-    "ru": "Я танцую сейчас",
-    "en": "I’m dancing"
-  },
-  {
-    "_id": 7,
-    "ru": "Она учит русский сейчас",
-    "en": "She’s learning Russian"
-  },
-  {
-    "_id": 8,
-    "ru": "Она принимает душ",
-    "en": "She is taking a shower"
-  },
-  {
-    "_id": 9,
-    "ru": "Я слушаю тебя",
-    "en": "I'm listening to you"
-  },
-  {
-    "_id": 10,
-    "ru": "Я думаю об этом очень серьезно сейчас",
-    "en": "I'm thinking about it very seriously now"
-  },
-  {
-    "_id": 11,
-    "ru": "Он остается на работе",
-    "en": "He's staying at work"
-  },
-  {
-    "_id": 12,
-    "ru": "Я сейчас иду в парк",
-    "en": "I'm going to the park now"
-  },
-  {
-    "_id": 13,
-    "ru": "Он изучает биологию сейчас",
-    "en": "He's studying biology now"
-  },
-  {
-    "_id": 14,
-    "ru": "Он плавает в пруду",
-    "en": "He's swimming in the pond"
-  },
-  {
-    "_id": 15,
-    "ru": "Мы играем в футбол",
-    "en": "We're playing football"
-  },
-  {
-    "_id": 16,
-    "ru": "Они разговаривают и смеются",
-    "en": "They are talking and laughing"
-  },
-  {
-    "_id": 17,
-    "ru": "Это происходит в данный момент",
-    "en": "It is happening at the moment"
-  },
-  {
-    "_id": 18,
-    "ru": "Я сейчас разговариваю с тобой",
-    "en": "I'm talking to you now"
-  },
-  {
-    "_id": 19,
-    "ru": "Я жду твоего ответа",
-    "en": "I'm waiting for your answer"
-  },
-  {
-    "_id": 20,
-    "ru": "Мы лежим на пляже",
-    "en": "We're lying on the beach"
-  },
-  {
-    "_id": 21,
-    "ru": "Я сейчас еду на велосипеде",
-    "en": "I am riding a bike now"
-  },
-  {
-    "_id": 22,
-    "ru": "Они играют на стадионе",
-    "en": "They are playing at the stadium"
-  },
-  {
-    "_id": 23,
-    "ru": "Он поет",
-    "en": "He is singing"
-  },
-  {
-    "_id": 24,
-    "ru": "Она пишет письмо сейчас",
-    "en": "She's writing a letter now"
-  },
-  {
-    "_id": 25,
-    "ru": "Я остаюсь дома",
-    "en": "I'm staying at home"
-  },
-  {
-    "_id": 26,
-    "ru": "Он принимает душ",
-    "en": "He is taking a shower"
-  },
-  {
-    "_id": 27,
-    "ru": "Я иду домой",
-    "en": "I'm going home"
-  },
-  {
-    "_id": 28,
-    "ru": "Она танцует",
-    "en": "She is dancing"
-  },
-  {
-    "_id": 29,
-    "ru": "Я иду на работу",
-    "en": "I'm going to work"
-  },
-  {
-    "_id": 30,
-    "ru": "Она что-то говорит",
-    "en": "She is saying something"
-  },
-  {
-    "_id": 31,
-    "ru": "Она поет так громко",
-    "en": "She is singing so loudly"
-  },
-  {
-    "_id": 32,
-    "ru": "Я учу английский сейчас",
-    "en": "I am learning English now"
-  },
-  {
-    "_id": 33,
-    "ru": "Ты едешь слишком быстро",
-    "en": "You are driving too fast"
-  },
-  {
-    "_id": 34,
-    "ru": "Мы смотрим фильм",
-    "en": "We are watching a movie"
-  },
-  {
-    "_id": 35,
-    "ru": "Я сейчас смотрю это видео",
-    "en": "I'm watching this video now"
-  },
-  {
-    "_id": 36,
-    "ru": "Я лежу на солнечном пляже",
-    "en": "I'm lying on a sunny beach"
-  },
-  {
-    "_id": 37,
-    "ru": "Я жду тебя",
-    "en": "I am waiting for you"
-  },
-  {
-    "_id": 38,
-    "ru": "Он ест гамбургер",
-    "en": "He is eating a hamburger"
-  },
-  {
-    "_id": 39,
-    "ru": "Я пью чай",
-    "en": "I am drinking tea"
-  },
-  {
-    "_id": 40,
-    "ru": "Он тратит время впустую",
-    "en": "He's wasting time"
-  },
-  {
-    "_id": 41,
-    "ru": "Я жду твоего звонка",
-    "en": "I am waiting for your call"
-  },
-  {
-    "_id": 42,
-    "ru": "Она готовит торт",
-    "en": "She's cooking a cake"
-  },
-  {
-    "_id": 43,
-    "ru": "Она сейчас изучает химию",
-    "en": "She's studying chemistry now"
-  },
-  {
-    "_id": 44,
-    "ru": "Я сейчас гуляю в парке",
-    "en": "I'm walking in the park now"
-  },
-  {
-    "_id": 45,
-    "ru": "Она пьет кофе",
-    "en": "She is drinking coffee"
-  },
-  {
-    "_id": 46,
-    "ru": "Он ждет тебя сейчас",
-    "en": "He is waiting for you now"
-  },
-  {
-    "_id": 47,
-    "ru": "Он делает пиццу сейчас",
-    "en": "He is making pizza now"
-  },
-  {
-    "_id": 48,
-    "ru": "Она сейчас убирает дом",
-    "en": "She is cleaning the house now"
-  },
-  {
-    "_id": 49,
-    "ru": "Цены становятся все выше и выше",
-    "en": "The prices are getting higher and higher"
-  },
-  {
-    "_id": 50,
-    "ru": "Дети играют в футбол",
-    "en": "The children are playing football"
-  },
-  {
-    "_id": 51,
-    "ru": "Он отдыхает после работы",
-    "en": "He's having a rest after work"
-  },
-  {
-    "_id": 52,
-    "ru": "Эта область становится все более и более загрязненной",
-    "en": "This area is getting more and more polluted"
-  },
-  {
-    "_id": 53,
-    "ru": "Солнце светит ярко",
-    "en": "The sun is shining brightly"
-  },
-  {
-    "_id": 54,
-    "ru": "Я пытаюсь как-то адаптироваться к этим условиям",
-    "en": "I'm trying to adapt to these conditions somehow"
-  },
-  {
-    "_id": 55,
-    "ru": "Он ест шоколадный торт",
-    "en": "He's eating a chocolate cake"
-  },
-  {
-    "_id": 56,
-    "ru": "Наша жизнь становится все дороже и дороже",
-    "en": "Our life is getting more and more expensive"
-  },
-  {
-    "_id": 57,
-    "ru": "Город становится все более и более загрязненным",
-    "en": "The city is getting more and more polluted"
-  },
-  {
-    "_id": 58,
-    "ru": "Мой английский становится все лучше и лучше",
-    "en": "My English is getting better and better"
-  },
-  {
-    "_id": 59,
-    "ru": "Идет сильный дождь",
-    "en": "It's raining heavily"
-  },
-  {
-    "_id": 60,
-    "ru": "Она ест шоколад",
-    "en": "She is eating chocolate"
-  },
-  {
-    "_id": 61,
-    "ru": "Она убирает комнату сейчас",
-    "en": "She is cleaning the room now"
-  },
-  {
-    "_id": 62,
-    "ru": "Она моет руки сейчас",
-    "en": "She is washing her hands now"
-  },
-  {
-    "_id": 63,
-    "ru": "Она делает свое домашнее задание сейчас",
-    "en": "She is doing her homework now"
-  },
-  {
-    "_id": 64,
-    "ru": "Она отдыхает после школы",
-    "en": "She's having a rest after school"
-  },
-  {
-    "_id": 65,
-    "ru": "Она отдыхает в данный момент",
-    "en": "She's having a rest at the moment"
-  },
-  {
-    "_id": 66,
-    "ru": "Я сейчас отдыхаю",
-    "en": "I'm having a rest now"
-  },
-  {
-    "_id": 67,
-    "ru": "Она лежит на пляже и разговаривает со своим мужем",
-    "en": "She is lying on the beach and talking to her husband"
-  },
-  {
-    "_id": 68,
-    "ru": "Она лежит на кровати и болтает со своими друзьями",
-    "en": "She is lying in bed and chatting with her friends"
-  },
-  {
-    "_id": 69,
-    "ru": "Я очень усердно работаю в эти дни",
-    "en": "I'm working very hard these days"
-  },
-  {
-    "_id": 70,
-    "ru": "Он сейчас так много работает",
-    "en": "He's working so much now"
-  },
-  {
-    "_id": 71,
-    "ru": "Я сейчас работаю над этим проектом",
-    "en": "I'm working on this project now"
-  },
-  {
-    "_id": 72,
-    "ru": "Я отдыхаю после работы",
-    "en": "I'm having a rest after work"
-  },
-  {
-    "_id": 73,
-    "ru": "Я отдыхаю в данный момент",
-    "en": "I'm having a rest at the moment"
-  },
-  {
-    "_id": 74,
-    "ru": "Женщина разговаривает по телефону",
-    "en": "The woman is talking on the phone"
-  },
-  {
-    "_id": 75,
-    "ru": "Женщина разговаривает со своим мужем",
-    "en": "The woman is talking to her husband"
-  },
-  {
-    "_id": 76,
-    "ru": "Я разговариваю по телефону",
-    "en": "I am talking on the phone"
-  },
-  {
-    "_id": 77,
-    "ru": "Дети разговаривают и смеются",
-    "en": "The kids are talking and laughing"
-  },
-  {
-    "_id": 78,
-    "ru": "Мои друзья поют и танцуют",
-    "en": "My friends are singing and dancing"
-  },
-  {
-    "_id": 79,
-    "ru": "Они разговаривают друг с другом",
-    "en": "They are talking to each other"
-  },
-  {
-    "_id": 80,
-    "ru": "Он тренируется очень интенсивно в эти дни",
-    "en": "He is training very intensively these days"
-  },
-  {
-    "_id": 81,
-    "ru": "Они тренируются очень интенсивно в этом месяце",
-    "en": "They are training very intensively this month"
-  },
-  {
-    "_id": 82,
-    "ru": "Он пытается тренироваться очень интенсивно",
-    "en": "He is trying to train very intensively"
-  },
-  {
-    "_id": 83,
-    "ru": "Идет сильный снег",
-    "en": "It's snowing heavily"
-  },
-  {
-    "_id": 84,
-    "ru": "Сейчас идет снег",
-    "en": "It's snowing now"
-  },
-  {
-    "_id": 85,
-    "ru": "Все делают это сейчас",
-    "en": "Everyone is doing it now"
-  },
-  {
-    "_id": 86,
-    "ru": "Я делаю это сейчас",
-    "en": "I'm doing it now"
-  },
-  {
-    "_id": 87,
-    "ru": "Они делают это сейчас",
-    "en": "They're doing it now"
-  },
-  {
-    "_id": 88,
-    "ru": "Я делаю свою домашнюю работу в данный момент",
-    "en": "I am doing my homework at the moment"
-  },
-  {
-    "_id": 89,
-    "ru": "Его отец сейчас работает в саду",
-    "en": "His father is working in the garden now"
-  },
-  {
-    "_id": 90,
-    "ru": "Некоторые люди становятся все богаче и богаче",
-    "en": "Some people are getting richer and richer"
-  },
-  {
-    "_id": 91,
-    "ru": "Я разговариваю по телефону в данный момент",
-    "en": "I'm talking on the phone at the moment"
-  },
-  {
-    "_id": 92,
-    "ru": "Я остаюсь дома на этой неделе",
-    "en": "I am staying at home this week"
-  },
-  {
-    "_id": 93,
-    "ru": "Мальчик смеется над ней",
-    "en": "The boy is laughing at her"
-  },
-  {
-    "_id": 94,
-    "ru": "Мы обсуждаем это в настоящее время",
-    "en": "We're discussing it at present"
-  },
-  {
-    "_id": 95,
-    "ru": "Мой уровень становится все выше и выше",
-    "en": "My level is getting higher and higher"
-  },
-  {
-    "_id": 96,
-    "ru": "Большинство людей становятся все беднее и беднее",
-    "en": "Most people are getting poorer and poorer"
-  },
-  {
-    "_id": 97,
-    "ru": "Девочка плачет",
-    "en": "The girl is crying"
-  },
-  {
-    "_id": 98,
-    "ru": "Идет дождь",
-    "en": "It is raining"
-  },
-  {
-    "_id": 99,
-    "ru": "Ребенок спит",
-    "en": "The baby is sleeping"
-  },
-  {
-    "_id": 100,
-    "ru": "Идет снег",
-    "en": "It is snowing"
-  },
-  {
-    "_id": 101,
-    "ru": "Все покупают это сейчас",
-    "en": "Everyone is buying it now"
+    "id": 1,
+    "ru": {
+      "text": "Я пою сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I am singing",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Мы смотрим телевизор сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "We are watching TV",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Он принимает душ сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "He is taking a shower",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Он танцует сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "He’s dancing",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Мы играем на стадионе сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "We’re playing at the stadium",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я танцую сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I’m dancing",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Она учит русский сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "She’s learning Russian",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Она принимает душ",
+      "audio": false
+    },
+    "en": {
+      "text": "She is taking a shower",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я слушаю тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm listening to you",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я думаю об этом очень серьезно сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm thinking about it very seriously now",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Он остается на работе",
+      "audio": false
+    },
+    "en": {
+      "text": "He's staying at work",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я сейчас иду в парк",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm going to the park now",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он изучает биологию сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "He's studying biology now",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Он плавает в пруду",
+      "audio": false
+    },
+    "en": {
+      "text": "He's swimming in the pond",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Мы играем в футбол",
+      "audio": false
+    },
+    "en": {
+      "text": "We're playing football",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Они разговаривают и смеются",
+      "audio": false
+    },
+    "en": {
+      "text": "They are talking and laughing",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Это происходит в данный момент",
+      "audio": false
+    },
+    "en": {
+      "text": "It is happening at the moment",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я сейчас разговариваю с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm talking to you now",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я жду твоего ответа",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm waiting for your answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Мы лежим на пляже",
+      "audio": false
+    },
+    "en": {
+      "text": "We're lying on the beach",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Я сейчас еду на велосипеде",
+      "audio": false
+    },
+    "en": {
+      "text": "I am riding a bike now",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Они играют на стадионе",
+      "audio": false
+    },
+    "en": {
+      "text": "They are playing at the stadium",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он поет",
+      "audio": false
+    },
+    "en": {
+      "text": "He is singing",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Она пишет письмо сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "She's writing a letter now",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Я остаюсь дома",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm staying at home",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Он принимает душ",
+      "audio": false
+    },
+    "en": {
+      "text": "He is taking a shower",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я иду домой",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm going home",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Она танцует",
+      "audio": false
+    },
+    "en": {
+      "text": "She is dancing",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Я иду на работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm going to work",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Она что-то говорит",
+      "audio": false
+    },
+    "en": {
+      "text": "She is saying something",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Она поет так громко",
+      "audio": false
+    },
+    "en": {
+      "text": "She is singing so loudly",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я учу английский сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I am learning English now",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Ты едешь слишком быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "You are driving too fast",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Мы смотрим фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "We are watching a movie",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я сейчас смотрю это видео",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm watching this video now",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я лежу на солнечном пляже",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm lying on a sunny beach",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я жду тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I am waiting for you",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Он ест гамбургер",
+      "audio": false
+    },
+    "en": {
+      "text": "He is eating a hamburger",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я пью чай",
+      "audio": false
+    },
+    "en": {
+      "text": "I am drinking tea",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Он тратит время впустую",
+      "audio": false
+    },
+    "en": {
+      "text": "He's wasting time",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я жду твоего звонка",
+      "audio": false
+    },
+    "en": {
+      "text": "I am waiting for your call",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Она готовит торт",
+      "audio": false
+    },
+    "en": {
+      "text": "She's cooking a cake",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Она сейчас изучает химию",
+      "audio": false
+    },
+    "en": {
+      "text": "She's studying chemistry now",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я сейчас гуляю в парке",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm walking in the park now",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Она пьет кофе",
+      "audio": false
+    },
+    "en": {
+      "text": "She is drinking coffee",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Он ждет тебя сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "He is waiting for you now",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Он делает пиццу сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "He is making pizza now",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Она сейчас убирает дом",
+      "audio": false
+    },
+    "en": {
+      "text": "She is cleaning the house now",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Цены становятся все выше и выше",
+      "audio": false
+    },
+    "en": {
+      "text": "The prices are getting higher and higher",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Дети играют в футбол",
+      "audio": false
+    },
+    "en": {
+      "text": "The children are playing football",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Он отдыхает после работы",
+      "audio": false
+    },
+    "en": {
+      "text": "He's having a rest after work",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Эта область становится все более и более загрязненной",
+      "audio": false
+    },
+    "en": {
+      "text": "This area is getting more and more polluted",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Солнце светит ярко",
+      "audio": false
+    },
+    "en": {
+      "text": "The sun is shining brightly",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я пытаюсь как-то адаптироваться к этим условиям",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm trying to adapt to these conditions somehow",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Он ест шоколадный торт",
+      "audio": false
+    },
+    "en": {
+      "text": "He's eating a chocolate cake",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Наша жизнь становится все дороже и дороже",
+      "audio": false
+    },
+    "en": {
+      "text": "Our life is getting more and more expensive",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Город становится все более и более загрязненным",
+      "audio": false
+    },
+    "en": {
+      "text": "The city is getting more and more polluted",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Мой английский становится все лучше и лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "My English is getting better and better",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Идет сильный дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "It's raining heavily",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Она ест шоколад",
+      "audio": false
+    },
+    "en": {
+      "text": "She is eating chocolate",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Она убирает комнату сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "She is cleaning the room now",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Она моет руки сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "She is washing her hands now",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Она делает свое домашнее задание сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "She is doing her homework now",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Она отдыхает после школы",
+      "audio": false
+    },
+    "en": {
+      "text": "She's having a rest after school",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Она отдыхает в данный момент",
+      "audio": false
+    },
+    "en": {
+      "text": "She's having a rest at the moment",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я сейчас отдыхаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm having a rest now",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Она лежит на пляже и разговаривает со своим мужем",
+      "audio": false
+    },
+    "en": {
+      "text": "She is lying on the beach and talking to her husband",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Она лежит на кровати и болтает со своими друзьями",
+      "audio": false
+    },
+    "en": {
+      "text": "She is lying in bed and chatting with her friends",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я очень усердно работаю в эти дни",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm working very hard these days",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Он сейчас так много работает",
+      "audio": false
+    },
+    "en": {
+      "text": "He's working so much now",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я сейчас работаю над этим проектом",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm working on this project now",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я отдыхаю после работы",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm having a rest after work",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я отдыхаю в данный момент",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm having a rest at the moment",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Женщина разговаривает по телефону",
+      "audio": false
+    },
+    "en": {
+      "text": "The woman is talking on the phone",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Женщина разговаривает со своим мужем",
+      "audio": false
+    },
+    "en": {
+      "text": "The woman is talking to her husband",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я разговариваю по телефону",
+      "audio": false
+    },
+    "en": {
+      "text": "I am talking on the phone",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Дети разговаривают и смеются",
+      "audio": false
+    },
+    "en": {
+      "text": "The kids are talking and laughing",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Мои друзья поют и танцуют",
+      "audio": false
+    },
+    "en": {
+      "text": "My friends are singing and dancing",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Они разговаривают друг с другом",
+      "audio": false
+    },
+    "en": {
+      "text": "They are talking to each other",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Он тренируется очень интенсивно в эти дни",
+      "audio": false
+    },
+    "en": {
+      "text": "He is training very intensively these days",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Они тренируются очень интенсивно в этом месяце",
+      "audio": false
+    },
+    "en": {
+      "text": "They are training very intensively this month",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Он пытается тренироваться очень интенсивно",
+      "audio": false
+    },
+    "en": {
+      "text": "He is trying to train very intensively",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Идет сильный снег",
+      "audio": false
+    },
+    "en": {
+      "text": "It's snowing heavily",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Сейчас идет снег",
+      "audio": false
+    },
+    "en": {
+      "text": "It's snowing now",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Все делают это сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone is doing it now",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Я делаю это сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm doing it now",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Они делают это сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "They're doing it now",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Я делаю свою домашнюю работу в данный момент",
+      "audio": false
+    },
+    "en": {
+      "text": "I am doing my homework at the moment",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Его отец сейчас работает в саду",
+      "audio": false
+    },
+    "en": {
+      "text": "His father is working in the garden now",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Некоторые люди становятся все богаче и богаче",
+      "audio": false
+    },
+    "en": {
+      "text": "Some people are getting richer and richer",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Я разговариваю по телефону в данный момент",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm talking on the phone at the moment",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Я остаюсь дома на этой неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "I am staying at home this week",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Мальчик смеется над ней",
+      "audio": false
+    },
+    "en": {
+      "text": "The boy is laughing at her",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Мы обсуждаем это в настоящее время",
+      "audio": false
+    },
+    "en": {
+      "text": "We're discussing it at present",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Мой уровень становится все выше и выше",
+      "audio": false
+    },
+    "en": {
+      "text": "My level is getting higher and higher",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Большинство людей становятся все беднее и беднее",
+      "audio": false
+    },
+    "en": {
+      "text": "Most people are getting poorer and poorer",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Девочка плачет",
+      "audio": false
+    },
+    "en": {
+      "text": "The girl is crying",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Идет дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "It is raining",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Ребенок спит",
+      "audio": false
+    },
+    "en": {
+      "text": "The baby is sleeping",
+      "audio": false
+    }
+  },
+  {
+    "id": 100,
+    "ru": {
+      "text": "Идет снег",
+      "audio": false
+    },
+    "en": {
+      "text": "It is snowing",
+      "audio": false
+    }
+  },
+  {
+    "id": 101,
+    "ru": {
+      "text": "Все покупают это сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone is buying it now",
+      "audio": false
+    }
   }
 ]

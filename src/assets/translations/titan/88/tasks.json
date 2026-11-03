@@ -1,477 +1,1047 @@
 [
   {
-    "_id": 1,
-    "ru": "Эта вещь совсем меня не пугала",
-    "en": "This thing didn't frighten me at all"
-  },
-  {
-    "_id": 2,
-    "ru": "Он перепрыгнул через камень",
-    "en": "He jumped over the stone"
-  },
-  {
-    "_id": 3,
-    "ru": "Ты последовал этому совету?",
-    "en": "Did you follow this advice?"
-  },
-  {
-    "_id": 4,
-    "ru": "Они владели этим домом?",
-    "en": "Did they own this house?"
-  },
-  {
-    "_id": 5,
-    "ru": "Я следовал тем инструкциям",
-    "en": "I followed those instructions"
-  },
-  {
-    "_id": 6,
-    "ru": "Покупатель пожаловался на сервис",
-    "en": "The customer complained about the service"
-  },
-  {
-    "_id": 7,
-    "ru": "Я повторил вопрос еще раз",
-    "en": "I repeated the question one more time"
-  },
-  {
-    "_id": 8,
-    "ru": "Она прибыла в Лондон в полдень",
-    "en": "She arrived in London at midday"
-  },
-  {
-    "_id": 9,
-    "ru": "Они записали его речь",
-    "en": "They recorded his speech"
-  },
-  {
-    "_id": 10,
-    "ru": "Она слишком сильно волновалась об этом",
-    "en": "She worried too much about it"
-  },
-  {
-    "_id": 11,
-    "ru": "Мне нужно было идти в банк",
-    "en": "I needed to go to the bank"
-  },
-  {
-    "_id": 12,
-    "ru": "Они перепрыгнули через забор",
-    "en": "They jumped over the fence"
-  },
-  {
-    "_id": 13,
-    "ru": "Он прибыл позже, чем обычно",
-    "en": "He arrived later than usual"
-  },
-  {
-    "_id": 14,
-    "ru": "Мне действительно нужна была твоя помощь",
-    "en": "I really needed your help"
-  },
-  {
-    "_id": 15,
-    "ru": "Это действительно пугало ее",
-    "en": "It really frightened her"
-  },
-  {
-    "_id": 16,
-    "ru": "Мы надеялись выиграть",
-    "en": "We hoped to win"
-  },
-  {
-    "_id": 17,
-    "ru": "Я много путешествовал",
-    "en": "I travelled a lot"
-  },
-  {
-    "_id": 18,
-    "ru": "Я нес ее сумку",
-    "en": "I carried her bag"
-  },
-  {
-    "_id": 19,
-    "ru": "Они открыли ворота",
-    "en": "They opened the gate"
-  },
-  {
-    "_id": 20,
-    "ru": "Он часто носил тяжелые вещи",
-    "en": "He often carried heavy things"
-  },
-  {
-    "_id": 21,
-    "ru": "Она прыгнула очень высоко",
-    "en": "She jumped very high"
-  },
-  {
-    "_id": 22,
-    "ru": "Этот дом принадлежал им?",
-    "en": "Did this house belong to them?"
-  },
-  {
-    "_id": 23,
-    "ru": "Проблема не исчезла",
-    "en": "The problem didn't disappear"
-  },
-  {
-    "_id": 24,
-    "ru": "Он владел этой квартирой",
-    "en": "He owned this apartment"
-  },
-  {
-    "_id": 25,
-    "ru": "Мы играли в другую игру",
-    "en": "We played another game"
-  },
-  {
-    "_id": 26,
-    "ru": "Он прибыл в Нью-Йорк в полдень",
-    "en": "He arrived in New York at noon"
-  },
-  {
-    "_id": 27,
-    "ru": "Он часто тренировался в спортивном зале",
-    "en": "He often trained in the gym"
-  },
-  {
-    "_id": 28,
-    "ru": "Он действительно беспокоился о своем будущем",
-    "en": "He really worried about his future"
-  },
-  {
-    "_id": 29,
-    "ru": "Мы путешествовали там каждое лето",
-    "en": "We travelled there every summer"
-  },
-  {
-    "_id": 30,
-    "ru": "Он перепрыгнул через реку",
-    "en": "He jumped over the river"
-  },
-  {
-    "_id": 31,
-    "ru": "Нам действительно нравится путешествовать вместе",
-    "en": "We really liked travelling together"
-  },
-  {
-    "_id": 32,
-    "ru": "Мне просто нужна была некоторая информация",
-    "en": "I just needed some information"
-  },
-  {
-    "_id": 33,
-    "ru": "Преступники внезапно исчезли",
-    "en": "The criminals disappeared suddenly"
-  },
-  {
-    "_id": 34,
-    "ru": "Я звонил своему брату вчера",
-    "en": "I called my brother yesterday"
-  },
-  {
-    "_id": 35,
-    "ru": "Я повторил фразу несколько раз",
-    "en": "I repeated the phrase several times"
-  },
-  {
-    "_id": 36,
-    "ru": "Двери открылись автоматически",
-    "en": "The doors opened automatically"
-  },
-  {
-    "_id": 37,
-    "ru": "Они записали тот разговор",
-    "en": "They recorded that conversation"
-  },
-  {
-    "_id": 38,
-    "ru": "Я достиг следующего уровня очень легко",
-    "en": "I reached the next level very easily"
-  },
-  {
-    "_id": 39,
-    "ru": "Он играл в шахматы со своим братом",
-    "en": "He played chess with his brother"
-  },
-  {
-    "_id": 40,
-    "ru": "Я перезвонил ему позже",
-    "en": "I called him back later"
-  },
-  {
-    "_id": 41,
-    "ru": "Я предполагал, что это был единственно правильный выбор",
-    "en": "I supposed that it was the only right choice"
-  },
-  {
-    "_id": 42,
-    "ru": "Я пытался сделать все возможное, чтобы достичь этой цели",
-    "en": "I tried to do my best to achieve this aim"
-  },
-  {
-    "_id": 43,
-    "ru": "Я очень тщательно все проанализировал",
-    "en": "I analysed everything very thoroughly"
-  },
-  {
-    "_id": 44,
-    "ru": "Его соседи часто жаловались на шум",
-    "en": "His neighbours often complained about the noise"
-  },
-  {
-    "_id": 45,
-    "ru": "Я решил последовать его рекомендации",
-    "en": "I decided to follow his recommendation"
-  },
-  {
-    "_id": 46,
-    "ru": "Я никогда не жаловался на это",
-    "en": "I never complained about it"
-  },
-  {
-    "_id": 47,
-    "ru": "Я не мог поверить своим глазам",
-    "en": "I couldn't believe my eyes"
-  },
-  {
-    "_id": 48,
-    "ru": "Я решил перестать тратить время впустую",
-    "en": "I decided to stop wasting time"
-  },
-  {
-    "_id": 49,
-    "ru": "Я старался не беспокоиться об этом",
-    "en": "I tried not to worry about it"
-  },
-  {
-    "_id": 50,
-    "ru": "Я пытался контролировать свои эмоции",
-    "en": "I tried to control my emotions"
-  },
-  {
-    "_id": 51,
-    "ru": "Я сделал все возможное, чтобы достичь своей цели",
-    "en": "I did my best to achieve my aim"
-  },
-  {
-    "_id": 52,
-    "ru": "Мы прибыли на станцию",
-    "en": "We arrived at the station"
-  },
-  {
-    "_id": 53,
-    "ru": "Мы прибыли в город",
-    "en": "We arrived in the city"
-  },
-  {
-    "_id": 54,
-    "ru": "Они прибыли в это место",
-    "en": "They arrived at this place"
-  },
-  {
-    "_id": 55,
-    "ru": "Я очень усердно старался достичь этой цели",
-    "en": "I tried very hard to achieve this aim"
-  },
-  {
-    "_id": 56,
-    "ru": "Я пытался достичь этой цели",
-    "en": "I tried to achieve this aim"
-  },
-  {
-    "_id": 57,
-    "ru": "Он так усердно старался достичь своей цели",
-    "en": "He tried so hard to achieve his aim"
-  },
-  {
-    "_id": 58,
-    "ru": "Я решил сделать это чуть позже",
-    "en": "I decided to do it a little later"
-  },
-  {
-    "_id": 59,
-    "ru": "Я решил сделать это чуть позже",
-    "en": "I decided to do it a bit later"
-  },
-  {
-    "_id": 60,
-    "ru": "Он решил не делать этого",
-    "en": "He decided not to do it"
-  },
-  {
-    "_id": 61,
-    "ru": "Я не хотел больше впустую тратить время",
-    "en": "I didn't want to waste time anymore"
-  },
-  {
-    "_id": 62,
-    "ru": "Я решил больше не тратить время впустую",
-    "en": "I decided not to waste time anymore"
-  },
-  {
-    "_id": 63,
-    "ru": "Я не хотел больше тратить впустую свои деньги",
-    "en": "I didn't want to waste my money anymore"
-  },
-  {
-    "_id": 64,
-    "ru": "Я предполагал, что это была ложь",
-    "en": "I supposed that it was a lie"
-  },
-  {
-    "_id": 65,
-    "ru": "Я надеялся, что это была ложь",
-    "en": "I hoped that it was a lie"
-  },
-  {
-    "_id": 66,
-    "ru": "Я открыл крышку бутылки",
-    "en": "I opened the lid of the bottle"
-  },
-  {
-    "_id": 67,
-    "ru": "Я открыл крышку этой бутылки",
-    "en": "I opened the lid of this bottle"
-  },
-  {
-    "_id": 68,
-    "ru": "Он открыл крышку бутылки",
-    "en": "He opened the lid of the bottle"
-  },
-  {
-    "_id": 69,
-    "ru": "Я пытался все контролировать",
-    "en": "I tried to control everything"
-  },
-  {
-    "_id": 70,
-    "ru": "Я пытался все сделать",
-    "en": "I tried to do everything"
-  },
-  {
-    "_id": 71,
-    "ru": "Он пытался контролировать каждого",
-    "en": "He tried to control everyone"
-  },
-  {
-    "_id": 72,
-    "ru": "Я старался тренироваться как можно интенсивнее",
-    "en": "I tried to train as intensively as possible"
-  },
-  {
-    "_id": 73,
-    "ru": "Я хотел учиться как можно интенсивнее",
-    "en": "I wanted to study as intensively as possible"
-  },
-  {
-    "_id": 74,
-    "ru": "Я старался тренироваться интенсивно",
-    "en": "I tried to train intensively"
-  },
-  {
-    "_id": 75,
-    "ru": "Он прибыл на вечеринку чуть позже",
-    "en": "He arrived at the party a bit later"
-  },
-  {
-    "_id": 76,
-    "ru": "Он прибыл на вечеринку чуть позже",
-    "en": "He arrived at the party a little later"
-  },
-  {
-    "_id": 77,
-    "ru": "Он прибыл на вечеринку позже",
-    "en": "He arrived at the party later"
-  },
-  {
-    "_id": 78,
-    "ru": "Я согласился с ним в конце концов",
-    "en": "I agreed with him in the end"
-  },
-  {
-    "_id": 79,
-    "ru": "Мы обсудили это в конце концов",
-    "en": "We discussed it in the end"
-  },
-  {
-    "_id": 80,
-    "ru": "Я согласился с ним в конце разговора",
-    "en": "I agreed with him at the end of the conversation"
-  },
-  {
-    "_id": 81,
-    "ru": "Я не хотел копировать ошибки других студентов",
-    "en": "I didn't want to copy other students' mistakes"
-  },
-  {
-    "_id": 82,
-    "ru": "Почему ты решил не делать этого?",
-    "en": "Why did you decide not to do it?"
-  },
-  {
-    "_id": 83,
-    "ru": "Я надеялся на лучшее, но ожидал худшего",
-    "en": "I hoped for the best but expected the worst"
-  },
-  {
-    "_id": 84,
-    "ru": "Я полагал, что это было единственное правильное решение",
-    "en": "I supposed that it was the only right decision"
-  },
-  {
-    "_id": 85,
-    "ru": "Ничто не интересовало ее так сильно",
-    "en": "Nothing interested her so much"
-  },
-  {
-    "_id": 86,
-    "ru": "Я решил достичь высшего уровня в английском",
-    "en": "I decided to reach the highest level in English"
-  },
-  {
-    "_id": 87,
-    "ru": "Я проанализировал результаты, которые у меня были",
-    "en": "I analysed the results that I had"
-  },
-  {
-    "_id": 88,
-    "ru": "Я пожаловался менеджеру на это",
-    "en": "I complained to the manager about it"
-  },
-  {
-    "_id": 89,
-    "ru": "Они скопировали дизайн этого продукта",
-    "en": "They copied the design of this product"
-  },
-  {
-    "_id": 90,
-    "ru": "Они не согласились в начале",
-    "en": "They didn't agree in the beginning"
-  },
-  {
-    "_id": 91,
-    "ru": "Он не мог достичь этой цели",
-    "en": "He couldn't achieve this aim"
-  },
-  {
-    "_id": 92,
-    "ru": "Ничего не произошло",
-    "en": "Nothing happened"
-  },
-  {
-    "_id": 93,
-    "ru": "Я ненавидел тратить время впустую",
-    "en": "I hated wasting time"
-  },
-  {
-    "_id": 94,
-    "ru": "Я надеялся на лучшее",
-    "en": "I hoped for the best"
-  },
-  {
-    "_id": 95,
-    "ru": "Ничего не интересовало его",
-    "en": "Nothing interested him"
+    "id": 1,
+    "ru": {
+      "text": "Эта вещь совсем меня не пугала",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing didn't frighten me at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Он перепрыгнул через камень",
+      "audio": false
+    },
+    "en": {
+      "text": "He jumped over the stone",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Ты последовал этому совету?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you follow this advice?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Они владели этим домом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did they own this house?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я следовал тем инструкциям",
+      "audio": false
+    },
+    "en": {
+      "text": "I followed those instructions",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Покупатель пожаловался на сервис",
+      "audio": false
+    },
+    "en": {
+      "text": "The customer complained about the service",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Я повторил вопрос еще раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I repeated the question one more time",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Она прибыла в Лондон в полдень",
+      "audio": false
+    },
+    "en": {
+      "text": "She arrived in London at midday",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Они записали его речь",
+      "audio": false
+    },
+    "en": {
+      "text": "They recorded his speech",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Она слишком сильно волновалась об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "She worried too much about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Мне нужно было идти в банк",
+      "audio": false
+    },
+    "en": {
+      "text": "I needed to go to the bank",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Они перепрыгнули через забор",
+      "audio": false
+    },
+    "en": {
+      "text": "They jumped over the fence",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он прибыл позже, чем обычно",
+      "audio": false
+    },
+    "en": {
+      "text": "He arrived later than usual",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Мне действительно нужна была твоя помощь",
+      "audio": false
+    },
+    "en": {
+      "text": "I really needed your help",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Это действительно пугало ее",
+      "audio": false
+    },
+    "en": {
+      "text": "It really frightened her",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Мы надеялись выиграть",
+      "audio": false
+    },
+    "en": {
+      "text": "We hoped to win",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я много путешествовал",
+      "audio": false
+    },
+    "en": {
+      "text": "I travelled a lot",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я нес ее сумку",
+      "audio": false
+    },
+    "en": {
+      "text": "I carried her bag",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Они открыли ворота",
+      "audio": false
+    },
+    "en": {
+      "text": "They opened the gate",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Он часто носил тяжелые вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "He often carried heavy things",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Она прыгнула очень высоко",
+      "audio": false
+    },
+    "en": {
+      "text": "She jumped very high",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Этот дом принадлежал им?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did this house belong to them?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Проблема не исчезла",
+      "audio": false
+    },
+    "en": {
+      "text": "The problem didn't disappear",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Он владел этой квартирой",
+      "audio": false
+    },
+    "en": {
+      "text": "He owned this apartment",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Мы играли в другую игру",
+      "audio": false
+    },
+    "en": {
+      "text": "We played another game",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Он прибыл в Нью-Йорк в полдень",
+      "audio": false
+    },
+    "en": {
+      "text": "He arrived in New York at noon",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Он часто тренировался в спортивном зале",
+      "audio": false
+    },
+    "en": {
+      "text": "He often trained in the gym",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Он действительно беспокоился о своем будущем",
+      "audio": false
+    },
+    "en": {
+      "text": "He really worried about his future",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Мы путешествовали там каждое лето",
+      "audio": false
+    },
+    "en": {
+      "text": "We travelled there every summer",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Он перепрыгнул через реку",
+      "audio": false
+    },
+    "en": {
+      "text": "He jumped over the river",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Нам действительно нравится путешествовать вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "We really liked travelling together",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Мне просто нужна была некоторая информация",
+      "audio": false
+    },
+    "en": {
+      "text": "I just needed some information",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Преступники внезапно исчезли",
+      "audio": false
+    },
+    "en": {
+      "text": "The criminals disappeared suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я звонил своему брату вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I called my brother yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я повторил фразу несколько раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I repeated the phrase several times",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Двери открылись автоматически",
+      "audio": false
+    },
+    "en": {
+      "text": "The doors opened automatically",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Они записали тот разговор",
+      "audio": false
+    },
+    "en": {
+      "text": "They recorded that conversation",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Я достиг следующего уровня очень легко",
+      "audio": false
+    },
+    "en": {
+      "text": "I reached the next level very easily",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Он играл в шахматы со своим братом",
+      "audio": false
+    },
+    "en": {
+      "text": "He played chess with his brother",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я перезвонил ему позже",
+      "audio": false
+    },
+    "en": {
+      "text": "I called him back later",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я предполагал, что это был единственно правильный выбор",
+      "audio": false
+    },
+    "en": {
+      "text": "I supposed that it was the only right choice",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я пытался сделать все возможное, чтобы достичь этой цели",
+      "audio": false
+    },
+    "en": {
+      "text": "I tried to do my best to achieve this aim",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я очень тщательно все проанализировал",
+      "audio": false
+    },
+    "en": {
+      "text": "I analysed everything very thoroughly",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Его соседи часто жаловались на шум",
+      "audio": false
+    },
+    "en": {
+      "text": "His neighbours often complained about the noise",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я решил последовать его рекомендации",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to follow his recommendation",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я никогда не жаловался на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I never complained about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я не мог поверить своим глазам",
+      "audio": false
+    },
+    "en": {
+      "text": "I couldn't believe my eyes",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я решил перестать тратить время впустую",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to stop wasting time",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я старался не беспокоиться об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I tried not to worry about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я пытался контролировать свои эмоции",
+      "audio": false
+    },
+    "en": {
+      "text": "I tried to control my emotions",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я сделал все возможное, чтобы достичь своей цели",
+      "audio": false
+    },
+    "en": {
+      "text": "I did my best to achieve my aim",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Мы прибыли на станцию",
+      "audio": false
+    },
+    "en": {
+      "text": "We arrived at the station",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Мы прибыли в город",
+      "audio": false
+    },
+    "en": {
+      "text": "We arrived in the city",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Они прибыли в это место",
+      "audio": false
+    },
+    "en": {
+      "text": "They arrived at this place",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я очень усердно старался достичь этой цели",
+      "audio": false
+    },
+    "en": {
+      "text": "I tried very hard to achieve this aim",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я пытался достичь этой цели",
+      "audio": false
+    },
+    "en": {
+      "text": "I tried to achieve this aim",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Он так усердно старался достичь своей цели",
+      "audio": false
+    },
+    "en": {
+      "text": "He tried so hard to achieve his aim",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я решил сделать это чуть позже",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to do it a little later",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я решил сделать это чуть позже",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to do it a bit later",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Он решил не делать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided not to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я не хотел больше впустую тратить время",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't want to waste time anymore",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я решил больше не тратить время впустую",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided not to waste time anymore",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я не хотел больше тратить впустую свои деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't want to waste my money anymore",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я предполагал, что это была ложь",
+      "audio": false
+    },
+    "en": {
+      "text": "I supposed that it was a lie",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я надеялся, что это была ложь",
+      "audio": false
+    },
+    "en": {
+      "text": "I hoped that it was a lie",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я открыл крышку бутылки",
+      "audio": false
+    },
+    "en": {
+      "text": "I opened the lid of the bottle",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я открыл крышку этой бутылки",
+      "audio": false
+    },
+    "en": {
+      "text": "I opened the lid of this bottle",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Он открыл крышку бутылки",
+      "audio": false
+    },
+    "en": {
+      "text": "He opened the lid of the bottle",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я пытался все контролировать",
+      "audio": false
+    },
+    "en": {
+      "text": "I tried to control everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я пытался все сделать",
+      "audio": false
+    },
+    "en": {
+      "text": "I tried to do everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Он пытался контролировать каждого",
+      "audio": false
+    },
+    "en": {
+      "text": "He tried to control everyone",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я старался тренироваться как можно интенсивнее",
+      "audio": false
+    },
+    "en": {
+      "text": "I tried to train as intensively as possible",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я хотел учиться как можно интенсивнее",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to study as intensively as possible",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я старался тренироваться интенсивно",
+      "audio": false
+    },
+    "en": {
+      "text": "I tried to train intensively",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Он прибыл на вечеринку чуть позже",
+      "audio": false
+    },
+    "en": {
+      "text": "He arrived at the party a bit later",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Он прибыл на вечеринку чуть позже",
+      "audio": false
+    },
+    "en": {
+      "text": "He arrived at the party a little later",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Он прибыл на вечеринку позже",
+      "audio": false
+    },
+    "en": {
+      "text": "He arrived at the party later",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я согласился с ним в конце концов",
+      "audio": false
+    },
+    "en": {
+      "text": "I agreed with him in the end",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Мы обсудили это в конце концов",
+      "audio": false
+    },
+    "en": {
+      "text": "We discussed it in the end",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я согласился с ним в конце разговора",
+      "audio": false
+    },
+    "en": {
+      "text": "I agreed with him at the end of the conversation",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я не хотел копировать ошибки других студентов",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't want to copy other students' mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Почему ты решил не делать этого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you decide not to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я надеялся на лучшее, но ожидал худшего",
+      "audio": false
+    },
+    "en": {
+      "text": "I hoped for the best but expected the worst",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я полагал, что это было единственное правильное решение",
+      "audio": false
+    },
+    "en": {
+      "text": "I supposed that it was the only right decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Ничто не интересовало ее так сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "Nothing interested her so much",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Я решил достичь высшего уровня в английском",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to reach the highest level in English",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Я проанализировал результаты, которые у меня были",
+      "audio": false
+    },
+    "en": {
+      "text": "I analysed the results that I had",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Я пожаловался менеджеру на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I complained to the manager about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Они скопировали дизайн этого продукта",
+      "audio": false
+    },
+    "en": {
+      "text": "They copied the design of this product",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Они не согласились в начале",
+      "audio": false
+    },
+    "en": {
+      "text": "They didn't agree in the beginning",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Он не мог достичь этой цели",
+      "audio": false
+    },
+    "en": {
+      "text": "He couldn't achieve this aim",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Ничего не произошло",
+      "audio": false
+    },
+    "en": {
+      "text": "Nothing happened",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Я ненавидел тратить время впустую",
+      "audio": false
+    },
+    "en": {
+      "text": "I hated wasting time",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Я надеялся на лучшее",
+      "audio": false
+    },
+    "en": {
+      "text": "I hoped for the best",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Ничего не интересовало его",
+      "audio": false
+    },
+    "en": {
+      "text": "Nothing interested him",
+      "audio": false
+    }
   }
 ]

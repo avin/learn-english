@@ -1,227 +1,497 @@
 [
   {
-    "_id": 1,
-    "ru": "Ты поможешь мне?",
-    "en": "Will you help me?"
+    "id": 1,
+    "ru": {
+      "text": "Ты поможешь мне?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you help me?",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Ты пойдешь в это место?",
-    "en": "Will you go to this place?"
+    "id": 2,
+    "ru": {
+      "text": "Ты пойдешь в это место?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you go to this place?",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Это будет лучший выбор?",
-    "en": "Will it be the best choice?"
+    "id": 3,
+    "ru": {
+      "text": "Это будет лучший выбор?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be the best choice?",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Мы узнаем это?",
-    "en": "Will we know it?"
+    "id": 4,
+    "ru": {
+      "text": "Мы узнаем это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will we know it?",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Ты будешь покупать дом?",
-    "en": "Will you buy a house?"
+    "id": 5,
+    "ru": {
+      "text": "Ты будешь покупать дом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you buy a house?",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Ты пойдешь на пляж?",
-    "en": "Will you go to the beach?"
+    "id": 6,
+    "ru": {
+      "text": "Ты пойдешь на пляж?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you go to the beach?",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Ты будешь проверять это снова?",
-    "en": "Will you check it again?"
+    "id": 7,
+    "ru": {
+      "text": "Ты будешь проверять это снова?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you check it again?",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Ты будешь дома?",
-    "en": "Will you be at home?"
+    "id": 8,
+    "ru": {
+      "text": "Ты будешь дома?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you be at home?",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Ты будешь там?",
-    "en": "Will you be there?"
+    "id": 9,
+    "ru": {
+      "text": "Ты будешь там?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you be there?",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Ты скажешь ей эту вещь?",
-    "en": "Will you tell her this thing?"
+    "id": 10,
+    "ru": {
+      "text": "Ты скажешь ей эту вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you tell her this thing?",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Ты купишь эти билеты?",
-    "en": "Will you buy these tickets?"
+    "id": 11,
+    "ru": {
+      "text": "Ты купишь эти билеты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you buy these tickets?",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Они присоединятся к нашей компании?",
-    "en": "Will they join our company?"
+    "id": 12,
+    "ru": {
+      "text": "Они присоединятся к нашей компании?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will they join our company?",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Он поймет это?",
-    "en": "Will he understand it?"
+    "id": 13,
+    "ru": {
+      "text": "Он поймет это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he understand it?",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Ты пойдешь туда?",
-    "en": "Will you go there?"
+    "id": 14,
+    "ru": {
+      "text": "Ты пойдешь туда?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you go there?",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Это будет лучше?",
-    "en": "Will it be better?"
+    "id": 15,
+    "ru": {
+      "text": "Это будет лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be better?",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Ты будешь там завтра?",
-    "en": "Will you be there tomorrow?"
+    "id": 16,
+    "ru": {
+      "text": "Ты будешь там завтра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you be there tomorrow?",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Это будет скоро возможно?",
-    "en": "Will it be possible soon?"
+    "id": 17,
+    "ru": {
+      "text": "Это будет скоро возможно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be possible soon?",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Ты будешь покупать машину?",
-    "en": "Will you buy a car?"
+    "id": 18,
+    "ru": {
+      "text": "Ты будешь покупать машину?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you buy a car?",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Ты пойдешь в парк?",
-    "en": "Will you go to the park?"
+    "id": 19,
+    "ru": {
+      "text": "Ты пойдешь в парк?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you go to the park?",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Они будут снимать квартиру?",
-    "en": "Will they rent an apartment?"
+    "id": 20,
+    "ru": {
+      "text": "Они будут снимать квартиру?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will they rent an apartment?",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Они будут там?",
-    "en": "Will they be there?"
+    "id": 21,
+    "ru": {
+      "text": "Они будут там?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will they be there?",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Это будет правильно?",
-    "en": "Will it be right?"
+    "id": 22,
+    "ru": {
+      "text": "Это будет правильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be right?",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Ты поедешь во Францию в этом году?",
-    "en": "Will you go to France this year?"
+    "id": 23,
+    "ru": {
+      "text": "Ты поедешь во Францию в этом году?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you go to France this year?",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Он купит другую машину?",
-    "en": "Will he buy another car?"
+    "id": 24,
+    "ru": {
+      "text": "Он купит другую машину?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he buy another car?",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Это будет бесплатно?",
-    "en": "Will it be free?"
+    "id": 25,
+    "ru": {
+      "text": "Это будет бесплатно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be free?",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Ты отправишь ему сообщение?",
-    "en": "Will you send him a message?"
+    "id": 26,
+    "ru": {
+      "text": "Ты отправишь ему сообщение?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you send him a message?",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Это будет дешевле?",
-    "en": "Will it be cheaper?"
+    "id": 27,
+    "ru": {
+      "text": "Это будет дешевле?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be cheaper?",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Они присоединятся к нам?",
-    "en": "Will they join us?"
+    "id": 28,
+    "ru": {
+      "text": "Они присоединятся к нам?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will they join us?",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Ты будешь на работе завтра?",
-    "en": "Will you be at work tomorrow?"
+    "id": 29,
+    "ru": {
+      "text": "Ты будешь на работе завтра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you be at work tomorrow?",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Он скоро вернется?",
-    "en": "Will he come back soon?"
+    "id": 30,
+    "ru": {
+      "text": "Он скоро вернется?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he come back soon?",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Ты будешь играть?",
-    "en": "Will you play?"
+    "id": 31,
+    "ru": {
+      "text": "Ты будешь играть?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you play?",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Она скоро придет домой?",
-    "en": "Will she come home soon?"
+    "id": 32,
+    "ru": {
+      "text": "Она скоро придет домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will she come home soon?",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Ты будешь делать это?",
-    "en": "Will you do it?"
+    "id": 33,
+    "ru": {
+      "text": "Ты будешь делать это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you do it?",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Вы будете снимать дом?",
-    "en": "Will you rent a house?"
+    "id": 34,
+    "ru": {
+      "text": "Вы будете снимать дом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you rent a house?",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Это будет дороже?",
-    "en": "Will it be more expensive?"
+    "id": 35,
+    "ru": {
+      "text": "Это будет дороже?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be more expensive?",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Ты будешь покупать это?",
-    "en": "Will you buy it?"
+    "id": 36,
+    "ru": {
+      "text": "Ты будешь покупать это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you buy it?",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Ты останешься дома?",
-    "en": "Will you stay at home?"
+    "id": 37,
+    "ru": {
+      "text": "Ты останешься дома?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you stay at home?",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Она будет покупать квартиру?",
-    "en": "Will she buy an apartment?"
+    "id": 38,
+    "ru": {
+      "text": "Она будет покупать квартиру?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will she buy an apartment?",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Ты будешь танцевать?",
-    "en": "Will you dance?"
+    "id": 39,
+    "ru": {
+      "text": "Ты будешь танцевать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you dance?",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Ты отправишь ей письмо?",
-    "en": "Will you send her a letter?"
+    "id": 40,
+    "ru": {
+      "text": "Ты отправишь ей письмо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you send her a letter?",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Он будет с тобой?",
-    "en": "Will he be with you?"
+    "id": 41,
+    "ru": {
+      "text": "Он будет с тобой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will he be with you?",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Ты позвонишь ему?",
-    "en": "Will you call him?"
+    "id": 42,
+    "ru": {
+      "text": "Ты позвонишь ему?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you call him?",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Это будет возможно?",
-    "en": "Will it be possible?"
+    "id": 43,
+    "ru": {
+      "text": "Это будет возможно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be possible?",
+      "audio": false
+    }
   },
   {
-    "_id": 44,
-    "ru": "Ты проверишь эту информацию?",
-    "en": "Will you check this information?"
+    "id": 44,
+    "ru": {
+      "text": "Ты проверишь эту информацию?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you check this information?",
+      "audio": false
+    }
   },
   {
-    "_id": 45,
-    "ru": "Это будет лучшее решение?",
-    "en": "Will it be the best decision?"
+    "id": 45,
+    "ru": {
+      "text": "Это будет лучшее решение?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be the best decision?",
+      "audio": false
+    }
   }
 ]

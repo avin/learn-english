@@ -1,152 +1,332 @@
 [
   {
-    "_id": 1,
-    "ru": "Он всегда говорит такие вещи",
-    "en": "He always says such things"
+    "id": 1,
+    "ru": {
+      "text": "Он всегда говорит такие вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "He always says such things",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Он ждет ее",
-    "en": "He's waiting for her"
+    "id": 2,
+    "ru": {
+      "text": "Он ждет ее",
+      "audio": false
+    },
+    "en": {
+      "text": "He's waiting for her",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Я пишу письмо сейчас",
-    "en": "I'm writing a letter now"
+    "id": 3,
+    "ru": {
+      "text": "Я пишу письмо сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm writing a letter now",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Он часто ее ждет",
-    "en": "He often waits for her"
+    "id": 4,
+    "ru": {
+      "text": "Он часто ее ждет",
+      "audio": false
+    },
+    "en": {
+      "text": "He often waits for her",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Он сейчас играет в футбол",
-    "en": "He's playing football now"
+    "id": 5,
+    "ru": {
+      "text": "Он сейчас играет в футбол",
+      "audio": false
+    },
+    "en": {
+      "text": "He's playing football now",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Мы обычно ужинаем вместе",
-    "en": "We usually have dinner together"
+    "id": 6,
+    "ru": {
+      "text": "Мы обычно ужинаем вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "We usually have dinner together",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я работаю почти каждый день",
-    "en": "I work almost every day"
+    "id": 7,
+    "ru": {
+      "text": "Я работаю почти каждый день",
+      "audio": false
+    },
+    "en": {
+      "text": "I work almost every day",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я обычно делаю эти упражнения вечером",
-    "en": "I usually do these exercises in the evening"
+    "id": 8,
+    "ru": {
+      "text": "Я обычно делаю эти упражнения вечером",
+      "audio": false
+    },
+    "en": {
+      "text": "I usually do these exercises in the evening",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я читаю книги, когда у меня есть свободное время, но не так часто",
-    "en": "I read books when I have free time but not so often"
+    "id": 9,
+    "ru": {
+      "text": "Я читаю книги, когда у меня есть свободное время, но не так часто",
+      "audio": false
+    },
+    "en": {
+      "text": "I read books when I have free time but not so often",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я читаю очень интересную книгу сейчас",
-    "en": "I'm reading a very interesting book now"
+    "id": 10,
+    "ru": {
+      "text": "Я читаю очень интересную книгу сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm reading a very interesting book now",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Она слушает радио сейчас",
-    "en": "She's listening to the radio now"
+    "id": 11,
+    "ru": {
+      "text": "Она слушает радио сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "She's listening to the radio now",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я получаю так много писем каждый день",
-    "en": "I get so many letters every day"
+    "id": 12,
+    "ru": {
+      "text": "Я получаю так много писем каждый день",
+      "audio": false
+    },
+    "en": {
+      "text": "I get so many letters every day",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Мы путешествуем каждый год",
-    "en": "We travel every year"
+    "id": 13,
+    "ru": {
+      "text": "Мы путешествуем каждый год",
+      "audio": false
+    },
+    "en": {
+      "text": "We travel every year",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Она пьет кофе сейчас",
-    "en": "She's drinking coffee now"
+    "id": 14,
+    "ru": {
+      "text": "Она пьет кофе сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "She's drinking coffee now",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я делаю очень полезные упражнения сейчас",
-    "en": "I'm doing very useful exercises now"
+    "id": 15,
+    "ru": {
+      "text": "Я делаю очень полезные упражнения сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm doing very useful exercises now",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Малыш обычно спит днем",
-    "en": "The baby usually sleeps in the afternoon"
+    "id": 16,
+    "ru": {
+      "text": "Малыш обычно спит днем",
+      "audio": false
+    },
+    "en": {
+      "text": "The baby usually sleeps in the afternoon",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Она обычно пьет чай",
-    "en": "She usually drinks tea"
+    "id": 17,
+    "ru": {
+      "text": "Она обычно пьет чай",
+      "audio": false
+    },
+    "en": {
+      "text": "She usually drinks tea",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Я работаю в данный момент",
-    "en": "I'm working at the moment"
+    "id": 18,
+    "ru": {
+      "text": "Я работаю в данный момент",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm working at the moment",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Он часто играет в футбол",
-    "en": "He often plays football"
+    "id": 19,
+    "ru": {
+      "text": "Он часто играет в футбол",
+      "audio": false
+    },
+    "en": {
+      "text": "He often plays football",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Я обычно смотрю различные видео на YouTube",
-    "en": "I usually watch different videos on YouTube"
+    "id": 20,
+    "ru": {
+      "text": "Я обычно смотрю различные видео на YouTube",
+      "audio": false
+    },
+    "en": {
+      "text": "I usually watch different videos on YouTube",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Малыш спит сейчас",
-    "en": "The baby is sleeping now"
+    "id": 21,
+    "ru": {
+      "text": "Малыш спит сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "The baby is sleeping now",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Я смотрю очень смешное видео сейчас",
-    "en": "I'm watching a very funny video now"
+    "id": 22,
+    "ru": {
+      "text": "Я смотрю очень смешное видео сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm watching a very funny video now",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Мы ужинаем сейчас",
-    "en": "We're having dinner now"
+    "id": 23,
+    "ru": {
+      "text": "Мы ужинаем сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "We're having dinner now",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Я сейчас печатаю",
-    "en": "I'm typing now"
+    "id": 24,
+    "ru": {
+      "text": "Я сейчас печатаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm typing now",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Эта вещь происходит прямо сейчас",
-    "en": "This thing is happening right now"
+    "id": 25,
+    "ru": {
+      "text": "Эта вещь происходит прямо сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing is happening right now",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Он обычно печатает очень медленно",
-    "en": "He usually types very slowly"
+    "id": 26,
+    "ru": {
+      "text": "Он обычно печатает очень медленно",
+      "audio": false
+    },
+    "en": {
+      "text": "He usually types very slowly",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Мы путешествуем сейчас",
-    "en": "We're travelling now"
+    "id": 27,
+    "ru": {
+      "text": "Мы путешествуем сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "We're travelling now",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Она иногда слушает радио",
-    "en": "She sometimes listens to the radio"
+    "id": 28,
+    "ru": {
+      "text": "Она иногда слушает радио",
+      "audio": false
+    },
+    "en": {
+      "text": "She sometimes listens to the radio",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Она говорит это сейчас",
-    "en": "She's saying it now"
+    "id": 29,
+    "ru": {
+      "text": "Она говорит это сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "She's saying it now",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Это происходит снова и снова",
-    "en": "It happens again and again"
+    "id": 30,
+    "ru": {
+      "text": "Это происходит снова и снова",
+      "audio": false
+    },
+    "en": {
+      "text": "It happens again and again",
+      "audio": false
+    }
   }
 ]

@@ -1,202 +1,442 @@
 [
   {
-    "_id": 1,
-    "ru": "Я вовсе не был удивлен",
-    "en": "I wasn't surprised at all"
+    "id": 1,
+    "ru": {
+      "text": "Я вовсе не был удивлен",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't surprised at all",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Они не жили вместе",
-    "en": "They didn't live together"
+    "id": 2,
+    "ru": {
+      "text": "Они не жили вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "They didn't live together",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Они не были гостеприимными",
-    "en": "They weren't hospitable"
+    "id": 3,
+    "ru": {
+      "text": "Они не были гостеприимными",
+      "audio": false
+    },
+    "en": {
+      "text": "They weren't hospitable",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Они не были вместе",
-    "en": "They weren't together"
+    "id": 4,
+    "ru": {
+      "text": "Они не были вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "They weren't together",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я не устал вчера",
-    "en": "I wasn't tired yesterday"
+    "id": 5,
+    "ru": {
+      "text": "Я не устал вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't tired yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Она не закрыла окно",
-    "en": "She didn't close the window"
+    "id": 6,
+    "ru": {
+      "text": "Она не закрыла окно",
+      "audio": false
+    },
+    "en": {
+      "text": "She didn't close the window",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Это не казалось правильным решением",
-    "en": "It didn't seem the right decision"
+    "id": 7,
+    "ru": {
+      "text": "Это не казалось правильным решением",
+      "audio": false
+    },
+    "en": {
+      "text": "It didn't seem the right decision",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Это не привлекало мое внимание",
-    "en": "It didn't attract my attention"
+    "id": 8,
+    "ru": {
+      "text": "Это не привлекало мое внимание",
+      "audio": false
+    },
+    "en": {
+      "text": "It didn't attract my attention",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Это вовсе не было интересно мне",
-    "en": "It wasn't interesting for me at all"
+    "id": 9,
+    "ru": {
+      "text": "Это вовсе не было интересно мне",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't interesting for me at all",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Это не было бесполезно",
-    "en": "It wasn't useless"
+    "id": 10,
+    "ru": {
+      "text": "Это не было бесполезно",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't useless",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я не боялся этого",
-    "en": "I wasn't afraid of it"
+    "id": 11,
+    "ru": {
+      "text": "Я не боялся этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't afraid of it",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я не чувствовал себя уставшим",
-    "en": "I didn't feel tired"
+    "id": 12,
+    "ru": {
+      "text": "Я не чувствовал себя уставшим",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't feel tired",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Это было не лучшее решение",
-    "en": "It wasn't the best decision"
+    "id": 13,
+    "ru": {
+      "text": "Это было не лучшее решение",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't the best decision",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Они не казались такими гостеприимными",
-    "en": "They didn't seem so hospitable"
+    "id": 14,
+    "ru": {
+      "text": "Они не казались такими гостеприимными",
+      "audio": false
+    },
+    "en": {
+      "text": "They didn't seem so hospitable",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Детей не было дома",
-    "en": "The children weren't at home"
+    "id": 15,
+    "ru": {
+      "text": "Детей не было дома",
+      "audio": false
+    },
+    "en": {
+      "text": "The children weren't at home",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Этих денег не было достаточно",
-    "en": "This money wasn't enough"
+    "id": 16,
+    "ru": {
+      "text": "Этих денег не было достаточно",
+      "audio": false
+    },
+    "en": {
+      "text": "This money wasn't enough",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Это вовсе не интересовало меня",
-    "en": "It didn't interest me it all"
+    "id": 17,
+    "ru": {
+      "text": "Это вовсе не интересовало меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It didn't interest me it all",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "То предложение не выглядело действительно привлекательным",
-    "en": "That offer didn't look really attractive"
+    "id": 18,
+    "ru": {
+      "text": "То предложение не выглядело действительно привлекательным",
+      "audio": false
+    },
+    "en": {
+      "text": "That offer didn't look really attractive",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Такие вещи не были привлекательными для меня",
-    "en": "Such things weren't attractive for me"
+    "id": 19,
+    "ru": {
+      "text": "Такие вещи не были привлекательными для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "Such things weren't attractive for me",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Это не было так привлекательно для меня",
-    "en": "It wasn't so attractive for me"
+    "id": 20,
+    "ru": {
+      "text": "Это не было так привлекательно для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't so attractive for me",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Это не казалось лучшим решением",
-    "en": "It didn't seem the best decision"
+    "id": 21,
+    "ru": {
+      "text": "Это не казалось лучшим решением",
+      "audio": false
+    },
+    "en": {
+      "text": "It didn't seem the best decision",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Это был не лучший выбор в той ситуации",
-    "en": "It wasn't the best choice in that situation"
+    "id": 22,
+    "ru": {
+      "text": "Это был не лучший выбор в той ситуации",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't the best choice in that situation",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Это не казалось бесполезным",
-    "en": "It didn't seem useless"
+    "id": 23,
+    "ru": {
+      "text": "Это не казалось бесполезным",
+      "audio": false
+    },
+    "en": {
+      "text": "It didn't seem useless",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Это не казалось лучшим выбором в той ситуации",
-    "en": "It didn't seem the best choice in that situation"
+    "id": 24,
+    "ru": {
+      "text": "Это не казалось лучшим выбором в той ситуации",
+      "audio": false
+    },
+    "en": {
+      "text": "It didn't seem the best choice in that situation",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Я вовсе не устал",
-    "en": "I wasn't tired at all"
+    "id": 25,
+    "ru": {
+      "text": "Я вовсе не устал",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't tired at all",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Это не было правильным решением",
-    "en": "It wasn't the right decision"
+    "id": 26,
+    "ru": {
+      "text": "Это не было правильным решением",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't the right decision",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Такие вещи не привлекали мое внимание",
-    "en": "Such things didn't attract my attention"
+    "id": 27,
+    "ru": {
+      "text": "Такие вещи не привлекали мое внимание",
+      "audio": false
+    },
+    "en": {
+      "text": "Such things didn't attract my attention",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Это предложение не было таким привлекательным для меня",
-    "en": "This offer wasn't so attractive for me"
+    "id": 28,
+    "ru": {
+      "text": "Это предложение не было таким привлекательным для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "This offer wasn't so attractive for me",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Дети не хотели оставаться дома",
-    "en": "The children didn't want to stay at home"
+    "id": 29,
+    "ru": {
+      "text": "Дети не хотели оставаться дома",
+      "audio": false
+    },
+    "en": {
+      "text": "The children didn't want to stay at home",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Я не был согласен с ним",
-    "en": "I didn't agree with him"
+    "id": 30,
+    "ru": {
+      "text": "Я не был согласен с ним",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't agree with him",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Их предложение не было действительно привлекательным",
-    "en": "Their offer wasn't really attractive"
+    "id": 31,
+    "ru": {
+      "text": "Их предложение не было действительно привлекательным",
+      "audio": false
+    },
+    "en": {
+      "text": "Their offer wasn't really attractive",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Магазин не был открыт",
-    "en": "The shop wasn't open"
+    "id": 32,
+    "ru": {
+      "text": "Магазин не был открыт",
+      "audio": false
+    },
+    "en": {
+      "text": "The shop wasn't open",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Он не открыл дверь",
-    "en": "He didn't open the door"
+    "id": 33,
+    "ru": {
+      "text": "Он не открыл дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't open the door",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Этот бизнес не был прибыльным",
-    "en": "This business wasn't profitable"
+    "id": 34,
+    "ru": {
+      "text": "Этот бизнес не был прибыльным",
+      "audio": false
+    },
+    "en": {
+      "text": "This business wasn't profitable",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Он не чувствовал себя счастливым",
-    "en": "He didn't feel happy"
+    "id": 35,
+    "ru": {
+      "text": "Он не чувствовал себя счастливым",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't feel happy",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "У него не было этой суммы денег",
-    "en": "He didn't have this sum of money"
+    "id": 36,
+    "ru": {
+      "text": "У него не было этой суммы денег",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't have this sum of money",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Тот бизнес не казался таким прибыльным",
-    "en": "That business didn't seem so profitable"
+    "id": 37,
+    "ru": {
+      "text": "Тот бизнес не казался таким прибыльным",
+      "audio": false
+    },
+    "en": {
+      "text": "That business didn't seem so profitable",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Он не был счастлив",
-    "en": "He wasn't happy"
+    "id": 38,
+    "ru": {
+      "text": "Он не был счастлив",
+      "audio": false
+    },
+    "en": {
+      "text": "He wasn't happy",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Магазин не был закрыт",
-    "en": "The shop wasn't closed"
+    "id": 39,
+    "ru": {
+      "text": "Магазин не был закрыт",
+      "audio": false
+    },
+    "en": {
+      "text": "The shop wasn't closed",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Эти новости не удивили меня",
-    "en": "This news didn't surprise me"
+    "id": 40,
+    "ru": {
+      "text": "Эти новости не удивили меня",
+      "audio": false
+    },
+    "en": {
+      "text": "This news didn't surprise me",
+      "audio": false
+    }
   }
 ]

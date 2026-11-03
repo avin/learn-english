@@ -5,7 +5,7 @@ import cn from 'clsx';
 import { shuffle } from 'lodash-es';
 import Button from '@/components/common/Button/Button.tsx';
 import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner.tsx';
-import { Course, Translation } from '@/types';
+import { Course, Translation, TranslationTask } from '@/types';
 import {
   loadFavoriteTranslations,
   loadLastOpenSentences,
@@ -65,7 +65,10 @@ const Lesson = ({ course, lesson }: Props) => {
         if (course === 'favorites') {
           return loadFavoriteTranslations();
         } else {
-          return (await import(`../../../../assets/translations/${course}/${lesson}/tasks.json`)).default;
+          const tasks: TranslationTask[] = (
+            await import(`../../../../assets/translations/${course}/${lesson}/tasks.json`)
+          ).default;
+          return tasks.map(({ ru, en }) => ({ ru: ru.text, en: en.text }));
         }
       })();
       setTranslations(newTranslations);

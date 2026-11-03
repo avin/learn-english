@@ -1,122 +1,266 @@
 [
   {
-    "_id": 1,
-    "ru": "Это одно из самых красивых мест, в которых я когда-либо был",
-    "en": "It's one of the most beautiful places I've ever been to"
+    "id": 1,
+    "ru": {
+      "text": "Это одно из самых красивых мест, в которых я когда-либо был",
+      "audio": false
+    },
+    "en": {
+      "text": "It's one of the most beautiful places I've ever been to",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Это одна из лучших книг",
-    "en": "It's one of the best books"
+    "id": 2,
+    "ru": {
+      "text": "Это одна из лучших книг",
+      "audio": false
+    },
+    "en": {
+      "text": "It's one of the best books",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Это такая трогательная история",
-    "en": "It's such a moving story"
+    "id": 3,
+    "ru": {
+      "text": "Это такая трогательная история",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such a moving story",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Это одна из лучших книг, которые я когда-либо читал",
-    "en": "It's one of the best books I've ever read"
+    "id": 4,
+    "ru": {
+      "text": "Это одна из лучших книг, которые я когда-либо читал",
+      "audio": false
+    },
+    "en": {
+      "text": "It's one of the best books I've ever read",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Это очень трогательная история, не так ли?",
-    "en": "It's a very moving story, isn't it?"
+    "id": 5,
+    "ru": {
+      "text": "Это очень трогательная история, не так ли?",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very moving story, isn't it?",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Это такой популярный тренд в наше время",
-    "en": "It's such a popular trend nowadays"
+    "id": 6,
+    "ru": {
+      "text": "Это такой популярный тренд в наше время",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such a popular trend nowadays",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Это очень интересно, не так ли?",
-    "en": "It's very interesting, isn't it?"
+    "id": 7,
+    "ru": {
+      "text": "Это очень интересно, не так ли?",
+      "audio": false
+    },
+    "en": {
+      "text": "It's very interesting, isn't it?",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Это один из лучших отелей в мире",
-    "en": "It's one of the best hotels in the world"
+    "id": 8,
+    "ru": {
+      "text": "Это один из лучших отелей в мире",
+      "audio": false
+    },
+    "en": {
+      "text": "It's one of the best hotels in the world",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Он такой ответственный сотрудник",
-    "en": "He's such a responsible employee"
+    "id": 9,
+    "ru": {
+      "text": "Он такой ответственный сотрудник",
+      "audio": false
+    },
+    "en": {
+      "text": "He's such a responsible employee",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Это самая низкая цена сейчас, не так ли?",
-    "en": "It's the lowest price now, isn't it?"
+    "id": 10,
+    "ru": {
+      "text": "Это самая низкая цена сейчас, не так ли?",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the lowest price now, isn't it?",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Это бесплатно, не так ли?",
-    "en": "It's free, isn't it?"
+    "id": 11,
+    "ru": {
+      "text": "Это бесплатно, не так ли?",
+      "audio": false
+    },
+    "en": {
+      "text": "It's free, isn't it?",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Это такая распространенная ошибка",
-    "en": "It's such a common mistake"
+    "id": 12,
+    "ru": {
+      "text": "Это такая распространенная ошибка",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such a common mistake",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Этот курс такой полезный",
-    "en": "This course is so useful"
+    "id": 13,
+    "ru": {
+      "text": "Этот курс такой полезный",
+      "audio": false
+    },
+    "en": {
+      "text": "This course is so useful",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Это одно из самых красивых мест, которые я когда-либо посещал",
-    "en": "It's one of the most beautiful places I've ever visited"
+    "id": 14,
+    "ru": {
+      "text": "Это одно из самых красивых мест, которые я когда-либо посещал",
+      "audio": false
+    },
+    "en": {
+      "text": "It's one of the most beautiful places I've ever visited",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Это одно из самых красивых мест в мире",
-    "en": "It's one of the most beautiful places in the world"
+    "id": 15,
+    "ru": {
+      "text": "Это одно из самых красивых мест в мире",
+      "audio": false
+    },
+    "en": {
+      "text": "It's one of the most beautiful places in the world",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Эта ошибка очень распространенная среди студентов",
-    "en": "This mistake is very common among students"
+    "id": 16,
+    "ru": {
+      "text": "Эта ошибка очень распространенная среди студентов",
+      "audio": false
+    },
+    "en": {
+      "text": "This mistake is very common among students",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Они такие ответственные сотрудники",
-    "en": "They're such responsible employees"
+    "id": 17,
+    "ru": {
+      "text": "Они такие ответственные сотрудники",
+      "audio": false
+    },
+    "en": {
+      "text": "They're such responsible employees",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Это отличная идея, не так ли?",
-    "en": "It's an excellent idea, isn't it?"
+    "id": 18,
+    "ru": {
+      "text": "Это отличная идея, не так ли?",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an excellent idea, isn't it?",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Это такой полезный курс",
-    "en": "It's such a useful course"
+    "id": 19,
+    "ru": {
+      "text": "Это такой полезный курс",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such a useful course",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Эта история кажется такой трогательной",
-    "en": "This story seems so moving"
+    "id": 20,
+    "ru": {
+      "text": "Эта история кажется такой трогательной",
+      "audio": false
+    },
+    "en": {
+      "text": "This story seems so moving",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Это такая уникальная возможность",
-    "en": "It's such a unique opportunity"
+    "id": 21,
+    "ru": {
+      "text": "Это такая уникальная возможность",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such a unique opportunity",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Эта книга такая скучная",
-    "en": "This book is so boring"
+    "id": 22,
+    "ru": {
+      "text": "Эта книга такая скучная",
+      "audio": false
+    },
+    "en": {
+      "text": "This book is so boring",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Он один из лучших актеров в мире",
-    "en": "He's one of the best actors in the world"
+    "id": 23,
+    "ru": {
+      "text": "Он один из лучших актеров в мире",
+      "audio": false
+    },
+    "en": {
+      "text": "He's one of the best actors in the world",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Это такая скучная лекция, не так ли?",
-    "en": "It's such a boring lecture, isn't it?"
+    "id": 24,
+    "ru": {
+      "text": "Это такая скучная лекция, не так ли?",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such a boring lecture, isn't it?",
+      "audio": false
+    }
   }
 ]

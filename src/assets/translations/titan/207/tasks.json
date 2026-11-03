@@ -1,392 +1,860 @@
 [
   {
-    "_id": 1,
-    "ru": "Он застегнул свою куртку",
-    "en": "He did up his jacket"
-  },
-  {
-    "_id": 2,
-    "ru": "Он много питался вне дома",
-    "en": "He ate out a lot"
-  },
-  {
-    "_id": 3,
-    "ru": "Она отремонтировала свою квартиру прошлым летом",
-    "en": "She did up her apartment last summer"
-  },
-  {
-    "_id": 4,
-    "ru": "Я перешел к следующему упражнению",
-    "en": "I moved on to the next exercise"
-  },
-  {
-    "_id": 5,
-    "ru": "В ходе встречи был выдвинут интересный план",
-    "en": "An interesting plan was brought forward during the meeting"
-  },
-  {
-    "_id": 6,
-    "ru": "Они хотят обмануть ее",
-    "en": "They want to take her in"
-  },
-  {
-    "_id": 7,
-    "ru": "Еда издает неприятный запах",
-    "en": "The food gives off a bad smell"
-  },
-  {
-    "_id": 8,
-    "ru": "Как ты пришел к такому выводу?",
-    "en": "How did you come to such a conclusion?"
-  },
-  {
-    "_id": 9,
-    "ru": "Ну же, попробуй еще раз!",
-    "en": "Come on, try it again!"
-  },
-  {
-    "_id": 10,
-    "ru": "Тебе нравится обедать вне дома?",
-    "en": "Do you like eating out?"
-  },
-  {
-    "_id": 11,
-    "ru": "Ну же, ты сделаешь это!",
-    "en": "Come on, you will do it!"
-  },
-  {
-    "_id": 12,
-    "ru": "Давай перейдем к следующему слайду!",
-    "en": "Let's move on to the next slide!"
-  },
-  {
-    "_id": 13,
-    "ru": "Учитель раздал эти материалы",
-    "en": "The teacher gave out these materials"
-  },
-  {
-    "_id": 14,
-    "ru": "Правительство приняло новый закон",
-    "en": "The government brought about a new law"
-  },
-  {
-    "_id": 15,
-    "ru": "Пора двигаться дальше",
-    "en": "It's time to move on"
-  },
-  {
-    "_id": 16,
-    "ru": "Я беру свои слова обратно",
-    "en": "I take back my words"
-  },
-  {
-    "_id": 17,
-    "ru": "Это скрасило мой день",
-    "en": "It brightened up my day"
-  },
-  {
-    "_id": 18,
-    "ru": "Я вернулся домой",
-    "en": "I went back home"
-  },
-  {
-    "_id": 19,
-    "ru": "Ну же!",
-    "en": "Come on!"
-  },
-  {
-    "_id": 20,
-    "ru": "Это скрашивает мой день",
-    "en": "It brightens up my day"
-  },
-  {
-    "_id": 21,
-    "ru": "Ну же, давай сделаем это!",
-    "en": "Come on, let's do it!"
-  },
-  {
-    "_id": 22,
-    "ru": "Я думаю, нам следует вернуться сейчас",
-    "en": "I think we should go back now"
-  },
-  {
-    "_id": 23,
-    "ru": "Это может вызвать очень большие изменения",
-    "en": "It can bring about very big changes"
-  },
-  {
-    "_id": 24,
-    "ru": "Я собираюсь отремонтировать этот дом",
-    "en": "I'm going to do up this house"
-  },
-  {
-    "_id": 25,
-    "ru": "Это открывает блестящие возможности",
-    "en": "It opens up brilliant opportunities"
-  },
-  {
-    "_id": 26,
-    "ru": "Застегни ремень!",
-    "en": "Do up the belt!"
-  },
-  {
-    "_id": 27,
-    "ru": "Завяжи шнурки!",
-    "en": "Do up your shoelaces!"
-  },
-  {
-    "_id": 28,
-    "ru": "Он не хочет идти против правил",
-    "en": "He doesn't want to go against the rules"
-  },
-  {
-    "_id": 29,
-    "ru": "Это скрашивает мою жизнь",
-    "en": "It brightens up my life"
-  },
-  {
-    "_id": 30,
-    "ru": "Давайте перейдем к следующему вопросу!",
-    "en": "Let's move on to the next question!"
-  },
-  {
-    "_id": 31,
-    "ru": "Его бизнес пошел ко дну",
-    "en": "His business went under"
-  },
-  {
-    "_id": 32,
-    "ru": "Растение издает очень приятный запах",
-    "en": "The plant gives off a very pleasant smell"
-  },
-  {
-    "_id": 33,
-    "ru": "Кто-то раздавал листовки на улице",
-    "en": "Someone was giving out leaflets in the street"
-  },
-  {
-    "_id": 34,
-    "ru": "Он говорит нам, что он сам за себя постоит",
-    "en": "He tells us that he will stand up for himself"
-  },
-  {
-    "_id": 35,
-    "ru": "Она застегнула пуговицы",
-    "en": "She did up the buttons"
-  },
-  {
-    "_id": 36,
-    "ru": "Я пришел к этому выводу",
-    "en": "I came to this conclusion"
-  },
-  {
-    "_id": 37,
-    "ru": "Он говорит, что мы должны стоять за свои права",
-    "en": "He says that we must stand up for our rights"
-  },
-  {
-    "_id": 38,
-    "ru": "Давай поедим вне дома сегодня вечером!",
-    "en": "Let's eat out tonight!"
-  },
-  {
-    "_id": 39,
-    "ru": "Когда я увидел его, он раздавал те листовки",
-    "en": "When I saw him, he was giving out those leaflets"
-  },
-  {
-    "_id": 40,
-    "ru": "Мы решили вернуться назад из-за дождя",
-    "en": "We decided to go back because of the rain"
-  },
-  {
-    "_id": 41,
-    "ru": "Нам давно пора возвращаться",
-    "en": "It's high time we went back"
-  },
-  {
-    "_id": 42,
-    "ru": "Она вернулась домой",
-    "en": "She went back home"
-  },
-  {
-    "_id": 43,
-    "ru": "Мы вернулись назад из-за дождя",
-    "en": "We went back because of the rain"
-  },
-  {
-    "_id": 44,
-    "ru": "Я уверен, что ты пройдешь через это",
-    "en": "I am sure you will come through it"
-  },
-  {
-    "_id": 45,
-    "ru": "Я не могу представить, через что она прошла",
-    "en": "I can't imagine what she has come through"
-  },
-  {
-    "_id": 46,
-    "ru": "Я думаю, что мы могли бы поужинать не дома сегодня вечером",
-    "en": "I think we could eat out tonight"
-  },
-  {
-    "_id": 47,
-    "ru": "Он предпочитает обедать вне дома",
-    "en": "He prefers to eat out"
-  },
-  {
-    "_id": 48,
-    "ru": "Ей нравится питаться вне дома?",
-    "en": "Does she like eating out?"
-  },
-  {
-    "_id": 49,
-    "ru": "Не забудь застегнуть ремень!",
-    "en": "Don't forget to do up the belt!"
-  },
-  {
-    "_id": 50,
-    "ru": "Он застегнул пуговицы",
-    "en": "He did up the buttons"
-  },
-  {
-    "_id": 51,
-    "ru": "Она застегнула куртку",
-    "en": "She did up her jacket"
-  },
-  {
-    "_id": 52,
-    "ru": "Наша встреча была перенесена на понедельник",
-    "en": "Our meeting was brought forward to Monday"
-  },
-  {
-    "_id": 53,
-    "ru": "Встреча была перенесена на более раннее время?",
-    "en": "Was the meeting brought forward?"
-  },
-  {
-    "_id": 54,
-    "ru": "Разговор был перенесен на эту неделю",
-    "en": "The conversation was brought forward to this week"
-  },
-  {
-    "_id": 55,
-    "ru": "Эта женщина была обманута",
-    "en": "This woman was taken in"
-  },
-  {
-    "_id": 56,
-    "ru": "Почему эту женщину обманули?",
-    "en": "Why was this woman taken in?"
-  },
-  {
-    "_id": 57,
-    "ru": "Я хочу сказать, что он не пойдет против тебя",
-    "en": "I want to say that he won't go against you"
-  },
-  {
-    "_id": 58,
-    "ru": "Я не думаю, что она пойдет против меня",
-    "en": "I don't think that she will go against me"
-  },
-  {
-    "_id": 59,
-    "ru": "Он предпочитает не идти против правил",
-    "en": "He prefers not to go against the rules"
-  },
-  {
-    "_id": 60,
-    "ru": "Давай перейдем к следующему пункту!",
-    "en": "Let's move on to the next point!"
-  },
-  {
-    "_id": 61,
-    "ru": "Давай перейдем к следующим слайдам!",
-    "en": "Let's move on to the next slides!"
-  },
-  {
-    "_id": 62,
-    "ru": "Пожалуйста, переходи к заключению!",
-    "en": "Please, move on to the conclusion!"
-  },
-  {
-    "_id": 63,
-    "ru": "Я не думаю, что она пойдет против него",
-    "en": "I don't think that she will go against him"
-  },
-  {
-    "_id": 64,
-    "ru": "Он не пошел против своего отца",
-    "en": "He didn't go against his father"
-  },
-  {
-    "_id": 65,
-    "ru": "Я думаю, что она не пойдет против меня",
-    "en": "I think that she won't go against me"
-  },
-  {
-    "_id": 66,
-    "ru": "Он купил старый дом и отремонтировал его",
-    "en": "He bought an old house and did it up"
-  },
-  {
-    "_id": 67,
-    "ru": "Она отремонтировала свой дом в прошлом году",
-    "en": "She did up her house last year"
-  },
-  {
-    "_id": 68,
-    "ru": "Я собираюсь отремонтировать свою квартиру",
-    "en": "I'm going to do up my apartment"
-  },
-  {
-    "_id": 69,
-    "ru": "Встреча перенесена с 4 на 2 апреля",
-    "en": "The meeting was brought forward from April 4 to April 2"
-  },
-  {
-    "_id": 70,
-    "ru": "Учитель раздавал экзаменационные работы",
-    "en": "The teacher was giving out the exam papers"
-  },
-  {
-    "_id": 71,
-    "ru": "Ты не можешь представить, через что мне пришлось пройти",
-    "en": "You can't imagine what I've come through"
-  },
-  {
-    "_id": 72,
-    "ru": "Материалы были розданы нашим учителем",
-    "en": "The materials were given out by our teacher"
-  },
-  {
-    "_id": 73,
-    "ru": "Я уверен, что он может постоять за себя",
-    "en": "I am sure that he can stand up for himself"
-  },
-  {
-    "_id": 74,
-    "ru": "Он прошел через очень сложную операцию",
-    "en": "He came through a very difficult operation"
-  },
-  {
-    "_id": 75,
-    "ru": "Я прихожу к выводу, что у нас нет выбора",
-    "en": "I come to the conclusion that we have no choice"
-  },
-  {
-    "_id": 76,
-    "ru": "Та еда издает очень неприятный запах",
-    "en": "That food gives off a very unpleasant smell"
-  },
-  {
-    "_id": 77,
-    "ru": "Не поддавайтесь их ложным обещаниям",
-    "en": "Don't be taken in by their false promises"
-  },
-  {
-    "_id": 78,
-    "ru": "Он не мог себе представить, через что я прошел",
-    "en": "He couldn't imagine what I had gone through"
+    "id": 1,
+    "ru": {
+      "text": "Он застегнул свою куртку",
+      "audio": false
+    },
+    "en": {
+      "text": "He did up his jacket",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Он много питался вне дома",
+      "audio": false
+    },
+    "en": {
+      "text": "He ate out a lot",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Она отремонтировала свою квартиру прошлым летом",
+      "audio": false
+    },
+    "en": {
+      "text": "She did up her apartment last summer",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я перешел к следующему упражнению",
+      "audio": false
+    },
+    "en": {
+      "text": "I moved on to the next exercise",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "В ходе встречи был выдвинут интересный план",
+      "audio": false
+    },
+    "en": {
+      "text": "An interesting plan was brought forward during the meeting",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Они хотят обмануть ее",
+      "audio": false
+    },
+    "en": {
+      "text": "They want to take her in",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Еда издает неприятный запах",
+      "audio": false
+    },
+    "en": {
+      "text": "The food gives off a bad smell",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Как ты пришел к такому выводу?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you come to such a conclusion?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Ну же, попробуй еще раз!",
+      "audio": false
+    },
+    "en": {
+      "text": "Come on, try it again!",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Тебе нравится обедать вне дома?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like eating out?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Ну же, ты сделаешь это!",
+      "audio": false
+    },
+    "en": {
+      "text": "Come on, you will do it!",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Давай перейдем к следующему слайду!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let's move on to the next slide!",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Учитель раздал эти материалы",
+      "audio": false
+    },
+    "en": {
+      "text": "The teacher gave out these materials",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Правительство приняло новый закон",
+      "audio": false
+    },
+    "en": {
+      "text": "The government brought about a new law",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Пора двигаться дальше",
+      "audio": false
+    },
+    "en": {
+      "text": "It's time to move on",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я беру свои слова обратно",
+      "audio": false
+    },
+    "en": {
+      "text": "I take back my words",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Это скрасило мой день",
+      "audio": false
+    },
+    "en": {
+      "text": "It brightened up my day",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я вернулся домой",
+      "audio": false
+    },
+    "en": {
+      "text": "I went back home",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Ну же!",
+      "audio": false
+    },
+    "en": {
+      "text": "Come on!",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Это скрашивает мой день",
+      "audio": false
+    },
+    "en": {
+      "text": "It brightens up my day",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Ну же, давай сделаем это!",
+      "audio": false
+    },
+    "en": {
+      "text": "Come on, let's do it!",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Я думаю, нам следует вернуться сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I think we should go back now",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Это может вызвать очень большие изменения",
+      "audio": false
+    },
+    "en": {
+      "text": "It can bring about very big changes",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Я собираюсь отремонтировать этот дом",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm going to do up this house",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Это открывает блестящие возможности",
+      "audio": false
+    },
+    "en": {
+      "text": "It opens up brilliant opportunities",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Застегни ремень!",
+      "audio": false
+    },
+    "en": {
+      "text": "Do up the belt!",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Завяжи шнурки!",
+      "audio": false
+    },
+    "en": {
+      "text": "Do up your shoelaces!",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Он не хочет идти против правил",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't want to go against the rules",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Это скрашивает мою жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "It brightens up my life",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Давайте перейдем к следующему вопросу!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let's move on to the next question!",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Его бизнес пошел ко дну",
+      "audio": false
+    },
+    "en": {
+      "text": "His business went under",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Растение издает очень приятный запах",
+      "audio": false
+    },
+    "en": {
+      "text": "The plant gives off a very pleasant smell",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Кто-то раздавал листовки на улице",
+      "audio": false
+    },
+    "en": {
+      "text": "Someone was giving out leaflets in the street",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он говорит нам, что он сам за себя постоит",
+      "audio": false
+    },
+    "en": {
+      "text": "He tells us that he will stand up for himself",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Она застегнула пуговицы",
+      "audio": false
+    },
+    "en": {
+      "text": "She did up the buttons",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я пришел к этому выводу",
+      "audio": false
+    },
+    "en": {
+      "text": "I came to this conclusion",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Он говорит, что мы должны стоять за свои права",
+      "audio": false
+    },
+    "en": {
+      "text": "He says that we must stand up for our rights",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Давай поедим вне дома сегодня вечером!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let's eat out tonight!",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Когда я увидел его, он раздавал те листовки",
+      "audio": false
+    },
+    "en": {
+      "text": "When I saw him, he was giving out those leaflets",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Мы решили вернуться назад из-за дождя",
+      "audio": false
+    },
+    "en": {
+      "text": "We decided to go back because of the rain",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Нам давно пора возвращаться",
+      "audio": false
+    },
+    "en": {
+      "text": "It's high time we went back",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Она вернулась домой",
+      "audio": false
+    },
+    "en": {
+      "text": "She went back home",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Мы вернулись назад из-за дождя",
+      "audio": false
+    },
+    "en": {
+      "text": "We went back because of the rain",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я уверен, что ты пройдешь через это",
+      "audio": false
+    },
+    "en": {
+      "text": "I am sure you will come through it",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я не могу представить, через что она прошла",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't imagine what she has come through",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я думаю, что мы могли бы поужинать не дома сегодня вечером",
+      "audio": false
+    },
+    "en": {
+      "text": "I think we could eat out tonight",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Он предпочитает обедать вне дома",
+      "audio": false
+    },
+    "en": {
+      "text": "He prefers to eat out",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Ей нравится питаться вне дома?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she like eating out?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Не забудь застегнуть ремень!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't forget to do up the belt!",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он застегнул пуговицы",
+      "audio": false
+    },
+    "en": {
+      "text": "He did up the buttons",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Она застегнула куртку",
+      "audio": false
+    },
+    "en": {
+      "text": "She did up her jacket",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Наша встреча была перенесена на понедельник",
+      "audio": false
+    },
+    "en": {
+      "text": "Our meeting was brought forward to Monday",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Встреча была перенесена на более раннее время?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was the meeting brought forward?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Разговор был перенесен на эту неделю",
+      "audio": false
+    },
+    "en": {
+      "text": "The conversation was brought forward to this week",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Эта женщина была обманута",
+      "audio": false
+    },
+    "en": {
+      "text": "This woman was taken in",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Почему эту женщину обманули?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was this woman taken in?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я хочу сказать, что он не пойдет против тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to say that he won't go against you",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я не думаю, что она пойдет против меня",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that she will go against me",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Он предпочитает не идти против правил",
+      "audio": false
+    },
+    "en": {
+      "text": "He prefers not to go against the rules",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Давай перейдем к следующему пункту!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let's move on to the next point!",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Давай перейдем к следующим слайдам!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let's move on to the next slides!",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Пожалуйста, переходи к заключению!",
+      "audio": false
+    },
+    "en": {
+      "text": "Please, move on to the conclusion!",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я не думаю, что она пойдет против него",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that she will go against him",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он не пошел против своего отца",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't go against his father",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я думаю, что она не пойдет против меня",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that she won't go against me",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Он купил старый дом и отремонтировал его",
+      "audio": false
+    },
+    "en": {
+      "text": "He bought an old house and did it up",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Она отремонтировала свой дом в прошлом году",
+      "audio": false
+    },
+    "en": {
+      "text": "She did up her house last year",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я собираюсь отремонтировать свою квартиру",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm going to do up my apartment",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Встреча перенесена с 4 на 2 апреля",
+      "audio": false
+    },
+    "en": {
+      "text": "The meeting was brought forward from April 4 to April 2",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Учитель раздавал экзаменационные работы",
+      "audio": false
+    },
+    "en": {
+      "text": "The teacher was giving out the exam papers",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Ты не можешь представить, через что мне пришлось пройти",
+      "audio": false
+    },
+    "en": {
+      "text": "You can't imagine what I've come through",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Материалы были розданы нашим учителем",
+      "audio": false
+    },
+    "en": {
+      "text": "The materials were given out by our teacher",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я уверен, что он может постоять за себя",
+      "audio": false
+    },
+    "en": {
+      "text": "I am sure that he can stand up for himself",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Он прошел через очень сложную операцию",
+      "audio": false
+    },
+    "en": {
+      "text": "He came through a very difficult operation",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я прихожу к выводу, что у нас нет выбора",
+      "audio": false
+    },
+    "en": {
+      "text": "I come to the conclusion that we have no choice",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Та еда издает очень неприятный запах",
+      "audio": false
+    },
+    "en": {
+      "text": "That food gives off a very unpleasant smell",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Не поддавайтесь их ложным обещаниям",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't be taken in by their false promises",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Он не мог себе представить, через что я прошел",
+      "audio": false
+    },
+    "en": {
+      "text": "He couldn't imagine what I had gone through",
+      "audio": false
+    }
   }
 ]

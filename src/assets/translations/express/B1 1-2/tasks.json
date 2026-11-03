@@ -1,102 +1,222 @@
 [
   {
-    "_id": 1,
-    "ru": "Я жду тебя полчаса",
-    "en": "I've been waiting for you for half an hour"
+    "id": 1,
+    "ru": {
+      "text": "Я жду тебя полчаса",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been waiting for you for half an hour",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я трачу так много денег в последнее время",
-    "en": "I've been spending so much money lately"
+    "id": 2,
+    "ru": {
+      "text": "Я трачу так много денег в последнее время",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been spending so much money lately",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Как долго они женаты?",
-    "en": "How long have they been married?"
+    "id": 3,
+    "ru": {
+      "text": "Как долго они женаты?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long have they been married?",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я невероятно занят в последнее время",
-    "en": "I've been incredibly busy lately"
+    "id": 4,
+    "ru": {
+      "text": "Я невероятно занят в последнее время",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been incredibly busy lately",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я занимаюсь этим весь день",
-    "en": "I've been doing it all day"
+    "id": 5,
+    "ru": {
+      "text": "Я занимаюсь этим весь день",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been doing it all day",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я живу здесь почти десять лет",
-    "en": "I've been living here for almost ten years"
+    "id": 6,
+    "ru": {
+      "text": "Я живу здесь почти десять лет",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been living here for almost ten years",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я занят этой рутиной с утра",
-    "en": "I've been busy with this routine since morning"
+    "id": 7,
+    "ru": {
+      "text": "Я занят этой рутиной с утра",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been busy with this routine since morning",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я учу английский пару лет",
-    "en": "I've been learning English for a couple of years"
+    "id": 8,
+    "ru": {
+      "text": "Я учу английский пару лет",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been learning English for a couple of years",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Он всегда был верен своим принципам и убеждениям",
-    "en": "He's always been faithful to his principles and beliefs"
+    "id": 9,
+    "ru": {
+      "text": "Он всегда был верен своим принципам и убеждениям",
+      "audio": false
+    },
+    "en": {
+      "text": "He's always been faithful to his principles and beliefs",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я изучаю английский около года",
-    "en": "I've been learning English for about a year"
+    "id": 10,
+    "ru": {
+      "text": "Я изучаю английский около года",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been learning English for about a year",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Как долго ты меня ждешь? Около десяти минут",
-    "en": "How long have you been waiting for me? For about ten minutes"
+    "id": 11,
+    "ru": {
+      "text": "Как долго ты меня ждешь? Около десяти минут",
+      "audio": false
+    },
+    "en": {
+      "text": "How long have you been waiting for me? For about ten minutes",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Как долго ты здесь живешь?",
-    "en": "How long have you staying here?"
+    "id": 12,
+    "ru": {
+      "text": "Как долго ты здесь живешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long have you staying here?",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Как долго ты учишь английский?",
-    "en": "How long have you been learning English?"
+    "id": 13,
+    "ru": {
+      "text": "Как долго ты учишь английский?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long have you been learning English?",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я всегда был верен своим принципам",
-    "en": "I've always been faithful to my principles"
+    "id": 14,
+    "ru": {
+      "text": "Я всегда был верен своим принципам",
+      "audio": false
+    },
+    "en": {
+      "text": "I've always been faithful to my principles",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я читал книгу весь день",
-    "en": "I was reading a book all day"
+    "id": 15,
+    "ru": {
+      "text": "Я читал книгу весь день",
+      "audio": false
+    },
+    "en": {
+      "text": "I was reading a book all day",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Они женаты около пяти лет",
-    "en": "They've been married for about five years"
+    "id": 16,
+    "ru": {
+      "text": "Они женаты около пяти лет",
+      "audio": false
+    },
+    "en": {
+      "text": "They've been married for about five years",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я весь день смотрю разные ролики на ютубе",
-    "en": "I've been watching different videos on YouTube all day"
+    "id": 17,
+    "ru": {
+      "text": "Я весь день смотрю разные ролики на ютубе",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been watching different videos on YouTube all day",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Как давно ты здесь?",
-    "en": "How long have you been here?"
+    "id": 18,
+    "ru": {
+      "text": "Как давно ты здесь?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long have you been here?",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Как давно ты здесь живешь?",
-    "en": "How long have you been living here?"
+    "id": 19,
+    "ru": {
+      "text": "Как давно ты здесь живешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long have you been living here?",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Как давно ты здесь работаешь?",
-    "en": "How long have you been working?"
+    "id": 20,
+    "ru": {
+      "text": "Как давно ты здесь работаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long have you been working?",
+      "audio": false
+    }
   }
 ]

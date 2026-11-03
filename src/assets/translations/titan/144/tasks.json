@@ -1,477 +1,1047 @@
 [
   {
-    "_id": 1,
-    "ru": "Кто сегодня отсутствует?",
-    "en": "Who is absent today?"
-  },
-  {
-    "_id": 2,
-    "ru": "Он очень худой мальчик",
-    "en": "He is a very thin boy"
-  },
-  {
-    "_id": 3,
-    "ru": "Он не хотел выглядеть глупо",
-    "en": "He didn't want to look stupid"
-  },
-  {
-    "_id": 4,
-    "ru": "Это была необычная вечеринка",
-    "en": "It was an unusual party"
-  },
-  {
-    "_id": 5,
-    "ru": "Это такой необычный ответ",
-    "en": "It is such an unusual answer"
-  },
-  {
-    "_id": 6,
-    "ru": "Я хочу быть честным с тобой",
-    "en": "I want to be honest with you"
-  },
-  {
-    "_id": 7,
-    "ru": "Это такое красивое место",
-    "en": "It is such a beautiful place"
-  },
-  {
-    "_id": 8,
-    "ru": "Это один из самых частых вопросов",
-    "en": "It is one of the most frequent questions"
-  },
-  {
-    "_id": 9,
-    "ru": "Она очень слаба после своей болезни",
-    "en": "She is very weak after her illness"
-  },
-  {
-    "_id": 10,
-    "ru": "Давайте посмотрим на предыдущий слайд!",
-    "en": "Let's look at the previous slide!"
-  },
-  {
-    "_id": 11,
-    "ru": "Ты можешь посмотреть на часто задаваемые вопросы",
-    "en": "You can look at frequently asked questions"
-  },
-  {
-    "_id": 12,
-    "ru": "Мы можем прочитать это в официальном документе",
-    "en": "We can read it in an official document"
-  },
-  {
-    "_id": 13,
-    "ru": "У нее светло-голубые глаза",
-    "en": "She has light blue eyes"
-  },
-  {
-    "_id": 14,
-    "ru": "Ты очень умный человек",
-    "en": "You are a very intelligent person"
-  },
-  {
-    "_id": 15,
-    "ru": "Это очень сложная проблема",
-    "en": "It's a very complex problem"
-  },
-  {
-    "_id": 16,
-    "ru": "Это базовая цена",
-    "en": "It is a basic price"
-  },
-  {
-    "_id": 17,
-    "ru": "Он честный человек",
-    "en": "He is an honest man"
-  },
-  {
-    "_id": 18,
-    "ru": "Это потрясающая возможность",
-    "en": "It's an amazing opportunity"
-  },
-  {
-    "_id": 19,
-    "ru": "Это классный велосипед",
-    "en": "It's a cool bike"
-  },
-  {
-    "_id": 20,
-    "ru": "Это очень прохладное место",
-    "en": "It is a very cool place"
-  },
-  {
-    "_id": 21,
-    "ru": "Они женаты?",
-    "en": "Are they married?"
-  },
-  {
-    "_id": 22,
-    "ru": "Это очень медленная скорость",
-    "en": "It is a very slow speed"
-  },
-  {
-    "_id": 23,
-    "ru": "Кто отсутствовал?",
-    "en": "Who was absent?"
-  },
-  {
-    "_id": 24,
-    "ru": "Здесь не светло",
-    "en": "It isn't light here"
-  },
-  {
-    "_id": 25,
-    "ru": "Наша жизнь действительно удивительная",
-    "en": "Our life is really amazing"
-  },
-  {
-    "_id": 26,
-    "ru": "Они такие умные мужчины",
-    "en": "They are such intelligent men"
-  },
-  {
-    "_id": 27,
-    "ru": "Это более удобный диван",
-    "en": "It's a more comfortable sofa"
-  },
-  {
-    "_id": 28,
-    "ru": "Это самый базовый уровень",
-    "en": "It is the most basic level"
-  },
-  {
-    "_id": 29,
-    "ru": "Он находит эту информацию очень полезной",
-    "en": "He finds this information very useful"
-  },
-  {
-    "_id": 30,
-    "ru": "Это такая тяжелая коробка",
-    "en": "It is such a heavy box"
-  },
-  {
-    "_id": 31,
-    "ru": "Он часто носит такие тяжелые коробки",
-    "en": "He often carries such heavy boxes"
-  },
-  {
-    "_id": 32,
-    "ru": "Это типично для него",
-    "en": "It is typical of him"
-  },
-  {
-    "_id": 33,
-    "ru": "Это такая глупая ошибка",
-    "en": "It is such a stupid mistake"
-  },
-  {
-    "_id": 34,
-    "ru": "Я думаю, это отличная идея",
-    "en": "I think it's a great idea"
-  },
-  {
-    "_id": 35,
-    "ru": "Это очень неудобный стул",
-    "en": "It's a very uncomfortable chair"
-  },
-  {
-    "_id": 36,
-    "ru": "Мне там было очень неудобно",
-    "en": "I felt very uncomfortable there"
-  },
-  {
-    "_id": 37,
-    "ru": "Это место свободно?",
-    "en": "Is this seat free?"
-  },
-  {
-    "_id": 38,
-    "ru": "Ее комната всегда чистая",
-    "en": "Her room is always clean"
-  },
-  {
-    "_id": 39,
-    "ru": "Эта особенность характерна для него",
-    "en": "This feature is typical of him"
-  },
-  {
-    "_id": 40,
-    "ru": "Мальчик очень слабый",
-    "en": "The boy is very weak"
-  },
-  {
-    "_id": 41,
-    "ru": "Как давно твой друг женат?",
-    "en": "How long has your friend been married?"
-  },
-  {
-    "_id": 42,
-    "ru": "Я хочу достичь более высокого уровня в английском",
-    "en": "I want to reach a higher level in English"
-  },
-  {
-    "_id": 43,
-    "ru": "Эта статья полна полезной информации",
-    "en": "This article is full of useful information"
-  },
-  {
-    "_id": 44,
-    "ru": "Это одна из самых бедных стран в мире",
-    "en": "It is one of the poorest countries in the world"
-  },
-  {
-    "_id": 45,
-    "ru": "Это было очень важное научное открытие",
-    "en": "It was a very important scientific discovery"
-  },
-  {
-    "_id": 46,
-    "ru": "Ее прогресс намного медленнее, чем это ожидалось",
-    "en": "Her progress is much slower than it was expected"
-  },
-  {
-    "_id": 47,
-    "ru": "Мне нравится идея бесплатного образования",
-    "en": "I like the idea of free education"
-  },
-  {
-    "_id": 48,
-    "ru": "Судья признал его виновным",
-    "en": "The judge found him guilty"
-  },
-  {
-    "_id": 49,
-    "ru": "У него гораздо более высокий уровень",
-    "en": "He has a much higher level"
-  },
-  {
-    "_id": 50,
-    "ru": "Утверждение верное или ложное?",
-    "en": "Is the statement true or false?"
-  },
-  {
-    "_id": 51,
-    "ru": "Она предпочитает вести активный образ жизни",
-    "en": "She prefers to lead an active lifestyle"
-  },
-  {
-    "_id": 52,
-    "ru": "Он честный человек",
-    "en": "He is an honest person"
-  },
-  {
-    "_id": 53,
-    "ru": "Все присутствуют?",
-    "en": "Is everyone present?"
-  },
-  {
-    "_id": 54,
-    "ru": "Все присутствовали?",
-    "en": "Was everyone present?"
-  },
-  {
-    "_id": 55,
-    "ru": "Она присутствовала на этом уроке",
-    "en": "She was present at this lesson"
-  },
-  {
-    "_id": 56,
-    "ru": "Все присутствовали",
-    "en": "Everyone was present"
-  },
-  {
-    "_id": 57,
-    "ru": "Этот тест не так прост, как тот",
-    "en": "This test isn't as easy as that one"
-  },
-  {
-    "_id": 58,
-    "ru": "Этот тест был легче, чем этот",
-    "en": "This test was easier than that one"
-  },
-  {
-    "_id": 59,
-    "ru": "Это не так просто, как кажется",
-    "en": "It's not as easy as it seems"
-  },
-  {
-    "_id": 60,
-    "ru": "Его уровень не такой высокий, как у нее",
-    "en": "His level isn't as high as hers"
-  },
-  {
-    "_id": 61,
-    "ru": "Его уровень такой же, как у нее",
-    "en": "His level is the same as hers"
-  },
-  {
-    "_id": 62,
-    "ru": "У нее был самый высокий уровень",
-    "en": "She had the highest level"
-  },
-  {
-    "_id": 63,
-    "ru": "Это самый высокий уровень",
-    "en": "It is the highest level"
-  },
-  {
-    "_id": 64,
-    "ru": "У нее был уровень выше его",
-    "en": "She had a higher level than him"
-  },
-  {
-    "_id": 65,
-    "ru": "Его уровень английского выше",
-    "en": "His level of English is higher"
-  },
-  {
-    "_id": 66,
-    "ru": "Мне нужно ответить на следующие вопросы",
-    "en": "I need to answer the following questions"
-  },
-  {
-    "_id": 67,
-    "ru": "Ответь на следующий вопрос",
-    "en": "Answer the following question"
-  },
-  {
-    "_id": 68,
-    "ru": "Ты можешь ответить на эти вопросы?",
-    "en": "Can you answer these questions?"
-  },
-  {
-    "_id": 69,
-    "ru": "Как долго они женаты?",
-    "en": "How long have they been married?"
-  },
-  {
-    "_id": 70,
-    "ru": "Когда они поженились?",
-    "en": "When did they get married?"
-  },
-  {
-    "_id": 71,
-    "ru": "Полиция считает, что он виновен",
-    "en": "The police think that he is guilty"
-  },
-  {
-    "_id": 72,
-    "ru": "Она чувствовала себя виноватой",
-    "en": "She felt guilty"
-  },
-  {
-    "_id": 73,
-    "ru": "Он был признан виновным",
-    "en": "He was found guilty"
-  },
-  {
-    "_id": 74,
-    "ru": "Он был настолько беден, что не мог купить это",
-    "en": "He was so poor that he couldn't buy it"
-  },
-  {
-    "_id": 75,
-    "ru": "Он не мог себе этого позволить",
-    "en": "He couldn't afford it"
-  },
-  {
-    "_id": 76,
-    "ru": "Это было официальное объявление",
-    "en": "It was an official announcement"
-  },
-  {
-    "_id": 77,
-    "ru": "Он сделал официальное заявление",
-    "en": "He made an official statement"
-  },
-  {
-    "_id": 78,
-    "ru": "Это была неофициальная информация",
-    "en": "It was unofficial information"
-  },
-  {
-    "_id": 79,
-    "ru": "Это более научное исследование",
-    "en": "It is a more scientific research"
-  },
-  {
-    "_id": 80,
-    "ru": "Ученые провели некоторые исследования",
-    "en": "Scientists made some researches"
-  },
-  {
-    "_id": 81,
-    "ru": "Это научное исследование было успешным",
-    "en": "This scientific research was a success"
-  },
-  {
-    "_id": 82,
-    "ru": "Это было объяснено в предыдущем уроке",
-    "en": "It was explained in the previous lesson"
-  },
-  {
-    "_id": 83,
-    "ru": "Это очень сложный подход",
-    "en": "It is a very complex approach"
-  },
-  {
-    "_id": 84,
-    "ru": "Это было упомянуто в предыдущем видео",
-    "en": "It was mentioned in the previous video"
-  },
-  {
-    "_id": 85,
-    "ru": "Он говорит, что это крутой фильм",
-    "en": "He says that it's a cool movie"
-  },
-  {
-    "_id": 86,
-    "ru": "Мы встретились на следующий день",
-    "en": "We met the following day"
-  },
-  {
-    "_id": 87,
-    "ru": "Она моложе меня",
-    "en": "She is younger than me"
-  },
-  {
-    "_id": 88,
-    "ru": "Его прогресс медленнее, чем он ожидал",
-    "en": "His progress is slower than he expected"
-  },
-  {
-    "_id": 89,
-    "ru": "Они прекрасно провели время вместе",
-    "en": "They had a great time together"
-  },
-  {
-    "_id": 90,
-    "ru": "Концерт прошел с большим успехом",
-    "en": "The concert was a great success"
-  },
-  {
-    "_id": 91,
-    "ru": "Они встретились на следующий день",
-    "en": "They met the next day"
-  },
-  {
-    "_id": 92,
-    "ru": "Я моложе его",
-    "en": "I'm younger than him"
-  },
-  {
-    "_id": 93,
-    "ru": "Это правда или ложь?",
-    "en": "Is it true or false?"
-  },
-  {
-    "_id": 94,
-    "ru": "Все хорошо",
-    "en": "Everything is good"
-  },
-  {
-    "_id": 95,
-    "ru": "Все присутствуют",
-    "en": "Everyone is present"
+    "id": 1,
+    "ru": {
+      "text": "Кто сегодня отсутствует?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is absent today?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Он очень худой мальчик",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a very thin boy",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Он не хотел выглядеть глупо",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't want to look stupid",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Это была необычная вечеринка",
+      "audio": false
+    },
+    "en": {
+      "text": "It was an unusual party",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Это такой необычный ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "It is such an unusual answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я хочу быть честным с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to be honest with you",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Это такое красивое место",
+      "audio": false
+    },
+    "en": {
+      "text": "It is such a beautiful place",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Это один из самых частых вопросов",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the most frequent questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Она очень слаба после своей болезни",
+      "audio": false
+    },
+    "en": {
+      "text": "She is very weak after her illness",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Давайте посмотрим на предыдущий слайд!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let's look at the previous slide!",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Ты можешь посмотреть на часто задаваемые вопросы",
+      "audio": false
+    },
+    "en": {
+      "text": "You can look at frequently asked questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Мы можем прочитать это в официальном документе",
+      "audio": false
+    },
+    "en": {
+      "text": "We can read it in an official document",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "У нее светло-голубые глаза",
+      "audio": false
+    },
+    "en": {
+      "text": "She has light blue eyes",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Ты очень умный человек",
+      "audio": false
+    },
+    "en": {
+      "text": "You are a very intelligent person",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Это очень сложная проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very complex problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Это базовая цена",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a basic price",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Он честный человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is an honest man",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Это потрясающая возможность",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an amazing opportunity",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Это классный велосипед",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a cool bike",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Это очень прохладное место",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a very cool place",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Они женаты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they married?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это очень медленная скорость",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a very slow speed",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Кто отсутствовал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was absent?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Здесь не светло",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't light here",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Наша жизнь действительно удивительная",
+      "audio": false
+    },
+    "en": {
+      "text": "Our life is really amazing",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Они такие умные мужчины",
+      "audio": false
+    },
+    "en": {
+      "text": "They are such intelligent men",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Это более удобный диван",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a more comfortable sofa",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Это самый базовый уровень",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the most basic level",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Он находит эту информацию очень полезной",
+      "audio": false
+    },
+    "en": {
+      "text": "He finds this information very useful",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Это такая тяжелая коробка",
+      "audio": false
+    },
+    "en": {
+      "text": "It is such a heavy box",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Он часто носит такие тяжелые коробки",
+      "audio": false
+    },
+    "en": {
+      "text": "He often carries such heavy boxes",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Это типично для него",
+      "audio": false
+    },
+    "en": {
+      "text": "It is typical of him",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Это такая глупая ошибка",
+      "audio": false
+    },
+    "en": {
+      "text": "It is such a stupid mistake",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я думаю, это отличная идея",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it's a great idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Это очень неудобный стул",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very uncomfortable chair",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Мне там было очень неудобно",
+      "audio": false
+    },
+    "en": {
+      "text": "I felt very uncomfortable there",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Это место свободно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this seat free?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Ее комната всегда чистая",
+      "audio": false
+    },
+    "en": {
+      "text": "Her room is always clean",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Эта особенность характерна для него",
+      "audio": false
+    },
+    "en": {
+      "text": "This feature is typical of him",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Мальчик очень слабый",
+      "audio": false
+    },
+    "en": {
+      "text": "The boy is very weak",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Как давно твой друг женат?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long has your friend been married?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я хочу достичь более высокого уровня в английском",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to reach a higher level in English",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Эта статья полна полезной информации",
+      "audio": false
+    },
+    "en": {
+      "text": "This article is full of useful information",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Это одна из самых бедных стран в мире",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the poorest countries in the world",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Это было очень важное научное открытие",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a very important scientific discovery",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Ее прогресс намного медленнее, чем это ожидалось",
+      "audio": false
+    },
+    "en": {
+      "text": "Her progress is much slower than it was expected",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Мне нравится идея бесплатного образования",
+      "audio": false
+    },
+    "en": {
+      "text": "I like the idea of free education",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Судья признал его виновным",
+      "audio": false
+    },
+    "en": {
+      "text": "The judge found him guilty",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "У него гораздо более высокий уровень",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a much higher level",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Утверждение верное или ложное?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the statement true or false?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Она предпочитает вести активный образ жизни",
+      "audio": false
+    },
+    "en": {
+      "text": "She prefers to lead an active lifestyle",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Он честный человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is an honest person",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Все присутствуют?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is everyone present?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Все присутствовали?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was everyone present?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Она присутствовала на этом уроке",
+      "audio": false
+    },
+    "en": {
+      "text": "She was present at this lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Все присутствовали",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone was present",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Этот тест не так прост, как тот",
+      "audio": false
+    },
+    "en": {
+      "text": "This test isn't as easy as that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Этот тест был легче, чем этот",
+      "audio": false
+    },
+    "en": {
+      "text": "This test was easier than that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Это не так просто, как кажется",
+      "audio": false
+    },
+    "en": {
+      "text": "It's not as easy as it seems",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Его уровень не такой высокий, как у нее",
+      "audio": false
+    },
+    "en": {
+      "text": "His level isn't as high as hers",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Его уровень такой же, как у нее",
+      "audio": false
+    },
+    "en": {
+      "text": "His level is the same as hers",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "У нее был самый высокий уровень",
+      "audio": false
+    },
+    "en": {
+      "text": "She had the highest level",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Это самый высокий уровень",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the highest level",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "У нее был уровень выше его",
+      "audio": false
+    },
+    "en": {
+      "text": "She had a higher level than him",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Его уровень английского выше",
+      "audio": false
+    },
+    "en": {
+      "text": "His level of English is higher",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Мне нужно ответить на следующие вопросы",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to answer the following questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Ответь на следующий вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "Answer the following question",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Ты можешь ответить на эти вопросы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you answer these questions?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Как долго они женаты?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long have they been married?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Когда они поженились?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did they get married?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Полиция считает, что он виновен",
+      "audio": false
+    },
+    "en": {
+      "text": "The police think that he is guilty",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Она чувствовала себя виноватой",
+      "audio": false
+    },
+    "en": {
+      "text": "She felt guilty",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Он был признан виновным",
+      "audio": false
+    },
+    "en": {
+      "text": "He was found guilty",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Он был настолько беден, что не мог купить это",
+      "audio": false
+    },
+    "en": {
+      "text": "He was so poor that he couldn't buy it",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Он не мог себе этого позволить",
+      "audio": false
+    },
+    "en": {
+      "text": "He couldn't afford it",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Это было официальное объявление",
+      "audio": false
+    },
+    "en": {
+      "text": "It was an official announcement",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Он сделал официальное заявление",
+      "audio": false
+    },
+    "en": {
+      "text": "He made an official statement",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Это была неофициальная информация",
+      "audio": false
+    },
+    "en": {
+      "text": "It was unofficial information",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Это более научное исследование",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a more scientific research",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Ученые провели некоторые исследования",
+      "audio": false
+    },
+    "en": {
+      "text": "Scientists made some researches",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Это научное исследование было успешным",
+      "audio": false
+    },
+    "en": {
+      "text": "This scientific research was a success",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Это было объяснено в предыдущем уроке",
+      "audio": false
+    },
+    "en": {
+      "text": "It was explained in the previous lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Это очень сложный подход",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a very complex approach",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Это было упомянуто в предыдущем видео",
+      "audio": false
+    },
+    "en": {
+      "text": "It was mentioned in the previous video",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Он говорит, что это крутой фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "He says that it's a cool movie",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Мы встретились на следующий день",
+      "audio": false
+    },
+    "en": {
+      "text": "We met the following day",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Она моложе меня",
+      "audio": false
+    },
+    "en": {
+      "text": "She is younger than me",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Его прогресс медленнее, чем он ожидал",
+      "audio": false
+    },
+    "en": {
+      "text": "His progress is slower than he expected",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Они прекрасно провели время вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "They had a great time together",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Концерт прошел с большим успехом",
+      "audio": false
+    },
+    "en": {
+      "text": "The concert was a great success",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Они встретились на следующий день",
+      "audio": false
+    },
+    "en": {
+      "text": "They met the next day",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Я моложе его",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm younger than him",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Это правда или ложь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it true or false?",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Все хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything is good",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Все присутствуют",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone is present",
+      "audio": false
+    }
   }
 ]

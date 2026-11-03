@@ -1,452 +1,992 @@
 [
   {
-    "_id": 1,
-    "ru": "Он хочет продать свой дом",
-    "en": "He wants to sell his house"
-  },
-  {
-    "_id": 2,
-    "ru": "Она рискует потерять свои последние деньги",
-    "en": "She risks losing her last money"
-  },
-  {
-    "_id": 3,
-    "ru": "Она отказалась говорить это",
-    "en": "She refused to say it"
-  },
-  {
-    "_id": 4,
-    "ru": "Я практикую говорить по-английски ежедневно",
-    "en": "I practise speaking English daily"
-  },
-  {
-    "_id": 5,
-    "ru": "Я постараюсь не забыть сделать это",
-    "en": "I will try not to forget to do it"
-  },
-  {
-    "_id": 6,
-    "ru": "Он желает, чтобы он навестил своих родителей в Великобритании",
-    "en": "He wishes to visit his parents in the UK"
-  },
-  {
-    "_id": 7,
-    "ru": "Он планирует купить новый дом",
-    "en": "He is planning to buy a new house"
-  },
-  {
-    "_id": 8,
-    "ru": "Я практикую говорить по-английски ежедневно",
-    "en": "I practise speaking English daily"
-  },
-  {
-    "_id": 9,
-    "ru": "Он не может позволить себе купить машину в настоящее время",
-    "en": "He can't afford to buy a car at present"
-  },
-  {
-    "_id": 10,
-    "ru": "Я планирую уехать в отпуск на следующей неделе",
-    "en": "I'm planning to go on holiday next week"
-  },
-  {
-    "_id": 11,
-    "ru": "Я желаю посетить тот город в этом году",
-    "en": "I wish to visit that city this year"
-  },
-  {
-    "_id": 12,
-    "ru": "Я не собираюсь спорить об этом",
-    "en": "I'm not going to argue about it"
-  },
-  {
-    "_id": 13,
-    "ru": "Он решил продолжить изучение английского языка здесь",
-    "en": "He decided to continue learning English here"
-  },
-  {
-    "_id": 14,
-    "ru": "Я постараюсь не забыть позвонить ему",
-    "en": "I will try not to forget to call him"
-  },
-  {
-    "_id": 15,
-    "ru": "Он планирует бросить свою работу",
-    "en": "He is planning to quit his job"
-  },
-  {
-    "_id": 16,
-    "ru": "Он не может позволить себе купить дом сейчас",
-    "en": "He can't afford to buy a house now"
-  },
-  {
-    "_id": 17,
-    "ru": "Он отложил возвращение в Соединенные Штаты",
-    "en": "He postponed returning to the United States"
-  },
-  {
-    "_id": 18,
-    "ru": "Они планируют удвоить свои продажи в этом году",
-    "en": "They are planning to double their sales this year"
-  },
-  {
-    "_id": 19,
-    "ru": "Я не могу перестать думать об этом",
-    "en": "I can't stop thinking about it"
-  },
-  {
-    "_id": 20,
-    "ru": "Не забудь выключить свет!",
-    "en": "Don't forget to turn off the light!"
-  },
-  {
-    "_id": 21,
-    "ru": "Он отказался обсуждать вопрос",
-    "en": "He refused to discuss the matter"
-  },
-  {
-    "_id": 22,
-    "ru": "Я склонен так думать",
-    "en": "I tend to think so"
-  },
-  {
-    "_id": 23,
-    "ru": "Он ждал, чтобы купить тот билет",
-    "en": "He waited to buy that ticket"
-  },
-  {
-    "_id": 24,
-    "ru": "Он рискует потерять все",
-    "en": "He risks losing everything"
-  },
-  {
-    "_id": 25,
-    "ru": "Она не может позволить себе купить квартиру",
-    "en": "She can't afford to buy an apartment"
-  },
-  {
-    "_id": 26,
-    "ru": "Она практикует пение ежедневно",
-    "en": "She practises singing daily"
-  },
-  {
-    "_id": 27,
-    "ru": "Он рискует потерять все свои деньги",
-    "en": "He risks losing all his money"
-  },
-  {
-    "_id": 28,
-    "ru": "Что ты планируешь делать?",
-    "en": "What are you planning to do?"
-  },
-  {
-    "_id": 29,
-    "ru": "Я планирую сделать это позже",
-    "en": "I'm planning to do it later"
-  },
-  {
-    "_id": 30,
-    "ru": "Я не планирую это делать",
-    "en": "I am not planning to do it"
-  },
-  {
-    "_id": 31,
-    "ru": "Я решил продолжить жить здесь",
-    "en": "I decided to continue living here"
-  },
-  {
-    "_id": 32,
-    "ru": "Она планирует купить квартиру",
-    "en": "She is planning to buy an apartment"
-  },
-  {
-    "_id": 33,
-    "ru": "Я склонен думать, что знание - действительно сила",
-    "en": "I tend to think that knowledge is really power"
-  },
-  {
-    "_id": 34,
-    "ru": "Я знаю, что мне нужно улучшить свое правописание",
-    "en": "I know that I need to improve my spelling"
-  },
-  {
-    "_id": 35,
-    "ru": "Он планирует поехать в отпуск",
-    "en": "He is planning to go on vacation"
-  },
-  {
-    "_id": 36,
-    "ru": "Я знаю, что мне нужно работать над правописанием",
-    "en": "I know that I need to work on my spelling"
-  },
-  {
-    "_id": 37,
-    "ru": "Она отказалась это сказать",
-    "en": "She refused to say it"
-  },
-  {
-    "_id": 38,
-    "ru": "Он склонен так думать",
-    "en": "He tends to think so"
-  },
-  {
-    "_id": 39,
-    "ru": "Она рискует потерять свои последние деньги",
-    "en": "She risks losing her last money"
-  },
-  {
-    "_id": 40,
-    "ru": "Она попросила меня повторить этот вопрос",
-    "en": "She asked me to repeat this question"
-  },
-  {
-    "_id": 41,
-    "ru": "Извини, я забыл тебе позвонить",
-    "en": "Sorry, I forgot to call you"
-  },
-  {
-    "_id": 42,
-    "ru": "Я ждал, чтобы купить билеты",
-    "en": "I waited to buy the tickets"
-  },
-  {
-    "_id": 43,
-    "ru": "Она думает о переносе поездки в Великобританию",
-    "en": "She is thinking about postponing going to the UK"
-  },
-  {
-    "_id": 44,
-    "ru": "Что ты собираешься делать, если эта вещь случится?",
-    "en": "What are you going to do if this thing happens?"
-  },
-  {
-    "_id": 45,
-    "ru": "Он думает о переносе поездки в эту страну",
-    "en": "He is thinking about postponing going to this country"
-  },
-  {
-    "_id": 46,
-    "ru": "Он перестал принимать наркотики, и это спасло его жизнь",
-    "en": "He stopped taking drugs and it saved his life"
-  },
-  {
-    "_id": 47,
-    "ru": "Ему невыносимо жить в этих условиях",
-    "en": "He can't bear living in these conditions"
-  },
-  {
-    "_id": 48,
-    "ru": "Она перестала работать, когда она ждала ребенка",
-    "en": "She stopped working when she was expecting a baby"
-  },
-  {
-    "_id": 49,
-    "ru": "Он терпеть не может работать в офисе",
-    "en": "He can't stand working in an office"
-  },
-  {
-    "_id": 50,
-    "ru": "Он хочет научиться водить",
-    "en": "He wants to learn to drive"
-  },
-  {
-    "_id": 51,
-    "ru": "Я терпеть не могу делать это",
-    "en": "I can't stand doing it"
-  },
-  {
-    "_id": 52,
-    "ru": "Я терпеть не могу есть такую еду",
-    "en": "I can't stand eating such food"
-  },
-  {
-    "_id": 53,
-    "ru": "Я терпеть не могу там учиться",
-    "en": "I can't stand studying there"
-  },
-  {
-    "_id": 54,
-    "ru": "Мне хочется выпить чашку чая",
-    "en": "I feel like drinking a cup of tea"
-  },
-  {
-    "_id": 55,
-    "ru": "Мне хочется выпить чашку кофе",
-    "en": "I feel like drinking a cup of coffee"
-  },
-  {
-    "_id": 56,
-    "ru": "Мне хочется съесть этот бутерброд",
-    "en": "I feel like eating this sandwich"
-  },
-  {
-    "_id": 57,
-    "ru": "Я не выношу делать это",
-    "en": "I can't bear doing it"
-  },
-  {
-    "_id": 58,
-    "ru": "Я не выношу работать в этой компании",
-    "en": "I can't bear working in this company"
-  },
-  {
-    "_id": 59,
-    "ru": "Я не выношу стирать",
-    "en": "I can't bear doing the laundry"
-  },
-  {
-    "_id": 60,
-    "ru": "Я остановился перекусить",
-    "en": "I stopped to have a snack"
-  },
-  {
-    "_id": 61,
-    "ru": "Я остановился пообедать",
-    "en": "I stopped to have dinner"
-  },
-  {
-    "_id": 62,
-    "ru": "Я остановился сделать звонок",
-    "en": "I stopped to make a call"
-  },
-  {
-    "_id": 63,
-    "ru": "Тебе хочется выпить чашку кофе?",
-    "en": "Do you feel like drinking a cup of coffee?"
-  },
-  {
-    "_id": 64,
-    "ru": "Тебе хочется выпить стакан сока?",
-    "en": "Do you feel like drinking a glass of juice?"
-  },
-  {
-    "_id": 65,
-    "ru": "Я планирую когда-нибудь посетить Соединенные Штаты",
-    "en": "I'm planning to visit the United States someday"
-  },
-  {
-    "_id": 66,
-    "ru": "Я планирую сделать это когда-нибудь",
-    "en": "I'm planning to do it someday"
-  },
-  {
-    "_id": 67,
-    "ru": "Я склонен думать, что это действительно так",
-    "en": "I tend to think that it is really so"
-  },
-  {
-    "_id": 68,
-    "ru": "Я склонен думать, что это действительно хорошая идея",
-    "en": "I tend to think that it is a really good idea"
-  },
-  {
-    "_id": 69,
-    "ru": "Я склонен думать, что это один из лучших фильмов",
-    "en": "I tend to think that it is one of the best movies"
-  },
-  {
-    "_id": 70,
-    "ru": "Она ненавидит стирать",
-    "en": "She hates doing the laundry"
-  },
-  {
-    "_id": 71,
-    "ru": "Она ненавидит убирать свою комнату",
-    "en": "She hates cleaning her room"
-  },
-  {
-    "_id": 72,
-    "ru": "Она ненавидит готовить это блюдо",
-    "en": "She hates cooking this dish"
-  },
-  {
-    "_id": 73,
-    "ru": "Он бросил курить наконец",
-    "en": "He stopped smoking at last"
-  },
-  {
-    "_id": 74,
-    "ru": "Он прекратил пить алкоголь наконец",
-    "en": "He stopped drinking alcohol at last"
-  },
-  {
-    "_id": 75,
-    "ru": "Он перестал делать это наконец",
-    "en": "He stopped doing it at last"
-  },
-  {
-    "_id": 76,
-    "ru": "Мы решили остановиться, чтобы перекусить",
-    "en": "We decided to stop to have a snack"
-  },
-  {
-    "_id": 77,
-    "ru": "Мы решили остановиться, чтобы позавтракать",
-    "en": "We decided to stop to have breakfast"
-  },
-  {
-    "_id": 78,
-    "ru": "Они остановились, чтобы перекусить",
-    "en": "They stopped to have a snack"
-  },
-  {
-    "_id": 79,
-    "ru": "Она терпеть не может стирать",
-    "en": "She can't stand doing the laundry"
-  },
-  {
-    "_id": 80,
-    "ru": "Ты хочешь научиться водить?",
-    "en": "Do you want to learn to drive?"
-  },
-  {
-    "_id": 81,
-    "ru": "Я остановился, чтобы задать ему вопрос",
-    "en": "I stopped to ask him a question"
-  },
-  {
-    "_id": 82,
-    "ru": "Ты хочешь научиться играть на гитаре?",
-    "en": "Do you want to learn to play the guitar?"
-  },
-  {
-    "_id": 83,
-    "ru": "Я остановился, чтобы задать ей вопрос",
-    "en": "I stopped to ask her a question"
-  },
-  {
-    "_id": 84,
-    "ru": "Он успел добраться туда вовремя",
-    "en": "He managed to get there on time"
-  },
-  {
-    "_id": 85,
-    "ru": "Я планирую отправиться в путешествие в этот город",
-    "en": "I'm planning to go on a trip to this city"
-  },
-  {
-    "_id": 86,
-    "ru": "Она терпеть не может ждать в длинных очередях",
-    "en": "She can't stand waiting in long queues"
-  },
-  {
-    "_id": 87,
-    "ru": "Ей не хотелось ходить на работу",
-    "en": "She didn't feel like going to work"
-  },
-  {
-    "_id": 88,
-    "ru": "Он решил бросить пить алкоголь",
-    "en": "He decided to stop drinking alcohol"
-  },
-  {
-    "_id": 89,
-    "ru": "Что ты планируешь делать, если это произойдет?",
-    "en": "What are you planning to do if it happens?"
-  },
-  {
-    "_id": 90,
-    "ru": "Он решил бросить курить",
-    "en": "He decided to stop smoking"
+    "id": 1,
+    "ru": {
+      "text": "Он хочет продать свой дом",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to sell his house",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Она рискует потерять свои последние деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "She risks losing her last money",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Она отказалась говорить это",
+      "audio": false
+    },
+    "en": {
+      "text": "She refused to say it",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я практикую говорить по-английски ежедневно",
+      "audio": false
+    },
+    "en": {
+      "text": "I practise speaking English daily",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я постараюсь не забыть сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I will try not to forget to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Он желает, чтобы он навестил своих родителей в Великобритании",
+      "audio": false
+    },
+    "en": {
+      "text": "He wishes to visit his parents in the UK",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Он планирует купить новый дом",
+      "audio": false
+    },
+    "en": {
+      "text": "He is planning to buy a new house",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я практикую говорить по-английски ежедневно",
+      "audio": false
+    },
+    "en": {
+      "text": "I practise speaking English daily",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Он не может позволить себе купить машину в настоящее время",
+      "audio": false
+    },
+    "en": {
+      "text": "He can't afford to buy a car at present",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я планирую уехать в отпуск на следующей неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm planning to go on holiday next week",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я желаю посетить тот город в этом году",
+      "audio": false
+    },
+    "en": {
+      "text": "I wish to visit that city this year",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я не собираюсь спорить об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not going to argue about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он решил продолжить изучение английского языка здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided to continue learning English here",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я постараюсь не забыть позвонить ему",
+      "audio": false
+    },
+    "en": {
+      "text": "I will try not to forget to call him",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Он планирует бросить свою работу",
+      "audio": false
+    },
+    "en": {
+      "text": "He is planning to quit his job",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Он не может позволить себе купить дом сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "He can't afford to buy a house now",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Он отложил возвращение в Соединенные Штаты",
+      "audio": false
+    },
+    "en": {
+      "text": "He postponed returning to the United States",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Они планируют удвоить свои продажи в этом году",
+      "audio": false
+    },
+    "en": {
+      "text": "They are planning to double their sales this year",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я не могу перестать думать об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't stop thinking about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Не забудь выключить свет!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't forget to turn off the light!",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Он отказался обсуждать вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "He refused to discuss the matter",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Я склонен так думать",
+      "audio": false
+    },
+    "en": {
+      "text": "I tend to think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он ждал, чтобы купить тот билет",
+      "audio": false
+    },
+    "en": {
+      "text": "He waited to buy that ticket",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Он рискует потерять все",
+      "audio": false
+    },
+    "en": {
+      "text": "He risks losing everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Она не может позволить себе купить квартиру",
+      "audio": false
+    },
+    "en": {
+      "text": "She can't afford to buy an apartment",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Она практикует пение ежедневно",
+      "audio": false
+    },
+    "en": {
+      "text": "She practises singing daily",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Он рискует потерять все свои деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "He risks losing all his money",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Что ты планируешь делать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you planning to do?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Я планирую сделать это позже",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm planning to do it later",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я не планирую это делать",
+      "audio": false
+    },
+    "en": {
+      "text": "I am not planning to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Я решил продолжить жить здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to continue living here",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Она планирует купить квартиру",
+      "audio": false
+    },
+    "en": {
+      "text": "She is planning to buy an apartment",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я склонен думать, что знание - действительно сила",
+      "audio": false
+    },
+    "en": {
+      "text": "I tend to think that knowledge is really power",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я знаю, что мне нужно улучшить свое правописание",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that I need to improve my spelling",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Он планирует поехать в отпуск",
+      "audio": false
+    },
+    "en": {
+      "text": "He is planning to go on vacation",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я знаю, что мне нужно работать над правописанием",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that I need to work on my spelling",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Она отказалась это сказать",
+      "audio": false
+    },
+    "en": {
+      "text": "She refused to say it",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Он склонен так думать",
+      "audio": false
+    },
+    "en": {
+      "text": "He tends to think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Она рискует потерять свои последние деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "She risks losing her last money",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Она попросила меня повторить этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "She asked me to repeat this question",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Извини, я забыл тебе позвонить",
+      "audio": false
+    },
+    "en": {
+      "text": "Sorry, I forgot to call you",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я ждал, чтобы купить билеты",
+      "audio": false
+    },
+    "en": {
+      "text": "I waited to buy the tickets",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Она думает о переносе поездки в Великобританию",
+      "audio": false
+    },
+    "en": {
+      "text": "She is thinking about postponing going to the UK",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Что ты собираешься делать, если эта вещь случится?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you going to do if this thing happens?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Он думает о переносе поездки в эту страну",
+      "audio": false
+    },
+    "en": {
+      "text": "He is thinking about postponing going to this country",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Он перестал принимать наркотики, и это спасло его жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "He stopped taking drugs and it saved his life",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Ему невыносимо жить в этих условиях",
+      "audio": false
+    },
+    "en": {
+      "text": "He can't bear living in these conditions",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Она перестала работать, когда она ждала ребенка",
+      "audio": false
+    },
+    "en": {
+      "text": "She stopped working when she was expecting a baby",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Он терпеть не может работать в офисе",
+      "audio": false
+    },
+    "en": {
+      "text": "He can't stand working in an office",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он хочет научиться водить",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to learn to drive",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я терпеть не могу делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't stand doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я терпеть не могу есть такую еду",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't stand eating such food",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я терпеть не могу там учиться",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't stand studying there",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Мне хочется выпить чашку чая",
+      "audio": false
+    },
+    "en": {
+      "text": "I feel like drinking a cup of tea",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Мне хочется выпить чашку кофе",
+      "audio": false
+    },
+    "en": {
+      "text": "I feel like drinking a cup of coffee",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Мне хочется съесть этот бутерброд",
+      "audio": false
+    },
+    "en": {
+      "text": "I feel like eating this sandwich",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я не выношу делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't bear doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я не выношу работать в этой компании",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't bear working in this company",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я не выношу стирать",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't bear doing the laundry",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я остановился перекусить",
+      "audio": false
+    },
+    "en": {
+      "text": "I stopped to have a snack",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я остановился пообедать",
+      "audio": false
+    },
+    "en": {
+      "text": "I stopped to have dinner",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я остановился сделать звонок",
+      "audio": false
+    },
+    "en": {
+      "text": "I stopped to make a call",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Тебе хочется выпить чашку кофе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you feel like drinking a cup of coffee?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Тебе хочется выпить стакан сока?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you feel like drinking a glass of juice?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я планирую когда-нибудь посетить Соединенные Штаты",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm planning to visit the United States someday",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я планирую сделать это когда-нибудь",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm planning to do it someday",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я склонен думать, что это действительно так",
+      "audio": false
+    },
+    "en": {
+      "text": "I tend to think that it is really so",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я склонен думать, что это действительно хорошая идея",
+      "audio": false
+    },
+    "en": {
+      "text": "I tend to think that it is a really good idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я склонен думать, что это один из лучших фильмов",
+      "audio": false
+    },
+    "en": {
+      "text": "I tend to think that it is one of the best movies",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Она ненавидит стирать",
+      "audio": false
+    },
+    "en": {
+      "text": "She hates doing the laundry",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Она ненавидит убирать свою комнату",
+      "audio": false
+    },
+    "en": {
+      "text": "She hates cleaning her room",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Она ненавидит готовить это блюдо",
+      "audio": false
+    },
+    "en": {
+      "text": "She hates cooking this dish",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Он бросил курить наконец",
+      "audio": false
+    },
+    "en": {
+      "text": "He stopped smoking at last",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Он прекратил пить алкоголь наконец",
+      "audio": false
+    },
+    "en": {
+      "text": "He stopped drinking alcohol at last",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Он перестал делать это наконец",
+      "audio": false
+    },
+    "en": {
+      "text": "He stopped doing it at last",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Мы решили остановиться, чтобы перекусить",
+      "audio": false
+    },
+    "en": {
+      "text": "We decided to stop to have a snack",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Мы решили остановиться, чтобы позавтракать",
+      "audio": false
+    },
+    "en": {
+      "text": "We decided to stop to have breakfast",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Они остановились, чтобы перекусить",
+      "audio": false
+    },
+    "en": {
+      "text": "They stopped to have a snack",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Она терпеть не может стирать",
+      "audio": false
+    },
+    "en": {
+      "text": "She can't stand doing the laundry",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Ты хочешь научиться водить?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to learn to drive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я остановился, чтобы задать ему вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I stopped to ask him a question",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Ты хочешь научиться играть на гитаре?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to learn to play the guitar?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я остановился, чтобы задать ей вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I stopped to ask her a question",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Он успел добраться туда вовремя",
+      "audio": false
+    },
+    "en": {
+      "text": "He managed to get there on time",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я планирую отправиться в путешествие в этот город",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm planning to go on a trip to this city",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Она терпеть не может ждать в длинных очередях",
+      "audio": false
+    },
+    "en": {
+      "text": "She can't stand waiting in long queues",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Ей не хотелось ходить на работу",
+      "audio": false
+    },
+    "en": {
+      "text": "She didn't feel like going to work",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Он решил бросить пить алкоголь",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided to stop drinking alcohol",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Что ты планируешь делать, если это произойдет?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you planning to do if it happens?",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Он решил бросить курить",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided to stop smoking",
+      "audio": false
+    }
   }
 ]

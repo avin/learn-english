@@ -1,237 +1,519 @@
 [
   {
-    "_id": 1,
-    "ru": "Тебе понравилась экскурсия?",
-    "en": "Did you like the excursion?"
+    "id": 1,
+    "ru": {
+      "text": "Тебе понравилась экскурсия?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like the excursion?",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Он сделал ошибку?",
-    "en": "Did he make a mistake?"
+    "id": 2,
+    "ru": {
+      "text": "Он сделал ошибку?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did he make a mistake?",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Тебе понравился этот урок?",
-    "en": "Did you like this lesson?"
+    "id": 3,
+    "ru": {
+      "text": "Тебе понравился этот урок?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like this lesson?",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Тебе понравилась эта экскурсия?",
-    "en": "Did you like this excursion?"
+    "id": 4,
+    "ru": {
+      "text": "Тебе понравилась эта экскурсия?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like this excursion?",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Тебе понравилось это видео?",
-    "en": "Did you like this video?"
+    "id": 5,
+    "ru": {
+      "text": "Тебе понравилось это видео?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like this video?",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Ты решил эти проблемы?",
-    "en": "Did you solve these problems?"
+    "id": 6,
+    "ru": {
+      "text": "Ты решил эти проблемы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you solve these problems?",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Тебе понравилась книга?",
-    "en": "Did you like the book?"
+    "id": 7,
+    "ru": {
+      "text": "Тебе понравилась книга?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like the book?",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я правильно написал это?",
-    "en": "Did I write it correctly?"
+    "id": 8,
+    "ru": {
+      "text": "Я правильно написал это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did I write it correctly?",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Ты понял это?",
-    "en": "Did you understand it?"
+    "id": 9,
+    "ru": {
+      "text": "Ты понял это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you understand it?",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Тебе понравился этот фильм?",
-    "en": "Did you like this movie?"
+    "id": 10,
+    "ru": {
+      "text": "Тебе понравился этот фильм?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like this movie?",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Они приехали туда?",
-    "en": "Did they come there?"
+    "id": 11,
+    "ru": {
+      "text": "Они приехали туда?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did they come there?",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Ты сдал тот экзамен?",
-    "en": "Did you pass that exam?"
+    "id": 12,
+    "ru": {
+      "text": "Ты сдал тот экзамен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you pass that exam?",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Тебе понравилась эта программа?",
-    "en": "Did you like this program?"
+    "id": 13,
+    "ru": {
+      "text": "Тебе понравилась эта программа?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like this program?",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Ты прошел тест?",
-    "en": "Did you pass the test?"
+    "id": 14,
+    "ru": {
+      "text": "Ты прошел тест?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you pass the test?",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Ты показал лучший результат?",
-    "en": "Did you show the best result?"
+    "id": 15,
+    "ru": {
+      "text": "Ты показал лучший результат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you show the best result?",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Тебе понравилась эта книга?",
-    "en": "Did you like this book?"
+    "id": 16,
+    "ru": {
+      "text": "Тебе понравилась эта книга?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like this book?",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Это действительно помогло тебе?",
-    "en": "Did it really help you?"
+    "id": 17,
+    "ru": {
+      "text": "Это действительно помогло тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did it really help you?",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Тебе понравился этот матч?",
-    "en": "Did you like this match?"
+    "id": 18,
+    "ru": {
+      "text": "Тебе понравился этот матч?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like this match?",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Он решил те проблемы?",
-    "en": "Did he solve those problems?"
+    "id": 19,
+    "ru": {
+      "text": "Он решил те проблемы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did he solve those problems?",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Ему понравилась та экскурсия?",
-    "en": "Did he like that excursion?"
+    "id": 20,
+    "ru": {
+      "text": "Ему понравилась та экскурсия?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did he like that excursion?",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Тебе понравилась игра?",
-    "en": "Did you like the game?"
+    "id": 21,
+    "ru": {
+      "text": "Тебе понравилась игра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like the game?",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Ты сдал экзамен?",
-    "en": "Did you pass the exam?"
+    "id": 22,
+    "ru": {
+      "text": "Ты сдал экзамен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you pass the exam?",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Она знала это?",
-    "en": "Did she know it?"
+    "id": 23,
+    "ru": {
+      "text": "Она знала это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did she know it?",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Это случилось вчера?",
-    "en": "Did it happen yesterday?"
+    "id": 24,
+    "ru": {
+      "text": "Это случилось вчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did it happen yesterday?",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Ты решил эту проблему?",
-    "en": "Did you solve this problem?"
+    "id": 25,
+    "ru": {
+      "text": "Ты решил эту проблему?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you solve this problem?",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Он купил машину?",
-    "en": "Did he buy a car?"
+    "id": 26,
+    "ru": {
+      "text": "Он купил машину?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did he buy a car?",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Тебе понравилась эта игра?",
-    "en": "Did you like this game?"
+    "id": 27,
+    "ru": {
+      "text": "Тебе понравилась эта игра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like this game?",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Мы ответили на это правильно?",
-    "en": "Did we answer it correctly?"
+    "id": 28,
+    "ru": {
+      "text": "Мы ответили на это правильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did we answer it correctly?",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Он решил ту проблему?",
-    "en": "Did he solve that problem?"
+    "id": 29,
+    "ru": {
+      "text": "Он решил ту проблему?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did he solve that problem?",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Он действительно помог тебе?",
-    "en": "Did he really help you?"
+    "id": 30,
+    "ru": {
+      "text": "Он действительно помог тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did he really help you?",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Ты вчера ходил на работу?",
-    "en": "Did you go to work yesterday?"
+    "id": 31,
+    "ru": {
+      "text": "Ты вчера ходил на работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you go to work yesterday?",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Ты заплатил за это?",
-    "en": "Did you pay for it?"
+    "id": 32,
+    "ru": {
+      "text": "Ты заплатил за это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you pay for it?",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Тебе понравилась поездка?",
-    "en": "Did you like the trip?"
+    "id": 33,
+    "ru": {
+      "text": "Тебе понравилась поездка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like the trip?",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Мы правильно сказали это?",
-    "en": "Did we say it correctly?"
+    "id": 34,
+    "ru": {
+      "text": "Мы правильно сказали это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did we say it correctly?",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Ты заказал это онлайн?",
-    "en": "Did you order it online?"
+    "id": 35,
+    "ru": {
+      "text": "Ты заказал это онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you order it online?",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Тебе понравилась эта идея?",
-    "en": "Did you like this idea?"
+    "id": 36,
+    "ru": {
+      "text": "Тебе понравилась эта идея?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like this idea?",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Ты купил это онлайн?",
-    "en": "Did you buy it online?"
+    "id": 37,
+    "ru": {
+      "text": "Ты купил это онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you buy it online?",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Я сделал какие-либо ошибки?",
-    "en": "Did I make any mistakes?"
+    "id": 38,
+    "ru": {
+      "text": "Я сделал какие-либо ошибки?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did I make any mistakes?",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Ты решил те проблемы?",
-    "en": "Did you solve those problems?"
+    "id": 39,
+    "ru": {
+      "text": "Ты решил те проблемы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you solve those problems?",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Ты сделал свое домашнее задание?",
-    "en": "Did you do your homework?"
+    "id": 40,
+    "ru": {
+      "text": "Ты сделал свое домашнее задание?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you do your homework?",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Ты ходил туда?",
-    "en": "Did you go there?"
+    "id": 41,
+    "ru": {
+      "text": "Ты ходил туда?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you go there?",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Тебе понравился урок?",
-    "en": "Did you like the lesson?"
+    "id": 42,
+    "ru": {
+      "text": "Тебе понравился урок?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like the lesson?",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Тебе понравилась эта поездка?",
-    "en": "Did you like this trip?"
+    "id": 43,
+    "ru": {
+      "text": "Тебе понравилась эта поездка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like this trip?",
+      "audio": false
+    }
   },
   {
-    "_id": 44,
-    "ru": "Это помогло тебе?",
-    "en": "Did it help you?"
+    "id": 44,
+    "ru": {
+      "text": "Это помогло тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did it help you?",
+      "audio": false
+    }
   },
   {
-    "_id": 45,
-    "ru": "Я правильно сказал это?",
-    "en": "Did I say it correctly?"
+    "id": 45,
+    "ru": {
+      "text": "Я правильно сказал это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did I say it correctly?",
+      "audio": false
+    }
   },
   {
-    "_id": 46,
-    "ru": "Он работал с тобой?",
-    "en": "Did he work with you?"
+    "id": 46,
+    "ru": {
+      "text": "Он работал с тобой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did he work with you?",
+      "audio": false
+    }
   },
   {
-    "_id": 47,
-    "ru": "Ты сдал этот тест?",
-    "en": "Did you pass this test?"
+    "id": 47,
+    "ru": {
+      "text": "Ты сдал этот тест?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you pass this test?",
+      "audio": false
+    }
   }
 ]

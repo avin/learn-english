@@ -1,512 +1,1124 @@
 [
   {
-    "_id": 1,
-    "ru": "Он не ел рис",
-    "en": "He didn't eat rice"
-  },
-  {
-    "_id": 2,
-    "ru": "Мой брат не помог мне",
-    "en": "My brother didn’t help me"
-  },
-  {
-    "_id": 3,
-    "ru": "Я не был дома вчера",
-    "en": "I wasn't at home yesterday"
-  },
-  {
-    "_id": 4,
-    "ru": "Они не были со мной в тот момент",
-    "en": "They weren’t with me at that moment"
-  },
-  {
-    "_id": 5,
-    "ru": "Этих денег было недостаточно",
-    "en": "This money wasn't enough"
-  },
-  {
-    "_id": 6,
-    "ru": "Мальчики не были уставшими",
-    "en": "The boys weren't tired"
-  },
-  {
-    "_id": 7,
-    "ru": "Посылка не была тяжелой",
-    "en": "The parcel wasn't heavy"
-  },
-  {
-    "_id": 8,
-    "ru": "Она не могла ответить на мой звонок",
-    "en": "She couldn't answer my call"
-  },
-  {
-    "_id": 9,
-    "ru": "Он не окончил университет",
-    "en": "He didn't graduate from university"
-  },
-  {
-    "_id": 10,
-    "ru": "Я не был на работе вчера",
-    "en": "I wasn't at work yesterday"
-  },
-  {
-    "_id": 11,
-    "ru": "Квартира была недостаточно светлой",
-    "en": "The apartment wasn't light enough"
-  },
-  {
-    "_id": 12,
-    "ru": "Этих денег было недостаточно",
-    "en": "This money wasn't enough"
-  },
-  {
-    "_id": 13,
-    "ru": "Она не хотела стать учителем",
-    "en": "She didn't want to become a teacher"
-  },
-  {
-    "_id": 14,
-    "ru": "Мы не тратили впустую время",
-    "en": "We didn't waste time"
-  },
-  {
-    "_id": 15,
-    "ru": "Они не пошли на пляж",
-    "en": "They didn't go to the beach"
-  },
-  {
-    "_id": 16,
-    "ru": "Эта компания не принадлежала ему",
-    "en": "This company didn't belong to him"
-  },
-  {
-    "_id": 17,
-    "ru": "Они не хотели переезжать в другую страну",
-    "en": "They didn't want to move to another country"
-  },
-  {
-    "_id": 18,
-    "ru": "Это было совсем не дорого",
-    "en": "It wasn't expensive at all"
-  },
-  {
-    "_id": 19,
-    "ru": "Он не жил в Соединенных Штатах",
-    "en": "He didn't live in the United States"
-  },
-  {
-    "_id": 20,
-    "ru": "Ее не было в университете",
-    "en": "She wasn't at university"
-  },
-  {
-    "_id": 21,
-    "ru": "Мы не ходили на море вчера",
-    "en": "We didn't go to the sea yesterday"
-  },
-  {
-    "_id": 22,
-    "ru": "Поездка была совсем не утомительной",
-    "en": "The trip wasn't tiring at all"
-  },
-  {
-    "_id": 23,
-    "ru": "Я не хотел платить за все",
-    "en": "I didn't want to pay for everything"
-  },
-  {
-    "_id": 24,
-    "ru": "Того времени казалось недостаточно",
-    "en": "That time didn't seem enough"
-  },
-  {
-    "_id": 25,
-    "ru": "Этой практики мне не было достаточно",
-    "en": "That practice wasn't enough for me"
-  },
-  {
-    "_id": 26,
-    "ru": "Он не ел рис",
-    "en": "He didn't eat rice"
-  },
-  {
-    "_id": 27,
-    "ru": "Это не имело значения",
-    "en": "It didn't matter"
-  },
-  {
-    "_id": 28,
-    "ru": "Рис не был свежим",
-    "en": "The rice wasn't fresh"
-  },
-  {
-    "_id": 29,
-    "ru": "Стиль не был современным",
-    "en": "The style wasn't modern"
-  },
-  {
-    "_id": 30,
-    "ru": "Билеты не были дешевыми",
-    "en": "The tickets weren't cheap"
-  },
-  {
-    "_id": 31,
-    "ru": "Эта вещь не имела значения",
-    "en": "This thing didn't matter"
-  },
-  {
-    "_id": 32,
-    "ru": "Музыкант не был богатым",
-    "en": "The musician wasn't rich"
-  },
-  {
-    "_id": 33,
-    "ru": "Ему не нужна была какая-либо помощь",
-    "en": "He didn't need any help"
-  },
-  {
-    "_id": 34,
-    "ru": "Вирус не был опасным",
-    "en": "The virus wasn't dangerous"
-  },
-  {
-    "_id": 35,
-    "ru": "Сумка не была пустой",
-    "en": "The bag wasn't empty"
-  },
-  {
-    "_id": 36,
-    "ru": "Он не был на той вечеринке",
-    "en": "He wasn't at that party"
-  },
-  {
-    "_id": 37,
-    "ru": "Я не пошел на работу вчера",
-    "en": "I didn't go to work yesterday"
-  },
-  {
-    "_id": 38,
-    "ru": "Ребенок не закончил свою домашнюю работу",
-    "en": "The child didn't finish his homework"
-  },
-  {
-    "_id": 39,
-    "ru": "Они не были на пляже",
-    "en": "They weren't at the beach"
-  },
-  {
-    "_id": 40,
-    "ru": "У меня совсем не было времени",
-    "en": "I didn't have time at all"
-  },
-  {
-    "_id": 41,
-    "ru": "Он не пришел на ту вечеринку",
-    "en": "He didn't come to that party"
-  },
-  {
-    "_id": 42,
-    "ru": "Это не было важно для меня",
-    "en": "It wasn't important for me"
-  },
-  {
-    "_id": 43,
-    "ru": "Я не платил за свое образование",
-    "en": "I didn't pay for my education"
-  },
-  {
-    "_id": 44,
-    "ru": "Он не нашел новую работу",
-    "en": "He didn't find a new job"
-  },
-  {
-    "_id": 45,
-    "ru": "Я не был в Соединенных Штатах в прошлом году",
-    "en": "I wasn't in the United States last year"
-  },
-  {
-    "_id": 46,
-    "ru": "Машина не была достаточно надежной",
-    "en": "The car wasn't reliable enough"
-  },
-  {
-    "_id": 47,
-    "ru": "Это не было так неожиданно для меня",
-    "en": "It wasn't so unexpected for me"
-  },
-  {
-    "_id": 48,
-    "ru": "Мужчина не выглядел уставшим",
-    "en": "The man didn't look tired"
-  },
-  {
-    "_id": 49,
-    "ru": "Качество было недостаточно хорошим",
-    "en": "The quality wasn't good enough"
-  },
-  {
-    "_id": 50,
-    "ru": "Учитель не объяснил все правила",
-    "en": "The teacher didn't explain all the rules"
-  },
-  {
-    "_id": 51,
-    "ru": "Это не привлекло внимание людей в начале",
-    "en": "It didn't attract people's attention in the beginning"
-  },
-  {
-    "_id": 52,
-    "ru": "Он не перевел весь текст",
-    "en": "He didn't translate all the text"
-  },
-  {
-    "_id": 53,
-    "ru": "Урок не казался таким утомительным",
-    "en": "The lesson didn't seem so tiring"
-  },
-  {
-    "_id": 54,
-    "ru": "Презентация не была достаточно красочной",
-    "en": "The presentation wasn't colourful enough"
-  },
-  {
-    "_id": 55,
-    "ru": "Эта сумма денег не была достаточно большой",
-    "en": "This sum of money wasn't big enough"
-  },
-  {
-    "_id": 56,
-    "ru": "Их ответ не был предсказуемым",
-    "en": "Their answer wasn't predictable"
-  },
-  {
-    "_id": 57,
-    "ru": "Это не был неожиданный результат",
-    "en": "It wasn't an unexpected result"
-  },
-  {
-    "_id": 58,
-    "ru": "Я не чувствовал себя уставшим",
-    "en": "I didn't feel tired"
-  },
-  {
-    "_id": 59,
-    "ru": "Полиция не была на станции",
-    "en": "The police weren't at the station"
-  },
-  {
-    "_id": 60,
-    "ru": "Полиция не была на этой станции",
-    "en": "The police weren't at this station"
-  },
-  {
-    "_id": 61,
-    "ru": "Полиции не было там",
-    "en": "The police weren't there"
-  },
-  {
-    "_id": 62,
-    "ru": "Я не прочел книгу",
-    "en": "I didn't read the book"
-  },
-  {
-    "_id": 63,
-    "ru": "Он не читал все эти книги",
-    "en": "He didn't read all these books"
-  },
-  {
-    "_id": 64,
-    "ru": "Я не читал тот журнал",
-    "en": "I didn't read that magazine"
-  },
-  {
-    "_id": 65,
-    "ru": "Полиция не прибыла туда",
-    "en": "The police didn't arrive there"
-  },
-  {
-    "_id": 66,
-    "ru": "Полиция не прибыла туда вовремя",
-    "en": "The police didn't arrive there on time"
-  },
-  {
-    "_id": 67,
-    "ru": "Полиция не прибыла туда вчера",
-    "en": "The police didn't arrive there yesterday"
-  },
-  {
-    "_id": 68,
-    "ru": "Мальчик вовсе не был уставшим",
-    "en": "The boy wasn't tired at all"
-  },
-  {
-    "_id": 69,
-    "ru": "Мальчики совсем не были уставшими",
-    "en": "The boys weren't tired at all"
-  },
-  {
-    "_id": 70,
-    "ru": "Тот мальчик не был уставшим",
-    "en": "That boy wasn't tired"
-  },
-  {
-    "_id": 71,
-    "ru": "Иллюстрации не были достаточно красочными",
-    "en": "The illustrations weren't colourful enough"
-  },
-  {
-    "_id": 72,
-    "ru": "Эти иллюстрации были достаточно красочными",
-    "en": "These illustrations were colourful enough"
-  },
-  {
-    "_id": 73,
-    "ru": "Иллюстрация не была красочной",
-    "en": "The illustration wasn't colourful"
-  },
-  {
-    "_id": 74,
-    "ru": "Урок не был достаточно интересным",
-    "en": "The lesson wasn't interesting enough"
-  },
-  {
-    "_id": 75,
-    "ru": "Его уроки не были интересными",
-    "en": "His lessons weren't interesting"
-  },
-  {
-    "_id": 76,
-    "ru": "Уроки не были достаточно полезными",
-    "en": "The lessons weren't useful enough"
-  },
-  {
-    "_id": 77,
-    "ru": "Было не сложно пройти этот тест",
-    "en": "It wasn't difficult to pass this test"
-  },
-  {
-    "_id": 78,
-    "ru": "Было не легко сдать этот тест",
-    "en": "It wasn't easy to pass this test"
-  },
-  {
-    "_id": 79,
-    "ru": "Было не так сложно сдать этот экзамен",
-    "en": "It wasn't so difficult to pass this exam"
-  },
-  {
-    "_id": 80,
-    "ru": "Та новость вовсе не удивила меня",
-    "en": "That news didn't surprise me at all"
-  },
-  {
-    "_id": 81,
-    "ru": "Та новость не удивила меня",
-    "en": "That news didn't surprise me"
-  },
-  {
-    "_id": 82,
-    "ru": "Та новость вовсе не шокировала их",
-    "en": "That news didn't shock them at all"
-  },
-  {
-    "_id": 83,
-    "ru": "Результат не был таким неожиданным для нас",
-    "en": "The result wasn't so unexpected for us"
-  },
-  {
-    "_id": 84,
-    "ru": "Результаты не были такими неожиданными для меня",
-    "en": "The results weren't so unexpected for me"
-  },
-  {
-    "_id": 85,
-    "ru": "Для него это не было так неожиданно",
-    "en": "It wasn't so unexpected for him"
-  },
-  {
-    "_id": 86,
-    "ru": "Было не так легко сдать экзамен",
-    "en": "It wasn't so easy to pass the exam"
-  },
-  {
-    "_id": 87,
-    "ru": "Ему было не так легко сдать этот экзамен",
-    "en": "It wasn't so easy for him to pass this exam"
-  },
-  {
-    "_id": 88,
-    "ru": "Было не так легко сдать эти экзамены",
-    "en": "It wasn't so easy to pass these exams"
-  },
-  {
-    "_id": 89,
-    "ru": "Результаты совсем не были предсказуемыми",
-    "en": "The results weren't predictable at all"
-  },
-  {
-    "_id": 90,
-    "ru": "Описание не было достаточно точным",
-    "en": "The description wasn't accurate enough"
-  },
-  {
-    "_id": 91,
-    "ru": "Этот результат не был таким предсказуемым",
-    "en": "This result wasn't so predictable"
-  },
-  {
-    "_id": 92,
-    "ru": "Полиция не прибыла немедленно на станцию",
-    "en": "The police didn't arrive at the station immediately"
-  },
-  {
-    "_id": 93,
-    "ru": "Перевод не был достаточно точным",
-    "en": "The translation wasn't accurate enough"
-  },
-  {
-    "_id": 94,
-    "ru": "Я думаю, это не было пустой тратой времени",
-    "en": "I think it wasn't a waste of time"
-  },
-  {
-    "_id": 95,
-    "ru": "У меня не было этой возможности, когда я был ребенком",
-    "en": "I didn't have this opportunity when I was a child"
-  },
-  {
-    "_id": 96,
-    "ru": "Объяснения не были достаточно ясными",
-    "en": "The explanations weren't clear enough"
-  },
-  {
-    "_id": 97,
-    "ru": "Объяснение не казалось таким простым",
-    "en": "The explanation didn't seem so simple"
-  },
-  {
-    "_id": 98,
-    "ru": "Я не хотел смотреть весь фильм",
-    "en": "I didn't want to watch all the movie"
-  },
-  {
-    "_id": 99,
-    "ru": "Эта новость не была столь удивительной",
-    "en": "This news wasn't so surprising"
-  },
-  {
-    "_id": 100,
-    "ru": "Мальчики не были уставшими",
-    "en": "The boys weren't tired"
-  },
-  {
-    "_id": 101,
-    "ru": "Тренировка была совсем не утомительной",
-    "en": "The training wasn't tiring at all"
-  },
-  {
-    "_id": 102,
-    "ru": "Я не хотел тратить время впустую",
-    "en": "I didn't want to waste time"
+    "id": 1,
+    "ru": {
+      "text": "Он не ел рис",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't eat rice",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Мой брат не помог мне",
+      "audio": false
+    },
+    "en": {
+      "text": "My brother didn’t help me",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я не был дома вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't at home yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Они не были со мной в тот момент",
+      "audio": false
+    },
+    "en": {
+      "text": "They weren’t with me at that moment",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Этих денег было недостаточно",
+      "audio": false
+    },
+    "en": {
+      "text": "This money wasn't enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Мальчики не были уставшими",
+      "audio": false
+    },
+    "en": {
+      "text": "The boys weren't tired",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Посылка не была тяжелой",
+      "audio": false
+    },
+    "en": {
+      "text": "The parcel wasn't heavy",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Она не могла ответить на мой звонок",
+      "audio": false
+    },
+    "en": {
+      "text": "She couldn't answer my call",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Он не окончил университет",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't graduate from university",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я не был на работе вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't at work yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Квартира была недостаточно светлой",
+      "audio": false
+    },
+    "en": {
+      "text": "The apartment wasn't light enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Этих денег было недостаточно",
+      "audio": false
+    },
+    "en": {
+      "text": "This money wasn't enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Она не хотела стать учителем",
+      "audio": false
+    },
+    "en": {
+      "text": "She didn't want to become a teacher",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Мы не тратили впустую время",
+      "audio": false
+    },
+    "en": {
+      "text": "We didn't waste time",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Они не пошли на пляж",
+      "audio": false
+    },
+    "en": {
+      "text": "They didn't go to the beach",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Эта компания не принадлежала ему",
+      "audio": false
+    },
+    "en": {
+      "text": "This company didn't belong to him",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Они не хотели переезжать в другую страну",
+      "audio": false
+    },
+    "en": {
+      "text": "They didn't want to move to another country",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Это было совсем не дорого",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't expensive at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он не жил в Соединенных Штатах",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't live in the United States",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Ее не было в университете",
+      "audio": false
+    },
+    "en": {
+      "text": "She wasn't at university",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Мы не ходили на море вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "We didn't go to the sea yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Поездка была совсем не утомительной",
+      "audio": false
+    },
+    "en": {
+      "text": "The trip wasn't tiring at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Я не хотел платить за все",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't want to pay for everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Того времени казалось недостаточно",
+      "audio": false
+    },
+    "en": {
+      "text": "That time didn't seem enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Этой практики мне не было достаточно",
+      "audio": false
+    },
+    "en": {
+      "text": "That practice wasn't enough for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Он не ел рис",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't eat rice",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Это не имело значения",
+      "audio": false
+    },
+    "en": {
+      "text": "It didn't matter",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Рис не был свежим",
+      "audio": false
+    },
+    "en": {
+      "text": "The rice wasn't fresh",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Стиль не был современным",
+      "audio": false
+    },
+    "en": {
+      "text": "The style wasn't modern",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Билеты не были дешевыми",
+      "audio": false
+    },
+    "en": {
+      "text": "The tickets weren't cheap",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Эта вещь не имела значения",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing didn't matter",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Музыкант не был богатым",
+      "audio": false
+    },
+    "en": {
+      "text": "The musician wasn't rich",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Ему не нужна была какая-либо помощь",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't need any help",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Вирус не был опасным",
+      "audio": false
+    },
+    "en": {
+      "text": "The virus wasn't dangerous",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Сумка не была пустой",
+      "audio": false
+    },
+    "en": {
+      "text": "The bag wasn't empty",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Он не был на той вечеринке",
+      "audio": false
+    },
+    "en": {
+      "text": "He wasn't at that party",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я не пошел на работу вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't go to work yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Ребенок не закончил свою домашнюю работу",
+      "audio": false
+    },
+    "en": {
+      "text": "The child didn't finish his homework",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Они не были на пляже",
+      "audio": false
+    },
+    "en": {
+      "text": "They weren't at the beach",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "У меня совсем не было времени",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't have time at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Он не пришел на ту вечеринку",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't come to that party",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Это не было важно для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't important for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я не платил за свое образование",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't pay for my education",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Он не нашел новую работу",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't find a new job",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я не был в Соединенных Штатах в прошлом году",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't in the United States last year",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Машина не была достаточно надежной",
+      "audio": false
+    },
+    "en": {
+      "text": "The car wasn't reliable enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Это не было так неожиданно для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't so unexpected for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Мужчина не выглядел уставшим",
+      "audio": false
+    },
+    "en": {
+      "text": "The man didn't look tired",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Качество было недостаточно хорошим",
+      "audio": false
+    },
+    "en": {
+      "text": "The quality wasn't good enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Учитель не объяснил все правила",
+      "audio": false
+    },
+    "en": {
+      "text": "The teacher didn't explain all the rules",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Это не привлекло внимание людей в начале",
+      "audio": false
+    },
+    "en": {
+      "text": "It didn't attract people's attention in the beginning",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Он не перевел весь текст",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't translate all the text",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Урок не казался таким утомительным",
+      "audio": false
+    },
+    "en": {
+      "text": "The lesson didn't seem so tiring",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Презентация не была достаточно красочной",
+      "audio": false
+    },
+    "en": {
+      "text": "The presentation wasn't colourful enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Эта сумма денег не была достаточно большой",
+      "audio": false
+    },
+    "en": {
+      "text": "This sum of money wasn't big enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Их ответ не был предсказуемым",
+      "audio": false
+    },
+    "en": {
+      "text": "Their answer wasn't predictable",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Это не был неожиданный результат",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't an unexpected result",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я не чувствовал себя уставшим",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't feel tired",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Полиция не была на станции",
+      "audio": false
+    },
+    "en": {
+      "text": "The police weren't at the station",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Полиция не была на этой станции",
+      "audio": false
+    },
+    "en": {
+      "text": "The police weren't at this station",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Полиции не было там",
+      "audio": false
+    },
+    "en": {
+      "text": "The police weren't there",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я не прочел книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't read the book",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Он не читал все эти книги",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't read all these books",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я не читал тот журнал",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't read that magazine",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Полиция не прибыла туда",
+      "audio": false
+    },
+    "en": {
+      "text": "The police didn't arrive there",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Полиция не прибыла туда вовремя",
+      "audio": false
+    },
+    "en": {
+      "text": "The police didn't arrive there on time",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Полиция не прибыла туда вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "The police didn't arrive there yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Мальчик вовсе не был уставшим",
+      "audio": false
+    },
+    "en": {
+      "text": "The boy wasn't tired at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Мальчики совсем не были уставшими",
+      "audio": false
+    },
+    "en": {
+      "text": "The boys weren't tired at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Тот мальчик не был уставшим",
+      "audio": false
+    },
+    "en": {
+      "text": "That boy wasn't tired",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Иллюстрации не были достаточно красочными",
+      "audio": false
+    },
+    "en": {
+      "text": "The illustrations weren't colourful enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Эти иллюстрации были достаточно красочными",
+      "audio": false
+    },
+    "en": {
+      "text": "These illustrations were colourful enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Иллюстрация не была красочной",
+      "audio": false
+    },
+    "en": {
+      "text": "The illustration wasn't colourful",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Урок не был достаточно интересным",
+      "audio": false
+    },
+    "en": {
+      "text": "The lesson wasn't interesting enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Его уроки не были интересными",
+      "audio": false
+    },
+    "en": {
+      "text": "His lessons weren't interesting",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Уроки не были достаточно полезными",
+      "audio": false
+    },
+    "en": {
+      "text": "The lessons weren't useful enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Было не сложно пройти этот тест",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't difficult to pass this test",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Было не легко сдать этот тест",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't easy to pass this test",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Было не так сложно сдать этот экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't so difficult to pass this exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Та новость вовсе не удивила меня",
+      "audio": false
+    },
+    "en": {
+      "text": "That news didn't surprise me at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Та новость не удивила меня",
+      "audio": false
+    },
+    "en": {
+      "text": "That news didn't surprise me",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Та новость вовсе не шокировала их",
+      "audio": false
+    },
+    "en": {
+      "text": "That news didn't shock them at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Результат не был таким неожиданным для нас",
+      "audio": false
+    },
+    "en": {
+      "text": "The result wasn't so unexpected for us",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Результаты не были такими неожиданными для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "The results weren't so unexpected for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Для него это не было так неожиданно",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't so unexpected for him",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Было не так легко сдать экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't so easy to pass the exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Ему было не так легко сдать этот экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't so easy for him to pass this exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Было не так легко сдать эти экзамены",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't so easy to pass these exams",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Результаты совсем не были предсказуемыми",
+      "audio": false
+    },
+    "en": {
+      "text": "The results weren't predictable at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Описание не было достаточно точным",
+      "audio": false
+    },
+    "en": {
+      "text": "The description wasn't accurate enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Этот результат не был таким предсказуемым",
+      "audio": false
+    },
+    "en": {
+      "text": "This result wasn't so predictable",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Полиция не прибыла немедленно на станцию",
+      "audio": false
+    },
+    "en": {
+      "text": "The police didn't arrive at the station immediately",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Перевод не был достаточно точным",
+      "audio": false
+    },
+    "en": {
+      "text": "The translation wasn't accurate enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Я думаю, это не было пустой тратой времени",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it wasn't a waste of time",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "У меня не было этой возможности, когда я был ребенком",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't have this opportunity when I was a child",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Объяснения не были достаточно ясными",
+      "audio": false
+    },
+    "en": {
+      "text": "The explanations weren't clear enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Объяснение не казалось таким простым",
+      "audio": false
+    },
+    "en": {
+      "text": "The explanation didn't seem so simple",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Я не хотел смотреть весь фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't want to watch all the movie",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Эта новость не была столь удивительной",
+      "audio": false
+    },
+    "en": {
+      "text": "This news wasn't so surprising",
+      "audio": false
+    }
+  },
+  {
+    "id": 100,
+    "ru": {
+      "text": "Мальчики не были уставшими",
+      "audio": false
+    },
+    "en": {
+      "text": "The boys weren't tired",
+      "audio": false
+    }
+  },
+  {
+    "id": 101,
+    "ru": {
+      "text": "Тренировка была совсем не утомительной",
+      "audio": false
+    },
+    "en": {
+      "text": "The training wasn't tiring at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 102,
+    "ru": {
+      "text": "Я не хотел тратить время впустую",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't want to waste time",
+      "audio": false
+    }
   }
 ]

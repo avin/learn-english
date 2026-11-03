@@ -1,207 +1,453 @@
 [
   {
-    "_id": 1,
-    "ru": "Это действительно было интересно тебе?",
-    "en": "Was it really interesting for you?"
+    "id": 1,
+    "ru": {
+      "text": "Это действительно было интересно тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it really interesting for you?",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Он работал инструктором?",
-    "en": "Did he work as an instructor?"
+    "id": 2,
+    "ru": {
+      "text": "Он работал инструктором?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did he work as an instructor?",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Почему это было так интересно тебе?",
-    "en": "Why was it so interesting for you?"
+    "id": 3,
+    "ru": {
+      "text": "Почему это было так интересно тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was it so interesting for you?",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Это звучало действительно интересно?",
-    "en": "Did it sound really interesting?"
+    "id": 4,
+    "ru": {
+      "text": "Это звучало действительно интересно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did it sound really interesting?",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Ты чувствовал себя действительно счастливым?",
-    "en": "Did you feel really happy?"
+    "id": 5,
+    "ru": {
+      "text": "Ты чувствовал себя действительно счастливым?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you feel really happy?",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Он был инструктором?",
-    "en": "Was he an instructor?"
+    "id": 6,
+    "ru": {
+      "text": "Он был инструктором?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was he an instructor?",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Когда ты был там?",
-    "en": "When were you there?"
+    "id": 7,
+    "ru": {
+      "text": "Когда ты был там?",
+      "audio": false
+    },
+    "en": {
+      "text": "When were you there?",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Ты купил эти билеты?",
-    "en": "Did you buy these tickets?"
+    "id": 8,
+    "ru": {
+      "text": "Ты купил эти билеты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you buy these tickets?",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Она была продавцом?",
-    "en": "Was she a shop assistant?"
+    "id": 9,
+    "ru": {
+      "text": "Она была продавцом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was she a shop assistant?",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Ты закрыл окно?",
-    "en": "Did you close the window?"
+    "id": 10,
+    "ru": {
+      "text": "Ты закрыл окно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you close the window?",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Эта информация была действительно полезной для тебя?",
-    "en": "Was this information really useful for you?"
+    "id": 11,
+    "ru": {
+      "text": "Эта информация была действительно полезной для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was this information really useful for you?",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Это было на кровати?",
-    "en": "Was it on the bed?"
+    "id": 12,
+    "ru": {
+      "text": "Это было на кровати?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it on the bed?",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Ты хотел найти новую работу?",
-    "en": "Did you want to find a new job?"
+    "id": 13,
+    "ru": {
+      "text": "Ты хотел найти новую работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you want to find a new job?",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Это было скучно?",
-    "en": "Was it boring?"
+    "id": 14,
+    "ru": {
+      "text": "Это было скучно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it boring?",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Ты был действительно счастлив?",
-    "en": "Were you really happy?"
+    "id": 15,
+    "ru": {
+      "text": "Ты был действительно счастлив?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you really happy?",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Это было действительно странно?",
-    "en": "Was it really strange?"
+    "id": 16,
+    "ru": {
+      "text": "Это было действительно странно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it really strange?",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Тебе действительно понравился этот фильм?",
-    "en": "Did you really like this movie?"
+    "id": 17,
+    "ru": {
+      "text": "Тебе действительно понравился этот фильм?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you really like this movie?",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Это было действительно лучше?",
-    "en": "Was it really better?"
+    "id": 18,
+    "ru": {
+      "text": "Это было действительно лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it really better?",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Это был полезный пример?",
-    "en": "Was it a useful example?"
+    "id": 19,
+    "ru": {
+      "text": "Это был полезный пример?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it a useful example?",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Это было действительно возможно?",
-    "en": "Was it really possible?"
+    "id": 20,
+    "ru": {
+      "text": "Это было действительно возможно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it really possible?",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Почему это интересовало тебя так сильно?",
-    "en": "Why did it interest you so much?"
+    "id": 21,
+    "ru": {
+      "text": "Почему это интересовало тебя так сильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did it interest you so much?",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Почему это стоило так дорого?",
-    "en": "Why did it cost so much?"
+    "id": 22,
+    "ru": {
+      "text": "Почему это стоило так дорого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did it cost so much?",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Это был высокий уровень?",
-    "en": "Was it a high level?"
+    "id": 23,
+    "ru": {
+      "text": "Это был высокий уровень?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it a high level?",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Почему это было так дорого?",
-    "en": "Why was it so expensive?"
+    "id": 24,
+    "ru": {
+      "text": "Почему это было так дорого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was it so expensive?",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Он был согласен сделать это?",
-    "en": "Did he agree to do it?"
+    "id": 25,
+    "ru": {
+      "text": "Он был согласен сделать это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did he agree to do it?",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Это лежало на кровати?",
-    "en": "Did it lie on the bed?"
+    "id": 26,
+    "ru": {
+      "text": "Это лежало на кровати?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did it lie on the bed?",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Тебе понравился этот пример?",
-    "en": "Did you like this example?"
+    "id": 27,
+    "ru": {
+      "text": "Тебе понравился этот пример?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you like this example?",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Это было летом?",
-    "en": "Was it in summer?"
+    "id": 28,
+    "ru": {
+      "text": "Это было летом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it in summer?",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Это казалось действительно странным?",
-    "en": "Did it seem really strange?"
+    "id": 29,
+    "ru": {
+      "text": "Это казалось действительно странным?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did it seem really strange?",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Окно было закрыто?",
-    "en": "Was the window closed?"
+    "id": 30,
+    "ru": {
+      "text": "Окно было закрыто?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was the window closed?",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Ты нашел эту информацию?",
-    "en": "Did you find this information?"
+    "id": 31,
+    "ru": {
+      "text": "Ты нашел эту информацию?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you find this information?",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Это казалось действительно возможным?",
-    "en": "Did it seem really possible?"
+    "id": 32,
+    "ru": {
+      "text": "Это казалось действительно возможным?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did it seem really possible?",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Это действительно интересовало тебя?",
-    "en": "Did it really interest you?"
+    "id": 33,
+    "ru": {
+      "text": "Это действительно интересовало тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did it really interest you?",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Кто был на вечеринке?",
-    "en": "Who was at the party?"
+    "id": 34,
+    "ru": {
+      "text": "Кто был на вечеринке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was at the party?",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Она работала продавцом ?",
-    "en": "Did she work as a shop assistant?"
+    "id": 35,
+    "ru": {
+      "text": "Она работала продавцом ?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did she work as a shop assistant?",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Дверь была открыта?",
-    "en": "Was the door open?"
+    "id": 36,
+    "ru": {
+      "text": "Дверь была открыта?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was the door open?",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Это произошло прошлым летом?",
-    "en": "Did it happen last summer?"
+    "id": 37,
+    "ru": {
+      "text": "Это произошло прошлым летом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did it happen last summer?",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Это казалось очень высоким уровнем?",
-    "en": "Did it seem a very high level?"
+    "id": 38,
+    "ru": {
+      "text": "Это казалось очень высоким уровнем?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did it seem a very high level?",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Когда ты ходил туда в последний раз?",
-    "en": "When did you go there last time?"
+    "id": 39,
+    "ru": {
+      "text": "Когда ты ходил туда в последний раз?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you go there last time?",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Это была хорошо оплачиваемая работа?",
-    "en": "Was it a well-paid job?"
+    "id": 40,
+    "ru": {
+      "text": "Это была хорошо оплачиваемая работа?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it a well-paid job?",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Ты открыл дверь?",
-    "en": "Did you open the door?"
+    "id": 41,
+    "ru": {
+      "text": "Ты открыл дверь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you open the door?",
+      "audio": false
+    }
   }
 ]

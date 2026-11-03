@@ -1,252 +1,552 @@
 [
   {
-    "_id": 1,
-    "ru": "Я думаю, что счастье значит больше, чем деньги",
-    "en": "I think that happiness matters more than money"
+    "id": 1,
+    "ru": {
+      "text": "Я думаю, что счастье значит больше, чем деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that happiness matters more than money",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Любовь — это прекрасное чувство",
-    "en": "Love is a wonderful feeling"
+    "id": 2,
+    "ru": {
+      "text": "Любовь — это прекрасное чувство",
+      "audio": false
+    },
+    "en": {
+      "text": "Love is a wonderful feeling",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Я часто слышу, что время – деньги",
-    "en": "I often hear that time is money"
+    "id": 3,
+    "ru": {
+      "text": "Я часто слышу, что время – деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "I often hear that time is money",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Погода чудесная сейчас",
-    "en": "The weather is wonderful now"
+    "id": 4,
+    "ru": {
+      "text": "Погода чудесная сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "The weather is wonderful now",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Видео очень смешное",
-    "en": "The video is very funny"
+    "id": 5,
+    "ru": {
+      "text": "Видео очень смешное",
+      "audio": false
+    },
+    "en": {
+      "text": "The video is very funny",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Уровень очень низкий",
-    "en": "The level is very low"
+    "id": 6,
+    "ru": {
+      "text": "Уровень очень низкий",
+      "audio": false
+    },
+    "en": {
+      "text": "The level is very low",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Это очень низкий уровень",
-    "en": "It's a very low level"
+    "id": 7,
+    "ru": {
+      "text": "Это очень низкий уровень",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very low level",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Уровень очень высокий",
-    "en": "The level is very high"
+    "id": 8,
+    "ru": {
+      "text": "Уровень очень высокий",
+      "audio": false
+    },
+    "en": {
+      "text": "The level is very high",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Деньги важны",
-    "en": "Money is important"
+    "id": 9,
+    "ru": {
+      "text": "Деньги важны",
+      "audio": false
+    },
+    "en": {
+      "text": "Money is important",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Этот курс такой интенсивный",
-    "en": "This course is so intensive"
+    "id": 10,
+    "ru": {
+      "text": "Этот курс такой интенсивный",
+      "audio": false
+    },
+    "en": {
+      "text": "This course is so intensive",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Время — деньги",
-    "en": "Time is money"
+    "id": 11,
+    "ru": {
+      "text": "Время — деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "Time is money",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Еда очень дорогая в наше время",
-    "en": "Food is very expensive nowadays"
+    "id": 12,
+    "ru": {
+      "text": "Еда очень дорогая в наше время",
+      "audio": false
+    },
+    "en": {
+      "text": "Food is very expensive nowadays",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Дети дома",
-    "en": "The children are at home"
+    "id": 13,
+    "ru": {
+      "text": "Дети дома",
+      "audio": false
+    },
+    "en": {
+      "text": "The children are at home",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "У меня отличный результат",
-    "en": "I have an excellent result"
+    "id": 14,
+    "ru": {
+      "text": "У меня отличный результат",
+      "audio": false
+    },
+    "en": {
+      "text": "I have an excellent result",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Банк закрыт",
-    "en": "The bank is closed"
+    "id": 15,
+    "ru": {
+      "text": "Банк закрыт",
+      "audio": false
+    },
+    "en": {
+      "text": "The bank is closed",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Эти билеты очень дешевые",
-    "en": "These tickets are very cheap"
+    "id": 16,
+    "ru": {
+      "text": "Эти билеты очень дешевые",
+      "audio": false
+    },
+    "en": {
+      "text": "These tickets are very cheap",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я вижу, что у меня отличные результаты",
-    "en": "I see that I have excellent results"
+    "id": 17,
+    "ru": {
+      "text": "Я вижу, что у меня отличные результаты",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that I have excellent results",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Еда такая вкусная",
-    "en": "The food is so tasty"
+    "id": 18,
+    "ru": {
+      "text": "Еда такая вкусная",
+      "audio": false
+    },
+    "en": {
+      "text": "The food is so tasty",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Это низкий уровень",
-    "en": "It's a low level"
+    "id": 19,
+    "ru": {
+      "text": "Это низкий уровень",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a low level",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Этот билет очень дорогой",
-    "en": "This ticket is very expensive"
+    "id": 20,
+    "ru": {
+      "text": "Этот билет очень дорогой",
+      "audio": false
+    },
+    "en": {
+      "text": "This ticket is very expensive",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Книга очень скучная",
-    "en": "The book is very boring"
+    "id": 21,
+    "ru": {
+      "text": "Книга очень скучная",
+      "audio": false
+    },
+    "en": {
+      "text": "The book is very boring",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Мне кажется, что это блестящая идея",
-    "en": "It's seems to me that it's a brilliant idea"
+    "id": 22,
+    "ru": {
+      "text": "Мне кажется, что это блестящая идея",
+      "audio": false
+    },
+    "en": {
+      "text": "It's seems to me that it's a brilliant idea",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Это очень интенсивный курс",
-    "en": "It's a very intensive course"
+    "id": 23,
+    "ru": {
+      "text": "Это очень интенсивный курс",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very intensive course",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Эта еда очень вкусная",
-    "en": "This food is very tasty"
+    "id": 24,
+    "ru": {
+      "text": "Эта еда очень вкусная",
+      "audio": false
+    },
+    "en": {
+      "text": "This food is very tasty",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Результат очень хороший",
-    "en": "The result is very good"
+    "id": 25,
+    "ru": {
+      "text": "Результат очень хороший",
+      "audio": false
+    },
+    "en": {
+      "text": "The result is very good",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Этот банк открыт",
-    "en": "This bank is open"
+    "id": 26,
+    "ru": {
+      "text": "Этот банк открыт",
+      "audio": false
+    },
+    "en": {
+      "text": "This bank is open",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Это отличный результат",
-    "en": "It's an excellent result"
+    "id": 27,
+    "ru": {
+      "text": "Это отличный результат",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an excellent result",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Это интенсивный курс",
-    "en": "It's an intensive course"
+    "id": 28,
+    "ru": {
+      "text": "Это интенсивный курс",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an intensive course",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Билеты слишком дорогие",
-    "en": "The tickets are too expensive"
+    "id": 29,
+    "ru": {
+      "text": "Билеты слишком дорогие",
+      "audio": false
+    },
+    "en": {
+      "text": "The tickets are too expensive",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Это здание очень высокое",
-    "en": "This building is very high"
+    "id": 30,
+    "ru": {
+      "text": "Это здание очень высокое",
+      "audio": false
+    },
+    "en": {
+      "text": "This building is very high",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Этот результат очень хороший",
-    "en": "This result is very good"
+    "id": 31,
+    "ru": {
+      "text": "Этот результат очень хороший",
+      "audio": false
+    },
+    "en": {
+      "text": "This result is very good",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Этот магазин закрыт",
-    "en": "That shop is closed"
+    "id": 32,
+    "ru": {
+      "text": "Этот магазин закрыт",
+      "audio": false
+    },
+    "en": {
+      "text": "That shop is closed",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Видео такое смешное",
-    "en": "The video is so funny"
+    "id": 33,
+    "ru": {
+      "text": "Видео такое смешное",
+      "audio": false
+    },
+    "en": {
+      "text": "The video is so funny",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Люди часто говорят, что время — деньги",
-    "en": "People often say that time is money"
+    "id": 34,
+    "ru": {
+      "text": "Люди часто говорят, что время — деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "People often say that time is money",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Эта книга действительно скучная",
-    "en": "This book is really boring"
+    "id": 35,
+    "ru": {
+      "text": "Эта книга действительно скучная",
+      "audio": false
+    },
+    "en": {
+      "text": "This book is really boring",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Я знаю, что еда очень дорогая в наше время",
-    "en": "I know that food is expensive nowadays"
+    "id": 36,
+    "ru": {
+      "text": "Я знаю, что еда очень дорогая в наше время",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that food is expensive nowadays",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Погода хорошая",
-    "en": "The weather is fine"
+    "id": 37,
+    "ru": {
+      "text": "Погода хорошая",
+      "audio": false
+    },
+    "en": {
+      "text": "The weather is fine",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Здание очень высокое",
-    "en": "The building is very high"
+    "id": 38,
+    "ru": {
+      "text": "Здание очень высокое",
+      "audio": false
+    },
+    "en": {
+      "text": "The building is very high",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Машина новая",
-    "en": "The car is new"
+    "id": 39,
+    "ru": {
+      "text": "Машина новая",
+      "audio": false
+    },
+    "en": {
+      "text": "The car is new",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Это старый дом",
-    "en": "It's an old house"
+    "id": 40,
+    "ru": {
+      "text": "Это старый дом",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an old house",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Еда очень вкусная",
-    "en": "The food is very tasty"
+    "id": 41,
+    "ru": {
+      "text": "Еда очень вкусная",
+      "audio": false
+    },
+    "en": {
+      "text": "The food is very tasty",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Это новая машина",
-    "en": "It's a new car"
+    "id": 42,
+    "ru": {
+      "text": "Это новая машина",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a new car",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Я согласен, что деньги важны",
-    "en": "I agree that money is important"
+    "id": 43,
+    "ru": {
+      "text": "Я согласен, что деньги важны",
+      "audio": false
+    },
+    "en": {
+      "text": "I agree that money is important",
+      "audio": false
+    }
   },
   {
-    "_id": 44,
-    "ru": "Это очень высокий уровень",
-    "en": "It's a very high level"
+    "id": 44,
+    "ru": {
+      "text": "Это очень высокий уровень",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very high level",
+      "audio": false
+    }
   },
   {
-    "_id": 45,
-    "ru": "Билеты очень дешевые",
-    "en": "The tickets are very cheap"
+    "id": 45,
+    "ru": {
+      "text": "Билеты очень дешевые",
+      "audio": false
+    },
+    "en": {
+      "text": "The tickets are very cheap",
+      "audio": false
+    }
   },
   {
-    "_id": 46,
-    "ru": "Это высокий уровень",
-    "en": "It's a high level"
+    "id": 46,
+    "ru": {
+      "text": "Это высокий уровень",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a high level",
+      "audio": false
+    }
   },
   {
-    "_id": 47,
-    "ru": "Магазин открыт",
-    "en": "The shop is open"
+    "id": 47,
+    "ru": {
+      "text": "Магазин открыт",
+      "audio": false
+    },
+    "en": {
+      "text": "The shop is open",
+      "audio": false
+    }
   },
   {
-    "_id": 48,
-    "ru": "Эта машина старая",
-    "en": "This car is old"
+    "id": 48,
+    "ru": {
+      "text": "Эта машина старая",
+      "audio": false
+    },
+    "en": {
+      "text": "This car is old",
+      "audio": false
+    }
   },
   {
-    "_id": 49,
-    "ru": "Я думаю, что это блестящая идея",
-    "en": "I think that it's a brilliant idea"
+    "id": 49,
+    "ru": {
+      "text": "Я думаю, что это блестящая идея",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that it's a brilliant idea",
+      "audio": false
+    }
   },
   {
-    "_id": 50,
-    "ru": "Счастье — это важнее, чем деньги",
-    "en": "Happiness is more important than money"
+    "id": 50,
+    "ru": {
+      "text": "Счастье — это важнее, чем деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "Happiness is more important than money",
+      "audio": false
+    }
   }
 ]

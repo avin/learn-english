@@ -1,122 +1,266 @@
 [
   {
-    "_id": 1,
-    "ru": "Все мы видим, что этот бизнес расширяется сейчас",
-    "en": "We all see that this business is expanding now"
+    "id": 1,
+    "ru": {
+      "text": "Все мы видим, что этот бизнес расширяется сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "We all see that this business is expanding now",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Когда я вошел в комнату, он кричал на кого-то",
-    "en": "When I entered the room, he was shouting at someone"
+    "id": 2,
+    "ru": {
+      "text": "Когда я вошел в комнату, он кричал на кого-то",
+      "audio": false
+    },
+    "en": {
+      "text": "When I entered the room, he was shouting at someone",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Сколько денег было пожертвовано?",
-    "en": "How much money was donated?"
+    "id": 3,
+    "ru": {
+      "text": "Сколько денег было пожертвовано?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much money was donated?",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я только что перепутал эти слова",
-    "en": "I've just confused these words"
+    "id": 4,
+    "ru": {
+      "text": "Я только что перепутал эти слова",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just confused these words",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Он сказал, что они строят этот дом два месяца",
-    "en": "He said that they had been building this house for two months"
+    "id": 5,
+    "ru": {
+      "text": "Он сказал, что они строят этот дом два месяца",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that they had been building this house for two months",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Сказали, что его застрелили",
-    "en": "It was said that he had been shot"
+    "id": 6,
+    "ru": {
+      "text": "Сказали, что его застрелили",
+      "audio": false
+    },
+    "en": {
+      "text": "It was said that he had been shot",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Он сказал, что здание было разрушено в том году",
-    "en": "He said that the building had been destroyed that year"
+    "id": 7,
+    "ru": {
+      "text": "Он сказал, что здание было разрушено в том году",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that the building had been destroyed that year",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Что впечатлило тебя больше всего?",
-    "en": "What impressed you most of all?"
+    "id": 8,
+    "ru": {
+      "text": "Что впечатлило тебя больше всего?",
+      "audio": false
+    },
+    "en": {
+      "text": "What impressed you most of all?",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Это преступление было предотвращено полицией",
-    "en": "This crime was prevented by the police"
+    "id": 9,
+    "ru": {
+      "text": "Это преступление было предотвращено полицией",
+      "audio": false
+    },
+    "en": {
+      "text": "This crime was prevented by the police",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Подарок был обернут очень тщательно",
-    "en": "The present was wrapped very carefully"
+    "id": 10,
+    "ru": {
+      "text": "Подарок был обернут очень тщательно",
+      "audio": false
+    },
+    "en": {
+      "text": "The present was wrapped very carefully",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Меня только что поздравили",
-    "en": "I have just been congratulated"
+    "id": 11,
+    "ru": {
+      "text": "Меня только что поздравили",
+      "audio": false
+    },
+    "en": {
+      "text": "I have just been congratulated",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Он сказал, что провалил тест",
-    "en": "He said that he had failed the test"
+    "id": 12,
+    "ru": {
+      "text": "Он сказал, что провалил тест",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had failed the test",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Такие проблемы часто игнорируются",
-    "en": "Such problems are often ignored"
+    "id": 13,
+    "ru": {
+      "text": "Такие проблемы часто игнорируются",
+      "audio": false
+    },
+    "en": {
+      "text": "Such problems are often ignored",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Они решили исследовать остров",
-    "en": "They decided to explore the island"
+    "id": 14,
+    "ru": {
+      "text": "Они решили исследовать остров",
+      "audio": false
+    },
+    "en": {
+      "text": "They decided to explore the island",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Их арестовала полиция",
-    "en": "They were arrested by the police"
+    "id": 15,
+    "ru": {
+      "text": "Их арестовала полиция",
+      "audio": false
+    },
+    "en": {
+      "text": "They were arrested by the police",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Я пользуюсь этим приложением около года",
-    "en": "I've been using this application for about a year"
+    "id": 16,
+    "ru": {
+      "text": "Я пользуюсь этим приложением около года",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been using this application for about a year",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Ему только что дали эти деньги",
-    "en": "He has just been given this money"
+    "id": 17,
+    "ru": {
+      "text": "Ему только что дали эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "He has just been given this money",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Я просто хотел высказать свою точку зрения",
-    "en": "I just wanted to express my point of view"
+    "id": 18,
+    "ru": {
+      "text": "Я просто хотел высказать свою точку зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "I just wanted to express my point of view",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Очень глубокая яма была вырыта кем-то",
-    "en": "A very deep hole was dug by someone"
+    "id": 19,
+    "ru": {
+      "text": "Очень глубокая яма была вырыта кем-то",
+      "audio": false
+    },
+    "en": {
+      "text": "A very deep hole was dug by someone",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Я родился в этом городе",
-    "en": "I was born in this city"
+    "id": 20,
+    "ru": {
+      "text": "Я родился в этом городе",
+      "audio": false
+    },
+    "en": {
+      "text": "I was born in this city",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Это лекарство было прописано моим врачом",
-    "en": "This medicine was prescribed by my doctor"
+    "id": 21,
+    "ru": {
+      "text": "Это лекарство было прописано моим врачом",
+      "audio": false
+    },
+    "en": {
+      "text": "This medicine was prescribed by my doctor",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Добро пожаловать на эту вечеринку!",
-    "en": "Welcome to this party!"
+    "id": 22,
+    "ru": {
+      "text": "Добро пожаловать на эту вечеринку!",
+      "audio": false
+    },
+    "en": {
+      "text": "Welcome to this party!",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Он сказал, что еще не зарегистрировался",
-    "en": "He said that he hadn't registered yet"
+    "id": 23,
+    "ru": {
+      "text": "Он сказал, что еще не зарегистрировался",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he hadn't registered yet",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Вам нужно перейти улицу вон там",
-    "en": "You need to cross the street over there"
+    "id": 24,
+    "ru": {
+      "text": "Вам нужно перейти улицу вон там",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to cross the street over there",
+      "audio": false
+    }
   }
 ]

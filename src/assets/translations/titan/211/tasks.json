@@ -1,412 +1,904 @@
 [
   {
-    "_id": 1,
-    "ru": "Все были так доброжелательны к нам",
-    "en": "Everyone was so friendly towards us"
-  },
-  {
-    "_id": 2,
-    "ru": "Эта квартира подходит для небольшой семьи",
-    "en": "This apartment is suitable for a small family"
-  },
-  {
-    "_id": 3,
-    "ru": "Он говорит, что ему наскучила его нынешняя работа",
-    "en": "He says that he got bored with his present job"
-  },
-  {
-    "_id": 4,
-    "ru": "Он предоставляет нам очень ценную информацию",
-    "en": "He provides us with very valuable information"
-  },
-  {
-    "_id": 5,
-    "ru": "Этот парень действительно без ума от футбола",
-    "en": "This guy is really crazy about football"
-  },
-  {
-    "_id": 6,
-    "ru": "Я был в восторге от такого результата",
-    "en": "I was delighted by this result"
-  },
-  {
-    "_id": 7,
-    "ru": "Он сильно зависит от своих родителей",
-    "en": "He is heavily dependent on his parents"
-  },
-  {
-    "_id": 8,
-    "ru": "Они ограничивают свободу слова и самовыражения",
-    "en": "They restrict freedom of speech and expression"
-  },
-  {
-    "_id": 9,
-    "ru": "Это место не кажется мне знакомым",
-    "en": "This place doesn't seem familiar to me"
-  },
-  {
-    "_id": 10,
-    "ru": "Он очень оптимистичен насчет будущего компании",
-    "en": "He is very optimistic about the future of the company"
-  },
-  {
-    "_id": 11,
-    "ru": "Я действительно сожалею о беспорядке",
-    "en": "I am really sorry for the mess"
-  },
-  {
-    "_id": 12,
-    "ru": "Эта одежда подходит для холодной погоды?",
-    "en": "Are these clothes suitable for cold weather?"
-  },
-  {
-    "_id": 13,
-    "ru": "Они обеспечивают эту страну нефтью и газом",
-    "en": "They provide this country with oil and gas"
-  },
-  {
-    "_id": 14,
-    "ru": "Извини за опоздание",
-    "en": "I'm sorry for being late"
-  },
-  {
-    "_id": 15,
-    "ru": "Они за свободу слова",
-    "en": "They are for freedom of speech"
-  },
-  {
-    "_id": 16,
-    "ru": "Извини, что пришел позже",
-    "en": "I'm sorry for coming later"
-  },
-  {
-    "_id": 17,
-    "ru": "Я абсолютно уверен в этом",
-    "en": "I am absolutely certain about it"
-  },
-  {
-    "_id": 18,
-    "ru": "Есть опасность пожара",
-    "en": "There is danger of a fire"
-  },
-  {
-    "_id": 19,
-    "ru": "Он в ужасе от этой мысли",
-    "en": "He is terrified at this thought"
-  },
-  {
-    "_id": 20,
-    "ru": "Он действительно в восторге от новостей",
-    "en": "He is really delighted by the news"
-  },
-  {
-    "_id": 21,
-    "ru": "Мне наскучил фильм",
-    "en": "I was bored with the movie"
-  },
-  {
-    "_id": 22,
-    "ru": "Есть опасность новых протестов",
-    "en": "There is a danger of new protests"
-  },
-  {
-    "_id": 23,
-    "ru": "Он действительно без ума от нее",
-    "en": "He is really crazy about her"
-  },
-  {
-    "_id": 24,
-    "ru": "Ты знаком с этой теорией?",
-    "en": "Are you familiar with this theory?"
-  },
-  {
-    "_id": 25,
-    "ru": "Она в ужасе от пауков",
-    "en": "She is terrified of spiders"
-  },
-  {
-    "_id": 26,
-    "ru": "Дом не подходит для такой большой семьи",
-    "en": "The house isn't suitable for such a large family"
-  },
-  {
-    "_id": 27,
-    "ru": "Эта песня кажется мне знакомой",
-    "en": "This song seems familiar to me"
-  },
-  {
-    "_id": 28,
-    "ru": "Я был действительно раздражен его замечаниями",
-    "en": "I was really annoyed with his remarks"
-  },
-  {
-    "_id": 29,
-    "ru": "Мне очень быстро надоел тот урок",
-    "en": "I got bored with that lesson very quickly"
-  },
-  {
-    "_id": 30,
-    "ru": "Он хочет найти подходящего человека для этой работы",
-    "en": "He wants to find a suitable person for this job"
-  },
-  {
-    "_id": 31,
-    "ru": "Он известен своей честностью",
-    "en": "He is known for his honesty"
-  },
-  {
-    "_id": 32,
-    "ru": "Он очень дружелюбен к нам",
-    "en": "He is very friendly towards us"
-  },
-  {
-    "_id": 33,
-    "ru": "Существует опасность другого кризиса",
-    "en": "There is a danger of another crisis"
-  },
-  {
-    "_id": 34,
-    "ru": "Этот город известен своей богатой историей",
-    "en": "This city is known for its rich history"
-  },
-  {
-    "_id": 35,
-    "ru": "Я очень оптимистично настроен по поводу этого проекта",
-    "en": "I feel very optimistic about this project"
-  },
-  {
-    "_id": 36,
-    "ru": "Этот фильм не подходит для детей",
-    "en": "This movie isn't suitable for children"
-  },
-  {
-    "_id": 37,
-    "ru": "Эта страна известна своими обычаями и традициями",
-    "en": "This country is known for its customs and traditions"
-  },
-  {
-    "_id": 38,
-    "ru": "Он был в ужасе от мысли потерять все свои деньги",
-    "en": "He was terrified at the thought of losing all his money"
-  },
-  {
-    "_id": 39,
-    "ru": "Я абсолютно рад это слышать",
-    "en": "I am absolutely delighted to hear it"
-  },
-  {
-    "_id": 40,
-    "ru": "Мне бы не хотелось быть сильно зависимым от этого",
-    "en": "I wouldn't like to be heavily dependent on it"
-  },
-  {
-    "_id": 41,
-    "ru": "Я никогда в жизни не был так уверен",
-    "en": "I have never been so certain in my life"
-  },
-  {
-    "_id": 42,
-    "ru": "Мне действительно жаль, что я тебя расстроил",
-    "en": "I'm really sorry for upsetting you"
-  },
-  {
-    "_id": 43,
-    "ru": "Я абсолютно рад быть здесь",
-    "en": "I am absolutely delighted to be here"
-  },
-  {
-    "_id": 44,
-    "ru": "У тебя никогда не бывает нехватки энтузиазма",
-    "en": "You never have a lack of enthusiasm"
-  },
-  {
-    "_id": 45,
-    "ru": "Их свобода передвижения ограничена",
-    "en": "Their freedom of movement is restricted"
-  },
-  {
-    "_id": 46,
-    "ru": "Чем известен этот певец?",
-    "en": "What is this singer known for?"
-  },
-  {
-    "_id": 47,
-    "ru": "Этот певец известен той песней",
-    "en": "This singer is known for that song"
-  },
-  {
-    "_id": 48,
-    "ru": "Чем известен этот актер?",
-    "en": "What is this actor known for?"
-  },
-  {
-    "_id": 49,
-    "ru": "Мне наскучило сидеть дома",
-    "en": "I got bored with staying at home"
-  },
-  {
-    "_id": 50,
-    "ru": "Что ей наскучило?",
-    "en": "What is she bored with?"
-  },
-  {
-    "_id": 51,
-    "ru": "Мне наскучило заниматься домашними делами",
-    "en": "I got bored with doing housework"
-  },
-  {
-    "_id": 52,
-    "ru": "Он был в ужасе при мысли об одиночестве",
-    "en": "He was terrified at the thought of loneliness"
-  },
-  {
-    "_id": 53,
-    "ru": "Она была в ужасе при мысли о потере своих денег",
-    "en": "She was terrified at the thought of losing her money"
-  },
-  {
-    "_id": 54,
-    "ru": "Я в ужасе от этой мысли",
-    "en": "I am terrified at this thought"
-  },
-  {
-    "_id": 55,
-    "ru": "Мы видим их очевидную нехватку знаний",
-    "en": "We see their apparent lack of knowledge"
-  },
-  {
-    "_id": 56,
-    "ru": "У этого студента нехватка уверенности в себе",
-    "en": "This student has a lack of confidence"
-  },
-  {
-    "_id": 57,
-    "ru": "Он был раздражен такой плохой погодой",
-    "en": "He was annoyed by such bad weather"
-  },
-  {
-    "_id": 58,
-    "ru": "Чем они так раздражены?",
-    "en": "What are they so annoyed with?"
-  },
-  {
-    "_id": 59,
-    "ru": "Я был действительно раздражен его поведением",
-    "en": "I was really annoyed with his behaviour"
-  },
-  {
-    "_id": 60,
-    "ru": "Я абсолютно рад тебя видеть",
-    "en": "I am absolutely delighted to see you"
-  },
-  {
-    "_id": 61,
-    "ru": "Я абсолютно счастлив быть там",
-    "en": "I am absolutely delighted to be there"
-  },
-  {
-    "_id": 62,
-    "ru": "Она абсолютно счастлива это слышать",
-    "en": "She is absolutely delighted to hear it"
-  },
-  {
-    "_id": 63,
-    "ru": "Он предоставил нам все необходимое оборудование",
-    "en": "He provided us with all the necessary equipment"
-  },
-  {
-    "_id": 64,
-    "ru": "Я немного знаком с ним",
-    "en": "I am a bit familiar with him"
-  },
-  {
-    "_id": 65,
-    "ru": "Кто тебе кажется знакомым?",
-    "en": "Who seems familiar to you?"
-  },
-  {
-    "_id": 66,
-    "ru": "Этот фильм кажется мне знакомым",
-    "en": "This movie seems familiar to me"
-  },
-  {
-    "_id": 67,
-    "ru": "Чем известно это место?",
-    "en": "What is this place known for?"
-  },
-  {
-    "_id": 68,
-    "ru": "Этот город известен своими традициями",
-    "en": "This city is known for its traditions"
-  },
-  {
-    "_id": 69,
-    "ru": "Он известен своей добротой",
-    "en": "He is known for his kindness"
-  },
-  {
-    "_id": 70,
-    "ru": "Нам дана свобода выбора",
-    "en": "We are given freedom of choice"
-  },
-  {
-    "_id": 71,
-    "ru": "Наша свобода передвижения ограничена",
-    "en": "Our freedom of movement is restricted"
-  },
-  {
-    "_id": 72,
-    "ru": "Нам дана свобода передвижения",
-    "en": "We are given freedom of movement"
-  },
-  {
-    "_id": 73,
-    "ru": "Я был абсолютно в восторге от результата",
-    "en": "I was absolutely delighted by the result"
-  },
-  {
-    "_id": 74,
-    "ru": "Ей наскучило заниматься домашним хозяйством",
-    "en": "She got bored with doing housework"
-  },
-  {
-    "_id": 75,
-    "ru": "Что кажется тебе знакомым?",
-    "en": "What seems familiar to you?"
-  },
-  {
-    "_id": 76,
-    "ru": "Мне действительно жаль, что я ранил твои чувства",
-    "en": "I am really sorry for hurting your feelings"
-  },
-  {
-    "_id": 77,
-    "ru": "Чем она так раздражена?",
-    "en": "What is she so annoyed with?"
-  },
-  {
-    "_id": 78,
-    "ru": "Я уверен, что он будет очень рад видеть тебя",
-    "en": "I'm sure that he will be absolutely delighted to see you"
-  },
-  {
-    "_id": 79,
-    "ru": "Тебе наскучило делать домашнее задание?",
-    "en": "Are you bored with doing homework?"
-  },
-  {
-    "_id": 80,
-    "ru": "Что тебе наскучило?",
-    "en": "What are you bored with?"
-  },
-  {
-    "_id": 81,
-    "ru": "Свобода слова и самовыражения ограничена",
-    "en": "Freedom of speech and expression is restricted"
-  },
-  {
-    "_id": 82,
-    "ru": "Детям наскучила игра",
-    "en": "The kids got bored with the game"
+    "id": 1,
+    "ru": {
+      "text": "Все были так доброжелательны к нам",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone was so friendly towards us",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Эта квартира подходит для небольшой семьи",
+      "audio": false
+    },
+    "en": {
+      "text": "This apartment is suitable for a small family",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Он говорит, что ему наскучила его нынешняя работа",
+      "audio": false
+    },
+    "en": {
+      "text": "He says that he got bored with his present job",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Он предоставляет нам очень ценную информацию",
+      "audio": false
+    },
+    "en": {
+      "text": "He provides us with very valuable information",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Этот парень действительно без ума от футбола",
+      "audio": false
+    },
+    "en": {
+      "text": "This guy is really crazy about football",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я был в восторге от такого результата",
+      "audio": false
+    },
+    "en": {
+      "text": "I was delighted by this result",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Он сильно зависит от своих родителей",
+      "audio": false
+    },
+    "en": {
+      "text": "He is heavily dependent on his parents",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Они ограничивают свободу слова и самовыражения",
+      "audio": false
+    },
+    "en": {
+      "text": "They restrict freedom of speech and expression",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Это место не кажется мне знакомым",
+      "audio": false
+    },
+    "en": {
+      "text": "This place doesn't seem familiar to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Он очень оптимистичен насчет будущего компании",
+      "audio": false
+    },
+    "en": {
+      "text": "He is very optimistic about the future of the company",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я действительно сожалею о беспорядке",
+      "audio": false
+    },
+    "en": {
+      "text": "I am really sorry for the mess",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Эта одежда подходит для холодной погоды?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are these clothes suitable for cold weather?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Они обеспечивают эту страну нефтью и газом",
+      "audio": false
+    },
+    "en": {
+      "text": "They provide this country with oil and gas",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Извини за опоздание",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sorry for being late",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Они за свободу слова",
+      "audio": false
+    },
+    "en": {
+      "text": "They are for freedom of speech",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Извини, что пришел позже",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sorry for coming later",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я абсолютно уверен в этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I am absolutely certain about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Есть опасность пожара",
+      "audio": false
+    },
+    "en": {
+      "text": "There is danger of a fire",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он в ужасе от этой мысли",
+      "audio": false
+    },
+    "en": {
+      "text": "He is terrified at this thought",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Он действительно в восторге от новостей",
+      "audio": false
+    },
+    "en": {
+      "text": "He is really delighted by the news",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Мне наскучил фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "I was bored with the movie",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Есть опасность новых протестов",
+      "audio": false
+    },
+    "en": {
+      "text": "There is a danger of new protests",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он действительно без ума от нее",
+      "audio": false
+    },
+    "en": {
+      "text": "He is really crazy about her",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Ты знаком с этой теорией?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you familiar with this theory?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Она в ужасе от пауков",
+      "audio": false
+    },
+    "en": {
+      "text": "She is terrified of spiders",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Дом не подходит для такой большой семьи",
+      "audio": false
+    },
+    "en": {
+      "text": "The house isn't suitable for such a large family",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Эта песня кажется мне знакомой",
+      "audio": false
+    },
+    "en": {
+      "text": "This song seems familiar to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Я был действительно раздражен его замечаниями",
+      "audio": false
+    },
+    "en": {
+      "text": "I was really annoyed with his remarks",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Мне очень быстро надоел тот урок",
+      "audio": false
+    },
+    "en": {
+      "text": "I got bored with that lesson very quickly",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Он хочет найти подходящего человека для этой работы",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to find a suitable person for this job",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Он известен своей честностью",
+      "audio": false
+    },
+    "en": {
+      "text": "He is known for his honesty",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Он очень дружелюбен к нам",
+      "audio": false
+    },
+    "en": {
+      "text": "He is very friendly towards us",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Существует опасность другого кризиса",
+      "audio": false
+    },
+    "en": {
+      "text": "There is a danger of another crisis",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Этот город известен своей богатой историей",
+      "audio": false
+    },
+    "en": {
+      "text": "This city is known for its rich history",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я очень оптимистично настроен по поводу этого проекта",
+      "audio": false
+    },
+    "en": {
+      "text": "I feel very optimistic about this project",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Этот фильм не подходит для детей",
+      "audio": false
+    },
+    "en": {
+      "text": "This movie isn't suitable for children",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Эта страна известна своими обычаями и традициями",
+      "audio": false
+    },
+    "en": {
+      "text": "This country is known for its customs and traditions",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Он был в ужасе от мысли потерять все свои деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "He was terrified at the thought of losing all his money",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я абсолютно рад это слышать",
+      "audio": false
+    },
+    "en": {
+      "text": "I am absolutely delighted to hear it",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Мне бы не хотелось быть сильно зависимым от этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I wouldn't like to be heavily dependent on it",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я никогда в жизни не был так уверен",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never been so certain in my life",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Мне действительно жаль, что я тебя расстроил",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really sorry for upsetting you",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я абсолютно рад быть здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "I am absolutely delighted to be here",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "У тебя никогда не бывает нехватки энтузиазма",
+      "audio": false
+    },
+    "en": {
+      "text": "You never have a lack of enthusiasm",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Их свобода передвижения ограничена",
+      "audio": false
+    },
+    "en": {
+      "text": "Their freedom of movement is restricted",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Чем известен этот певец?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is this singer known for?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Этот певец известен той песней",
+      "audio": false
+    },
+    "en": {
+      "text": "This singer is known for that song",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Чем известен этот актер?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is this actor known for?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Мне наскучило сидеть дома",
+      "audio": false
+    },
+    "en": {
+      "text": "I got bored with staying at home",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Что ей наскучило?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is she bored with?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Мне наскучило заниматься домашними делами",
+      "audio": false
+    },
+    "en": {
+      "text": "I got bored with doing housework",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Он был в ужасе при мысли об одиночестве",
+      "audio": false
+    },
+    "en": {
+      "text": "He was terrified at the thought of loneliness",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Она была в ужасе при мысли о потере своих денег",
+      "audio": false
+    },
+    "en": {
+      "text": "She was terrified at the thought of losing her money",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я в ужасе от этой мысли",
+      "audio": false
+    },
+    "en": {
+      "text": "I am terrified at this thought",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Мы видим их очевидную нехватку знаний",
+      "audio": false
+    },
+    "en": {
+      "text": "We see their apparent lack of knowledge",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "У этого студента нехватка уверенности в себе",
+      "audio": false
+    },
+    "en": {
+      "text": "This student has a lack of confidence",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Он был раздражен такой плохой погодой",
+      "audio": false
+    },
+    "en": {
+      "text": "He was annoyed by such bad weather",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Чем они так раздражены?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are they so annoyed with?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я был действительно раздражен его поведением",
+      "audio": false
+    },
+    "en": {
+      "text": "I was really annoyed with his behaviour",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я абсолютно рад тебя видеть",
+      "audio": false
+    },
+    "en": {
+      "text": "I am absolutely delighted to see you",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я абсолютно счастлив быть там",
+      "audio": false
+    },
+    "en": {
+      "text": "I am absolutely delighted to be there",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Она абсолютно счастлива это слышать",
+      "audio": false
+    },
+    "en": {
+      "text": "She is absolutely delighted to hear it",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Он предоставил нам все необходимое оборудование",
+      "audio": false
+    },
+    "en": {
+      "text": "He provided us with all the necessary equipment",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я немного знаком с ним",
+      "audio": false
+    },
+    "en": {
+      "text": "I am a bit familiar with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Кто тебе кажется знакомым?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who seems familiar to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Этот фильм кажется мне знакомым",
+      "audio": false
+    },
+    "en": {
+      "text": "This movie seems familiar to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Чем известно это место?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is this place known for?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Этот город известен своими традициями",
+      "audio": false
+    },
+    "en": {
+      "text": "This city is known for its traditions",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Он известен своей добротой",
+      "audio": false
+    },
+    "en": {
+      "text": "He is known for his kindness",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Нам дана свобода выбора",
+      "audio": false
+    },
+    "en": {
+      "text": "We are given freedom of choice",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Наша свобода передвижения ограничена",
+      "audio": false
+    },
+    "en": {
+      "text": "Our freedom of movement is restricted",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Нам дана свобода передвижения",
+      "audio": false
+    },
+    "en": {
+      "text": "We are given freedom of movement",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я был абсолютно в восторге от результата",
+      "audio": false
+    },
+    "en": {
+      "text": "I was absolutely delighted by the result",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Ей наскучило заниматься домашним хозяйством",
+      "audio": false
+    },
+    "en": {
+      "text": "She got bored with doing housework",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Что кажется тебе знакомым?",
+      "audio": false
+    },
+    "en": {
+      "text": "What seems familiar to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Мне действительно жаль, что я ранил твои чувства",
+      "audio": false
+    },
+    "en": {
+      "text": "I am really sorry for hurting your feelings",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Чем она так раздражена?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is she so annoyed with?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я уверен, что он будет очень рад видеть тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure that he will be absolutely delighted to see you",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Тебе наскучило делать домашнее задание?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you bored with doing homework?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Что тебе наскучило?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you bored with?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Свобода слова и самовыражения ограничена",
+      "audio": false
+    },
+    "en": {
+      "text": "Freedom of speech and expression is restricted",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Детям наскучила игра",
+      "audio": false
+    },
+    "en": {
+      "text": "The kids got bored with the game",
+      "audio": false
+    }
   }
 ]

@@ -1,147 +1,321 @@
 [
   {
-    "_id": 1,
-    "ru": "Я хотел бы сказать, что эта вещь действительно имеет значение",
-    "en": "I'd like to say that this thing really matters"
+    "id": 1,
+    "ru": {
+      "text": "Я хотел бы сказать, что эта вещь действительно имеет значение",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to say that this thing really matters",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Ты знаешь, у меня такая же проблема",
-    "en": "You know, I have the same problem"
+    "id": 2,
+    "ru": {
+      "text": "Ты знаешь, у меня такая же проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, I have the same problem",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Я знаю, такая теория существует",
-    "en": "I know such a theory exists"
+    "id": 3,
+    "ru": {
+      "text": "Я знаю, такая теория существует",
+      "audio": false
+    },
+    "en": {
+      "text": "I know such a theory exists",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я вижу, такая проблема существует",
-    "en": "I see such a problem exists"
+    "id": 4,
+    "ru": {
+      "text": "Я вижу, такая проблема существует",
+      "audio": false
+    },
+    "en": {
+      "text": "I see such a problem exists",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я хочу сказать тебе, что это действительно вдохновляет меня",
-    "en": "I want to tell you that it really inspires me"
+    "id": 5,
+    "ru": {
+      "text": "Я хочу сказать тебе, что это действительно вдохновляет меня",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to tell you that it really inspires me",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я должен сказать, что это лучший отель в этом районе",
-    "en": "I have to say that it's the best hotel in this area"
+    "id": 6,
+    "ru": {
+      "text": "Я должен сказать, что это лучший отель в этом районе",
+      "audio": false
+    },
+    "en": {
+      "text": "I have to say that it's the best hotel in this area",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я думаю, что не все зависит от нас",
-    "en": "I think that not everything depends on us"
+    "id": 7,
+    "ru": {
+      "text": "Я думаю, что не все зависит от нас",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that not everything depends on us",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Ты знаешь, это прекрасное чувство!",
-    "en": "You know, it's a wonderful feeling!"
+    "id": 8,
+    "ru": {
+      "text": "Ты знаешь, это прекрасное чувство!",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, it's a wonderful feeling!",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Ты знаешь, у меня такая же идея",
-    "en": "You know, I have the same idea"
+    "id": 9,
+    "ru": {
+      "text": "Ты знаешь, у меня такая же идея",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, I have the same idea",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я думаю, что это очень важная вещь",
-    "en": "I think that it's a very important thing"
+    "id": 10,
+    "ru": {
+      "text": "Я думаю, что это очень важная вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that it's a very important thing",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я не думаю, что это действительно работает",
-    "en": "I don't think that it really works"
+    "id": 11,
+    "ru": {
+      "text": "Я не думаю, что это действительно работает",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that it really works",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я должен сказать, что это предложение такое привлекательное для меня",
-    "en": "I have to say that this offer is so attractive for me"
+    "id": 12,
+    "ru": {
+      "text": "Я должен сказать, что это предложение такое привлекательное для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "I have to say that this offer is so attractive for me",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я чувствую, что я прав",
-    "en": "I feel that I'm right"
+    "id": 13,
+    "ru": {
+      "text": "Я чувствую, что я прав",
+      "audio": false
+    },
+    "en": {
+      "text": "I feel that I'm right",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Мне кажется, что все зависит от нас",
-    "en": "It seems to me that everything depends on us"
+    "id": 14,
+    "ru": {
+      "text": "Мне кажется, что все зависит от нас",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me that everything depends on us",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я не думаю, что этот метод действительно работает",
-    "en": "I don't think that this method really works"
+    "id": 15,
+    "ru": {
+      "text": "Я не думаю, что этот метод действительно работает",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that this method really works",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Я действительно думаю, что это довольно хорошо для начала",
-    "en": "I really think that it's quite good for a start"
+    "id": 16,
+    "ru": {
+      "text": "Я действительно думаю, что это довольно хорошо для начала",
+      "audio": false
+    },
+    "en": {
+      "text": "I really think that it's quite good for a start",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Мне кажется, что это действительно возможно",
-    "en": "It seems to me that it's really possible"
+    "id": 17,
+    "ru": {
+      "text": "Мне кажется, что это действительно возможно",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me that it's really possible",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Ты знаешь, у меня такое же мнение",
-    "en": "You know, I have the same opinion"
+    "id": 18,
+    "ru": {
+      "text": "Ты знаешь, у меня такое же мнение",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, I have the same opinion",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Я понимаю, это может случиться с каждым из нас",
-    "en": "I understand it can happen to each one of us"
+    "id": 19,
+    "ru": {
+      "text": "Я понимаю, это может случиться с каждым из нас",
+      "audio": false
+    },
+    "en": {
+      "text": "I understand it can happen to each one of us",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Мне кажется, что это лучший выбор",
-    "en": "It seems to me that it's the best choice"
+    "id": 20,
+    "ru": {
+      "text": "Мне кажется, что это лучший выбор",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me that it's the best choice",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Я чувствую, что он очень надежный человек",
-    "en": "I feel that he’s a very reliable person"
+    "id": 21,
+    "ru": {
+      "text": "Я чувствую, что он очень надежный человек",
+      "audio": false
+    },
+    "en": {
+      "text": "I feel that he’s a very reliable person",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Я хочу сказать, что я хотел бы повидать мир",
-    "en": "I want to say that I'd like to see the world"
+    "id": 22,
+    "ru": {
+      "text": "Я хочу сказать, что я хотел бы повидать мир",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to say that I'd like to see the world",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Я знаю, что он работает менеджером",
-    "en": "I know that he works as a manager"
+    "id": 23,
+    "ru": {
+      "text": "Я знаю, что он работает менеджером",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that he works as a manager",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Я хочу сказать, что это действительно имеет значение",
-    "en": "I want to say that it really matters"
+    "id": 24,
+    "ru": {
+      "text": "Я хочу сказать, что это действительно имеет значение",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to say that it really matters",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Ты знаешь, я тоже так думаю",
-    "en": "You know, I also think so"
+    "id": 25,
+    "ru": {
+      "text": "Ты знаешь, я тоже так думаю",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, I also think so",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Мне кажется, что это довольно хорошо для начала",
-    "en": "It seems to me that it's quite good for a start"
+    "id": 26,
+    "ru": {
+      "text": "Мне кажется, что это довольно хорошо для начала",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me that it's quite good for a start",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Я не думаю, что это действительно имеет значение",
-    "en": "I don't think that it really matters"
+    "id": 27,
+    "ru": {
+      "text": "Я не думаю, что это действительно имеет значение",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that it really matters",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Ты знаешь, я хочу повидать мир",
-    "en": "You know, I want to see the world"
+    "id": 28,
+    "ru": {
+      "text": "Ты знаешь, я хочу повидать мир",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, I want to see the world",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Я хочу сказать, что это довольно хорошо особенно в начале",
-    "en": "I want to say that it's quite good especially in the beginning"
+    "id": 29,
+    "ru": {
+      "text": "Я хочу сказать, что это довольно хорошо особенно в начале",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to say that it's quite good especially in the beginning",
+      "audio": false
+    }
   }
 ]

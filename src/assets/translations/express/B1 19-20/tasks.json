@@ -1,112 +1,244 @@
 [
   {
-    "_id": 1,
-    "ru": "Мне порекомендовали прочитать эту книгу",
-    "en": "I was recommended to read this book"
+    "id": 1,
+    "ru": {
+      "text": "Мне порекомендовали прочитать эту книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "I was recommended to read this book",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Эта новость удивила меня так сильно",
-    "en": "This news surprised me so much"
+    "id": 2,
+    "ru": {
+      "text": "Эта новость удивила меня так сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "This news surprised me so much",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Его попросили подержать ту сумку",
-    "en": "He was asked to hold that bag"
+    "id": 3,
+    "ru": {
+      "text": "Его попросили подержать ту сумку",
+      "audio": false
+    },
+    "en": {
+      "text": "He was asked to hold that bag",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Их результаты часто сравнивают",
-    "en": "Their results are often compared"
+    "id": 4,
+    "ru": {
+      "text": "Их результаты часто сравнивают",
+      "audio": false
+    },
+    "en": {
+      "text": "Their results are often compared",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Он известен как очень успешный бизнесмен",
-    "en": "He's known as a very successful businessman"
+    "id": 5,
+    "ru": {
+      "text": "Он известен как очень успешный бизнесмен",
+      "audio": false
+    },
+    "en": {
+      "text": "He's known as a very successful businessman",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Где я могу обменять свои доллары на евро?",
-    "en": "Where can I exchange my dollars for euros?"
+    "id": 6,
+    "ru": {
+      "text": "Где я могу обменять свои доллары на евро?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where can I exchange my dollars for euros?",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я бы последовал этому совету на твоем месте",
-    "en": "I would follow this advice in your place"
+    "id": 7,
+    "ru": {
+      "text": "Я бы последовал этому совету на твоем месте",
+      "audio": false
+    },
+    "en": {
+      "text": "I would follow this advice in your place",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Не могли бы вы повторить свой вопрос?",
-    "en": "Could you repeat your question?"
+    "id": 8,
+    "ru": {
+      "text": "Не могли бы вы повторить свой вопрос?",
+      "audio": false
+    },
+    "en": {
+      "text": "Could you repeat your question?",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Ветер сейчас дует так сильно",
-    "en": "The wind is blowing so strongly now"
+    "id": 9,
+    "ru": {
+      "text": "Ветер сейчас дует так сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "The wind is blowing so strongly now",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я поистине ценю вашу доброту",
-    "en": "I truly appreciate your kindness"
+    "id": 10,
+    "ru": {
+      "text": "Я поистине ценю вашу доброту",
+      "audio": false
+    },
+    "en": {
+      "text": "I truly appreciate your kindness",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Они поцеловались в конце",
-    "en": "They kissed in the end"
+    "id": 11,
+    "ru": {
+      "text": "Они поцеловались в конце",
+      "audio": false
+    },
+    "en": {
+      "text": "They kissed in the end",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Она сказала, что он занял эту сумму денег",
-    "en": "She said that he had borrowed this sum of money"
+    "id": 12,
+    "ru": {
+      "text": "Она сказала, что он занял эту сумму денег",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that he had borrowed this sum of money",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я тренируюсь очень интенсивно последние два дня",
-    "en": "I've been training very intensively for the last two days"
+    "id": 13,
+    "ru": {
+      "text": "Я тренируюсь очень интенсивно последние два дня",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been training very intensively for the last two days",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я никогда не обещал такого рода вещей",
-    "en": "I've never promised this kind of things"
+    "id": 14,
+    "ru": {
+      "text": "Я никогда не обещал такого рода вещей",
+      "audio": false
+    },
+    "en": {
+      "text": "I've never promised this kind of things",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Как долго ты ждешь его?",
-    "en": "How long have you been waiting for him?"
+    "id": 15,
+    "ru": {
+      "text": "Как долго ты ждешь его?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long have you been waiting for him?",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Его часто хвалят",
-    "en": "He's often praised"
+    "id": 16,
+    "ru": {
+      "text": "Его часто хвалят",
+      "audio": false
+    },
+    "en": {
+      "text": "He's often praised",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Она только что улыбнулась мне",
-    "en": "She's just smiled at me"
+    "id": 17,
+    "ru": {
+      "text": "Она только что улыбнулась мне",
+      "audio": false
+    },
+    "en": {
+      "text": "She's just smiled at me",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Она еще не полила цветы",
-    "en": "She hasn't watered the flowers yet"
+    "id": 18,
+    "ru": {
+      "text": "Она еще не полила цветы",
+      "audio": false
+    },
+    "en": {
+      "text": "She hasn't watered the flowers yet",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Я никогда не испытывал такого чувства",
-    "en": "I've never experienced such a feeling"
+    "id": 19,
+    "ru": {
+      "text": "Я никогда не испытывал такого чувства",
+      "audio": false
+    },
+    "en": {
+      "text": "I've never experienced such a feeling",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "За женщиной сейчас наблюдают",
-    "en": "The woman is being watched now"
+    "id": 20,
+    "ru": {
+      "text": "За женщиной сейчас наблюдают",
+      "audio": false
+    },
+    "en": {
+      "text": "The woman is being watched now",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Сколько раз в день ты чистишь зубы?",
-    "en": "How many times a day do you brush your teeth?"
+    "id": 21,
+    "ru": {
+      "text": "Сколько раз в день ты чистишь зубы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many times a day do you brush your teeth?",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Он сказал, что запер дверь",
-    "en": "He said that he had locked the door"
+    "id": 22,
+    "ru": {
+      "text": "Он сказал, что запер дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had locked the door",
+      "audio": false
+    }
   }
 ]

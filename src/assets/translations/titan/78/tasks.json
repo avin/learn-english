@@ -1,482 +1,1058 @@
 [
   {
-    "_id": 1,
-    "ru": "Я не буду смотреть этот фильм",
-    "en": "I won't watch this movie"
-  },
-  {
-    "_id": 2,
-    "ru": "Он не будет жаловаться",
-    "en": "He won't complain"
-  },
-  {
-    "_id": 3,
-    "ru": "Обсуждение не закончится через десять минут",
-    "en": "The discussion won't finish in ten minutes"
-  },
-  {
-    "_id": 4,
-    "ru": "Полиция не закроет на это свои глаза",
-    "en": "The police won't close their eyes on it"
-  },
-  {
-    "_id": 5,
-    "ru": "Он не примет участие в этом чемпионате",
-    "en": "He won't take part in this championship"
-  },
-  {
-    "_id": 6,
-    "ru": "Я не буду тратить на это свое время",
-    "en": "I won't waste my time on it"
-  },
-  {
-    "_id": 7,
-    "ru": "Возможно, это не будет так легко для тебя",
-    "en": "Perhaps, it won't be so easy for you"
-  },
-  {
-    "_id": 8,
-    "ru": "Игра не будет так интересна для тебя",
-    "en": "The game won't be so interesting for you"
-  },
-  {
-    "_id": 9,
-    "ru": "Он не будет его больше ждать",
-    "en": "He won't wait for him any longer"
-  },
-  {
-    "_id": 10,
-    "ru": "Она не будет слушать его совет",
-    "en": "She won't listen to his advice"
-  },
-  {
-    "_id": 11,
-    "ru": "Я не буду участвовать в этом соревновании",
-    "en": "I won't take part in this competition"
-  },
-  {
-    "_id": 12,
-    "ru": "Эта идея не будет новой для других",
-    "en": "This idea won't be new for others"
-  },
-  {
-    "_id": 13,
-    "ru": "Мои друзья не пойдут туда со мной",
-    "en": "My friends won't go there with me"
-  },
-  {
-    "_id": 14,
-    "ru": "Она не придет на вечеринку",
-    "en": "She won't come to the party"
-  },
-  {
-    "_id": 15,
-    "ru": "Конференция не начнется немедленно",
-    "en": "The conference won't start immediately"
-  },
-  {
-    "_id": 16,
-    "ru": "Она не пойдет в театр завтра",
-    "en": "She will not go to the theatre tomorrow"
-  },
-  {
-    "_id": 17,
-    "ru": "Лекция не продлится так долго",
-    "en": "The lecture won't last so long"
-  },
-  {
-    "_id": 18,
-    "ru": "Я не буду на это реагировать",
-    "en": "I won't react to it"
-  },
-  {
-    "_id": 19,
-    "ru": "Это его не остановит",
-    "en": "It won't stop him"
-  },
-  {
-    "_id": 20,
-    "ru": "Я думаю, он этого не скажет",
-    "en": "I think he won't say it"
-  },
-  {
-    "_id": 21,
-    "ru": "День не будет дождливым",
-    "en": "The day won't be rainy"
-  },
-  {
-    "_id": 22,
-    "ru": "Я не закрою дверь",
-    "en": "I won't close the door"
-  },
-  {
-    "_id": 23,
-    "ru": "Дни не будут такими солнечными",
-    "en": "The days won't be so sunny"
-  },
-  {
-    "_id": 24,
-    "ru": "Цена не будет ниже",
-    "en": "The price won't be lower"
-  },
-  {
-    "_id": 25,
-    "ru": "Это не улучшит ситуацию",
-    "en": "It won't improve the situation"
-  },
-  {
-    "_id": 26,
-    "ru": "Моему другу не понравится эта идея",
-    "en": "My friend won't like this idea"
-  },
-  {
-    "_id": 27,
-    "ru": "Они не поддержат эту инициативу",
-    "en": "They won't support this initiative"
-  },
-  {
-    "_id": 28,
-    "ru": "Она не придет к нам",
-    "en": "She won't come to us"
-  },
-  {
-    "_id": 29,
-    "ru": "Уроки не будут длиться долго",
-    "en": "The lessons won't last long"
-  },
-  {
-    "_id": 30,
-    "ru": "Ему не понадобится эта информация",
-    "en": "He won't need this information"
-  },
-  {
-    "_id": 31,
-    "ru": "Мы не узнаем наши результаты немедленно",
-    "en": "We won't know our results immediately"
-  },
-  {
-    "_id": 32,
-    "ru": "Мы не будем реагировать на это",
-    "en": "We won't react to it"
-  },
-  {
-    "_id": 33,
-    "ru": "Он не будет слушать ее",
-    "en": "He won't listen to her"
-  },
-  {
-    "_id": 34,
-    "ru": "Эта вещь не сильно тебе поможет",
-    "en": "This thing won't help you much"
-  },
-  {
-    "_id": 35,
-    "ru": "Он не купит машину в этом году",
-    "en": "He won't buy a car this year"
-  },
-  {
-    "_id": 36,
-    "ru": "Она не примет участие в этом конкурсе",
-    "en": "She won't participate in this contest"
-  },
-  {
-    "_id": 37,
-    "ru": "Я больше не буду этого делать",
-    "en": "I won't do it anymore"
-  },
-  {
-    "_id": 38,
-    "ru": "Она больше не будет ждать этого",
-    "en": "She won't wait for it any longer"
-  },
-  {
-    "_id": 39,
-    "ru": "Она не купит квартиру в этом месяце",
-    "en": "She won't buy an apartment this month"
-  },
-  {
-    "_id": 40,
-    "ru": "Это не будет интересно им",
-    "en": "It won't be interesting for them"
-  },
-  {
-    "_id": 41,
-    "ru": "У него не будет этой суммы денег завтра",
-    "en": "He won't have this sum of money tomorrow"
-  },
-  {
-    "_id": 42,
-    "ru": "Она говорит, не сможет прийти к нам сегодня вечером",
-    "en": "She says she won't be able to come to us tonight"
-  },
-  {
-    "_id": 43,
-    "ru": "Я постараюсь больше не делать этих ошибок",
-    "en": "I'll try not to make these mistakes any longer"
-  },
-  {
-    "_id": 44,
-    "ru": "Никто не заплатит за это",
-    "en": "No one will pay for it"
-  },
-  {
-    "_id": 45,
-    "ru": "Мне кажется, что никто этого не сделает",
-    "en": "It seems to me that no one will do it"
-  },
-  {
-    "_id": 46,
-    "ru": "Возможно, я скоро найду гораздо лучшую работу",
-    "en": "Perhaps, I will find a much better job soon"
-  },
-  {
-    "_id": 47,
-    "ru": "Она думает, что он не скажет нам эту вещь",
-    "en": "She thinks that he won't tell us this thing"
-  },
-  {
-    "_id": 48,
-    "ru": "Я не буду обращать внимание на такие вещи",
-    "en": "I won't pay attention to such things"
-  },
-  {
-    "_id": 49,
-    "ru": "Я постараюсь не реагировать на те вещи",
-    "en": "I'll try not to react to those things"
-  },
-  {
-    "_id": 50,
-    "ru": "Я думаю, что мужчина не получит эту работу",
-    "en": "I think the man won't get this job"
-  },
-  {
-    "_id": 51,
-    "ru": "Курс не будет длиться так долго",
-    "en": "The course won't last so long"
-  },
-  {
-    "_id": 52,
-    "ru": "Он никогда не пойдет туда снова",
-    "en": "He will never go there again"
-  },
-  {
-    "_id": 53,
-    "ru": "Я постараюсь не думать об этом больше",
-    "en": "I'll try not to think about it anymore"
-  },
-  {
-    "_id": 54,
-    "ru": "Он думает, это не случится с нами",
-    "en": "He thinks it won't happen to us"
-  },
-  {
-    "_id": 55,
-    "ru": "Я думаю, это не случится с тобой",
-    "en": "I think it won't happen to you"
-  },
-  {
-    "_id": 56,
-    "ru": "Он думает, это случится с каждым",
-    "en": "He thinks it will happen to everyone"
-  },
-  {
-    "_id": 57,
-    "ru": "Я постараюсь не повторять эти ошибки",
-    "en": "I'll try not to repeat these mistakes"
-  },
-  {
-    "_id": 58,
-    "ru": "Я постараюсь не повторять их ошибок",
-    "en": "I'll try not to repeat their mistakes"
-  },
-  {
-    "_id": 59,
-    "ru": "Он постарается не повторять мою ошибку",
-    "en": "Нe will try not to repeat my mistake"
-  },
-  {
-    "_id": 60,
-    "ru": "Они ничего не будут гарантировать",
-    "en": "They won't guarantee anything"
-  },
-  {
-    "_id": 61,
-    "ru": "Они ничего нам не будут гарантировать",
-    "en": "They won't guarantee us anything"
-  },
-  {
-    "_id": 62,
-    "ru": "Они будут гарантировать это",
-    "en": "They will guarantee it"
-  },
-  {
-    "_id": 63,
-    "ru": "Он постарается больше не делать этого",
-    "en": "He'll try not to do it anymore"
-  },
-  {
-    "_id": 64,
-    "ru": "Он постарается сделать это снов",
-    "en": "He'll try to do it again"
-  },
-  {
-    "_id": 65,
-    "ru": "Я постараюсь сделать это снова",
-    "en": "I'll try to do it again"
-  },
-  {
-    "_id": 66,
-    "ru": "Я не решу эту проблему за день",
-    "en": "I won't solve this problem in a day"
-  },
-  {
-    "_id": 67,
-    "ru": "Я не решу эту задачу за минуту",
-    "en": "I won't solve this task in a minute"
-  },
-  {
-    "_id": 68,
-    "ru": "Я решу эту проблему за день",
-    "en": "I will solve this problem in a day"
-  },
-  {
-    "_id": 69,
-    "ru": "Никто не сможет понять это",
-    "en": "No one will be able to understand it"
-  },
-  {
-    "_id": 70,
-    "ru": "Никто не сможет его понять",
-    "en": "No one will be able to understand him"
-  },
-  {
-    "_id": 71,
-    "ru": "Он не сможет этого понять",
-    "en": "He won't be able to understand it"
-  },
-  {
-    "_id": 72,
-    "ru": "Я не буду обращать внимание на это",
-    "en": "I won't pay attention to it"
-  },
-  {
-    "_id": 73,
-    "ru": "Он думает, он не решит эту задачу так быстро",
-    "en": "He thinks he won't solve this task so quickly"
-  },
-  {
-    "_id": 74,
-    "ru": "Он думает, он решит эту задачу очень быстро",
-    "en": "He thinks he will solve this task very quickly"
-  },
-  {
-    "_id": 75,
-    "ru": "Я думаю, я не решу эту задачу так быстро",
-    "en": "I think I won't solve this task so quickly"
-  },
-  {
-    "_id": 76,
-    "ru": "Я надеюсь, это никогда не произойдет снова",
-    "en": "I hope it will never happen again"
-  },
-  {
-    "_id": 77,
-    "ru": "Я знаю, это никогда не произойдет",
-    "en": "I know it will never happen"
-  },
-  {
-    "_id": 78,
-    "ru": "Я надеюсь, это никогда не случится с тобой",
-    "en": "I hope it will never happen to you"
-  },
-  {
-    "_id": 79,
-    "ru": "Он не будет рад слышать это",
-    "en": "He won't be glad to hear it"
-  },
-  {
-    "_id": 80,
-    "ru": "Я буду рад узнать это",
-    "en": "I will be glad to know it"
-  },
-  {
-    "_id": 81,
-    "ru": "Он будет рад услышать это",
-    "en": "He will be glad to hear it"
-  },
-  {
-    "_id": 82,
-    "ru": "Они не разрешат этот конфликт так быстро",
-    "en": "They won't resolve this conflict so quickly"
-  },
-  {
-    "_id": 83,
-    "ru": "Он говорит, что не будет жаловаться на эту вещь",
-    "en": "He says he won't complain about this thing"
-  },
-  {
-    "_id": 84,
-    "ru": "Она не будет рада видеть его",
-    "en": "She won't be glad to see him"
-  },
-  {
-    "_id": 85,
-    "ru": "Я постараюсь не обращать внимания на это",
-    "en": "I'll try not to pay attention to it"
-  },
-  {
-    "_id": 86,
-    "ru": "Я полагаю, это не случится с нами снова",
-    "en": "I suppose it won't happen to us again"
-  },
-  {
-    "_id": 87,
-    "ru": "Я не смогу прийти на вечеринку",
-    "en": "I won't be able to come to the party"
-  },
-  {
-    "_id": 88,
-    "ru": "Нам кажется, он не откажется сделать это",
-    "en": "It seems to us he won't refuse to do it"
-  },
-  {
-    "_id": 89,
-    "ru": "Я думаю, мальчик не сможет сдать этот экзамен",
-    "en": "I think the boy won't be able to pass this exam"
-  },
-  {
-    "_id": 90,
-    "ru": "Я боюсь, будет не так легко изменить это",
-    "en": "I'm afraid it won't be so easy to change it"
-  },
-  {
-    "_id": 91,
-    "ru": "Возможно, он не сможет сделать это так быстро",
-    "en": "Perhaps, he won't be able to do it so quickly"
-  },
-  {
-    "_id": 92,
-    "ru": "Никто не догадается об этом",
-    "en": "No one will guess it"
-  },
-  {
-    "_id": 93,
-    "ru": "Он не согласится сделать это",
-    "en": "He won't agree to do it"
-  },
-  {
-    "_id": 94,
-    "ru": "Я никогда не забуду это",
-    "en": "I will never forget it"
-  },
-  {
-    "_id": 95,
-    "ru": "Я не буду жаловаться на это",
-    "en": "I won't complain about it"
-  },
-  {
-    "_id": 96,
-    "ru": "Никто не будет знать это",
-    "en": "No one will know it"
+    "id": 1,
+    "ru": {
+      "text": "Я не буду смотреть этот фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't watch this movie",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Он не будет жаловаться",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't complain",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Обсуждение не закончится через десять минут",
+      "audio": false
+    },
+    "en": {
+      "text": "The discussion won't finish in ten minutes",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Полиция не закроет на это свои глаза",
+      "audio": false
+    },
+    "en": {
+      "text": "The police won't close their eyes on it",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Он не примет участие в этом чемпионате",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't take part in this championship",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я не буду тратить на это свое время",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't waste my time on it",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Возможно, это не будет так легко для тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "Perhaps, it won't be so easy for you",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Игра не будет так интересна для тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "The game won't be so interesting for you",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Он не будет его больше ждать",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't wait for him any longer",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Она не будет слушать его совет",
+      "audio": false
+    },
+    "en": {
+      "text": "She won't listen to his advice",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я не буду участвовать в этом соревновании",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't take part in this competition",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Эта идея не будет новой для других",
+      "audio": false
+    },
+    "en": {
+      "text": "This idea won't be new for others",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Мои друзья не пойдут туда со мной",
+      "audio": false
+    },
+    "en": {
+      "text": "My friends won't go there with me",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Она не придет на вечеринку",
+      "audio": false
+    },
+    "en": {
+      "text": "She won't come to the party",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Конференция не начнется немедленно",
+      "audio": false
+    },
+    "en": {
+      "text": "The conference won't start immediately",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Она не пойдет в театр завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "She will not go to the theatre tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Лекция не продлится так долго",
+      "audio": false
+    },
+    "en": {
+      "text": "The lecture won't last so long",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я не буду на это реагировать",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't react to it",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Это его не остановит",
+      "audio": false
+    },
+    "en": {
+      "text": "It won't stop him",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я думаю, он этого не скажет",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he won't say it",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "День не будет дождливым",
+      "audio": false
+    },
+    "en": {
+      "text": "The day won't be rainy",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Я не закрою дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't close the door",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Дни не будут такими солнечными",
+      "audio": false
+    },
+    "en": {
+      "text": "The days won't be so sunny",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Цена не будет ниже",
+      "audio": false
+    },
+    "en": {
+      "text": "The price won't be lower",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Это не улучшит ситуацию",
+      "audio": false
+    },
+    "en": {
+      "text": "It won't improve the situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Моему другу не понравится эта идея",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend won't like this idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Они не поддержат эту инициативу",
+      "audio": false
+    },
+    "en": {
+      "text": "They won't support this initiative",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Она не придет к нам",
+      "audio": false
+    },
+    "en": {
+      "text": "She won't come to us",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Уроки не будут длиться долго",
+      "audio": false
+    },
+    "en": {
+      "text": "The lessons won't last long",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Ему не понадобится эта информация",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't need this information",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Мы не узнаем наши результаты немедленно",
+      "audio": false
+    },
+    "en": {
+      "text": "We won't know our results immediately",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Мы не будем реагировать на это",
+      "audio": false
+    },
+    "en": {
+      "text": "We won't react to it",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Он не будет слушать ее",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't listen to her",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Эта вещь не сильно тебе поможет",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing won't help you much",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Он не купит машину в этом году",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't buy a car this year",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Она не примет участие в этом конкурсе",
+      "audio": false
+    },
+    "en": {
+      "text": "She won't participate in this contest",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я больше не буду этого делать",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't do it anymore",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Она больше не будет ждать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "She won't wait for it any longer",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Она не купит квартиру в этом месяце",
+      "audio": false
+    },
+    "en": {
+      "text": "She won't buy an apartment this month",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Это не будет интересно им",
+      "audio": false
+    },
+    "en": {
+      "text": "It won't be interesting for them",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "У него не будет этой суммы денег завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't have this sum of money tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Она говорит, не сможет прийти к нам сегодня вечером",
+      "audio": false
+    },
+    "en": {
+      "text": "She says she won't be able to come to us tonight",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я постараюсь больше не делать этих ошибок",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try not to make these mistakes any longer",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Никто не заплатит за это",
+      "audio": false
+    },
+    "en": {
+      "text": "No one will pay for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Мне кажется, что никто этого не сделает",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me that no one will do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Возможно, я скоро найду гораздо лучшую работу",
+      "audio": false
+    },
+    "en": {
+      "text": "Perhaps, I will find a much better job soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Она думает, что он не скажет нам эту вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "She thinks that he won't tell us this thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я не буду обращать внимание на такие вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't pay attention to such things",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я постараюсь не реагировать на те вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try not to react to those things",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я думаю, что мужчина не получит эту работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I think the man won't get this job",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Курс не будет длиться так долго",
+      "audio": false
+    },
+    "en": {
+      "text": "The course won't last so long",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Он никогда не пойдет туда снова",
+      "audio": false
+    },
+    "en": {
+      "text": "He will never go there again",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я постараюсь не думать об этом больше",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try not to think about it anymore",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Он думает, это не случится с нами",
+      "audio": false
+    },
+    "en": {
+      "text": "He thinks it won't happen to us",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я думаю, это не случится с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it won't happen to you",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Он думает, это случится с каждым",
+      "audio": false
+    },
+    "en": {
+      "text": "He thinks it will happen to everyone",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я постараюсь не повторять эти ошибки",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try not to repeat these mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я постараюсь не повторять их ошибок",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try not to repeat their mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Он постарается не повторять мою ошибку",
+      "audio": false
+    },
+    "en": {
+      "text": "Нe will try not to repeat my mistake",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Они ничего не будут гарантировать",
+      "audio": false
+    },
+    "en": {
+      "text": "They won't guarantee anything",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Они ничего нам не будут гарантировать",
+      "audio": false
+    },
+    "en": {
+      "text": "They won't guarantee us anything",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Они будут гарантировать это",
+      "audio": false
+    },
+    "en": {
+      "text": "They will guarantee it",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Он постарается больше не делать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "He'll try not to do it anymore",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он постарается сделать это снов",
+      "audio": false
+    },
+    "en": {
+      "text": "He'll try to do it again",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я постараюсь сделать это снова",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try to do it again",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я не решу эту проблему за день",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't solve this problem in a day",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я не решу эту задачу за минуту",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't solve this task in a minute",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я решу эту проблему за день",
+      "audio": false
+    },
+    "en": {
+      "text": "I will solve this problem in a day",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Никто не сможет понять это",
+      "audio": false
+    },
+    "en": {
+      "text": "No one will be able to understand it",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Никто не сможет его понять",
+      "audio": false
+    },
+    "en": {
+      "text": "No one will be able to understand him",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Он не сможет этого понять",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't be able to understand it",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я не буду обращать внимание на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't pay attention to it",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Он думает, он не решит эту задачу так быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "He thinks he won't solve this task so quickly",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Он думает, он решит эту задачу очень быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "He thinks he will solve this task very quickly",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я думаю, я не решу эту задачу так быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I won't solve this task so quickly",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я надеюсь, это никогда не произойдет снова",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope it will never happen again",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я знаю, это никогда не произойдет",
+      "audio": false
+    },
+    "en": {
+      "text": "I know it will never happen",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я надеюсь, это никогда не случится с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope it will never happen to you",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Он не будет рад слышать это",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't be glad to hear it",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я буду рад узнать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I will be glad to know it",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Он будет рад услышать это",
+      "audio": false
+    },
+    "en": {
+      "text": "He will be glad to hear it",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Они не разрешат этот конфликт так быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "They won't resolve this conflict so quickly",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Он говорит, что не будет жаловаться на эту вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "He says he won't complain about this thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Она не будет рада видеть его",
+      "audio": false
+    },
+    "en": {
+      "text": "She won't be glad to see him",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я постараюсь не обращать внимания на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try not to pay attention to it",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Я полагаю, это не случится с нами снова",
+      "audio": false
+    },
+    "en": {
+      "text": "I suppose it won't happen to us again",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Я не смогу прийти на вечеринку",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't be able to come to the party",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Нам кажется, он не откажется сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to us he won't refuse to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Я думаю, мальчик не сможет сдать этот экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "I think the boy won't be able to pass this exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Я боюсь, будет не так легко изменить это",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm afraid it won't be so easy to change it",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Возможно, он не сможет сделать это так быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "Perhaps, he won't be able to do it so quickly",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Никто не догадается об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "No one will guess it",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Он не согласится сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't agree to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Я никогда не забуду это",
+      "audio": false
+    },
+    "en": {
+      "text": "I will never forget it",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Я не буду жаловаться на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't complain about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Никто не будет знать это",
+      "audio": false
+    },
+    "en": {
+      "text": "No one will know it",
+      "audio": false
+    }
   }
 ]

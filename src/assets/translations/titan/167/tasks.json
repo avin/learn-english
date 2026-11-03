@@ -1,362 +1,794 @@
 [
   {
-    "_id": 1,
-    "ru": "Это типично для американской культуры",
-    "en": "It's typical of American culture"
-  },
-  {
-    "_id": 2,
-    "ru": "Я никогда не слышал это выражение",
-    "en": "I have never heard this expression"
-  },
-  {
-    "_id": 3,
-    "ru": "Эти дома сделаны из натуральных материалов",
-    "en": "These houses are made from natural materials"
-  },
-  {
-    "_id": 4,
-    "ru": "Почему он начал изучать английский?",
-    "en": "Why did he start learning English?"
-  },
-  {
-    "_id": 5,
-    "ru": "Что ты делаешь в данный момент?",
-    "en": "What are you doing at the moment?"
-  },
-  {
-    "_id": 6,
-    "ru": "Когда ты начал здесь работать?",
-    "en": "When did you start working here?"
-  },
-  {
-    "_id": 7,
-    "ru": "Он не боится потерять эту работу",
-    "en": "He isn't afraid of losing this job"
-  },
-  {
-    "_id": 8,
-    "ru": "Он пришел ко мне, когда я читал статью об этом",
-    "en": "He came to me while I was reading an article about it"
-  },
-  {
-    "_id": 9,
-    "ru": "Он остановился и поприветствовал нас",
-    "en": "He stopped and greeted us"
-  },
-  {
-    "_id": 10,
-    "ru": "Я надеюсь, что это однажды произойдет",
-    "en": "I hope it will happen one day"
-  },
-  {
-    "_id": 11,
-    "ru": "Он не завтракал сегодня",
-    "en": "He hasn't had breakfast today"
-  },
-  {
-    "_id": 12,
-    "ru": "Я позвонил ему, как только я вернулся домой",
-    "en": "I called him as soon as I got home"
-  },
-  {
-    "_id": 13,
-    "ru": "Я думаю, что погода скоро улучшится",
-    "en": "I think the weather will improve soon"
-  },
-  {
-    "_id": 14,
-    "ru": "Сколько лет вы здесь работаете?",
-    "en": "How many years have you been working here?"
-  },
-  {
-    "_id": 15,
-    "ru": "Я не устал от этого",
-    "en": "I didn't get tired of it"
-  },
-  {
-    "_id": 16,
-    "ru": "Мне не очень нравится это",
-    "en": "I don't really like it"
-  },
-  {
-    "_id": 17,
-    "ru": "Я это осознаю сейчас",
-    "en": "I realise it now"
-  },
-  {
-    "_id": 18,
-    "ru": "Если погода будет хорошая, мы выйдем на улицу",
-    "en": "If the weather is fine, we will go out"
-  },
-  {
-    "_id": 19,
-    "ru": "Мне потребовалось тридцать минут, чтобы добраться до работы",
-    "en": "It took me thirty minutes to get to work"
-  },
-  {
-    "_id": 20,
-    "ru": "Я не знал, что делать в этой ситуации",
-    "en": "I didn't know what to do in this situation"
-  },
-  {
-    "_id": 21,
-    "ru": "Она попросила меня открыть окно",
-    "en": "She asked me to open the window"
-  },
-  {
-    "_id": 22,
-    "ru": "Где будет проходить конференция?",
-    "en": "Where will the conference take place?"
-  },
-  {
-    "_id": 23,
-    "ru": "Когда он проснулся, было шесть часов утра",
-    "en": "When he woke up, it was six o'clock in the morning"
-  },
-  {
-    "_id": 24,
-    "ru": "Ты когда-нибудь слышал эту фразу?",
-    "en": "Have you ever heard this phrase?"
-  },
-  {
-    "_id": 25,
-    "ru": "Кому ты звонишь?",
-    "en": "Whom are you calling?"
-  },
-  {
-    "_id": 26,
-    "ru": "Я заберу тебя после работы",
-    "en": "I will pick you up after work"
-  },
-  {
-    "_id": 27,
-    "ru": "Мой друг прожил здесь всю свою жизнь",
-    "en": "My friend has lived here all his life"
-  },
-  {
-    "_id": 28,
-    "ru": "Кого ты там встретил?",
-    "en": "Whom did you meet there?"
-  },
-  {
-    "_id": 29,
-    "ru": "Я не знал куда идти",
-    "en": "I didn't know where to go"
-  },
-  {
-    "_id": 30,
-    "ru": "Все покрыто снегом",
-    "en": "Everything is covered with snow"
-  },
-  {
-    "_id": 31,
-    "ru": "Сколько дней ты читаешь эту книгу?",
-    "en": "How many days have you been reading this book?"
-  },
-  {
-    "_id": 32,
-    "ru": "Мой друг ждал меня, когда я прибыл",
-    "en": "My friend was waiting for me when I arrived"
-  },
-  {
-    "_id": 33,
-    "ru": "Он не очень любит музыку",
-    "en": "He doesn't really like music"
-  },
-  {
-    "_id": 34,
-    "ru": "Дороги были покрыты снегом",
-    "en": "The roads were covered with snow"
-  },
-  {
-    "_id": 35,
-    "ru": "Дом был построен им",
-    "en": "The house was built by him"
-  },
-  {
-    "_id": 36,
-    "ru": "Сколько страниц было переведено?",
-    "en": "How many pages were translated?"
-  },
-  {
-    "_id": 37,
-    "ru": "Сколько времени у тебя занимает, чтобы добраться до работы?",
-    "en": "How long does it take you to get to work?"
-  },
-  {
-    "_id": 38,
-    "ru": "Мы не устали находиться вместе",
-    "en": "We didn't get tired of staying together"
-  },
-  {
-    "_id": 39,
-    "ru": "Я ищу это весь вечер",
-    "en": "I have been looking for it the whole evening"
-  },
-  {
-    "_id": 40,
-    "ru": "Мой друг ждет его целый день",
-    "en": "My friend has been waiting for him the whole day"
-  },
-  {
-    "_id": 41,
-    "ru": "Когда твои занятия закончатся, я тебя заберу",
-    "en": "When your classes are over, I'll pick you up"
-  },
-  {
-    "_id": 42,
-    "ru": "Он интересуется японской культурой",
-    "en": "He is interested in Japanese culture"
-  },
-  {
-    "_id": 43,
-    "ru": "Он был очень разочарован ее решением",
-    "en": "He felt really disappointed with her decision"
-  },
-  {
-    "_id": 44,
-    "ru": "В спальне есть кровать и три стула",
-    "en": "There is a bed and three chairs in the bedroom"
-  },
-  {
-    "_id": 45,
-    "ru": "На кухне есть несколько стульев и стол",
-    "en": "There are some chairs and a table in the kitchen"
-  },
-  {
-    "_id": 46,
-    "ru": "В гостиной есть диван и три подушки",
-    "en": "There is a sofa and three pillows in the living room"
-  },
-  {
-    "_id": 47,
-    "ru": "Как давно ты живешь у него?",
-    "en": "How long have you been staying in his place?"
-  },
-  {
-    "_id": 48,
-    "ru": "Как долго ты там живёшь?",
-    "en": "How long have you been staying there?"
-  },
-  {
-    "_id": 49,
-    "ru": "Я живу у нее две недели",
-    "en": "I have been staying in her place for two weeks"
-  },
-  {
-    "_id": 50,
-    "ru": "Я начал работать над этим проектом два месяца назад",
-    "en": "I started working on this project two months ago"
-  },
-  {
-    "_id": 51,
-    "ru": "Я начал искать новую работу два месяца назад",
-    "en": "I started looking for a new job two months ago"
-  },
-  {
-    "_id": 52,
-    "ru": "Я начал работать в этой компании два года назад",
-    "en": "I started working in this company two years ago"
-  },
-  {
-    "_id": 53,
-    "ru": "Это самое красивое место, которое я когда-либо посещал",
-    "en": "It's the most beautiful place I have ever visited"
-  },
-  {
-    "_id": 54,
-    "ru": "Это самый красивый город, который я когда-либо видел",
-    "en": "It's the most beautiful city I have ever seen"
-  },
-  {
-    "_id": 55,
-    "ru": "Я никогда не был в таком красивом месте",
-    "en": "I have never been to such a beautiful place"
-  },
-  {
-    "_id": 56,
-    "ru": "Он сказал, что весь день шел дождь",
-    "en": "He said that it had been raining all day"
-  },
-  {
-    "_id": 57,
-    "ru": "Он сказал мне, что весь день шел снег",
-    "en": "He told me that it had been snowing all day"
-  },
-  {
-    "_id": 58,
-    "ru": "Он сказал, что солнце светило весь день",
-    "en": "He said that the sun had been shining all day"
-  },
-  {
-    "_id": 59,
-    "ru": "Я закончу этот курс к следующему месяцу",
-    "en": "I will have completed this course by next month"
-  },
-  {
-    "_id": 60,
-    "ru": "Я сдам этот тест к завтрашнему дню",
-    "en": "I will have passed this test by tomorrow"
-  },
-  {
-    "_id": 61,
-    "ru": "Я найду новую работу к следующему месяцу",
-    "en": "I will have found a new job by next month"
-  },
-  {
-    "_id": 62,
-    "ru": "Если дождь не прекратится, мы останемся дома",
-    "en": "If it doesn't stop raining, we will stay at home"
-  },
-  {
-    "_id": 63,
-    "ru": "Если дождь прекратится, мы выйдем на улицу",
-    "en": "If it stops raining, we will go outside"
-  },
-  {
-    "_id": 64,
-    "ru": "Это самая интересная книга, которую я когда-либо читал",
-    "en": "It's the most interesting book I've ever read"
-  },
-  {
-    "_id": 65,
-    "ru": "Мне потребовалось много времени, чтобы понять это",
-    "en": "It took me lots of time to understand it"
-  },
-  {
-    "_id": 66,
-    "ru": "Как долго она работает учителем?",
-    "en": "How long has she been working as a teacher?"
-  },
-  {
-    "_id": 67,
-    "ru": "Этот город стал более многолюдным, чем был",
-    "en": "This city became more crowded than it had been"
-  },
-  {
-    "_id": 68,
-    "ru": "Я ищу свои ключи с утра",
-    "en": "I have been looking for my keys since morning"
-  },
-  {
-    "_id": 69,
-    "ru": "Он сказал, что так долго ждал тебя",
-    "en": "He said that he had been waiting for you so long"
-  },
-  {
-    "_id": 70,
-    "ru": "В его комнате три плаката",
-    "en": "There are three posters in his room"
-  },
-  {
-    "_id": 71,
-    "ru": "В моем кабинете есть письменный стол и два стула",
-    "en": "There is a desk and two chairs in my study"
-  },
-  {
-    "_id": 72,
-    "ru": "Я не устал этим заниматься",
-    "en": "I didn't get tired of doing it"
+    "id": 1,
+    "ru": {
+      "text": "Это типично для американской культуры",
+      "audio": false
+    },
+    "en": {
+      "text": "It's typical of American culture",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я никогда не слышал это выражение",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never heard this expression",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Эти дома сделаны из натуральных материалов",
+      "audio": false
+    },
+    "en": {
+      "text": "These houses are made from natural materials",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Почему он начал изучать английский?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did he start learning English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Что ты делаешь в данный момент?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you doing at the moment?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Когда ты начал здесь работать?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you start working here?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Он не боится потерять эту работу",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't afraid of losing this job",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Он пришел ко мне, когда я читал статью об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "He came to me while I was reading an article about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Он остановился и поприветствовал нас",
+      "audio": false
+    },
+    "en": {
+      "text": "He stopped and greeted us",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я надеюсь, что это однажды произойдет",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope it will happen one day",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Он не завтракал сегодня",
+      "audio": false
+    },
+    "en": {
+      "text": "He hasn't had breakfast today",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я позвонил ему, как только я вернулся домой",
+      "audio": false
+    },
+    "en": {
+      "text": "I called him as soon as I got home",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Я думаю, что погода скоро улучшится",
+      "audio": false
+    },
+    "en": {
+      "text": "I think the weather will improve soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Сколько лет вы здесь работаете?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many years have you been working here?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я не устал от этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't get tired of it",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Мне не очень нравится это",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't really like it",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я это осознаю сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I realise it now",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Если погода будет хорошая, мы выйдем на улицу",
+      "audio": false
+    },
+    "en": {
+      "text": "If the weather is fine, we will go out",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Мне потребовалось тридцать минут, чтобы добраться до работы",
+      "audio": false
+    },
+    "en": {
+      "text": "It took me thirty minutes to get to work",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я не знал, что делать в этой ситуации",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't know what to do in this situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Она попросила меня открыть окно",
+      "audio": false
+    },
+    "en": {
+      "text": "She asked me to open the window",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Где будет проходить конференция?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where will the conference take place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Когда он проснулся, было шесть часов утра",
+      "audio": false
+    },
+    "en": {
+      "text": "When he woke up, it was six o'clock in the morning",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Ты когда-нибудь слышал эту фразу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever heard this phrase?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Кому ты звонишь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Whom are you calling?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я заберу тебя после работы",
+      "audio": false
+    },
+    "en": {
+      "text": "I will pick you up after work",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Мой друг прожил здесь всю свою жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend has lived here all his life",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Кого ты там встретил?",
+      "audio": false
+    },
+    "en": {
+      "text": "Whom did you meet there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Я не знал куда идти",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't know where to go",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Все покрыто снегом",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything is covered with snow",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Сколько дней ты читаешь эту книгу?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many days have you been reading this book?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Мой друг ждал меня, когда я прибыл",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend was waiting for me when I arrived",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Он не очень любит музыку",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't really like music",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Дороги были покрыты снегом",
+      "audio": false
+    },
+    "en": {
+      "text": "The roads were covered with snow",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Дом был построен им",
+      "audio": false
+    },
+    "en": {
+      "text": "The house was built by him",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Сколько страниц было переведено?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many pages were translated?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Сколько времени у тебя занимает, чтобы добраться до работы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long does it take you to get to work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Мы не устали находиться вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "We didn't get tired of staying together",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я ищу это весь вечер",
+      "audio": false
+    },
+    "en": {
+      "text": "I have been looking for it the whole evening",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Мой друг ждет его целый день",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend has been waiting for him the whole day",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Когда твои занятия закончатся, я тебя заберу",
+      "audio": false
+    },
+    "en": {
+      "text": "When your classes are over, I'll pick you up",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Он интересуется японской культурой",
+      "audio": false
+    },
+    "en": {
+      "text": "He is interested in Japanese culture",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Он был очень разочарован ее решением",
+      "audio": false
+    },
+    "en": {
+      "text": "He felt really disappointed with her decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "В спальне есть кровать и три стула",
+      "audio": false
+    },
+    "en": {
+      "text": "There is a bed and three chairs in the bedroom",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "На кухне есть несколько стульев и стол",
+      "audio": false
+    },
+    "en": {
+      "text": "There are some chairs and a table in the kitchen",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "В гостиной есть диван и три подушки",
+      "audio": false
+    },
+    "en": {
+      "text": "There is a sofa and three pillows in the living room",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Как давно ты живешь у него?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long have you been staying in his place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Как долго ты там живёшь?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long have you been staying there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я живу у нее две недели",
+      "audio": false
+    },
+    "en": {
+      "text": "I have been staying in her place for two weeks",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я начал работать над этим проектом два месяца назад",
+      "audio": false
+    },
+    "en": {
+      "text": "I started working on this project two months ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я начал искать новую работу два месяца назад",
+      "audio": false
+    },
+    "en": {
+      "text": "I started looking for a new job two months ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я начал работать в этой компании два года назад",
+      "audio": false
+    },
+    "en": {
+      "text": "I started working in this company two years ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Это самое красивое место, которое я когда-либо посещал",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the most beautiful place I have ever visited",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Это самый красивый город, который я когда-либо видел",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the most beautiful city I have ever seen",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я никогда не был в таком красивом месте",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never been to such a beautiful place",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Он сказал, что весь день шел дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that it had been raining all day",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Он сказал мне, что весь день шел снег",
+      "audio": false
+    },
+    "en": {
+      "text": "He told me that it had been snowing all day",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Он сказал, что солнце светило весь день",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that the sun had been shining all day",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я закончу этот курс к следующему месяцу",
+      "audio": false
+    },
+    "en": {
+      "text": "I will have completed this course by next month",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я сдам этот тест к завтрашнему дню",
+      "audio": false
+    },
+    "en": {
+      "text": "I will have passed this test by tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я найду новую работу к следующему месяцу",
+      "audio": false
+    },
+    "en": {
+      "text": "I will have found a new job by next month",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Если дождь не прекратится, мы останемся дома",
+      "audio": false
+    },
+    "en": {
+      "text": "If it doesn't stop raining, we will stay at home",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Если дождь прекратится, мы выйдем на улицу",
+      "audio": false
+    },
+    "en": {
+      "text": "If it stops raining, we will go outside",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Это самая интересная книга, которую я когда-либо читал",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the most interesting book I've ever read",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Мне потребовалось много времени, чтобы понять это",
+      "audio": false
+    },
+    "en": {
+      "text": "It took me lots of time to understand it",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Как долго она работает учителем?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long has she been working as a teacher?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Этот город стал более многолюдным, чем был",
+      "audio": false
+    },
+    "en": {
+      "text": "This city became more crowded than it had been",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я ищу свои ключи с утра",
+      "audio": false
+    },
+    "en": {
+      "text": "I have been looking for my keys since morning",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Он сказал, что так долго ждал тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had been waiting for you so long",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "В его комнате три плаката",
+      "audio": false
+    },
+    "en": {
+      "text": "There are three posters in his room",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "В моем кабинете есть письменный стол и два стула",
+      "audio": false
+    },
+    "en": {
+      "text": "There is a desk and two chairs in my study",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я не устал этим заниматься",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't get tired of doing it",
+      "audio": false
+    }
   }
 ]

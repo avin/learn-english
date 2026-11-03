@@ -1,107 +1,233 @@
 [
   {
-    "_id": 1,
-    "ru": "Она сказала, что собирается защищать свои права",
-    "en": "She said that she was going to defend her rights"
+    "id": 1,
+    "ru": {
+      "text": "Она сказала, что собирается защищать свои права",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that she was going to defend her rights",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я думал, что это рано или поздно случится",
-    "en": "I thought that it would happen sooner or later"
+    "id": 2,
+    "ru": {
+      "text": "Я думал, что это рано или поздно случится",
+      "audio": false
+    },
+    "en": {
+      "text": "I thought that it would happen sooner or later",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Я хочу, чтобы ты понял, что это только так кажется",
-    "en": "I want you to understand that it only seems so"
+    "id": 3,
+    "ru": {
+      "text": "Я хочу, чтобы ты понял, что это только так кажется",
+      "audio": false
+    },
+    "en": {
+      "text": "I want you to understand that it only seems so",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Если бы я был на твоем месте, я бы сделал то же самое",
-    "en": "If I were you, I would do the same"
+    "id": 4,
+    "ru": {
+      "text": "Если бы я был на твоем месте, я бы сделал то же самое",
+      "audio": false
+    },
+    "en": {
+      "text": "If I were you, I would do the same",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Кем ты воспитывался?",
-    "en": "Who were you brought up by?"
+    "id": 5,
+    "ru": {
+      "text": "Кем ты воспитывался?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who were you brought up by?",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Мне кажется, тебе не следует обращать на это внимание",
-    "en": "It seems to me you shouldn't pay attention to it"
+    "id": 6,
+    "ru": {
+      "text": "Мне кажется, тебе не следует обращать на это внимание",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me you shouldn't pay attention to it",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я просто шучу",
-    "en": "I'm just kidding"
+    "id": 7,
+    "ru": {
+      "text": "Я просто шучу",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm just kidding",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Они объявили победителя",
-    "en": "They declared the winner"
+    "id": 8,
+    "ru": {
+      "text": "Они объявили победителя",
+      "audio": false
+    },
+    "en": {
+      "text": "They declared the winner",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Ты можешь стереть это",
-    "en": "You can rub it out"
+    "id": 9,
+    "ru": {
+      "text": "Ты можешь стереть это",
+      "audio": false
+    },
+    "en": {
+      "text": "You can rub it out",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Она сказала, что он правильно выполнил задание",
-    "en": "She said that he performed the task correctly"
+    "id": 10,
+    "ru": {
+      "text": "Она сказала, что он правильно выполнил задание",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that he performed the task correctly",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Вы когда-нибудь слышали об этом?",
-    "en": "Have you ever heard about it?"
+    "id": 11,
+    "ru": {
+      "text": "Вы когда-нибудь слышали об этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever heard about it?",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Они снабжают их водой",
-    "en": "They supply them with water"
+    "id": 12,
+    "ru": {
+      "text": "Они снабжают их водой",
+      "audio": false
+    },
+    "en": {
+      "text": "They supply them with water",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Не забудь выключить свет перед тем, как уйти",
-    "en": "Don't forget to turn off the light before leaving"
+    "id": 13,
+    "ru": {
+      "text": "Не забудь выключить свет перед тем, как уйти",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't forget to turn off the light before leaving",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я пытаюсь уладить эту проблему сейчас",
-    "en": "I'm trying to fix this problem now"
+    "id": 14,
+    "ru": {
+      "text": "Я пытаюсь уладить эту проблему сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm trying to fix this problem now",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Он уже ушел на работу",
-    "en": "He's already left for work"
+    "id": 15,
+    "ru": {
+      "text": "Он уже ушел на работу",
+      "audio": false
+    },
+    "en": {
+      "text": "He's already left for work",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Что стало причиной его смерти?",
-    "en": "What caused his death?"
+    "id": 16,
+    "ru": {
+      "text": "Что стало причиной его смерти?",
+      "audio": false
+    },
+    "en": {
+      "text": "What caused his death?",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Написано, что этот продукт содержит орехи",
-    "en": "It's written this product contains nuts"
+    "id": 17,
+    "ru": {
+      "text": "Написано, что этот продукт содержит орехи",
+      "audio": false
+    },
+    "en": {
+      "text": "It's written this product contains nuts",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Я должен был выполнить эту задачу",
-    "en": "I had to complete that task"
+    "id": 18,
+    "ru": {
+      "text": "Я должен был выполнить эту задачу",
+      "audio": false
+    },
+    "en": {
+      "text": "I had to complete that task",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Ты шутишь?",
-    "en": "Are you joking?"
+    "id": 19,
+    "ru": {
+      "text": "Ты шутишь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you joking?",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Написано, что это было произведено в Японии",
-    "en": "It's written that it was produced in Japan"
+    "id": 20,
+    "ru": {
+      "text": "Написано, что это было произведено в Японии",
+      "audio": false
+    },
+    "en": {
+      "text": "It's written that it was produced in Japan",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Он сказал, что заберет меня из аэропорта",
-    "en": "He said that he would collect me from the airport"
+    "id": 21,
+    "ru": {
+      "text": "Он сказал, что заберет меня из аэропорта",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he would collect me from the airport",
+      "audio": false
+    }
   }
 ]

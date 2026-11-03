@@ -1,537 +1,1179 @@
 [
   {
-    "_id": 1,
-    "ru": "Я понимаю тебя",
-    "en": "I understand you"
-  },
-  {
-    "_id": 2,
-    "ru": "Они живут в этой стране",
-    "en": "They live in this country"
-  },
-  {
-    "_id": 3,
-    "ru": "Я путешествую каждый год",
-    "en": "I travel every year"
-  },
-  {
-    "_id": 4,
-    "ru": "Я тоже думаю так",
-    "en": "I also think so"
-  },
-  {
-    "_id": 5,
-    "ru": "Я говорю по-английски",
-    "en": "I speak English"
-  },
-  {
-    "_id": 6,
-    "ru": "Я хожу на работу",
-    "en": "I go to work"
-  },
-  {
-    "_id": 7,
-    "ru": "Мне нравится этот язык",
-    "en": "I like this language"
-  },
-  {
-    "_id": 8,
-    "ru": "Я учусь и работаю",
-    "en": "I study and work"
-  },
-  {
-    "_id": 9,
-    "ru": "Я знаю это очень хорошо",
-    "en": "I know it very well"
-  },
-  {
-    "_id": 10,
-    "ru": "Они живут в этой стране",
-    "en": "They live in this country"
-  },
-  {
-    "_id": 11,
-    "ru": "Я живу в Нью-Йорке",
-    "en": "I live in New York"
-  },
-  {
-    "_id": 12,
-    "ru": "Я понимаю это",
-    "en": "I understand it"
-  },
-  {
-    "_id": 13,
-    "ru": "Я понимаю тебя",
-    "en": "I understand you"
-  },
-  {
-    "_id": 14,
-    "ru": "Я изучаю английский",
-    "en": "I learn English"
-  },
-  {
-    "_id": 15,
-    "ru": "Я живу в России",
-    "en": "I live in Russia"
-  },
-  {
-    "_id": 16,
-    "ru": "Я вижу это",
-    "en": "I see it"
-  },
-  {
-    "_id": 17,
-    "ru": "Я понимаю тебя очень хорошо",
-    "en": "I understand you very well"
-  },
-  {
-    "_id": 18,
-    "ru": "Я говорю по-английски и по-русски",
-    "en": "I speak English and Russian"
-  },
-  {
-    "_id": 19,
-    "ru": "Я говорю по-английски",
-    "en": "I speak English"
-  },
-  {
-    "_id": 20,
-    "ru": "Мне нравится английский",
-    "en": "I like English"
-  },
-  {
-    "_id": 21,
-    "ru": "Я знаю",
-    "en": "I know"
-  },
-  {
-    "_id": 22,
-    "ru": "Я изучаю английский онлайн",
-    "en": "I learn English online"
-  },
-  {
-    "_id": 23,
-    "ru": "Я знаю это",
-    "en": "I know it"
-  },
-  {
-    "_id": 24,
-    "ru": "Мне нравится этот город",
-    "en": "I like this city"
-  },
-  {
-    "_id": 25,
-    "ru": "Я хочу это",
-    "en": "I want it"
-  },
-  {
-    "_id": 26,
-    "ru": "Я работаю",
-    "en": "I work"
-  },
-  {
-    "_id": 27,
-    "ru": "Я вижу свои результаты",
-    "en": "I see my results"
-  },
-  {
-    "_id": 28,
-    "ru": "Я учусь",
-    "en": "I study"
-  },
-  {
-    "_id": 29,
-    "ru": "Мы понимаем тебя",
-    "en": "We understand you"
-  },
-  {
-    "_id": 30,
-    "ru": "Я работаю и учусь",
-    "en": "I work and study"
-  },
-  {
-    "_id": 31,
-    "ru": "Мне нравится эта программа",
-    "en": "I like this program"
-  },
-  {
-    "_id": 32,
-    "ru": "Я вижу тебя",
-    "en": "I see you"
-  },
-  {
-    "_id": 33,
-    "ru": "Я понимаю",
-    "en": "I understand"
-  },
-  {
-    "_id": 34,
-    "ru": "Мне нравится это видео",
-    "en": "I like this video"
-  },
-  {
-    "_id": 35,
-    "ru": "Я вижу свой результат",
-    "en": "I see my result"
-  },
-  {
-    "_id": 36,
-    "ru": "Я понимаю этот урок",
-    "en": "I understand this lesson"
-  },
-  {
-    "_id": 37,
-    "ru": "Ты помогаешь мне",
-    "en": "You help me"
-  },
-  {
-    "_id": 38,
-    "ru": "Я очень хорошо знаю это",
-    "en": "I know it very well"
-  },
-  {
-    "_id": 39,
-    "ru": "Я могу говорить по-английски",
-    "en": "I can speak English"
-  },
-  {
-    "_id": 40,
-    "ru": "Мне нравится это место",
-    "en": "I like this place"
-  },
-  {
-    "_id": 41,
-    "ru": "Мы живем в этом городе",
-    "en": "We live in this city"
-  },
-  {
-    "_id": 42,
-    "ru": "Ты говоришь по-английски очень хорошо",
-    "en": "You speak English very well"
-  },
-  {
-    "_id": 43,
-    "ru": "Я говорю по-русски",
-    "en": "I speak Russian"
-  },
-  {
-    "_id": 44,
-    "ru": "Я действительно хочу этого",
-    "en": "I really want it"
-  },
-  {
-    "_id": 45,
-    "ru": "Я действительно понимаю этот урок",
-    "en": "I really understand this lesson"
-  },
-  {
-    "_id": 46,
-    "ru": "Я вижу это очень хорошо",
-    "en": "I see it very well"
-  },
-  {
-    "_id": 47,
-    "ru": "Ты действительно помогаешь мне",
-    "en": "Your really help me"
-  },
-  {
-    "_id": 48,
-    "ru": "Я иногда думаю об этом",
-    "en": "I sometimes think about it"
-  },
-  {
-    "_id": 49,
-    "ru": "Я так думаю",
-    "en": "I think so"
-  },
-  {
-    "_id": 50,
-    "ru": "Они живут там",
-    "en": "They live there"
-  },
-  {
-    "_id": 51,
-    "ru": "Я думаю об этом",
-    "en": "I think about it"
-  },
-  {
-    "_id": 52,
-    "ru": "Мы обычно покупаем это там",
-    "en": "We usually buy it there"
-  },
-  {
-    "_id": 53,
-    "ru": "Я часто думаю об этом",
-    "en": "I often think about it"
-  },
-  {
-    "_id": 54,
-    "ru": "Мне нравится музыка",
-    "en": "I like music"
-  },
-  {
-    "_id": 55,
-    "ru": "Мне нравятся эти вещи",
-    "en": "I like these things"
-  },
-  {
-    "_id": 56,
-    "ru": "Я играю в эту игру",
-    "en": "I play this game"
-  },
-  {
-    "_id": 57,
-    "ru": "Я хожу туда",
-    "en": "I go there"
-  },
-  {
-    "_id": 58,
-    "ru": "Они тоже думают так",
-    "en": "They also think so"
-  },
-  {
-    "_id": 59,
-    "ru": "Я часто делаю это",
-    "en": "I often do it"
-  },
-  {
-    "_id": 60,
-    "ru": "Ты работаешь очень хорошо",
-    "en": "You work very well"
-  },
-  {
-    "_id": 61,
-    "ru": "Я делаю это каждый день",
-    "en": "I do it every day"
-  },
-  {
-    "_id": 62,
-    "ru": "Я хожу в школу",
-    "en": "I go to school"
-  },
-  {
-    "_id": 63,
-    "ru": "Я обычно покупаю эту вещь там",
-    "en": "I usually buy this thing there"
-  },
-  {
-    "_id": 64,
-    "ru": "Я покупаю эту вещь там",
-    "en": "I buy this thing there"
-  },
-  {
-    "_id": 65,
-    "ru": "Я обычно покупаю это здесь",
-    "en": "I usually buy it here"
-  },
-  {
-    "_id": 66,
-    "ru": "Я читаю эту книгу",
-    "en": "I read this book"
-  },
-  {
-    "_id": 67,
-    "ru": "Я читаю английские книги",
-    "en": "I read English books"
-  },
-  {
-    "_id": 68,
-    "ru": "Я читаю книги",
-    "en": "I read books"
-  },
-  {
-    "_id": 69,
-    "ru": "Мы так думаем",
-    "en": "We think so"
-  },
-  {
-    "_id": 70,
-    "ru": "Они так думают",
-    "en": "They think so"
-  },
-  {
-    "_id": 71,
-    "ru": "Мы думаем об этом",
-    "en": "We think about it"
-  },
-  {
-    "_id": 72,
-    "ru": "Мы часто ходим туда",
-    "en": "We often go there"
-  },
-  {
-    "_id": 73,
-    "ru": "Я часто хожу туда",
-    "en": "I often go there"
-  },
-  {
-    "_id": 74,
-    "ru": "Я иногда хожу туда",
-    "en": "I sometimes go there"
-  },
-  {
-    "_id": 75,
-    "ru": "Я также так думаю",
-    "en": "I also think so"
-  },
-  {
-    "_id": 76,
-    "ru": "Мне также это нравится",
-    "en": "I also like it"
-  },
-  {
-    "_id": 77,
-    "ru": "Я также хочу этого",
-    "en": "I also want it"
-  },
-  {
-    "_id": 78,
-    "ru": "Я путешествую каждый год",
-    "en": "I travel every year"
-  },
-  {
-    "_id": 79,
-    "ru": "Я путешествую каждый месяц",
-    "en": "I travel every month"
-  },
-  {
-    "_id": 80,
-    "ru": "Я часто путешествую",
-    "en": "I often travel"
-  },
-  {
-    "_id": 81,
-    "ru": "Мне нравится этот язык",
-    "en": "I like this language"
-  },
-  {
-    "_id": 82,
-    "ru": "Мне нравится тот язык",
-    "en": "I like that language"
-  },
-  {
-    "_id": 83,
-    "ru": "Нам нравится это место",
-    "en": "We like this place"
-  },
-  {
-    "_id": 84,
-    "ru": "Мне очень нравится это место",
-    "en": "I really like this place"
-  },
-  {
-    "_id": 85,
-    "ru": "Мне нравится эта вещь",
-    "en": "I like this thing"
-  },
-  {
-    "_id": 86,
-    "ru": "Мне нравятся эти видео",
-    "en": "I like these videos"
-  },
-  {
-    "_id": 87,
-    "ru": "Я хожу на работу",
-    "en": "I go to work"
-  },
-  {
-    "_id": 88,
-    "ru": "Я хожу в этот парк",
-    "en": "I go to this park"
-  },
-  {
-    "_id": 89,
-    "ru": "Я хожу в школу",
-    "en": "I go to school"
-  },
-  {
-    "_id": 90,
-    "ru": "Мне нравится английский",
-    "en": "I like English"
-  },
-  {
-    "_id": 91,
-    "ru": "Мне нравится эта практика",
-    "en": "I like this practice"
-  },
-  {
-    "_id": 92,
-    "ru": "Мне очень нравится английский",
-    "en": "I really like English"
-  },
-  {
-    "_id": 93,
-    "ru": "Я тоже так думаю",
-    "en": "I also think so"
-  },
-  {
-    "_id": 94,
-    "ru": "Они так думают",
-    "en": "They think so"
-  },
-  {
-    "_id": 95,
-    "ru": "Я часто играю в эту игру",
-    "en": "I often play this game"
-  },
-  {
-    "_id": 96,
-    "ru": "Я могу помочь тебе",
-    "en": "I can help you"
-  },
-  {
-    "_id": 97,
-    "ru": "Мне нравится эта песня",
-    "en": "I like this song"
-  },
-  {
-    "_id": 98,
-    "ru": "Они часто играют в футбол",
-    "en": "They often play football"
-  },
-  {
-    "_id": 99,
-    "ru": "Мне нравится путешествовать",
-    "en": "I like travelling"
-  },
-  {
-    "_id": 100,
-    "ru": "Я часто вижу эти вещи",
-    "en": "I often see these things"
-  },
-  {
-    "_id": 101,
-    "ru": "Нам нравится этот язык",
-    "en": "We like this language"
-  },
-  {
-    "_id": 102,
-    "ru": "Я хочу больше практики",
-    "en": "I want more practice"
-  },
-  {
-    "_id": 103,
-    "ru": "Я часто путешествую",
-    "en": "I often travel"
-  },
-  {
-    "_id": 104,
-    "ru": "Я люблю тебя",
-    "en": "I love you"
-  },
-  {
-    "_id": 105,
-    "ru": "Я работаю там",
-    "en": "I work there"
-  },
-  {
-    "_id": 106,
-    "ru": "Мне нравится эта музыка",
-    "en": "I like this music"
-  },
-  {
-    "_id": 107,
-    "ru": "Мы живем здесь",
-    "en": "We live here"
+    "id": 1,
+    "ru": {
+      "text": "Я понимаю тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I understand you",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Они живут в этой стране",
+      "audio": false
+    },
+    "en": {
+      "text": "They live in this country",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я путешествую каждый год",
+      "audio": false
+    },
+    "en": {
+      "text": "I travel every year",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я тоже думаю так",
+      "audio": false
+    },
+    "en": {
+      "text": "I also think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я говорю по-английски",
+      "audio": false
+    },
+    "en": {
+      "text": "I speak English",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я хожу на работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I go to work",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Мне нравится этот язык",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this language",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я учусь и работаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I study and work",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я знаю это очень хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "I know it very well",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Они живут в этой стране",
+      "audio": false
+    },
+    "en": {
+      "text": "They live in this country",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я живу в Нью-Йорке",
+      "audio": false
+    },
+    "en": {
+      "text": "I live in New York",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я понимаю это",
+      "audio": false
+    },
+    "en": {
+      "text": "I understand it",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Я понимаю тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I understand you",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я изучаю английский",
+      "audio": false
+    },
+    "en": {
+      "text": "I learn English",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я живу в России",
+      "audio": false
+    },
+    "en": {
+      "text": "I live in Russia",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я вижу это",
+      "audio": false
+    },
+    "en": {
+      "text": "I see it",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я понимаю тебя очень хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "I understand you very well",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я говорю по-английски и по-русски",
+      "audio": false
+    },
+    "en": {
+      "text": "I speak English and Russian",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я говорю по-английски",
+      "audio": false
+    },
+    "en": {
+      "text": "I speak English",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Мне нравится английский",
+      "audio": false
+    },
+    "en": {
+      "text": "I like English",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Я знаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I know",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Я изучаю английский онлайн",
+      "audio": false
+    },
+    "en": {
+      "text": "I learn English online",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Я знаю это",
+      "audio": false
+    },
+    "en": {
+      "text": "I know it",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Мне нравится этот город",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this city",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Я хочу это",
+      "audio": false
+    },
+    "en": {
+      "text": "I want it",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я работаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I work",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я вижу свои результаты",
+      "audio": false
+    },
+    "en": {
+      "text": "I see my results",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Я учусь",
+      "audio": false
+    },
+    "en": {
+      "text": "I study",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Мы понимаем тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "We understand you",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я работаю и учусь",
+      "audio": false
+    },
+    "en": {
+      "text": "I work and study",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Мне нравится эта программа",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this program",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я вижу тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I see you",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я понимаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I understand",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Мне нравится это видео",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this video",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я вижу свой результат",
+      "audio": false
+    },
+    "en": {
+      "text": "I see my result",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я понимаю этот урок",
+      "audio": false
+    },
+    "en": {
+      "text": "I understand this lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Ты помогаешь мне",
+      "audio": false
+    },
+    "en": {
+      "text": "You help me",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Я очень хорошо знаю это",
+      "audio": false
+    },
+    "en": {
+      "text": "I know it very well",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я могу говорить по-английски",
+      "audio": false
+    },
+    "en": {
+      "text": "I can speak English",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Мне нравится это место",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this place",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Мы живем в этом городе",
+      "audio": false
+    },
+    "en": {
+      "text": "We live in this city",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Ты говоришь по-английски очень хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "You speak English very well",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я говорю по-русски",
+      "audio": false
+    },
+    "en": {
+      "text": "I speak Russian",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я действительно хочу этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I really want it",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я действительно понимаю этот урок",
+      "audio": false
+    },
+    "en": {
+      "text": "I really understand this lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я вижу это очень хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "I see it very well",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Ты действительно помогаешь мне",
+      "audio": false
+    },
+    "en": {
+      "text": "Your really help me",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я иногда думаю об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I sometimes think about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я так думаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Они живут там",
+      "audio": false
+    },
+    "en": {
+      "text": "They live there",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я думаю об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I think about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Мы обычно покупаем это там",
+      "audio": false
+    },
+    "en": {
+      "text": "We usually buy it there",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я часто думаю об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I often think about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Мне нравится музыка",
+      "audio": false
+    },
+    "en": {
+      "text": "I like music",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Мне нравятся эти вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "I like these things",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я играю в эту игру",
+      "audio": false
+    },
+    "en": {
+      "text": "I play this game",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я хожу туда",
+      "audio": false
+    },
+    "en": {
+      "text": "I go there",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Они тоже думают так",
+      "audio": false
+    },
+    "en": {
+      "text": "They also think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я часто делаю это",
+      "audio": false
+    },
+    "en": {
+      "text": "I often do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Ты работаешь очень хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "You work very well",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я делаю это каждый день",
+      "audio": false
+    },
+    "en": {
+      "text": "I do it every day",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я хожу в школу",
+      "audio": false
+    },
+    "en": {
+      "text": "I go to school",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я обычно покупаю эту вещь там",
+      "audio": false
+    },
+    "en": {
+      "text": "I usually buy this thing there",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я покупаю эту вещь там",
+      "audio": false
+    },
+    "en": {
+      "text": "I buy this thing there",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я обычно покупаю это здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "I usually buy it here",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я читаю эту книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "I read this book",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я читаю английские книги",
+      "audio": false
+    },
+    "en": {
+      "text": "I read English books",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я читаю книги",
+      "audio": false
+    },
+    "en": {
+      "text": "I read books",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Мы так думаем",
+      "audio": false
+    },
+    "en": {
+      "text": "We think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Они так думают",
+      "audio": false
+    },
+    "en": {
+      "text": "They think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Мы думаем об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "We think about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Мы часто ходим туда",
+      "audio": false
+    },
+    "en": {
+      "text": "We often go there",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я часто хожу туда",
+      "audio": false
+    },
+    "en": {
+      "text": "I often go there",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я иногда хожу туда",
+      "audio": false
+    },
+    "en": {
+      "text": "I sometimes go there",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я также так думаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I also think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Мне также это нравится",
+      "audio": false
+    },
+    "en": {
+      "text": "I also like it",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я также хочу этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I also want it",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я путешествую каждый год",
+      "audio": false
+    },
+    "en": {
+      "text": "I travel every year",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Я путешествую каждый месяц",
+      "audio": false
+    },
+    "en": {
+      "text": "I travel every month",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я часто путешествую",
+      "audio": false
+    },
+    "en": {
+      "text": "I often travel",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Мне нравится этот язык",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this language",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Мне нравится тот язык",
+      "audio": false
+    },
+    "en": {
+      "text": "I like that language",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Нам нравится это место",
+      "audio": false
+    },
+    "en": {
+      "text": "We like this place",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Мне очень нравится это место",
+      "audio": false
+    },
+    "en": {
+      "text": "I really like this place",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Мне нравится эта вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Мне нравятся эти видео",
+      "audio": false
+    },
+    "en": {
+      "text": "I like these videos",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Я хожу на работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I go to work",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Я хожу в этот парк",
+      "audio": false
+    },
+    "en": {
+      "text": "I go to this park",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Я хожу в школу",
+      "audio": false
+    },
+    "en": {
+      "text": "I go to school",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Мне нравится английский",
+      "audio": false
+    },
+    "en": {
+      "text": "I like English",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Мне нравится эта практика",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this practice",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Мне очень нравится английский",
+      "audio": false
+    },
+    "en": {
+      "text": "I really like English",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Я тоже так думаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I also think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Они так думают",
+      "audio": false
+    },
+    "en": {
+      "text": "They think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Я часто играю в эту игру",
+      "audio": false
+    },
+    "en": {
+      "text": "I often play this game",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Я могу помочь тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I can help you",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Мне нравится эта песня",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this song",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Они часто играют в футбол",
+      "audio": false
+    },
+    "en": {
+      "text": "They often play football",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Мне нравится путешествовать",
+      "audio": false
+    },
+    "en": {
+      "text": "I like travelling",
+      "audio": false
+    }
+  },
+  {
+    "id": 100,
+    "ru": {
+      "text": "Я часто вижу эти вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "I often see these things",
+      "audio": false
+    }
+  },
+  {
+    "id": 101,
+    "ru": {
+      "text": "Нам нравится этот язык",
+      "audio": false
+    },
+    "en": {
+      "text": "We like this language",
+      "audio": false
+    }
+  },
+  {
+    "id": 102,
+    "ru": {
+      "text": "Я хочу больше практики",
+      "audio": false
+    },
+    "en": {
+      "text": "I want more practice",
+      "audio": false
+    }
+  },
+  {
+    "id": 103,
+    "ru": {
+      "text": "Я часто путешествую",
+      "audio": false
+    },
+    "en": {
+      "text": "I often travel",
+      "audio": false
+    }
+  },
+  {
+    "id": 104,
+    "ru": {
+      "text": "Я люблю тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I love you",
+      "audio": false
+    }
+  },
+  {
+    "id": 105,
+    "ru": {
+      "text": "Я работаю там",
+      "audio": false
+    },
+    "en": {
+      "text": "I work there",
+      "audio": false
+    }
+  },
+  {
+    "id": 106,
+    "ru": {
+      "text": "Мне нравится эта музыка",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this music",
+      "audio": false
+    }
+  },
+  {
+    "id": 107,
+    "ru": {
+      "text": "Мы живем здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "We live here",
+      "audio": false
+    }
   }
 ]

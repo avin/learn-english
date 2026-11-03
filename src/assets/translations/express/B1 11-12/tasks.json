@@ -1,112 +1,244 @@
 [
   {
-    "_id": 1,
-    "ru": "Он ведет себя как ребенок сейчас",
-    "en": "He's acting like a baby now"
+    "id": 1,
+    "ru": {
+      "text": "Он ведет себя как ребенок сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "He's acting like a baby now",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Его поддерживает эта группа людей",
-    "en": "He’s supported by this group of people"
+    "id": 2,
+    "ru": {
+      "text": "Его поддерживает эта группа людей",
+      "audio": false
+    },
+    "en": {
+      "text": "He’s supported by this group of people",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Как я вижу, все работает надлежащим образом",
-    "en": "As I see, everything functions properly"
+    "id": 3,
+    "ru": {
+      "text": "Как я вижу, все работает надлежащим образом",
+      "audio": false
+    },
+    "en": {
+      "text": "As I see, everything functions properly",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Почему она плачет?",
-    "en": "Why is she crying?"
+    "id": 4,
+    "ru": {
+      "text": "Почему она плачет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is she crying?",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Воры были пойманы полицией",
-    "en": "The thieves were caught by the police"
+    "id": 5,
+    "ru": {
+      "text": "Воры были пойманы полицией",
+      "audio": false
+    },
+    "en": {
+      "text": "The thieves were caught by the police",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Преступники не сумели скрыться от полиции",
-    "en": "The criminals didn't manage to escape from the police"
+    "id": 6,
+    "ru": {
+      "text": "Преступники не сумели скрыться от полиции",
+      "audio": false
+    },
+    "en": {
+      "text": "The criminals didn't manage to escape from the police",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Этот канал был создан им год назад",
-    "en": "This channel was created by him a year ago"
+    "id": 7,
+    "ru": {
+      "text": "Этот канал был создан им год назад",
+      "audio": false
+    },
+    "en": {
+      "text": "This channel was created by him a year ago",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Позволь мне объяснить тебе это!",
-    "en": "Let me explain it to you!"
+    "id": 8,
+    "ru": {
+      "text": "Позволь мне объяснить тебе это!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let me explain it to you!",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Забор покрасили вчера",
-    "en": "The fence was painted yesterday"
+    "id": 9,
+    "ru": {
+      "text": "Забор покрасили вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "The fence was painted yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Это защищено авторским правом",
-    "en": "It's protected by copyright"
+    "id": 10,
+    "ru": {
+      "text": "Это защищено авторским правом",
+      "audio": false
+    },
+    "en": {
+      "text": "It's protected by copyright",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Он сказал, что вырос в Соединенном Королевстве",
-    "en": "He said that he had grown up in the UK"
+    "id": 11,
+    "ru": {
+      "text": "Он сказал, что вырос в Соединенном Королевстве",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had grown up in the UK",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Файл только что был скачен",
-    "en": "The file has just been downloaded"
+    "id": 12,
+    "ru": {
+      "text": "Файл только что был скачен",
+      "audio": false
+    },
+    "en": {
+      "text": "The file has just been downloaded",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Они отремонтируют часы к следующей неделе",
-    "en": "They will have repaired the watch by next week"
+    "id": 13,
+    "ru": {
+      "text": "Они отремонтируют часы к следующей неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "They will have repaired the watch by next week",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Он не согласен с тобой сейчас",
-    "en": "He doesn't agree with you now"
+    "id": 14,
+    "ru": {
+      "text": "Он не согласен с тобой сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't agree with you now",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Это только что было объявлено",
-    "en": "It has just been announced"
+    "id": 15,
+    "ru": {
+      "text": "Это только что было объявлено",
+      "audio": false
+    },
+    "en": {
+      "text": "It has just been announced",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Он в основном имел дело с поставщиками",
-    "en": "He mostly dealt with suppliers"
+    "id": 16,
+    "ru": {
+      "text": "Он в основном имел дело с поставщиками",
+      "audio": false
+    },
+    "en": {
+      "text": "He mostly dealt with suppliers",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Ты уже закончил делать это?",
-    "en": "Have you already finished doing it?"
+    "id": 17,
+    "ru": {
+      "text": "Ты уже закончил делать это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you already finished doing it?",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Прекрати жаловаться все время!",
-    "en": "Stop complaining all the time!"
+    "id": 18,
+    "ru": {
+      "text": "Прекрати жаловаться все время!",
+      "audio": false
+    },
+    "en": {
+      "text": "Stop complaining all the time!",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Нет никакой необходимости удлинять этот курс",
-    "en": "There is no need to lengthen this course"
+    "id": 19,
+    "ru": {
+      "text": "Нет никакой необходимости удлинять этот курс",
+      "audio": false
+    },
+    "en": {
+      "text": "There is no need to lengthen this course",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Вычти 10 из 20, и ты получишь эту цифру",
-    "en": "Subtract 10 from 20 and you'll get this figure"
+    "id": 20,
+    "ru": {
+      "text": "Вычти 10 из 20, и ты получишь эту цифру",
+      "audio": false
+    },
+    "en": {
+      "text": "Subtract 10 from 20 and you'll get this figure",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Его ценят и уважают",
-    "en": "He's valued and respected"
+    "id": 21,
+    "ru": {
+      "text": "Его ценят и уважают",
+      "audio": false
+    },
+    "en": {
+      "text": "He's valued and respected",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Он сказал, что проголосовал за второго кандидата",
-    "en": "He said that he had voted for the second candidate"
+    "id": 22,
+    "ru": {
+      "text": "Он сказал, что проголосовал за второго кандидата",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had voted for the second candidate",
+      "audio": false
+    }
   }
 ]

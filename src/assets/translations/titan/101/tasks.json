@@ -1,482 +1,1058 @@
 [
   {
-    "_id": 1,
-    "ru": "Он злится на нее",
-    "en": "He’s angry with her"
-  },
-  {
-    "_id": 2,
-    "ru": "Мы готовы к этому",
-    "en": "We’re ready for it"
-  },
-  {
-    "_id": 3,
-    "ru": "Ты боишься привидений?",
-    "en": "Are you afraid of ghosts?"
-  },
-  {
-    "_id": 4,
-    "ru": "Я горжусь твоими достижениями",
-    "en": "I'm proud of your achievements"
-  },
-  {
-    "_id": 5,
-    "ru": "Я сожалею об этом",
-    "en": "I'm sorry about it"
-  },
-  {
-    "_id": 6,
-    "ru": "Я интересуюсь иностранными языками",
-    "en": "I'm interested in foreign languages"
-  },
-  {
-    "_id": 7,
-    "ru": "Он хорош в футболе",
-    "en": "He is good at football"
-  },
-  {
-    "_id": 8,
-    "ru": "Он заинтересован в этой вакансии",
-    "en": "He's interested in this vacancy"
-  },
-  {
-    "_id": 9,
-    "ru": "Я горжусь твоими успехами",
-    "en": "I'm proud of your successes"
-  },
-  {
-    "_id": 10,
-    "ru": "Она плохо разбирается в математике",
-    "en": "She is bad at maths"
-  },
-  {
-    "_id": 11,
-    "ru": "Она злится на него",
-    "en": "She's angry with him"
-  },
-  {
-    "_id": 12,
-    "ru": "Он всегда полон оптимизма",
-    "en": "He is always full of optimism"
-  },
-  {
-    "_id": 13,
-    "ru": "Он боится собак",
-    "en": "He is afraid of dogs"
-  },
-  {
-    "_id": 14,
-    "ru": "Она действительно злится на него",
-    "en": "She's really angry with him"
-  },
-  {
-    "_id": 15,
-    "ru": "Я обожаю читать",
-    "en": "I'm fond of reading"
-  },
-  {
-    "_id": 16,
-    "ru": "Я действительно зол из-за этой ситуации",
-    "en": "I'm really angry about this situation"
-  },
-  {
-    "_id": 17,
-    "ru": "Он действительно сожалеет об этом",
-    "en": "He feels really sorry about it"
-  },
-  {
-    "_id": 18,
-    "ru": "Я действительно сожалею об этом",
-    "en": "I'm really sorry about it"
-  },
-  {
-    "_id": 19,
-    "ru": "Я не боюсь привидений",
-    "en": "I'm not afraid of ghosts"
-  },
-  {
-    "_id": 20,
-    "ru": "Он интересуется наукой",
-    "en": "He's interested in science"
-  },
-  {
-    "_id": 21,
-    "ru": "Они зависимы от социальных сетей",
-    "en": "They're addicted to social networks"
-  },
-  {
-    "_id": 22,
-    "ru": "Он этого не боится",
-    "en": "He's not afraid of it"
-  },
-  {
-    "_id": 23,
-    "ru": "Я полон энтузиазма",
-    "en": "I'm full of enthusiasm"
-  },
-  {
-    "_id": 24,
-    "ru": "Он боится пауков",
-    "en": "He is afraid of spiders"
-  },
-  {
-    "_id": 25,
-    "ru": "Я действительно сожалею об этой ошибке",
-    "en": "I'm really sorry about this mistake"
-  },
-  {
-    "_id": 26,
-    "ru": "Я заинтересован в этом",
-    "en": "I'm interested in it"
-  },
-  {
-    "_id": 27,
-    "ru": "Он хорош в английском",
-    "en": "He is good at English"
-  },
-  {
-    "_id": 28,
-    "ru": "Я действительно обожаю спорт",
-    "en": "I'm really fond of sport"
-  },
-  {
-    "_id": 29,
-    "ru": "Я готов к этому",
-    "en": "I'm ready for it"
-  },
-  {
-    "_id": 30,
-    "ru": "Я полон оптимизма",
-    "en": "I'm full of optimism"
-  },
-  {
-    "_id": 31,
-    "ru": "Он плох в английском",
-    "en": "He is bad at English"
-  },
-  {
-    "_id": 32,
-    "ru": "Она обожает музыку",
-    "en": "She's fond of music"
-  },
-  {
-    "_id": 33,
-    "ru": "Я действительно люблю путешествовать",
-    "en": "I'm really fond of travelling"
-  },
-  {
-    "_id": 34,
-    "ru": "Он очень зол из-за этого",
-    "en": "He is angry about it"
-  },
-  {
-    "_id": 35,
-    "ru": "Он полон энергии",
-    "en": "He's full of energy"
-  },
-  {
-    "_id": 36,
-    "ru": "Он женат на ней",
-    "en": "He's married to her"
-  },
-  {
-    "_id": 37,
-    "ru": "Я готов к этому",
-    "en": "I'm ready for it"
-  },
-  {
-    "_id": 38,
-    "ru": "Она замужем за ним",
-    "en": "She's married to him"
-  },
-  {
-    "_id": 39,
-    "ru": "Я горжусь этим успехом",
-    "en": "I'm proud of this success"
-  },
-  {
-    "_id": 40,
-    "ru": "Я готов сделать это",
-    "en": "I'm ready to do it"
-  },
-  {
-    "_id": 41,
-    "ru": "Я действительно сожалею об этой ситуации",
-    "en": "I'm really sorry about this situation"
-  },
-  {
-    "_id": 42,
-    "ru": "Она хорошо играет в теннис",
-    "en": "She is good at tennis"
-  },
-  {
-    "_id": 43,
-    "ru": "Она любит читать на английском",
-    "en": "She is fond of reading in English"
-  },
-  {
-    "_id": 44,
-    "ru": "Она действительно хорошо играет в теннис",
-    "en": "She is really good at playing tennis"
-  },
-  {
-    "_id": 45,
-    "ru": "Некоторые люди боятся темноты",
-    "en": "Some people are afraid of the dark"
-  },
-  {
-    "_id": 46,
-    "ru": "Она не интересуется политикой",
-    "en": "She isn't interested in politics"
-  },
-  {
-    "_id": 47,
-    "ru": "Он зависим от употребления алкоголя",
-    "en": "He's addicted to drinking alcohol"
-  },
-  {
-    "_id": 48,
-    "ru": "Он всегда полон энергии",
-    "en": "He is always full of energy"
-  },
-  {
-    "_id": 49,
-    "ru": "Я действительно горжусь твоими достижениями",
-    "en": "I'm really proud of your achievements"
-  },
-  {
-    "_id": 50,
-    "ru": "Это действительно очень мило с твоей стороны",
-    "en": "It's really very nice of you"
-  },
-  {
-    "_id": 51,
-    "ru": "Дети готовы к школе",
-    "en": "The kids are ready for school"
-  },
-  {
-    "_id": 52,
-    "ru": "Он боялся открыть дверь",
-    "en": "He was afraid to open the door"
-  },
-  {
-    "_id": 53,
-    "ru": "Он всегда очень мил со мной",
-    "en": "He's always very nice to me"
-  },
-  {
-    "_id": 54,
-    "ru": "Ты действительно заинтересован в этом?",
-    "en": "Are you really interested in it?"
-  },
-  {
-    "_id": 55,
-    "ru": "Это очень любезно с твоей стороны",
-    "en": "It's very kind of you"
-  },
-  {
-    "_id": 56,
-    "ru": "Это было очень любезно с твоей стороны",
-    "en": "It was really kind of you"
-  },
-  {
-    "_id": 57,
-    "ru": "Это очень любезно с его стороны",
-    "en": "It's very kind of him"
-  },
-  {
-    "_id": 58,
-    "ru": "Он зависим от курения",
-    "en": "He's addicted to smoking"
-  },
-  {
-    "_id": 59,
-    "ru": "Он был действительно зависим от курения",
-    "en": "He was really addicted to smoking"
-  },
-  {
-    "_id": 60,
-    "ru": "Она так сильно зависима от курения",
-    "en": "She's addicted to smoking so heavily"
-  },
-  {
-    "_id": 61,
-    "ru": "Жаль видеть, что он зависим от курения",
-    "en": "It's a pity to see that he's addicted to smoking"
-  },
-  {
-    "_id": 62,
-    "ru": "Ты очень добр к нам",
-    "en": "You're very kind to us"
-  },
-  {
-    "_id": 63,
-    "ru": "Они действительно добры к нам",
-    "en": "They're really kind to us"
-  },
-  {
-    "_id": 64,
-    "ru": "Они были так добры ко мне",
-    "en": "They were so kind to me"
-  },
-  {
-    "_id": 65,
-    "ru": "Я хорош в изучении иностранных языков",
-    "en": "I am good at learning foreign languages"
-  },
-  {
-    "_id": 66,
-    "ru": "Он был хорош в изучении новых языков",
-    "en": "He was good at learning new languages"
-  },
-  {
-    "_id": 67,
-    "ru": "Я действительно хорош в спорте",
-    "en": "I am really good at sport"
-  },
-  {
-    "_id": 68,
-    "ru": "Это очень любезно с его стороны",
-    "en": "It's very kind of him"
-  },
-  {
-    "_id": 69,
-    "ru": "Это будет очень любезно с твоей стороны",
-    "en": "It will be very kind of you"
-  },
-  {
-    "_id": 70,
-    "ru": "Это было так любезно с ее стороны",
-    "en": "It was so kind of her"
-  },
-  {
-    "_id": 71,
-    "ru": "Она любит слушать музыку",
-    "en": "She's fond of listening to music"
-  },
-  {
-    "_id": 72,
-    "ru": "Она увлекается музыкой",
-    "en": "She's keen on music"
-  },
-  {
-    "_id": 73,
-    "ru": "Она любит играть в шахматы",
-    "en": "She's fond of playing chess"
-  },
-  {
-    "_id": 74,
-    "ru": "Он боится темноты",
-    "en": "He's afraid of the dark"
-  },
-  {
-    "_id": 75,
-    "ru": "Он боится темноты?",
-    "en": "Is he afraid of the dark?"
-  },
-  {
-    "_id": 76,
-    "ru": "Она очень боялась темноты, когда была ребенком",
-    "en": "She was really afraid of the dark when she was a child"
-  },
-  {
-    "_id": 77,
-    "ru": "Я не очень хорош в танцах",
-    "en": "I'm not very good at dancing"
-  },
-  {
-    "_id": 78,
-    "ru": "Он не так хорош в спорте",
-    "en": "He's not so good at sport"
-  },
-  {
-    "_id": 79,
-    "ru": "Он действительно так хорош в танцах?",
-    "en": "Is he really so good at dancing?"
-  },
-  {
-    "_id": 80,
-    "ru": "Я действительно сыт этим по горло",
-    "en": "I'm really fed up with it"
-  },
-  {
-    "_id": 81,
-    "ru": "Я сыт по горло его работой",
-    "en": "I'm fed up with his work"
-  },
-  {
-    "_id": 82,
-    "ru": "Он сыт по горло этими проблемами",
-    "en": "He is fed up with these problems"
-  },
-  {
-    "_id": 83,
-    "ru": "Она очень хорошо владеет иностранными языками",
-    "en": "She is very good at foreign languages"
-  },
-  {
-    "_id": 84,
-    "ru": "Она всегда очень добра ко мне",
-    "en": "She is always very kind to me"
-  },
-  {
-    "_id": 85,
-    "ru": "Его родители гордятся им",
-    "en": "His parents are proud of him"
-  },
-  {
-    "_id": 86,
-    "ru": "Он хорошо играет в футбол",
-    "en": "He is good at playing football"
-  },
-  {
-    "_id": 87,
-    "ru": "Я люблю изучать английский",
-    "en": "I'm fond of learning English"
-  },
-  {
-    "_id": 88,
-    "ru": "Она сыта по горло этой рутиной",
-    "en": "She's fed up with this routine"
-  },
-  {
-    "_id": 89,
-    "ru": "Он зависим от азартных игр",
-    "en": "He's addicted to gambling"
-  },
-  {
-    "_id": 90,
-    "ru": "Она действительно хорошо танцует",
-    "en": "She's really good at dancing"
-  },
-  {
-    "_id": 91,
-    "ru": "Он любит играть в компьютерные игры",
-    "en": "He is fond of playing computer games"
-  },
-  {
-    "_id": 92,
-    "ru": "Ты так добр к нам",
-    "en": "You're so kind to us"
-  },
-  {
-    "_id": 93,
-    "ru": "Она боится темноты",
-    "en": "She is afraid of darkness"
-  },
-  {
-    "_id": 94,
-    "ru": "Это очень мило с твоей стороны",
-    "en": "It's very nice of you"
-  },
-  {
-    "_id": 95,
-    "ru": "Ты боишься темноты?",
-    "en": "Are you afraid of the dark?"
-  },
-  {
-    "_id": 96,
-    "ru": "Я сыт этим по горло",
-    "en": "I'm fed up with it"
+    "id": 1,
+    "ru": {
+      "text": "Он злится на нее",
+      "audio": false
+    },
+    "en": {
+      "text": "He’s angry with her",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Мы готовы к этому",
+      "audio": false
+    },
+    "en": {
+      "text": "We’re ready for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Ты боишься привидений?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you afraid of ghosts?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я горжусь твоими достижениями",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm proud of your achievements",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я сожалею об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sorry about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я интересуюсь иностранными языками",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm interested in foreign languages",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Он хорош в футболе",
+      "audio": false
+    },
+    "en": {
+      "text": "He is good at football",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Он заинтересован в этой вакансии",
+      "audio": false
+    },
+    "en": {
+      "text": "He's interested in this vacancy",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я горжусь твоими успехами",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm proud of your successes",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Она плохо разбирается в математике",
+      "audio": false
+    },
+    "en": {
+      "text": "She is bad at maths",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Она злится на него",
+      "audio": false
+    },
+    "en": {
+      "text": "She's angry with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Он всегда полон оптимизма",
+      "audio": false
+    },
+    "en": {
+      "text": "He is always full of optimism",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он боится собак",
+      "audio": false
+    },
+    "en": {
+      "text": "He is afraid of dogs",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Она действительно злится на него",
+      "audio": false
+    },
+    "en": {
+      "text": "She's really angry with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я обожаю читать",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm fond of reading",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я действительно зол из-за этой ситуации",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really angry about this situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Он действительно сожалеет об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "He feels really sorry about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я действительно сожалею об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really sorry about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я не боюсь привидений",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not afraid of ghosts",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Он интересуется наукой",
+      "audio": false
+    },
+    "en": {
+      "text": "He's interested in science",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Они зависимы от социальных сетей",
+      "audio": false
+    },
+    "en": {
+      "text": "They're addicted to social networks",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Он этого не боится",
+      "audio": false
+    },
+    "en": {
+      "text": "He's not afraid of it",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Я полон энтузиазма",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm full of enthusiasm",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Он боится пауков",
+      "audio": false
+    },
+    "en": {
+      "text": "He is afraid of spiders",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Я действительно сожалею об этой ошибке",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really sorry about this mistake",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я заинтересован в этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm interested in it",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Он хорош в английском",
+      "audio": false
+    },
+    "en": {
+      "text": "He is good at English",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Я действительно обожаю спорт",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really fond of sport",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Я готов к этому",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm ready for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я полон оптимизма",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm full of optimism",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Он плох в английском",
+      "audio": false
+    },
+    "en": {
+      "text": "He is bad at English",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Она обожает музыку",
+      "audio": false
+    },
+    "en": {
+      "text": "She's fond of music",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я действительно люблю путешествовать",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really fond of travelling",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он очень зол из-за этого",
+      "audio": false
+    },
+    "en": {
+      "text": "He is angry about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Он полон энергии",
+      "audio": false
+    },
+    "en": {
+      "text": "He's full of energy",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Он женат на ней",
+      "audio": false
+    },
+    "en": {
+      "text": "He's married to her",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я готов к этому",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm ready for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Она замужем за ним",
+      "audio": false
+    },
+    "en": {
+      "text": "She's married to him",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я горжусь этим успехом",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm proud of this success",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я готов сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm ready to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я действительно сожалею об этой ситуации",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really sorry about this situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Она хорошо играет в теннис",
+      "audio": false
+    },
+    "en": {
+      "text": "She is good at tennis",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Она любит читать на английском",
+      "audio": false
+    },
+    "en": {
+      "text": "She is fond of reading in English",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Она действительно хорошо играет в теннис",
+      "audio": false
+    },
+    "en": {
+      "text": "She is really good at playing tennis",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Некоторые люди боятся темноты",
+      "audio": false
+    },
+    "en": {
+      "text": "Some people are afraid of the dark",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Она не интересуется политикой",
+      "audio": false
+    },
+    "en": {
+      "text": "She isn't interested in politics",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Он зависим от употребления алкоголя",
+      "audio": false
+    },
+    "en": {
+      "text": "He's addicted to drinking alcohol",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Он всегда полон энергии",
+      "audio": false
+    },
+    "en": {
+      "text": "He is always full of energy",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я действительно горжусь твоими достижениями",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really proud of your achievements",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Это действительно очень мило с твоей стороны",
+      "audio": false
+    },
+    "en": {
+      "text": "It's really very nice of you",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Дети готовы к школе",
+      "audio": false
+    },
+    "en": {
+      "text": "The kids are ready for school",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Он боялся открыть дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "He was afraid to open the door",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Он всегда очень мил со мной",
+      "audio": false
+    },
+    "en": {
+      "text": "He's always very nice to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Ты действительно заинтересован в этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you really interested in it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Это очень любезно с твоей стороны",
+      "audio": false
+    },
+    "en": {
+      "text": "It's very kind of you",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Это было очень любезно с твоей стороны",
+      "audio": false
+    },
+    "en": {
+      "text": "It was really kind of you",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Это очень любезно с его стороны",
+      "audio": false
+    },
+    "en": {
+      "text": "It's very kind of him",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Он зависим от курения",
+      "audio": false
+    },
+    "en": {
+      "text": "He's addicted to smoking",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Он был действительно зависим от курения",
+      "audio": false
+    },
+    "en": {
+      "text": "He was really addicted to smoking",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Она так сильно зависима от курения",
+      "audio": false
+    },
+    "en": {
+      "text": "She's addicted to smoking so heavily",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Жаль видеть, что он зависим от курения",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a pity to see that he's addicted to smoking",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Ты очень добр к нам",
+      "audio": false
+    },
+    "en": {
+      "text": "You're very kind to us",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Они действительно добры к нам",
+      "audio": false
+    },
+    "en": {
+      "text": "They're really kind to us",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Они были так добры ко мне",
+      "audio": false
+    },
+    "en": {
+      "text": "They were so kind to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я хорош в изучении иностранных языков",
+      "audio": false
+    },
+    "en": {
+      "text": "I am good at learning foreign languages",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Он был хорош в изучении новых языков",
+      "audio": false
+    },
+    "en": {
+      "text": "He was good at learning new languages",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я действительно хорош в спорте",
+      "audio": false
+    },
+    "en": {
+      "text": "I am really good at sport",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Это очень любезно с его стороны",
+      "audio": false
+    },
+    "en": {
+      "text": "It's very kind of him",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Это будет очень любезно с твоей стороны",
+      "audio": false
+    },
+    "en": {
+      "text": "It will be very kind of you",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Это было так любезно с ее стороны",
+      "audio": false
+    },
+    "en": {
+      "text": "It was so kind of her",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Она любит слушать музыку",
+      "audio": false
+    },
+    "en": {
+      "text": "She's fond of listening to music",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Она увлекается музыкой",
+      "audio": false
+    },
+    "en": {
+      "text": "She's keen on music",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Она любит играть в шахматы",
+      "audio": false
+    },
+    "en": {
+      "text": "She's fond of playing chess",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Он боится темноты",
+      "audio": false
+    },
+    "en": {
+      "text": "He's afraid of the dark",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Он боится темноты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he afraid of the dark?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Она очень боялась темноты, когда была ребенком",
+      "audio": false
+    },
+    "en": {
+      "text": "She was really afraid of the dark when she was a child",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я не очень хорош в танцах",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not very good at dancing",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Он не так хорош в спорте",
+      "audio": false
+    },
+    "en": {
+      "text": "He's not so good at sport",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Он действительно так хорош в танцах?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he really so good at dancing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я действительно сыт этим по горло",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really fed up with it",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я сыт по горло его работой",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm fed up with his work",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Он сыт по горло этими проблемами",
+      "audio": false
+    },
+    "en": {
+      "text": "He is fed up with these problems",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Она очень хорошо владеет иностранными языками",
+      "audio": false
+    },
+    "en": {
+      "text": "She is very good at foreign languages",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Она всегда очень добра ко мне",
+      "audio": false
+    },
+    "en": {
+      "text": "She is always very kind to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Его родители гордятся им",
+      "audio": false
+    },
+    "en": {
+      "text": "His parents are proud of him",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Он хорошо играет в футбол",
+      "audio": false
+    },
+    "en": {
+      "text": "He is good at playing football",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Я люблю изучать английский",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm fond of learning English",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Она сыта по горло этой рутиной",
+      "audio": false
+    },
+    "en": {
+      "text": "She's fed up with this routine",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Он зависим от азартных игр",
+      "audio": false
+    },
+    "en": {
+      "text": "He's addicted to gambling",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Она действительно хорошо танцует",
+      "audio": false
+    },
+    "en": {
+      "text": "She's really good at dancing",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Он любит играть в компьютерные игры",
+      "audio": false
+    },
+    "en": {
+      "text": "He is fond of playing computer games",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Ты так добр к нам",
+      "audio": false
+    },
+    "en": {
+      "text": "You're so kind to us",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Она боится темноты",
+      "audio": false
+    },
+    "en": {
+      "text": "She is afraid of darkness",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Это очень мило с твоей стороны",
+      "audio": false
+    },
+    "en": {
+      "text": "It's very nice of you",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Ты боишься темноты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you afraid of the dark?",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Я сыт этим по горло",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm fed up with it",
+      "audio": false
+    }
   }
 ]

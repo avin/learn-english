@@ -1,462 +1,1014 @@
 [
   {
-    "_id": 1,
-    "ru": "Давай посмотрим на это!",
-    "en": "Let's look at it!"
-  },
-  {
-    "_id": 2,
-    "ru": "Я не рекомендую этот курорт тебе",
-    "en": "I don't recommend this resort to you"
-  },
-  {
-    "_id": 3,
-    "ru": "Мои друзья говорят на двух иностранных языках",
-    "en": "My friends speak two foreign languages"
-  },
-  {
-    "_id": 4,
-    "ru": "На скольких иностранных языках ты говоришь?",
-    "en": "How many foreign languages do you speak?"
-  },
-  {
-    "_id": 5,
-    "ru": "Тебе не нужно беспокоиться об этом",
-    "en": "You don't need to worry about it"
-  },
-  {
-    "_id": 6,
-    "ru": "Как ты предпочитаешь изучать английский?",
-    "en": "How do you prefer to learn English?"
-  },
-  {
-    "_id": 7,
-    "ru": "Когда ты хочешь навестить его?",
-    "en": "When do you want to visit him?"
-  },
-  {
-    "_id": 8,
-    "ru": "Почему ты хочешь переехать в другую страну?",
-    "en": "Why do you want to move to another country?"
-  },
-  {
-    "_id": 9,
-    "ru": "Я хочу окончить очень престижный университет",
-    "en": "I want to graduate from a very prestigious university"
-  },
-  {
-    "_id": 10,
-    "ru": "Я рекомендую эту книгу тебе",
-    "en": "I recommend this book to you"
-  },
-  {
-    "_id": 11,
-    "ru": "Ей нужно накормить своего ребенка",
-    "en": "She needs to feed her baby"
-  },
-  {
-    "_id": 12,
-    "ru": "Как ты обычно празднуешь Новый год?",
-    "en": "How do you usually celebrate New Year?"
-  },
-  {
-    "_id": 13,
-    "ru": "Она часто улыбается ему",
-    "en": "She often smiles at him"
-  },
-  {
-    "_id": 14,
-    "ru": "Ты рекомендуешь это мне?",
-    "en": "Do you recommend it to me?"
-  },
-  {
-    "_id": 15,
-    "ru": "Не останавливайся!",
-    "en": "Don't stop!"
-  },
-  {
-    "_id": 16,
-    "ru": "Ты умеешь ездить на велосипеде?",
-    "en": "Can you ride a bike?"
-  },
-  {
-    "_id": 17,
-    "ru": "Не бросай эти бумаги!",
-    "en": "Don't throw these papers!"
-  },
-  {
-    "_id": 18,
-    "ru": "Он может провалить этот экзамен",
-    "en": "He can fail this exam"
-  },
-  {
-    "_id": 19,
-    "ru": "Эта фабрика производит одежду",
-    "en": "This factory produces clothes"
-  },
-  {
-    "_id": 20,
-    "ru": "Мне нравится гулять в парке",
-    "en": "I like walking in the park"
-  },
-  {
-    "_id": 21,
-    "ru": "Уроки начинаются очень рано",
-    "en": "The lessons begin very early"
-  },
-  {
-    "_id": 22,
-    "ru": "Он не пьет вино",
-    "en": "He doesn't drink wine"
-  },
-  {
-    "_id": 23,
-    "ru": "Я действительно обожаю английский",
-    "en": "I really enjoy English"
-  },
-  {
-    "_id": 24,
-    "ru": "Ты можешь выбросить это",
-    "en": "You can throw it away"
-  },
-  {
-    "_id": 25,
-    "ru": "Ты умеешь плавать?",
-    "en": "Can you swim?"
-  },
-  {
-    "_id": 26,
-    "ru": "Я часто хожу на работу",
-    "en": "I often walk to work"
-  },
-  {
-    "_id": 27,
-    "ru": "Он обычно следует моему совету",
-    "en": "He usually follows my advice"
-  },
-  {
-    "_id": 28,
-    "ru": "Она действительно обожает читать",
-    "en": "She really enjoys reading"
-  },
-  {
-    "_id": 29,
-    "ru": "Все может измениться скоро",
-    "en": "Everything can change soon"
-  },
-  {
-    "_id": 30,
-    "ru": "Я могу навестить тебя сегодня",
-    "en": "I can visit you today"
-  },
-  {
-    "_id": 31,
-    "ru": "Она может провалить тот тест",
-    "en": "She can fail that test"
-  },
-  {
-    "_id": 32,
-    "ru": "Как часто ты кормишь своего кота?",
-    "en": "How often do you feed your cat?"
-  },
-  {
-    "_id": 33,
-    "ru": "Он часто улыбается ей",
-    "en": "He often smiles at her"
-  },
-  {
-    "_id": 34,
-    "ru": "Ты можешь помочь нам?",
-    "en": "Can you help us?"
-  },
-  {
-    "_id": 35,
-    "ru": "Он хочет быть очень богатым",
-    "en": "He wants to be very rich"
-  },
-  {
-    "_id": 36,
-    "ru": "Не спрашивай ее об этом!",
-    "en": "Don't ask her about it!"
-  },
-  {
-    "_id": 37,
-    "ru": "Я не хочу выбрасывать это",
-    "en": "I don't want to throw it away"
-  },
-  {
-    "_id": 38,
-    "ru": "Ты умеешь ездить на велосипеде?",
-    "en": "Can you ride a bicycle?"
-  },
-  {
-    "_id": 39,
-    "ru": "Он старается не обращать внимания на эту критику",
-    "en": "He tries not to pay attention to this criticism"
-  },
-  {
-    "_id": 40,
-    "ru": "Твой учитель всегда указывает на твои ошибки?",
-    "en": "Does your teacher always point out your mistakes?"
-  },
-  {
-    "_id": 41,
-    "ru": "Я хочу достичь этой цели как можно скорее",
-    "en": "I want to achieve this aim as soon as possible"
-  },
-  {
-    "_id": 42,
-    "ru": "Я знаю, что мне нужно контролировать себя",
-    "en": "I know that I need to control myself"
-  },
-  {
-    "_id": 43,
-    "ru": "Я прекрасно осознаю, что могу найти работу получше",
-    "en": "I perfectly realise that I can find a better job"
-  },
-  {
-    "_id": 44,
-    "ru": "Он хочет разрезать эту веревку ножом",
-    "en": "He wants to cut this rope with a knife"
-  },
-  {
-    "_id": 45,
-    "ru": "Я думаю, что я могу выиграть в этом соревновании",
-    "en": "I think that I can win in this competition"
-  },
-  {
-    "_id": 46,
-    "ru": "Он никогда не пьет алкоголь",
-    "en": "He never drinks alcohol"
-  },
-  {
-    "_id": 47,
-    "ru": "Я предпочитаю не думать об этом",
-    "en": "I prefer not to think about it"
-  },
-  {
-    "_id": 48,
-    "ru": "Ты можешь повторить это предложение?",
-    "en": "Can you repeat this sentence?"
-  },
-  {
-    "_id": 49,
-    "ru": "Он предпочитает не покупать это онлайн",
-    "en": "He prefers not to buy it online"
-  },
-  {
-    "_id": 50,
-    "ru": "Как ты улучшаешь свои навыки аудирования?",
-    "en": "How do you improve your listening skills?"
-  },
-  {
-    "_id": 51,
-    "ru": "Как ты улучшаешь свои разговорные навыки?",
-    "en": "How do you improve your speaking skills?"
-  },
-  {
-    "_id": 52,
-    "ru": "Как он улучшает свои навыки?",
-    "en": "How does he improve his skills?"
-  },
-  {
-    "_id": 53,
-    "ru": "Я хочу улучшить свои разговорные навыки",
-    "en": "I want to improve my speaking skills"
-  },
-  {
-    "_id": 54,
-    "ru": "Она хочет улучшить свои навыки аудирования",
-    "en": "She wants to improve her listening skills"
-  },
-  {
-    "_id": 55,
-    "ru": "Мне нужно улучшить свои разговорные навыки",
-    "en": "I need to improve my speaking skills"
-  },
-  {
-    "_id": 56,
-    "ru": "Я следую рекомендациям моего тренера",
-    "en": "I follow my trainer's recommendations"
-  },
-  {
-    "_id": 57,
-    "ru": "Я следую совету моего тренера",
-    "en": "I follow my trainer's advice"
-  },
-  {
-    "_id": 58,
-    "ru": "Она следует рекомендациям своего тренера",
-    "en": "She follows her trainer's recommendations"
-  },
-  {
-    "_id": 59,
-    "ru": "Многие люди хотят быть богатыми и здоровыми",
-    "en": "Many people want to be rich and healthy"
-  },
-  {
-    "_id": 60,
-    "ru": "Большинство людей хотят быть богатыми и здоровыми",
-    "en": "Most people want to be rich and healthy"
-  },
-  {
-    "_id": 61,
-    "ru": "Многие люди хотят быть богатыми и знаменитыми",
-    "en": "Many people want to be rich and famous"
-  },
-  {
-    "_id": 62,
-    "ru": "Я обычно отмечаю свой день рождения в кругу семьи",
-    "en": "I usually celebrate my birthday in a family circle"
-  },
-  {
-    "_id": 63,
-    "ru": "Я всегда отмечаю свой день рождения в кругу семьи",
-    "en": "I always celebrate my birthday in a family circle"
-  },
-  {
-    "_id": 64,
-    "ru": "Он часто отмечает свой день рождения в кругу семьи",
-    "en": "He often celebrates his birthday in a family circle"
-  },
-  {
-    "_id": 65,
-    "ru": "Мне нужно встать сейчас",
-    "en": "I need to stand up now"
-  },
-  {
-    "_id": 66,
-    "ru": "Мне нужно идти сейчас",
-    "en": "I need to go now"
-  },
-  {
-    "_id": 67,
-    "ru": "Ей нужно встать сейчас",
-    "en": "She needs to get up now"
-  },
-  {
-    "_id": 68,
-    "ru": "Я знаю, что я забываю это очень легко",
-    "en": "I know that I forget it very easily"
-  },
-  {
-    "_id": 69,
-    "ru": "Она знает, что она забывает это очень легко",
-    "en": "She knows that she forgets it very easily"
-  },
-  {
-    "_id": 70,
-    "ru": "Ты знаешь, я забываю это очень легко",
-    "en": "You know, I forget it very easily"
-  },
-  {
-    "_id": 71,
-    "ru": "Он следует рекомендациям своего тренера",
-    "en": "He follows his trainer's recommendations"
-  },
-  {
-    "_id": 72,
-    "ru": "Ему нужно следовать рекомендациям своего тренера",
-    "en": "He needs to follow his trainer's recommendations"
-  },
-  {
-    "_id": 73,
-    "ru": "Я всегда следую рекомендациям своего тренера",
-    "en": "I always follow my trainer's recommendations"
-  },
-  {
-    "_id": 74,
-    "ru": "Я стараюсь не обращать внимания на это",
-    "en": "I try not to pay attention to it"
-  },
-  {
-    "_id": 75,
-    "ru": "Я стараюсь не обращать внимания на эти вещи",
-    "en": "I try not to pay attention to these things"
-  },
-  {
-    "_id": 76,
-    "ru": "Мне не нужно обращать внимания на это",
-    "en": "I need not to pay attention to it"
-  },
-  {
-    "_id": 77,
-    "ru": "Как твой учитель объясняет это?",
-    "en": "How does your teacher explain it?"
-  },
-  {
-    "_id": 78,
-    "ru": "Как твой учитель объясняет этот предмет?",
-    "en": "How does your teacher explain this subject?"
-  },
-  {
-    "_id": 79,
-    "ru": "Почему твой учитель объясняет это?",
-    "en": "Why does your teacher explain it?"
-  },
-  {
-    "_id": 80,
-    "ru": "Посмотри на результаты этого мальчика!",
-    "en": "Look at this boy's results!"
-  },
-  {
-    "_id": 81,
-    "ru": "Ты можешь разрезать это этими ножницами",
-    "en": "You can cut it with these scissors"
-  },
-  {
-    "_id": 82,
-    "ru": "Мне кажется, что мы делаем правильную вещь",
-    "en": "It seems to me that we do the right thing"
-  },
-  {
-    "_id": 83,
-    "ru": "Он никогда не говорит это",
-    "en": "He never says it"
-  },
-  {
-    "_id": 84,
-    "ru": "Я хочу задать тебе только пару вопросов",
-    "en": "I want to ask you just a couple of questions"
-  },
-  {
-    "_id": 85,
-    "ru": "Я стараюсь не тратить слишком много времени на это",
-    "en": "I try not to spend too much time on it"
-  },
-  {
-    "_id": 86,
-    "ru": "Я предпочитаю не переживать об этом",
-    "en": "I prefer not to worry about it"
-  },
-  {
-    "_id": 87,
-    "ru": "Он часто указывает на мои ошибки",
-    "en": "He often points out my mistakes"
-  },
-  {
-    "_id": 88,
-    "ru": "Я стараюсь не делать этого",
-    "en": "I try not to do it"
-  },
-  {
-    "_id": 89,
-    "ru": "Мы никогда не видим это",
-    "en": "We never see it"
-  },
-  {
-    "_id": 90,
-    "ru": "Я никогда не делаю это",
-    "en": "I never do it"
-  },
-  {
-    "_id": 91,
-    "ru": "Ты можешь повторить этот вопрос?",
-    "en": "Can you repeat this question?"
-  },
-  {
-    "_id": 92,
-    "ru": "Вам это кажется действительно странным?",
-    "en": "Does it seem really strange to you?"
+    "id": 1,
+    "ru": {
+      "text": "Давай посмотрим на это!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let's look at it!",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я не рекомендую этот курорт тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't recommend this resort to you",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Мои друзья говорят на двух иностранных языках",
+      "audio": false
+    },
+    "en": {
+      "text": "My friends speak two foreign languages",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "На скольких иностранных языках ты говоришь?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many foreign languages do you speak?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Тебе не нужно беспокоиться об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "You don't need to worry about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Как ты предпочитаешь изучать английский?",
+      "audio": false
+    },
+    "en": {
+      "text": "How do you prefer to learn English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Когда ты хочешь навестить его?",
+      "audio": false
+    },
+    "en": {
+      "text": "When do you want to visit him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Почему ты хочешь переехать в другую страну?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why do you want to move to another country?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я хочу окончить очень престижный университет",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to graduate from a very prestigious university",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я рекомендую эту книгу тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I recommend this book to you",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Ей нужно накормить своего ребенка",
+      "audio": false
+    },
+    "en": {
+      "text": "She needs to feed her baby",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Как ты обычно празднуешь Новый год?",
+      "audio": false
+    },
+    "en": {
+      "text": "How do you usually celebrate New Year?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Она часто улыбается ему",
+      "audio": false
+    },
+    "en": {
+      "text": "She often smiles at him",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Ты рекомендуешь это мне?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you recommend it to me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Не останавливайся!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't stop!",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Ты умеешь ездить на велосипеде?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you ride a bike?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Не бросай эти бумаги!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't throw these papers!",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Он может провалить этот экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "He can fail this exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Эта фабрика производит одежду",
+      "audio": false
+    },
+    "en": {
+      "text": "This factory produces clothes",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Мне нравится гулять в парке",
+      "audio": false
+    },
+    "en": {
+      "text": "I like walking in the park",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Уроки начинаются очень рано",
+      "audio": false
+    },
+    "en": {
+      "text": "The lessons begin very early",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Он не пьет вино",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't drink wine",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Я действительно обожаю английский",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy English",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Ты можешь выбросить это",
+      "audio": false
+    },
+    "en": {
+      "text": "You can throw it away",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Ты умеешь плавать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you swim?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я часто хожу на работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I often walk to work",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Он обычно следует моему совету",
+      "audio": false
+    },
+    "en": {
+      "text": "He usually follows my advice",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Она действительно обожает читать",
+      "audio": false
+    },
+    "en": {
+      "text": "She really enjoys reading",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Все может измениться скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything can change soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я могу навестить тебя сегодня",
+      "audio": false
+    },
+    "en": {
+      "text": "I can visit you today",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Она может провалить тот тест",
+      "audio": false
+    },
+    "en": {
+      "text": "She can fail that test",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Как часто ты кормишь своего кота?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often do you feed your cat?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Он часто улыбается ей",
+      "audio": false
+    },
+    "en": {
+      "text": "He often smiles at her",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Ты можешь помочь нам?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you help us?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Он хочет быть очень богатым",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to be very rich",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Не спрашивай ее об этом!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't ask her about it!",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я не хочу выбрасывать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't want to throw it away",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Ты умеешь ездить на велосипеде?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you ride a bicycle?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Он старается не обращать внимания на эту критику",
+      "audio": false
+    },
+    "en": {
+      "text": "He tries not to pay attention to this criticism",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Твой учитель всегда указывает на твои ошибки?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does your teacher always point out your mistakes?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я хочу достичь этой цели как можно скорее",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to achieve this aim as soon as possible",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я знаю, что мне нужно контролировать себя",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that I need to control myself",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я прекрасно осознаю, что могу найти работу получше",
+      "audio": false
+    },
+    "en": {
+      "text": "I perfectly realise that I can find a better job",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Он хочет разрезать эту веревку ножом",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to cut this rope with a knife",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я думаю, что я могу выиграть в этом соревновании",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that I can win in this competition",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Он никогда не пьет алкоголь",
+      "audio": false
+    },
+    "en": {
+      "text": "He never drinks alcohol",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я предпочитаю не думать об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I prefer not to think about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Ты можешь повторить это предложение?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you repeat this sentence?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Он предпочитает не покупать это онлайн",
+      "audio": false
+    },
+    "en": {
+      "text": "He prefers not to buy it online",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Как ты улучшаешь свои навыки аудирования?",
+      "audio": false
+    },
+    "en": {
+      "text": "How do you improve your listening skills?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Как ты улучшаешь свои разговорные навыки?",
+      "audio": false
+    },
+    "en": {
+      "text": "How do you improve your speaking skills?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Как он улучшает свои навыки?",
+      "audio": false
+    },
+    "en": {
+      "text": "How does he improve his skills?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я хочу улучшить свои разговорные навыки",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to improve my speaking skills",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Она хочет улучшить свои навыки аудирования",
+      "audio": false
+    },
+    "en": {
+      "text": "She wants to improve her listening skills",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Мне нужно улучшить свои разговорные навыки",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to improve my speaking skills",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я следую рекомендациям моего тренера",
+      "audio": false
+    },
+    "en": {
+      "text": "I follow my trainer's recommendations",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я следую совету моего тренера",
+      "audio": false
+    },
+    "en": {
+      "text": "I follow my trainer's advice",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Она следует рекомендациям своего тренера",
+      "audio": false
+    },
+    "en": {
+      "text": "She follows her trainer's recommendations",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Многие люди хотят быть богатыми и здоровыми",
+      "audio": false
+    },
+    "en": {
+      "text": "Many people want to be rich and healthy",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Большинство людей хотят быть богатыми и здоровыми",
+      "audio": false
+    },
+    "en": {
+      "text": "Most people want to be rich and healthy",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Многие люди хотят быть богатыми и знаменитыми",
+      "audio": false
+    },
+    "en": {
+      "text": "Many people want to be rich and famous",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я обычно отмечаю свой день рождения в кругу семьи",
+      "audio": false
+    },
+    "en": {
+      "text": "I usually celebrate my birthday in a family circle",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я всегда отмечаю свой день рождения в кругу семьи",
+      "audio": false
+    },
+    "en": {
+      "text": "I always celebrate my birthday in a family circle",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он часто отмечает свой день рождения в кругу семьи",
+      "audio": false
+    },
+    "en": {
+      "text": "He often celebrates his birthday in a family circle",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Мне нужно встать сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to stand up now",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Мне нужно идти сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to go now",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Ей нужно встать сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "She needs to get up now",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я знаю, что я забываю это очень легко",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that I forget it very easily",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Она знает, что она забывает это очень легко",
+      "audio": false
+    },
+    "en": {
+      "text": "She knows that she forgets it very easily",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Ты знаешь, я забываю это очень легко",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, I forget it very easily",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Он следует рекомендациям своего тренера",
+      "audio": false
+    },
+    "en": {
+      "text": "He follows his trainer's recommendations",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Ему нужно следовать рекомендациям своего тренера",
+      "audio": false
+    },
+    "en": {
+      "text": "He needs to follow his trainer's recommendations",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я всегда следую рекомендациям своего тренера",
+      "audio": false
+    },
+    "en": {
+      "text": "I always follow my trainer's recommendations",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я стараюсь не обращать внимания на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I try not to pay attention to it",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я стараюсь не обращать внимания на эти вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "I try not to pay attention to these things",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Мне не нужно обращать внимания на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I need not to pay attention to it",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Как твой учитель объясняет это?",
+      "audio": false
+    },
+    "en": {
+      "text": "How does your teacher explain it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Как твой учитель объясняет этот предмет?",
+      "audio": false
+    },
+    "en": {
+      "text": "How does your teacher explain this subject?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Почему твой учитель объясняет это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why does your teacher explain it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Посмотри на результаты этого мальчика!",
+      "audio": false
+    },
+    "en": {
+      "text": "Look at this boy's results!",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Ты можешь разрезать это этими ножницами",
+      "audio": false
+    },
+    "en": {
+      "text": "You can cut it with these scissors",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Мне кажется, что мы делаем правильную вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me that we do the right thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Он никогда не говорит это",
+      "audio": false
+    },
+    "en": {
+      "text": "He never says it",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я хочу задать тебе только пару вопросов",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to ask you just a couple of questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я стараюсь не тратить слишком много времени на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I try not to spend too much time on it",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Я предпочитаю не переживать об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I prefer not to worry about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Он часто указывает на мои ошибки",
+      "audio": false
+    },
+    "en": {
+      "text": "He often points out my mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Я стараюсь не делать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I try not to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Мы никогда не видим это",
+      "audio": false
+    },
+    "en": {
+      "text": "We never see it",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Я никогда не делаю это",
+      "audio": false
+    },
+    "en": {
+      "text": "I never do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Ты можешь повторить этот вопрос?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you repeat this question?",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Вам это кажется действительно странным?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it seem really strange to you?",
+      "audio": false
+    }
   }
 ]

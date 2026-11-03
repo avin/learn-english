@@ -1,477 +1,1047 @@
 [
   {
-    "_id": 1,
-    "ru": "Он ответил на твое письмо?",
-    "en": "Did he reply to your letter?"
-  },
-  {
-    "_id": 2,
-    "ru": "Тебе нужно разделить это на три части",
-    "en": "You need to divide it into three parts"
-  },
-  {
-    "_id": 3,
-    "ru": "Они выпустили новый альбом на этой неделе",
-    "en": "They have released a new album this week"
-  },
-  {
-    "_id": 4,
-    "ru": "Это стало причиной его смерти",
-    "en": "It caused his death"
-  },
-  {
-    "_id": 5,
-    "ru": "Учитель разделил нас на четыре группы",
-    "en": "The teacher divided us into four groups"
-  },
-  {
-    "_id": 6,
-    "ru": "Он ненавидит вставать рано",
-    "en": "He hates getting up early"
-  },
-  {
-    "_id": 7,
-    "ru": "Я учу английский самостоятельно",
-    "en": "I learn English on my own"
-  },
-  {
-    "_id": 8,
-    "ru": "Во сколько ты встал позавчера?",
-    "en": "What time did you get up the day before yesterday?"
-  },
-  {
-    "_id": 9,
-    "ru": "Он обнял ее очень крепко",
-    "en": "He hugged her very tightly"
-  },
-  {
-    "_id": 10,
-    "ru": "Когда они поженились?",
-    "en": "When did they get married?"
-  },
-  {
-    "_id": 11,
-    "ru": "Я не шучу",
-    "en": "I am not joking"
-  },
-  {
-    "_id": 12,
-    "ru": "Это может привлечь новых клиентов",
-    "en": "It can attract new customers"
-  },
-  {
-    "_id": 13,
-    "ru": "Ты можешь угадать ее возраст?",
-    "en": "Can you guess her age?"
-  },
-  {
-    "_id": 14,
-    "ru": "Я протестировал свои знания",
-    "en": "I tested my knowledge"
-  },
-  {
-    "_id": 15,
-    "ru": "Как долго он изучает английский?",
-    "en": "How long has he been learning English?"
-  },
-  {
-    "_id": 16,
-    "ru": "Мальчик посчитал от одного до десяти",
-    "en": "The boy counted from one to ten"
-  },
-  {
-    "_id": 17,
-    "ru": "Это кажется невозможным сейчас",
-    "en": "It seems impossible now"
-  },
-  {
-    "_id": 18,
-    "ru": "Они обняли друг друга в конце",
-    "en": "They hugged each other in the end"
-  },
-  {
-    "_id": 19,
-    "ru": "Она решила выйти за него замуж",
-    "en": "She decided to marry him"
-  },
-  {
-    "_id": 20,
-    "ru": "Она хочет стать переводчиком",
-    "en": "She wants to become a translator"
-  },
-  {
-    "_id": 21,
-    "ru": "Сколько рыбы ты поймал?",
-    "en": "How many fish did you catch?"
-  },
-  {
-    "_id": 22,
-    "ru": "Он не угадал правильный ответ",
-    "en": "He didn't guess the correct answer"
-  },
-  {
-    "_id": 23,
-    "ru": "Он часто страдал от депрессии",
-    "en": "He often suffered from depression"
-  },
-  {
-    "_id": 24,
-    "ru": "Та вещь принадлежит тебе?",
-    "en": "Does that thing belong to you?"
-  },
-  {
-    "_id": 25,
-    "ru": "Они напечатали каталог",
-    "en": "They printed the catalogue"
-  },
-  {
-    "_id": 26,
-    "ru": "Вода скоро закипит",
-    "en": "The water will boil soon"
-  },
-  {
-    "_id": 27,
-    "ru": "Она страдает от этой болезни",
-    "en": "She suffers from this disease"
-  },
-  {
-    "_id": 28,
-    "ru": "Мне нужно повесить эту картину",
-    "en": "I need to hang this picture"
-  },
-  {
-    "_id": 29,
-    "ru": "Это может вызвать серьезные проблемы в будущем",
-    "en": "It can cause serious problems in the future"
-  },
-  {
-    "_id": 30,
-    "ru": "Они ударили его очень сильно",
-    "en": "They hit him very hard"
-  },
-  {
-    "_id": 31,
-    "ru": "Ты меня хорошо слышишь сейчас?",
-    "en": "Do you hear me well now?"
-  },
-  {
-    "_id": 32,
-    "ru": "Это становится все более и более дорогим",
-    "en": "It is becoming more and more expensive"
-  },
-  {
-    "_id": 33,
-    "ru": "Что принесло им больше денег?",
-    "en": "What brought them more money?"
-  },
-  {
-    "_id": 34,
-    "ru": "Ты всегда можете рассчитывать на нас",
-    "en": "You can always count on us"
-  },
-  {
-    "_id": 35,
-    "ru": "Что принадлежит тебе?",
-    "en": "What belongs to you?"
-  },
-  {
-    "_id": 36,
-    "ru": "Мне нужно распечатать этот документ",
-    "en": "I need to print this document"
-  },
-  {
-    "_id": 37,
-    "ru": "Я рассматриваю разные возможности",
-    "en": "I am considering different possibilities"
-  },
-  {
-    "_id": 38,
-    "ru": "Он был действительно шокирован",
-    "en": "He was really shocked"
-  },
-  {
-    "_id": 39,
-    "ru": "Он решил проверить свои знания",
-    "en": "He decided to test his knowledge"
-  },
-  {
-    "_id": 40,
-    "ru": "Ты шутишь?",
-    "en": "Are you joking?"
-  },
-  {
-    "_id": 41,
-    "ru": "Воры были пойманы и отправлены в тюрьму",
-    "en": "The thieves were caught and sent to prison"
-  },
-  {
-    "_id": 42,
-    "ru": "Он преподает английский более десяти лет",
-    "en": "He has been teaching English for over ten years"
-  },
-  {
-    "_id": 43,
-    "ru": "Вода кипит около двадцати минут",
-    "en": "The water has been boiling for about twenty minutes"
-  },
-  {
-    "_id": 44,
-    "ru": "Их новый альбом скоро будет выпущен",
-    "en": "Their new album will be released soon"
-  },
-  {
-    "_id": 45,
-    "ru": "Я еще не исправил эти ошибки",
-    "en": "I haven't corrected these mistakes yet"
-  },
-  {
-    "_id": 46,
-    "ru": "Слишком много времени тратится на это",
-    "en": "Too much time is spent on it"
-  },
-  {
-    "_id": 47,
-    "ru": "Она еще не ответила на мое сообщение",
-    "en": "She hasn't replied to my message yet"
-  },
-  {
-    "_id": 48,
-    "ru": "Я слышал это так много раз",
-    "en": "I've heard it so many times"
-  },
-  {
-    "_id": 49,
-    "ru": "Я не думаю, что это принесет ему настоящее счастье",
-    "en": "I don't think that it will bring him real happiness"
-  },
-  {
-    "_id": 50,
-    "ru": "Я поздравил его со сдачей теста",
-    "en": "I congratulated him on passing the test"
-  },
-  {
-    "_id": 51,
-    "ru": "Он не видел ее в последнее время",
-    "en": "He hasn't seen her lately"
-  },
-  {
-    "_id": 52,
-    "ru": "Слишком много денег было потрачено на это",
-    "en": "Too much money was spent on it"
-  },
-  {
-    "_id": 53,
-    "ru": "Слишком много денег тратится на это",
-    "en": "Too much money is spent on it"
-  },
-  {
-    "_id": 54,
-    "ru": "Сколько денег было потрачено на это?",
-    "en": "How much money was spent on it?"
-  },
-  {
-    "_id": 55,
-    "ru": "Было не так легко адаптироваться к тем условиям",
-    "en": "It wasn't so easy to adapt to those conditions"
-  },
-  {
-    "_id": 56,
-    "ru": "Было слишком легко адаптироваться к этим изменениям",
-    "en": "It was too easy to adapt to these changes"
-  },
-  {
-    "_id": 57,
-    "ru": "Не легко адаптироваться к этим условиям",
-    "en": "It isn't easy to adapt to these conditions"
-  },
-  {
-    "_id": 58,
-    "ru": "Кто-то стучит в дверь",
-    "en": "Someone is knocking at the door"
-  },
-  {
-    "_id": 59,
-    "ru": "Кто-то стучал в окно",
-    "en": "Someone was knocking at the window"
-  },
-  {
-    "_id": 60,
-    "ru": "Кто стучит в дверь сейчас?",
-    "en": "Who is knocking at the door now?"
-  },
-  {
-    "_id": 61,
-    "ru": "Дай это письмо ему",
-    "en": "Give this letter to him!"
-  },
-  {
-    "_id": 62,
-    "ru": "Я дам это письмо ему",
-    "en": "I will give this letter to him"
-  },
-  {
-    "_id": 63,
-    "ru": "Ты можешь дать эту вещь мне?",
-    "en": "Can you give this thing to me?"
-  },
-  {
-    "_id": 64,
-    "ru": "Он всегда хотел быть музыкантом",
-    "en": "He has always wanted to be a musician"
-  },
-  {
-    "_id": 65,
-    "ru": "Он никогда не хотел стать учителем",
-    "en": "He has never wanted to become a teacher"
-  },
-  {
-    "_id": 66,
-    "ru": "Ты когда-нибудь хотел стать музыкантом?",
-    "en": "Have you ever wanted to be a musician?"
-  },
-  {
-    "_id": 67,
-    "ru": "Я решил не выбрасывать это",
-    "en": "I decided not to throw it away"
-  },
-  {
-    "_id": 68,
-    "ru": "Я решил сделать это в любом случае",
-    "en": "I decided to do it anyway"
-  },
-  {
-    "_id": 69,
-    "ru": "Я решил больше не делать этого",
-    "en": "I decided not to do it anymore"
-  },
-  {
-    "_id": 70,
-    "ru": "Я думаю, эта новость шокирует его",
-    "en": "I think this news will shock him"
-  },
-  {
-    "_id": 71,
-    "ru": "Я боюсь, что эта новость шокирует его",
-    "en": "I am afraid that this news will shock him"
-  },
-  {
-    "_id": 72,
-    "ru": "Я думаю, эта новость напугает его",
-    "en": "I think this news will frighten him"
-  },
-  {
-    "_id": 73,
-    "ru": "Он предложил пойти в кино",
-    "en": "He suggested going to the cinema"
-  },
-  {
-    "_id": 74,
-    "ru": "Он предложил посмотреть фильм",
-    "en": "He suggested watching a movie"
-  },
-  {
-    "_id": 75,
-    "ru": "Он решил пойти в кино",
-    "en": "He decided to go to the cinema"
-  },
-  {
-    "_id": 76,
-    "ru": "Как долго ты преподаешь английский?",
-    "en": "How long have you been teaching English?"
-  },
-  {
-    "_id": 77,
-    "ru": "Как долго ты изучаешь английский там?",
-    "en": "How long have you been learning English there?"
-  },
-  {
-    "_id": 78,
-    "ru": "Я изучаю английский около двух лет",
-    "en": "I have been learning English for about 2 years"
-  },
-  {
-    "_id": 79,
-    "ru": "Кто стучит в дверь?",
-    "en": "Who is knocking at the door?"
-  },
-  {
-    "_id": 80,
-    "ru": "Я не знаю, кто стучал в дверь",
-    "en": "I don't know who was knocking at the door"
-  },
-  {
-    "_id": 81,
-    "ru": "Кто-то стучит с мою дверь",
-    "en": "Someone is knocking at my door"
-  },
-  {
-    "_id": 82,
-    "ru": "Я видел его недавно",
-    "en": "I have seen him recently"
-  },
-  {
-    "_id": 83,
-    "ru": "Он сказал нам, что он уже все решил",
-    "en": "He told us that he had already decided everything"
-  },
-  {
-    "_id": 84,
-    "ru": "Мне кажется, мы не можем это изменить",
-    "en": "It seems to me we can't change it"
-  },
-  {
-    "_id": 85,
-    "ru": "Она повесила плакат на стену",
-    "en": "She hung the poster on the wall"
-  },
-  {
-    "_id": 86,
-    "ru": "Ты можешь выбросить это, если тебе это не нужно",
-    "en": "You can throw it away if you don't need it"
-  },
-  {
-    "_id": 87,
-    "ru": "Я хотел бы поздравить тебя со сдачей экзамена",
-    "en": "I would like to congratulate you on passing the exam"
-  },
-  {
-    "_id": 88,
-    "ru": "Ему был дан еще один шанс",
-    "en": "He was given one more chance"
-  },
-  {
-    "_id": 89,
-    "ru": "Лестница ведет на крышу",
-    "en": "The stairs lead to the roof"
-  },
-  {
-    "_id": 90,
-    "ru": "Все ошибки были исправлены",
-    "en": "All the mistakes were corrected"
-  },
-  {
-    "_id": 91,
-    "ru": "Я предлагаю пойти в парк сейчас",
-    "en": "I suggest going to the park now"
-  },
-  {
-    "_id": 92,
-    "ru": "Я всегда считал это неважным",
-    "en": "I have always considered it unimportant"
-  },
-  {
-    "_id": 93,
-    "ru": "Я решу что делать позже",
-    "en": "I will decide what to do later"
-  },
-  {
-    "_id": 94,
-    "ru": "Она была сбита машиной",
-    "en": "She was hit by a car"
-  },
-  {
-    "_id": 95,
-    "ru": "Что обычно привлекает наше внимание?",
-    "en": "What usually attracts our attention?"
+    "id": 1,
+    "ru": {
+      "text": "Он ответил на твое письмо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did he reply to your letter?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Тебе нужно разделить это на три части",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to divide it into three parts",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Они выпустили новый альбом на этой неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "They have released a new album this week",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Это стало причиной его смерти",
+      "audio": false
+    },
+    "en": {
+      "text": "It caused his death",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Учитель разделил нас на четыре группы",
+      "audio": false
+    },
+    "en": {
+      "text": "The teacher divided us into four groups",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Он ненавидит вставать рано",
+      "audio": false
+    },
+    "en": {
+      "text": "He hates getting up early",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Я учу английский самостоятельно",
+      "audio": false
+    },
+    "en": {
+      "text": "I learn English on my own",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Во сколько ты встал позавчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time did you get up the day before yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Он обнял ее очень крепко",
+      "audio": false
+    },
+    "en": {
+      "text": "He hugged her very tightly",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Когда они поженились?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did they get married?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я не шучу",
+      "audio": false
+    },
+    "en": {
+      "text": "I am not joking",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Это может привлечь новых клиентов",
+      "audio": false
+    },
+    "en": {
+      "text": "It can attract new customers",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Ты можешь угадать ее возраст?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you guess her age?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я протестировал свои знания",
+      "audio": false
+    },
+    "en": {
+      "text": "I tested my knowledge",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Как долго он изучает английский?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long has he been learning English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Мальчик посчитал от одного до десяти",
+      "audio": false
+    },
+    "en": {
+      "text": "The boy counted from one to ten",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Это кажется невозможным сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems impossible now",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Они обняли друг друга в конце",
+      "audio": false
+    },
+    "en": {
+      "text": "They hugged each other in the end",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Она решила выйти за него замуж",
+      "audio": false
+    },
+    "en": {
+      "text": "She decided to marry him",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Она хочет стать переводчиком",
+      "audio": false
+    },
+    "en": {
+      "text": "She wants to become a translator",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Сколько рыбы ты поймал?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many fish did you catch?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Он не угадал правильный ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't guess the correct answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он часто страдал от депрессии",
+      "audio": false
+    },
+    "en": {
+      "text": "He often suffered from depression",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Та вещь принадлежит тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does that thing belong to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Они напечатали каталог",
+      "audio": false
+    },
+    "en": {
+      "text": "They printed the catalogue",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Вода скоро закипит",
+      "audio": false
+    },
+    "en": {
+      "text": "The water will boil soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Она страдает от этой болезни",
+      "audio": false
+    },
+    "en": {
+      "text": "She suffers from this disease",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Мне нужно повесить эту картину",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to hang this picture",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Это может вызвать серьезные проблемы в будущем",
+      "audio": false
+    },
+    "en": {
+      "text": "It can cause serious problems in the future",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Они ударили его очень сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "They hit him very hard",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Ты меня хорошо слышишь сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you hear me well now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Это становится все более и более дорогим",
+      "audio": false
+    },
+    "en": {
+      "text": "It is becoming more and more expensive",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Что принесло им больше денег?",
+      "audio": false
+    },
+    "en": {
+      "text": "What brought them more money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Ты всегда можете рассчитывать на нас",
+      "audio": false
+    },
+    "en": {
+      "text": "You can always count on us",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Что принадлежит тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "What belongs to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Мне нужно распечатать этот документ",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to print this document",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я рассматриваю разные возможности",
+      "audio": false
+    },
+    "en": {
+      "text": "I am considering different possibilities",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Он был действительно шокирован",
+      "audio": false
+    },
+    "en": {
+      "text": "He was really shocked",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Он решил проверить свои знания",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided to test his knowledge",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Ты шутишь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you joking?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Воры были пойманы и отправлены в тюрьму",
+      "audio": false
+    },
+    "en": {
+      "text": "The thieves were caught and sent to prison",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Он преподает английский более десяти лет",
+      "audio": false
+    },
+    "en": {
+      "text": "He has been teaching English for over ten years",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Вода кипит около двадцати минут",
+      "audio": false
+    },
+    "en": {
+      "text": "The water has been boiling for about twenty minutes",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Их новый альбом скоро будет выпущен",
+      "audio": false
+    },
+    "en": {
+      "text": "Their new album will be released soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я еще не исправил эти ошибки",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't corrected these mistakes yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Слишком много времени тратится на это",
+      "audio": false
+    },
+    "en": {
+      "text": "Too much time is spent on it",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Она еще не ответила на мое сообщение",
+      "audio": false
+    },
+    "en": {
+      "text": "She hasn't replied to my message yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я слышал это так много раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I've heard it so many times",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я не думаю, что это принесет ему настоящее счастье",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that it will bring him real happiness",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я поздравил его со сдачей теста",
+      "audio": false
+    },
+    "en": {
+      "text": "I congratulated him on passing the test",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Он не видел ее в последнее время",
+      "audio": false
+    },
+    "en": {
+      "text": "He hasn't seen her lately",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Слишком много денег было потрачено на это",
+      "audio": false
+    },
+    "en": {
+      "text": "Too much money was spent on it",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Слишком много денег тратится на это",
+      "audio": false
+    },
+    "en": {
+      "text": "Too much money is spent on it",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Сколько денег было потрачено на это?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much money was spent on it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Было не так легко адаптироваться к тем условиям",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't so easy to adapt to those conditions",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Было слишком легко адаптироваться к этим изменениям",
+      "audio": false
+    },
+    "en": {
+      "text": "It was too easy to adapt to these changes",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Не легко адаптироваться к этим условиям",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't easy to adapt to these conditions",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Кто-то стучит в дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "Someone is knocking at the door",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Кто-то стучал в окно",
+      "audio": false
+    },
+    "en": {
+      "text": "Someone was knocking at the window",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Кто стучит в дверь сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is knocking at the door now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Дай это письмо ему",
+      "audio": false
+    },
+    "en": {
+      "text": "Give this letter to him!",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я дам это письмо ему",
+      "audio": false
+    },
+    "en": {
+      "text": "I will give this letter to him",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Ты можешь дать эту вещь мне?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you give this thing to me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он всегда хотел быть музыкантом",
+      "audio": false
+    },
+    "en": {
+      "text": "He has always wanted to be a musician",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Он никогда не хотел стать учителем",
+      "audio": false
+    },
+    "en": {
+      "text": "He has never wanted to become a teacher",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Ты когда-нибудь хотел стать музыкантом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever wanted to be a musician?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я решил не выбрасывать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided not to throw it away",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я решил сделать это в любом случае",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to do it anyway",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я решил больше не делать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided not to do it anymore",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я думаю, эта новость шокирует его",
+      "audio": false
+    },
+    "en": {
+      "text": "I think this news will shock him",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я боюсь, что эта новость шокирует его",
+      "audio": false
+    },
+    "en": {
+      "text": "I am afraid that this news will shock him",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я думаю, эта новость напугает его",
+      "audio": false
+    },
+    "en": {
+      "text": "I think this news will frighten him",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Он предложил пойти в кино",
+      "audio": false
+    },
+    "en": {
+      "text": "He suggested going to the cinema",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Он предложил посмотреть фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "He suggested watching a movie",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Он решил пойти в кино",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided to go to the cinema",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Как долго ты преподаешь английский?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long have you been teaching English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Как долго ты изучаешь английский там?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long have you been learning English there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я изучаю английский около двух лет",
+      "audio": false
+    },
+    "en": {
+      "text": "I have been learning English for about 2 years",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Кто стучит в дверь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is knocking at the door?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я не знаю, кто стучал в дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't know who was knocking at the door",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Кто-то стучит с мою дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "Someone is knocking at my door",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я видел его недавно",
+      "audio": false
+    },
+    "en": {
+      "text": "I have seen him recently",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Он сказал нам, что он уже все решил",
+      "audio": false
+    },
+    "en": {
+      "text": "He told us that he had already decided everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Мне кажется, мы не можем это изменить",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me we can't change it",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Она повесила плакат на стену",
+      "audio": false
+    },
+    "en": {
+      "text": "She hung the poster on the wall",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Ты можешь выбросить это, если тебе это не нужно",
+      "audio": false
+    },
+    "en": {
+      "text": "You can throw it away if you don't need it",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Я хотел бы поздравить тебя со сдачей экзамена",
+      "audio": false
+    },
+    "en": {
+      "text": "I would like to congratulate you on passing the exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Ему был дан еще один шанс",
+      "audio": false
+    },
+    "en": {
+      "text": "He was given one more chance",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Лестница ведет на крышу",
+      "audio": false
+    },
+    "en": {
+      "text": "The stairs lead to the roof",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Все ошибки были исправлены",
+      "audio": false
+    },
+    "en": {
+      "text": "All the mistakes were corrected",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Я предлагаю пойти в парк сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I suggest going to the park now",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Я всегда считал это неважным",
+      "audio": false
+    },
+    "en": {
+      "text": "I have always considered it unimportant",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Я решу что делать позже",
+      "audio": false
+    },
+    "en": {
+      "text": "I will decide what to do later",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Она была сбита машиной",
+      "audio": false
+    },
+    "en": {
+      "text": "She was hit by a car",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Что обычно привлекает наше внимание?",
+      "audio": false
+    },
+    "en": {
+      "text": "What usually attracts our attention?",
+      "audio": false
+    }
   }
 ]

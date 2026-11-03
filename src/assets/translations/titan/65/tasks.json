@@ -1,517 +1,1135 @@
 [
   {
-    "_id": 1,
-    "ru": "У тебя плохой результат?",
-    "en": "Do you have a bad result?"
-  },
-  {
-    "_id": 2,
-    "ru": "Он уважает наши традиции?",
-    "en": "Does he respect our traditions?"
-  },
-  {
-    "_id": 3,
-    "ru": "Я твой друг?",
-    "en": "Am I your friend?"
-  },
-  {
-    "_id": 4,
-    "ru": "Они очень ленивые студенты?",
-    "en": "Are they very lazy students?"
-  },
-  {
-    "_id": 5,
-    "ru": "Это более дорогой отель?",
-    "en": "Is it a more expensive hotel?"
-  },
-  {
-    "_id": 6,
-    "ru": "Это дорогой билет?",
-    "en": "Is it an expensive ticket?"
-  },
-  {
-    "_id": 7,
-    "ru": "Тебе также это очень интересно?",
-    "en": "Is it also very interesting for you?"
-  },
-  {
-    "_id": 8,
-    "ru": "Ты менеджер?",
-    "en": "Are you a manager?"
-  },
-  {
-    "_id": 9,
-    "ru": "У него есть маленькая сумка?",
-    "en": "Does he have a small bag?"
-  },
-  {
-    "_id": 10,
-    "ru": "Он трудолюбивый студент?",
-    "en": "Is he a hard-working student?"
-  },
-  {
-    "_id": 11,
-    "ru": "Они счастливо живут вместе?",
-    "en": "Do they live happily together?"
-  },
-  {
-    "_id": 12,
-    "ru": "Он популярный блоггер?",
-    "en": "Is he a popular blogger?"
-  },
-  {
-    "_id": 13,
-    "ru": "Они слишком мало учатся?",
-    "en": "Do they study too little?"
-  },
-  {
-    "_id": 14,
-    "ru": "Это социальная проблема?",
-    "en": "Is it a social problem?"
-  },
-  {
-    "_id": 15,
-    "ru": "Она профессиональная певица?",
-    "en": "Is she a professional singer?"
-  },
-  {
-    "_id": 16,
-    "ru": "Это так дорого?",
-    "en": "Is it so expensive?"
-  },
-  {
-    "_id": 17,
-    "ru": "Ты смотришь этого видео блоггера?",
-    "en": "Do you watch this video blogger?"
-  },
-  {
-    "_id": 18,
-    "ru": "Он ведет себя очень странно?",
-    "en": "Does he behave very strangely?"
-  },
-  {
-    "_id": 19,
-    "ru": "Он странный человек?",
-    "en": "Is he a strange person?"
-  },
-  {
-    "_id": 20,
-    "ru": "Она профессионально поет?",
-    "en": "Does she sing professionally?"
-  },
-  {
-    "_id": 21,
-    "ru": "Это действительно дешевле?",
-    "en": "Is it really cheaper?"
-  },
-  {
-    "_id": 22,
-    "ru": "Это много стоит?",
-    "en": "Does it cost a lot?"
-  },
-  {
-    "_id": 23,
-    "ru": "Она хороший танцор?",
-    "en": "Is she a good dancer?"
-  },
-  {
-    "_id": 24,
-    "ru": "Это уникальная возможность?",
-    "en": "Is it a unique opportunity?"
-  },
-  {
-    "_id": 25,
-    "ru": "Это тоже очень важно?",
-    "en": "Is it also very important?"
-  },
-  {
-    "_id": 26,
-    "ru": "Это уникальный шанс для нас?",
-    "en": "Is it a unique chance for us?"
-  },
-  {
-    "_id": 27,
-    "ru": "Тебе нравятся такого рода шутки?",
-    "en": "Do you like this kind of jokes?"
-  },
-  {
-    "_id": 28,
-    "ru": "Эти билеты дешевые?",
-    "en": "Are these tickets cheap?"
-  },
-  {
-    "_id": 29,
-    "ru": "Это удобный диван?",
-    "en": "Is it a comfortable sofa?"
-  },
-  {
-    "_id": 30,
-    "ru": "Ты тоже очень удивлен?",
-    "en": "Are you also very surprised?"
-  },
-  {
-    "_id": 31,
-    "ru": "Они учатся в разных группах?",
-    "en": "Do they study in different groups?"
-  },
-  {
-    "_id": 32,
-    "ru": "Ты уважаешь этого человека?",
-    "en": "Do you respect this person?"
-  },
-  {
-    "_id": 33,
-    "ru": "Они очень ленивые студенты?",
-    "en": "Are they very lazy students?"
-  },
-  {
-    "_id": 34,
-    "ru": "Ты часто опаздываешь?",
-    "en": "Are you often late?"
-  },
-  {
-    "_id": 35,
-    "ru": "Это правильный ответ?",
-    "en": "Is it the right answer?"
-  },
-  {
-    "_id": 36,
-    "ru": "Он очень усердно учится?",
-    "en": "Does he study very hard?"
-  },
-  {
-    "_id": 37,
-    "ru": "Это комфортная кровать?",
-    "en": "Is it a comfortable bed?"
-  },
-  {
-    "_id": 38,
-    "ru": "Она очень хорошо танцует?",
-    "en": "Does she dance very well?"
-  },
-  {
-    "_id": 39,
-    "ru": "Они мало стоят?",
-    "en": "Do they cost little?"
-  },
-  {
-    "_id": 40,
-    "ru": "Вы в одной группе?",
-    "en": "Are you in one group?"
-  },
-  {
-    "_id": 41,
-    "ru": "Ты уважаешь такого рода людей?",
-    "en": "Do you respect this kind of people?"
-  },
-  {
-    "_id": 42,
-    "ru": "Это хороший супермаркет?",
-    "en": "Is it a good supermarket?"
-  },
-  {
-    "_id": 43,
-    "ru": "Это экономический кризис?",
-    "en": "Is it an economic crisis?"
-  },
-  {
-    "_id": 44,
-    "ru": "У него лучше результат?",
-    "en": "Does he have a better result?"
-  },
-  {
-    "_id": 45,
-    "ru": "Ты работаешь менеджером?",
-    "en": "Do you work as a manager?"
-  },
-  {
-    "_id": 46,
-    "ru": "Ты согласен, что это очень важно?",
-    "en": "Do you agree that it's very important?"
-  },
-  {
-    "_id": 47,
-    "ru": "Она зарабатывает достаточно денег, чтобы купить дом?",
-    "en": "Does she earn enough money to buy a house?"
-  },
-  {
-    "_id": 48,
-    "ru": "Это бесплатная версия?",
-    "en": "Is it a free version?"
-  },
-  {
-    "_id": 49,
-    "ru": "У тебя есть более стабильный доход?",
-    "en": "Do you have a more stable income?"
-  },
-  {
-    "_id": 50,
-    "ru": "Ты нарочно это делаешь?",
-    "en": "Do you do it on purpose?"
-  },
-  {
-    "_id": 51,
-    "ru": "У тебя есть премиум аккаунт?",
-    "en": "Do you have a premium account?"
-  },
-  {
-    "_id": 52,
-    "ru": "Это более дорогой отель?",
-    "en": "Is it a more expensive hotel?"
-  },
-  {
-    "_id": 53,
-    "ru": "Ты понимаешь, почему это происходит с нами?",
-    "en": "Do you understand why it happens to us?"
-  },
-  {
-    "_id": 54,
-    "ru": "Это более важная вещь?",
-    "en": "Is it a more important thing?"
-  },
-  {
-    "_id": 55,
-    "ru": "Ты показываешь более хороший результат?",
-    "en": "Do you show a better result?"
-  },
-  {
-    "_id": 56,
-    "ru": "У него более дорогая машина?",
-    "en": "Does he have a more expensive car?"
-  },
-  {
-    "_id": 57,
-    "ru": "У тебя есть последняя модель?",
-    "en": "Do you have the latest model?"
-  },
-  {
-    "_id": 58,
-    "ru": "Это более хорошая машина?",
-    "en": "Is it a better car?"
-  },
-  {
-    "_id": 59,
-    "ru": "Ты думаешь, это уникальная возможность?",
-    "en": "Do you think it's a unique opportunity?"
-  },
-  {
-    "_id": 60,
-    "ru": "У тебя есть премиум версия?",
-    "en": "Do you have a premium version?"
-  },
-  {
-    "_id": 61,
-    "ru": "Он делает это нарочно?",
-    "en": "Does he do it on purpose?"
-  },
-  {
-    "_id": 62,
-    "ru": "Они делают это нарочно?",
-    "en": "Do they do it on purpose?"
-  },
-  {
-    "_id": 63,
-    "ru": "Она твоя младшая сестра?",
-    "en": "Is she your younger sister?"
-  },
-  {
-    "_id": 64,
-    "ru": "Он твой младший брат?",
-    "en": "Is he your younger brother?"
-  },
-  {
-    "_id": 65,
-    "ru": "Он ее старший брат?",
-    "en": "Is he her elder brother?"
-  },
-  {
-    "_id": 66,
-    "ru": "Это худший результат?",
-    "en": "Is it the worst result?"
-  },
-  {
-    "_id": 67,
-    "ru": "Это лучший результат?",
-    "en": "Is it the best result?"
-  },
-  {
-    "_id": 68,
-    "ru": "Это более плохой результат?",
-    "en": "Is it a worse result?"
-  },
-  {
-    "_id": 69,
-    "ru": "Ты обычно останавливаешься в более дешевом отеле?",
-    "en": "Do you usually stay in a cheaper hotel?"
-  },
-  {
-    "_id": 70,
-    "ru": "Он обычно останавливается в самом дорогом отеле?",
-    "en": "Does he usually stay in the most expensive hotel?"
-  },
-  {
-    "_id": 71,
-    "ru": "Они часто останавливаются в более дорогом отеле?",
-    "en": "Do they often stay in a more expensive hotel?"
-  },
-  {
-    "_id": 72,
-    "ru": "Это более дешевый отель?",
-    "en": "Is it a cheaper hotel?"
-  },
-  {
-    "_id": 73,
-    "ru": "Это самый дешевый отель?",
-    "en": "Is it the cheapest hotel?"
-  },
-  {
-    "_id": 74,
-    "ru": "У него хуже результат?",
-    "en": "Does he have a worse result?"
-  },
-  {
-    "_id": 75,
-    "ru": "У тебя хуже результат?",
-    "en": "Do you have a worse result?"
-  },
-  {
-    "_id": 76,
-    "ru": "У нее худший результат?",
-    "en": "Does she have the worst result?"
-  },
-  {
-    "_id": 77,
-    "ru": "Ты вегетарианец?",
-    "en": "Are you a vegetarian?"
-  },
-  {
-    "_id": 78,
-    "ru": "Они вегетарианцы?",
-    "en": "Are they vegetarians?"
-  },
-  {
-    "_id": 79,
-    "ru": "Она вегетарианка?",
-    "en": "Is she a vegetarian?"
-  },
-  {
-    "_id": 80,
-    "ru": "Он понимает, почему это происходит с ним?",
-    "en": "Does he understand why it happens to him?"
-  },
-  {
-    "_id": 81,
-    "ru": "Ты понимаешь, почему это происходит с тобой?",
-    "en": "Do you understand why it happens to you?"
-  },
-  {
-    "_id": 82,
-    "ru": "Она понимает, почему это происходит с ней?",
-    "en": "Does she understand why it happens to her?"
-  },
-  {
-    "_id": 83,
-    "ru": "Это последняя модель?",
-    "en": "Is it the latest model?"
-  },
-  {
-    "_id": 84,
-    "ru": "Это новая модель?",
-    "en": "Is it a new model?"
-  },
-  {
-    "_id": 85,
-    "ru": "Это лучшая модель?",
-    "en": "Is it the best model?"
-  },
-  {
-    "_id": 86,
-    "ru": "Это бесплатная программа?",
-    "en": "Is it a free program?"
-  },
-  {
-    "_id": 87,
-    "ru": "Это дешевая программа?",
-    "en": "Is it a cheap program?"
-  },
-  {
-    "_id": 88,
-    "ru": "Это новая программа?",
-    "en": "Is it a new program?"
-  },
-  {
-    "_id": 89,
-    "ru": "Ты используешь премиум аккаунт?",
-    "en": "Do you use a premium account?"
-  },
-  {
-    "_id": 90,
-    "ru": "Они нарочно все портят?",
-    "en": "Do they spoil everything on purpose?"
-  },
-  {
-    "_id": 91,
-    "ru": "Ты тоже видишь, что время действительно летит?",
-    "en": "Do you also see that time really flies?"
-  },
-  {
-    "_id": 92,
-    "ru": "У него лучше знания?",
-    "en": "Does he have better knowledge?"
-  },
-  {
-    "_id": 93,
-    "ru": "Он вегетарианец?",
-    "en": "Is he a vegetarian?"
-  },
-  {
-    "_id": 94,
-    "ru": "Ты думаешь, это большой успех?",
-    "en": "Do you think it's a big success?"
-  },
-  {
-    "_id": 95,
-    "ru": "У нее лучше машина?",
-    "en": "Does she have a better car?"
-  },
-  {
-    "_id": 96,
-    "ru": "У них хуже результаты?",
-    "en": "Do they have worse results?"
-  },
-  {
-    "_id": 97,
-    "ru": "Это премиум версия?",
-    "en": "Is it a premium version?"
-  },
-  {
-    "_id": 98,
-    "ru": "У него достаточно денег, чтобы купить квартиру?",
-    "en": "Does he have enough money to buy an apartment?"
-  },
-  {
-    "_id": 99,
-    "ru": "Это более хороший результат?",
-    "en": "Is it a better result?"
-  },
-  {
-    "_id": 100,
-    "ru": "Она твоя старшая сестра?",
-    "en": "Is she your elder sister?"
-  },
-  {
-    "_id": 101,
-    "ru": "Он уважает эти традиции?",
-    "en": "Does he respect these traditions?"
-  },
-  {
-    "_id": 102,
-    "ru": "Они портят еду?",
-    "en": "Do they spoil food?"
-  },
-  {
-    "_id": 103,
-    "ru": "Ты используешь бесплатную версию?",
-    "en": "Do you use a free version?"
+    "id": 1,
+    "ru": {
+      "text": "У тебя плохой результат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have a bad result?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Он уважает наши традиции?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he respect our traditions?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я твой друг?",
+      "audio": false
+    },
+    "en": {
+      "text": "Am I your friend?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Они очень ленивые студенты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they very lazy students?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Это более дорогой отель?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a more expensive hotel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Это дорогой билет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it an expensive ticket?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Тебе также это очень интересно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it also very interesting for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Ты менеджер?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you a manager?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "У него есть маленькая сумка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he have a small bag?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Он трудолюбивый студент?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he a hard-working student?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Они счастливо живут вместе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they live happily together?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Он популярный блоггер?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he a popular blogger?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Они слишком мало учатся?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they study too little?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Это социальная проблема?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a social problem?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Она профессиональная певица?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she a professional singer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Это так дорого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it so expensive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Ты смотришь этого видео блоггера?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you watch this video blogger?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Он ведет себя очень странно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he behave very strangely?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он странный человек?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he a strange person?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Она профессионально поет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she sing professionally?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Это действительно дешевле?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it really cheaper?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это много стоит?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does it cost a lot?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Она хороший танцор?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she a good dancer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Это уникальная возможность?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a unique opportunity?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Это тоже очень важно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it also very important?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Это уникальный шанс для нас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a unique chance for us?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Тебе нравятся такого рода шутки?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like this kind of jokes?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Эти билеты дешевые?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are these tickets cheap?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Это удобный диван?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a comfortable sofa?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Ты тоже очень удивлен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you also very surprised?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Они учатся в разных группах?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they study in different groups?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Ты уважаешь этого человека?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you respect this person?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Они очень ленивые студенты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they very lazy students?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Ты часто опаздываешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you often late?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Это правильный ответ?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it the right answer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Он очень усердно учится?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he study very hard?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Это комфортная кровать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a comfortable bed?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Она очень хорошо танцует?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she dance very well?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Они мало стоят?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they cost little?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Вы в одной группе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you in one group?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Ты уважаешь такого рода людей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you respect this kind of people?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Это хороший супермаркет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a good supermarket?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Это экономический кризис?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it an economic crisis?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "У него лучше результат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he have a better result?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Ты работаешь менеджером?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you work as a manager?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Ты согласен, что это очень важно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you agree that it's very important?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Она зарабатывает достаточно денег, чтобы купить дом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she earn enough money to buy a house?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Это бесплатная версия?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a free version?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "У тебя есть более стабильный доход?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have a more stable income?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Ты нарочно это делаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you do it on purpose?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "У тебя есть премиум аккаунт?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have a premium account?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Это более дорогой отель?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a more expensive hotel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Ты понимаешь, почему это происходит с нами?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you understand why it happens to us?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Это более важная вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a more important thing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Ты показываешь более хороший результат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you show a better result?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "У него более дорогая машина?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he have a more expensive car?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "У тебя есть последняя модель?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have the latest model?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Это более хорошая машина?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a better car?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Ты думаешь, это уникальная возможность?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you think it's a unique opportunity?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "У тебя есть премиум версия?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have a premium version?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он делает это нарочно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he do it on purpose?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Они делают это нарочно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they do it on purpose?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Она твоя младшая сестра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she your younger sister?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он твой младший брат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he your younger brother?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Он ее старший брат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he her elder brother?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Это худший результат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it the worst result?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Это лучший результат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it the best result?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Это более плохой результат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a worse result?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Ты обычно останавливаешься в более дешевом отеле?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you usually stay in a cheaper hotel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Он обычно останавливается в самом дорогом отеле?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he usually stay in the most expensive hotel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Они часто останавливаются в более дорогом отеле?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they often stay in a more expensive hotel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Это более дешевый отель?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a cheaper hotel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Это самый дешевый отель?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it the cheapest hotel?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "У него хуже результат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he have a worse result?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "У тебя хуже результат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have a worse result?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "У нее худший результат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she have the worst result?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Ты вегетарианец?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you a vegetarian?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Они вегетарианцы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they vegetarians?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Она вегетарианка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she a vegetarian?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Он понимает, почему это происходит с ним?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he understand why it happens to him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Ты понимаешь, почему это происходит с тобой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you understand why it happens to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Она понимает, почему это происходит с ней?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she understand why it happens to her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Это последняя модель?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it the latest model?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Это новая модель?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a new model?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Это лучшая модель?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it the best model?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Это бесплатная программа?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a free program?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Это дешевая программа?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a cheap program?",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Это новая программа?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a new program?",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Ты используешь премиум аккаунт?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you use a premium account?",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Они нарочно все портят?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they spoil everything on purpose?",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Ты тоже видишь, что время действительно летит?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you also see that time really flies?",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "У него лучше знания?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he have better knowledge?",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Он вегетарианец?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he a vegetarian?",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Ты думаешь, это большой успех?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you think it's a big success?",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "У нее лучше машина?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does she have a better car?",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "У них хуже результаты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they have worse results?",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Это премиум версия?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a premium version?",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "У него достаточно денег, чтобы купить квартиру?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he have enough money to buy an apartment?",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Это более хороший результат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a better result?",
+      "audio": false
+    }
+  },
+  {
+    "id": 100,
+    "ru": {
+      "text": "Она твоя старшая сестра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she your elder sister?",
+      "audio": false
+    }
+  },
+  {
+    "id": 101,
+    "ru": {
+      "text": "Он уважает эти традиции?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does he respect these traditions?",
+      "audio": false
+    }
+  },
+  {
+    "id": 102,
+    "ru": {
+      "text": "Они портят еду?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they spoil food?",
+      "audio": false
+    }
+  },
+  {
+    "id": 103,
+    "ru": {
+      "text": "Ты используешь бесплатную версию?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you use a free version?",
+      "audio": false
+    }
   }
 ]

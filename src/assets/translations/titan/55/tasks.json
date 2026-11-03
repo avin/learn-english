@@ -1,482 +1,1058 @@
 [
   {
-    "_id": 1,
-    "ru": "Моим друзьям нравится эта идея",
-    "en": "My friends like this idea"
-  },
-  {
-    "_id": 2,
-    "ru": "Та игра кажется такой интересной",
-    "en": "That game seems so interesting"
-  },
-  {
-    "_id": 3,
-    "ru": "Эти мужчины выглядят очень слабыми",
-    "en": "These men look very weak"
-  },
-  {
-    "_id": 4,
-    "ru": "Эти идеи выглядят так интересно",
-    "en": "These ideas look so interesting"
-  },
-  {
-    "_id": 5,
-    "ru": "Твой результат выглядит очень хорошо",
-    "en": "Your result looks very good"
-  },
-  {
-    "_id": 6,
-    "ru": "У его брата есть девушка",
-    "en": "His brother has a girlfriend"
-  },
-  {
-    "_id": 7,
-    "ru": "Эта вещь сильно мотивирует меня",
-    "en": "This thing motivates me greatly"
-  },
-  {
-    "_id": 8,
-    "ru": "Моим родителям действительно нравится эта идея",
-    "en": "My parents really like this idea"
-  },
-  {
-    "_id": 9,
-    "ru": "Этот билет стоит больше",
-    "en": "This ticket costs more"
-  },
-  {
-    "_id": 10,
-    "ru": "Этот студент учится лучше",
-    "en": "This student studies better"
-  },
-  {
-    "_id": 11,
-    "ru": "Моему брату нравится эта музыка тоже",
-    "en": "My brother likes this music, too"
-  },
-  {
-    "_id": 12,
-    "ru": "Те билеты стоят меньше",
-    "en": "Those tickets cost less"
-  },
-  {
-    "_id": 13,
-    "ru": "Моя сестра работает ветеринаром",
-    "en": "My sister works as a vet"
-  },
-  {
-    "_id": 14,
-    "ru": "Наш учитель часто говорит это",
-    "en": "Our teacher often says it"
-  },
-  {
-    "_id": 15,
-    "ru": "У его сестры есть парень",
-    "en": "His sister has a boyfriend"
-  },
-  {
-    "_id": 16,
-    "ru": "Мои друзья согласны со мной",
-    "en": "My friends agree with me"
-  },
-  {
-    "_id": 17,
-    "ru": "Эта идея кажется очень интересной",
-    "en": "This idea seems very interesting"
-  },
-  {
-    "_id": 18,
-    "ru": "Этот год кажется нам очень сложным",
-    "en": "This year seems very difficult for us"
-  },
-  {
-    "_id": 19,
-    "ru": "У нашего учителя много студентов",
-    "en": "Our teacher has many students"
-  },
-  {
-    "_id": 20,
-    "ru": "Тот студент показывает более лучшие результаты",
-    "en": "That student shows better results"
-  },
-  {
-    "_id": 21,
-    "ru": "Эти вещи так сильно мотивируют меня",
-    "en": "These things motivate me so much"
-  },
-  {
-    "_id": 22,
-    "ru": "У этого мальчика очень богатые родители",
-    "en": "This boy has very rich parents"
-  },
-  {
-    "_id": 23,
-    "ru": "Моя мама работает врачом",
-    "en": "My mother works as a doctor"
-  },
-  {
-    "_id": 24,
-    "ru": "Эти вещи кажутся действительно важными",
-    "en": "These things seem really important"
-  },
-  {
-    "_id": 25,
-    "ru": "Моей сестре тоже нравится эта песня",
-    "en": "My sister also likes this song"
-  },
-  {
-    "_id": 26,
-    "ru": "Эта работа кажется такой сложной",
-    "en": "This work seems so difficult"
-  },
-  {
-    "_id": 27,
-    "ru": "Эта женщина выглядит такой красивой",
-    "en": "This woman looks so beautiful"
-  },
-  {
-    "_id": 28,
-    "ru": "Мой брат работает фрилансером",
-    "en": "My brother works as a freelancer"
-  },
-  {
-    "_id": 29,
-    "ru": "У этого мальчика много вопросов",
-    "en": "This boy has many questions"
-  },
-  {
-    "_id": 30,
-    "ru": "Мои друзья часто говорят мне эти вещи",
-    "en": "My friends often tell me these things"
-  },
-  {
-    "_id": 31,
-    "ru": "Эта игра кажется такой скучной",
-    "en": "This game seems so boring"
-  },
-  {
-    "_id": 32,
-    "ru": "Этот курс действительно помогает мне",
-    "en": "This course really helps me"
-  },
-  {
-    "_id": 33,
-    "ru": "Эти женщины выглядят так красиво",
-    "en": "These women look so beautiful"
-  },
-  {
-    "_id": 34,
-    "ru": "Наша жизнь кажется очень короткой",
-    "en": "Our life seems very short"
-  },
-  {
-    "_id": 35,
-    "ru": "Этот парень работает с ними",
-    "en": "This guy works with them"
-  },
-  {
-    "_id": 36,
-    "ru": "Тот путь кажется короче",
-    "en": "That way seems shorter"
-  },
-  {
-    "_id": 37,
-    "ru": "Эта вещь стоит слишком много",
-    "en": "This thing costs too much"
-  },
-  {
-    "_id": 38,
-    "ru": "Мой отец работает менеджером по продажам",
-    "en": "My father works as a sales manager"
-  },
-  {
-    "_id": 39,
-    "ru": "Этот мужчина выглядит очень сильным",
-    "en": "This man looks very strong"
-  },
-  {
-    "_id": 40,
-    "ru": "У этого доктора много пациентов",
-    "en": "This doctor has many patients"
-  },
-  {
-    "_id": 41,
-    "ru": "Мой друг поддерживает меня",
-    "en": "My friend supports me"
-  },
-  {
-    "_id": 42,
-    "ru": "У этой девочки очень бедные родители",
-    "en": "This girl has very poor parents"
-  },
-  {
-    "_id": 43,
-    "ru": "Мой босс хочет купить новую машину",
-    "en": "My boss wants to buy a new car"
-  },
-  {
-    "_id": 44,
-    "ru": "Студенты часто копируют эти ошибки",
-    "en": "Students often copy these mistakes"
-  },
-  {
-    "_id": 45,
-    "ru": "Этот магазин принимает кредитные карты тоже",
-    "en": "This store takes credit cards, too"
-  },
-  {
-    "_id": 46,
-    "ru": "Я вижу, что время проходит очень быстро",
-    "en": "I see that time passes very quickly"
-  },
-  {
-    "_id": 47,
-    "ru": "Эта коробка лежит на полу",
-    "en": "This box lies on the floor"
-  },
-  {
-    "_id": 48,
-    "ru": "У моих родителей другое мнение",
-    "en": "My parents have another opinion"
-  },
-  {
-    "_id": 49,
-    "ru": "Его сестра танцует профессионально",
-    "en": "His sister dances professionally"
-  },
-  {
-    "_id": 50,
-    "ru": "Этот подросток часто перебивает других людей",
-    "en": "This teenager often interrupts other people"
-  },
-  {
-    "_id": 51,
-    "ru": "Тот проект приносит им слишком мало денег",
-    "en": "That project brings them too little money"
-  },
-  {
-    "_id": 52,
-    "ru": "Моя мама выходит в отпуск несколько раз в год",
-    "en": "My mother goes on holiday several times a year"
-  },
-  {
-    "_id": 53,
-    "ru": "Этот проект приносит ему большие деньги",
-    "en": "This project brings him big money"
-  },
-  {
-    "_id": 54,
-    "ru": "Тот мальчик всегда перебивает других",
-    "en": "That boy always interrupts others"
-  },
-  {
-    "_id": 55,
-    "ru": "Я вижу, что этот метод действительно работает",
-    "en": "I see that this method really works"
-  },
-  {
-    "_id": 56,
-    "ru": "Этот человек пытается найти новую работу",
-    "en": "This person tries to find a new job"
-  },
-  {
-    "_id": 57,
-    "ru": "Девочка часто перебивает других",
-    "en": "The girl often interrupts others"
-  },
-  {
-    "_id": 58,
-    "ru": "Девочка часто перебивает других людей",
-    "en": "The girl often interrupts other people"
-  },
-  {
-    "_id": 59,
-    "ru": "Ее дочь часто перебивала других",
-    "en": "Her daughter often interrupted others"
-  },
-  {
-    "_id": 60,
-    "ru": "Картина висит на стене",
-    "en": "The picture hangs on the wall"
-  },
-  {
-    "_id": 61,
-    "ru": "Две картины висят на стене",
-    "en": "Two pictures hang on the wall"
-  },
-  {
-    "_id": 62,
-    "ru": "Некоторые картины висят на стене",
-    "en": "Some pictures hang on the wall"
-  },
-  {
-    "_id": 63,
-    "ru": "Я вижу, что время действительно летит",
-    "en": "I see that time really flies"
-  },
-  {
-    "_id": 64,
-    "ru": "Она видит, что время действительно летит",
-    "en": "She sees that time really flies"
-  },
-  {
-    "_id": 65,
-    "ru": "Они видят, что время летит",
-    "en": "They see that time flies"
-  },
-  {
-    "_id": 66,
-    "ru": "Этот магазин принимает кредитные карты",
-    "en": "This shop takes credit cards"
-  },
-  {
-    "_id": 67,
-    "ru": "Эти магазины принимают кредитные карты",
-    "en": "These shops take credit cards"
-  },
-  {
-    "_id": 68,
-    "ru": "Этот интернет-магазин принимает кредитные карты",
-    "en": "This online store takes credit cards"
-  },
-  {
-    "_id": 69,
-    "ru": "Мой друг пытается водить очень осторожно",
-    "en": "My friend tries to drive very carefully"
-  },
-  {
-    "_id": 70,
-    "ru": "Мой друг всегда водит очень осторожно",
-    "en": "My friend always drives very carefully"
-  },
-  {
-    "_id": 71,
-    "ru": "Мои друзья стараются водить очень осторожно",
-    "en": "My friends try to drive very carefully"
-  },
-  {
-    "_id": 72,
-    "ru": "Слово означает другую вещь",
-    "en": "The word means another thing"
-  },
-  {
-    "_id": 73,
-    "ru": "Эти слова означают другие вещи",
-    "en": "These words mean other things"
-  },
-  {
-    "_id": 74,
-    "ru": "Это слово означает другую вещь",
-    "en": "This word means another thing"
-  },
-  {
-    "_id": 75,
-    "ru": "Такие вещи часто случаются",
-    "en": "Such things often happen"
-  },
-  {
-    "_id": 76,
-    "ru": "Эта вещь часто случается",
-    "en": "This thing often happens"
-  },
-  {
-    "_id": 77,
-    "ru": "Мой младший брат думает так",
-    "en": "My younger brother thinks so"
-  },
-  {
-    "_id": 78,
-    "ru": "Мои братья думают так",
-    "en": "My brothers think so"
-  },
-  {
-    "_id": 79,
-    "ru": "Мой старший брат думает так",
-    "en": "My elder brother thinks so"
-  },
-  {
-    "_id": 80,
-    "ru": "Этот магазин работает двадцать четыре часа в сутки",
-    "en": "This shop works twenty four hours a day"
-  },
-  {
-    "_id": 81,
-    "ru": "Много людей делают это",
-    "en": "Lots of people do it / Many people do it"
-  },
-  {
-    "_id": 82,
-    "ru": "Некоторые люди делают это",
-    "en": "Some people do it"
-  },
-  {
-    "_id": 83,
-    "ru": "У моей старшей сестры другое мнение",
-    "en": "My elder sister has another opinion"
-  },
-  {
-    "_id": 84,
-    "ru": "У этой компании очень большие проблемы",
-    "en": "This company has very big problems"
-  },
-  {
-    "_id": 85,
-    "ru": "Этих денег кажется достаточно",
-    "en": "This money seems enough"
-  },
-  {
-    "_id": 86,
-    "ru": "Много людей пытаются сделать это",
-    "en": "Lots of people try to do it"
-  },
-  {
-    "_id": 87,
-    "ru": "Эта фраза означает следующее",
-    "en": "This phrase means the following"
-  },
-  {
-    "_id": 88,
-    "ru": "Эта новость кажется такой интересной",
-    "en": "This news seems so interesting"
-  },
-  {
-    "_id": 89,
-    "ru": "Мой отец обычно ездит в отпуск дважды в год",
-    "en": "My father usually goes on holiday twice a year"
-  },
-  {
-    "_id": 90,
-    "ru": "Тот плакат висит на стене",
-    "en": "That poster hangs on the wall"
-  },
-  {
-    "_id": 91,
-    "ru": "Этот пример действительно вдохновляет меня",
-    "en": "This example really inspires me"
-  },
-  {
-    "_id": 92,
-    "ru": "Эта речь действительно вдохновляет меня",
-    "en": "This speech really inspires me"
-  },
-  {
-    "_id": 93,
-    "ru": "Тот магазин также принимает кредитные карты",
-    "en": "That shop also takes credit cards"
-  },
-  {
-    "_id": 94,
-    "ru": "Эти часы стоят триста долларов",
-    "en": "This watch costs three hundred dollars"
-  },
-  {
-    "_id": 95,
-    "ru": "Моей сестре действительно нравятся эти туфли",
-    "en": "My sister really likes these shoes"
-  },
-  {
-    "_id": 96,
-    "ru": "Такие вещи иногда случаются",
-    "en": "Such things sometimes happen"
+    "id": 1,
+    "ru": {
+      "text": "Моим друзьям нравится эта идея",
+      "audio": false
+    },
+    "en": {
+      "text": "My friends like this idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Та игра кажется такой интересной",
+      "audio": false
+    },
+    "en": {
+      "text": "That game seems so interesting",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Эти мужчины выглядят очень слабыми",
+      "audio": false
+    },
+    "en": {
+      "text": "These men look very weak",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Эти идеи выглядят так интересно",
+      "audio": false
+    },
+    "en": {
+      "text": "These ideas look so interesting",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Твой результат выглядит очень хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "Your result looks very good",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "У его брата есть девушка",
+      "audio": false
+    },
+    "en": {
+      "text": "His brother has a girlfriend",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Эта вещь сильно мотивирует меня",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing motivates me greatly",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Моим родителям действительно нравится эта идея",
+      "audio": false
+    },
+    "en": {
+      "text": "My parents really like this idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Этот билет стоит больше",
+      "audio": false
+    },
+    "en": {
+      "text": "This ticket costs more",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Этот студент учится лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "This student studies better",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Моему брату нравится эта музыка тоже",
+      "audio": false
+    },
+    "en": {
+      "text": "My brother likes this music, too",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Те билеты стоят меньше",
+      "audio": false
+    },
+    "en": {
+      "text": "Those tickets cost less",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Моя сестра работает ветеринаром",
+      "audio": false
+    },
+    "en": {
+      "text": "My sister works as a vet",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Наш учитель часто говорит это",
+      "audio": false
+    },
+    "en": {
+      "text": "Our teacher often says it",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "У его сестры есть парень",
+      "audio": false
+    },
+    "en": {
+      "text": "His sister has a boyfriend",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Мои друзья согласны со мной",
+      "audio": false
+    },
+    "en": {
+      "text": "My friends agree with me",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Эта идея кажется очень интересной",
+      "audio": false
+    },
+    "en": {
+      "text": "This idea seems very interesting",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Этот год кажется нам очень сложным",
+      "audio": false
+    },
+    "en": {
+      "text": "This year seems very difficult for us",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "У нашего учителя много студентов",
+      "audio": false
+    },
+    "en": {
+      "text": "Our teacher has many students",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Тот студент показывает более лучшие результаты",
+      "audio": false
+    },
+    "en": {
+      "text": "That student shows better results",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Эти вещи так сильно мотивируют меня",
+      "audio": false
+    },
+    "en": {
+      "text": "These things motivate me so much",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "У этого мальчика очень богатые родители",
+      "audio": false
+    },
+    "en": {
+      "text": "This boy has very rich parents",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Моя мама работает врачом",
+      "audio": false
+    },
+    "en": {
+      "text": "My mother works as a doctor",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Эти вещи кажутся действительно важными",
+      "audio": false
+    },
+    "en": {
+      "text": "These things seem really important",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Моей сестре тоже нравится эта песня",
+      "audio": false
+    },
+    "en": {
+      "text": "My sister also likes this song",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Эта работа кажется такой сложной",
+      "audio": false
+    },
+    "en": {
+      "text": "This work seems so difficult",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Эта женщина выглядит такой красивой",
+      "audio": false
+    },
+    "en": {
+      "text": "This woman looks so beautiful",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Мой брат работает фрилансером",
+      "audio": false
+    },
+    "en": {
+      "text": "My brother works as a freelancer",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "У этого мальчика много вопросов",
+      "audio": false
+    },
+    "en": {
+      "text": "This boy has many questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Мои друзья часто говорят мне эти вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "My friends often tell me these things",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Эта игра кажется такой скучной",
+      "audio": false
+    },
+    "en": {
+      "text": "This game seems so boring",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Этот курс действительно помогает мне",
+      "audio": false
+    },
+    "en": {
+      "text": "This course really helps me",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Эти женщины выглядят так красиво",
+      "audio": false
+    },
+    "en": {
+      "text": "These women look so beautiful",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Наша жизнь кажется очень короткой",
+      "audio": false
+    },
+    "en": {
+      "text": "Our life seems very short",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Этот парень работает с ними",
+      "audio": false
+    },
+    "en": {
+      "text": "This guy works with them",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Тот путь кажется короче",
+      "audio": false
+    },
+    "en": {
+      "text": "That way seems shorter",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Эта вещь стоит слишком много",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing costs too much",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Мой отец работает менеджером по продажам",
+      "audio": false
+    },
+    "en": {
+      "text": "My father works as a sales manager",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Этот мужчина выглядит очень сильным",
+      "audio": false
+    },
+    "en": {
+      "text": "This man looks very strong",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "У этого доктора много пациентов",
+      "audio": false
+    },
+    "en": {
+      "text": "This doctor has many patients",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Мой друг поддерживает меня",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend supports me",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "У этой девочки очень бедные родители",
+      "audio": false
+    },
+    "en": {
+      "text": "This girl has very poor parents",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Мой босс хочет купить новую машину",
+      "audio": false
+    },
+    "en": {
+      "text": "My boss wants to buy a new car",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Студенты часто копируют эти ошибки",
+      "audio": false
+    },
+    "en": {
+      "text": "Students often copy these mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Этот магазин принимает кредитные карты тоже",
+      "audio": false
+    },
+    "en": {
+      "text": "This store takes credit cards, too",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я вижу, что время проходит очень быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that time passes very quickly",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Эта коробка лежит на полу",
+      "audio": false
+    },
+    "en": {
+      "text": "This box lies on the floor",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "У моих родителей другое мнение",
+      "audio": false
+    },
+    "en": {
+      "text": "My parents have another opinion",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Его сестра танцует профессионально",
+      "audio": false
+    },
+    "en": {
+      "text": "His sister dances professionally",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Этот подросток часто перебивает других людей",
+      "audio": false
+    },
+    "en": {
+      "text": "This teenager often interrupts other people",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Тот проект приносит им слишком мало денег",
+      "audio": false
+    },
+    "en": {
+      "text": "That project brings them too little money",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Моя мама выходит в отпуск несколько раз в год",
+      "audio": false
+    },
+    "en": {
+      "text": "My mother goes on holiday several times a year",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Этот проект приносит ему большие деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "This project brings him big money",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Тот мальчик всегда перебивает других",
+      "audio": false
+    },
+    "en": {
+      "text": "That boy always interrupts others",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я вижу, что этот метод действительно работает",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that this method really works",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Этот человек пытается найти новую работу",
+      "audio": false
+    },
+    "en": {
+      "text": "This person tries to find a new job",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Девочка часто перебивает других",
+      "audio": false
+    },
+    "en": {
+      "text": "The girl often interrupts others",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Девочка часто перебивает других людей",
+      "audio": false
+    },
+    "en": {
+      "text": "The girl often interrupts other people",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Ее дочь часто перебивала других",
+      "audio": false
+    },
+    "en": {
+      "text": "Her daughter often interrupted others",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Картина висит на стене",
+      "audio": false
+    },
+    "en": {
+      "text": "The picture hangs on the wall",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Две картины висят на стене",
+      "audio": false
+    },
+    "en": {
+      "text": "Two pictures hang on the wall",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Некоторые картины висят на стене",
+      "audio": false
+    },
+    "en": {
+      "text": "Some pictures hang on the wall",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я вижу, что время действительно летит",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that time really flies",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Она видит, что время действительно летит",
+      "audio": false
+    },
+    "en": {
+      "text": "She sees that time really flies",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Они видят, что время летит",
+      "audio": false
+    },
+    "en": {
+      "text": "They see that time flies",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Этот магазин принимает кредитные карты",
+      "audio": false
+    },
+    "en": {
+      "text": "This shop takes credit cards",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Эти магазины принимают кредитные карты",
+      "audio": false
+    },
+    "en": {
+      "text": "These shops take credit cards",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Этот интернет-магазин принимает кредитные карты",
+      "audio": false
+    },
+    "en": {
+      "text": "This online store takes credit cards",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Мой друг пытается водить очень осторожно",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend tries to drive very carefully",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Мой друг всегда водит очень осторожно",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend always drives very carefully",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Мои друзья стараются водить очень осторожно",
+      "audio": false
+    },
+    "en": {
+      "text": "My friends try to drive very carefully",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Слово означает другую вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "The word means another thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Эти слова означают другие вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "These words mean other things",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Это слово означает другую вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "This word means another thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Такие вещи часто случаются",
+      "audio": false
+    },
+    "en": {
+      "text": "Such things often happen",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Эта вещь часто случается",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing often happens",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Мой младший брат думает так",
+      "audio": false
+    },
+    "en": {
+      "text": "My younger brother thinks so",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Мои братья думают так",
+      "audio": false
+    },
+    "en": {
+      "text": "My brothers think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Мой старший брат думает так",
+      "audio": false
+    },
+    "en": {
+      "text": "My elder brother thinks so",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Этот магазин работает двадцать четыре часа в сутки",
+      "audio": false
+    },
+    "en": {
+      "text": "This shop works twenty four hours a day",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Много людей делают это",
+      "audio": false
+    },
+    "en": {
+      "text": "Lots of people do it / Many people do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Некоторые люди делают это",
+      "audio": false
+    },
+    "en": {
+      "text": "Some people do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "У моей старшей сестры другое мнение",
+      "audio": false
+    },
+    "en": {
+      "text": "My elder sister has another opinion",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "У этой компании очень большие проблемы",
+      "audio": false
+    },
+    "en": {
+      "text": "This company has very big problems",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Этих денег кажется достаточно",
+      "audio": false
+    },
+    "en": {
+      "text": "This money seems enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Много людей пытаются сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "Lots of people try to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Эта фраза означает следующее",
+      "audio": false
+    },
+    "en": {
+      "text": "This phrase means the following",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Эта новость кажется такой интересной",
+      "audio": false
+    },
+    "en": {
+      "text": "This news seems so interesting",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Мой отец обычно ездит в отпуск дважды в год",
+      "audio": false
+    },
+    "en": {
+      "text": "My father usually goes on holiday twice a year",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Тот плакат висит на стене",
+      "audio": false
+    },
+    "en": {
+      "text": "That poster hangs on the wall",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Этот пример действительно вдохновляет меня",
+      "audio": false
+    },
+    "en": {
+      "text": "This example really inspires me",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Эта речь действительно вдохновляет меня",
+      "audio": false
+    },
+    "en": {
+      "text": "This speech really inspires me",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Тот магазин также принимает кредитные карты",
+      "audio": false
+    },
+    "en": {
+      "text": "That shop also takes credit cards",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Эти часы стоят триста долларов",
+      "audio": false
+    },
+    "en": {
+      "text": "This watch costs three hundred dollars",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Моей сестре действительно нравятся эти туфли",
+      "audio": false
+    },
+    "en": {
+      "text": "My sister really likes these shoes",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Такие вещи иногда случаются",
+      "audio": false
+    },
+    "en": {
+      "text": "Such things sometimes happen",
+      "audio": false
+    }
   }
 ]

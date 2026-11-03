@@ -1,457 +1,1003 @@
 [
   {
-    "_id": 1,
-    "ru": "Я хочу знать английский превосходно",
-    "en": "I want to know English perfectly"
-  },
-  {
-    "_id": 2,
-    "ru": "Я сделал это специально для тебя",
-    "en": "I did it specially for you"
-  },
-  {
-    "_id": 3,
-    "ru": "Определенно, ты прав",
-    "en": "Definitely, you are right"
-  },
-  {
-    "_id": 4,
-    "ru": "Она работает в основном по вечерам",
-    "en": "She works mostly in the evenings"
-  },
-  {
-    "_id": 5,
-    "ru": "Ей нравятся разные цветы, особенно розы",
-    "en": "She likes different flowers, especially roses"
-  },
-  {
-    "_id": 6,
-    "ru": "Я прекрасно понимаю важность этого решения",
-    "en": "I perfectly understand the importance of this decision"
-  },
-  {
-    "_id": 7,
-    "ru": "Я изредка ее вижу",
-    "en": "I see her occasionally"
-  },
-  {
-    "_id": 8,
-    "ru": "Он любит разные виды спорта, особенно футбол",
-    "en": "He likes different kinds of sport, especially football"
-  },
-  {
-    "_id": 9,
-    "ru": "Я хочу знать английский язык в совершенстве",
-    "en": "I want to know English perfectly"
-  },
-  {
-    "_id": 10,
-    "ru": "Я действительно так не думаю",
-    "en": "I don't really think so"
-  },
-  {
-    "_id": 11,
-    "ru": "Я сделал это специально для тебя",
-    "en": "I did it specially for you"
-  },
-  {
-    "_id": 12,
-    "ru": "Он звонит ей только изредка",
-    "en": "He calls her only occasionally"
-  },
-  {
-    "_id": 13,
-    "ru": "Я абсолютно уверен, что мы правы",
-    "en": "I am absolutely sure that we are right"
-  },
-  {
-    "_id": 14,
-    "ru": "Я с ним абсолютно согласен",
-    "en": "I absolutely agree with him"
-  },
-  {
-    "_id": 15,
-    "ru": "Короче, это была настоящая катастрофа",
-    "en": "In short, it was a real disaster"
-  },
-  {
-    "_id": 16,
-    "ru": "Он серьезно болен",
-    "en": "He is seriously ill"
-  },
-  {
-    "_id": 17,
-    "ru": "Я успешно завершил этот курс",
-    "en": "I successfully completed this course"
-  },
-  {
-    "_id": 18,
-    "ru": "Это вряд ли работает",
-    "en": "It hardly works"
-  },
-  {
-    "_id": 19,
-    "ru": "Я с трудом могу в это поверить",
-    "en": "I can hardly believe it"
-  },
-  {
-    "_id": 20,
-    "ru": "Ты так усердно работаешь",
-    "en": "You work so hard"
-  },
-  {
-    "_id": 21,
-    "ru": "На самом деле, это не так",
-    "en": "Actually, it isn't so"
-  },
-  {
-    "_id": 22,
-    "ru": "Это в первую очередь их задача",
-    "en": "It is primarily their task"
-  },
-  {
-    "_id": 23,
-    "ru": "Это вряд ли возможно",
-    "en": "It is hardly possible"
-  },
-  {
-    "_id": 24,
-    "ru": "Короче говоря, это была полная катастрофа",
-    "en": "Briefly, it was a complete disaster"
-  },
-  {
-    "_id": 25,
-    "ru": "Это список часто задаваемых вопросов",
-    "en": "This is a list of frequently asked questions"
-  },
-  {
-    "_id": 26,
-    "ru": "Он абсолютно уверен",
-    "en": "He is absolutely sure"
-  },
-  {
-    "_id": 27,
-    "ru": "У него в первую очередь финансовые проблемы",
-    "en": "He has primarily financial problems"
-  },
-  {
-    "_id": 28,
-    "ru": "Она приготовила этот торт специально для нас",
-    "en": "She cooked this cake specially for us"
-  },
-  {
-    "_id": 29,
-    "ru": "Я абсолютно уверен",
-    "en": "I am absolutely certain"
-  },
-  {
-    "_id": 30,
-    "ru": "На самом деле, ты прав",
-    "en": "Actually, you are right"
-  },
-  {
-    "_id": 31,
-    "ru": "Она постоянно нервная",
-    "en": "She is constantly nervous"
-  },
-  {
-    "_id": 32,
-    "ru": "Он едва работает, и никому это не нравится",
-    "en": "He hardly works and no one likes it"
-  },
-  {
-    "_id": 33,
-    "ru": "Конечно, у нас еще есть время",
-    "en": "Certainly, we still have time"
-  },
-  {
-    "_id": 34,
-    "ru": "Он слушает эту музыку довольно часто",
-    "en": "He listens to this music quite frequently"
-  },
-  {
-    "_id": 35,
-    "ru": "Я едва мог его понять",
-    "en": "I could hardly understand him"
-  },
-  {
-    "_id": 36,
-    "ru": "Эти вещи одинаково важны",
-    "en": "These things are equally important"
-  },
-  {
-    "_id": 37,
-    "ru": "Я вижу его только изредка",
-    "en": "I see him only occasionally"
-  },
-  {
-    "_id": 38,
-    "ru": "Она прекрасно говорит по-английски",
-    "en": "She speaks English perfectly"
-  },
-  {
-    "_id": 39,
-    "ru": "Я успешно сдал тест",
-    "en": "I successfully passed this test"
-  },
-  {
-    "_id": 40,
-    "ru": "Она так усердно работает, и все восхищаются ею",
-    "en": "She works so hard and everyone admires her"
-  },
-  {
-    "_id": 41,
-    "ru": "Он успешно прошел сдал тест",
-    "en": "He passed this test successfully"
-  },
-  {
-    "_id": 42,
-    "ru": "Я его прекрасно понимаю",
-    "en": "I perfectly understand him"
-  },
-  {
-    "_id": 43,
-    "ru": "Это не обязательно означает, что он действительно прав",
-    "en": "It doesn't necessarily mean that he is really right"
-  },
-  {
-    "_id": 44,
-    "ru": "Я недавно был в Соединенных Штатах",
-    "en": "I have been to the United States recently"
-  },
-  {
-    "_id": 45,
-    "ru": "Он был серьезно ранен в автомобильной аварии",
-    "en": "He was seriously injured in a car accident"
-  },
-  {
-    "_id": 46,
-    "ru": "Это один из наиболее часто задаваемых вопросов",
-    "en": "It is one of the most frequently asked questions"
-  },
-  {
-    "_id": 47,
-    "ru": "Это не обязательно означает, что будет так",
-    "en": "It doesn't necessarily mean that it will be so"
-  },
-  {
-    "_id": 48,
-    "ru": "Это относительно недорогие часы",
-    "en": "It is a relatively inexpensive watch"
-  },
-  {
-    "_id": 49,
-    "ru": "Я сделал это главным образом по этой причине",
-    "en": "I did it especially for this reason"
-  },
-  {
-    "_id": 50,
-    "ru": "Я сделал это только по той причине",
-    "en": "I did it only for that reason"
-  },
-  {
-    "_id": 51,
-    "ru": "Он сделал это главным образом по той причине",
-    "en": "He did it especially for that reason"
-  },
-  {
-    "_id": 52,
-    "ru": "Надеюсь, он скоро поправится",
-    "en": "Hopefully, he'll recover soon"
-  },
-  {
-    "_id": 53,
-    "ru": "Я надеюсь, он скоро поправится",
-    "en": "I hope he'll recover soon"
-  },
-  {
-    "_id": 54,
-    "ru": "Надеюсь, он скоро вернется",
-    "en": "Hopefully, he'll return soon"
-  },
-  {
-    "_id": 55,
-    "ru": "Он в основном интересуется наукой",
-    "en": "He is mainly interested in science"
-  },
-  {
-    "_id": 56,
-    "ru": "Она действительно интересуется наукой",
-    "en": "She is really interested in science"
-  },
-  {
-    "_id": 57,
-    "ru": "Он в основном интересуется искусством",
-    "en": "He is mainly interested in art"
-  },
-  {
-    "_id": 58,
-    "ru": "Я думаю, это было сделано намеренно",
-    "en": "I think it was done deliberately"
-  },
-  {
-    "_id": 59,
-    "ru": "Я думаю, это было сделано очень быстро",
-    "en": "I think it was done very quickly"
-  },
-  {
-    "_id": 60,
-    "ru": "Я думаю, что это было сделано вовремя",
-    "en": "I think it was done on time"
-  },
-  {
-    "_id": 61,
-    "ru": "Определенно, ты прав",
-    "en": "Definitely, you are right"
-  },
-  {
-    "_id": 62,
-    "ru": "Определенно, ты не прав",
-    "en": "Definitely, you are wrong"
-  },
-  {
-    "_id": 63,
-    "ru": "Ты определенно прав",
-    "en": "You are definitely right"
-  },
-  {
-    "_id": 64,
-    "ru": "У него похожая точка зрения",
-    "en": "He has a similar point of view"
-  },
-  {
-    "_id": 65,
-    "ru": "У него такая же точка зрения",
-    "en": "He has the same point of view"
-  },
-  {
-    "_id": 66,
-    "ru": "У него другая точка зрения",
-    "en": "He has a different point of view"
-  },
-  {
-    "_id": 67,
-    "ru": "Это случилось очень странным образом",
-    "en": "It happened in a very strange way"
-  },
-  {
-    "_id": 68,
-    "ru": "Это случилось очень необычным образом",
-    "en": "It happened in a very unusual way"
-  },
-  {
-    "_id": 69,
-    "ru": "Я думаю, что это произошло действительно странным образом",
-    "en": "I think it happened in a really strange way"
-  },
-  {
-    "_id": 70,
-    "ru": "Надеюсь, все будет хорошо",
-    "en": "Hopefully, everything will be alright"
-  },
-  {
-    "_id": 71,
-    "ru": "Надеюсь, они скоро поправятся",
-    "en": "Hopefully, they will recover soon"
-  },
-  {
-    "_id": 72,
-    "ru": "Надеюсь, у тебя все будет хорошо",
-    "en": "Hopefully, you will be alright"
-  },
-  {
-    "_id": 73,
-    "ru": "Я сделал это, в основном, по этой причине",
-    "en": "I did it mostly for this reason"
-  },
-  {
-    "_id": 74,
-    "ru": "Я сделал это главным образом по этой причине",
-    "en": "I did it specially for this reason"
-  },
-  {
-    "_id": 75,
-    "ru": "Я сделал это по другой причине",
-    "en": "I did it for another reason"
-  },
-  {
-    "_id": 76,
-    "ru": "Они думают так же",
-    "en": "They think similarly"
-  },
-  {
-    "_id": 77,
-    "ru": "Они думают по-другому",
-    "en": "They think differently"
-  },
-  {
-    "_id": 78,
-    "ru": "У них похожая точка зрения",
-    "en": "They have a similar point of view"
-  },
-  {
-    "_id": 79,
-    "ru": "Это определенно лучшее место для туристов",
-    "en": "It is definitely the best place for tourists"
-  },
-  {
-    "_id": 80,
-    "ru": "Она в основном интересуется модой",
-    "en": "She is mainly interested in fashion"
-  },
-  {
-    "_id": 81,
-    "ru": "Честно говоря, я не знаю, что тебе ответить",
-    "en": "Honestly, I don't know how to answer you"
-  },
-  {
-    "_id": 82,
-    "ru": "Он объясняет все очень простым способом",
-    "en": "He explains everything in a very simple way"
-  },
-  {
-    "_id": 83,
-    "ru": "Надеюсь, тебе удастся решить эту проблему",
-    "en": "Hopefully, you'll manage to solve this problem"
-  },
-  {
-    "_id": 84,
-    "ru": "Тебе нужно постоянно знать об этом",
-    "en": "You need to be constantly aware of it"
-  },
-  {
-    "_id": 85,
-    "ru": "Он вел себя очень странным образом",
-    "en": "He behaved in a very strange way"
-  },
-  {
-    "_id": 86,
-    "ru": "Мне кажется, что это делается намеренно",
-    "en": "It seems to me that it is done deliberately"
-  },
-  {
-    "_id": 87,
-    "ru": "Честно говоря, я не знаю, что сказать",
-    "en": "Honestly, I don't know what to say"
-  },
-  {
-    "_id": 88,
-    "ru": "Это недавно стало очень популярным трендом",
-    "en": "It has become a very popular trend recently"
-  },
-  {
-    "_id": 89,
-    "ru": "Это относительно дешевая вещь",
-    "en": "It is a relatively cheap thing"
-  },
-  {
-    "_id": 90,
-    "ru": "Это произошло в основном из-за него",
-    "en": "It happened mainly because of him"
-  },
-  {
-    "_id": 91,
-    "ru": "Надеюсь, этого больше не произойдет",
-    "en": "Hopefully, it won't happen anymore"
+    "id": 1,
+    "ru": {
+      "text": "Я хочу знать английский превосходно",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to know English perfectly",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я сделал это специально для тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I did it specially for you",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Определенно, ты прав",
+      "audio": false
+    },
+    "en": {
+      "text": "Definitely, you are right",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Она работает в основном по вечерам",
+      "audio": false
+    },
+    "en": {
+      "text": "She works mostly in the evenings",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Ей нравятся разные цветы, особенно розы",
+      "audio": false
+    },
+    "en": {
+      "text": "She likes different flowers, especially roses",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я прекрасно понимаю важность этого решения",
+      "audio": false
+    },
+    "en": {
+      "text": "I perfectly understand the importance of this decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Я изредка ее вижу",
+      "audio": false
+    },
+    "en": {
+      "text": "I see her occasionally",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Он любит разные виды спорта, особенно футбол",
+      "audio": false
+    },
+    "en": {
+      "text": "He likes different kinds of sport, especially football",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я хочу знать английский язык в совершенстве",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to know English perfectly",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я действительно так не думаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't really think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я сделал это специально для тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I did it specially for you",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Он звонит ей только изредка",
+      "audio": false
+    },
+    "en": {
+      "text": "He calls her only occasionally",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Я абсолютно уверен, что мы правы",
+      "audio": false
+    },
+    "en": {
+      "text": "I am absolutely sure that we are right",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я с ним абсолютно согласен",
+      "audio": false
+    },
+    "en": {
+      "text": "I absolutely agree with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Короче, это была настоящая катастрофа",
+      "audio": false
+    },
+    "en": {
+      "text": "In short, it was a real disaster",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Он серьезно болен",
+      "audio": false
+    },
+    "en": {
+      "text": "He is seriously ill",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я успешно завершил этот курс",
+      "audio": false
+    },
+    "en": {
+      "text": "I successfully completed this course",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Это вряд ли работает",
+      "audio": false
+    },
+    "en": {
+      "text": "It hardly works",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я с трудом могу в это поверить",
+      "audio": false
+    },
+    "en": {
+      "text": "I can hardly believe it",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Ты так усердно работаешь",
+      "audio": false
+    },
+    "en": {
+      "text": "You work so hard",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "На самом деле, это не так",
+      "audio": false
+    },
+    "en": {
+      "text": "Actually, it isn't so",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это в первую очередь их задача",
+      "audio": false
+    },
+    "en": {
+      "text": "It is primarily their task",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Это вряд ли возможно",
+      "audio": false
+    },
+    "en": {
+      "text": "It is hardly possible",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Короче говоря, это была полная катастрофа",
+      "audio": false
+    },
+    "en": {
+      "text": "Briefly, it was a complete disaster",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Это список часто задаваемых вопросов",
+      "audio": false
+    },
+    "en": {
+      "text": "This is a list of frequently asked questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Он абсолютно уверен",
+      "audio": false
+    },
+    "en": {
+      "text": "He is absolutely sure",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "У него в первую очередь финансовые проблемы",
+      "audio": false
+    },
+    "en": {
+      "text": "He has primarily financial problems",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Она приготовила этот торт специально для нас",
+      "audio": false
+    },
+    "en": {
+      "text": "She cooked this cake specially for us",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Я абсолютно уверен",
+      "audio": false
+    },
+    "en": {
+      "text": "I am absolutely certain",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "На самом деле, ты прав",
+      "audio": false
+    },
+    "en": {
+      "text": "Actually, you are right",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Она постоянно нервная",
+      "audio": false
+    },
+    "en": {
+      "text": "She is constantly nervous",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Он едва работает, и никому это не нравится",
+      "audio": false
+    },
+    "en": {
+      "text": "He hardly works and no one likes it",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Конечно, у нас еще есть время",
+      "audio": false
+    },
+    "en": {
+      "text": "Certainly, we still have time",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он слушает эту музыку довольно часто",
+      "audio": false
+    },
+    "en": {
+      "text": "He listens to this music quite frequently",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я едва мог его понять",
+      "audio": false
+    },
+    "en": {
+      "text": "I could hardly understand him",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Эти вещи одинаково важны",
+      "audio": false
+    },
+    "en": {
+      "text": "These things are equally important",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я вижу его только изредка",
+      "audio": false
+    },
+    "en": {
+      "text": "I see him only occasionally",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Она прекрасно говорит по-английски",
+      "audio": false
+    },
+    "en": {
+      "text": "She speaks English perfectly",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я успешно сдал тест",
+      "audio": false
+    },
+    "en": {
+      "text": "I successfully passed this test",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Она так усердно работает, и все восхищаются ею",
+      "audio": false
+    },
+    "en": {
+      "text": "She works so hard and everyone admires her",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Он успешно прошел сдал тест",
+      "audio": false
+    },
+    "en": {
+      "text": "He passed this test successfully",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я его прекрасно понимаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I perfectly understand him",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Это не обязательно означает, что он действительно прав",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't necessarily mean that he is really right",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я недавно был в Соединенных Штатах",
+      "audio": false
+    },
+    "en": {
+      "text": "I have been to the United States recently",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Он был серьезно ранен в автомобильной аварии",
+      "audio": false
+    },
+    "en": {
+      "text": "He was seriously injured in a car accident",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Это один из наиболее часто задаваемых вопросов",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the most frequently asked questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Это не обязательно означает, что будет так",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't necessarily mean that it will be so",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Это относительно недорогие часы",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a relatively inexpensive watch",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я сделал это главным образом по этой причине",
+      "audio": false
+    },
+    "en": {
+      "text": "I did it especially for this reason",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я сделал это только по той причине",
+      "audio": false
+    },
+    "en": {
+      "text": "I did it only for that reason",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Он сделал это главным образом по той причине",
+      "audio": false
+    },
+    "en": {
+      "text": "He did it especially for that reason",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Надеюсь, он скоро поправится",
+      "audio": false
+    },
+    "en": {
+      "text": "Hopefully, he'll recover soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я надеюсь, он скоро поправится",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope he'll recover soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Надеюсь, он скоро вернется",
+      "audio": false
+    },
+    "en": {
+      "text": "Hopefully, he'll return soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Он в основном интересуется наукой",
+      "audio": false
+    },
+    "en": {
+      "text": "He is mainly interested in science",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Она действительно интересуется наукой",
+      "audio": false
+    },
+    "en": {
+      "text": "She is really interested in science",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Он в основном интересуется искусством",
+      "audio": false
+    },
+    "en": {
+      "text": "He is mainly interested in art",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я думаю, это было сделано намеренно",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it was done deliberately",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я думаю, это было сделано очень быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it was done very quickly",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я думаю, что это было сделано вовремя",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it was done on time",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Определенно, ты прав",
+      "audio": false
+    },
+    "en": {
+      "text": "Definitely, you are right",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Определенно, ты не прав",
+      "audio": false
+    },
+    "en": {
+      "text": "Definitely, you are wrong",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Ты определенно прав",
+      "audio": false
+    },
+    "en": {
+      "text": "You are definitely right",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "У него похожая точка зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a similar point of view",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "У него такая же точка зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "He has the same point of view",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "У него другая точка зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a different point of view",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Это случилось очень странным образом",
+      "audio": false
+    },
+    "en": {
+      "text": "It happened in a very strange way",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Это случилось очень необычным образом",
+      "audio": false
+    },
+    "en": {
+      "text": "It happened in a very unusual way",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я думаю, что это произошло действительно странным образом",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it happened in a really strange way",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Надеюсь, все будет хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "Hopefully, everything will be alright",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Надеюсь, они скоро поправятся",
+      "audio": false
+    },
+    "en": {
+      "text": "Hopefully, they will recover soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Надеюсь, у тебя все будет хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "Hopefully, you will be alright",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я сделал это, в основном, по этой причине",
+      "audio": false
+    },
+    "en": {
+      "text": "I did it mostly for this reason",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я сделал это главным образом по этой причине",
+      "audio": false
+    },
+    "en": {
+      "text": "I did it specially for this reason",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я сделал это по другой причине",
+      "audio": false
+    },
+    "en": {
+      "text": "I did it for another reason",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Они думают так же",
+      "audio": false
+    },
+    "en": {
+      "text": "They think similarly",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Они думают по-другому",
+      "audio": false
+    },
+    "en": {
+      "text": "They think differently",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "У них похожая точка зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "They have a similar point of view",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Это определенно лучшее место для туристов",
+      "audio": false
+    },
+    "en": {
+      "text": "It is definitely the best place for tourists",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Она в основном интересуется модой",
+      "audio": false
+    },
+    "en": {
+      "text": "She is mainly interested in fashion",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Честно говоря, я не знаю, что тебе ответить",
+      "audio": false
+    },
+    "en": {
+      "text": "Honestly, I don't know how to answer you",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Он объясняет все очень простым способом",
+      "audio": false
+    },
+    "en": {
+      "text": "He explains everything in a very simple way",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Надеюсь, тебе удастся решить эту проблему",
+      "audio": false
+    },
+    "en": {
+      "text": "Hopefully, you'll manage to solve this problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Тебе нужно постоянно знать об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to be constantly aware of it",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Он вел себя очень странным образом",
+      "audio": false
+    },
+    "en": {
+      "text": "He behaved in a very strange way",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Мне кажется, что это делается намеренно",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me that it is done deliberately",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Честно говоря, я не знаю, что сказать",
+      "audio": false
+    },
+    "en": {
+      "text": "Honestly, I don't know what to say",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Это недавно стало очень популярным трендом",
+      "audio": false
+    },
+    "en": {
+      "text": "It has become a very popular trend recently",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Это относительно дешевая вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a relatively cheap thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Это произошло в основном из-за него",
+      "audio": false
+    },
+    "en": {
+      "text": "It happened mainly because of him",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Надеюсь, этого больше не произойдет",
+      "audio": false
+    },
+    "en": {
+      "text": "Hopefully, it won't happen anymore",
+      "audio": false
+    }
   }
 ]

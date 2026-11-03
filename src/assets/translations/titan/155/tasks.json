@@ -1,482 +1,1058 @@
 [
   {
-    "_id": 1,
-    "ru": "Какое твое отношение к этому?",
-    "en": "What's your attitude to it?"
-  },
-  {
-    "_id": 2,
-    "ru": "Я подожду тебя здесь",
-    "en": "I will wait for you here"
-  },
-  {
-    "_id": 3,
-    "ru": "Я так рад за тебя",
-    "en": "I'm so glad for you"
-  },
-  {
-    "_id": 4,
-    "ru": "Ей не хватает опыта работы",
-    "en": "She lacks work experience"
-  },
-  {
-    "_id": 5,
-    "ru": "Какой человек повлиял на тебя больше всего?",
-    "en": "What person influenced you most of all?"
-  },
-  {
-    "_id": 6,
-    "ru": "У него очень негативное отношение к курению",
-    "en": "He has a very negative attitude to smoking"
-  },
-  {
-    "_id": 7,
-    "ru": "У него нехватка опыта",
-    "en": "He has a lack of experience"
-  },
-  {
-    "_id": 8,
-    "ru": "У них нехватка профессионализма",
-    "en": "They have a lack of professionalism"
-  },
-  {
-    "_id": 9,
-    "ru": "Она извинилась за опоздание",
-    "en": "She apologised for being late"
-  },
-  {
-    "_id": 10,
-    "ru": "Она страдает от этой боли",
-    "en": "She suffers from this pain"
-  },
-  {
-    "_id": 11,
-    "ru": "Я сделал это по нескольким причинам",
-    "en": "I did it for several reasons"
-  },
-  {
-    "_id": 12,
-    "ru": "Мои родители не одобряют решение моего брата",
-    "en": "My parents don't approve of my brother's decision"
-  },
-  {
-    "_id": 13,
-    "ru": "Как ты вошел в здание?",
-    "en": "How did you enter the building?"
-  },
-  {
-    "_id": 14,
-    "ru": "Ему не хватает уверенности",
-    "en": "He lacks confidence"
-  },
-  {
-    "_id": 15,
-    "ru": "Я разделил свою презентацию на три части",
-    "en": "I divided my presentation into three parts"
-  },
-  {
-    "_id": 16,
-    "ru": "Какое твое отношение к этому?",
-    "en": "What's your attitude to it?"
-  },
-  {
-    "_id": 17,
-    "ru": "В чем разница между этими двумя вещами?",
-    "en": "What's the difference between these two things?"
-  },
-  {
-    "_id": 18,
-    "ru": "У него нехватка уверенности",
-    "en": "He has a lack of confidence"
-  },
-  {
-    "_id": 19,
-    "ru": "Чем она обеспокоена?",
-    "en": "What is she worried about?"
-  },
-  {
-    "_id": 20,
-    "ru": "В супе не хватает соли",
-    "en": "The soup lacks salt"
-  },
-  {
-    "_id": 21,
-    "ru": "Мы едем домой",
-    "en": "We're going home"
-  },
-  {
-    "_id": 22,
-    "ru": "Ты подождешь меня?",
-    "en": "Will you wait for me?"
-  },
-  {
-    "_id": 23,
-    "ru": "Чем он увлекается?",
-    "en": "What is he keen on?"
-  },
-  {
-    "_id": 24,
-    "ru": "Это лучшее решение этих проблем",
-    "en": "It's the best solution to these problems"
-  },
-  {
-    "_id": 25,
-    "ru": "Ты злишься на него?",
-    "en": "Are you angry with him?"
-  },
-  {
-    "_id": 26,
-    "ru": "Им не хватает профессионализма",
-    "en": "They lack professionalism"
-  },
-  {
-    "_id": 27,
-    "ru": "Он извинился за опоздание",
-    "en": "He apologised for coming late"
-  },
-  {
-    "_id": 28,
-    "ru": "Как ты относишься к курению?",
-    "en": "What's your attitude to smoking?"
-  },
-  {
-    "_id": 29,
-    "ru": "Он отказался сделать это без причины",
-    "en": "He refused to do it for no reason"
-  },
-  {
-    "_id": 30,
-    "ru": "Какой ответ на этот вопрос?",
-    "en": "What's the answer to this question?"
-  },
-  {
-    "_id": 31,
-    "ru": "Это зависит от погоды",
-    "en": "It depends on the weather"
-  },
-  {
-    "_id": 32,
-    "ru": "Она страдает от бессонницы",
-    "en": "She suffers from insomnia"
-  },
-  {
-    "_id": 33,
-    "ru": "Она думает о вступлении в фитнес-клуб",
-    "en": "She is thinking about joining a fitness club"
-  },
-  {
-    "_id": 34,
-    "ru": "В чем причина этого?",
-    "en": "What's the reason for it?"
-  },
-  {
-    "_id": 35,
-    "ru": "Это лучший ответ на тот вопрос",
-    "en": "It's the best answer to that question"
-  },
-  {
-    "_id": 36,
-    "ru": "Успех этого проекта зависит от нас",
-    "en": "The success of this project depends on us"
-  },
-  {
-    "_id": 37,
-    "ru": "Он ссылается на это письмо",
-    "en": "He refers to this letter"
-  },
-  {
-    "_id": 38,
-    "ru": "Какая была цель твоего визита?",
-    "en": "What was the purpose of your visit?"
-  },
-  {
-    "_id": 39,
-    "ru": "Он хочет представить ее своей семье",
-    "en": "He wants to introduce her to his family"
-  },
-  {
-    "_id": 40,
-    "ru": "Ты злишься из-за этой ситуации?",
-    "en": "Are you angry about this situation?"
-  },
-  {
-    "_id": 41,
-    "ru": "Какая цель его визита?",
-    "en": "What's the purpose of his visit?"
-  },
-  {
-    "_id": 42,
-    "ru": "Какие ответы на эти вопросы?",
-    "en": "What are the answers to these questions?"
-  },
-  {
-    "_id": 43,
-    "ru": "Какая была причина его отказа?",
-    "en": "What was the reason for his refusal?"
-  },
-  {
-    "_id": 44,
-    "ru": "Из скольких глав состоит эта книга?",
-    "en": "How many chapters does this book consist of?"
-  },
-  {
-    "_id": 45,
-    "ru": "Спрос на этот продукт очень высок",
-    "en": "The demand for this product is very high"
-  },
-  {
-    "_id": 46,
-    "ru": "Какое преимущество этого метода?",
-    "en": "What's the advantage of this method?"
-  },
-  {
-    "_id": 47,
-    "ru": "Я думаю, это лучший способ изучения английского",
-    "en": "I think it's the best way of learning English"
-  },
-  {
-    "_id": 48,
-    "ru": "Из скольких слайдов состоит презентация?",
-    "en": "How many slides does the presentation consist of?"
-  },
-  {
-    "_id": 49,
-    "ru": "Какая была ее реакция на эти новости?",
-    "en": "What was her reaction to this news?"
-  },
-  {
-    "_id": 50,
-    "ru": "Никто еще не ответил на эту жалобу",
-    "en": "Nobody has responded to this complaint yet"
-  },
-  {
-    "_id": 51,
-    "ru": "Он подал заявку на работу, но он не получил ее",
-    "en": "He applied for the job but he didn't get it"
-  },
-  {
-    "_id": 52,
-    "ru": "Какая была твоя реакция на это?",
-    "en": "What was your reaction to it?"
-  },
-  {
-    "_id": 53,
-    "ru": "Это хорошая альтернатива этому методу",
-    "en": "It's a good alternative to this method"
-  },
-  {
-    "_id": 54,
-    "ru": "У них недостаток смелости, чтобы сделать это",
-    "en": "They have a lack of courage to do it"
-  },
-  {
-    "_id": 55,
-    "ru": "Ей не хватает смелости сделать это",
-    "en": "She lacks courage to do it"
-  },
-  {
-    "_id": 56,
-    "ru": "Им не хватает профессионализма, чтобы сделать это",
-    "en": "They have a lack of professionalism to do it"
-  },
-  {
-    "_id": 57,
-    "ru": "Я не вижу никаких преимуществ в этом",
-    "en": "I don't see any advantages of doing it"
-  },
-  {
-    "_id": 58,
-    "ru": "Я не вижу никаких преимуществ этого метода",
-    "en": "I don't see any advantages of this method"
-  },
-  {
-    "_id": 59,
-    "ru": "Я вижу так много недостатков того курса",
-    "en": "I see so many disadvantages of that course"
-  },
-  {
-    "_id": 60,
-    "ru": "Я думаю, это лучшее решение такой проблемы",
-    "en": "I think it's the best solution to such a problem"
-  },
-  {
-    "_id": 61,
-    "ru": "Это правильный ответ на этот вопрос",
-    "en": "It's the right answer to this question"
-  },
-  {
-    "_id": 62,
-    "ru": "Какой правильный ответ на этот вопрос?",
-    "en": "What is the right answer to this question?"
-  },
-  {
-    "_id": 63,
-    "ru": "Это самый плохой ответ на тот вопрос",
-    "en": "It's the worst answer to that question"
-  },
-  {
-    "_id": 64,
-    "ru": "Какая была причина его смерти?",
-    "en": "What was the cause of his death?"
-  },
-  {
-    "_id": 65,
-    "ru": "Какая причина ее отказа?",
-    "en": "What is the cause of her refusal?"
-  },
-  {
-    "_id": 66,
-    "ru": "Это было причиной этой катастрофы",
-    "en": "It was the cause of this disaster"
-  },
-  {
-    "_id": 67,
-    "ru": "Она все еще восстанавливается после операции",
-    "en": "She is still recovering from her operation"
-  },
-  {
-    "_id": 68,
-    "ru": "Она уже восстановилась после операции",
-    "en": "She has already recovered from the operation"
-  },
-  {
-    "_id": 69,
-    "ru": "Она все еще восстанавливается после этой аварии",
-    "en": "She is still recovering from this accident"
-  },
-  {
-    "_id": 70,
-    "ru": "Ответ на этот вопрос правильный?",
-    "en": "Is the answer to this question right?"
-  },
-  {
-    "_id": 71,
-    "ru": "Это правильный ответ на этот вопрос",
-    "en": "It is the right answer to this question"
-  },
-  {
-    "_id": 72,
-    "ru": "Ответ на этот вопрос довольно хороший",
-    "en": "The answer to this question is quite good"
-  },
-  {
-    "_id": 73,
-    "ru": "Он часто ссылается на эти цитаты",
-    "en": "He often refers to these quotes"
-  },
-  {
-    "_id": 74,
-    "ru": "Он всегда ссылается на эти источники",
-    "en": "He always refers to these sources"
-  },
-  {
-    "_id": 75,
-    "ru": "Она ссылалась на эту цитату?",
-    "en": "Did she refer to this quote?"
-  },
-  {
-    "_id": 76,
-    "ru": "Я вижу некоторые преимущества работы здесь",
-    "en": "I see some advantages of working here"
-  },
-  {
-    "_id": 77,
-    "ru": "Я не вижу никаких недостатков работы здесь",
-    "en": "I don't see any disadvantages of working here"
-  },
-  {
-    "_id": 78,
-    "ru": "Есть какие-либо преимущества того метода?",
-    "en": "Are there any advantages of that method?"
-  },
-  {
-    "_id": 79,
-    "ru": "Ответ на этот вопрос не правильный",
-    "en": "The answer to this question isn't right"
-  },
-  {
-    "_id": 80,
-    "ru": "Он не ответил на этот вопрос",
-    "en": "He didn't answer this question"
-  },
-  {
-    "_id": 81,
-    "ru": "Я уже ответил на этот вопрос",
-    "en": "I have already answered this question"
-  },
-  {
-    "_id": 82,
-    "ru": "Он не видит никаких преимуществ жизни за границей",
-    "en": "He doesn't see any advantages of living abroad"
-  },
-  {
-    "_id": 83,
-    "ru": "Он извинился передо мной на следующий день",
-    "en": "He apologised to me the next day"
-  },
-  {
-    "_id": 84,
-    "ru": "Какая была ее реакция на твои слова?",
-    "en": "What was her reaction to your words?"
-  },
-  {
-    "_id": 85,
-    "ru": "Я еще не нашел ответ на этот вопрос",
-    "en": "I haven't found an answer to this question yet"
-  },
-  {
-    "_id": 86,
-    "ru": "Это было причиной пожара",
-    "en": "It was the cause of the fire"
-  },
-  {
-    "_id": 87,
-    "ru": "Он еще не восстановился от этой болезни",
-    "en": "He hasn't recovered from this illness yet"
-  },
-  {
-    "_id": 88,
-    "ru": "Спрос на этот продукт стал ниже",
-    "en": "The demand for this product got lower"
-  },
-  {
-    "_id": 89,
-    "ru": "Ответ на этот вопрос неверный",
-    "en": "The answer to this question is incorrect"
-  },
-  {
-    "_id": 90,
-    "ru": "Это очень эффективный способ изучения английского языка",
-    "en": "It's a very effective way of learning English"
-  },
-  {
-    "_id": 91,
-    "ru": "Это неправильный ответ на этот вопрос",
-    "en": "It is an incorrect answer to this question"
-  },
-  {
-    "_id": 92,
-    "ru": "На что он ссылается?",
-    "en": "What does he refer to?"
-  },
-  {
-    "_id": 93,
-    "ru": "Почему ты настаиваешь на том, чтобы сделать это?",
-    "en": "Why do you insist on doing it?"
-  },
-  {
-    "_id": 94,
-    "ru": "Им не хватает смелости, чтобы сделать это",
-    "en": "They lack courage to do it"
-  },
-  {
-    "_id": 95,
-    "ru": "С этим трудно согласиться",
-    "en": "It's difficult to agree with it"
-  },
-  {
-    "_id": 96,
-    "ru": "Он настоял на том, чтобы сделать это",
-    "en": "He insisted on doing it"
+    "id": 1,
+    "ru": {
+      "text": "Какое твое отношение к этому?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's your attitude to it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я подожду тебя здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "I will wait for you here",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я так рад за тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm so glad for you",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Ей не хватает опыта работы",
+      "audio": false
+    },
+    "en": {
+      "text": "She lacks work experience",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Какой человек повлиял на тебя больше всего?",
+      "audio": false
+    },
+    "en": {
+      "text": "What person influenced you most of all?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "У него очень негативное отношение к курению",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a very negative attitude to smoking",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "У него нехватка опыта",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a lack of experience",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "У них нехватка профессионализма",
+      "audio": false
+    },
+    "en": {
+      "text": "They have a lack of professionalism",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Она извинилась за опоздание",
+      "audio": false
+    },
+    "en": {
+      "text": "She apologised for being late",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Она страдает от этой боли",
+      "audio": false
+    },
+    "en": {
+      "text": "She suffers from this pain",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я сделал это по нескольким причинам",
+      "audio": false
+    },
+    "en": {
+      "text": "I did it for several reasons",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Мои родители не одобряют решение моего брата",
+      "audio": false
+    },
+    "en": {
+      "text": "My parents don't approve of my brother's decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Как ты вошел в здание?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you enter the building?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Ему не хватает уверенности",
+      "audio": false
+    },
+    "en": {
+      "text": "He lacks confidence",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я разделил свою презентацию на три части",
+      "audio": false
+    },
+    "en": {
+      "text": "I divided my presentation into three parts",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Какое твое отношение к этому?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's your attitude to it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "В чем разница между этими двумя вещами?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's the difference between these two things?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "У него нехватка уверенности",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a lack of confidence",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Чем она обеспокоена?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is she worried about?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "В супе не хватает соли",
+      "audio": false
+    },
+    "en": {
+      "text": "The soup lacks salt",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Мы едем домой",
+      "audio": false
+    },
+    "en": {
+      "text": "We're going home",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Ты подождешь меня?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you wait for me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Чем он увлекается?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is he keen on?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Это лучшее решение этих проблем",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the best solution to these problems",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Ты злишься на него?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you angry with him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Им не хватает профессионализма",
+      "audio": false
+    },
+    "en": {
+      "text": "They lack professionalism",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Он извинился за опоздание",
+      "audio": false
+    },
+    "en": {
+      "text": "He apologised for coming late",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Как ты относишься к курению?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's your attitude to smoking?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Он отказался сделать это без причины",
+      "audio": false
+    },
+    "en": {
+      "text": "He refused to do it for no reason",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Какой ответ на этот вопрос?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's the answer to this question?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Это зависит от погоды",
+      "audio": false
+    },
+    "en": {
+      "text": "It depends on the weather",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Она страдает от бессонницы",
+      "audio": false
+    },
+    "en": {
+      "text": "She suffers from insomnia",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Она думает о вступлении в фитнес-клуб",
+      "audio": false
+    },
+    "en": {
+      "text": "She is thinking about joining a fitness club",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "В чем причина этого?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's the reason for it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Это лучший ответ на тот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the best answer to that question",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Успех этого проекта зависит от нас",
+      "audio": false
+    },
+    "en": {
+      "text": "The success of this project depends on us",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Он ссылается на это письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "He refers to this letter",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Какая была цель твоего визита?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was the purpose of your visit?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Он хочет представить ее своей семье",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to introduce her to his family",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Ты злишься из-за этой ситуации?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you angry about this situation?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Какая цель его визита?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's the purpose of his visit?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Какие ответы на эти вопросы?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are the answers to these questions?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Какая была причина его отказа?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was the reason for his refusal?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Из скольких глав состоит эта книга?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many chapters does this book consist of?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Спрос на этот продукт очень высок",
+      "audio": false
+    },
+    "en": {
+      "text": "The demand for this product is very high",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Какое преимущество этого метода?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's the advantage of this method?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я думаю, это лучший способ изучения английского",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it's the best way of learning English",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Из скольких слайдов состоит презентация?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many slides does the presentation consist of?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Какая была ее реакция на эти новости?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was her reaction to this news?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Никто еще не ответил на эту жалобу",
+      "audio": false
+    },
+    "en": {
+      "text": "Nobody has responded to this complaint yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Он подал заявку на работу, но он не получил ее",
+      "audio": false
+    },
+    "en": {
+      "text": "He applied for the job but he didn't get it",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Какая была твоя реакция на это?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was your reaction to it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Это хорошая альтернатива этому методу",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a good alternative to this method",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "У них недостаток смелости, чтобы сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "They have a lack of courage to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Ей не хватает смелости сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "She lacks courage to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Им не хватает профессионализма, чтобы сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "They have a lack of professionalism to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я не вижу никаких преимуществ в этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't see any advantages of doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я не вижу никаких преимуществ этого метода",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't see any advantages of this method",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я вижу так много недостатков того курса",
+      "audio": false
+    },
+    "en": {
+      "text": "I see so many disadvantages of that course",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я думаю, это лучшее решение такой проблемы",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it's the best solution to such a problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Это правильный ответ на этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the right answer to this question",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Какой правильный ответ на этот вопрос?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is the right answer to this question?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Это самый плохой ответ на тот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the worst answer to that question",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Какая была причина его смерти?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was the cause of his death?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Какая причина ее отказа?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is the cause of her refusal?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Это было причиной этой катастрофы",
+      "audio": false
+    },
+    "en": {
+      "text": "It was the cause of this disaster",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Она все еще восстанавливается после операции",
+      "audio": false
+    },
+    "en": {
+      "text": "She is still recovering from her operation",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Она уже восстановилась после операции",
+      "audio": false
+    },
+    "en": {
+      "text": "She has already recovered from the operation",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Она все еще восстанавливается после этой аварии",
+      "audio": false
+    },
+    "en": {
+      "text": "She is still recovering from this accident",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Ответ на этот вопрос правильный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the answer to this question right?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Это правильный ответ на этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the right answer to this question",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Ответ на этот вопрос довольно хороший",
+      "audio": false
+    },
+    "en": {
+      "text": "The answer to this question is quite good",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Он часто ссылается на эти цитаты",
+      "audio": false
+    },
+    "en": {
+      "text": "He often refers to these quotes",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Он всегда ссылается на эти источники",
+      "audio": false
+    },
+    "en": {
+      "text": "He always refers to these sources",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Она ссылалась на эту цитату?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did she refer to this quote?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я вижу некоторые преимущества работы здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "I see some advantages of working here",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я не вижу никаких недостатков работы здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't see any disadvantages of working here",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Есть какие-либо преимущества того метода?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are there any advantages of that method?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Ответ на этот вопрос не правильный",
+      "audio": false
+    },
+    "en": {
+      "text": "The answer to this question isn't right",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Он не ответил на этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't answer this question",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я уже ответил на этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I have already answered this question",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Он не видит никаких преимуществ жизни за границей",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't see any advantages of living abroad",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Он извинился передо мной на следующий день",
+      "audio": false
+    },
+    "en": {
+      "text": "He apologised to me the next day",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Какая была ее реакция на твои слова?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was her reaction to your words?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я еще не нашел ответ на этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't found an answer to this question yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Это было причиной пожара",
+      "audio": false
+    },
+    "en": {
+      "text": "It was the cause of the fire",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Он еще не восстановился от этой болезни",
+      "audio": false
+    },
+    "en": {
+      "text": "He hasn't recovered from this illness yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Спрос на этот продукт стал ниже",
+      "audio": false
+    },
+    "en": {
+      "text": "The demand for this product got lower",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Ответ на этот вопрос неверный",
+      "audio": false
+    },
+    "en": {
+      "text": "The answer to this question is incorrect",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Это очень эффективный способ изучения английского языка",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very effective way of learning English",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Это неправильный ответ на этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "It is an incorrect answer to this question",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "На что он ссылается?",
+      "audio": false
+    },
+    "en": {
+      "text": "What does he refer to?",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Почему ты настаиваешь на том, чтобы сделать это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why do you insist on doing it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Им не хватает смелости, чтобы сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "They lack courage to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "С этим трудно согласиться",
+      "audio": false
+    },
+    "en": {
+      "text": "It's difficult to agree with it",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Он настоял на том, чтобы сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "He insisted on doing it",
+      "audio": false
+    }
   }
 ]

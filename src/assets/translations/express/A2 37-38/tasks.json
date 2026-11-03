@@ -1,112 +1,244 @@
 [
   {
-    "_id": 1,
-    "ru": "Они прервали его, но он продолжил говорить",
-    "en": "They interrupted him but he continued talking"
+    "id": 1,
+    "ru": {
+      "text": "Они прервали его, но он продолжил говорить",
+      "audio": false
+    },
+    "en": {
+      "text": "They interrupted him but he continued talking",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Он держал свои деньги в том банке",
-    "en": "He kept his money in that bank"
+    "id": 2,
+    "ru": {
+      "text": "Он держал свои деньги в том банке",
+      "audio": false
+    },
+    "en": {
+      "text": "He kept his money in that bank",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Это запрещено",
-    "en": "It's forbidden"
+    "id": 3,
+    "ru": {
+      "text": "Это запрещено",
+      "audio": false
+    },
+    "en": {
+      "text": "It's forbidden",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Когда они были в отпуске, они арендовали машину",
-    "en": "When they were on holiday, they rented a car"
+    "id": 4,
+    "ru": {
+      "text": "Когда они были в отпуске, они арендовали машину",
+      "audio": false
+    },
+    "en": {
+      "text": "When they were on holiday, they rented a car",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Эти новости действительно шокировали всех нас",
-    "en": "This news really shocked all of us"
+    "id": 5,
+    "ru": {
+      "text": "Эти новости действительно шокировали всех нас",
+      "audio": false
+    },
+    "en": {
+      "text": "This news really shocked all of us",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Она помогала ему довольно регулярно",
-    "en": "She helped him quite regularly"
+    "id": 6,
+    "ru": {
+      "text": "Она помогала ему довольно регулярно",
+      "audio": false
+    },
+    "en": {
+      "text": "She helped him quite regularly",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Он помогает ей на регулярной основе",
-    "en": "He helps her on a regular basis"
+    "id": 7,
+    "ru": {
+      "text": "Он помогает ей на регулярной основе",
+      "audio": false
+    },
+    "en": {
+      "text": "He helps her on a regular basis",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Они вырыли очень глубокую яму в земле",
-    "en": "They dug a very deep hole in the ground"
+    "id": 8,
+    "ru": {
+      "text": "Они вырыли очень глубокую яму в земле",
+      "audio": false
+    },
+    "en": {
+      "text": "They dug a very deep hole in the ground",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я присоединюсь к вам с огромным удовольствием",
-    "en": "I'll join you with great pleasure"
+    "id": 9,
+    "ru": {
+      "text": "Я присоединюсь к вам с огромным удовольствием",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll join you with great pleasure",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я еще не набрал весь текст",
-    "en": "I haven't typed all the text yet"
+    "id": 10,
+    "ru": {
+      "text": "Я еще не набрал весь текст",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't typed all the text yet",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Вчера весь день шел дождь",
-    "en": "It was raining all day yesterday"
+    "id": 11,
+    "ru": {
+      "text": "Вчера весь день шел дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "It was raining all day yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Когда она пела, они танцевали",
-    "en": "When she was singing, they were dancing"
+    "id": 12,
+    "ru": {
+      "text": "Когда она пела, они танцевали",
+      "audio": false
+    },
+    "en": {
+      "text": "When she was singing, they were dancing",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Он предпочитает не курить",
-    "en": "He prefers not to smoke"
+    "id": 13,
+    "ru": {
+      "text": "Он предпочитает не курить",
+      "audio": false
+    },
+    "en": {
+      "text": "He prefers not to smoke",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Преступник скрылся от полиции, но потом они поймали его",
-    "en": "The criminal hid from the police but then they caught him"
+    "id": 14,
+    "ru": {
+      "text": "Преступник скрылся от полиции, но потом они поймали его",
+      "audio": false
+    },
+    "en": {
+      "text": "The criminal hid from the police but then they caught him",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я только что понял, как это работает",
-    "en": "I've just understood how it works"
+    "id": 15,
+    "ru": {
+      "text": "Я только что понял, как это работает",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just understood how it works",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Он сбрил бороду",
-    "en": "He shaved his beard"
+    "id": 16,
+    "ru": {
+      "text": "Он сбрил бороду",
+      "audio": false
+    },
+    "en": {
+      "text": "He shaved his beard",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Он говорит, что это было запрещено",
-    "en": "He says that it was forbidden"
+    "id": 17,
+    "ru": {
+      "text": "Он говорит, что это было запрещено",
+      "audio": false
+    },
+    "en": {
+      "text": "He says that it was forbidden",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Разрешите представиться!",
-    "en": "Let me introduce myself!"
+    "id": 18,
+    "ru": {
+      "text": "Разрешите представиться!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let me introduce myself!",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Я только что положил эту сумку на пол",
-    "en": "I've just put this bag on the floor"
+    "id": 19,
+    "ru": {
+      "text": "Я только что положил эту сумку на пол",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just put this bag on the floor",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Нам нужно поторопиться, иначе мы можем пропустить поезд",
-    "en": "We need to hurry up or we can miss the train"
+    "id": 20,
+    "ru": {
+      "text": "Нам нужно поторопиться, иначе мы можем пропустить поезд",
+      "audio": false
+    },
+    "en": {
+      "text": "We need to hurry up or we can miss the train",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Он сказал, что это испортило его планы",
-    "en": "He said that it had spoilt his plans"
+    "id": 21,
+    "ru": {
+      "text": "Он сказал, что это испортило его планы",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that it had spoilt his plans",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Он позвонил мне, когда я что-то печатал",
-    "en": "He called me when I was typing something"
+    "id": 22,
+    "ru": {
+      "text": "Он позвонил мне, когда я что-то печатал",
+      "audio": false
+    },
+    "en": {
+      "text": "He called me when I was typing something",
+      "audio": false
+    }
   }
 ]

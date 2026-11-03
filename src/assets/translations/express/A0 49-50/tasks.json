@@ -1,267 +1,585 @@
 [
   {
-    "_id": 1,
-    "ru": "Он был на концерте?",
-    "en": "Was he at the concert?"
+    "id": 1,
+    "ru": {
+      "text": "Он был на концерте?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was he at the concert?",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Это было интересно или нет?",
-    "en": "Was it interesting or not?"
+    "id": 2,
+    "ru": {
+      "text": "Это было интересно или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it interesting or not?",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Это было проблемой для тебя?",
-    "en": "Was it a problem for you?"
+    "id": 3,
+    "ru": {
+      "text": "Это было проблемой для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it a problem for you?",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Это было действительно так сложно?",
-    "en": "Was it really so difficult?"
+    "id": 4,
+    "ru": {
+      "text": "Это было действительно так сложно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it really so difficult?",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Что было на полу?",
-    "en": "What was on the floor?"
+    "id": 5,
+    "ru": {
+      "text": "Что было на полу?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was on the floor?",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Это было важно или нет?",
-    "en": "Was it important or not?"
+    "id": 6,
+    "ru": {
+      "text": "Это было важно или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it important or not?",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Он был онлайн?",
-    "en": "Was he online?"
+    "id": 7,
+    "ru": {
+      "text": "Он был онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was he online?",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Это было действительно важно?",
-    "en": "Was it really important?"
+    "id": 8,
+    "ru": {
+      "text": "Это было действительно важно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it really important?",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Ты был занят?",
-    "en": "Were you busy?"
+    "id": 9,
+    "ru": {
+      "text": "Ты был занят?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you busy?",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Что было в коробке?",
-    "en": "What was in the box?"
+    "id": 10,
+    "ru": {
+      "text": "Что было в коробке?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was in the box?",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Где ты был?",
-    "en": "Where were you?"
+    "id": 11,
+    "ru": {
+      "text": "Где ты был?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where were you?",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Вы были вместе?",
-    "en": "Were you together?"
+    "id": 12,
+    "ru": {
+      "text": "Вы были вместе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you together?",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Почему это было так эффективно?",
-    "en": "Why was it so effective?"
+    "id": 13,
+    "ru": {
+      "text": "Почему это было так эффективно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was it so effective?",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Где ты был утром?",
-    "en": "Where were you in the morning?"
+    "id": 14,
+    "ru": {
+      "text": "Где ты был утром?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where were you in the morning?",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Это было действительно так скучно?",
-    "en": "Was it really so boring?"
+    "id": 15,
+    "ru": {
+      "text": "Это было действительно так скучно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it really so boring?",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Он был действительно зол?",
-    "en": "Was he really angry?"
+    "id": 16,
+    "ru": {
+      "text": "Он был действительно зол?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was he really angry?",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Ты был действительно уверен?",
-    "en": "Were you really sure?"
+    "id": 17,
+    "ru": {
+      "text": "Ты был действительно уверен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you really sure?",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Почему это было так дорого?",
-    "en": "Why was it so expensive?"
+    "id": 18,
+    "ru": {
+      "text": "Почему это было так дорого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was it so expensive?",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Где ты купил эту вещь?",
-    "en": "Where did you buy this thing?"
+    "id": 19,
+    "ru": {
+      "text": "Где ты купил эту вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did you buy this thing?",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Это было лучше?",
-    "en": "Was it better?"
+    "id": 20,
+    "ru": {
+      "text": "Это было лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it better?",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Почему это было так медленно?",
-    "en": "Why was it so slow?"
+    "id": 21,
+    "ru": {
+      "text": "Почему это было так медленно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was it so slow?",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Он был на вечеринке?",
-    "en": "Was he at the party?"
+    "id": 22,
+    "ru": {
+      "text": "Он был на вечеринке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was he at the party?",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Что было в той коробке?",
-    "en": "What was in that box?"
+    "id": 23,
+    "ru": {
+      "text": "Что было в той коробке?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was in that box?",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Это было бесплатно?",
-    "en": "Was it free?"
+    "id": 24,
+    "ru": {
+      "text": "Это было бесплатно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it free?",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Когда ты был там последний раз?",
-    "en": "When were you there last time?"
+    "id": 25,
+    "ru": {
+      "text": "Когда ты был там последний раз?",
+      "audio": false
+    },
+    "en": {
+      "text": "When were you there last time?",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Они были на пляже?",
-    "en": "Were they at the beach?"
+    "id": 26,
+    "ru": {
+      "text": "Они были на пляже?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were they at the beach?",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Как ты скачал эту программу?",
-    "en": "How did you download this program?"
+    "id": 27,
+    "ru": {
+      "text": "Как ты скачал эту программу?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you download this program?",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Как ты скачал это?",
-    "en": "How did you download it?"
+    "id": 28,
+    "ru": {
+      "text": "Как ты скачал это?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you download it?",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Это было действительно так важно?",
-    "en": "Was it really so important?"
+    "id": 29,
+    "ru": {
+      "text": "Это было действительно так важно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it really so important?",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Что было действительно важно?",
-    "en": "What was really important?"
+    "id": 30,
+    "ru": {
+      "text": "Что было действительно важно?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was really important?",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Сколько это стоило?",
-    "en": "How much was it?"
+    "id": 31,
+    "ru": {
+      "text": "Сколько это стоило?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much was it?",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Вы были на пляже?",
-    "en": "Were you at the beach?"
+    "id": 32,
+    "ru": {
+      "text": "Вы были на пляже?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you at the beach?",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Кто там был?",
-    "en": "Who was there?"
+    "id": 33,
+    "ru": {
+      "text": "Кто там был?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was there?",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Это было действительно так эффективно?",
-    "en": "Was it really so effective?"
+    "id": 34,
+    "ru": {
+      "text": "Это было действительно так эффективно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it really so effective?",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Он был с тобой?",
-    "en": "Was he with you?"
+    "id": 35,
+    "ru": {
+      "text": "Он был с тобой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was he with you?",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Что было на письменном столе?",
-    "en": "What was on the desk?"
+    "id": 36,
+    "ru": {
+      "text": "Что было на письменном столе?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was on the desk?",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Что было такого странного?",
-    "en": "What was so strange?"
+    "id": 37,
+    "ru": {
+      "text": "Что было такого странного?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was so strange?",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Ты был на этой вечеринке?",
-    "en": "Were you at this party?"
+    "id": 38,
+    "ru": {
+      "text": "Ты был на этой вечеринке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you at this party?",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Ты был на концерте?",
-    "en": "Were you at the concert?"
+    "id": 39,
+    "ru": {
+      "text": "Ты был на концерте?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you at the concert?",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Кто был прав?",
-    "en": "Who was right?"
+    "id": 40,
+    "ru": {
+      "text": "Кто был прав?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was right?",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Она была действительно рассержена?",
-    "en": "Was she really angry?"
+    "id": 41,
+    "ru": {
+      "text": "Она была действительно рассержена?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was she really angry?",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Где ты был вечером?",
-    "en": "Where were you in the evening?"
+    "id": 42,
+    "ru": {
+      "text": "Где ты был вечером?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where were you in the evening?",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Это было проблемой?",
-    "en": "Was it a problem?"
+    "id": 43,
+    "ru": {
+      "text": "Это было проблемой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was it a problem?",
+      "audio": false
+    }
   },
   {
-    "_id": 44,
-    "ru": "Где ты был днем?",
-    "en": "Where were you in the afternoon?"
+    "id": 44,
+    "ru": {
+      "text": "Где ты был днем?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where were you in the afternoon?",
+      "audio": false
+    }
   },
   {
-    "_id": 45,
-    "ru": "Я был прав?",
-    "en": "Was I right?"
+    "id": 45,
+    "ru": {
+      "text": "Я был прав?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was I right?",
+      "audio": false
+    }
   },
   {
-    "_id": 46,
-    "ru": "Ты был в Англии в прошлом году?",
-    "en": "Were you in England last year?"
+    "id": 46,
+    "ru": {
+      "text": "Ты был в Англии в прошлом году?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you in England last year?",
+      "audio": false
+    }
   },
   {
-    "_id": 47,
-    "ru": "Что было в этой коробке?",
-    "en": "What was in this box?"
+    "id": 47,
+    "ru": {
+      "text": "Что было в этой коробке?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was in this box?",
+      "audio": false
+    }
   },
   {
-    "_id": 48,
-    "ru": "Что было на столе?",
-    "en": "What was on the table?"
+    "id": 48,
+    "ru": {
+      "text": "Что было на столе?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was on the table?",
+      "audio": false
+    }
   },
   {
-    "_id": 49,
-    "ru": "Ты был онлайн?",
-    "en": "Were you online?"
+    "id": 49,
+    "ru": {
+      "text": "Ты был онлайн?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you online?",
+      "audio": false
+    }
   },
   {
-    "_id": 50,
-    "ru": "Где он был?",
-    "en": "Where was he?"
+    "id": 50,
+    "ru": {
+      "text": "Где он был?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where was he?",
+      "audio": false
+    }
   },
   {
-    "_id": 51,
-    "ru": "Ты был занят вчера?",
-    "en": "Were you busy yesterday?"
+    "id": 51,
+    "ru": {
+      "text": "Ты был занят вчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you busy yesterday?",
+      "audio": false
+    }
   },
   {
-    "_id": 52,
-    "ru": "Он был действительно прав?",
-    "en": "Was he really right?"
+    "id": 52,
+    "ru": {
+      "text": "Он был действительно прав?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was he really right?",
+      "audio": false
+    }
   },
   {
-    "_id": 53,
-    "ru": "Почему это было так дешево?",
-    "en": "Why was it so cheap?"
+    "id": 53,
+    "ru": {
+      "text": "Почему это было так дешево?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was it so cheap?",
+      "audio": false
+    }
   }
 ]

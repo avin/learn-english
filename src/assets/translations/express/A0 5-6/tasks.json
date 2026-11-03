@@ -1,237 +1,519 @@
 [
   {
-    "_id": 1,
-    "ru": "Она путешествует каждое лето",
-    "en": "She travels every summer"
+    "id": 1,
+    "ru": {
+      "text": "Она путешествует каждое лето",
+      "audio": true
+    },
+    "en": {
+      "text": "She travels every summer",
+      "audio": true
+    }
   },
   {
-    "_id": 2,
-    "ru": "Ей нравится эта еда",
-    "en": "She likes this food"
+    "id": 2,
+    "ru": {
+      "text": "Ей нравится эта еда",
+      "audio": true
+    },
+    "en": {
+      "text": "She likes this food",
+      "audio": true
+    }
   },
   {
-    "_id": 3,
-    "ru": "Она живет в Соединенных Штатах",
-    "en": "She lives in the United States"
+    "id": 3,
+    "ru": {
+      "text": "Она живет в Соединенных Штатах",
+      "audio": true
+    },
+    "en": {
+      "text": "She lives in the United States",
+      "audio": true
+    }
   },
   {
-    "_id": 4,
-    "ru": "У нее есть брат",
-    "en": "She has a brother"
+    "id": 4,
+    "ru": {
+      "text": "У нее есть брат",
+      "audio": true
+    },
+    "en": {
+      "text": "She has a brother",
+      "audio": true
+    }
   },
   {
-    "_id": 5,
-    "ru": "Ему нужна твоя помощь",
-    "en": "He needs your help"
+    "id": 5,
+    "ru": {
+      "text": "Ему нужна твоя помощь",
+      "audio": true
+    },
+    "en": {
+      "text": "He needs your help",
+      "audio": true
+    }
   },
   {
-    "_id": 6,
-    "ru": "Он иногда говорит мне об этом",
-    "en": "He sometimes tells me about it"
+    "id": 6,
+    "ru": {
+      "text": "Он иногда говорит мне об этом",
+      "audio": true
+    },
+    "en": {
+      "text": "He sometimes tells me about it",
+      "audio": true
+    }
   },
   {
-    "_id": 7,
-    "ru": "Она работает в компании",
-    "en": "She works in a company"
+    "id": 7,
+    "ru": {
+      "text": "Она работает в компании",
+      "audio": true
+    },
+    "en": {
+      "text": "She works in a company",
+      "audio": true
+    }
   },
   {
-    "_id": 8,
-    "ru": "У него есть машина",
-    "en": "He has a car"
+    "id": 8,
+    "ru": {
+      "text": "У него есть машина",
+      "audio": true
+    },
+    "en": {
+      "text": "He has a car",
+      "audio": true
+    }
   },
   {
-    "_id": 9,
-    "ru": "У нее так много вопросов",
-    "en": "She has so many questions"
+    "id": 9,
+    "ru": {
+      "text": "У нее так много вопросов",
+      "audio": true
+    },
+    "en": {
+      "text": "She has so many questions",
+      "audio": true
+    }
   },
   {
-    "_id": 10,
-    "ru": "Это стоит так много денег",
-    "en": "It costs so much money"
+    "id": 10,
+    "ru": {
+      "text": "Это стоит так много денег",
+      "audio": true
+    },
+    "en": {
+      "text": "It costs so much money",
+      "audio": true
+    }
   },
   {
-    "_id": 11,
-    "ru": "У него есть собака",
-    "en": "He has a dog"
+    "id": 11,
+    "ru": {
+      "text": "У него есть собака",
+      "audio": true
+    },
+    "en": {
+      "text": "He has a dog",
+      "audio": true
+    }
   },
   {
-    "_id": 12,
-    "ru": "Он выглядит очень молодым",
-    "en": "He looks very young"
+    "id": 12,
+    "ru": {
+      "text": "Он выглядит очень молодым",
+      "audio": true
+    },
+    "en": {
+      "text": "He looks very young",
+      "audio": true
+    }
   },
   {
-    "_id": 13,
-    "ru": "Это помогает мне так сильно",
-    "en": "It helps me so much"
+    "id": 13,
+    "ru": {
+      "text": "Это помогает мне так сильно",
+      "audio": true
+    },
+    "en": {
+      "text": "It helps me so much",
+      "audio": true
+    }
   },
   {
-    "_id": 14,
-    "ru": "Ей нравится этот стиль",
-    "en": "She likes this style"
+    "id": 14,
+    "ru": {
+      "text": "Ей нравится этот стиль",
+      "audio": true
+    },
+    "en": {
+      "text": "She likes this style",
+      "audio": true
+    }
   },
   {
-    "_id": 15,
-    "ru": "Ему нужно больше денег",
-    "en": "He needs more money"
+    "id": 15,
+    "ru": {
+      "text": "Ему нужно больше денег",
+      "audio": true
+    },
+    "en": {
+      "text": "He needs more money",
+      "audio": true
+    }
   },
   {
-    "_id": 16,
-    "ru": "Она иногда говорит это",
-    "en": "She sometimes says it"
+    "id": 16,
+    "ru": {
+      "text": "Она иногда говорит это",
+      "audio": true
+    },
+    "en": {
+      "text": "She sometimes says it",
+      "audio": true
+    }
   },
   {
-    "_id": 17,
-    "ru": "Ей нравится эта песня",
-    "en": "She likes this song"
+    "id": 17,
+    "ru": {
+      "text": "Ей нравится эта песня",
+      "audio": true
+    },
+    "en": {
+      "text": "She likes this song",
+      "audio": true
+    }
   },
   {
-    "_id": 18,
-    "ru": "Ей нужен ваш совет",
-    "en": "She needs your advice"
+    "id": 18,
+    "ru": {
+      "text": "Ей нужен ваш совет",
+      "audio": true
+    },
+    "en": {
+      "text": "She needs your advice",
+      "audio": true
+    }
   },
   {
-    "_id": 19,
-    "ru": "Она живет в этом районе",
-    "en": "She lives in this area"
+    "id": 19,
+    "ru": {
+      "text": "Она живет в этом районе",
+      "audio": true
+    },
+    "en": {
+      "text": "She lives in this area",
+      "audio": true
+    }
   },
   {
-    "_id": 20,
-    "ru": "Он часто путешествует",
-    "en": "He often travels"
+    "id": 20,
+    "ru": {
+      "text": "Он часто путешествует",
+      "audio": true
+    },
+    "en": {
+      "text": "He often travels",
+      "audio": true
+    }
   },
   {
-    "_id": 21,
-    "ru": "Это стоит двадцать долларов",
-    "en": "It costs twenty dollars"
+    "id": 21,
+    "ru": {
+      "text": "Это стоит двадцать долларов",
+      "audio": true
+    },
+    "en": {
+      "text": "It costs twenty dollars",
+      "audio": true
+    }
   },
   {
-    "_id": 22,
-    "ru": "У него есть вопрос",
-    "en": "He has a question"
+    "id": 22,
+    "ru": {
+      "text": "У него есть вопрос",
+      "audio": true
+    },
+    "en": {
+      "text": "He has a question",
+      "audio": true
+    }
   },
   {
-    "_id": 23,
-    "ru": "Он делает это намного лучше",
-    "en": "He does it much better"
+    "id": 23,
+    "ru": {
+      "text": "Он делает это намного лучше",
+      "audio": true
+    },
+    "en": {
+      "text": "He does it much better",
+      "audio": true
+    }
   },
   {
-    "_id": 24,
-    "ru": "Это стоит двести долларов",
-    "en": "It costs two hundred dollars"
+    "id": 24,
+    "ru": {
+      "text": "Это стоит двести долларов",
+      "audio": true
+    },
+    "en": {
+      "text": "It costs two hundred dollars",
+      "audio": true
+    }
   },
   {
-    "_id": 25,
-    "ru": "Он водит машину",
-    "en": "He drives a car"
+    "id": 25,
+    "ru": {
+      "text": "Он водит машину",
+      "audio": true
+    },
+    "en": {
+      "text": "He drives a car",
+      "audio": true
+    }
   },
   {
-    "_id": 26,
-    "ru": "Это кажется странным",
-    "en": "It seems strange"
+    "id": 26,
+    "ru": {
+      "text": "Это кажется странным",
+      "audio": true
+    },
+    "en": {
+      "text": "It seems strange",
+      "audio": true
+    }
   },
   {
-    "_id": 27,
-    "ru": "Она делает это очень хорошо",
-    "en": "She does it very well"
+    "id": 27,
+    "ru": {
+      "text": "Она делает это очень хорошо",
+      "audio": true
+    },
+    "en": {
+      "text": "She does it very well",
+      "audio": true
+    }
   },
   {
-    "_id": 28,
-    "ru": "У него слишком мало свободного времени",
-    "en": "He has too little free time"
+    "id": 28,
+    "ru": {
+      "text": "У него слишком мало свободного времени",
+      "audio": true
+    },
+    "en": {
+      "text": "He has too little free time",
+      "audio": true
+    }
   },
   {
-    "_id": 29,
-    "ru": "У нее проблема",
-    "en": "She has a problem"
+    "id": 29,
+    "ru": {
+      "text": "У нее проблема",
+      "audio": true
+    },
+    "en": {
+      "text": "She has a problem",
+      "audio": true
+    }
   },
   {
-    "_id": 30,
-    "ru": "Она часто говорит мне об этом",
-    "en": "She often tells me about it"
+    "id": 30,
+    "ru": {
+      "text": "Она часто говорит мне об этом",
+      "audio": true
+    },
+    "en": {
+      "text": "She often tells me about it",
+      "audio": true
+    }
   },
   {
-    "_id": 31,
-    "ru": "Выглядит очень красиво",
-    "en": "It looks very beautiful"
+    "id": 31,
+    "ru": {
+      "text": "Выглядит очень красиво",
+      "audio": true
+    },
+    "en": {
+      "text": "It looks very beautiful",
+      "audio": true
+    }
   },
   {
-    "_id": 32,
-    "ru": "Эта сумка стоит тридцать долларов",
-    "en": "This bag costs thirty dollars"
+    "id": 32,
+    "ru": {
+      "text": "Эта сумка стоит тридцать долларов",
+      "audio": true
+    },
+    "en": {
+      "text": "This bag costs thirty dollars",
+      "audio": true
+    }
   },
   {
-    "_id": 33,
-    "ru": "Он живет в этом районе",
-    "en": "He lives in this area"
+    "id": 33,
+    "ru": {
+      "text": "Он живет в этом районе",
+      "audio": true
+    },
+    "en": {
+      "text": "He lives in this area",
+      "audio": true
+    }
   },
   {
-    "_id": 34,
-    "ru": "Этот билет стоит сорок долларов",
-    "en": "This ticket costs forty dollars"
+    "id": 34,
+    "ru": {
+      "text": "Этот билет стоит сорок долларов",
+      "audio": true
+    },
+    "en": {
+      "text": "This ticket costs forty dollars",
+      "audio": true
+    }
   },
   {
-    "_id": 35,
-    "ru": "У нее есть кошка",
-    "en": "She has a cat"
+    "id": 35,
+    "ru": {
+      "text": "У нее есть кошка",
+      "audio": true
+    },
+    "en": {
+      "text": "She has a cat",
+      "audio": true
+    }
   },
   {
-    "_id": 36,
-    "ru": "Он часто говорит это",
-    "en": "He often says it"
+    "id": 36,
+    "ru": {
+      "text": "Он часто говорит это",
+      "audio": true
+    },
+    "en": {
+      "text": "He often says it",
+      "audio": true
+    }
   },
   {
-    "_id": 37,
-    "ru": "Ему нравится этот дизайн",
-    "en": "He likes this design"
+    "id": 37,
+    "ru": {
+      "text": "Ему нравится этот дизайн",
+      "audio": true
+    },
+    "en": {
+      "text": "He likes this design",
+      "audio": true
+    }
   },
   {
-    "_id": 38,
-    "ru": "Ему нравится эта музыка",
-    "en": "He likes this music"
+    "id": 38,
+    "ru": {
+      "text": "Ему нравится эта музыка",
+      "audio": true
+    },
+    "en": {
+      "text": "He likes this music",
+      "audio": true
+    }
   },
   {
-    "_id": 39,
-    "ru": "Это кажется действительно странным",
-    "en": "It seems really strange"
+    "id": 39,
+    "ru": {
+      "text": "Это кажется действительно странным",
+      "audio": true
+    },
+    "en": {
+      "text": "It seems really strange",
+      "audio": true
+    }
   },
   {
-    "_id": 40,
-    "ru": "Он живет в Лондоне",
-    "en": "He lives in London"
+    "id": 40,
+    "ru": {
+      "text": "Он живет в Лондоне",
+      "audio": true
+    },
+    "en": {
+      "text": "He lives in London",
+      "audio": true
+    }
   },
   {
-    "_id": 41,
-    "ru": "Это действительно помогает мне",
-    "en": "It really helps me"
+    "id": 41,
+    "ru": {
+      "text": "Это действительно помогает мне",
+      "audio": true
+    },
+    "en": {
+      "text": "It really helps me",
+      "audio": true
+    }
   },
   {
-    "_id": 42,
-    "ru": "Ей нужно больше времени",
-    "en": "She needs more time"
+    "id": 42,
+    "ru": {
+      "text": "Ей нужно больше времени",
+      "audio": true
+    },
+    "en": {
+      "text": "She needs more time",
+      "audio": true
+    }
   },
   {
-    "_id": 43,
-    "ru": "У него есть сестра",
-    "en": "He has a sister"
+    "id": 43,
+    "ru": {
+      "text": "У него есть сестра",
+      "audio": true
+    },
+    "en": {
+      "text": "He has a sister",
+      "audio": true
+    }
   },
   {
-    "_id": 44,
-    "ru": "Он работает в банке",
-    "en": "He works in a bank"
+    "id": 44,
+    "ru": {
+      "text": "Он работает в банке",
+      "audio": true
+    },
+    "en": {
+      "text": "He works in a bank",
+      "audio": true
+    }
   },
   {
-    "_id": 45,
-    "ru": "Это стоит десять евро",
-    "en": "It costs ten euros"
+    "id": 45,
+    "ru": {
+      "text": "Это стоит десять евро",
+      "audio": true
+    },
+    "en": {
+      "text": "It costs ten euros",
+      "audio": true
+    }
   },
   {
-    "_id": 46,
-    "ru": "Это стоит пятьдесят фунтов",
-    "en": "It costs fifty pounds"
+    "id": 46,
+    "ru": {
+      "text": "Это стоит пятьдесят фунтов",
+      "audio": true
+    },
+    "en": {
+      "text": "It costs fifty pounds",
+      "audio": true
+    }
   },
   {
-    "_id": 47,
-    "ru": "Ему нравится эта программа",
-    "en": "He likes this program"
+    "id": 47,
+    "ru": {
+      "text": "Ему нравится эта программа",
+      "audio": true
+    },
+    "en": {
+      "text": "He likes this program",
+      "audio": true
+    }
   }
 ]

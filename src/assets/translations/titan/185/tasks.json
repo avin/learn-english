@@ -1,467 +1,1025 @@
 [
   {
-    "_id": 1,
-    "ru": "Он пришел домой позже обычного",
-    "en": "He came home later than usual"
-  },
-  {
-    "_id": 2,
-    "ru": "Иногда она чувствует себя такой одинокой",
-    "en": "She feels so lonely sometimes"
-  },
-  {
-    "_id": 3,
-    "ru": "Как часто ты пользуешься социальными сетями?",
-    "en": "How often do you use social networks?"
-  },
-  {
-    "_id": 4,
-    "ru": "Операция была очень болезненной",
-    "en": "The operation was very painful"
-  },
-  {
-    "_id": 5,
-    "ru": "Новости были действительно шокирующими",
-    "en": "The news was really shocking"
-  },
-  {
-    "_id": 6,
-    "ru": "Я хочу быть искренним с тобой",
-    "en": "I want to be sincere with you"
-  },
-  {
-    "_id": 7,
-    "ru": "Она чувствует себя очень подавленной",
-    "en": "She feels very depressed"
-  },
-  {
-    "_id": 8,
-    "ru": "Это гигантский дом",
-    "en": "This is a gigantic house"
-  },
-  {
-    "_id": 9,
-    "ru": "Я хотел бы видеть более быстрый прогресс",
-    "en": "I'd like to see faster progress"
-  },
-  {
-    "_id": 10,
-    "ru": "Она очень одинокий человек",
-    "en": "She is a very lonely person"
-  },
-  {
-    "_id": 11,
-    "ru": "У них равные права",
-    "en": "They have equal rights"
-  },
-  {
-    "_id": 12,
-    "ru": "Это хорошая идея",
-    "en": "It is a fine idea"
-  },
-  {
-    "_id": 13,
-    "ru": "Это такое большое преимущество",
-    "en": "It's such a big advantage"
-  },
-  {
-    "_id": 14,
-    "ru": "Я был в очень странной ситуации",
-    "en": "I was in a very bizarre situation"
-  },
-  {
-    "_id": 15,
-    "ru": "Это большой успех",
-    "en": "It is a big success"
-  },
-  {
-    "_id": 16,
-    "ru": "Это так мило с твоей стороны",
-    "en": "It is so kind of you"
-  },
-  {
-    "_id": 17,
-    "ru": "Это было незаконно",
-    "en": "It was illegal"
-  },
-  {
-    "_id": 18,
-    "ru": "Он пьян?",
-    "en": "Is he drunk?"
-  },
-  {
-    "_id": 19,
-    "ru": "Он был действительно шокирован этой новостью",
-    "en": "He was really shocked by this news"
-  },
-  {
-    "_id": 20,
-    "ru": "Поверхность плоская",
-    "en": "The surface is flat"
-  },
-  {
-    "_id": 21,
-    "ru": "Какая интересная мысль!",
-    "en": "What an interesting thought!"
-  },
-  {
-    "_id": 22,
-    "ru": "Она очень эмоциональный человек",
-    "en": "She is a very emotional person"
-  },
-  {
-    "_id": 23,
-    "ru": "Эта функция сейчас неактивная",
-    "en": "This function is inactive now"
-  },
-  {
-    "_id": 24,
-    "ru": "Все ясно?",
-    "en": "Is everything clear?"
-  },
-  {
-    "_id": 25,
-    "ru": "Какая странная идея!",
-    "en": "What a bizarre idea!"
-  },
-  {
-    "_id": 26,
-    "ru": "Нам также необходимо учитывать внешние факторы",
-    "en": "We also need to consider external factors"
-  },
-  {
-    "_id": 27,
-    "ru": "Он такой ленивый мальчик",
-    "en": "He is such a lazy boy"
-  },
-  {
-    "_id": 28,
-    "ru": "Погода была хорошая",
-    "en": "The weather was fine"
-  },
-  {
-    "_id": 29,
-    "ru": "Он холост сейчас?",
-    "en": "Is he single now?"
-  },
-  {
-    "_id": 30,
-    "ru": "Мне нужен одноместный номер",
-    "en": "I need a single room"
-  },
-  {
-    "_id": 31,
-    "ru": "Ты всегда очень добр к ней",
-    "en": "You are always very kind to her"
-  },
-  {
-    "_id": 32,
-    "ru": "Это было раннее утро",
-    "en": "It was an early morning"
-  },
-  {
-    "_id": 33,
-    "ru": "Я чувствую гигантский прогресс после этих упражнений",
-    "en": "I feel gigantic progress after these exercises"
-  },
-  {
-    "_id": 34,
-    "ru": "Я вижу многочисленные ошибки здесь",
-    "en": "I see numerous mistakes here"
-  },
-  {
-    "_id": 35,
-    "ru": "У мальчиков были равные возможности",
-    "en": "The boys had equal opportunities"
-  },
-  {
-    "_id": 36,
-    "ru": "Это обычная вещь для него",
-    "en": "It is a usual thing for him"
-  },
-  {
-    "_id": 37,
-    "ru": "Я хочу быстрого прогресса",
-    "en": "I want fast progress"
-  },
-  {
-    "_id": 38,
-    "ru": "Это такое грязное место",
-    "en": "It's such a dirty place"
-  },
-  {
-    "_id": 39,
-    "ru": "Здесь очень грязно",
-    "en": "It is very dirty here"
-  },
-  {
-    "_id": 40,
-    "ru": "Ей были даны очень четкие инструкции",
-    "en": "Very clear instructions were given to her"
-  },
-  {
-    "_id": 41,
-    "ru": "Этот источник информации недостаточно надежный",
-    "en": "This source of information isn't reliable enough"
-  },
-  {
-    "_id": 42,
-    "ru": "Нет причины чувствовать себя подавленным из-за этого",
-    "en": "There is no reason to feel depressed because of it"
-  },
-  {
-    "_id": 43,
-    "ru": "Я знаю, что он не способен сделать такую вещь",
-    "en": "I know that he isn't capable of doing such a thing"
-  },
-  {
-    "_id": 44,
-    "ru": "Эта компания одна из ведущих производителей",
-    "en": "This company is one of the leading manufacturers"
-  },
-  {
-    "_id": 45,
-    "ru": "Это один из древнейших городов в мире",
-    "en": "It is one of the most ancient cities in the world"
-  },
-  {
-    "_id": 46,
-    "ru": "Это был очень болезненный опыт",
-    "en": "It was a very painful experience"
-  },
-  {
-    "_id": 47,
-    "ru": "Он один из ведущих специалистов в этой области",
-    "en": "He is one of the leading experts in this area"
-  },
-  {
-    "_id": 48,
-    "ru": "Это самые частые вопросы",
-    "en": "These are the most frequent questions"
-  },
-  {
-    "_id": 49,
-    "ru": "Он хочет жениться в этом году",
-    "en": "He wants to get married this year"
-  },
-  {
-    "_id": 50,
-    "ru": "Я стараюсь не быть ленивым",
-    "en": "I try not to be lazy"
-  },
-  {
-    "_id": 51,
-    "ru": "Я стараюсь быть добрым к ней",
-    "en": "I try to be kind to her"
-  },
-  {
-    "_id": 52,
-    "ru": "Я стараюсь быть более терпеливым",
-    "en": "I try to be more patient"
-  },
-  {
-    "_id": 53,
-    "ru": "Это более древний город",
-    "en": "It is a more ancient city"
-  },
-  {
-    "_id": 54,
-    "ru": "Это самый древний город в мире",
-    "en": "It is the most ancient city in the world"
-  },
-  {
-    "_id": 55,
-    "ru": "Это более красивый город",
-    "en": "It is a more beautiful city"
-  },
-  {
-    "_id": 56,
-    "ru": "Это относительно дешевый продукт",
-    "en": "It is a relatively cheap product"
-  },
-  {
-    "_id": 57,
-    "ru": "Это очень дешевый продукт",
-    "en": "It is a very cheap product"
-  },
-  {
-    "_id": 58,
-    "ru": "Этот продукт слишком дорогой",
-    "en": "This product is too expensive"
-  },
-  {
-    "_id": 59,
-    "ru": "Это было очень жестоко с его стороны",
-    "en": "It was very cruel of him"
-  },
-  {
-    "_id": 60,
-    "ru": "Это было очень любезно с его стороны сделать это",
-    "en": "It was very kind of him to do it"
-  },
-  {
-    "_id": 61,
-    "ru": "Это действительно жестоко с ее стороны",
-    "en": "It is really cruel of her"
-  },
-  {
-    "_id": 62,
-    "ru": "Я вижу, это огромный успех",
-    "en": "I see that it's a huge success"
-  },
-  {
-    "_id": 63,
-    "ru": "Я знаю, что это будет большой успех",
-    "en": "I know that it will be a big success"
-  },
-  {
-    "_id": 64,
-    "ru": "Я вижу, что это хороший результат",
-    "en": "I see that it's a good result"
-  },
-  {
-    "_id": 65,
-    "ru": "Было очевидно, что он был пьян",
-    "en": "It was obvious that he was drunk"
-  },
-  {
-    "_id": 66,
-    "ru": "Было очевидно, что он сумасшедший",
-    "en": "It was obvious that he was crazy"
-  },
-  {
-    "_id": 67,
-    "ru": "Было очевидно, что он был шокирован этой новостью",
-    "en": "It was obvious that he was shocked by this news"
-  },
-  {
-    "_id": 68,
-    "ru": "Позволь мне быть искренним с тобой",
-    "en": "Let me be sincere with you"
-  },
-  {
-    "_id": 69,
-    "ru": "Позволь мне помочь тебе",
-    "en": "Let me help you"
-  },
-  {
-    "_id": 70,
-    "ru": "Позволь мне быть честным с тобой",
-    "en": "Let me be honest with you"
-  },
-  {
-    "_id": 71,
-    "ru": "Это мои самые ранние воспоминания",
-    "en": "These are my earliest memories"
-  },
-  {
-    "_id": 72,
-    "ru": "Это мои лучшие воспоминания",
-    "en": "These are my best memories"
-  },
-  {
-    "_id": 73,
-    "ru": "Это моя новая мечта",
-    "en": "It is my new dream"
-  },
-  {
-    "_id": 74,
-    "ru": "Какие странные манеры!",
-    "en": "What bizarre manners!"
-  },
-  {
-    "_id": 75,
-    "ru": "Какие ужасные манеры!",
-    "en": "What awful manners!"
-  },
-  {
-    "_id": 76,
-    "ru": "Я думаю, что ему нужно быть менее эмоциональным",
-    "en": "I think he needs to be less emotional"
-  },
-  {
-    "_id": 77,
-    "ru": "Я думаю, что он должен быть более эмоциональным",
-    "en": "I think he must be more emotional"
-  },
-  {
-    "_id": 78,
-    "ru": "Я думаю, ему нужно быть менее ребячливым",
-    "en": "I think he needs to be less childish"
-  },
-  {
-    "_id": 79,
-    "ru": "Это ненадежный источник информации",
-    "en": "It is an unreliable source of information"
-  },
-  {
-    "_id": 80,
-    "ru": "Функция временно неактивна",
-    "en": "The function is temporarily inactive"
-  },
-  {
-    "_id": 81,
-    "ru": "Он активный пользователь социальных сетей",
-    "en": "He is an active user of social networks"
-  },
-  {
-    "_id": 82,
-    "ru": "Он часто жесток к другим",
-    "en": "He is often cruel to others"
-  },
-  {
-    "_id": 83,
-    "ru": "Я не думаю, что он действительно способен сделать это",
-    "en": "I don't think that he is really capable of doing it"
-  },
-  {
-    "_id": 84,
-    "ru": "Это чрезвычайно полезное физическое упражнение",
-    "en": "It is an extremely useful physical exercise"
-  },
-  {
-    "_id": 85,
-    "ru": "Они планируют пожениться в следующем месяце",
-    "en": "They are planning to get married next month"
-  },
-  {
-    "_id": 86,
-    "ru": "Я уверен, что это будет огромный успех",
-    "en": "I am sure that it will be a huge success"
-  },
-  {
-    "_id": 87,
-    "ru": "На мой взгляд, это более серьезная проблема",
-    "en": "In my view, it is a more serious problem"
-  },
-  {
-    "_id": 88,
-    "ru": "Обстоятельства были довольно загадочными",
-    "en": "The circumstances were quite mysterious"
-  },
-  {
-    "_id": 89,
-    "ru": "Эти часы не такие дешевые, как те",
-    "en": "This watch isn't as cheap as that one"
-  },
-  {
-    "_id": 90,
-    "ru": "Это одна из самых загадочных историй",
-    "en": "It is one of the most mysterious stories"
-  },
-  {
-    "_id": 91,
-    "ru": "Внешние факторы часто игнорируются",
-    "en": "The external factors are often ignored"
-  },
-  {
-    "_id": 92,
-    "ru": "В этой стране много нелегальных иммигрантов",
-    "en": "There are many illegal immigrants in this country"
-  },
-  {
-    "_id": 93,
-    "ru": "Тебе нужна плоская поверхность, чтобы сделать это",
-    "en": "You need a flat surface to do it"
+    "id": 1,
+    "ru": {
+      "text": "Он пришел домой позже обычного",
+      "audio": false
+    },
+    "en": {
+      "text": "He came home later than usual",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Иногда она чувствует себя такой одинокой",
+      "audio": false
+    },
+    "en": {
+      "text": "She feels so lonely sometimes",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Как часто ты пользуешься социальными сетями?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often do you use social networks?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Операция была очень болезненной",
+      "audio": false
+    },
+    "en": {
+      "text": "The operation was very painful",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Новости были действительно шокирующими",
+      "audio": false
+    },
+    "en": {
+      "text": "The news was really shocking",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я хочу быть искренним с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to be sincere with you",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Она чувствует себя очень подавленной",
+      "audio": false
+    },
+    "en": {
+      "text": "She feels very depressed",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Это гигантский дом",
+      "audio": false
+    },
+    "en": {
+      "text": "This is a gigantic house",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я хотел бы видеть более быстрый прогресс",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to see faster progress",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Она очень одинокий человек",
+      "audio": false
+    },
+    "en": {
+      "text": "She is a very lonely person",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "У них равные права",
+      "audio": false
+    },
+    "en": {
+      "text": "They have equal rights",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Это хорошая идея",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a fine idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Это такое большое преимущество",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such a big advantage",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я был в очень странной ситуации",
+      "audio": false
+    },
+    "en": {
+      "text": "I was in a very bizarre situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Это большой успех",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a big success",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Это так мило с твоей стороны",
+      "audio": false
+    },
+    "en": {
+      "text": "It is so kind of you",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Это было незаконно",
+      "audio": false
+    },
+    "en": {
+      "text": "It was illegal",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Он пьян?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he drunk?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он был действительно шокирован этой новостью",
+      "audio": false
+    },
+    "en": {
+      "text": "He was really shocked by this news",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Поверхность плоская",
+      "audio": false
+    },
+    "en": {
+      "text": "The surface is flat",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Какая интересная мысль!",
+      "audio": false
+    },
+    "en": {
+      "text": "What an interesting thought!",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Она очень эмоциональный человек",
+      "audio": false
+    },
+    "en": {
+      "text": "She is a very emotional person",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Эта функция сейчас неактивная",
+      "audio": false
+    },
+    "en": {
+      "text": "This function is inactive now",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Все ясно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is everything clear?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Какая странная идея!",
+      "audio": false
+    },
+    "en": {
+      "text": "What a bizarre idea!",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Нам также необходимо учитывать внешние факторы",
+      "audio": false
+    },
+    "en": {
+      "text": "We also need to consider external factors",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Он такой ленивый мальчик",
+      "audio": false
+    },
+    "en": {
+      "text": "He is such a lazy boy",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Погода была хорошая",
+      "audio": false
+    },
+    "en": {
+      "text": "The weather was fine",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Он холост сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he single now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Мне нужен одноместный номер",
+      "audio": false
+    },
+    "en": {
+      "text": "I need a single room",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Ты всегда очень добр к ней",
+      "audio": false
+    },
+    "en": {
+      "text": "You are always very kind to her",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Это было раннее утро",
+      "audio": false
+    },
+    "en": {
+      "text": "It was an early morning",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я чувствую гигантский прогресс после этих упражнений",
+      "audio": false
+    },
+    "en": {
+      "text": "I feel gigantic progress after these exercises",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я вижу многочисленные ошибки здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "I see numerous mistakes here",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "У мальчиков были равные возможности",
+      "audio": false
+    },
+    "en": {
+      "text": "The boys had equal opportunities",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Это обычная вещь для него",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a usual thing for him",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я хочу быстрого прогресса",
+      "audio": false
+    },
+    "en": {
+      "text": "I want fast progress",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Это такое грязное место",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such a dirty place",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Здесь очень грязно",
+      "audio": false
+    },
+    "en": {
+      "text": "It is very dirty here",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Ей были даны очень четкие инструкции",
+      "audio": false
+    },
+    "en": {
+      "text": "Very clear instructions were given to her",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Этот источник информации недостаточно надежный",
+      "audio": false
+    },
+    "en": {
+      "text": "This source of information isn't reliable enough",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Нет причины чувствовать себя подавленным из-за этого",
+      "audio": false
+    },
+    "en": {
+      "text": "There is no reason to feel depressed because of it",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я знаю, что он не способен сделать такую вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that he isn't capable of doing such a thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Эта компания одна из ведущих производителей",
+      "audio": false
+    },
+    "en": {
+      "text": "This company is one of the leading manufacturers",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Это один из древнейших городов в мире",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the most ancient cities in the world",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Это был очень болезненный опыт",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a very painful experience",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Он один из ведущих специалистов в этой области",
+      "audio": false
+    },
+    "en": {
+      "text": "He is one of the leading experts in this area",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Это самые частые вопросы",
+      "audio": false
+    },
+    "en": {
+      "text": "These are the most frequent questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Он хочет жениться в этом году",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to get married this year",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я стараюсь не быть ленивым",
+      "audio": false
+    },
+    "en": {
+      "text": "I try not to be lazy",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я стараюсь быть добрым к ней",
+      "audio": false
+    },
+    "en": {
+      "text": "I try to be kind to her",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я стараюсь быть более терпеливым",
+      "audio": false
+    },
+    "en": {
+      "text": "I try to be more patient",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Это более древний город",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a more ancient city",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Это самый древний город в мире",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the most ancient city in the world",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Это более красивый город",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a more beautiful city",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Это относительно дешевый продукт",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a relatively cheap product",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Это очень дешевый продукт",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a very cheap product",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Этот продукт слишком дорогой",
+      "audio": false
+    },
+    "en": {
+      "text": "This product is too expensive",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Это было очень жестоко с его стороны",
+      "audio": false
+    },
+    "en": {
+      "text": "It was very cruel of him",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Это было очень любезно с его стороны сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "It was very kind of him to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Это действительно жестоко с ее стороны",
+      "audio": false
+    },
+    "en": {
+      "text": "It is really cruel of her",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я вижу, это огромный успех",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that it's a huge success",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я знаю, что это будет большой успех",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that it will be a big success",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я вижу, что это хороший результат",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that it's a good result",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Было очевидно, что он был пьян",
+      "audio": false
+    },
+    "en": {
+      "text": "It was obvious that he was drunk",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Было очевидно, что он сумасшедший",
+      "audio": false
+    },
+    "en": {
+      "text": "It was obvious that he was crazy",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Было очевидно, что он был шокирован этой новостью",
+      "audio": false
+    },
+    "en": {
+      "text": "It was obvious that he was shocked by this news",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Позволь мне быть искренним с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "Let me be sincere with you",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Позволь мне помочь тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "Let me help you",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Позволь мне быть честным с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "Let me be honest with you",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Это мои самые ранние воспоминания",
+      "audio": false
+    },
+    "en": {
+      "text": "These are my earliest memories",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Это мои лучшие воспоминания",
+      "audio": false
+    },
+    "en": {
+      "text": "These are my best memories",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Это моя новая мечта",
+      "audio": false
+    },
+    "en": {
+      "text": "It is my new dream",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Какие странные манеры!",
+      "audio": false
+    },
+    "en": {
+      "text": "What bizarre manners!",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Какие ужасные манеры!",
+      "audio": false
+    },
+    "en": {
+      "text": "What awful manners!",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я думаю, что ему нужно быть менее эмоциональным",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he needs to be less emotional",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я думаю, что он должен быть более эмоциональным",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he must be more emotional",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я думаю, ему нужно быть менее ребячливым",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he needs to be less childish",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Это ненадежный источник информации",
+      "audio": false
+    },
+    "en": {
+      "text": "It is an unreliable source of information",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Функция временно неактивна",
+      "audio": false
+    },
+    "en": {
+      "text": "The function is temporarily inactive",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Он активный пользователь социальных сетей",
+      "audio": false
+    },
+    "en": {
+      "text": "He is an active user of social networks",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Он часто жесток к другим",
+      "audio": false
+    },
+    "en": {
+      "text": "He is often cruel to others",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я не думаю, что он действительно способен сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that he is really capable of doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Это чрезвычайно полезное физическое упражнение",
+      "audio": false
+    },
+    "en": {
+      "text": "It is an extremely useful physical exercise",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Они планируют пожениться в следующем месяце",
+      "audio": false
+    },
+    "en": {
+      "text": "They are planning to get married next month",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Я уверен, что это будет огромный успех",
+      "audio": false
+    },
+    "en": {
+      "text": "I am sure that it will be a huge success",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "На мой взгляд, это более серьезная проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "In my view, it is a more serious problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Обстоятельства были довольно загадочными",
+      "audio": false
+    },
+    "en": {
+      "text": "The circumstances were quite mysterious",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Эти часы не такие дешевые, как те",
+      "audio": false
+    },
+    "en": {
+      "text": "This watch isn't as cheap as that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Это одна из самых загадочных историй",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the most mysterious stories",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Внешние факторы часто игнорируются",
+      "audio": false
+    },
+    "en": {
+      "text": "The external factors are often ignored",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "В этой стране много нелегальных иммигрантов",
+      "audio": false
+    },
+    "en": {
+      "text": "There are many illegal immigrants in this country",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Тебе нужна плоская поверхность, чтобы сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "You need a flat surface to do it",
+      "audio": false
+    }
   }
 ]

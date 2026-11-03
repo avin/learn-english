@@ -1,562 +1,1234 @@
 [
   {
-    "_id": 1,
-    "ru": "Я вижу девочку",
-    "en": "I see a girl"
-  },
-  {
-    "_id": 2,
-    "ru": "Я хочу яблоко",
-    "en": "I want an apple"
-  },
-  {
-    "_id": 3,
-    "ru": "Я вижу одного человека",
-    "en": "I see one person"
-  },
-  {
-    "_id": 4,
-    "ru": "У них есть деньги",
-    "en": "They have money"
-  },
-  {
-    "_id": 5,
-    "ru": "Мне нравится эта машина",
-    "en": "I like this car"
-  },
-  {
-    "_id": 6,
-    "ru": "Ему нравятся эти машины",
-    "en": "He likes these cars"
-  },
-  {
-    "_id": 7,
-    "ru": "У меня есть несколько вопросов",
-    "en": "I have some questions"
-  },
-  {
-    "_id": 8,
-    "ru": "У нее есть немного времени",
-    "en": "She has some time"
-  },
-  {
-    "_id": 9,
-    "ru": "Я вижу автобус",
-    "en": "I see a bus"
-  },
-  {
-    "_id": 10,
-    "ru": "У меня есть книга",
-    "en": "I have a book"
-  },
-  {
-    "_id": 11,
-    "ru": "У меня есть идея",
-    "en": "I have an idea"
-  },
-  {
-    "_id": 12,
-    "ru": "Я вижу яблоко",
-    "en": "I see an apple"
-  },
-  {
-    "_id": 13,
-    "ru": "У меня есть брат",
-    "en": "I have a brother"
-  },
-  {
-    "_id": 14,
-    "ru": "Я вижу учителя",
-    "en": "I see a teacher"
-  },
-  {
-    "_id": 15,
-    "ru": "Я вижу отель",
-    "en": "I see a hotel"
-  },
-  {
-    "_id": 16,
-    "ru": "Я знаю этого мужчину",
-    "en": "I know this man"
-  },
-  {
-    "_id": 17,
-    "ru": "Я вижу девочку",
-    "en": "I see a girl"
-  },
-  {
-    "_id": 18,
-    "ru": "У меня есть некоторые результаты",
-    "en": "I have some results"
-  },
-  {
-    "_id": 19,
-    "ru": "Я хочу яблоко",
-    "en": "I want an apple"
-  },
-  {
-    "_id": 20,
-    "ru": "У меня есть апельсин",
-    "en": "I have an orange"
-  },
-  {
-    "_id": 21,
-    "ru": "Я понимаю твой вопрос",
-    "en": "I understand your question"
-  },
-  {
-    "_id": 22,
-    "ru": "У меня есть проблема",
-    "en": "I have a problem"
-  },
-  {
-    "_id": 23,
-    "ru": "Я вижу женщину",
-    "en": "I see a woman"
-  },
-  {
-    "_id": 24,
-    "ru": "У меня есть время",
-    "en": "I have time"
-  },
-  {
-    "_id": 25,
-    "ru": "Я вижу университет",
-    "en": "I see a university"
-  },
-  {
-    "_id": 26,
-    "ru": "У меня есть некоторые вопросы",
-    "en": "I have some questions"
-  },
-  {
-    "_id": 27,
-    "ru": "Я вижу автобус",
-    "en": "I see a bus"
-  },
-  {
-    "_id": 28,
-    "ru": "Мне нравится эта машина",
-    "en": "I like this car"
-  },
-  {
-    "_id": 29,
-    "ru": "У меня есть одна проблема",
-    "en": "I have one problem"
-  },
-  {
-    "_id": 30,
-    "ru": "Мы видим отель",
-    "en": "We see a hotel"
-  },
-  {
-    "_id": 31,
-    "ru": "Мне нравится этот вопрос",
-    "en": "I like this question"
-  },
-  {
-    "_id": 32,
-    "ru": "Я знаю этот университет",
-    "en": "I know this university"
-  },
-  {
-    "_id": 33,
-    "ru": "У них есть деньги",
-    "en": "They have money"
-  },
-  {
-    "_id": 34,
-    "ru": "Я вижу одного человека",
-    "en": "I see one person"
-  },
-  {
-    "_id": 35,
-    "ru": "Мы видим автобус",
-    "en": "We see a bus"
-  },
-  {
-    "_id": 36,
-    "ru": "У них есть проблема",
-    "en": "They have a problem"
-  },
-  {
-    "_id": 37,
-    "ru": "Мне нравится этот университет",
-    "en": "I like this university"
-  },
-  {
-    "_id": 38,
-    "ru": "Я хочу апельсин",
-    "en": "I want an orange"
-  },
-  {
-    "_id": 39,
-    "ru": "У меня есть работа",
-    "en": "I have a job"
-  },
-  {
-    "_id": 40,
-    "ru": "Я вижу мужчину",
-    "en": "I see a man"
-  },
-  {
-    "_id": 41,
-    "ru": "У меня есть вопрос",
-    "en": "I have a question"
-  },
-  {
-    "_id": 42,
-    "ru": "Я вижу школу",
-    "en": "I see a school"
-  },
-  {
-    "_id": 43,
-    "ru": "Мы видим учителя",
-    "en": "We see a teacher"
-  },
-  {
-    "_id": 44,
-    "ru": "У меня есть сестра",
-    "en": "I have a sister"
-  },
-  {
-    "_id": 45,
-    "ru": "Я вижу двух людей",
-    "en": "I see two people"
-  },
-  {
-    "_id": 46,
-    "ru": "У меня мало свободного времени",
-    "en": "I have little free time"
-  },
-  {
-    "_id": 47,
-    "ru": "У меня есть яблоко",
-    "en": "I have an apple"
-  },
-  {
-    "_id": 48,
-    "ru": "Я вижу дом",
-    "en": "I see a house"
-  },
-  {
-    "_id": 49,
-    "ru": "У меня есть машина",
-    "en": "I have a car"
-  },
-  {
-    "_id": 50,
-    "ru": "Я знаю этого человека",
-    "en": "I know this person"
-  },
-  {
-    "_id": 51,
-    "ru": "Я вижу мальчика",
-    "en": "I see a boy"
-  },
-  {
-    "_id": 52,
-    "ru": "У меня есть несколько идей",
-    "en": "I have some ideas"
-  },
-  {
-    "_id": 53,
-    "ru": "Я вижу двух студентов",
-    "en": "I see two students"
-  },
-  {
-    "_id": 54,
-    "ru": "У меня есть семья",
-    "en": "I have a family"
-  },
-  {
-    "_id": 55,
-    "ru": "Мы видим банк",
-    "en": "We see a bank"
-  },
-  {
-    "_id": 56,
-    "ru": "Я вижу студента",
-    "en": "I see a student"
-  },
-  {
-    "_id": 57,
-    "ru": "Они часто пьют воду",
-    "en": "They often drink water"
-  },
-  {
-    "_id": 58,
-    "ru": "У них есть компьютер",
-    "en": "They have a computer"
-  },
-  {
-    "_id": 59,
-    "ru": "Я понимаю эти вещи",
-    "en": "I understand these things"
-  },
-  {
-    "_id": 60,
-    "ru": "Мне нравится эта книга",
-    "en": "I like this book"
-  },
-  {
-    "_id": 61,
-    "ru": "У меня есть компьютер",
-    "en": "I have a computer"
-  },
-  {
-    "_id": 62,
-    "ru": "Я очень люблю музыку",
-    "en": "I really love music"
-  },
-  {
-    "_id": 63,
-    "ru": "Я ем рыбу",
-    "en": "I eat fish"
-  },
-  {
-    "_id": 64,
-    "ru": "Я делаю разные упражнения",
-    "en": "I do different exercises"
-  },
-  {
-    "_id": 65,
-    "ru": "Мы видим такси",
-    "en": "We see a taxi"
-  },
-  {
-    "_id": 66,
-    "ru": "Я пью чай",
-    "en": "I drink tea"
-  },
-  {
-    "_id": 67,
-    "ru": "Мне нравятся эти упражнения",
-    "en": "I like these exercises"
-  },
-  {
-    "_id": 68,
-    "ru": "У меня есть одна книга",
-    "en": "I have one book"
-  },
-  {
-    "_id": 69,
-    "ru": "У нее есть одна книга",
-    "en": "She has one book"
-  },
-  {
-    "_id": 70,
-    "ru": "У меня есть один компьютер",
-    "en": "I have one computer"
-  },
-  {
-    "_id": 71,
-    "ru": "Я люблю спорт",
-    "en": "I love sport"
-  },
-  {
-    "_id": 72,
-    "ru": "Он любит чай",
-    "en": "He loves tea"
-  },
-  {
-    "_id": 73,
-    "ru": "Мне нравится спорт",
-    "en": "I like sport"
-  },
-  {
-    "_id": 74,
-    "ru": "Я вижу банк",
-    "en": "I see a bank"
-  },
-  {
-    "_id": 75,
-    "ru": "Она видит банк",
-    "en": "She sees a bank"
-  },
-  {
-    "_id": 76,
-    "ru": "Я вижу этот банк",
-    "en": "I see this bank"
-  },
-  {
-    "_id": 77,
-    "ru": "Я понимаю эти вещи",
-    "en": "I understand these things"
-  },
-  {
-    "_id": 78,
-    "ru": "Я понимаю эту вещь",
-    "en": "I understand this thing"
-  },
-  {
-    "_id": 79,
-    "ru": "Я понимаю эти вещи",
-    "en": "I understand these things"
-  },
-  {
-    "_id": 80,
-    "ru": "У меня есть одна книга",
-    "en": "I have one book"
-  },
-  {
-    "_id": 81,
-    "ru": "У нее есть одна книга",
-    "en": "She has one book"
-  },
-  {
-    "_id": 82,
-    "ru": "У нас есть две книги",
-    "en": "We have two books"
-  },
-  {
-    "_id": 83,
-    "ru": "У них есть мотивация",
-    "en": "They have motivation"
-  },
-  {
-    "_id": 84,
-    "ru": "У нас есть мотивация",
-    "en": "We have motivation"
-  },
-  {
-    "_id": 85,
-    "ru": "У нее есть мотивация",
-    "en": "She has motivation"
-  },
-  {
-    "_id": 86,
-    "ru": "У меня есть мотивация",
-    "en": "I have motivation"
-  },
-  {
-    "_id": 87,
-    "ru": "У него есть мотивация",
-    "en": "He has motivation"
-  },
-  {
-    "_id": 88,
-    "ru": "У тебя есть мотивация",
-    "en": "You have motivation"
-  },
-  {
-    "_id": 89,
-    "ru": "У нас есть результат",
-    "en": "We have a result"
-  },
-  {
-    "_id": 90,
-    "ru": "Мне нравится мой результат",
-    "en": "I like my result"
-  },
-  {
-    "_id": 91,
-    "ru": "Мне нравится этот результат",
-    "en": "I like this result"
-  },
-  {
-    "_id": 92,
-    "ru": "Я вижу мой прогресс",
-    "en": "I see my progress"
-  },
-  {
-    "_id": 93,
-    "ru": "Я вижу твой прогресс",
-    "en": "I see your progress"
-  },
-  {
-    "_id": 94,
-    "ru": "Он видит мой прогресс",
-    "en": "He sees my progress"
-  },
-  {
-    "_id": 95,
-    "ru": "Мне нравятся мои результаты",
-    "en": "I like my results"
-  },
-  {
-    "_id": 96,
-    "ru": "Ей нравятся ее результаты",
-    "en": "She likes her results"
-  },
-  {
-    "_id": 97,
-    "ru": "Им нравятся мои результаты",
-    "en": "They like my results"
-  },
-  {
-    "_id": 98,
-    "ru": "Они часто пьют молоко",
-    "en": "They often drink milk"
-  },
-  {
-    "_id": 99,
-    "ru": "Я вижу такси",
-    "en": "I see a taxi"
-  },
-  {
-    "_id": 100,
-    "ru": "Я люблю музыку",
-    "en": "I love music"
-  },
-  {
-    "_id": 101,
-    "ru": "Они пьют молоко",
-    "en": "They drink milk"
-  },
-  {
-    "_id": 102,
-    "ru": "Я часто ем рыбу",
-    "en": "I often eat fish"
-  },
-  {
-    "_id": 103,
-    "ru": "Я хочу сок",
-    "en": "I want juice"
-  },
-  {
-    "_id": 104,
-    "ru": "У меня есть результат",
-    "en": "I have a result"
-  },
-  {
-    "_id": 105,
-    "ru": "Мне нравится сок",
-    "en": "I like juice"
-  },
-  {
-    "_id": 106,
-    "ru": "У них есть свободное время",
-    "en": "They have free time"
-  },
-  {
-    "_id": 107,
-    "ru": "Я вижу книгу",
-    "en": "I see a book"
-  },
-  {
-    "_id": 108,
-    "ru": "Я действительно люблю спорт",
-    "en": "I really love sport"
-  },
-  {
-    "_id": 109,
-    "ru": "Они пьют кофе",
-    "en": "They drink coffee"
-  },
-  {
-    "_id": 110,
-    "ru": "Я хочу больше упражнений",
-    "en": "I want more exercises"
-  },
-  {
-    "_id": 111,
-    "ru": "Мне нравится музыка",
-    "en": "I like music"
-  },
-  {
-    "_id": 112,
-    "ru": "Я вижу того студента",
-    "en": "I see that student"
+    "id": 1,
+    "ru": {
+      "text": "Я вижу девочку",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a girl",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я хочу яблоко",
+      "audio": false
+    },
+    "en": {
+      "text": "I want an apple",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я вижу одного человека",
+      "audio": false
+    },
+    "en": {
+      "text": "I see one person",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "У них есть деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "They have money",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Мне нравится эта машина",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this car",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Ему нравятся эти машины",
+      "audio": false
+    },
+    "en": {
+      "text": "He likes these cars",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "У меня есть несколько вопросов",
+      "audio": false
+    },
+    "en": {
+      "text": "I have some questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "У нее есть немного времени",
+      "audio": false
+    },
+    "en": {
+      "text": "She has some time",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я вижу автобус",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a bus",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "У меня есть книга",
+      "audio": false
+    },
+    "en": {
+      "text": "I have a book",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "У меня есть идея",
+      "audio": false
+    },
+    "en": {
+      "text": "I have an idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я вижу яблоко",
+      "audio": false
+    },
+    "en": {
+      "text": "I see an apple",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "У меня есть брат",
+      "audio": false
+    },
+    "en": {
+      "text": "I have a brother",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я вижу учителя",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a teacher",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я вижу отель",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a hotel",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я знаю этого мужчину",
+      "audio": false
+    },
+    "en": {
+      "text": "I know this man",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я вижу девочку",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a girl",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "У меня есть некоторые результаты",
+      "audio": false
+    },
+    "en": {
+      "text": "I have some results",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я хочу яблоко",
+      "audio": false
+    },
+    "en": {
+      "text": "I want an apple",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "У меня есть апельсин",
+      "audio": false
+    },
+    "en": {
+      "text": "I have an orange",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Я понимаю твой вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I understand your question",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "У меня есть проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "I have a problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Я вижу женщину",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a woman",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "У меня есть время",
+      "audio": false
+    },
+    "en": {
+      "text": "I have time",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Я вижу университет",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a university",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "У меня есть некоторые вопросы",
+      "audio": false
+    },
+    "en": {
+      "text": "I have some questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я вижу автобус",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a bus",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Мне нравится эта машина",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this car",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "У меня есть одна проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "I have one problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Мы видим отель",
+      "audio": false
+    },
+    "en": {
+      "text": "We see a hotel",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Мне нравится этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this question",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я знаю этот университет",
+      "audio": false
+    },
+    "en": {
+      "text": "I know this university",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "У них есть деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "They have money",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я вижу одного человека",
+      "audio": false
+    },
+    "en": {
+      "text": "I see one person",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Мы видим автобус",
+      "audio": false
+    },
+    "en": {
+      "text": "We see a bus",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "У них есть проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "They have a problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Мне нравится этот университет",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this university",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Я хочу апельсин",
+      "audio": false
+    },
+    "en": {
+      "text": "I want an orange",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "У меня есть работа",
+      "audio": false
+    },
+    "en": {
+      "text": "I have a job",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я вижу мужчину",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a man",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "У меня есть вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I have a question",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я вижу школу",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a school",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Мы видим учителя",
+      "audio": false
+    },
+    "en": {
+      "text": "We see a teacher",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "У меня есть сестра",
+      "audio": false
+    },
+    "en": {
+      "text": "I have a sister",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я вижу двух людей",
+      "audio": false
+    },
+    "en": {
+      "text": "I see two people",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "У меня мало свободного времени",
+      "audio": false
+    },
+    "en": {
+      "text": "I have little free time",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "У меня есть яблоко",
+      "audio": false
+    },
+    "en": {
+      "text": "I have an apple",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я вижу дом",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a house",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "У меня есть машина",
+      "audio": false
+    },
+    "en": {
+      "text": "I have a car",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я знаю этого человека",
+      "audio": false
+    },
+    "en": {
+      "text": "I know this person",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я вижу мальчика",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a boy",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "У меня есть несколько идей",
+      "audio": false
+    },
+    "en": {
+      "text": "I have some ideas",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я вижу двух студентов",
+      "audio": false
+    },
+    "en": {
+      "text": "I see two students",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "У меня есть семья",
+      "audio": false
+    },
+    "en": {
+      "text": "I have a family",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Мы видим банк",
+      "audio": false
+    },
+    "en": {
+      "text": "We see a bank",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я вижу студента",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a student",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Они часто пьют воду",
+      "audio": false
+    },
+    "en": {
+      "text": "They often drink water",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "У них есть компьютер",
+      "audio": false
+    },
+    "en": {
+      "text": "They have a computer",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я понимаю эти вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "I understand these things",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Мне нравится эта книга",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this book",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "У меня есть компьютер",
+      "audio": false
+    },
+    "en": {
+      "text": "I have a computer",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я очень люблю музыку",
+      "audio": false
+    },
+    "en": {
+      "text": "I really love music",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я ем рыбу",
+      "audio": false
+    },
+    "en": {
+      "text": "I eat fish",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я делаю разные упражнения",
+      "audio": false
+    },
+    "en": {
+      "text": "I do different exercises",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Мы видим такси",
+      "audio": false
+    },
+    "en": {
+      "text": "We see a taxi",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я пью чай",
+      "audio": false
+    },
+    "en": {
+      "text": "I drink tea",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Мне нравятся эти упражнения",
+      "audio": false
+    },
+    "en": {
+      "text": "I like these exercises",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "У меня есть одна книга",
+      "audio": false
+    },
+    "en": {
+      "text": "I have one book",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "У нее есть одна книга",
+      "audio": false
+    },
+    "en": {
+      "text": "She has one book",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "У меня есть один компьютер",
+      "audio": false
+    },
+    "en": {
+      "text": "I have one computer",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я люблю спорт",
+      "audio": false
+    },
+    "en": {
+      "text": "I love sport",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Он любит чай",
+      "audio": false
+    },
+    "en": {
+      "text": "He loves tea",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Мне нравится спорт",
+      "audio": false
+    },
+    "en": {
+      "text": "I like sport",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я вижу банк",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a bank",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Она видит банк",
+      "audio": false
+    },
+    "en": {
+      "text": "She sees a bank",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я вижу этот банк",
+      "audio": false
+    },
+    "en": {
+      "text": "I see this bank",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я понимаю эти вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "I understand these things",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я понимаю эту вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "I understand this thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Я понимаю эти вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "I understand these things",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "У меня есть одна книга",
+      "audio": false
+    },
+    "en": {
+      "text": "I have one book",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "У нее есть одна книга",
+      "audio": false
+    },
+    "en": {
+      "text": "She has one book",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "У нас есть две книги",
+      "audio": false
+    },
+    "en": {
+      "text": "We have two books",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "У них есть мотивация",
+      "audio": false
+    },
+    "en": {
+      "text": "They have motivation",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "У нас есть мотивация",
+      "audio": false
+    },
+    "en": {
+      "text": "We have motivation",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "У нее есть мотивация",
+      "audio": false
+    },
+    "en": {
+      "text": "She has motivation",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "У меня есть мотивация",
+      "audio": false
+    },
+    "en": {
+      "text": "I have motivation",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "У него есть мотивация",
+      "audio": false
+    },
+    "en": {
+      "text": "He has motivation",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "У тебя есть мотивация",
+      "audio": false
+    },
+    "en": {
+      "text": "You have motivation",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "У нас есть результат",
+      "audio": false
+    },
+    "en": {
+      "text": "We have a result",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Мне нравится мой результат",
+      "audio": false
+    },
+    "en": {
+      "text": "I like my result",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Мне нравится этот результат",
+      "audio": false
+    },
+    "en": {
+      "text": "I like this result",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Я вижу мой прогресс",
+      "audio": false
+    },
+    "en": {
+      "text": "I see my progress",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Я вижу твой прогресс",
+      "audio": false
+    },
+    "en": {
+      "text": "I see your progress",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Он видит мой прогресс",
+      "audio": false
+    },
+    "en": {
+      "text": "He sees my progress",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Мне нравятся мои результаты",
+      "audio": false
+    },
+    "en": {
+      "text": "I like my results",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Ей нравятся ее результаты",
+      "audio": false
+    },
+    "en": {
+      "text": "She likes her results",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Им нравятся мои результаты",
+      "audio": false
+    },
+    "en": {
+      "text": "They like my results",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Они часто пьют молоко",
+      "audio": false
+    },
+    "en": {
+      "text": "They often drink milk",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Я вижу такси",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a taxi",
+      "audio": false
+    }
+  },
+  {
+    "id": 100,
+    "ru": {
+      "text": "Я люблю музыку",
+      "audio": false
+    },
+    "en": {
+      "text": "I love music",
+      "audio": false
+    }
+  },
+  {
+    "id": 101,
+    "ru": {
+      "text": "Они пьют молоко",
+      "audio": false
+    },
+    "en": {
+      "text": "They drink milk",
+      "audio": false
+    }
+  },
+  {
+    "id": 102,
+    "ru": {
+      "text": "Я часто ем рыбу",
+      "audio": false
+    },
+    "en": {
+      "text": "I often eat fish",
+      "audio": false
+    }
+  },
+  {
+    "id": 103,
+    "ru": {
+      "text": "Я хочу сок",
+      "audio": false
+    },
+    "en": {
+      "text": "I want juice",
+      "audio": false
+    }
+  },
+  {
+    "id": 104,
+    "ru": {
+      "text": "У меня есть результат",
+      "audio": false
+    },
+    "en": {
+      "text": "I have a result",
+      "audio": false
+    }
+  },
+  {
+    "id": 105,
+    "ru": {
+      "text": "Мне нравится сок",
+      "audio": false
+    },
+    "en": {
+      "text": "I like juice",
+      "audio": false
+    }
+  },
+  {
+    "id": 106,
+    "ru": {
+      "text": "У них есть свободное время",
+      "audio": false
+    },
+    "en": {
+      "text": "They have free time",
+      "audio": false
+    }
+  },
+  {
+    "id": 107,
+    "ru": {
+      "text": "Я вижу книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a book",
+      "audio": false
+    }
+  },
+  {
+    "id": 108,
+    "ru": {
+      "text": "Я действительно люблю спорт",
+      "audio": false
+    },
+    "en": {
+      "text": "I really love sport",
+      "audio": false
+    }
+  },
+  {
+    "id": 109,
+    "ru": {
+      "text": "Они пьют кофе",
+      "audio": false
+    },
+    "en": {
+      "text": "They drink coffee",
+      "audio": false
+    }
+  },
+  {
+    "id": 110,
+    "ru": {
+      "text": "Я хочу больше упражнений",
+      "audio": false
+    },
+    "en": {
+      "text": "I want more exercises",
+      "audio": false
+    }
+  },
+  {
+    "id": 111,
+    "ru": {
+      "text": "Мне нравится музыка",
+      "audio": false
+    },
+    "en": {
+      "text": "I like music",
+      "audio": false
+    }
+  },
+  {
+    "id": 112,
+    "ru": {
+      "text": "Я вижу того студента",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that student",
+      "audio": false
+    }
   }
 ]

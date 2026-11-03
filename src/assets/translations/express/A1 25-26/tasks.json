@@ -1,122 +1,266 @@
 [
   {
-    "_id": 1,
-    "ru": "Они одолжили ему очень большую сумму денег",
-    "en": "They lent him a very big sum of money"
+    "id": 1,
+    "ru": {
+      "text": "Они одолжили ему очень большую сумму денег",
+      "audio": false
+    },
+    "en": {
+      "text": "They lent him a very big sum of money",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Звонок зазвенел пять минут назад",
-    "en": "The bell rang five minutes ago"
+    "id": 2,
+    "ru": {
+      "text": "Звонок зазвенел пять минут назад",
+      "audio": false
+    },
+    "en": {
+      "text": "The bell rang five minutes ago",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Они уехали из города",
-    "en": "They left the city"
+    "id": 3,
+    "ru": {
+      "text": "Они уехали из города",
+      "audio": false
+    },
+    "en": {
+      "text": "They left the city",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Она простила его в конце",
-    "en": "She forgave him in the end"
+    "id": 4,
+    "ru": {
+      "text": "Она простила его в конце",
+      "audio": false
+    },
+    "en": {
+      "text": "She forgave him in the end",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я катался на велосипеде вчера",
-    "en": "I rode a bike yesterday"
+    "id": 5,
+    "ru": {
+      "text": "Я катался на велосипеде вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I rode a bike yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Кто-то украл ее сумку",
-    "en": "Someone stole her bag"
+    "id": 6,
+    "ru": {
+      "text": "Кто-то украл ее сумку",
+      "audio": false
+    },
+    "en": {
+      "text": "Someone stole her bag",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Они отправили мне это уведомление",
-    "en": "They sent me this notification"
+    "id": 7,
+    "ru": {
+      "text": "Они отправили мне это уведомление",
+      "audio": false
+    },
+    "en": {
+      "text": "They sent me this notification",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Урок начался полчаса назад",
-    "en": "The lesson began half an hour ago"
+    "id": 8,
+    "ru": {
+      "text": "Урок начался полчаса назад",
+      "audio": false
+    },
+    "en": {
+      "text": "The lesson began half an hour ago",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я нашел более хорошую работу",
-    "en": "I found a better job"
+    "id": 9,
+    "ru": {
+      "text": "Я нашел более хорошую работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I found a better job",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я получил очень странное сообщение от нее",
-    "en": "I got a very strange message from her"
+    "id": 10,
+    "ru": {
+      "text": "Я получил очень странное сообщение от нее",
+      "audio": false
+    },
+    "en": {
+      "text": "I got a very strange message from her",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Он упал и повредил колено",
-    "en": "He fell and hurt his knee"
+    "id": 11,
+    "ru": {
+      "text": "Он упал и повредил колено",
+      "audio": false
+    },
+    "en": {
+      "text": "He fell and hurt his knee",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я ушел из дома очень рано",
-    "en": "I left home very early"
+    "id": 12,
+    "ru": {
+      "text": "Я ушел из дома очень рано",
+      "audio": false
+    },
+    "en": {
+      "text": "I left home very early",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я понял все сразу",
-    "en": "I understood everything immediately"
+    "id": 13,
+    "ru": {
+      "text": "Я понял все сразу",
+      "audio": false
+    },
+    "en": {
+      "text": "I understood everything immediately",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Они боролись за свои права, свободу и независимость",
-    "en": "They fought for their rights, freedom and independence"
+    "id": 14,
+    "ru": {
+      "text": "Они боролись за свои права, свободу и независимость",
+      "audio": false
+    },
+    "en": {
+      "text": "They fought for their rights, freedom and independence",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я выпил чашку кофе",
-    "en": "I drank a cup of coffee"
+    "id": 15,
+    "ru": {
+      "text": "Я выпил чашку кофе",
+      "audio": false
+    },
+    "en": {
+      "text": "I drank a cup of coffee",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "У меня было мало свободного времени, но я старался найти время на это",
-    "en": "I had little free time but I tried to find time for it"
+    "id": 16,
+    "ru": {
+      "text": "У меня было мало свободного времени, но я старался найти время на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I had little free time but I tried to find time for it",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я присел и затем встал",
-    "en": "I sat down and then stood up"
+    "id": 17,
+    "ru": {
+      "text": "Я присел и затем встал",
+      "audio": false
+    },
+    "en": {
+      "text": "I sat down and then stood up",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Я выпил стакан сока",
-    "en": "I drank a glass of juice"
+    "id": 18,
+    "ru": {
+      "text": "Я выпил стакан сока",
+      "audio": false
+    },
+    "en": {
+      "text": "I drank a glass of juice",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Мне не нужно было это, поэтому я выбросил это",
-    "en": "I didn't need it so I threw it away"
+    "id": 19,
+    "ru": {
+      "text": "Мне не нужно было это, поэтому я выбросил это",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't need it so I threw it away",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Она разрезала торт на четыре равные части",
-    "en": "She cut the cake into four equal parts"
+    "id": 20,
+    "ru": {
+      "text": "Она разрезала торт на четыре равные части",
+      "audio": false
+    },
+    "en": {
+      "text": "She cut the cake into four equal parts",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Он купил последнюю модель",
-    "en": "He bought the latest model"
+    "id": 21,
+    "ru": {
+      "text": "Он купил последнюю модель",
+      "audio": false
+    },
+    "en": {
+      "text": "He bought the latest model",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Это задело ее чувства очень сильно",
-    "en": "It hurt her feelings greatly"
+    "id": 22,
+    "ru": {
+      "text": "Это задело ее чувства очень сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "It hurt her feelings greatly",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Они дали ему еще один шанс",
-    "en": "They gave him one more chance"
+    "id": 23,
+    "ru": {
+      "text": "Они дали ему еще один шанс",
+      "audio": false
+    },
+    "en": {
+      "text": "They gave him one more chance",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Он вел машину очень осторожно, и это спасло ему жизнь",
-    "en": "He drove a car very carefully and it saved his life"
+    "id": 24,
+    "ru": {
+      "text": "Он вел машину очень осторожно, и это спасло ему жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "He drove a car very carefully and it saved his life",
+      "audio": false
+    }
   }
 ]

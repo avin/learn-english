@@ -1,252 +1,552 @@
 [
   {
-    "_id": 1,
-    "ru": "У меня есть зонт",
-    "en": "I have an umbrella"
+    "id": 1,
+    "ru": {
+      "text": "У меня есть зонт",
+      "audio": true
+    },
+    "en": {
+      "text": "I have an umbrella",
+      "audio": true
+    }
   },
   {
-    "_id": 2,
-    "ru": "Мне нравится английский",
-    "en": "I like English"
+    "id": 2,
+    "ru": {
+      "text": "Мне нравится английский",
+      "audio": true
+    },
+    "en": {
+      "text": "I like English",
+      "audio": true
+    }
   },
   {
-    "_id": 3,
-    "ru": "Ты делаешь это очень хорошо",
-    "en": "You do it very well"
+    "id": 3,
+    "ru": {
+      "text": "Ты делаешь это очень хорошо",
+      "audio": true
+    },
+    "en": {
+      "text": "You do it very well",
+      "audio": true
+    }
   },
   {
-    "_id": 4,
-    "ru": "Они хотят большего",
-    "en": "They want more"
+    "id": 4,
+    "ru": {
+      "text": "Они хотят большего",
+      "audio": true
+    },
+    "en": {
+      "text": "They want more",
+      "audio": true
+    }
   },
   {
-    "_id": 5,
-    "ru": "У нас есть работа",
-    "en": "We have a job"
+    "id": 5,
+    "ru": {
+      "text": "У нас есть работа",
+      "audio": true
+    },
+    "en": {
+      "text": "We have a job",
+      "audio": true
+    }
   },
   {
-    "_id": 6,
-    "ru": "У меня есть мечта",
-    "en": "I have a dream"
+    "id": 6,
+    "ru": {
+      "text": "У меня есть мечта",
+      "audio": true
+    },
+    "en": {
+      "text": "I have a dream",
+      "audio": true
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я вижу супермаркет",
-    "en": "I see a supermarket"
+    "id": 7,
+    "ru": {
+      "text": "Я вижу супермаркет",
+      "audio": true
+    },
+    "en": {
+      "text": "I see a supermarket",
+      "audio": true
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я вижу отель",
-    "en": "I see a hotel"
+    "id": 8,
+    "ru": {
+      "text": "Я вижу отель",
+      "audio": true
+    },
+    "en": {
+      "text": "I see a hotel",
+      "audio": true
+    }
   },
   {
-    "_id": 9,
-    "ru": "Мне очень нравится это",
-    "en": "I really like it"
+    "id": 9,
+    "ru": {
+      "text": "Мне очень нравится это",
+      "audio": true
+    },
+    "en": {
+      "text": "I really like it",
+      "audio": true
+    }
   },
   {
-    "_id": 10,
-    "ru": "Мы видим университет",
-    "en": "We see a university"
+    "id": 10,
+    "ru": {
+      "text": "Мы видим университет",
+      "audio": true
+    },
+    "en": {
+      "text": "We see a university",
+      "audio": true
+    }
   },
   {
-    "_id": 11,
-    "ru": "Мы видим эту проблему",
-    "en": "We see this problem"
+    "id": 11,
+    "ru": {
+      "text": "Мы видим эту проблему",
+      "audio": true
+    },
+    "en": {
+      "text": "We see this problem",
+      "audio": true
+    }
   },
   {
-    "_id": 12,
-    "ru": "Мы видим сообщение",
-    "en": "We see a message"
+    "id": 12,
+    "ru": {
+      "text": "Мы видим сообщение",
+      "audio": true
+    },
+    "en": {
+      "text": "We see a message",
+      "audio": true
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я работаю в этой компании",
-    "en": "I work in this company"
+    "id": 13,
+    "ru": {
+      "text": "Я работаю в этой компании",
+      "audio": true
+    },
+    "en": {
+      "text": "I work in this company",
+      "audio": true
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я согласен с тобой",
-    "en": "I agree with you"
+    "id": 14,
+    "ru": {
+      "text": "Я согласен с тобой",
+      "audio": true
+    },
+    "en": {
+      "text": "I agree with you",
+      "audio": true
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я работаю в компании",
-    "en": "I work in a company"
+    "id": 15,
+    "ru": {
+      "text": "Я работаю в компании",
+      "audio": true
+    },
+    "en": {
+      "text": "I work in a company",
+      "audio": true
+    }
   },
   {
-    "_id": 16,
-    "ru": "Мне нравится эта еда",
-    "en": "I like this food"
+    "id": 16,
+    "ru": {
+      "text": "Мне нравится эта еда",
+      "audio": true
+    },
+    "en": {
+      "text": "I like this food",
+      "audio": true
+    }
   },
   {
-    "_id": 17,
-    "ru": "Мне очень нравится английский",
-    "en": "I really like English"
+    "id": 17,
+    "ru": {
+      "text": "Мне очень нравится английский",
+      "audio": true
+    },
+    "en": {
+      "text": "I really like English",
+      "audio": true
+    }
   },
   {
-    "_id": 18,
-    "ru": "Мы видим аэропорт",
-    "en": "We see an airport"
+    "id": 18,
+    "ru": {
+      "text": "Мы видим аэропорт",
+      "audio": true
+    },
+    "en": {
+      "text": "We see an airport",
+      "audio": true
+    }
   },
   {
-    "_id": 19,
-    "ru": "Мне очень нравится эта страна",
-    "en": "I really like this country"
+    "id": 19,
+    "ru": {
+      "text": "Мне очень нравится эта страна",
+      "audio": true
+    },
+    "en": {
+      "text": "I really like this country",
+      "audio": true
+    }
   },
   {
-    "_id": 20,
-    "ru": "У меня есть результат",
-    "en": "I have a result"
+    "id": 20,
+    "ru": {
+      "text": "У меня есть результат",
+      "audio": true
+    },
+    "en": {
+      "text": "I have a result",
+      "audio": true
+    }
   },
   {
-    "_id": 21,
-    "ru": "У меня есть работа",
-    "en": "I have a job"
+    "id": 21,
+    "ru": {
+      "text": "У меня есть работа",
+      "audio": true
+    },
+    "en": {
+      "text": "I have a job",
+      "audio": true
+    }
   },
   {
-    "_id": 22,
-    "ru": "У меня есть друг",
-    "en": "I have a friend"
+    "id": 22,
+    "ru": {
+      "text": "У меня есть друг",
+      "audio": true
+    },
+    "en": {
+      "text": "I have a friend",
+      "audio": true
+    }
   },
   {
-    "_id": 23,
-    "ru": "Я очень хочу это",
-    "en": "I really want it"
+    "id": 23,
+    "ru": {
+      "text": "Я очень хочу это",
+      "audio": true
+    },
+    "en": {
+      "text": "I really want it",
+      "audio": true
+    }
   },
   {
-    "_id": 24,
-    "ru": "Мне нравится это место",
-    "en": "I like this place"
+    "id": 24,
+    "ru": {
+      "text": "Мне нравится это место",
+      "audio": true
+    },
+    "en": {
+      "text": "I like this place",
+      "audio": true
+    }
   },
   {
-    "_id": 25,
-    "ru": "Я вижу автобус",
-    "en": "I see a bus"
+    "id": 25,
+    "ru": {
+      "text": "Я вижу автобус",
+      "audio": true
+    },
+    "en": {
+      "text": "I see a bus",
+      "audio": true
+    }
   },
   {
-    "_id": 26,
-    "ru": "У них есть работа",
-    "en": "They have a job"
+    "id": 26,
+    "ru": {
+      "text": "У них есть работа",
+      "audio": true
+    },
+    "en": {
+      "text": "They have a job",
+      "audio": true
+    }
   },
   {
-    "_id": 27,
-    "ru": "У меня есть семья",
-    "en": "I have a family"
+    "id": 27,
+    "ru": {
+      "text": "У меня есть семья",
+      "audio": true
+    },
+    "en": {
+      "text": "I have a family",
+      "audio": true
+    }
   },
   {
-    "_id": 28,
-    "ru": "Я поддерживаю тебя",
-    "en": "I support you"
+    "id": 28,
+    "ru": {
+      "text": "Я поддерживаю тебя",
+      "audio": true
+    },
+    "en": {
+      "text": "I support you",
+      "audio": true
+    }
   },
   {
-    "_id": 29,
-    "ru": "Мы поддерживаем тебя",
-    "en": "We support you"
+    "id": 29,
+    "ru": {
+      "text": "Мы поддерживаем тебя",
+      "audio": true
+    },
+    "en": {
+      "text": "We support you",
+      "audio": true
+    }
   },
   {
-    "_id": 30,
-    "ru": "Я согласен",
-    "en": "I agree"
+    "id": 30,
+    "ru": {
+      "text": "Я согласен",
+      "audio": true
+    },
+    "en": {
+      "text": "I agree",
+      "audio": true
+    }
   },
   {
-    "_id": 31,
-    "ru": "У меня есть цель",
-    "en": "I have an aim"
+    "id": 31,
+    "ru": {
+      "text": "У меня есть цель",
+      "audio": true
+    },
+    "en": {
+      "text": "I have an aim",
+      "audio": true
+    }
   },
   {
-    "_id": 32,
-    "ru": "У меня проблема",
-    "en": "I have a problem"
+    "id": 32,
+    "ru": {
+      "text": "У меня проблема",
+      "audio": true
+    },
+    "en": {
+      "text": "I have a problem",
+      "audio": true
+    }
   },
   {
-    "_id": 33,
-    "ru": "У меня вопрос",
-    "en": "I have a question"
+    "id": 33,
+    "ru": {
+      "text": "У меня вопрос",
+      "audio": true
+    },
+    "en": {
+      "text": "I have a question",
+      "audio": true
+    }
   },
   {
-    "_id": 34,
-    "ru": "У нас есть цель",
-    "en": "We have an aim"
+    "id": 34,
+    "ru": {
+      "text": "У нас есть цель",
+      "audio": true
+    },
+    "en": {
+      "text": "We have an aim",
+      "audio": true
+    }
   },
   {
-    "_id": 35,
-    "ru": "У них есть мечта",
-    "en": "They have a dream"
+    "id": 35,
+    "ru": {
+      "text": "У них есть мечта",
+      "audio": true
+    },
+    "en": {
+      "text": "They have a dream",
+      "audio": true
+    }
   },
   {
-    "_id": 36,
-    "ru": "Мне очень нравится этот город",
-    "en": "I really like this city"
+    "id": 36,
+    "ru": {
+      "text": "Мне очень нравится этот город",
+      "audio": true
+    },
+    "en": {
+      "text": "I really like this city",
+      "audio": true
+    }
   },
   {
-    "_id": 37,
-    "ru": "Я знаю",
-    "en": "I know"
+    "id": 37,
+    "ru": {
+      "text": "Я знаю",
+      "audio": true
+    },
+    "en": {
+      "text": "I know",
+      "audio": true
+    }
   },
   {
-    "_id": 38,
-    "ru": "Я вижу поезд",
-    "en": "I see a train"
+    "id": 38,
+    "ru": {
+      "text": "Я вижу поезд",
+      "audio": true
+    },
+    "en": {
+      "text": "I see a train",
+      "audio": true
+    }
   },
   {
-    "_id": 39,
-    "ru": "У меня есть идея",
-    "en": "I have an idea"
+    "id": 39,
+    "ru": {
+      "text": "У меня есть идея",
+      "audio": true
+    },
+    "en": {
+      "text": "I have an idea",
+      "audio": true
+    }
   },
   {
-    "_id": 40,
-    "ru": "Они работают в компании",
-    "en": "They work in a company"
+    "id": 40,
+    "ru": {
+      "text": "Они работают в компании",
+      "audio": true
+    },
+    "en": {
+      "text": "They work in a company",
+      "audio": true
+    }
   },
   {
-    "_id": 41,
-    "ru": "У нас есть мечта",
-    "en": "We have a dream"
+    "id": 41,
+    "ru": {
+      "text": "У нас есть мечта",
+      "audio": true
+    },
+    "en": {
+      "text": "We have a dream",
+      "audio": true
+    }
   },
   {
-    "_id": 42,
-    "ru": "У вас есть талант",
-    "en": "You have a talent"
+    "id": 42,
+    "ru": {
+      "text": "У вас есть талант",
+      "audio": true
+    },
+    "en": {
+      "text": "You have a talent",
+      "audio": true
+    }
   },
   {
-    "_id": 43,
-    "ru": "У них есть идея",
-    "en": "They have an idea"
+    "id": 43,
+    "ru": {
+      "text": "У них есть идея",
+      "audio": true
+    },
+    "en": {
+      "text": "They have an idea",
+      "audio": true
+    }
   },
   {
-    "_id": 44,
-    "ru": "Мне очень нравится этот курс",
-    "en": "I really like this course"
+    "id": 44,
+    "ru": {
+      "text": "Мне очень нравится этот курс",
+      "audio": true
+    },
+    "en": {
+      "text": "I really like this course",
+      "audio": true
+    }
   },
   {
-    "_id": 45,
-    "ru": "Я вижу аэропорт",
-    "en": "I see an airport"
+    "id": 45,
+    "ru": {
+      "text": "Я вижу аэропорт",
+      "audio": true
+    },
+    "en": {
+      "text": "I see an airport",
+      "audio": true
+    }
   },
   {
-    "_id": 46,
-    "ru": "Они работают в этом месте",
-    "en": "They work in this place"
+    "id": 46,
+    "ru": {
+      "text": "Они работают в этом месте",
+      "audio": true
+    },
+    "en": {
+      "text": "They work in this place",
+      "audio": true
+    }
   },
   {
-    "_id": 47,
-    "ru": "Я вижу университет",
-    "en": "I see a university"
+    "id": 47,
+    "ru": {
+      "text": "Я вижу университет",
+      "audio": true
+    },
+    "en": {
+      "text": "I see a university",
+      "audio": true
+    }
   },
   {
-    "_id": 48,
-    "ru": "Я вижу сообщение",
-    "en": "I see a message"
+    "id": 48,
+    "ru": {
+      "text": "Я вижу сообщение",
+      "audio": true
+    },
+    "en": {
+      "text": "I see a message",
+      "audio": true
+    }
   },
   {
-    "_id": 49,
-    "ru": "У меня есть билет",
-    "en": "I have a ticket"
+    "id": 49,
+    "ru": {
+      "text": "У меня есть билет",
+      "audio": true
+    },
+    "en": {
+      "text": "I have a ticket",
+      "audio": true
+    }
   },
   {
-    "_id": 50,
-    "ru": "Я понимаю",
-    "en": "I understand"
+    "id": 50,
+    "ru": {
+      "text": "Я понимаю",
+      "audio": true
+    },
+    "en": {
+      "text": "I understand",
+      "audio": true
+    }
   }
 ]

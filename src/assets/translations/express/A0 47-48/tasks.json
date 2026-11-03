@@ -1,192 +1,420 @@
 [
   {
-    "_id": 1,
-    "ru": "Это не было проблемой",
-    "en": "It wasn't a problem"
+    "id": 1,
+    "ru": {
+      "text": "Это не было проблемой",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't a problem",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я не был удивлен",
-    "en": "I wasn't surprised"
+    "id": 2,
+    "ru": {
+      "text": "Я не был удивлен",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't surprised",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Он не был удивлен",
-    "en": "He wasn't surprised [zd]"
+    "id": 3,
+    "ru": {
+      "text": "Он не был удивлен",
+      "audio": false
+    },
+    "en": {
+      "text": "He wasn't surprised [zd]",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я не был за границей в прошлом году",
-    "en": "I wasn't abroad last year"
+    "id": 4,
+    "ru": {
+      "text": "Я не был за границей в прошлом году",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't abroad last year",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Это не было интересно мне",
-    "en": "It wasn't interesting for me"
+    "id": 5,
+    "ru": {
+      "text": "Это не было интересно мне",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't interesting for me",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я не был занят. Я был свободен",
-    "en": "I wasn't busy. I was free"
+    "id": 6,
+    "ru": {
+      "text": "Я не был занят. Я был свободен",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't busy. I was free",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я не был дома. Я был на работе",
-    "en": "I wasn't at home. I was at work"
+    "id": 7,
+    "ru": {
+      "text": "Я не был дома. Я был на работе",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't at home. I was at work",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я думаю, это было не так легко",
-    "en": "I think it wasn't so easy"
+    "id": 8,
+    "ru": {
+      "text": "Я думаю, это было не так легко",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it wasn't so easy",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Это было не смешно",
-    "en": "It wasn't funny"
+    "id": 9,
+    "ru": {
+      "text": "Это было не смешно",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't funny",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Это не было так дешево",
-    "en": "It wasn't so cheap"
+    "id": 10,
+    "ru": {
+      "text": "Это не было так дешево",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't so cheap",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Это не было слишком сложно",
-    "en": "It wasn't too difficult"
+    "id": 11,
+    "ru": {
+      "text": "Это не было слишком сложно",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't too difficult",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Это не было интересно ему",
-    "en": "It wasn't interesting for him"
+    "id": 12,
+    "ru": {
+      "text": "Это не было интересно ему",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't interesting for him",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Это не было важно",
-    "en": "It wasn't important"
+    "id": 13,
+    "ru": {
+      "text": "Это не было важно",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't important",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Это было не так смешно",
-    "en": "It wasn't so funny"
+    "id": 14,
+    "ru": {
+      "text": "Это было не так смешно",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't so funny",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Он не был уверен",
-    "en": "He wasn't sure"
+    "id": 15,
+    "ru": {
+      "text": "Он не был уверен",
+      "audio": false
+    },
+    "en": {
+      "text": "He wasn't sure",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Я думаю, ты не был прав",
-    "en": "I think you weren't right"
+    "id": 16,
+    "ru": {
+      "text": "Я думаю, ты не был прав",
+      "audio": false
+    },
+    "en": {
+      "text": "I think you weren't right",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я не был готов к этому",
-    "en": "I wasn't ready for it"
+    "id": 17,
+    "ru": {
+      "text": "Я не был готов к этому",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't ready for it",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Я не был уверен по поводу этого",
-    "en": "I wasn't sure about it"
+    "id": 18,
+    "ru": {
+      "text": "Я не был уверен по поводу этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't sure about it",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Это не было интересно им",
-    "en": "It wasn't interesting for them"
+    "id": 19,
+    "ru": {
+      "text": "Это не было интересно им",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't interesting for them",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Это не было проблемой для меня",
-    "en": "It wasn't a problem for me"
+    "id": 20,
+    "ru": {
+      "text": "Это не было проблемой для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't a problem for me",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Они не были дома",
-    "en": "They weren't at home"
+    "id": 21,
+    "ru": {
+      "text": "Они не были дома",
+      "audio": false
+    },
+    "en": {
+      "text": "They weren't at home",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Это было не так легко",
-    "en": "It wasn't so easy"
+    "id": 22,
+    "ru": {
+      "text": "Это было не так легко",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't so easy",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Это не было действительно важно",
-    "en": "It wasn't really important"
+    "id": 23,
+    "ru": {
+      "text": "Это не было действительно важно",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't really important",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Она не была удивлена",
-    "en": "She wasn't surprised"
+    "id": 24,
+    "ru": {
+      "text": "Она не была удивлена",
+      "audio": false
+    },
+    "en": {
+      "text": "She wasn't surprised",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Я не был готов",
-    "en": "I wasn't ready"
+    "id": 25,
+    "ru": {
+      "text": "Я не был готов",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't ready",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Мы не были дома",
-    "en": "We weren't at home"
+    "id": 26,
+    "ru": {
+      "text": "Мы не были дома",
+      "audio": false
+    },
+    "en": {
+      "text": "We weren't at home",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Это не было интересно ей",
-    "en": "It wasn't interesting for her"
+    "id": 27,
+    "ru": {
+      "text": "Это не было интересно ей",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't interesting for her",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Это не было сложно в начале",
-    "en": "It wasn't difficult in the beginning"
+    "id": 28,
+    "ru": {
+      "text": "Это не было сложно в начале",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't difficult in the beginning",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Эта шутка не была смешной",
-    "en": "This joke wasn't funny"
+    "id": 29,
+    "ru": {
+      "text": "Эта шутка не была смешной",
+      "audio": false
+    },
+    "en": {
+      "text": "This joke wasn't funny",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Это не было легко",
-    "en": "It wasn't easy"
+    "id": 30,
+    "ru": {
+      "text": "Это не было легко",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't easy",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Это не было сложно",
-    "en": "It wasn't difficult"
+    "id": 31,
+    "ru": {
+      "text": "Это не было сложно",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't difficult",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Я не устал вчера",
-    "en": "I wasn't tired yesterday"
+    "id": 32,
+    "ru": {
+      "text": "Я не устал вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't tired yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Это была не моя идея",
-    "en": "It wasn't my idea"
+    "id": 33,
+    "ru": {
+      "text": "Это была не моя идея",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't my idea",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Это было не интересно",
-    "en": "It wasn't interesting"
+    "id": 34,
+    "ru": {
+      "text": "Это было не интересно",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't interesting",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Я не был на работе вчера",
-    "en": "I wasn't at work yesterday"
+    "id": 35,
+    "ru": {
+      "text": "Я не был на работе вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I wasn't at work yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Он не устал вчера",
-    "en": "He wasn't tired yesterday"
+    "id": 36,
+    "ru": {
+      "text": "Он не устал вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "He wasn't tired yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Это видео не было смешным",
-    "en": "This video wasn't funny"
+    "id": 37,
+    "ru": {
+      "text": "Это видео не было смешным",
+      "audio": false
+    },
+    "en": {
+      "text": "This video wasn't funny",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Эта шутка не была такой смешной",
-    "en": "This joke wasn't so funny"
+    "id": 38,
+    "ru": {
+      "text": "Эта шутка не была такой смешной",
+      "audio": false
+    },
+    "en": {
+      "text": "This joke wasn't so funny",
+      "audio": false
+    }
   }
 ]

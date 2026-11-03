@@ -1,122 +1,266 @@
 [
   {
-    "_id": 1,
-    "ru": "Я не могу понять, о чем они говорят",
-    "en": "I can't understand what they're talking about"
+    "id": 1,
+    "ru": {
+      "text": "Я не могу понять, о чем они говорят",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't understand what they're talking about",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Он заработает эту сумму к следующему месяцу",
-    "en": "He will have earned this sum of money by next month"
+    "id": 2,
+    "ru": {
+      "text": "Он заработает эту сумму к следующему месяцу",
+      "audio": false
+    },
+    "en": {
+      "text": "He will have earned this sum of money by next month",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Что привлекло твое внимание?",
-    "en": "What attracted your attention?"
+    "id": 3,
+    "ru": {
+      "text": "Что привлекло твое внимание?",
+      "audio": false
+    },
+    "en": {
+      "text": "What attracted your attention?",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Как я вижу, я не могу здесь припарковаться",
-    "en": "As I see, I can't park here"
+    "id": 4,
+    "ru": {
+      "text": "Как я вижу, я не могу здесь припарковаться",
+      "audio": false
+    },
+    "en": {
+      "text": "As I see, I can't park here",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "В дверь ударили так сильно",
-    "en": "The door was hit so badly"
+    "id": 5,
+    "ru": {
+      "text": "В дверь ударили так сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "The door was hit so badly",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Она сказала мне, что заморозила овощи",
-    "en": "She told me that she had frozen the vegetables"
+    "id": 6,
+    "ru": {
+      "text": "Она сказала мне, что заморозила овощи",
+      "audio": false
+    },
+    "en": {
+      "text": "She told me that she had frozen the vegetables",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Два дерева упали и заблокировали дорогу",
-    "en": "Two trees fell and blocked the road"
+    "id": 7,
+    "ru": {
+      "text": "Два дерева упали и заблокировали дорогу",
+      "audio": false
+    },
+    "en": {
+      "text": "Two trees fell and blocked the road",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Это изобрели в прошлом веке",
-    "en": "It was invented in the last century"
+    "id": 8,
+    "ru": {
+      "text": "Это изобрели в прошлом веке",
+      "audio": false
+    },
+    "en": {
+      "text": "It was invented in the last century",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Когда я увидел его, он стоял там",
-    "en": "When I saw him, he was standing there"
+    "id": 9,
+    "ru": {
+      "text": "Когда я увидел его, он стоял там",
+      "audio": false
+    },
+    "en": {
+      "text": "When I saw him, he was standing there",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Она выяснила, что он столько раз лгал ей",
-    "en": "She found out that he had lied to her so many times"
+    "id": 10,
+    "ru": {
+      "text": "Она выяснила, что он столько раз лгал ей",
+      "audio": false
+    },
+    "en": {
+      "text": "She found out that he had lied to her so many times",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Это помогло мне сформировать свое мнение по этому вопросу",
-    "en": "It helped me from my opinion on this issue"
+    "id": 11,
+    "ru": {
+      "text": "Это помогло мне сформировать свое мнение по этому вопросу",
+      "audio": false
+    },
+    "en": {
+      "text": "It helped me from my opinion on this issue",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Его часто критикуют вовсе без какой-либо причины",
-    "en": "He's often criticized for no reason at all"
+    "id": 12,
+    "ru": {
+      "text": "Его часто критикуют вовсе без какой-либо причины",
+      "audio": false
+    },
+    "en": {
+      "text": "He's often criticized for no reason at all",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Он сказал, что готовится к экзамену два часа",
-    "en": "He said that he had been preparing for the test for two hours"
+    "id": 13,
+    "ru": {
+      "text": "Он сказал, что готовится к экзамену два часа",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had been preparing for the test for two hours",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Он сказал, что уже заплатил за это",
-    "en": "He said that he had already paid for it"
+    "id": 14,
+    "ru": {
+      "text": "Он сказал, что уже заплатил за это",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had already paid for it",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я только что нажал на эту ссылку",
-    "en": "I've just clicked on this link"
+    "id": 15,
+    "ru": {
+      "text": "Я только что нажал на эту ссылку",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just clicked on this link",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Его видели вчера там",
-    "en": "He was seen there yesterday"
+    "id": 16,
+    "ru": {
+      "text": "Его видели вчера там",
+      "audio": false
+    },
+    "en": {
+      "text": "He was seen there yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я приклеил кусочек бумаги",
-    "en": "I stuck this piece of paper"
+    "id": 17,
+    "ru": {
+      "text": "Я приклеил кусочек бумаги",
+      "audio": false
+    },
+    "en": {
+      "text": "I stuck this piece of paper",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Что ты намереваешься делать в этой ситуации?",
-    "en": "What do you intend to do in this situation?"
+    "id": 18,
+    "ru": {
+      "text": "Что ты намереваешься делать в этой ситуации?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do you intend to do in this situation?",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Я планирую навестить семью в конце недели",
-    "en": "I'm planning to visit my family at the end of the week"
+    "id": 19,
+    "ru": {
+      "text": "Я планирую навестить семью в конце недели",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm planning to visit my family at the end of the week",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Он повернулся, чтобы помахать ей, и она улыбнулась",
-    "en": "He turned to wave to her and she smiled"
+    "id": 20,
+    "ru": {
+      "text": "Он повернулся, чтобы помахать ей, и она улыбнулась",
+      "audio": false
+    },
+    "en": {
+      "text": "He turned to wave to her and she smiled",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Он сказал, что не будет путешествовать так часто",
-    "en": "He said that he wouldn't travel so often"
+    "id": 21,
+    "ru": {
+      "text": "Он сказал, что не будет путешествовать так часто",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he wouldn't travel so often",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Он сказал мне, что она стала очень известной",
-    "en": "He told me that she had become very famous"
+    "id": 22,
+    "ru": {
+      "text": "Он сказал мне, что она стала очень известной",
+      "audio": false
+    },
+    "en": {
+      "text": "He told me that she had become very famous",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Я только что отсканировал все документы",
-    "en": "I've just scanned all the documents"
+    "id": 23,
+    "ru": {
+      "text": "Я только что отсканировал все документы",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just scanned all the documents",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Как мне кажется, тебя неправильно поняли",
-    "en": "As it seems to me, you were misunderstood"
+    "id": 24,
+    "ru": {
+      "text": "Как мне кажется, тебя неправильно поняли",
+      "audio": false
+    },
+    "en": {
+      "text": "As it seems to me, you were misunderstood",
+      "audio": false
+    }
   }
 ]

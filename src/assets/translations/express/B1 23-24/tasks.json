@@ -1,102 +1,222 @@
 [
   {
-    "_id": 1,
-    "ru": "Этот текст будет переведен к завтрашнему",
-    "en": "This text will have been translated by tomorrow"
+    "id": 1,
+    "ru": {
+      "text": "Этот текст будет переведен к завтрашнему",
+      "audio": false
+    },
+    "en": {
+      "text": "This text will have been translated by tomorrow",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Как написано, этой игрушки требуется две батарейки",
-    "en": "As it's written, this toy requires two batteries"
+    "id": 2,
+    "ru": {
+      "text": "Как написано, этой игрушки требуется две батарейки",
+      "audio": false
+    },
+    "en": {
+      "text": "As it's written, this toy requires two batteries",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Как я вижу, мне нужно больше сосредоточиться на своей карьере",
-    "en": "As I see, I need to focus more on my career"
+    "id": 3,
+    "ru": {
+      "text": "Как я вижу, мне нужно больше сосредоточиться на своей карьере",
+      "audio": false
+    },
+    "en": {
+      "text": "As I see, I need to focus more on my career",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Он сказал, что это действительно шокировало его",
-    "en": "He said that it had really shocked him"
+    "id": 4,
+    "ru": {
+      "text": "Он сказал, что это действительно шокировало его",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that it had really shocked him",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Файлы были только что удалены",
-    "en": "The files have just been deleted"
+    "id": 5,
+    "ru": {
+      "text": "Файлы были только что удалены",
+      "audio": false
+    },
+    "en": {
+      "text": "The files have just been deleted",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Тебе нужно знать, что ты рискуешь все потерять",
-    "en": "You need to know that you risk losing everything"
+    "id": 6,
+    "ru": {
+      "text": "Тебе нужно знать, что ты рискуешь все потерять",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to know that you risk losing everything",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Как сообщалось, весь экипаж выжил",
-    "en": "As it was reported, all the crew had survived"
+    "id": 7,
+    "ru": {
+      "text": "Как сообщалось, весь экипаж выжил",
+      "audio": false
+    },
+    "en": {
+      "text": "As it was reported, all the crew had survived",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Меня только что спросили об этом",
-    "en": "I've just been asked about it"
+    "id": 8,
+    "ru": {
+      "text": "Меня только что спросили об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just been asked about it",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Встреча была отменена",
-    "en": "The meeting was cancelled"
+    "id": 9,
+    "ru": {
+      "text": "Встреча была отменена",
+      "audio": false
+    },
+    "en": {
+      "text": "The meeting was cancelled",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я не верю ему сейчас. Он просто притворяется",
-    "en": "I don't believe him now. He's just pretending"
+    "id": 10,
+    "ru": {
+      "text": "Я не верю ему сейчас. Он просто притворяется",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't believe him now. He's just pretending",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Он говорит, что ему не нравится такого рода обращение",
-    "en": "He says that he dislikes this kind of treatment"
+    "id": 11,
+    "ru": {
+      "text": "Он говорит, что ему не нравится такого рода обращение",
+      "audio": false
+    },
+    "en": {
+      "text": "He says that he dislikes this kind of treatment",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Он еще не восстановился от этой болезни",
-    "en": "He hasn't recovered from this disease yet"
+    "id": 12,
+    "ru": {
+      "text": "Он еще не восстановился от этой болезни",
+      "audio": false
+    },
+    "en": {
+      "text": "He hasn't recovered from this disease yet",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Сказали, что здание было повреждено очень сильно",
-    "en": "It was said that the building had been damaged very badly"
+    "id": 13,
+    "ru": {
+      "text": "Сказали, что здание было повреждено очень сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "It was said that the building had been damaged very badly",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я не думаю, эта вещь действительно имеет значение сейчас",
-    "en": "I don't think this thing really matters now"
+    "id": 14,
+    "ru": {
+      "text": "Я не думаю, эта вещь действительно имеет значение сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think this thing really matters now",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Она сказала, что попытается простить его",
-    "en": "She said that she would try to forgive him"
+    "id": 15,
+    "ru": {
+      "text": "Она сказала, что попытается простить его",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that she would try to forgive him",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Он был назван в честь своего отца",
-    "en": "He was named after his father"
+    "id": 16,
+    "ru": {
+      "text": "Он был назван в честь своего отца",
+      "audio": false
+    },
+    "en": {
+      "text": "He was named after his father",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я должен добавить, что мне удалось сдать тест",
-    "en": "I have to add that I succeeded in passing the test"
+    "id": 17,
+    "ru": {
+      "text": "Я должен добавить, что мне удалось сдать тест",
+      "audio": false
+    },
+    "en": {
+      "text": "I have to add that I succeeded in passing the test",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Им легко манипулировать",
-    "en": "He's easily manipulated"
+    "id": 18,
+    "ru": {
+      "text": "Им легко манипулировать",
+      "audio": false
+    },
+    "en": {
+      "text": "He's easily manipulated",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Если ты не поторопишься, ты можешь пропустить автобус",
-    "en": "If you don't hurry up, you can miss the bus"
+    "id": 19,
+    "ru": {
+      "text": "Если ты не поторопишься, ты можешь пропустить автобус",
+      "audio": false
+    },
+    "en": {
+      "text": "If you don't hurry up, you can miss the bus",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Его ценят и любят",
-    "en": "He's valued and loved"
+    "id": 20,
+    "ru": {
+      "text": "Его ценят и любят",
+      "audio": false
+    },
+    "en": {
+      "text": "He's valued and loved",
+      "audio": false
+    }
   }
 ]

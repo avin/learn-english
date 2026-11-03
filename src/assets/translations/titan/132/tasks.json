@@ -1,462 +1,1014 @@
 [
   {
-    "_id": 1,
-    "ru": "Ему нужно извиниться за это",
-    "en": "He needs to apologize for it"
-  },
-  {
-    "_id": 2,
-    "ru": "Ты всегда можешь положиться на меня",
-    "en": "You can always rely on me"
-  },
-  {
-    "_id": 3,
-    "ru": "Когда ты вернешься домой?",
-    "en": "When will you return home?"
-  },
-  {
-    "_id": 4,
-    "ru": "Я часто путаю эти слова",
-    "en": "I often confuse these words"
-  },
-  {
-    "_id": 5,
-    "ru": "Я хотел бы добавить одну очень важную вещь",
-    "en": "I would like to add one very important thing"
-  },
-  {
-    "_id": 6,
-    "ru": "Она скоро вернется в Соединенные Штаты",
-    "en": "She will return to the United States soon"
-  },
-  {
-    "_id": 7,
-    "ru": "Не забудь взять свою сумку!",
-    "en": "Don't forget to take your bag!"
-  },
-  {
-    "_id": 8,
-    "ru": "К счастью, самолет благополучно приземлился",
-    "en": "Luckily, the plane landed safely"
-  },
-  {
-    "_id": 9,
-    "ru": "Ты собираешься праздновать свой день рождения?",
-    "en": "Are you going to celebrate your birthday?"
-  },
-  {
-    "_id": 10,
-    "ru": "Твой энтузиазм действительно вдохновляет меня",
-    "en": "Your enthusiasm really inspires me"
-  },
-  {
-    "_id": 11,
-    "ru": "Пирог такой сладкий на вкус",
-    "en": "The pie tastes so sweet"
-  },
-  {
-    "_id": 12,
-    "ru": "Эта речь действительно вдохновила меня",
-    "en": "This speech really inspired me"
-  },
-  {
-    "_id": 13,
-    "ru": "Он выбрал первый ответ",
-    "en": "He chose the first answer"
-  },
-  {
-    "_id": 14,
-    "ru": "Я могу на него положиться?",
-    "en": "Can I rely on him?"
-  },
-  {
-    "_id": 15,
-    "ru": "Ты можешь делать то, что тебе нравится",
-    "en": "You can do what you like"
-  },
-  {
-    "_id": 16,
-    "ru": "Не путай эти понятия!",
-    "en": "Don't confuse these notions!"
-  },
-  {
-    "_id": 17,
-    "ru": "Я должен сказать это сейчас",
-    "en": "I must say it now"
-  },
-  {
-    "_id": 18,
-    "ru": "Мне нужно это рассчитать",
-    "en": "I need to calculate it"
-  },
-  {
-    "_id": 19,
-    "ru": "Ты можешь поискать это онлайн",
-    "en": "You can search for it online"
-  },
-  {
-    "_id": 20,
-    "ru": "Они решили отпраздновать эту победу",
-    "en": "They decided to celebrate this victory"
-  },
-  {
-    "_id": 21,
-    "ru": "Кто его разбудил?",
-    "en": "Who woke him up?"
-  },
-  {
-    "_id": 22,
-    "ru": "Посмотри на это сейчас!",
-    "en": "Look at it now!"
-  },
-  {
-    "_id": 23,
-    "ru": "Он держал очень тяжелую коробку",
-    "en": "He was holding a very heavy box"
-  },
-  {
-    "_id": 24,
-    "ru": "Это может случиться в будущем",
-    "en": "It might happen in the future"
-  },
-  {
-    "_id": 25,
-    "ru": "Это предложение звучит действительно странно",
-    "en": "This offer sounds really strange"
-  },
-  {
-    "_id": 26,
-    "ru": "Что ты мне рассказываешь?",
-    "en": "What are you telling me?"
-  },
-  {
-    "_id": 27,
-    "ru": "Он может опоздать",
-    "en": "He might be late"
-  },
-  {
-    "_id": 28,
-    "ru": "Ты мог бы помочь решить эту проблему?",
-    "en": "Could you help to solve this problem?"
-  },
-  {
-    "_id": 29,
-    "ru": "Мы все знаем, что вкусы отличаются",
-    "en": "We all know that tastes differ"
-  },
-  {
-    "_id": 30,
-    "ru": "Я хочу рассчитать это более точно",
-    "en": "I want to calculate it more accurately"
-  },
-  {
-    "_id": 31,
-    "ru": "Тебе нужно уважать других людей",
-    "en": "You need to respect other people"
-  },
-  {
-    "_id": 32,
-    "ru": "Твой английский звучит очень естественно",
-    "en": "Your English sounds very natural"
-  },
-  {
-    "_id": 33,
-    "ru": "Я мог бы делать это весь день",
-    "en": "I could do it all day"
-  },
-  {
-    "_id": 34,
-    "ru": "Этот процесс может занять около года или даже больше",
-    "en": "This process can take about a year or even more"
-  },
-  {
-    "_id": 35,
-    "ru": "Я искал это онлайн",
-    "en": "I was searching for it online"
-  },
-  {
-    "_id": 36,
-    "ru": "Я представлю тебя ей завтра",
-    "en": "I will introduce you to her tomorrow"
-  },
-  {
-    "_id": 37,
-    "ru": "Давай продолжим говорить об этом!",
-    "en": "Let's continue talking about it!"
-  },
-  {
-    "_id": 38,
-    "ru": "Я могу повторить этот вопрос, если тебе это нужно",
-    "en": "I can repeat this question if you need it"
-  },
-  {
-    "_id": 39,
-    "ru": "Суп на вкус соленый",
-    "en": "The soup tastes salty"
-  },
-  {
-    "_id": 40,
-    "ru": "Он будет ехать на работу завтра в это время",
-    "en": "He will be driving to work this time tomorrow"
-  },
-  {
-    "_id": 41,
-    "ru": "Это была настоящая катастрофа, но ей удалось выжить",
-    "en": "It was a real disaster but she managed to survive"
-  },
-  {
-    "_id": 42,
-    "ru": "Я впервые посетил Соединенные Штаты три года назад",
-    "en": "I first visited the United States three years ago"
-  },
-  {
-    "_id": 43,
-    "ru": "Он обнаружил, что кто-то украл его портфель",
-    "en": "He discovered that someone had stolen his briefcase"
-  },
-  {
-    "_id": 44,
-    "ru": "Я еще не ответил на все вопросы",
-    "en": "I haven't answered all the questions yet"
-  },
-  {
-    "_id": 45,
-    "ru": "Он не опоздает, если кто-то его разбудит",
-    "en": "He won't be late if someone wakes him up"
-  },
-  {
-    "_id": 46,
-    "ru": "Он ищет работу долгое время",
-    "en": "He has been looking for a job for a long time"
-  },
-  {
-    "_id": 47,
-    "ru": "Самолет еще не приземлился",
-    "en": "The plane hasn't landed yet"
-  },
-  {
-    "_id": 48,
-    "ru": "Мне удалось получить эти билеты",
-    "en": "I succeeded in getting these tickets"
-  },
-  {
-    "_id": 49,
-    "ru": "Как долго ты готовишь?",
-    "en": "How long have you been cooking?"
-  },
-  {
-    "_id": 50,
-    "ru": "Он попросил меня повторить этот вопрос",
-    "en": "He asked me to repeat this question"
-  },
-  {
-    "_id": 51,
-    "ru": "Как бы ты ответил на этот вопрос?",
-    "en": "How would you answer this question?"
-  },
-  {
-    "_id": 52,
-    "ru": "Как ты ответил на этот вопрос?",
-    "en": "How did you answer this question?"
-  },
-  {
-    "_id": 53,
-    "ru": "Ты мог бы ответить на этот вопрос?",
-    "en": "Could you answer the question?"
-  },
-  {
-    "_id": 54,
-    "ru": "Я сделал все возможное, чтобы сделать все правильно",
-    "en": "I did my best to do everything properly"
-  },
-  {
-    "_id": 55,
-    "ru": "Я сделал все возможное, чтобы добраться туда вовремя",
-    "en": "I did my best to get there on time"
-  },
-  {
-    "_id": 56,
-    "ru": "Я никогда не мечтал об этом",
-    "en": "I have never dreamt about it"
-  },
-  {
-    "_id": 57,
-    "ru": "Ты когда-нибудь мечтал об этом?",
-    "en": "Have you ever dreamt about it?"
-  },
-  {
-    "_id": 58,
-    "ru": "Я никогда не думал об этом",
-    "en": "I have never thought about it"
-  },
-  {
-    "_id": 59,
-    "ru": "Я знаю, что он думает иначе",
-    "en": "I know that he thinks otherwise"
-  },
-  {
-    "_id": 60,
-    "ru": "Я знаю, что он думает так же",
-    "en": "I know that he thinks the same"
-  },
-  {
-    "_id": 61,
-    "ru": "Я знаю, что он сейчас делает",
-    "en": "I know what he is doing now"
-  },
-  {
-    "_id": 62,
-    "ru": "Она уже все мне рассказала",
-    "en": "She has already told me everything"
-  },
-  {
-    "_id": 63,
-    "ru": "Она мне еще ничего не рассказала",
-    "en": "She hasn't told me anything yet"
-  },
-  {
-    "_id": 64,
-    "ru": "Она уже кое-что мне рассказала",
-    "en": "She has already told me something"
-  },
-  {
-    "_id": 65,
-    "ru": "Этот город часто посещают туристы",
-    "en": "This city is often visited by tourists"
-  },
-  {
-    "_id": 66,
-    "ru": "Этот город известен своей природой",
-    "en": "This city is famous for its nature"
-  },
-  {
-    "_id": 67,
-    "ru": "Этот город очень популярен среди туристов",
-    "en": "This city is very popular among tourists"
-  },
-  {
-    "_id": 68,
-    "ru": "Я готовлю двадцать минут",
-    "en": "I have been cooking for twenty minutes"
-  },
-  {
-    "_id": 69,
-    "ru": "Я сплю весь день",
-    "en": "I have been sleeping all day"
-  },
-  {
-    "_id": 70,
-    "ru": "Я готовлю несколько часов",
-    "en": "I have been cooking for some hours"
-  },
-  {
-    "_id": 71,
-    "ru": "Они только что объявили об этом",
-    "en": "They have just announced it"
-  },
-  {
-    "_id": 72,
-    "ru": "Они еще не объявили об этом",
-    "en": "They haven't announced it yet"
-  },
-  {
-    "_id": 73,
-    "ru": "Они только что нашли это",
-    "en": "They have just found it"
-  },
-  {
-    "_id": 74,
-    "ru": "Я не думаю, что он сдержит свое обещание",
-    "en": "I don't think that he will keep his promise"
-  },
-  {
-    "_id": 75,
-    "ru": "Я не думаю, что он сделает это вовремя",
-    "en": "I don't think that he will do it on time"
-  },
-  {
-    "_id": 76,
-    "ru": "Я надеюсь, что он сдержит свое обещание",
-    "en": "I hope that he will keep his promise"
-  },
-  {
-    "_id": 77,
-    "ru": "Мне удалось справиться с этими трудностями",
-    "en": "I succeeded in coping with these difficulties"
-  },
-  {
-    "_id": 78,
-    "ru": "Мне удалось справиться с этими трудностями",
-    "en": "I managed to cope with these difficulties"
-  },
-  {
-    "_id": 79,
-    "ru": "Я не мог справиться с этими трудностями",
-    "en": "I couldn't cope with these difficulties"
-  },
-  {
-    "_id": 80,
-    "ru": "Он уже прибыл туда?",
-    "en": "Has he already arrived there?"
-  },
-  {
-    "_id": 81,
-    "ru": "Его уважают и ценят",
-    "en": "He is respected and valued"
-  },
-  {
-    "_id": 82,
-    "ru": "Я буду ждать, пока он не прибудет",
-    "en": "I will wait until he arrives"
-  },
-  {
-    "_id": 83,
-    "ru": "Я знаю, что я не должен терять время",
-    "en": "I know that I mustn't waste time"
-  },
-  {
-    "_id": 84,
-    "ru": "Он сказал, что извинился за это",
-    "en": "He said that he had apologized for it"
-  },
-  {
-    "_id": 85,
-    "ru": "Что бы ты хотел добавить?",
-    "en": "What would you like to add?"
-  },
-  {
-    "_id": 86,
-    "ru": "Когда я увидел ее, она держала ребенка на руках",
-    "en": "When I saw her, she was holding the baby in her arms"
-  },
-  {
-    "_id": 87,
-    "ru": "Ведя машину так неосторожно, он рискует своей жизнью",
-    "en": "Driving so carelessly he risks his life"
-  },
-  {
-    "_id": 88,
-    "ru": "Это было объявлено минуту назад",
-    "en": "It was announced a minute ago"
-  },
-  {
-    "_id": 89,
-    "ru": "Он говорит, что он добавит это слово",
-    "en": "He says that he will add this word"
-  },
-  {
-    "_id": 90,
-    "ru": "Я думаю, тебе следует бросить курить",
-    "en": "I think you should stop smoking"
-  },
-  {
-    "_id": 91,
-    "ru": "Она была представлена мне",
-    "en": "She was introduced to me"
-  },
-  {
-    "_id": 92,
-    "ru": "Я всегда мечтал об этом",
-    "en": "I have always dreamt about it"
+    "id": 1,
+    "ru": {
+      "text": "Ему нужно извиниться за это",
+      "audio": false
+    },
+    "en": {
+      "text": "He needs to apologize for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Ты всегда можешь положиться на меня",
+      "audio": false
+    },
+    "en": {
+      "text": "You can always rely on me",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Когда ты вернешься домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you return home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я часто путаю эти слова",
+      "audio": false
+    },
+    "en": {
+      "text": "I often confuse these words",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я хотел бы добавить одну очень важную вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "I would like to add one very important thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Она скоро вернется в Соединенные Штаты",
+      "audio": false
+    },
+    "en": {
+      "text": "She will return to the United States soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Не забудь взять свою сумку!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't forget to take your bag!",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "К счастью, самолет благополучно приземлился",
+      "audio": false
+    },
+    "en": {
+      "text": "Luckily, the plane landed safely",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Ты собираешься праздновать свой день рождения?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you going to celebrate your birthday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Твой энтузиазм действительно вдохновляет меня",
+      "audio": false
+    },
+    "en": {
+      "text": "Your enthusiasm really inspires me",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Пирог такой сладкий на вкус",
+      "audio": false
+    },
+    "en": {
+      "text": "The pie tastes so sweet",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Эта речь действительно вдохновила меня",
+      "audio": false
+    },
+    "en": {
+      "text": "This speech really inspired me",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он выбрал первый ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "He chose the first answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я могу на него положиться?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can I rely on him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Ты можешь делать то, что тебе нравится",
+      "audio": false
+    },
+    "en": {
+      "text": "You can do what you like",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Не путай эти понятия!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't confuse these notions!",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я должен сказать это сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I must say it now",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Мне нужно это рассчитать",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to calculate it",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Ты можешь поискать это онлайн",
+      "audio": false
+    },
+    "en": {
+      "text": "You can search for it online",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Они решили отпраздновать эту победу",
+      "audio": false
+    },
+    "en": {
+      "text": "They decided to celebrate this victory",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Кто его разбудил?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who woke him up?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Посмотри на это сейчас!",
+      "audio": false
+    },
+    "en": {
+      "text": "Look at it now!",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он держал очень тяжелую коробку",
+      "audio": false
+    },
+    "en": {
+      "text": "He was holding a very heavy box",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Это может случиться в будущем",
+      "audio": false
+    },
+    "en": {
+      "text": "It might happen in the future",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Это предложение звучит действительно странно",
+      "audio": false
+    },
+    "en": {
+      "text": "This offer sounds really strange",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Что ты мне рассказываешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you telling me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Он может опоздать",
+      "audio": false
+    },
+    "en": {
+      "text": "He might be late",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Ты мог бы помочь решить эту проблему?",
+      "audio": false
+    },
+    "en": {
+      "text": "Could you help to solve this problem?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Мы все знаем, что вкусы отличаются",
+      "audio": false
+    },
+    "en": {
+      "text": "We all know that tastes differ",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я хочу рассчитать это более точно",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to calculate it more accurately",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Тебе нужно уважать других людей",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to respect other people",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Твой английский звучит очень естественно",
+      "audio": false
+    },
+    "en": {
+      "text": "Your English sounds very natural",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я мог бы делать это весь день",
+      "audio": false
+    },
+    "en": {
+      "text": "I could do it all day",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Этот процесс может занять около года или даже больше",
+      "audio": false
+    },
+    "en": {
+      "text": "This process can take about a year or even more",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я искал это онлайн",
+      "audio": false
+    },
+    "en": {
+      "text": "I was searching for it online",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я представлю тебя ей завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I will introduce you to her tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Давай продолжим говорить об этом!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let's continue talking about it!",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Я могу повторить этот вопрос, если тебе это нужно",
+      "audio": false
+    },
+    "en": {
+      "text": "I can repeat this question if you need it",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Суп на вкус соленый",
+      "audio": false
+    },
+    "en": {
+      "text": "The soup tastes salty",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Он будет ехать на работу завтра в это время",
+      "audio": false
+    },
+    "en": {
+      "text": "He will be driving to work this time tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Это была настоящая катастрофа, но ей удалось выжить",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a real disaster but she managed to survive",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я впервые посетил Соединенные Штаты три года назад",
+      "audio": false
+    },
+    "en": {
+      "text": "I first visited the United States three years ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Он обнаружил, что кто-то украл его портфель",
+      "audio": false
+    },
+    "en": {
+      "text": "He discovered that someone had stolen his briefcase",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я еще не ответил на все вопросы",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't answered all the questions yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Он не опоздает, если кто-то его разбудит",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't be late if someone wakes him up",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Он ищет работу долгое время",
+      "audio": false
+    },
+    "en": {
+      "text": "He has been looking for a job for a long time",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Самолет еще не приземлился",
+      "audio": false
+    },
+    "en": {
+      "text": "The plane hasn't landed yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Мне удалось получить эти билеты",
+      "audio": false
+    },
+    "en": {
+      "text": "I succeeded in getting these tickets",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Как долго ты готовишь?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long have you been cooking?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он попросил меня повторить этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "He asked me to repeat this question",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Как бы ты ответил на этот вопрос?",
+      "audio": false
+    },
+    "en": {
+      "text": "How would you answer this question?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Как ты ответил на этот вопрос?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you answer this question?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Ты мог бы ответить на этот вопрос?",
+      "audio": false
+    },
+    "en": {
+      "text": "Could you answer the question?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я сделал все возможное, чтобы сделать все правильно",
+      "audio": false
+    },
+    "en": {
+      "text": "I did my best to do everything properly",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я сделал все возможное, чтобы добраться туда вовремя",
+      "audio": false
+    },
+    "en": {
+      "text": "I did my best to get there on time",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я никогда не мечтал об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never dreamt about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Ты когда-нибудь мечтал об этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever dreamt about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я никогда не думал об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never thought about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я знаю, что он думает иначе",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that he thinks otherwise",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я знаю, что он думает так же",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that he thinks the same",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я знаю, что он сейчас делает",
+      "audio": false
+    },
+    "en": {
+      "text": "I know what he is doing now",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Она уже все мне рассказала",
+      "audio": false
+    },
+    "en": {
+      "text": "She has already told me everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Она мне еще ничего не рассказала",
+      "audio": false
+    },
+    "en": {
+      "text": "She hasn't told me anything yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Она уже кое-что мне рассказала",
+      "audio": false
+    },
+    "en": {
+      "text": "She has already told me something",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Этот город часто посещают туристы",
+      "audio": false
+    },
+    "en": {
+      "text": "This city is often visited by tourists",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Этот город известен своей природой",
+      "audio": false
+    },
+    "en": {
+      "text": "This city is famous for its nature",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Этот город очень популярен среди туристов",
+      "audio": false
+    },
+    "en": {
+      "text": "This city is very popular among tourists",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я готовлю двадцать минут",
+      "audio": false
+    },
+    "en": {
+      "text": "I have been cooking for twenty minutes",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я сплю весь день",
+      "audio": false
+    },
+    "en": {
+      "text": "I have been sleeping all day",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я готовлю несколько часов",
+      "audio": false
+    },
+    "en": {
+      "text": "I have been cooking for some hours",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Они только что объявили об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "They have just announced it",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Они еще не объявили об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "They haven't announced it yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Они только что нашли это",
+      "audio": false
+    },
+    "en": {
+      "text": "They have just found it",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я не думаю, что он сдержит свое обещание",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that he will keep his promise",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я не думаю, что он сделает это вовремя",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that he will do it on time",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я надеюсь, что он сдержит свое обещание",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope that he will keep his promise",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Мне удалось справиться с этими трудностями",
+      "audio": false
+    },
+    "en": {
+      "text": "I succeeded in coping with these difficulties",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Мне удалось справиться с этими трудностями",
+      "audio": false
+    },
+    "en": {
+      "text": "I managed to cope with these difficulties",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Я не мог справиться с этими трудностями",
+      "audio": false
+    },
+    "en": {
+      "text": "I couldn't cope with these difficulties",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Он уже прибыл туда?",
+      "audio": false
+    },
+    "en": {
+      "text": "Has he already arrived there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Его уважают и ценят",
+      "audio": false
+    },
+    "en": {
+      "text": "He is respected and valued",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я буду ждать, пока он не прибудет",
+      "audio": false
+    },
+    "en": {
+      "text": "I will wait until he arrives",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я знаю, что я не должен терять время",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that I mustn't waste time",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Он сказал, что извинился за это",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had apologized for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Что бы ты хотел добавить?",
+      "audio": false
+    },
+    "en": {
+      "text": "What would you like to add?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Когда я увидел ее, она держала ребенка на руках",
+      "audio": false
+    },
+    "en": {
+      "text": "When I saw her, she was holding the baby in her arms",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Ведя машину так неосторожно, он рискует своей жизнью",
+      "audio": false
+    },
+    "en": {
+      "text": "Driving so carelessly he risks his life",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Это было объявлено минуту назад",
+      "audio": false
+    },
+    "en": {
+      "text": "It was announced a minute ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Он говорит, что он добавит это слово",
+      "audio": false
+    },
+    "en": {
+      "text": "He says that he will add this word",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Я думаю, тебе следует бросить курить",
+      "audio": false
+    },
+    "en": {
+      "text": "I think you should stop smoking",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Она была представлена мне",
+      "audio": false
+    },
+    "en": {
+      "text": "She was introduced to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Я всегда мечтал об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I have always dreamt about it",
+      "audio": false
+    }
   }
 ]

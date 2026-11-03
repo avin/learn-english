@@ -1,502 +1,1102 @@
 [
   {
-    "_id": 1,
-    "ru": "Я хороший специалист?",
-    "en": "Am I a good specialist?"
-  },
-  {
-    "_id": 2,
-    "ru": "Они хорошие студенты?",
-    "en": "Are they good students?"
-  },
-  {
-    "_id": 3,
-    "ru": "Это традиционная еда?",
-    "en": "Is it traditional food?"
-  },
-  {
-    "_id": 4,
-    "ru": "Это дешевая вещь?",
-    "en": "Is it a cheap thing?"
-  },
-  {
-    "_id": 5,
-    "ru": "Это официальный документ?",
-    "en": "Is it an official document?"
-  },
-  {
-    "_id": 6,
-    "ru": "Это шумное место?",
-    "en": "Is it a noisy place?"
-  },
-  {
-    "_id": 7,
-    "ru": "Это традиционный метод?",
-    "en": "Is it a traditional method?"
-  },
-  {
-    "_id": 8,
-    "ru": "Ты сейчас в Америке?",
-    "en": "Are you in America now?"
-  },
-  {
-    "_id": 9,
-    "ru": "Он из Бразилии?",
-    "en": "Is he from Brazil?"
-  },
-  {
-    "_id": 10,
-    "ru": "Они сестры?",
-    "en": "Are they sisters?"
-  },
-  {
-    "_id": 11,
-    "ru": "Он твой двоюродный брат?",
-    "en": "Is he your cousin?"
-  },
-  {
-    "_id": 12,
-    "ru": "Это лучший ресторан в этой области?",
-    "en": "Is it the best restaurant in this area?"
-  },
-  {
-    "_id": 13,
-    "ru": "Он британец?",
-    "en": "Is he British?"
-  },
-  {
-    "_id": 14,
-    "ru": "Это голубая ручка?",
-    "en": "Is it a blue pen?"
-  },
-  {
-    "_id": 15,
-    "ru": "Они американцы?",
-    "en": "Are they Americans?"
-  },
-  {
-    "_id": 16,
-    "ru": "Это его родной язык?",
-    "en": "Is it his mother tongue?"
-  },
-  {
-    "_id": 17,
-    "ru": "Они хорошие специалисты?",
-    "en": "Are they good specialists?"
-  },
-  {
-    "_id": 18,
-    "ru": "Это старое здание?",
-    "en": "Is it an old building?"
-  },
-  {
-    "_id": 19,
-    "ru": "Ты действительно серьезно?",
-    "en": "Are you really serious?"
-  },
-  {
-    "_id": 20,
-    "ru": "Это твое любимое блюдо?",
-    "en": "Is it your favourite dish?"
-  },
-  {
-    "_id": 21,
-    "ru": "Это важная вещь?",
-    "en": "Is it an important thing?"
-  },
-  {
-    "_id": 22,
-    "ru": "Он хороший специалист?",
-    "en": "Is he a good specialist?"
-  },
-  {
-    "_id": 23,
-    "ru": "Это бесплатно или нет?",
-    "en": "Is it free or not?"
-  },
-  {
-    "_id": 24,
-    "ru": "Они высокие мальчики?",
-    "en": "Are they tall boys?"
-  },
-  {
-    "_id": 25,
-    "ru": "Это хороший результат для тебя?",
-    "en": "Is it a good result for you?"
-  },
-  {
-    "_id": 26,
-    "ru": "Это высокий уровень?",
-    "en": "Is it a high level?"
-  },
-  {
-    "_id": 27,
-    "ru": "Он твой любимый певец?",
-    "en": "Is he your favourite singer?"
-  },
-  {
-    "_id": 28,
-    "ru": "Это твой родной язык?",
-    "en": "Is it your mother tongue?"
-  },
-  {
-    "_id": 29,
-    "ru": "Это длинная история?",
-    "en": "Is it a long story?"
-  },
-  {
-    "_id": 30,
-    "ru": "Он твой брат?",
-    "en": "Is he your brother?"
-  },
-  {
-    "_id": 31,
-    "ru": "Это хорошая идея?",
-    "en": "Is it a good idea?"
-  },
-  {
-    "_id": 32,
-    "ru": "Ты из Испании?",
-    "en": "Are you from Spain?"
-  },
-  {
-    "_id": 33,
-    "ru": "Он холост?",
-    "en": "Is he single?"
-  },
-  {
-    "_id": 34,
-    "ru": "Это тихое место?",
-    "en": "Is it a quiet place?"
-  },
-  {
-    "_id": 35,
-    "ru": "Они братья?",
-    "en": "Are they brothers?"
-  },
-  {
-    "_id": 36,
-    "ru": "Это твой любимый фильм?",
-    "en": "Is it your favourite movie?"
-  },
-  {
-    "_id": 37,
-    "ru": "Он испанец?",
-    "en": "Is he Spanish?"
-  },
-  {
-    "_id": 38,
-    "ru": "Это другой пример?",
-    "en": "Is it a different example?"
-  },
-  {
-    "_id": 39,
-    "ru": "Это тяжелая коробка?",
-    "en": "Is it a heavy box?"
-  },
-  {
-    "_id": 40,
-    "ru": "Ты офлайн сейчас?",
-    "en": "Are you offline now?"
-  },
-  {
-    "_id": 41,
-    "ru": "Они твои двоюродные братья?",
-    "en": "Are they your cousins?"
-  },
-  {
-    "_id": 42,
-    "ru": "Ты онлайн сейчас?",
-    "en": "Are you online now?"
-  },
-  {
-    "_id": 43,
-    "ru": "Это черный карандаш?",
-    "en": "Is it a black pencil?"
-  },
-  {
-    "_id": 44,
-    "ru": "Это неважная вещь?",
-    "en": "Is it an unimportant thing?"
-  },
-  {
-    "_id": 45,
-    "ru": "Тебя интересуют иностранные языки?",
-    "en": "Are you interested in foreign languages?"
-  },
-  {
-    "_id": 46,
-    "ru": "Ты действительно шокирован?",
-    "en": "Are you really shocked?"
-  },
-  {
-    "_id": 47,
-    "ru": "Это для тебя большое достижение?",
-    "en": "Is it a big achievement for you?"
-  },
-  {
-    "_id": 48,
-    "ru": "Ты действительно уверен в этом?",
-    "en": "Are you really sure about it?"
-  },
-  {
-    "_id": 49,
-    "ru": "Это далеко или близко?",
-    "en": "Is it far or near?"
-  },
-  {
-    "_id": 50,
-    "ru": "Ты действительно удивлен?",
-    "en": "Are you really surprised?"
-  },
-  {
-    "_id": 51,
-    "ru": "Это недорогие часы?",
-    "en": "Is it an inexpensive watch?"
-  },
-  {
-    "_id": 52,
-    "ru": "Ты гордишься своими достижениями?",
-    "en": "Are you proud of your achievements?"
-  },
-  {
-    "_id": 53,
-    "ru": "Это действительно необходимо сделать завтра?",
-    "en": "Is it really necessary to do it tomorrow?"
-  },
-  {
-    "_id": 54,
-    "ru": "Он действительно устал от этого?",
-    "en": "Is he really tired of it?"
-  },
-  {
-    "_id": 55,
-    "ru": "Это полезное приложение?",
-    "en": "Is it a useful application?"
-  },
-  {
-    "_id": 56,
-    "ru": "Они рядом с этим местом?",
-    "en": "Are they near this place?"
-  },
-  {
-    "_id": 57,
-    "ru": "Это необходимо сделать?",
-    "en": "Is it necessary to do?"
-  },
-  {
-    "_id": 58,
-    "ru": "Это рядом с тем местом?",
-    "en": "Is it near that place?"
-  },
-  {
-    "_id": 59,
-    "ru": "Ты действительно устал?",
-    "en": "Are you really tired?"
-  },
-  {
-    "_id": 60,
-    "ru": "Ты устал?",
-    "en": "Are you tired?"
-  },
-  {
-    "_id": 61,
-    "ru": "Он действительно устал?",
-    "en": "Is he really tired?"
-  },
-  {
-    "_id": 62,
-    "ru": "Это слева?",
-    "en": "Is it on the left?"
-  },
-  {
-    "_id": 63,
-    "ru": "Это справа?",
-    "en": "Is it on the right?"
-  },
-  {
-    "_id": 64,
-    "ru": "Это с левой стороны стола?",
-    "en": "Is it on the left side of the table?"
-  },
-  {
-    "_id": 65,
-    "ru": "Они заинтересованы в этом проекте?",
-    "en": "Are they interested in this project?"
-  },
-  {
-    "_id": 66,
-    "ru": "Он заинтересован в этом проекте?",
-    "en": "Is he interested in this project?"
-  },
-  {
-    "_id": 67,
-    "ru": "Ты заинтересован в этой работе?",
-    "en": "Are you interested in this job?"
-  },
-  {
-    "_id": 68,
-    "ru": "Это неверно?",
-    "en": "Is it incorrect?"
-  },
-  {
-    "_id": 69,
-    "ru": "Этот ответ неверный?",
-    "en": "Is this answer incorrect?"
-  },
-  {
-    "_id": 70,
-    "ru": "Это действительно верно?",
-    "en": "Is it really correct?"
-  },
-  {
-    "_id": 71,
-    "ru": "Он носитель английского языка?",
-    "en": "Is he a native speaker of English?"
-  },
-  {
-    "_id": 72,
-    "ru": "Они носители английского языка?",
-    "en": "Are they native speakers of English?"
-  },
-  {
-    "_id": 73,
-    "ru": "Ты носитель английского языка?",
-    "en": "Are you a native speaker of English?"
-  },
-  {
-    "_id": 74,
-    "ru": "Это верно или нет?",
-    "en": "Is it correct or not?"
-  },
-  {
-    "_id": 75,
-    "ru": "Это верно?",
-    "en": "Is it correct?"
-  },
-  {
-    "_id": 76,
-    "ru": "Он очень осторожный водитель?",
-    "en": "Is he a very careful driver?"
-  },
-  {
-    "_id": 77,
-    "ru": "Ты осторожный водитель?",
-    "en": "Are you a careful driver?"
-  },
-  {
-    "_id": 78,
-    "ru": "Они очень осторожные водители?",
-    "en": "Are they very careful drivers?"
-  },
-  {
-    "_id": 79,
-    "ru": "Это полезная вещь?",
-    "en": "Is it a useful thing?"
-  },
-  {
-    "_id": 80,
-    "ru": "Это хорошая вещь?",
-    "en": "Is it a good thing?"
-  },
-  {
-    "_id": 81,
-    "ru": "Он гордится этим успехом?",
-    "en": "Is he proud of this success?"
-  },
-  {
-    "_id": 82,
-    "ru": "Ты гордишься своим успехом?",
-    "en": "Are you proud of your success?"
-  },
-  {
-    "_id": 83,
-    "ru": "Ты гордишься своей матерью?",
-    "en": "Are you proud of your mother?"
-  },
-  {
-    "_id": 84,
-    "ru": "Ты также заинтересован в этом?",
-    "en": "Are you also interested in it?"
-  },
-  {
-    "_id": 85,
-    "ru": "Они также заинтересованы в этом?",
-    "en": "Are they also interested in it?"
-  },
-  {
-    "_id": 86,
-    "ru": "Она также заинтересована в этом?",
-    "en": "Is she also interested in it?"
-  },
-  {
-    "_id": 87,
-    "ru": "Он женат на ней?",
-    "en": "Is he married to her?"
-  },
-  {
-    "_id": 88,
-    "ru": "Она заинтересована в музыке?",
-    "en": "Is she interested in music?"
-  },
-  {
-    "_id": 89,
-    "ru": "Ты действительно удивлен слышать это?",
-    "en": "Are you really surprised to hear it?"
-  },
-  {
-    "_id": 90,
-    "ru": "Она замужем за ним?",
-    "en": "Is she married to him?"
-  },
-  {
-    "_id": 91,
-    "ru": "Это очень дорогая вещь?",
-    "en": "Is it a very expensive thing?"
-  },
-  {
-    "_id": 92,
-    "ru": "Она носитель английского языка?",
-    "en": "Is she a native speaker of English?"
-  },
-  {
-    "_id": 93,
-    "ru": "Это необходимый шаг?",
-    "en": "Is it a necessary step?"
-  },
-  {
-    "_id": 94,
-    "ru": "Ты гордишься своими результатами?",
-    "en": "Are you proud of your results?"
-  },
-  {
-    "_id": 95,
-    "ru": "Она действительна устала от этой рутины?",
-    "en": "Is she really tired of this routine?"
-  },
-  {
-    "_id": 96,
-    "ru": "Это важное правило или нет?",
-    "en": "Is it an important rule or not?"
-  },
-  {
-    "_id": 97,
-    "ru": "Он гордится своими достижениями?",
-    "en": "Is he proud of his achievements?"
-  },
-  {
-    "_id": 98,
-    "ru": "Это недорогая вещь?",
-    "en": "Is it an inexpensive thing?"
-  },
-  {
-    "_id": 99,
-    "ru": "Это действительно необходимо?",
-    "en": "Is it really necessary?"
-  },
-  {
-    "_id": 100,
-    "ru": "Это полезное устройство?",
-    "en": "Is it a useful device?"
+    "id": 1,
+    "ru": {
+      "text": "Я хороший специалист?",
+      "audio": false
+    },
+    "en": {
+      "text": "Am I a good specialist?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Они хорошие студенты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they good students?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Это традиционная еда?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it traditional food?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Это дешевая вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a cheap thing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Это официальный документ?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it an official document?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Это шумное место?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a noisy place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Это традиционный метод?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a traditional method?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Ты сейчас в Америке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you in America now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Он из Бразилии?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he from Brazil?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Они сестры?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they sisters?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Он твой двоюродный брат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he your cousin?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Это лучший ресторан в этой области?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it the best restaurant in this area?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он британец?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he British?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Это голубая ручка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a blue pen?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Они американцы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they Americans?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Это его родной язык?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it his mother tongue?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Они хорошие специалисты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they good specialists?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Это старое здание?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it an old building?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Ты действительно серьезно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you really serious?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Это твое любимое блюдо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it your favourite dish?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Это важная вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it an important thing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Он хороший специалист?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he a good specialist?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Это бесплатно или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it free or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Они высокие мальчики?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they tall boys?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Это хороший результат для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a good result for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Это высокий уровень?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a high level?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Он твой любимый певец?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he your favourite singer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Это твой родной язык?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it your mother tongue?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Это длинная история?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a long story?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Он твой брат?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he your brother?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Это хорошая идея?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a good idea?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Ты из Испании?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you from Spain?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Он холост?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he single?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Это тихое место?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a quiet place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Они братья?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they brothers?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Это твой любимый фильм?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it your favourite movie?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Он испанец?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he Spanish?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Это другой пример?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a different example?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Это тяжелая коробка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a heavy box?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Ты офлайн сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you offline now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Они твои двоюродные братья?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they your cousins?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Ты онлайн сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you online now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Это черный карандаш?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a black pencil?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Это неважная вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it an unimportant thing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Тебя интересуют иностранные языки?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you interested in foreign languages?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Ты действительно шокирован?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you really shocked?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Это для тебя большое достижение?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a big achievement for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Ты действительно уверен в этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you really sure about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Это далеко или близко?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it far or near?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Ты действительно удивлен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you really surprised?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Это недорогие часы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it an inexpensive watch?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Ты гордишься своими достижениями?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you proud of your achievements?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Это действительно необходимо сделать завтра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it really necessary to do it tomorrow?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Он действительно устал от этого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he really tired of it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Это полезное приложение?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a useful application?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Они рядом с этим местом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they near this place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Это необходимо сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it necessary to do?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Это рядом с тем местом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it near that place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Ты действительно устал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you really tired?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Ты устал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you tired?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он действительно устал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he really tired?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Это слева?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it on the left?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Это справа?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it on the right?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Это с левой стороны стола?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it on the left side of the table?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Они заинтересованы в этом проекте?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they interested in this project?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Он заинтересован в этом проекте?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he interested in this project?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Ты заинтересован в этой работе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you interested in this job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Это неверно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it incorrect?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Этот ответ неверный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this answer incorrect?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Это действительно верно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it really correct?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Он носитель английского языка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he a native speaker of English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Они носители английского языка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they native speakers of English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Ты носитель английского языка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you a native speaker of English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Это верно или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it correct or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Это верно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it correct?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Он очень осторожный водитель?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he a very careful driver?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Ты осторожный водитель?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you a careful driver?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Они очень осторожные водители?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they very careful drivers?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Это полезная вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a useful thing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Это хорошая вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a good thing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Он гордится этим успехом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he proud of this success?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Ты гордишься своим успехом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you proud of your success?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Ты гордишься своей матерью?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you proud of your mother?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Ты также заинтересован в этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you also interested in it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Они также заинтересованы в этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are they also interested in it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Она также заинтересована в этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she also interested in it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Он женат на ней?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he married to her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Она заинтересована в музыке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she interested in music?",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Ты действительно удивлен слышать это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you really surprised to hear it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Она замужем за ним?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she married to him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Это очень дорогая вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a very expensive thing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Она носитель английского языка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she a native speaker of English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Это необходимый шаг?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a necessary step?",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Ты гордишься своими результатами?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you proud of your results?",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Она действительна устала от этой рутины?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she really tired of this routine?",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Это важное правило или нет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it an important rule or not?",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Он гордится своими достижениями?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he proud of his achievements?",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Это недорогая вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it an inexpensive thing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Это действительно необходимо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it really necessary?",
+      "audio": false
+    }
+  },
+  {
+    "id": 100,
+    "ru": {
+      "text": "Это полезное устройство?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a useful device?",
+      "audio": false
+    }
   }
 ]

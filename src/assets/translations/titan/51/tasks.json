@@ -1,507 +1,1113 @@
 [
   {
-    "_id": 1,
-    "ru": "Я живу в другом городе",
-    "en": "I live in another city"
-  },
-  {
-    "_id": 2,
-    "ru": "Он действительно хочет говорить по-русски",
-    "en": "He really wants to speak Russian"
-  },
-  {
-    "_id": 3,
-    "ru": "Я обожаю читать книги вечером",
-    "en": "I enjoy reading books in the evening"
-  },
-  {
-    "_id": 4,
-    "ru": "Она обожает играть в теннис",
-    "en": "She enjoys playing tennis"
-  },
-  {
-    "_id": 5,
-    "ru": "Мне нравится есть здоровую пищу",
-    "en": "I like eating healthy food"
-  },
-  {
-    "_id": 6,
-    "ru": "Ему нравится читать книги на английском",
-    "en": "He likes to read books in English"
-  },
-  {
-    "_id": 7,
-    "ru": "Мне действительно нравится кататься на велосипеде",
-    "en": "I really like cycling"
-  },
-  {
-    "_id": 8,
-    "ru": "Ты говоришь по-английски прекрасно",
-    "en": "You speak English perfectly"
-  },
-  {
-    "_id": 9,
-    "ru": "Это звучит отлично",
-    "en": "It sounds great"
-  },
-  {
-    "_id": 10,
-    "ru": "Он платит за это",
-    "en": "He pays for it"
-  },
-  {
-    "_id": 11,
-    "ru": "Это стоит два миллиона фунтов",
-    "en": "It costs two million pounds"
-  },
-  {
-    "_id": 12,
-    "ru": "Я могу сделать это в начале",
-    "en": "I can do it in the beginning"
-  },
-  {
-    "_id": 13,
-    "ru": "Ты слишком много работаешь",
-    "en": "You work too much"
-  },
-  {
-    "_id": 14,
-    "ru": "Она тоже так думает",
-    "en": "She thinks so, too"
-  },
-  {
-    "_id": 15,
-    "ru": "Он тоже так думает",
-    "en": "He also thinks so"
-  },
-  {
-    "_id": 16,
-    "ru": "Я предпочитаю делать это в свое свободное время",
-    "en": "I prefer to do it in my free time"
-  },
-  {
-    "_id": 17,
-    "ru": "Ты показываешь отличные результаты",
-    "en": "You show excellent results"
-  },
-  {
-    "_id": 18,
-    "ru": "Ей нравятся иностранные языки",
-    "en": "She likes foreign languages"
-  },
-  {
-    "_id": 19,
-    "ru": "Он прекрасно понимает это",
-    "en": "He perfectly understands it"
-  },
-  {
-    "_id": 20,
-    "ru": "У меня отличные результаты",
-    "en": "I have excellent results"
-  },
-  {
-    "_id": 21,
-    "ru": "Он много знает",
-    "en": "He knows a lot"
-  },
-  {
-    "_id": 22,
-    "ru": "Это стоит пять тысяч евро",
-    "en": "It costs five thousand euros"
-  },
-  {
-    "_id": 23,
-    "ru": "Мы учимся в одной группе",
-    "en": "We study in one group"
-  },
-  {
-    "_id": 24,
-    "ru": "Мы действительно ценим твою помощь",
-    "en": "We really appreciate your help"
-  },
-  {
-    "_id": 25,
-    "ru": "Это нам очень помогает",
-    "en": "It helps us a lot"
-  },
-  {
-    "_id": 26,
-    "ru": "Я тебя прекрасно понимаю",
-    "en": "I perfectly understand you"
-  },
-  {
-    "_id": 27,
-    "ru": "У нее блестящие результаты",
-    "en": "She has brilliant results"
-  },
-  {
-    "_id": 28,
-    "ru": "Он часто говорит эти вещи",
-    "en": "He often says these things"
-  },
-  {
-    "_id": 29,
-    "ru": "Ей действительно нравится кататься на велосипеде",
-    "en": "She really likes cycling"
-  },
-  {
-    "_id": 30,
-    "ru": "Я обожаю английский",
-    "en": "I enjoy English"
-  },
-  {
-    "_id": 31,
-    "ru": "Она предпочитает горячий чай",
-    "en": "She prefers hot tea"
-  },
-  {
-    "_id": 32,
-    "ru": "Ему действительно нравится плавать",
-    "en": "He really likes swimming"
-  },
-  {
-    "_id": 33,
-    "ru": "Она живет в другой области",
-    "en": "She lives in another area"
-  },
-  {
-    "_id": 34,
-    "ru": "Мы видим музей",
-    "en": "We see a museum"
-  },
-  {
-    "_id": 35,
-    "ru": "Я хочу свободно говорить по-английски",
-    "en": "I want to speak English fluently"
-  },
-  {
-    "_id": 36,
-    "ru": "Он учится и работает",
-    "en": "He studies and works"
-  },
-  {
-    "_id": 37,
-    "ru": "Эта вещь стоит двести долларов",
-    "en": "This thing costs two hundred dollars"
-  },
-  {
-    "_id": 38,
-    "ru": "Мне действительно нравится этот язык",
-    "en": "I really like this language"
-  },
-  {
-    "_id": 39,
-    "ru": "Я действительно обожаю спорт",
-    "en": "I really enjoy sport"
-  },
-  {
-    "_id": 40,
-    "ru": "Мне нужно больше опыта",
-    "en": "I need more experience"
-  },
-  {
-    "_id": 41,
-    "ru": "Он показывает блестящие результаты",
-    "en": "He shows brilliant results"
-  },
-  {
-    "_id": 42,
-    "ru": "Я действительно ценю твою помощь",
-    "en": "I really appreciate your help"
-  },
-  {
-    "_id": 43,
-    "ru": "Я стараюсь делать это каждый день",
-    "en": "I try to do it every day"
-  },
-  {
-    "_id": 44,
-    "ru": "Она живет в квартире",
-    "en": "She lives in an apartment"
-  },
-  {
-    "_id": 45,
-    "ru": "Мы живем в доме",
-    "en": "We live in a house"
-  },
-  {
-    "_id": 46,
-    "ru": "Она профессионально преподает английский",
-    "en": "She teaches English professionally"
-  },
-  {
-    "_id": 47,
-    "ru": "Я прекрасно понимаю, как это работает",
-    "en": "I perfectly understand how it works"
-  },
-  {
-    "_id": 48,
-    "ru": "Мне нужен опыт работы вначале",
-    "en": "I need work experience in the beginning"
-  },
-  {
-    "_id": 49,
-    "ru": "Я действительно хочу понимать носителей языка",
-    "en": "I really want to understand native speakers"
-  },
-  {
-    "_id": 50,
-    "ru": "Я прекрасно понимаю твою точку зрения",
-    "en": "I perfectly understand your point of view"
-  },
-  {
-    "_id": 51,
-    "ru": "Мне кажется, у тебя отличные результаты",
-    "en": "It seems to me you have excellent results"
-  },
-  {
-    "_id": 52,
-    "ru": "Она работает врачом",
-    "en": "She works as a doctor"
-  },
-  {
-    "_id": 53,
-    "ru": "Ей очень нравится бегать трусцой",
-    "en": "She really likes jogging"
-  },
-  {
-    "_id": 54,
-    "ru": "Я работаю менеджером",
-    "en": "I work as a manager"
-  },
-  {
-    "_id": 55,
-    "ru": "Я вижу, ты часто ездишь за границу",
-    "en": "I see you often go abroad"
-  },
-  {
-    "_id": 56,
-    "ru": "Я хочу поехать в Соединенные Штаты в следующем году",
-    "en": "I want to go to the United States next year"
-  },
-  {
-    "_id": 57,
-    "ru": "Он работает учителем",
-    "en": "He works as a teacher"
-  },
-  {
-    "_id": 58,
-    "ru": "Она обожает плавать",
-    "en": "She enjoys swimming"
-  },
-  {
-    "_id": 59,
-    "ru": "Я люблю бегать трусцой",
-    "en": "I like jogging"
-  },
-  {
-    "_id": 60,
-    "ru": "Я действительно обожаю плавать",
-    "en": "I really enjoy swimming"
-  },
-  {
-    "_id": 61,
-    "ru": "Он говорит по-английски без акцента",
-    "en": "He speaks English without an accent"
-  },
-  {
-    "_id": 62,
-    "ru": "Я говорю по-немецки без акцента",
-    "en": "I speak German without an accent"
-  },
-  {
-    "_id": 63,
-    "ru": "Она говорит по-русски с акцентом",
-    "en": "She speaks Russian with an accent"
-  },
-  {
-    "_id": 64,
-    "ru": "Мне кажется, это действительно стоит много",
-    "en": "It seems to me it really costs a lot"
-  },
-  {
-    "_id": 65,
-    "ru": "Ей кажется, это действительно стоит много",
-    "en": "It seems to her it really costs a lot"
-  },
-  {
-    "_id": 66,
-    "ru": "Мне кажется, что это действительно стоит много",
-    "en": "It seems to me that it really costs a lot"
-  },
-  {
-    "_id": 67,
-    "ru": "Она понимает носителей языка лишь немного",
-    "en": "She understands native speakers only a little"
-  },
-  {
-    "_id": 68,
-    "ru": "Он понимает носителей языка лишь немного",
-    "en": "He understands native speakers only a little"
-  },
-  {
-    "_id": 69,
-    "ru": "Они понимают носителей языка лишь немного",
-    "en": "They understand native speakers only a little"
-  },
-  {
-    "_id": 70,
-    "ru": "Мне нужен опыт работы в первую очередь",
-    "en": "I need some work experience first of all"
-  },
-  {
-    "_id": 71,
-    "ru": "Ей нужен опыт работы в первую очередь",
-    "en": "She needs some work experience first of all"
-  },
-  {
-    "_id": 72,
-    "ru": "Тебе нужен опыт работы в первую очередь",
-    "en": "You need some work experience first of all"
-  },
-  {
-    "_id": 73,
-    "ru": "Он работает секретарем",
-    "en": "He works as a secretary"
-  },
-  {
-    "_id": 74,
-    "ru": "Я работаю учителем",
-    "en": "I work as a teacher"
-  },
-  {
-    "_id": 75,
-    "ru": "Она работает менеджером",
-    "en": "She works as a manager"
-  },
-  {
-    "_id": 76,
-    "ru": "Я вижу, у тебя есть идея",
-    "en": "I see you have an idea"
-  },
-  {
-    "_id": 77,
-    "ru": "Я вижу, у нее есть идея",
-    "en": "I see she has an idea"
-  },
-  {
-    "_id": 78,
-    "ru": "Я вижу, у них есть идея",
-    "en": "I see they have an idea"
-  },
-  {
-    "_id": 79,
-    "ru": "Я думаю, что это звучит великолепно",
-    "en": "I think that it sounds great"
-  },
-  {
-    "_id": 80,
-    "ru": "Она думает, что это звучит великолепно",
-    "en": "She thinks that it sounds great"
-  },
-  {
-    "_id": 81,
-    "ru": "Я думаю, что это выглядит великолепно",
-    "en": "I think that it looks great"
-  },
-  {
-    "_id": 82,
-    "ru": "Он много путешествует",
-    "en": "He travels a lot"
-  },
-  {
-    "_id": 83,
-    "ru": "Она много путешествует",
-    "en": "She travels a lot"
-  },
-  {
-    "_id": 84,
-    "ru": "Я много путешествую",
-    "en": "I travel a lot"
-  },
-  {
-    "_id": 85,
-    "ru": "Это случается время от времени",
-    "en": "It happens from time to time"
-  },
-  {
-    "_id": 86,
-    "ru": "Эта вещь случается время от времени",
-    "en": "This thing happens from time to time"
-  },
-  {
-    "_id": 87,
-    "ru": "Это иногда случается",
-    "en": "It sometimes happens"
-  },
-  {
-    "_id": 88,
-    "ru": "Он ходит в бассейн",
-    "en": "He goes to the swimming pool"
-  },
-  {
-    "_id": 89,
-    "ru": "Я вижу, что она говорит по-английски без акцента",
-    "en": "I see that she speaks English without an accent"
-  },
-  {
-    "_id": 90,
-    "ru": "Я действительно хочу говорить по-английски как носитель",
-    "en": "I really want to speak English like a native"
-  },
-  {
-    "_id": 91,
-    "ru": "Он работает в другом отделе",
-    "en": "He works in another department"
-  },
-  {
-    "_id": 92,
-    "ru": "Ей очень нравится классическая музыка",
-    "en": "She really likes classical music"
-  },
-  {
-    "_id": 93,
-    "ru": "Я вижу, ему действительно нравится эта идея",
-    "en": "I see he really likes this idea"
-  },
-  {
-    "_id": 94,
-    "ru": "Я занимаюсь плаванием дважды в неделю",
-    "en": "I go - swimming twice a week"
-  },
-  {
-    "_id": 95,
-    "ru": "Она работает продавщицей магазина",
-    "en": "She works as a shop assistant"
-  },
-  {
-    "_id": 96,
-    "ru": "Он часто летает в Англию",
-    "en": "He often flies to England"
-  },
-  {
-    "_id": 97,
-    "ru": "Я хочу улучшить свою грамматику",
-    "en": "I want to improve my grammar"
-  },
-  {
-    "_id": 98,
-    "ru": "Я занимаюсь плаванием два или три раза в неделю",
-    "en": "I go swimming two or three times a week"
-  },
-  {
-    "_id": 99,
-    "ru": "Она часто летает в Соединенные Штаты",
-    "en": "She often flies to the United States"
-  },
-  {
-    "_id": 100,
-    "ru": "Она прекрасно понимает нашу точку зрения",
-    "en": "She perfectly understands our point of view"
-  },
-  {
-    "_id": 101,
-    "ru": "Он часто бегает трусцой",
-    "en": "He often goes jogging"
+    "id": 1,
+    "ru": {
+      "text": "Я живу в другом городе",
+      "audio": false
+    },
+    "en": {
+      "text": "I live in another city",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Он действительно хочет говорить по-русски",
+      "audio": false
+    },
+    "en": {
+      "text": "He really wants to speak Russian",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я обожаю читать книги вечером",
+      "audio": false
+    },
+    "en": {
+      "text": "I enjoy reading books in the evening",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Она обожает играть в теннис",
+      "audio": false
+    },
+    "en": {
+      "text": "She enjoys playing tennis",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Мне нравится есть здоровую пищу",
+      "audio": false
+    },
+    "en": {
+      "text": "I like eating healthy food",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Ему нравится читать книги на английском",
+      "audio": false
+    },
+    "en": {
+      "text": "He likes to read books in English",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Мне действительно нравится кататься на велосипеде",
+      "audio": false
+    },
+    "en": {
+      "text": "I really like cycling",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Ты говоришь по-английски прекрасно",
+      "audio": false
+    },
+    "en": {
+      "text": "You speak English perfectly",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Это звучит отлично",
+      "audio": false
+    },
+    "en": {
+      "text": "It sounds great",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Он платит за это",
+      "audio": false
+    },
+    "en": {
+      "text": "He pays for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Это стоит два миллиона фунтов",
+      "audio": false
+    },
+    "en": {
+      "text": "It costs two million pounds",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я могу сделать это в начале",
+      "audio": false
+    },
+    "en": {
+      "text": "I can do it in the beginning",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Ты слишком много работаешь",
+      "audio": false
+    },
+    "en": {
+      "text": "You work too much",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Она тоже так думает",
+      "audio": false
+    },
+    "en": {
+      "text": "She thinks so, too",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Он тоже так думает",
+      "audio": false
+    },
+    "en": {
+      "text": "He also thinks so",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я предпочитаю делать это в свое свободное время",
+      "audio": false
+    },
+    "en": {
+      "text": "I prefer to do it in my free time",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Ты показываешь отличные результаты",
+      "audio": false
+    },
+    "en": {
+      "text": "You show excellent results",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Ей нравятся иностранные языки",
+      "audio": false
+    },
+    "en": {
+      "text": "She likes foreign languages",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он прекрасно понимает это",
+      "audio": false
+    },
+    "en": {
+      "text": "He perfectly understands it",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "У меня отличные результаты",
+      "audio": false
+    },
+    "en": {
+      "text": "I have excellent results",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Он много знает",
+      "audio": false
+    },
+    "en": {
+      "text": "He knows a lot",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это стоит пять тысяч евро",
+      "audio": false
+    },
+    "en": {
+      "text": "It costs five thousand euros",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Мы учимся в одной группе",
+      "audio": false
+    },
+    "en": {
+      "text": "We study in one group",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Мы действительно ценим твою помощь",
+      "audio": false
+    },
+    "en": {
+      "text": "We really appreciate your help",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Это нам очень помогает",
+      "audio": false
+    },
+    "en": {
+      "text": "It helps us a lot",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я тебя прекрасно понимаю",
+      "audio": false
+    },
+    "en": {
+      "text": "I perfectly understand you",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "У нее блестящие результаты",
+      "audio": false
+    },
+    "en": {
+      "text": "She has brilliant results",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Он часто говорит эти вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "He often says these things",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Ей действительно нравится кататься на велосипеде",
+      "audio": false
+    },
+    "en": {
+      "text": "She really likes cycling",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я обожаю английский",
+      "audio": false
+    },
+    "en": {
+      "text": "I enjoy English",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Она предпочитает горячий чай",
+      "audio": false
+    },
+    "en": {
+      "text": "She prefers hot tea",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Ему действительно нравится плавать",
+      "audio": false
+    },
+    "en": {
+      "text": "He really likes swimming",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Она живет в другой области",
+      "audio": false
+    },
+    "en": {
+      "text": "She lives in another area",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Мы видим музей",
+      "audio": false
+    },
+    "en": {
+      "text": "We see a museum",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я хочу свободно говорить по-английски",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to speak English fluently",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Он учится и работает",
+      "audio": false
+    },
+    "en": {
+      "text": "He studies and works",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Эта вещь стоит двести долларов",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing costs two hundred dollars",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Мне действительно нравится этот язык",
+      "audio": false
+    },
+    "en": {
+      "text": "I really like this language",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я действительно обожаю спорт",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy sport",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Мне нужно больше опыта",
+      "audio": false
+    },
+    "en": {
+      "text": "I need more experience",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Он показывает блестящие результаты",
+      "audio": false
+    },
+    "en": {
+      "text": "He shows brilliant results",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я действительно ценю твою помощь",
+      "audio": false
+    },
+    "en": {
+      "text": "I really appreciate your help",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я стараюсь делать это каждый день",
+      "audio": false
+    },
+    "en": {
+      "text": "I try to do it every day",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Она живет в квартире",
+      "audio": false
+    },
+    "en": {
+      "text": "She lives in an apartment",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Мы живем в доме",
+      "audio": false
+    },
+    "en": {
+      "text": "We live in a house",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Она профессионально преподает английский",
+      "audio": false
+    },
+    "en": {
+      "text": "She teaches English professionally",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я прекрасно понимаю, как это работает",
+      "audio": false
+    },
+    "en": {
+      "text": "I perfectly understand how it works",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Мне нужен опыт работы вначале",
+      "audio": false
+    },
+    "en": {
+      "text": "I need work experience in the beginning",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я действительно хочу понимать носителей языка",
+      "audio": false
+    },
+    "en": {
+      "text": "I really want to understand native speakers",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я прекрасно понимаю твою точку зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "I perfectly understand your point of view",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Мне кажется, у тебя отличные результаты",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me you have excellent results",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Она работает врачом",
+      "audio": false
+    },
+    "en": {
+      "text": "She works as a doctor",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Ей очень нравится бегать трусцой",
+      "audio": false
+    },
+    "en": {
+      "text": "She really likes jogging",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я работаю менеджером",
+      "audio": false
+    },
+    "en": {
+      "text": "I work as a manager",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я вижу, ты часто ездишь за границу",
+      "audio": false
+    },
+    "en": {
+      "text": "I see you often go abroad",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я хочу поехать в Соединенные Штаты в следующем году",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to go to the United States next year",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Он работает учителем",
+      "audio": false
+    },
+    "en": {
+      "text": "He works as a teacher",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Она обожает плавать",
+      "audio": false
+    },
+    "en": {
+      "text": "She enjoys swimming",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я люблю бегать трусцой",
+      "audio": false
+    },
+    "en": {
+      "text": "I like jogging",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я действительно обожаю плавать",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy swimming",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он говорит по-английски без акцента",
+      "audio": false
+    },
+    "en": {
+      "text": "He speaks English without an accent",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я говорю по-немецки без акцента",
+      "audio": false
+    },
+    "en": {
+      "text": "I speak German without an accent",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Она говорит по-русски с акцентом",
+      "audio": false
+    },
+    "en": {
+      "text": "She speaks Russian with an accent",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Мне кажется, это действительно стоит много",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me it really costs a lot",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Ей кажется, это действительно стоит много",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to her it really costs a lot",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Мне кажется, что это действительно стоит много",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me that it really costs a lot",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Она понимает носителей языка лишь немного",
+      "audio": false
+    },
+    "en": {
+      "text": "She understands native speakers only a little",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Он понимает носителей языка лишь немного",
+      "audio": false
+    },
+    "en": {
+      "text": "He understands native speakers only a little",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Они понимают носителей языка лишь немного",
+      "audio": false
+    },
+    "en": {
+      "text": "They understand native speakers only a little",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Мне нужен опыт работы в первую очередь",
+      "audio": false
+    },
+    "en": {
+      "text": "I need some work experience first of all",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Ей нужен опыт работы в первую очередь",
+      "audio": false
+    },
+    "en": {
+      "text": "She needs some work experience first of all",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Тебе нужен опыт работы в первую очередь",
+      "audio": false
+    },
+    "en": {
+      "text": "You need some work experience first of all",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Он работает секретарем",
+      "audio": false
+    },
+    "en": {
+      "text": "He works as a secretary",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я работаю учителем",
+      "audio": false
+    },
+    "en": {
+      "text": "I work as a teacher",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Она работает менеджером",
+      "audio": false
+    },
+    "en": {
+      "text": "She works as a manager",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я вижу, у тебя есть идея",
+      "audio": false
+    },
+    "en": {
+      "text": "I see you have an idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я вижу, у нее есть идея",
+      "audio": false
+    },
+    "en": {
+      "text": "I see she has an idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я вижу, у них есть идея",
+      "audio": false
+    },
+    "en": {
+      "text": "I see they have an idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Я думаю, что это звучит великолепно",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that it sounds great",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Она думает, что это звучит великолепно",
+      "audio": false
+    },
+    "en": {
+      "text": "She thinks that it sounds great",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я думаю, что это выглядит великолепно",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that it looks great",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Он много путешествует",
+      "audio": false
+    },
+    "en": {
+      "text": "He travels a lot",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Она много путешествует",
+      "audio": false
+    },
+    "en": {
+      "text": "She travels a lot",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я много путешествую",
+      "audio": false
+    },
+    "en": {
+      "text": "I travel a lot",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Это случается время от времени",
+      "audio": false
+    },
+    "en": {
+      "text": "It happens from time to time",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Эта вещь случается время от времени",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing happens from time to time",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Это иногда случается",
+      "audio": false
+    },
+    "en": {
+      "text": "It sometimes happens",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Он ходит в бассейн",
+      "audio": false
+    },
+    "en": {
+      "text": "He goes to the swimming pool",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Я вижу, что она говорит по-английски без акцента",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that she speaks English without an accent",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Я действительно хочу говорить по-английски как носитель",
+      "audio": false
+    },
+    "en": {
+      "text": "I really want to speak English like a native",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Он работает в другом отделе",
+      "audio": false
+    },
+    "en": {
+      "text": "He works in another department",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Ей очень нравится классическая музыка",
+      "audio": false
+    },
+    "en": {
+      "text": "She really likes classical music",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Я вижу, ему действительно нравится эта идея",
+      "audio": false
+    },
+    "en": {
+      "text": "I see he really likes this idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Я занимаюсь плаванием дважды в неделю",
+      "audio": false
+    },
+    "en": {
+      "text": "I go - swimming twice a week",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Она работает продавщицей магазина",
+      "audio": false
+    },
+    "en": {
+      "text": "She works as a shop assistant",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Он часто летает в Англию",
+      "audio": false
+    },
+    "en": {
+      "text": "He often flies to England",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Я хочу улучшить свою грамматику",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to improve my grammar",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Я занимаюсь плаванием два или три раза в неделю",
+      "audio": false
+    },
+    "en": {
+      "text": "I go swimming two or three times a week",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Она часто летает в Соединенные Штаты",
+      "audio": false
+    },
+    "en": {
+      "text": "She often flies to the United States",
+      "audio": false
+    }
+  },
+  {
+    "id": 100,
+    "ru": {
+      "text": "Она прекрасно понимает нашу точку зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "She perfectly understands our point of view",
+      "audio": false
+    }
+  },
+  {
+    "id": 101,
+    "ru": {
+      "text": "Он часто бегает трусцой",
+      "audio": false
+    },
+    "en": {
+      "text": "He often goes jogging",
+      "audio": false
+    }
   }
 ]

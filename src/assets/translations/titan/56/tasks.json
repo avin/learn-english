@@ -1,497 +1,1091 @@
 [
   {
-    "_id": 1,
-    "ru": "Этот дом очень дорогой",
-    "en": "This house is very expensive"
-  },
-  {
-    "_id": 2,
-    "ru": "Эти документы действительно полезны",
-    "en": "These documents are really useful"
-  },
-  {
-    "_id": 3,
-    "ru": "У этого костюма хорошая цена",
-    "en": "This suit has a good price"
-  },
-  {
-    "_id": 4,
-    "ru": "Это очень модный костюм",
-    "en": "It's a very fashionable suit"
-  },
-  {
-    "_id": 5,
-    "ru": "Мои друзья действительно шокированы",
-    "en": "My friends are really shocked"
-  },
-  {
-    "_id": 6,
-    "ru": "Эта еда очень дорогая",
-    "en": "This food is very expensive"
-  },
-  {
-    "_id": 7,
-    "ru": "Вся эта одежда продается",
-    "en": "All these clothes are on sale"
-  },
-  {
-    "_id": 8,
-    "ru": "Эти билеты очень дорогие",
-    "en": "These tickets are very expensive"
-  },
-  {
-    "_id": 9,
-    "ru": "Тот мальчик очень расстроен",
-    "en": "That boy is very upset"
-  },
-  {
-    "_id": 10,
-    "ru": "Его брат ходит в колледж",
-    "en": "His brother goes to college"
-  },
-  {
-    "_id": 11,
-    "ru": "Этот дом очень старый",
-    "en": "This house is very old"
-  },
-  {
-    "_id": 12,
-    "ru": "Эта одежда слишком формальная",
-    "en": "These clothes are too formal"
-  },
-  {
-    "_id": 13,
-    "ru": "Ее муж бухгалтер",
-    "en": "Her husband is an accountant"
-  },
-  {
-    "_id": 14,
-    "ru": "Этот отель слишком дорогой",
-    "en": "This hotel is too expensive"
-  },
-  {
-    "_id": 15,
-    "ru": "Эта женщина медсестра",
-    "en": "This woman is a nurse"
-  },
-  {
-    "_id": 16,
-    "ru": "Этот мальчик очень сильный",
-    "en": "This boy is very strong"
-  },
-  {
-    "_id": 17,
-    "ru": "Эти лекции такие скучные",
-    "en": "These lectures are so boring"
-  },
-  {
-    "_id": 18,
-    "ru": "У тебя блестящая идея",
-    "en": "You have a brilliant idea"
-  },
-  {
-    "_id": 19,
-    "ru": "Этот комментарий такой длинный",
-    "en": "This comment is so long"
-  },
-  {
-    "_id": 20,
-    "ru": "Эти мужчины очень разочарованы",
-    "en": "These men are very disappointed"
-  },
-  {
-    "_id": 21,
-    "ru": "Этот ресурс чрезвычайно полезен",
-    "en": "This resource is extremely useful"
-  },
-  {
-    "_id": 22,
-    "ru": "Это повседневное платье",
-    "en": "It's a casual dress"
-  },
-  {
-    "_id": 23,
-    "ru": "Эта куртка в продаже",
-    "en": "This jacket is on sale"
-  },
-  {
-    "_id": 24,
-    "ru": "Его жена действительно удивлена",
-    "en": "His wife is really surprised"
-  },
-  {
-    "_id": 25,
-    "ru": "Все эти материалы чрезвычайно полезны",
-    "en": "All these materials are extremely useful"
-  },
-  {
-    "_id": 26,
-    "ru": "Этот курс очень эффективен",
-    "en": "This course is very effective"
-  },
-  {
-    "_id": 27,
-    "ru": "Этот мужчина очень разочарован",
-    "en": "This man is very disappointed"
-  },
-  {
-    "_id": 28,
-    "ru": "Это платье слишком неформальное",
-    "en": "This dress is too informal"
-  },
-  {
-    "_id": 29,
-    "ru": "Твой дом такой красивый",
-    "en": "Your house is so beautiful"
-  },
-  {
-    "_id": 30,
-    "ru": "Эти женщины коллеги",
-    "en": "These women are colleagues"
-  },
-  {
-    "_id": 31,
-    "ru": "Этот эпизод очень интересный",
-    "en": "This episode is very interesting"
-  },
-  {
-    "_id": 32,
-    "ru": "Те студенты очень трудолюбивы",
-    "en": "Those students are very hard-working"
-  },
-  {
-    "_id": 33,
-    "ru": "Это место такое красивое",
-    "en": "This place is so beautiful"
-  },
-  {
-    "_id": 34,
-    "ru": "Этот певец очень знаменитый",
-    "en": "This singer is very famous"
-  },
-  {
-    "_id": 35,
-    "ru": "Эти комментарии такие смешные",
-    "en": "These comments are so funny"
-  },
-  {
-    "_id": 36,
-    "ru": "Эта девочка очень грустная",
-    "en": "This girl is very sad"
-  },
-  {
-    "_id": 37,
-    "ru": "Эти студенты очень ленивые",
-    "en": "These students are very lazy"
-  },
-  {
-    "_id": 38,
-    "ru": "Эта лампа такая яркая",
-    "en": "This lamp is so bright"
-  },
-  {
-    "_id": 39,
-    "ru": "Его хобби - езда на велосипеде, дайвинг и катание на лыжах",
-    "en": "His hobbies are cycling, diving and skiing"
-  },
-  {
-    "_id": 40,
-    "ru": "Эта вещь слишком дорогая для них",
-    "en": "This thing is too expensive for them"
-  },
-  {
-    "_id": 41,
-    "ru": "Моей сестре пятнадцать",
-    "en": "My sister is fifteen"
-  },
-  {
-    "_id": 42,
-    "ru": "Его уровень очень низкий",
-    "en": "His level is very low"
-  },
-  {
-    "_id": 43,
-    "ru": "Эти воры сейчас в тюрьме",
-    "en": "These thieves are in prison now"
-  },
-  {
-    "_id": 44,
-    "ru": "Я думаю, этот мальчик настоящий гений",
-    "en": "I think this boy is a real genius"
-  },
-  {
-    "_id": 45,
-    "ru": "Мое главное хобби - изучение иностранных языков",
-    "en": "My main hobby is learning foreign languages"
-  },
-  {
-    "_id": 46,
-    "ru": "Моя мама на кухне сейчас",
-    "en": "My mother is in the kitchen now"
-  },
-  {
-    "_id": 47,
-    "ru": "Плавание - мое хобби",
-    "en": "Swimming is my hobby"
-  },
-  {
-    "_id": 48,
-    "ru": "Эти выражения являются новыми для нас",
-    "en": "These expressions are new for us"
-  },
-  {
-    "_id": 49,
-    "ru": "У твоего друга хорошее чувство юмора",
-    "en": "Your friend has a good sense of humour"
-  },
-  {
-    "_id": 50,
-    "ru": "Мои коллеги всегда помогают мне, когда мне нужно это",
-    "en": "My colleagues always help me when I need it"
-  },
-  {
-    "_id": 51,
-    "ru": "Этот вор в тюрьме",
-    "en": "This thief is in prison"
-  },
-  {
-    "_id": 52,
-    "ru": "Эти результаты отличные",
-    "en": "These results are excellent"
-  },
-  {
-    "_id": 53,
-    "ru": "Эта еда дорогая, но она очень хорошая",
-    "en": "This food is expensive but it's very good"
-  },
-  {
-    "_id": 54,
-    "ru": "У моих коллег хорошее чувство юмора",
-    "en": "My colleagues have a good sense of humour"
-  },
-  {
-    "_id": 55,
-    "ru": "Эта коробка действительно тяжелая",
-    "en": "This box is really heavy"
-  },
-  {
-    "_id": 56,
-    "ru": "Эти видео уроки чрезвычайно полезны",
-    "en": "These video lessons are extremely useful"
-  },
-  {
-    "_id": 57,
-    "ru": "Мое полотенце в ванной",
-    "en": "My towel is in the bathroom"
-  },
-  {
-    "_id": 58,
-    "ru": "Моя чашка на кухне",
-    "en": "My cup is in the kitchen"
-  },
-  {
-    "_id": 59,
-    "ru": "Моя чашка на столе",
-    "en": "My cup is on the table"
-  },
-  {
-    "_id": 60,
-    "ru": "Я думаю, английский легкий",
-    "en": "I think English is easy"
-  },
-  {
-    "_id": 61,
-    "ru": "Они думают, что английский легкий",
-    "en": "They think English is easy"
-  },
-  {
-    "_id": 62,
-    "ru": "Она думает, что английский легкий",
-    "en": "She thinks that English is easy"
-  },
-  {
-    "_id": 63,
-    "ru": "Я согласен, что деньги очень важны",
-    "en": "I agree that money is very important"
-  },
-  {
-    "_id": 64,
-    "ru": "Я знаю, что деньги очень важны",
-    "en": "I know that money is very important"
-  },
-  {
-    "_id": 65,
-    "ru": "Она согласна, что деньги очень важны",
-    "en": "She agrees that money is very important"
-  },
-  {
-    "_id": 66,
-    "ru": "Мои хобби - готовка, бег трусцой и путешествия",
-    "en": "My hobbies are cooking, jogging and travelling"
-  },
-  {
-    "_id": 67,
-    "ru": "Ее хобби - плавание и чтение",
-    "en": "Her hobbies are swimming and reading"
-  },
-  {
-    "_id": 68,
-    "ru": "Его хобби - готовка",
-    "en": "His hobby is cooking"
-  },
-  {
-    "_id": 69,
-    "ru": "Английский также интересен ей",
-    "en": "English is also interesting for her"
-  },
-  {
-    "_id": 70,
-    "ru": "Это также интересно мне",
-    "en": "It is also interesting for me"
-  },
-  {
-    "_id": 71,
-    "ru": "Английский также очень важен для нас",
-    "en": "English is also very important for us"
-  },
-  {
-    "_id": 72,
-    "ru": "Изучение английского - мое хобби",
-    "en": "Learning English is my hobby"
-  },
-  {
-    "_id": 73,
-    "ru": "Изучение английского языка и готовка - мои хобби",
-    "en": "Learning English and cooking are my hobbies"
-  },
-  {
-    "_id": 74,
-    "ru": "Мое хобби - изучение английского",
-    "en": "My hobby is learning English"
-  },
-  {
-    "_id": 75,
-    "ru": "Эти выражения являются новыми для меня",
-    "en": "These expressions are new for me"
-  },
-  {
-    "_id": 76,
-    "ru": "Многие выражения являются новыми для меня",
-    "en": "Many expressions are new for me"
-  },
-  {
-    "_id": 77,
-    "ru": "То выражение является новым для меня",
-    "en": "That expression is new for me"
-  },
-  {
-    "_id": 78,
-    "ru": "Эта еда хороша на вкус",
-    "en": "This food has a good taste / This food tastes good"
-  },
-  {
-    "_id": 79,
-    "ru": "Эти яблоки хороши на вкус",
-    "en": "These apples have a good taste"
-  },
-  {
-    "_id": 80,
-    "ru": "Этот апельсин очень хорош на вкус",
-    "en": "This orange has a very good taste"
-  },
-  {
-    "_id": 81,
-    "ru": "Я часто слышу, что испанский язык также легкий",
-    "en": "I often hear that Spanish is also easy"
-  },
-  {
-    "_id": 82,
-    "ru": "Она часто слышит, что испанский язык действительно легкий",
-    "en": "She often hears that Spanish is really easy"
-  },
-  {
-    "_id": 83,
-    "ru": "Они часто слышат, что английский также легкий",
-    "en": "They often hear that English is also easy"
-  },
-  {
-    "_id": 84,
-    "ru": "Мои хобби - плавание, теннис и английский язык",
-    "en": "My hobbies are swimming, tennis and English"
-  },
-  {
-    "_id": 85,
-    "ru": "Мои хобби - теннис и английский язык",
-    "en": "My hobbies are tennis and English"
-  },
-  {
-    "_id": 86,
-    "ru": "Мое хобби - футбол",
-    "en": "My hobby is football"
-  },
-  {
-    "_id": 87,
-    "ru": "Люди обычно говорят, что китайский очень сложный",
-    "en": "People usually say that Chinese is very difficult"
-  },
-  {
-    "_id": 88,
-    "ru": "Эта игрушка в спальне",
-    "en": "This toy is in the bedroom"
-  },
-  {
-    "_id": 89,
-    "ru": "Мое хобби - изучение иностранных языков",
-    "en": "My hobby is learning foreign languages"
-  },
-  {
-    "_id": 90,
-    "ru": "Я думаю, что время - это больше, чем деньги",
-    "en": "I think that time is more than money"
-  },
-  {
-    "_id": 91,
-    "ru": "Эта цена очень высокая",
-    "en": "This price is very high"
-  },
-  {
-    "_id": 92,
-    "ru": "Это выражение новое для меня",
-    "en": "This expression is new for me"
-  },
-  {
-    "_id": 93,
-    "ru": "Английский язык - мое основное хобби",
-    "en": "English is my main hobby"
-  },
-  {
-    "_id": 94,
-    "ru": "Мой отец в гостиной",
-    "en": "My father is in the living room"
-  },
-  {
-    "_id": 95,
-    "ru": "Этот мальчик гений",
-    "en": "This boy is a genius"
-  },
-  {
-    "_id": 96,
-    "ru": "Эта компания очень большая, и мы все видим ее успех",
-    "en": "This company is very big and we all see its success"
-  },
-  {
-    "_id": 97,
-    "ru": "Вся эта информация чрезвычайно полезна для меня",
-    "en": "All this information is extremely useful for me"
-  },
-  {
-    "_id": 98,
-    "ru": "Я думаю, мой друг прав",
-    "en": "I think my friend is right"
-  },
-  {
-    "_id": 99,
-    "ru": "Ее основное хобби - садоводство",
-    "en": "Her main hobby is gardening"
+    "id": 1,
+    "ru": {
+      "text": "Этот дом очень дорогой",
+      "audio": false
+    },
+    "en": {
+      "text": "This house is very expensive",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Эти документы действительно полезны",
+      "audio": false
+    },
+    "en": {
+      "text": "These documents are really useful",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "У этого костюма хорошая цена",
+      "audio": false
+    },
+    "en": {
+      "text": "This suit has a good price",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Это очень модный костюм",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very fashionable suit",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Мои друзья действительно шокированы",
+      "audio": false
+    },
+    "en": {
+      "text": "My friends are really shocked",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Эта еда очень дорогая",
+      "audio": false
+    },
+    "en": {
+      "text": "This food is very expensive",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Вся эта одежда продается",
+      "audio": false
+    },
+    "en": {
+      "text": "All these clothes are on sale",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Эти билеты очень дорогие",
+      "audio": false
+    },
+    "en": {
+      "text": "These tickets are very expensive",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Тот мальчик очень расстроен",
+      "audio": false
+    },
+    "en": {
+      "text": "That boy is very upset",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Его брат ходит в колледж",
+      "audio": false
+    },
+    "en": {
+      "text": "His brother goes to college",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Этот дом очень старый",
+      "audio": false
+    },
+    "en": {
+      "text": "This house is very old",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Эта одежда слишком формальная",
+      "audio": false
+    },
+    "en": {
+      "text": "These clothes are too formal",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Ее муж бухгалтер",
+      "audio": false
+    },
+    "en": {
+      "text": "Her husband is an accountant",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Этот отель слишком дорогой",
+      "audio": false
+    },
+    "en": {
+      "text": "This hotel is too expensive",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Эта женщина медсестра",
+      "audio": false
+    },
+    "en": {
+      "text": "This woman is a nurse",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Этот мальчик очень сильный",
+      "audio": false
+    },
+    "en": {
+      "text": "This boy is very strong",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Эти лекции такие скучные",
+      "audio": false
+    },
+    "en": {
+      "text": "These lectures are so boring",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "У тебя блестящая идея",
+      "audio": false
+    },
+    "en": {
+      "text": "You have a brilliant idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Этот комментарий такой длинный",
+      "audio": false
+    },
+    "en": {
+      "text": "This comment is so long",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Эти мужчины очень разочарованы",
+      "audio": false
+    },
+    "en": {
+      "text": "These men are very disappointed",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Этот ресурс чрезвычайно полезен",
+      "audio": false
+    },
+    "en": {
+      "text": "This resource is extremely useful",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это повседневное платье",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a casual dress",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Эта куртка в продаже",
+      "audio": false
+    },
+    "en": {
+      "text": "This jacket is on sale",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Его жена действительно удивлена",
+      "audio": false
+    },
+    "en": {
+      "text": "His wife is really surprised",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Все эти материалы чрезвычайно полезны",
+      "audio": false
+    },
+    "en": {
+      "text": "All these materials are extremely useful",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Этот курс очень эффективен",
+      "audio": false
+    },
+    "en": {
+      "text": "This course is very effective",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Этот мужчина очень разочарован",
+      "audio": false
+    },
+    "en": {
+      "text": "This man is very disappointed",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Это платье слишком неформальное",
+      "audio": false
+    },
+    "en": {
+      "text": "This dress is too informal",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Твой дом такой красивый",
+      "audio": false
+    },
+    "en": {
+      "text": "Your house is so beautiful",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Эти женщины коллеги",
+      "audio": false
+    },
+    "en": {
+      "text": "These women are colleagues",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Этот эпизод очень интересный",
+      "audio": false
+    },
+    "en": {
+      "text": "This episode is very interesting",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Те студенты очень трудолюбивы",
+      "audio": false
+    },
+    "en": {
+      "text": "Those students are very hard-working",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Это место такое красивое",
+      "audio": false
+    },
+    "en": {
+      "text": "This place is so beautiful",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Этот певец очень знаменитый",
+      "audio": false
+    },
+    "en": {
+      "text": "This singer is very famous",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Эти комментарии такие смешные",
+      "audio": false
+    },
+    "en": {
+      "text": "These comments are so funny",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Эта девочка очень грустная",
+      "audio": false
+    },
+    "en": {
+      "text": "This girl is very sad",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Эти студенты очень ленивые",
+      "audio": false
+    },
+    "en": {
+      "text": "These students are very lazy",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Эта лампа такая яркая",
+      "audio": false
+    },
+    "en": {
+      "text": "This lamp is so bright",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Его хобби - езда на велосипеде, дайвинг и катание на лыжах",
+      "audio": false
+    },
+    "en": {
+      "text": "His hobbies are cycling, diving and skiing",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Эта вещь слишком дорогая для них",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing is too expensive for them",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Моей сестре пятнадцать",
+      "audio": false
+    },
+    "en": {
+      "text": "My sister is fifteen",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Его уровень очень низкий",
+      "audio": false
+    },
+    "en": {
+      "text": "His level is very low",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Эти воры сейчас в тюрьме",
+      "audio": false
+    },
+    "en": {
+      "text": "These thieves are in prison now",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я думаю, этот мальчик настоящий гений",
+      "audio": false
+    },
+    "en": {
+      "text": "I think this boy is a real genius",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Мое главное хобби - изучение иностранных языков",
+      "audio": false
+    },
+    "en": {
+      "text": "My main hobby is learning foreign languages",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Моя мама на кухне сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "My mother is in the kitchen now",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Плавание - мое хобби",
+      "audio": false
+    },
+    "en": {
+      "text": "Swimming is my hobby",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Эти выражения являются новыми для нас",
+      "audio": false
+    },
+    "en": {
+      "text": "These expressions are new for us",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "У твоего друга хорошее чувство юмора",
+      "audio": false
+    },
+    "en": {
+      "text": "Your friend has a good sense of humour",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Мои коллеги всегда помогают мне, когда мне нужно это",
+      "audio": false
+    },
+    "en": {
+      "text": "My colleagues always help me when I need it",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Этот вор в тюрьме",
+      "audio": false
+    },
+    "en": {
+      "text": "This thief is in prison",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Эти результаты отличные",
+      "audio": false
+    },
+    "en": {
+      "text": "These results are excellent",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Эта еда дорогая, но она очень хорошая",
+      "audio": false
+    },
+    "en": {
+      "text": "This food is expensive but it's very good",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "У моих коллег хорошее чувство юмора",
+      "audio": false
+    },
+    "en": {
+      "text": "My colleagues have a good sense of humour",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Эта коробка действительно тяжелая",
+      "audio": false
+    },
+    "en": {
+      "text": "This box is really heavy",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Эти видео уроки чрезвычайно полезны",
+      "audio": false
+    },
+    "en": {
+      "text": "These video lessons are extremely useful",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Мое полотенце в ванной",
+      "audio": false
+    },
+    "en": {
+      "text": "My towel is in the bathroom",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Моя чашка на кухне",
+      "audio": false
+    },
+    "en": {
+      "text": "My cup is in the kitchen",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Моя чашка на столе",
+      "audio": false
+    },
+    "en": {
+      "text": "My cup is on the table",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я думаю, английский легкий",
+      "audio": false
+    },
+    "en": {
+      "text": "I think English is easy",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Они думают, что английский легкий",
+      "audio": false
+    },
+    "en": {
+      "text": "They think English is easy",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Она думает, что английский легкий",
+      "audio": false
+    },
+    "en": {
+      "text": "She thinks that English is easy",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я согласен, что деньги очень важны",
+      "audio": false
+    },
+    "en": {
+      "text": "I agree that money is very important",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я знаю, что деньги очень важны",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that money is very important",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Она согласна, что деньги очень важны",
+      "audio": false
+    },
+    "en": {
+      "text": "She agrees that money is very important",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Мои хобби - готовка, бег трусцой и путешествия",
+      "audio": false
+    },
+    "en": {
+      "text": "My hobbies are cooking, jogging and travelling",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Ее хобби - плавание и чтение",
+      "audio": false
+    },
+    "en": {
+      "text": "Her hobbies are swimming and reading",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Его хобби - готовка",
+      "audio": false
+    },
+    "en": {
+      "text": "His hobby is cooking",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Английский также интересен ей",
+      "audio": false
+    },
+    "en": {
+      "text": "English is also interesting for her",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Это также интересно мне",
+      "audio": false
+    },
+    "en": {
+      "text": "It is also interesting for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Английский также очень важен для нас",
+      "audio": false
+    },
+    "en": {
+      "text": "English is also very important for us",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Изучение английского - мое хобби",
+      "audio": false
+    },
+    "en": {
+      "text": "Learning English is my hobby",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Изучение английского языка и готовка - мои хобби",
+      "audio": false
+    },
+    "en": {
+      "text": "Learning English and cooking are my hobbies",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Мое хобби - изучение английского",
+      "audio": false
+    },
+    "en": {
+      "text": "My hobby is learning English",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Эти выражения являются новыми для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "These expressions are new for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Многие выражения являются новыми для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "Many expressions are new for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "То выражение является новым для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "That expression is new for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Эта еда хороша на вкус",
+      "audio": false
+    },
+    "en": {
+      "text": "This food has a good taste / This food tastes good",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Эти яблоки хороши на вкус",
+      "audio": false
+    },
+    "en": {
+      "text": "These apples have a good taste",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Этот апельсин очень хорош на вкус",
+      "audio": false
+    },
+    "en": {
+      "text": "This orange has a very good taste",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я часто слышу, что испанский язык также легкий",
+      "audio": false
+    },
+    "en": {
+      "text": "I often hear that Spanish is also easy",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Она часто слышит, что испанский язык действительно легкий",
+      "audio": false
+    },
+    "en": {
+      "text": "She often hears that Spanish is really easy",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Они часто слышат, что английский также легкий",
+      "audio": false
+    },
+    "en": {
+      "text": "They often hear that English is also easy",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Мои хобби - плавание, теннис и английский язык",
+      "audio": false
+    },
+    "en": {
+      "text": "My hobbies are swimming, tennis and English",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Мои хобби - теннис и английский язык",
+      "audio": false
+    },
+    "en": {
+      "text": "My hobbies are tennis and English",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Мое хобби - футбол",
+      "audio": false
+    },
+    "en": {
+      "text": "My hobby is football",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Люди обычно говорят, что китайский очень сложный",
+      "audio": false
+    },
+    "en": {
+      "text": "People usually say that Chinese is very difficult",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Эта игрушка в спальне",
+      "audio": false
+    },
+    "en": {
+      "text": "This toy is in the bedroom",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Мое хобби - изучение иностранных языков",
+      "audio": false
+    },
+    "en": {
+      "text": "My hobby is learning foreign languages",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Я думаю, что время - это больше, чем деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that time is more than money",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Эта цена очень высокая",
+      "audio": false
+    },
+    "en": {
+      "text": "This price is very high",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Это выражение новое для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "This expression is new for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Английский язык - мое основное хобби",
+      "audio": false
+    },
+    "en": {
+      "text": "English is my main hobby",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Мой отец в гостиной",
+      "audio": false
+    },
+    "en": {
+      "text": "My father is in the living room",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Этот мальчик гений",
+      "audio": false
+    },
+    "en": {
+      "text": "This boy is a genius",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Эта компания очень большая, и мы все видим ее успех",
+      "audio": false
+    },
+    "en": {
+      "text": "This company is very big and we all see its success",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Вся эта информация чрезвычайно полезна для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "All this information is extremely useful for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Я думаю, мой друг прав",
+      "audio": false
+    },
+    "en": {
+      "text": "I think my friend is right",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Ее основное хобби - садоводство",
+      "audio": false
+    },
+    "en": {
+      "text": "Her main hobby is gardening",
+      "audio": false
+    }
   }
 ]

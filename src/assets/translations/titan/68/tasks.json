@@ -1,502 +1,1102 @@
 [
   {
-    "_id": 1,
-    "ru": "Эти джинсы стоят восемьдесят долларов?",
-    "en": "Do these jeans cost eighty dollars?"
-  },
-  {
-    "_id": 2,
-    "ru": "Еда плохо пахнет?",
-    "en": "Does the food smell bad?"
-  },
-  {
-    "_id": 3,
-    "ru": "Торт вкусный?",
-    "en": "Is the cake tasty?"
-  },
-  {
-    "_id": 4,
-    "ru": "Твои родители правы?",
-    "en": "Are your parents right?"
-  },
-  {
-    "_id": 5,
-    "ru": "Эта вещь действительно интересна тебе?",
-    "en": "Is this thing really interesting for you?"
-  },
-  {
-    "_id": 6,
-    "ru": "Твои бабушка с дедушкой часто приходят к тебе?",
-    "en": "Do your grandparents often come to you?"
-  },
-  {
-    "_id": 7,
-    "ru": "Этот певец очень популярен в Америке?",
-    "en": "Is this singer very popular in America?"
-  },
-  {
-    "_id": 8,
-    "ru": "Те мальчики очень умные?",
-    "en": "Are those boys very smart?"
-  },
-  {
-    "_id": 9,
-    "ru": "Твоя бабушка помогает тебе?",
-    "en": "Does your granny help you?"
-  },
-  {
-    "_id": 10,
-    "ru": "Этот уровень слишком сложный для них?",
-    "en": "Is this level too difficult for them?"
-  },
-  {
-    "_id": 11,
-    "ru": "Пациент чувствует себя лучше?",
-    "en": "Does the patient feel better?"
-  },
-  {
-    "_id": 12,
-    "ru": "Этот текст кажется очень сложным?",
-    "en": "Does this text seem very difficult?"
-  },
-  {
-    "_id": 13,
-    "ru": "Этот путь намного короче?",
-    "en": "Is this way much shorter?"
-  },
-  {
-    "_id": 14,
-    "ru": "Та вещь интересует тебя?",
-    "en": "Does that thing interest you?"
-  },
-  {
-    "_id": 15,
-    "ru": "Дети дома?",
-    "en": "Are the kids at home?"
-  },
-  {
-    "_id": 16,
-    "ru": "Мальчик очень высокий для своего возраста?",
-    "en": "Is the boy very tall for his age?"
-  },
-  {
-    "_id": 17,
-    "ru": "Гора очень высокая?",
-    "en": "Is the mountain very high?"
-  },
-  {
-    "_id": 18,
-    "ru": "Компания очень богатая?",
-    "en": "Is the company very rich?"
-  },
-  {
-    "_id": 19,
-    "ru": "Этой практики достаточно?",
-    "en": "Is this practice enough?"
-  },
-  {
-    "_id": 20,
-    "ru": "Этот пациент хуже?",
-    "en": "Is this patient worse?"
-  },
-  {
-    "_id": 21,
-    "ru": "Торт вкусный?",
-    "en": "Is the cake tasty?"
-  },
-  {
-    "_id": 22,
-    "ru": "Еда хорошая?",
-    "en": "Is the food good?"
-  },
-  {
-    "_id": 23,
-    "ru": "Дом новый?",
-    "en": "Is the house new?"
-  },
-  {
-    "_id": 24,
-    "ru": "Озеро очень холодное?",
-    "en": "Is the lake very cold?"
-  },
-  {
-    "_id": 25,
-    "ru": "Пациент чувствует себя намного лучше?",
-    "en": "Does the patient feel much better?"
-  },
-  {
-    "_id": 26,
-    "ru": "Горы очень высокие?",
-    "en": "Are the mountains very high?"
-  },
-  {
-    "_id": 27,
-    "ru": "Этот мальчик выглядит очень умным?",
-    "en": "Does this boy look very smart?"
-  },
-  {
-    "_id": 28,
-    "ru": "Этот канал очень полезный?",
-    "en": "Is this channel very useful?"
-  },
-  {
-    "_id": 29,
-    "ru": "Стол круглый?",
-    "en": "Is the table round?"
-  },
-  {
-    "_id": 30,
-    "ru": "Билеты стоят больше?",
-    "en": "Do the tickets cost more?"
-  },
-  {
-    "_id": 31,
-    "ru": "Этот уровень элементарный?",
-    "en": "Is this level elementary?"
-  },
-  {
-    "_id": 32,
-    "ru": "Река очень красивая?",
-    "en": "Is the river very beautiful?"
-  },
-  {
-    "_id": 33,
-    "ru": "Тест слишком легкий для тебя?",
-    "en": "Is the test too easy for you?"
-  },
-  {
-    "_id": 34,
-    "ru": "Компания выглядит очень успешной?",
-    "en": "Does the company look very successful?"
-  },
-  {
-    "_id": 35,
-    "ru": "Этой практики кажется достаточно?",
-    "en": "Does this practice seem enough?"
-  },
-  {
-    "_id": 36,
-    "ru": "Этот музыкант очень талантливый?",
-    "en": "Is this musician very talented?"
-  },
-  {
-    "_id": 37,
-    "ru": "Это промежуточный уровень?",
-    "en": "Is it an intermediate level?"
-  },
-  {
-    "_id": 38,
-    "ru": "Тот уровень промежуточный?",
-    "en": "Is that level intermediate?"
-  },
-  {
-    "_id": 39,
-    "ru": "Этот путь кажется гораздо короче?",
-    "en": "Does this way seem much shorter?"
-  },
-  {
-    "_id": 40,
-    "ru": "Это элементарный уровень?",
-    "en": "Is it an elementary level?"
-  },
-  {
-    "_id": 41,
-    "ru": "Еда очень вкусная?",
-    "en": "Is the food very tasty?"
-  },
-  {
-    "_id": 42,
-    "ru": "Билет стоит больше?",
-    "en": "Does the ticket cost more?"
-  },
-  {
-    "_id": 43,
-    "ru": "Эти мальчики кажутся очень талантливыми?",
-    "en": "Do these boys seem very talented?"
-  },
-  {
-    "_id": 44,
-    "ru": "Тебе подходит время нашей встречи?",
-    "en": "Does the time of our meeting suit you?"
-  },
-  {
-    "_id": 45,
-    "ru": "Этот дом стоит свыше двух миллионов долларов?",
-    "en": "Does this house cost over two million dollars?"
-  },
-  {
-    "_id": 46,
-    "ru": "Твоя жена часто делает покупки?",
-    "en": "Does your wife often do the shopping?"
-  },
-  {
-    "_id": 47,
-    "ru": "То время для них удобно?",
-    "en": "Is that time convenient for them?"
-  },
-  {
-    "_id": 48,
-    "ru": "Эти новости действительно странные?",
-    "en": "Is this news really strange?"
-  },
-  {
-    "_id": 49,
-    "ru": "Эта вещь зависит от меня?",
-    "en": "Does this thing depend on me?"
-  },
-  {
-    "_id": 50,
-    "ru": "Твой друг уверен в этом?",
-    "en": "Is your friend sure about it?"
-  },
-  {
-    "_id": 51,
-    "ru": "Этих знаний достаточно?",
-    "en": "Is this knowledge enough?"
-  },
-  {
-    "_id": 52,
-    "ru": "Эта работа очень стрессовая?",
-    "en": "Is this job very stressful?"
-  },
-  {
-    "_id": 53,
-    "ru": "У мальчика действительно выдающиеся результаты?",
-    "en": "Does the boy really have outstanding results?"
-  },
-  {
-    "_id": 54,
-    "ru": "Твои родители очень устали?",
-    "en": "Are your parents very tired?"
-  },
-  {
-    "_id": 55,
-    "ru": "Мальчик чувствует себя очень уставшим?",
-    "en": "Does the boy feel very tired?"
-  },
-  {
-    "_id": 56,
-    "ru": "Тест чрезвычайно сложный?",
-    "en": "Is the test extremely difficult?"
-  },
-  {
-    "_id": 57,
-    "ru": "Твоя работа очень стрессовая?",
-    "en": "Is your job very stressful?"
-  },
-  {
-    "_id": 58,
-    "ru": "Твоя работа очень тяжелая?",
-    "en": "Is your job very hard?"
-  },
-  {
-    "_id": 59,
-    "ru": "Их работа действительно стрессовая?",
-    "en": "Is their job really stressful?"
-  },
-  {
-    "_id": 60,
-    "ru": "У твоего друга стабильный доход?",
-    "en": "Does your friend have a stable income?"
-  },
-  {
-    "_id": 61,
-    "ru": "У твоих друзей стабильный доход?",
-    "en": "Do your friends have a stable income?"
-  },
-  {
-    "_id": 62,
-    "ru": "У тебя стабильный доход?",
-    "en": "Do you have a stable income?"
-  },
-  {
-    "_id": 63,
-    "ru": "У ее мужа хорошо оплачиваемая работа?",
-    "en": "Does her husband have a well-paid job?"
-  },
-  {
-    "_id": 64,
-    "ru": "У них хорошая работа?",
-    "en": "Do they have a good job?"
-  },
-  {
-    "_id": 65,
-    "ru": "У твоей жены стрессовая работа?",
-    "en": "Does your wife have a stressful job?"
-  },
-  {
-    "_id": 66,
-    "ru": "Еда хорошо пахнет?",
-    "en": "Does the food smell good?"
-  },
-  {
-    "_id": 67,
-    "ru": "Моя еда хорошо пахнет?",
-    "en": "Does my food smell good?"
-  },
-  {
-    "_id": 68,
-    "ru": "Эта еда хорошо пахнет?",
-    "en": "Does this food smell good?"
-  },
-  {
-    "_id": 69,
-    "ru": "Это время удобно для тебя?",
-    "en": "Is this time convenient for you?"
-  },
-  {
-    "_id": 70,
-    "ru": "Время удобно для него?",
-    "en": "Is the time convenient for him?"
-  },
-  {
-    "_id": 71,
-    "ru": "Его друг действительно уверен в этом?",
-    "en": "Is his friend really sure about it?"
-  },
-  {
-    "_id": 72,
-    "ru": "Ты действительно уверен в этом?",
-    "en": "Are you really sure about it?"
-  },
-  {
-    "_id": 73,
-    "ru": "Его друзья действительно уверены в этом?",
-    "en": "Are his friends really sure about it?"
-  },
-  {
-    "_id": 74,
-    "ru": "Этот певец поет очень красиво?",
-    "en": "Does this singer sing very beautifully?"
-  },
-  {
-    "_id": 75,
-    "ru": "Эти певцы поют очень красиво?",
-    "en": "Do these singers sing very beautifully?"
-  },
-  {
-    "_id": 76,
-    "ru": "Эти мужчины поют очень красиво?",
-    "en": "Do these men sing very beautifully?"
-  },
-  {
-    "_id": 77,
-    "ru": "Этот урок длится дольше?",
-    "en": "Does this lesson last longer?"
-  },
-  {
-    "_id": 78,
-    "ru": "Эта программа длится дольше?",
-    "en": "Does this program last longer?"
-  },
-  {
-    "_id": 79,
-    "ru": "Эти уроки длятся дольше?",
-    "en": "Do these lessons last longer?"
-  },
-  {
-    "_id": 80,
-    "ru": "Женщина беременна?",
-    "en": "Is the woman pregnant?"
-  },
-  {
-    "_id": 81,
-    "ru": "Твоя жена беременна?",
-    "en": "Is your wife pregnant?"
-  },
-  {
-    "_id": 82,
-    "ru": "Эта женщина беременна?",
-    "en": "Is this woman pregnant?"
-  },
-  {
-    "_id": 83,
-    "ru": "Эта еда пахнет очень хорошо?",
-    "en": "Does this food smell very good?"
-  },
-  {
-    "_id": 84,
-    "ru": "Еда пахнет очень плохо?",
-    "en": "Does the food smell very bad?"
-  },
-  {
-    "_id": 85,
-    "ru": "Эти апельсины пахнут действительно хорошо?",
-    "en": "Do these oranges smell really good?"
-  },
-  {
-    "_id": 86,
-    "ru": "Эта пара джинс стоит шестьдесят долларов?",
-    "en": "Does this pair of jeans cost sixty dollars?"
-  },
-  {
-    "_id": 87,
-    "ru": "Эти брюки стоят меньше денег?",
-    "en": "Do these trousers cost less money?"
-  },
-  {
-    "_id": 88,
-    "ru": "Эта вещь - пустая трата времени?",
-    "en": "Is this thing a waste of time?"
-  },
-  {
-    "_id": 89,
-    "ru": "Твоя жена часто ходит за покупками?",
-    "en": "Does your wife often go shopping?"
-  },
-  {
-    "_id": 90,
-    "ru": "Эти новости звучат действительно странно?",
-    "en": "Does this news sound really strange?"
-  },
-  {
-    "_id": 91,
-    "ru": "Эти вещи зависят от нас?",
-    "en": "Do these things depend on us?"
-  },
-  {
-    "_id": 92,
-    "ru": "Те мальчики часто тратят время в пустую?",
-    "en": "Do those boys often waste time?"
-  },
-  {
-    "_id": 93,
-    "ru": "Эти джинсы подходят тебе?",
-    "en": "Do these jeans suit you?"
-  },
-  {
-    "_id": 94,
-    "ru": "Стул удобен для тебя?",
-    "en": "Is the chair comfortable for you?"
-  },
-  {
-    "_id": 95,
-    "ru": "Этот свитер подходит тебе?",
-    "en": "Does this sweater suit you?"
-  },
-  {
-    "_id": 96,
-    "ru": "Эта пара брюк стоит двадцать три доллара?",
-    "en": "Does this pair of trousers cost twenty three dollars?"
-  },
-  {
-    "_id": 97,
-    "ru": "Та женщина беременная?",
-    "en": "Is that woman pregnant?"
-  },
-  {
-    "_id": 98,
-    "ru": "Девочка показывает выдающиеся результаты?",
-    "en": "Does the girl show outstanding results?"
-  },
-  {
-    "_id": 99,
-    "ru": "Эти джинсы стоят восемьдесят долларов?",
-    "en": "Do these jeans cost eighty dollars?"
-  },
-  {
-    "_id": 100,
-    "ru": "Еда пахнет плохо?",
-    "en": "Does the food smell bad?"
+    "id": 1,
+    "ru": {
+      "text": "Эти джинсы стоят восемьдесят долларов?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do these jeans cost eighty dollars?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Еда плохо пахнет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does the food smell bad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Торт вкусный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the cake tasty?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Твои родители правы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are your parents right?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Эта вещь действительно интересна тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this thing really interesting for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Твои бабушка с дедушкой часто приходят к тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do your grandparents often come to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Этот певец очень популярен в Америке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this singer very popular in America?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Те мальчики очень умные?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are those boys very smart?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Твоя бабушка помогает тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does your granny help you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Этот уровень слишком сложный для них?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this level too difficult for them?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Пациент чувствует себя лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does the patient feel better?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Этот текст кажется очень сложным?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this text seem very difficult?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Этот путь намного короче?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this way much shorter?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Та вещь интересует тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does that thing interest you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Дети дома?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are the kids at home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Мальчик очень высокий для своего возраста?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the boy very tall for his age?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Гора очень высокая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the mountain very high?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Компания очень богатая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the company very rich?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Этой практики достаточно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this practice enough?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Этот пациент хуже?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this patient worse?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Торт вкусный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the cake tasty?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Еда хорошая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the food good?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Дом новый?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the house new?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Озеро очень холодное?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the lake very cold?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Пациент чувствует себя намного лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does the patient feel much better?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Горы очень высокие?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are the mountains very high?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Этот мальчик выглядит очень умным?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this boy look very smart?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Этот канал очень полезный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this channel very useful?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Стол круглый?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the table round?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Билеты стоят больше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do the tickets cost more?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Этот уровень элементарный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this level elementary?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Река очень красивая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the river very beautiful?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Тест слишком легкий для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the test too easy for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Компания выглядит очень успешной?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does the company look very successful?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Этой практики кажется достаточно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this practice seem enough?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Этот музыкант очень талантливый?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this musician very talented?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Это промежуточный уровень?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it an intermediate level?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Тот уровень промежуточный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is that level intermediate?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Этот путь кажется гораздо короче?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this way seem much shorter?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Это элементарный уровень?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it an elementary level?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Еда очень вкусная?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the food very tasty?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Билет стоит больше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does the ticket cost more?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Эти мальчики кажутся очень талантливыми?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do these boys seem very talented?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Тебе подходит время нашей встречи?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does the time of our meeting suit you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Этот дом стоит свыше двух миллионов долларов?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this house cost over two million dollars?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Твоя жена часто делает покупки?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does your wife often do the shopping?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "То время для них удобно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is that time convenient for them?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Эти новости действительно странные?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this news really strange?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Эта вещь зависит от меня?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this thing depend on me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Твой друг уверен в этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is your friend sure about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Этих знаний достаточно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this knowledge enough?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Эта работа очень стрессовая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this job very stressful?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "У мальчика действительно выдающиеся результаты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does the boy really have outstanding results?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Твои родители очень устали?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are your parents very tired?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Мальчик чувствует себя очень уставшим?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does the boy feel very tired?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Тест чрезвычайно сложный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the test extremely difficult?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Твоя работа очень стрессовая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is your job very stressful?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Твоя работа очень тяжелая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is your job very hard?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Их работа действительно стрессовая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is their job really stressful?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "У твоего друга стабильный доход?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does your friend have a stable income?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "У твоих друзей стабильный доход?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do your friends have a stable income?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "У тебя стабильный доход?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you have a stable income?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "У ее мужа хорошо оплачиваемая работа?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does her husband have a well-paid job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "У них хорошая работа?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do they have a good job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "У твоей жены стрессовая работа?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does your wife have a stressful job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Еда хорошо пахнет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does the food smell good?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Моя еда хорошо пахнет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does my food smell good?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Эта еда хорошо пахнет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this food smell good?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Это время удобно для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this time convenient for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Время удобно для него?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the time convenient for him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Его друг действительно уверен в этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is his friend really sure about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Ты действительно уверен в этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you really sure about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Его друзья действительно уверены в этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are his friends really sure about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Этот певец поет очень красиво?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this singer sing very beautifully?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Эти певцы поют очень красиво?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do these singers sing very beautifully?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Эти мужчины поют очень красиво?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do these men sing very beautifully?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Этот урок длится дольше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this lesson last longer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Эта программа длится дольше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this program last longer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Эти уроки длятся дольше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do these lessons last longer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Женщина беременна?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the woman pregnant?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Твоя жена беременна?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is your wife pregnant?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Эта женщина беременна?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this woman pregnant?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Эта еда пахнет очень хорошо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this food smell very good?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Еда пахнет очень плохо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does the food smell very bad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Эти апельсины пахнут действительно хорошо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do these oranges smell really good?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Эта пара джинс стоит шестьдесят долларов?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this pair of jeans cost sixty dollars?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Эти брюки стоят меньше денег?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do these trousers cost less money?",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Эта вещь - пустая трата времени?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this thing a waste of time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Твоя жена часто ходит за покупками?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does your wife often go shopping?",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Эти новости звучат действительно странно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this news sound really strange?",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Эти вещи зависят от нас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do these things depend on us?",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Те мальчики часто тратят время в пустую?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do those boys often waste time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Эти джинсы подходят тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do these jeans suit you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Стул удобен для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the chair comfortable for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Этот свитер подходит тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this sweater suit you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Эта пара брюк стоит двадцать три доллара?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does this pair of trousers cost twenty three dollars?",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Та женщина беременная?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is that woman pregnant?",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Девочка показывает выдающиеся результаты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does the girl show outstanding results?",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Эти джинсы стоят восемьдесят долларов?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do these jeans cost eighty dollars?",
+      "audio": false
+    }
+  },
+  {
+    "id": 100,
+    "ru": {
+      "text": "Еда пахнет плохо?",
+      "audio": false
+    },
+    "en": {
+      "text": "Does the food smell bad?",
+      "audio": false
+    }
   }
 ]

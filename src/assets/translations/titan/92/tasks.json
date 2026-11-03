@@ -1,487 +1,1069 @@
 [
   {
-    "_id": 1,
-    "ru": "Она сдержала свое обещание",
-    "en": "She kept her promise"
-  },
-  {
-    "_id": 2,
-    "ru": "Она обычно носила очень неформальную одежду",
-    "en": "She usually wore very informal clothes"
-  },
-  {
-    "_id": 3,
-    "ru": "Я в основном носил повседневную одежду",
-    "en": "I mostly wore casual clothes"
-  },
-  {
-    "_id": 4,
-    "ru": "Я получал так много сообщений каждый день",
-    "en": "I got so many messages every day"
-  },
-  {
-    "_id": 5,
-    "ru": "Он сказал очень важную вещь",
-    "en": "He said a very important thing"
-  },
-  {
-    "_id": 6,
-    "ru": "Он держал свои деньги в нескольких банках",
-    "en": "He kept his money in several banks"
-  },
-  {
-    "_id": 7,
-    "ru": "Я имел в виду другую вещь",
-    "en": "I meant another thing"
-  },
-  {
-    "_id": 8,
-    "ru": "Билет вчера стоил пятьдесят долларов",
-    "en": "The ticket cost fifty dollars yesterday"
-  },
-  {
-    "_id": 9,
-    "ru": "Она улетела в США",
-    "en": "She flew to the United States"
-  },
-  {
-    "_id": 10,
-    "ru": "Я чувствовал себя действительно счастливым",
-    "en": "I felt really happy"
-  },
-  {
-    "_id": 11,
-    "ru": "Они построили завод",
-    "en": "They built a factory"
-  },
-  {
-    "_id": 12,
-    "ru": "Он купил маленькую квартиру",
-    "en": "He bought a small apartment"
-  },
-  {
-    "_id": 13,
-    "ru": "Он потерял терпение",
-    "en": "He lost patience"
-  },
-  {
-    "_id": 14,
-    "ru": "Сколько стоили билеты?",
-    "en": "How much did the tickets cost?"
-  },
-  {
-    "_id": 15,
-    "ru": "Он поехал на работу на машине",
-    "en": "He went to work by car"
-  },
-  {
-    "_id": 16,
-    "ru": "Я внезапно потерял концентрацию",
-    "en": "I lost concentration suddenly"
-  },
-  {
-    "_id": 17,
-    "ru": "Что означали ее слова?",
-    "en": "What did her words mean?"
-  },
-  {
-    "_id": 18,
-    "ru": "Сколько стоил компьютер?",
-    "en": "How much did the computer cost?"
-  },
-  {
-    "_id": 19,
-    "ru": "Я носил школьную форму",
-    "en": "I wore a school uniform"
-  },
-  {
-    "_id": 20,
-    "ru": "Он сохранил этот секрет",
-    "en": "He kept this secret"
-  },
-  {
-    "_id": 21,
-    "ru": "Они построили настоящий дворец",
-    "en": "They built a real palace"
-  },
-  {
-    "_id": 22,
-    "ru": "Он носил слишком формальную одежду",
-    "en": "He wore too formal clothes"
-  },
-  {
-    "_id": 23,
-    "ru": "Ты носил школьную форму?",
-    "en": "Did you wear a school uniform?"
-  },
-  {
-    "_id": 24,
-    "ru": "Он улетел за границу на прошлой неделе",
-    "en": "He flew abroad last week"
-  },
-  {
-    "_id": 25,
-    "ru": "Они продали свой старый дом",
-    "en": "They sold their old house"
-  },
-  {
-    "_id": 26,
-    "ru": "Она потеряла контроль",
-    "en": "She lost control"
-  },
-  {
-    "_id": 27,
-    "ru": "Я поехал на работу на автобусе",
-    "en": "I went to work by bus"
-  },
-  {
-    "_id": 28,
-    "ru": "Сколько стоила эта услуга?",
-    "en": "How much was this service?"
-  },
-  {
-    "_id": 29,
-    "ru": "Конференция началась десять минут назад",
-    "en": "The conference began ten minutes ago"
-  },
-  {
-    "_id": 30,
-    "ru": "Он потерял ключи",
-    "en": "He lost the keys"
-  },
-  {
-    "_id": 31,
-    "ru": "Она потеряла свой кошелек",
-    "en": "She lost her purse"
-  },
-  {
-    "_id": 32,
-    "ru": "Я поехал в эту страну на самолете",
-    "en": "I went to this country by plane"
-  },
-  {
-    "_id": 33,
-    "ru": "Мы поехали в тот город на поезде",
-    "en": "We went to that city by train"
-  },
-  {
-    "_id": 34,
-    "ru": "Урок начался",
-    "en": "The lesson began"
-  },
-  {
-    "_id": 35,
-    "ru": "Билеты стоят так дорого",
-    "en": "The tickets cost so much"
-  },
-  {
-    "_id": 36,
-    "ru": "Они построили дворец",
-    "en": "They built a palace"
-  },
-  {
-    "_id": 37,
-    "ru": "Цена была такой высокой",
-    "en": "The price was so high"
-  },
-  {
-    "_id": 38,
-    "ru": "Сколько стоили билеты?",
-    "en": "How much were the tickets?"
-  },
-  {
-    "_id": 39,
-    "ru": "Они показали это по телевизору",
-    "en": "They showed it on television"
-  },
-  {
-    "_id": 40,
-    "ru": "Я мог делать эти две вещи одновременно",
-    "en": "I could do these two things at the same time"
-  },
-  {
-    "_id": 41,
-    "ru": "Он одолжил ему эту сумму денег",
-    "en": "He lent him this sum of money"
-  },
-  {
-    "_id": 42,
-    "ru": "Я мог слушать это, делая другие вещи",
-    "en": "I could listen to it doing other things"
-  },
-  {
-    "_id": 43,
-    "ru": "Платье подходило ей очень хорошо",
-    "en": "The dress fit her very well"
-  },
-  {
-    "_id": 44,
-    "ru": "Она сказала следующую вещь",
-    "en": "She said the following thing"
-  },
-  {
-    "_id": 45,
-    "ru": "Я лег",
-    "en": "I lay down"
-  },
-  {
-    "_id": 46,
-    "ru": "Он одолжил ей очень большую сумму денег",
-    "en": "He lent her a very big sum of money"
-  },
-  {
-    "_id": 47,
-    "ru": "Он позвонил мне, когда я был в ванной",
-    "en": "He rang me when I was in the bathroom"
-  },
-  {
-    "_id": 48,
-    "ru": "Обувь мне идеально подошла",
-    "en": "The shoes fit me perfectly"
-  },
-  {
-    "_id": 49,
-    "ru": "Он не пришел на вечеринку",
-    "en": "He didn't come to the party"
-  },
-  {
-    "_id": 50,
-    "ru": "Я мог делать это часами",
-    "en": "I could do it for hours"
-  },
-  {
-    "_id": 51,
-    "ru": "Кого они побили?",
-    "en": "Who did they beat?"
-  },
-  {
-    "_id": 52,
-    "ru": "Я чувствовал себя таким счастливым, что смог сделать это",
-    "en": "I felt so happy that I could do it"
-  },
-  {
-    "_id": 53,
-    "ru": "Она сказала чрезвычайно важную вещь",
-    "en": "She said an extremely important thing"
-  },
-  {
-    "_id": 54,
-    "ru": "Я обычно получал более пятидесяти звонков в день",
-    "en": "I usually got over fifty calls daily"
-  },
-  {
-    "_id": 55,
-    "ru": "Он отказался одолжить им эти деньги",
-    "en": "He refused to lend them this money"
-  },
-  {
-    "_id": 56,
-    "ru": "Я отказался одолжить ему эти деньги",
-    "en": "I refused to lend him this money"
-  },
-  {
-    "_id": 57,
-    "ru": "Он отказался одолжить мне эти деньги",
-    "en": "He refused to lend me this money"
-  },
-  {
-    "_id": 58,
-    "ru": "Кто избил его так сильно?",
-    "en": "Who beat him so badly?"
-  },
-  {
-    "_id": 59,
-    "ru": "Кто избил их так сильно?",
-    "en": "Who beat them so badly?"
-  },
-  {
-    "_id": 60,
-    "ru": "Кого он избил так сильно?",
-    "en": "Who did he beat so badly?"
-  },
-  {
-    "_id": 61,
-    "ru": "Он лег на пол",
-    "en": "He lay on the floor"
-  },
-  {
-    "_id": 62,
-    "ru": "Он лег на землю",
-    "en": "He lay on the ground"
-  },
-  {
-    "_id": 63,
-    "ru": "Он лежит на полу",
-    "en": "He lies on the floor"
-  },
-  {
-    "_id": 64,
-    "ru": "Он пришел к нам час назад",
-    "en": "He came to us an hour ago"
-  },
-  {
-    "_id": 65,
-    "ru": "Он пришел ко мне два часа назад",
-    "en": "He came to me two hours ago"
-  },
-  {
-    "_id": 66,
-    "ru": "Она пришла туда час назад",
-    "en": "She came there an hour ago"
-  },
-  {
-    "_id": 67,
-    "ru": "Я прочитал это в новостях",
-    "en": "I read it in the news"
-  },
-  {
-    "_id": 68,
-    "ru": "Он прочитал это в новостях",
-    "en": "He read it in the news"
-  },
-  {
-    "_id": 69,
-    "ru": "Она прочитала что-то в новостях",
-    "en": "She read something in the news"
-  },
-  {
-    "_id": 70,
-    "ru": "Тот свитер подходил мне идеально",
-    "en": "That sweater fit me perfectly"
-  },
-  {
-    "_id": 71,
-    "ru": "Этот свитер подходил ему идеально",
-    "en": "This sweater fit him perfectly"
-  },
-  {
-    "_id": 72,
-    "ru": "Это было выдающееся достижение",
-    "en": "It was an outstanding achievement"
-  },
-  {
-    "_id": 73,
-    "ru": "Это не было выдающимся достижением",
-    "en": "It wasn't an outstanding achievement"
-  },
-  {
-    "_id": 74,
-    "ru": "Это был выдающийся результат",
-    "en": "It was an outstanding result"
-  },
-  {
-    "_id": 75,
-    "ru": "Собака лежала на полу",
-    "en": "The dog lay on the floor"
-  },
-  {
-    "_id": 76,
-    "ru": "Собака лежала на этом стуле",
-    "en": "The dog lay on this chair"
-  },
-  {
-    "_id": 77,
-    "ru": "Собака лежала на земле",
-    "en": "The dog lay on the ground"
-  },
-  {
-    "_id": 78,
-    "ru": "Они избили его очень сильно",
-    "en": "They beat him very badly"
-  },
-  {
-    "_id": 79,
-    "ru": "Они очень сильно меня избили",
-    "en": "They beat me very badly"
-  },
-  {
-    "_id": 80,
-    "ru": "Они избили его так сильно",
-    "en": "They beat him so badly"
-  },
-  {
-    "_id": 81,
-    "ru": "Я пришел домой позже, чем обычно",
-    "en": "I came home later than usual"
-  },
-  {
-    "_id": 82,
-    "ru": "Я пришел на работу позже, чем обычно",
-    "en": "I came to work later than usual"
-  },
-  {
-    "_id": 83,
-    "ru": "Я пришел домой раньше, чем обычно",
-    "en": "I came home earlier than usual"
-  },
-  {
-    "_id": 84,
-    "ru": "Я обычно получал около пятидесяти электронных писем в день",
-    "en": "I usually got about fifty emails a day"
-  },
-  {
-    "_id": 85,
-    "ru": "Я решил выбрать второй ответ",
-    "en": "I decided to choose the second answer"
-  },
-  {
-    "_id": 86,
-    "ru": "Он проиграл в конце",
-    "en": "He lost in the end"
-  },
-  {
-    "_id": 87,
-    "ru": "Он показал мне, как сделать это",
-    "en": "He showed me how to do it"
-  },
-  {
-    "_id": 88,
-    "ru": "Встреча началась полчаса назад",
-    "en": "The meeting began half an hour ago"
-  },
-  {
-    "_id": 89,
-    "ru": "Они не были уверены в этом",
-    "en": "They weren’t sure about it"
-  },
-  {
-    "_id": 90,
-    "ru": "Он сказал, что он был невероятно занят",
-    "en": "He said that he was incredibly busy"
-  },
-  {
-    "_id": 91,
-    "ru": "Джинсы ей действительно хорошо подошли",
-    "en": "The jeans fit her really well"
-  },
-  {
-    "_id": 92,
-    "ru": "Лекция началась минуту назад",
-    "en": "The lecture began a minute ago"
-  },
-  {
-    "_id": 93,
-    "ru": "Он сказал следующее",
-    "en": "He said the following"
-  },
-  {
-    "_id": 94,
-    "ru": "Звонок прозвенел внезапно",
-    "en": "The bell rang suddenly"
-  },
-  {
-    "_id": 95,
-    "ru": "Он перезвонил мне",
-    "en": "He rang me back"
-  },
-  {
-    "_id": 96,
-    "ru": "Это была очень высокая цена",
-    "en": "It was a very high price"
-  },
-  {
-    "_id": 97,
-    "ru": "Я выбрал первый ответ",
-    "en": "I chose the first answer"
+    "id": 1,
+    "ru": {
+      "text": "Она сдержала свое обещание",
+      "audio": false
+    },
+    "en": {
+      "text": "She kept her promise",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Она обычно носила очень неформальную одежду",
+      "audio": false
+    },
+    "en": {
+      "text": "She usually wore very informal clothes",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я в основном носил повседневную одежду",
+      "audio": false
+    },
+    "en": {
+      "text": "I mostly wore casual clothes",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я получал так много сообщений каждый день",
+      "audio": false
+    },
+    "en": {
+      "text": "I got so many messages every day",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Он сказал очень важную вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "He said a very important thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Он держал свои деньги в нескольких банках",
+      "audio": false
+    },
+    "en": {
+      "text": "He kept his money in several banks",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Я имел в виду другую вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "I meant another thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Билет вчера стоил пятьдесят долларов",
+      "audio": false
+    },
+    "en": {
+      "text": "The ticket cost fifty dollars yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Она улетела в США",
+      "audio": false
+    },
+    "en": {
+      "text": "She flew to the United States",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я чувствовал себя действительно счастливым",
+      "audio": false
+    },
+    "en": {
+      "text": "I felt really happy",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Они построили завод",
+      "audio": false
+    },
+    "en": {
+      "text": "They built a factory",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Он купил маленькую квартиру",
+      "audio": false
+    },
+    "en": {
+      "text": "He bought a small apartment",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он потерял терпение",
+      "audio": false
+    },
+    "en": {
+      "text": "He lost patience",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Сколько стоили билеты?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much did the tickets cost?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Он поехал на работу на машине",
+      "audio": false
+    },
+    "en": {
+      "text": "He went to work by car",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я внезапно потерял концентрацию",
+      "audio": false
+    },
+    "en": {
+      "text": "I lost concentration suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Что означали ее слова?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did her words mean?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Сколько стоил компьютер?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much did the computer cost?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я носил школьную форму",
+      "audio": false
+    },
+    "en": {
+      "text": "I wore a school uniform",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Он сохранил этот секрет",
+      "audio": false
+    },
+    "en": {
+      "text": "He kept this secret",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Они построили настоящий дворец",
+      "audio": false
+    },
+    "en": {
+      "text": "They built a real palace",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Он носил слишком формальную одежду",
+      "audio": false
+    },
+    "en": {
+      "text": "He wore too formal clothes",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Ты носил школьную форму?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you wear a school uniform?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Он улетел за границу на прошлой неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "He flew abroad last week",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Они продали свой старый дом",
+      "audio": false
+    },
+    "en": {
+      "text": "They sold their old house",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Она потеряла контроль",
+      "audio": false
+    },
+    "en": {
+      "text": "She lost control",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я поехал на работу на автобусе",
+      "audio": false
+    },
+    "en": {
+      "text": "I went to work by bus",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Сколько стоила эта услуга?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much was this service?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Конференция началась десять минут назад",
+      "audio": false
+    },
+    "en": {
+      "text": "The conference began ten minutes ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Он потерял ключи",
+      "audio": false
+    },
+    "en": {
+      "text": "He lost the keys",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Она потеряла свой кошелек",
+      "audio": false
+    },
+    "en": {
+      "text": "She lost her purse",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я поехал в эту страну на самолете",
+      "audio": false
+    },
+    "en": {
+      "text": "I went to this country by plane",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Мы поехали в тот город на поезде",
+      "audio": false
+    },
+    "en": {
+      "text": "We went to that city by train",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Урок начался",
+      "audio": false
+    },
+    "en": {
+      "text": "The lesson began",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Билеты стоят так дорого",
+      "audio": false
+    },
+    "en": {
+      "text": "The tickets cost so much",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Они построили дворец",
+      "audio": false
+    },
+    "en": {
+      "text": "They built a palace",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Цена была такой высокой",
+      "audio": false
+    },
+    "en": {
+      "text": "The price was so high",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Сколько стоили билеты?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much were the tickets?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Они показали это по телевизору",
+      "audio": false
+    },
+    "en": {
+      "text": "They showed it on television",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я мог делать эти две вещи одновременно",
+      "audio": false
+    },
+    "en": {
+      "text": "I could do these two things at the same time",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Он одолжил ему эту сумму денег",
+      "audio": false
+    },
+    "en": {
+      "text": "He lent him this sum of money",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я мог слушать это, делая другие вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "I could listen to it doing other things",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Платье подходило ей очень хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "The dress fit her very well",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Она сказала следующую вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "She said the following thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я лег",
+      "audio": false
+    },
+    "en": {
+      "text": "I lay down",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Он одолжил ей очень большую сумму денег",
+      "audio": false
+    },
+    "en": {
+      "text": "He lent her a very big sum of money",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Он позвонил мне, когда я был в ванной",
+      "audio": false
+    },
+    "en": {
+      "text": "He rang me when I was in the bathroom",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Обувь мне идеально подошла",
+      "audio": false
+    },
+    "en": {
+      "text": "The shoes fit me perfectly",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Он не пришел на вечеринку",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't come to the party",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я мог делать это часами",
+      "audio": false
+    },
+    "en": {
+      "text": "I could do it for hours",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Кого они побили?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who did they beat?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я чувствовал себя таким счастливым, что смог сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I felt so happy that I could do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Она сказала чрезвычайно важную вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "She said an extremely important thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я обычно получал более пятидесяти звонков в день",
+      "audio": false
+    },
+    "en": {
+      "text": "I usually got over fifty calls daily",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Он отказался одолжить им эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "He refused to lend them this money",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я отказался одолжить ему эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "I refused to lend him this money",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Он отказался одолжить мне эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "He refused to lend me this money",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Кто избил его так сильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who beat him so badly?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Кто избил их так сильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who beat them so badly?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Кого он избил так сильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who did he beat so badly?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он лег на пол",
+      "audio": false
+    },
+    "en": {
+      "text": "He lay on the floor",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Он лег на землю",
+      "audio": false
+    },
+    "en": {
+      "text": "He lay on the ground",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Он лежит на полу",
+      "audio": false
+    },
+    "en": {
+      "text": "He lies on the floor",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он пришел к нам час назад",
+      "audio": false
+    },
+    "en": {
+      "text": "He came to us an hour ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Он пришел ко мне два часа назад",
+      "audio": false
+    },
+    "en": {
+      "text": "He came to me two hours ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Она пришла туда час назад",
+      "audio": false
+    },
+    "en": {
+      "text": "She came there an hour ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я прочитал это в новостях",
+      "audio": false
+    },
+    "en": {
+      "text": "I read it in the news",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Он прочитал это в новостях",
+      "audio": false
+    },
+    "en": {
+      "text": "He read it in the news",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Она прочитала что-то в новостях",
+      "audio": false
+    },
+    "en": {
+      "text": "She read something in the news",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Тот свитер подходил мне идеально",
+      "audio": false
+    },
+    "en": {
+      "text": "That sweater fit me perfectly",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Этот свитер подходил ему идеально",
+      "audio": false
+    },
+    "en": {
+      "text": "This sweater fit him perfectly",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Это было выдающееся достижение",
+      "audio": false
+    },
+    "en": {
+      "text": "It was an outstanding achievement",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Это не было выдающимся достижением",
+      "audio": false
+    },
+    "en": {
+      "text": "It wasn't an outstanding achievement",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Это был выдающийся результат",
+      "audio": false
+    },
+    "en": {
+      "text": "It was an outstanding result",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Собака лежала на полу",
+      "audio": false
+    },
+    "en": {
+      "text": "The dog lay on the floor",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Собака лежала на этом стуле",
+      "audio": false
+    },
+    "en": {
+      "text": "The dog lay on this chair",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Собака лежала на земле",
+      "audio": false
+    },
+    "en": {
+      "text": "The dog lay on the ground",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Они избили его очень сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "They beat him very badly",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Они очень сильно меня избили",
+      "audio": false
+    },
+    "en": {
+      "text": "They beat me very badly",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Они избили его так сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "They beat him so badly",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я пришел домой позже, чем обычно",
+      "audio": false
+    },
+    "en": {
+      "text": "I came home later than usual",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я пришел на работу позже, чем обычно",
+      "audio": false
+    },
+    "en": {
+      "text": "I came to work later than usual",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я пришел домой раньше, чем обычно",
+      "audio": false
+    },
+    "en": {
+      "text": "I came home earlier than usual",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я обычно получал около пятидесяти электронных писем в день",
+      "audio": false
+    },
+    "en": {
+      "text": "I usually got about fifty emails a day",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я решил выбрать второй ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to choose the second answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Он проиграл в конце",
+      "audio": false
+    },
+    "en": {
+      "text": "He lost in the end",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Он показал мне, как сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "He showed me how to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Встреча началась полчаса назад",
+      "audio": false
+    },
+    "en": {
+      "text": "The meeting began half an hour ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Они не были уверены в этом",
+      "audio": false
+    },
+    "en": {
+      "text": "They weren’t sure about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Он сказал, что он был невероятно занят",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he was incredibly busy",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Джинсы ей действительно хорошо подошли",
+      "audio": false
+    },
+    "en": {
+      "text": "The jeans fit her really well",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Лекция началась минуту назад",
+      "audio": false
+    },
+    "en": {
+      "text": "The lecture began a minute ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Он сказал следующее",
+      "audio": false
+    },
+    "en": {
+      "text": "He said the following",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Звонок прозвенел внезапно",
+      "audio": false
+    },
+    "en": {
+      "text": "The bell rang suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Он перезвонил мне",
+      "audio": false
+    },
+    "en": {
+      "text": "He rang me back",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Это была очень высокая цена",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a very high price",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Я выбрал первый ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I chose the first answer",
+      "audio": false
+    }
   }
 ]

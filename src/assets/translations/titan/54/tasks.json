@@ -1,497 +1,1091 @@
 [
   {
-    "_id": 1,
-    "ru": "Они работают в другом месте",
-    "en": "They work in another place"
-  },
-  {
-    "_id": 2,
-    "ru": "Он думает о своей семье",
-    "en": "He thinks about his family"
-  },
-  {
-    "_id": 3,
-    "ru": "Я счастлив быть здесь",
-    "en": "I am happy to be here"
-  },
-  {
-    "_id": 4,
-    "ru": "Они из разных стран",
-    "en": "They are from different countries"
-  },
-  {
-    "_id": 5,
-    "ru": "Он очень стар",
-    "en": "He is very old"
-  },
-  {
-    "_id": 6,
-    "ru": "Она из Лондона",
-    "en": "She is from London"
-  },
-  {
-    "_id": 7,
-    "ru": "Это очень популярная песня",
-    "en": "It's a very popular song"
-  },
-  {
-    "_id": 8,
-    "ru": "Она боится их",
-    "en": "She is afraid of them"
-  },
-  {
-    "_id": 9,
-    "ru": "Это проблема для них",
-    "en": "It's a problem for them"
-  },
-  {
-    "_id": 10,
-    "ru": "У тебя хорошая работа",
-    "en": "You have a good job"
-  },
-  {
-    "_id": 11,
-    "ru": "Это новый компьютер",
-    "en": "It is a new computer"
-  },
-  {
-    "_id": 12,
-    "ru": "Они в разных странах",
-    "en": "They are in different countries"
-  },
-  {
-    "_id": 13,
-    "ru": "Мне нужен новый компьютер",
-    "en": "I need a new computer"
-  },
-  {
-    "_id": 14,
-    "ru": "Он боится этого",
-    "en": "He's afraid of it"
-  },
-  {
-    "_id": 15,
-    "ru": "Это действительно так",
-    "en": "It is really so"
-  },
-  {
-    "_id": 16,
-    "ru": "У него одна проблема",
-    "en": "He has one problem"
-  },
-  {
-    "_id": 17,
-    "ru": "Она родом из Лос-Анджелеса",
-    "en": "She comes from Los Angeles"
-  },
-  {
-    "_id": 18,
-    "ru": "Это интересует меня",
-    "en": "It interests me"
-  },
-  {
-    "_id": 19,
-    "ru": "Они чувствуют себя такими счастливыми",
-    "en": "They feel so happy"
-  },
-  {
-    "_id": 20,
-    "ru": "Мы думаем так",
-    "en": "We think so"
-  },
-  {
-    "_id": 21,
-    "ru": "Он согласен с этим утверждением",
-    "en": "He agrees with this statement"
-  },
-  {
-    "_id": 22,
-    "ru": "Они очень счастливы",
-    "en": "They are very happy"
-  },
-  {
-    "_id": 23,
-    "ru": "Он работает в другом месте",
-    "en": "He works in another place"
-  },
-  {
-    "_id": 24,
-    "ru": "Она такая уставшая",
-    "en": "She is so tired"
-  },
-  {
-    "_id": 25,
-    "ru": "Это новое платье для нее",
-    "en": "It's a new dress for her"
-  },
-  {
-    "_id": 26,
-    "ru": "Я здесь в данный момент",
-    "en": "I'm here at the moment"
-  },
-  {
-    "_id": 27,
-    "ru": "Это кажется фантастическим",
-    "en": "It seems fantastic"
-  },
-  {
-    "_id": 28,
-    "ru": "Она хочет новое платье",
-    "en": "She wants a new dress"
-  },
-  {
-    "_id": 29,
-    "ru": "Мы согласны с тобой",
-    "en": "We agree with you"
-  },
-  {
-    "_id": 30,
-    "ru": "Она очень молодая",
-    "en": "She's very young"
-  },
-  {
-    "_id": 31,
-    "ru": "Это выглядит очень эффективно",
-    "en": "It looks very effective"
-  },
-  {
-    "_id": 32,
-    "ru": "Он чувствует себя таким уставшим",
-    "en": "He feels so tired"
-  },
-  {
-    "_id": 33,
-    "ru": "Он думает иначе",
-    "en": "He thinks differently"
-  },
-  {
-    "_id": 34,
-    "ru": "Он родом из Нью-Йорка",
-    "en": "He comes from New York"
-  },
-  {
-    "_id": 35,
-    "ru": "Это хорошая работа",
-    "en": "It's a good job"
-  },
-  {
-    "_id": 36,
-    "ru": "Она выглядит очень молодо",
-    "en": "She looks very young"
-  },
-  {
-    "_id": 37,
-    "ru": "Я согласен с этим утверждением",
-    "en": "I agree with this statement"
-  },
-  {
-    "_id": 38,
-    "ru": "Это фантастически",
-    "en": "It is fantastic"
-  },
-  {
-    "_id": 39,
-    "ru": "Она живет в прекрасном месте",
-    "en": "She lives in a lovely place"
-  },
-  {
-    "_id": 40,
-    "ru": "Он из Соединенных Штатов",
-    "en": "He is from the United States"
-  },
-  {
-    "_id": 41,
-    "ru": "Это прекрасное место",
-    "en": "It is a lovely place"
-  },
-  {
-    "_id": 42,
-    "ru": "Они живут в очень большом доме",
-    "en": "They live in a very big house"
-  },
-  {
-    "_id": 43,
-    "ru": "Я очень устал",
-    "en": "I am very tired"
-  },
-  {
-    "_id": 44,
-    "ru": "Это маленький дом",
-    "en": "It's a small house"
-  },
-  {
-    "_id": 45,
-    "ru": "Это интересно мне",
-    "en": "It's interesting for me"
-  },
-  {
-    "_id": 46,
-    "ru": "Это чрезвычайно важная вещь",
-    "en": "It's an extremely important thing"
-  },
-  {
-    "_id": 47,
-    "ru": "Это большой успех",
-    "en": "It is a big success"
-  },
-  {
-    "_id": 48,
-    "ru": "Он выглядит шокированным",
-    "en": "He looks shocked"
-  },
-  {
-    "_id": 49,
-    "ru": "Это кажется лучшим решением этой проблемы",
-    "en": "It seems the best solution to this problem"
-  },
-  {
-    "_id": 50,
-    "ru": "Ты выглядишь очень удивленным",
-    "en": "You look very surprised"
-  },
-  {
-    "_id": 51,
-    "ru": "У них очень интересные обычаи и традиции",
-    "en": "They have very interesting customs and traditions"
-  },
-  {
-    "_id": 52,
-    "ru": "Это лучшее решение этой проблемы",
-    "en": "It's the best solution to this problem"
-  },
-  {
-    "_id": 53,
-    "ru": "Это кажется лучшим решением",
-    "en": "It seems the best decision"
-  },
-  {
-    "_id": 54,
-    "ru": "Я так удивлен",
-    "en": "I am so surprised"
-  },
-  {
-    "_id": 55,
-    "ru": "Я думаю, это огромный успех",
-    "en": "I think it is a huge success"
-  },
-  {
-    "_id": 56,
-    "ru": "Они часто лежат на пляже",
-    "en": "They often lie on the beach"
-  },
-  {
-    "_id": 57,
-    "ru": "Это также мне очень интересно",
-    "en": "It is also very interesting for me"
-  },
-  {
-    "_id": 58,
-    "ru": "Это чрезвычайно важная деталь",
-    "en": "It's an extremely important detail"
-  },
-  {
-    "_id": 59,
-    "ru": "Это типичная ошибка изучающих английский язык",
-    "en": "It is a typical mistake of English learners"
-  },
-  {
-    "_id": 60,
-    "ru": "Это самая типичная ошибка изучающих английский язык",
-    "en": "It's the most typical mistake of English learners"
-  },
-  {
-    "_id": 61,
-    "ru": "Это огромный успех",
-    "en": "It is a huge success"
-  },
-  {
-    "_id": 62,
-    "ru": "Это действительно огромный успех",
-    "en": "It is a really huge success"
-  },
-  {
-    "_id": 63,
-    "ru": "Это действительно большой успех",
-    "en": "It's a really big success"
-  },
-  {
-    "_id": 64,
-    "ru": "Это кажется очень необычным выбором",
-    "en": "It seems a very unusual choice"
-  },
-  {
-    "_id": 65,
-    "ru": "Это кажется очень типичным выбором",
-    "en": "It seems a very typical choice"
-  },
-  {
-    "_id": 66,
-    "ru": "Это кажется очень хорошим выбором",
-    "en": "It seems a very good choice"
-  },
-  {
-    "_id": 67,
-    "ru": "Я действительно шокирован",
-    "en": "I am really shocked"
-  },
-  {
-    "_id": 68,
-    "ru": "Она действительно шокирована",
-    "en": "She is really shocked"
-  },
-  {
-    "_id": 69,
-    "ru": "Мы действительно шокированы",
-    "en": "We are really shocked"
-  },
-  {
-    "_id": 70,
-    "ru": "Это официальный документ",
-    "en": "It's an official document"
-  },
-  {
-    "_id": 71,
-    "ru": "Это новый документ",
-    "en": "It's a new document"
-  },
-  {
-    "_id": 72,
-    "ru": "Это важный документ",
-    "en": "It's an important document"
-  },
-  {
-    "_id": 73,
-    "ru": "Это кажется уникальной возможностью",
-    "en": "It seems a unique opportunity"
-  },
-  {
-    "_id": 74,
-    "ru": "Это кажется уникальным шансом",
-    "en": "It seems a unique chance"
-  },
-  {
-    "_id": 75,
-    "ru": "Это кажется отличной возможностью",
-    "en": "It seems a great opportunity"
-  },
-  {
-    "_id": 76,
-    "ru": "Это чрезвычайно важно",
-    "en": "It's extremely important"
-  },
-  {
-    "_id": 77,
-    "ru": "Это действительно важно",
-    "en": "It's really important"
-  },
-  {
-    "_id": 78,
-    "ru": "Это очень важно",
-    "en": "It's very important"
-  },
-  {
-    "_id": 79,
-    "ru": "Это уникальная возможность",
-    "en": "It is a unique opportunity"
-  },
-  {
-    "_id": 80,
-    "ru": "Это хорошая возможность",
-    "en": "It is a good opportunity"
-  },
-  {
-    "_id": 81,
-    "ru": "Это действительно большая возможность",
-    "en": "It is a really big opportunity"
-  },
-  {
-    "_id": 82,
-    "ru": "Я думаю, это большой успех",
-    "en": "I think it's a big success"
-  },
-  {
-    "_id": 83,
-    "ru": "Мы думаем, это большой успех",
-    "en": "We think it's a big success"
-  },
-  {
-    "_id": 84,
-    "ru": "Она думает, это большой успех",
-    "en": "She thinks it's a big success"
-  },
-  {
-    "_id": 85,
-    "ru": "Это кажется таким важным",
-    "en": "It seems so important"
-  },
-  {
-    "_id": 86,
-    "ru": "Ты выглядишь таким удивленным",
-    "en": "You look so surprised"
-  },
-  {
-    "_id": 87,
-    "ru": "Это очень необычный выбор",
-    "en": "It is a very unusual choice"
-  },
-  {
-    "_id": 88,
-    "ru": "Это лежит на крыше",
-    "en": "It lies on the roof"
-  },
-  {
-    "_id": 89,
-    "ru": "Это на крыше",
-    "en": "It is on the roof"
-  },
-  {
-    "_id": 90,
-    "ru": "Я думаю, это пустая трата времени",
-    "en": "I think it's a waste of time"
-  },
-  {
-    "_id": 91,
-    "ru": "Это кажется пустой тратой времени для меня",
-    "en": "It seems a waste of time for me"
-  },
-  {
-    "_id": 92,
-    "ru": "Я думаю, это действительно ужасно",
-    "en": "I think it is really terrible"
-  },
-  {
-    "_id": 93,
-    "ru": "Это пустая трата времени",
-    "en": "It's a waste of time"
-  },
-  {
-    "_id": 94,
-    "ru": "Я чрезвычайно устал",
-    "en": "I am extremely tired"
-  },
-  {
-    "_id": 95,
-    "ru": "Мне нужно найти решение этой проблемы",
-    "en": "I need to find a solution to this problem"
-  },
-  {
-    "_id": 96,
-    "ru": "Он говорит, что это чрезвычайно важно для всех нас",
-    "en": "He says that it's extremely important for all of us"
-  },
-  {
-    "_id": 97,
-    "ru": "Мы можем видеть это в официальном документе",
-    "en": "We can see it in the official document"
-  },
-  {
-    "_id": 98,
-    "ru": "Они на пляже",
-    "en": "They're on the beach"
-  },
-  {
-    "_id": 99,
-    "ru": "Это очень интересная традиция",
-    "en": "It's a very interesting tradition"
+    "id": 1,
+    "ru": {
+      "text": "Они работают в другом месте",
+      "audio": false
+    },
+    "en": {
+      "text": "They work in another place",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Он думает о своей семье",
+      "audio": false
+    },
+    "en": {
+      "text": "He thinks about his family",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я счастлив быть здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "I am happy to be here",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Они из разных стран",
+      "audio": false
+    },
+    "en": {
+      "text": "They are from different countries",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Он очень стар",
+      "audio": false
+    },
+    "en": {
+      "text": "He is very old",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Она из Лондона",
+      "audio": false
+    },
+    "en": {
+      "text": "She is from London",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Это очень популярная песня",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very popular song",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Она боится их",
+      "audio": false
+    },
+    "en": {
+      "text": "She is afraid of them",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Это проблема для них",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a problem for them",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "У тебя хорошая работа",
+      "audio": false
+    },
+    "en": {
+      "text": "You have a good job",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Это новый компьютер",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a new computer",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Они в разных странах",
+      "audio": false
+    },
+    "en": {
+      "text": "They are in different countries",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Мне нужен новый компьютер",
+      "audio": false
+    },
+    "en": {
+      "text": "I need a new computer",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Он боится этого",
+      "audio": false
+    },
+    "en": {
+      "text": "He's afraid of it",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Это действительно так",
+      "audio": false
+    },
+    "en": {
+      "text": "It is really so",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "У него одна проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "He has one problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Она родом из Лос-Анджелеса",
+      "audio": false
+    },
+    "en": {
+      "text": "She comes from Los Angeles",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Это интересует меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It interests me",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Они чувствуют себя такими счастливыми",
+      "audio": false
+    },
+    "en": {
+      "text": "They feel so happy",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Мы думаем так",
+      "audio": false
+    },
+    "en": {
+      "text": "We think so",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Он согласен с этим утверждением",
+      "audio": false
+    },
+    "en": {
+      "text": "He agrees with this statement",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Они очень счастливы",
+      "audio": false
+    },
+    "en": {
+      "text": "They are very happy",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он работает в другом месте",
+      "audio": false
+    },
+    "en": {
+      "text": "He works in another place",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Она такая уставшая",
+      "audio": false
+    },
+    "en": {
+      "text": "She is so tired",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Это новое платье для нее",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a new dress for her",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я здесь в данный момент",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm here at the moment",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Это кажется фантастическим",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems fantastic",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Она хочет новое платье",
+      "audio": false
+    },
+    "en": {
+      "text": "She wants a new dress",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Мы согласны с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "We agree with you",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Она очень молодая",
+      "audio": false
+    },
+    "en": {
+      "text": "She's very young",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Это выглядит очень эффективно",
+      "audio": false
+    },
+    "en": {
+      "text": "It looks very effective",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Он чувствует себя таким уставшим",
+      "audio": false
+    },
+    "en": {
+      "text": "He feels so tired",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Он думает иначе",
+      "audio": false
+    },
+    "en": {
+      "text": "He thinks differently",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он родом из Нью-Йорка",
+      "audio": false
+    },
+    "en": {
+      "text": "He comes from New York",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Это хорошая работа",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a good job",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Она выглядит очень молодо",
+      "audio": false
+    },
+    "en": {
+      "text": "She looks very young",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я согласен с этим утверждением",
+      "audio": false
+    },
+    "en": {
+      "text": "I agree with this statement",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Это фантастически",
+      "audio": false
+    },
+    "en": {
+      "text": "It is fantastic",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Она живет в прекрасном месте",
+      "audio": false
+    },
+    "en": {
+      "text": "She lives in a lovely place",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Он из Соединенных Штатов",
+      "audio": false
+    },
+    "en": {
+      "text": "He is from the United States",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Это прекрасное место",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a lovely place",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Они живут в очень большом доме",
+      "audio": false
+    },
+    "en": {
+      "text": "They live in a very big house",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я очень устал",
+      "audio": false
+    },
+    "en": {
+      "text": "I am very tired",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Это маленький дом",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a small house",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Это интересно мне",
+      "audio": false
+    },
+    "en": {
+      "text": "It's interesting for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Это чрезвычайно важная вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an extremely important thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Это большой успех",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a big success",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Он выглядит шокированным",
+      "audio": false
+    },
+    "en": {
+      "text": "He looks shocked",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Это кажется лучшим решением этой проблемы",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems the best solution to this problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Ты выглядишь очень удивленным",
+      "audio": false
+    },
+    "en": {
+      "text": "You look very surprised",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "У них очень интересные обычаи и традиции",
+      "audio": false
+    },
+    "en": {
+      "text": "They have very interesting customs and traditions",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Это лучшее решение этой проблемы",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the best solution to this problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Это кажется лучшим решением",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems the best decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я так удивлен",
+      "audio": false
+    },
+    "en": {
+      "text": "I am so surprised",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я думаю, это огромный успех",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it is a huge success",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Они часто лежат на пляже",
+      "audio": false
+    },
+    "en": {
+      "text": "They often lie on the beach",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Это также мне очень интересно",
+      "audio": false
+    },
+    "en": {
+      "text": "It is also very interesting for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Это чрезвычайно важная деталь",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an extremely important detail",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Это типичная ошибка изучающих английский язык",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a typical mistake of English learners",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Это самая типичная ошибка изучающих английский язык",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the most typical mistake of English learners",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Это огромный успех",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a huge success",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Это действительно огромный успех",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a really huge success",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Это действительно большой успех",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a really big success",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Это кажется очень необычным выбором",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems a very unusual choice",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Это кажется очень типичным выбором",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems a very typical choice",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Это кажется очень хорошим выбором",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems a very good choice",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я действительно шокирован",
+      "audio": false
+    },
+    "en": {
+      "text": "I am really shocked",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Она действительно шокирована",
+      "audio": false
+    },
+    "en": {
+      "text": "She is really shocked",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Мы действительно шокированы",
+      "audio": false
+    },
+    "en": {
+      "text": "We are really shocked",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Это официальный документ",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an official document",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Это новый документ",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a new document",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Это важный документ",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an important document",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Это кажется уникальной возможностью",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems a unique opportunity",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Это кажется уникальным шансом",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems a unique chance",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Это кажется отличной возможностью",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems a great opportunity",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Это чрезвычайно важно",
+      "audio": false
+    },
+    "en": {
+      "text": "It's extremely important",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Это действительно важно",
+      "audio": false
+    },
+    "en": {
+      "text": "It's really important",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Это очень важно",
+      "audio": false
+    },
+    "en": {
+      "text": "It's very important",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Это уникальная возможность",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a unique opportunity",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Это хорошая возможность",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a good opportunity",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Это действительно большая возможность",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a really big opportunity",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я думаю, это большой успех",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it's a big success",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Мы думаем, это большой успех",
+      "audio": false
+    },
+    "en": {
+      "text": "We think it's a big success",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Она думает, это большой успех",
+      "audio": false
+    },
+    "en": {
+      "text": "She thinks it's a big success",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Это кажется таким важным",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems so important",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Ты выглядишь таким удивленным",
+      "audio": false
+    },
+    "en": {
+      "text": "You look so surprised",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Это очень необычный выбор",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a very unusual choice",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Это лежит на крыше",
+      "audio": false
+    },
+    "en": {
+      "text": "It lies on the roof",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Это на крыше",
+      "audio": false
+    },
+    "en": {
+      "text": "It is on the roof",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Я думаю, это пустая трата времени",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it's a waste of time",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Это кажется пустой тратой времени для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems a waste of time for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Я думаю, это действительно ужасно",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it is really terrible",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Это пустая трата времени",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a waste of time",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Я чрезвычайно устал",
+      "audio": false
+    },
+    "en": {
+      "text": "I am extremely tired",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Мне нужно найти решение этой проблемы",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to find a solution to this problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Он говорит, что это чрезвычайно важно для всех нас",
+      "audio": false
+    },
+    "en": {
+      "text": "He says that it's extremely important for all of us",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Мы можем видеть это в официальном документе",
+      "audio": false
+    },
+    "en": {
+      "text": "We can see it in the official document",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Они на пляже",
+      "audio": false
+    },
+    "en": {
+      "text": "They're on the beach",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Это очень интересная традиция",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very interesting tradition",
+      "audio": false
+    }
   }
 ]

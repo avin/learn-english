@@ -1,127 +1,277 @@
 [
   {
-    "_id": 1,
-    "ru": "Она еще не простила его",
-    "en": "She hasn't forgiven him yet"
+    "id": 1,
+    "ru": {
+      "text": "Она еще не простила его",
+      "audio": false
+    },
+    "en": {
+      "text": "She hasn't forgiven him yet",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Кто-то побил его очень сильно",
-    "en": "Someone beat him very badly"
+    "id": 2,
+    "ru": {
+      "text": "Кто-то побил его очень сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "Someone beat him very badly",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Вам нужно перейти улицу, и затем вы увидите это слева",
-    "en": "You need to cross the street and then you'll see it on the left"
+    "id": 3,
+    "ru": {
+      "text": "Вам нужно перейти улицу, и затем вы увидите это слева",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to cross the street and then you'll see it on the left",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Он прервал ее, когда она начала говорить о политике",
-    "en": "He interrupted her when she started talking about politics"
+    "id": 4,
+    "ru": {
+      "text": "Он прервал ее, когда она начала говорить о политике",
+      "audio": false
+    },
+    "en": {
+      "text": "He interrupted her when she started talking about politics",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Мне кажется, что он прав сейчас",
-    "en": "It seems to me that he is right now"
+    "id": 5,
+    "ru": {
+      "text": "Мне кажется, что он прав сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me that he is right now",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Он сказал мне, что они проиграли игру",
-    "en": "He told me that they had lost the game"
+    "id": 6,
+    "ru": {
+      "text": "Он сказал мне, что они проиграли игру",
+      "audio": false
+    },
+    "en": {
+      "text": "He told me that they had lost the game",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я пытаюсь решить эту проблему сейчас",
-    "en": "I'm trying to solve this problem now"
+    "id": 7,
+    "ru": {
+      "text": "Я пытаюсь решить эту проблему сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm trying to solve this problem now",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я постараюсь объяснить тебе это",
-    "en": "I'll try to explain it to you"
+    "id": 8,
+    "ru": {
+      "text": "Я постараюсь объяснить тебе это",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try to explain it to you",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Он сказал, что простил ее",
-    "en": "He said that he had forgiven her"
+    "id": 9,
+    "ru": {
+      "text": "Он сказал, что простил ее",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had forgiven her",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я предполагаю, что это случится однажды",
-    "en": "I suppose that it'll happen one day"
+    "id": 10,
+    "ru": {
+      "text": "Я предполагаю, что это случится однажды",
+      "audio": false
+    },
+    "en": {
+      "text": "I suppose that it'll happen one day",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Пока он смотрел то видео, она что-то готовила",
-    "en": "While he was watching that video, she was cooking something"
+    "id": 11,
+    "ru": {
+      "text": "Пока он смотрел то видео, она что-то готовила",
+      "audio": false
+    },
+    "en": {
+      "text": "While he was watching that video, she was cooking something",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Кто контролирует это сейчас?",
-    "en": "Who is controlling it now?"
+    "id": 12,
+    "ru": {
+      "text": "Кто контролирует это сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is controlling it now?",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Что касается меня, я не представляю свою жизнь без этого",
-    "en": "As for me, I can't imagine my life without it"
+    "id": 13,
+    "ru": {
+      "text": "Что касается меня, я не представляю свою жизнь без этого",
+      "audio": false
+    },
+    "en": {
+      "text": "As for me, I can't imagine my life without it",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Ее сердце билось так быстро. Она очень нервничала",
-    "en": "Her heart was beating so fast. She was very nervous"
+    "id": 14,
+    "ru": {
+      "text": "Ее сердце билось так быстро. Она очень нервничала",
+      "audio": false
+    },
+    "en": {
+      "text": "Her heart was beating so fast. She was very nervous",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Не перебивай меня, пожалуйста!",
-    "en": "Don't interrupt me, please!"
+    "id": 15,
+    "ru": {
+      "text": "Не перебивай меня, пожалуйста!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't interrupt me, please!",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Когда приехала полиция, они убегали",
-    "en": "When the police came, they were running away"
+    "id": 16,
+    "ru": {
+      "text": "Когда приехала полиция, они убегали",
+      "audio": false
+    },
+    "en": {
+      "text": "When the police came, they were running away",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я пытался сосредоточиться, когда услышал странный шум",
-    "en": "I was trying to concentrate when I heard a strange noise"
+    "id": 17,
+    "ru": {
+      "text": "Я пытался сосредоточиться, когда услышал странный шум",
+      "audio": false
+    },
+    "en": {
+      "text": "I was trying to concentrate when I heard a strange noise",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Я, в основном, заказывал это онлайн",
-    "en": "I mostly ordered it online"
+    "id": 18,
+    "ru": {
+      "text": "Я, в основном, заказывал это онлайн",
+      "audio": false
+    },
+    "en": {
+      "text": "I mostly ordered it online",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Он создал этот канал несколько лет назад.",
-    "en": "He created this channel several years ago"
+    "id": 19,
+    "ru": {
+      "text": "Он создал этот канал несколько лет назад.",
+      "audio": false
+    },
+    "en": {
+      "text": "He created this channel several years ago",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Я всегда уважал такого рода взгляды",
-    "en": "I've always respected this kind of views"
+    "id": 20,
+    "ru": {
+      "text": "Я всегда уважал такого рода взгляды",
+      "audio": false
+    },
+    "en": {
+      "text": "I've always respected this kind of views",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Я никогда не говорил таких вещей",
-    "en": "I've never said such things"
+    "id": 21,
+    "ru": {
+      "text": "Я никогда не говорил таких вещей",
+      "audio": false
+    },
+    "en": {
+      "text": "I've never said such things",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Действительно трудно представить это",
-    "en": "It's really hard to imagine it"
+    "id": 22,
+    "ru": {
+      "text": "Действительно трудно представить это",
+      "audio": false
+    },
+    "en": {
+      "text": "It's really hard to imagine it",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Я уже поделился этим видео со своими друзьями",
-    "en": "I've already shared this video with my friends"
+    "id": 23,
+    "ru": {
+      "text": "Я уже поделился этим видео со своими друзьями",
+      "audio": false
+    },
+    "en": {
+      "text": "I've already shared this video with my friends",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Я получил очень странное сообщение",
-    "en": "I got a very strange message"
+    "id": 24,
+    "ru": {
+      "text": "Я получил очень странное сообщение",
+      "audio": false
+    },
+    "en": {
+      "text": "I got a very strange message",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Пожалуйста, не перебивай меня!",
-    "en": "Please, don't interrupt me!"
+    "id": 25,
+    "ru": {
+      "text": "Пожалуйста, не перебивай меня!",
+      "audio": false
+    },
+    "en": {
+      "text": "Please, don't interrupt me!",
+      "audio": false
+    }
   }
 ]

@@ -1,497 +1,1091 @@
 [
   {
-    "_id": 1,
-    "ru": "Ребенок дома",
-    "en": "The child is at home"
-  },
-  {
-    "_id": 2,
-    "ru": "Вода в этой бутылке",
-    "en": "The water is in this bottle"
-  },
-  {
-    "_id": 3,
-    "ru": "Эта девушка моя подруга",
-    "en": "This girl is my friend"
-  },
-  {
-    "_id": 4,
-    "ru": "Много людей приходит сюда каждый день",
-    "en": "Many people come here every day"
-  },
-  {
-    "_id": 5,
-    "ru": "Еда свежая",
-    "en": "The food is fresh"
-  },
-  {
-    "_id": 6,
-    "ru": "Игра такая скучная",
-    "en": "The game is so boring"
-  },
-  {
-    "_id": 7,
-    "ru": "Книга очень тонкая",
-    "en": "The book is very thin"
-  },
-  {
-    "_id": 8,
-    "ru": "Это солнечный день",
-    "en": "It is a sunny day"
-  },
-  {
-    "_id": 9,
-    "ru": "Комната слишком маленькая",
-    "en": "The room is too small"
-  },
-  {
-    "_id": 10,
-    "ru": "День такой солнечный",
-    "en": "The day is so sunny"
-  },
-  {
-    "_id": 11,
-    "ru": "Это маленькая комната",
-    "en": "It is a small room"
-  },
-  {
-    "_id": 12,
-    "ru": "Экзамен слишком сложный",
-    "en": "The exam is too difficult"
-  },
-  {
-    "_id": 13,
-    "ru": "Это тонкая книга",
-    "en": "It is a thin book"
-  },
-  {
-    "_id": 14,
-    "ru": "Это скучная игра",
-    "en": "It is a boring game"
-  },
-  {
-    "_id": 15,
-    "ru": "Мужчина толстый",
-    "en": "The man is fat"
-  },
-  {
-    "_id": 16,
-    "ru": "Это очень сложная ситуация",
-    "en": "It is a very difficult situation"
-  },
-  {
-    "_id": 17,
-    "ru": "Идеи очень интересные",
-    "en": "The ideas are very interesting"
-  },
-  {
-    "_id": 18,
-    "ru": "Студент очень амбициозен",
-    "en": "The student is very ambitious"
-  },
-  {
-    "_id": 19,
-    "ru": "Результаты блестящие",
-    "en": "The results are brilliant"
-  },
-  {
-    "_id": 20,
-    "ru": "Ситуация очень сложная",
-    "en": "The situation is very difficult"
-  },
-  {
-    "_id": 21,
-    "ru": "Женщина очень стройная",
-    "en": "The woman is very slim"
-  },
-  {
-    "_id": 22,
-    "ru": "Тест очень простой",
-    "en": "The test is very simple"
-  },
-  {
-    "_id": 23,
-    "ru": "Путь слишком длинный",
-    "en": "The way is too long"
-  },
-  {
-    "_id": 24,
-    "ru": "Это блестящий результат",
-    "en": "It's a brilliant result"
-  },
-  {
-    "_id": 25,
-    "ru": "Вопросы очень хорошие",
-    "en": "The questions are very good"
-  },
-  {
-    "_id": 26,
-    "ru": "Студенты очень амбициозны",
-    "en": "The students are very ambitious"
-  },
-  {
-    "_id": 27,
-    "ru": "Урок чрезвычайно полезен",
-    "en": "The lesson is extremely useful"
-  },
-  {
-    "_id": 28,
-    "ru": "Она очень стройная девушка",
-    "en": "She's a very slim girl"
-  },
-  {
-    "_id": 29,
-    "ru": "Шутка очень смешная",
-    "en": "The joke is very funny"
-  },
-  {
-    "_id": 30,
-    "ru": "Программа действительно скучная",
-    "en": "The program is really boring"
-  },
-  {
-    "_id": 31,
-    "ru": "Видео такие скучные",
-    "en": "The videos are so boring"
-  },
-  {
-    "_id": 32,
-    "ru": "Мужчины очень толстые",
-    "en": "The men are very fat"
-  },
-  {
-    "_id": 33,
-    "ru": "Это очень интересная идея",
-    "en": "It's a very interesting idea"
-  },
-  {
-    "_id": 34,
-    "ru": "Уроки очень полезны",
-    "en": "The lessons are very useful"
-  },
-  {
-    "_id": 35,
-    "ru": "Место такое красивое",
-    "en": "The place is so beautiful"
-  },
-  {
-    "_id": 36,
-    "ru": "Результат отличный",
-    "en": "The result is excellent"
-  },
-  {
-    "_id": 37,
-    "ru": "Ребенок в школе",
-    "en": "The child is at school"
-  },
-  {
-    "_id": 38,
-    "ru": "Еда очень вкусная",
-    "en": "The food is very tasty"
-  },
-  {
-    "_id": 39,
-    "ru": "Это дождливый день",
-    "en": "It's a rainy day"
-  },
-  {
-    "_id": 40,
-    "ru": "Путь очень короткий",
-    "en": "The way is very short"
-  },
-  {
-    "_id": 41,
-    "ru": "День дождливый",
-    "en": "The day is rainy"
-  },
-  {
-    "_id": 42,
-    "ru": "Видео такое неинформативное",
-    "en": "The video is so uninformative"
-  },
-  {
-    "_id": 43,
-    "ru": "Это очень простой тест",
-    "en": "It's a very simple test"
-  },
-  {
-    "_id": 44,
-    "ru": "Цена слишком высокая",
-    "en": "The price is too high"
-  },
-  {
-    "_id": 45,
-    "ru": "Это очень красивая церковь",
-    "en": "It is a very beautiful church"
-  },
-  {
-    "_id": 46,
-    "ru": "Женщины очень стройные",
-    "en": "The women are very slim"
-  },
-  {
-    "_id": 47,
-    "ru": "Он очень амбициозный студент",
-    "en": "He is a very ambitious student"
-  },
-  {
-    "_id": 48,
-    "ru": "У тебя блестящие идеи как всегда",
-    "en": "You have brilliant ideas as always"
-  },
-  {
-    "_id": 49,
-    "ru": "Он очень опытный учитель",
-    "en": "He's a very experienced teacher"
-  },
-  {
-    "_id": 50,
-    "ru": "Дорога пустая",
-    "en": "The road is empty"
-  },
-  {
-    "_id": 51,
-    "ru": "Я вижу, ты полон энтузиазма",
-    "en": "I see you're full of enthusiasm"
-  },
-  {
-    "_id": 52,
-    "ru": "Это очень узкая улица",
-    "en": "It's a very narrow street"
-  },
-  {
-    "_id": 53,
-    "ru": "Дети в кровати",
-    "en": "The children are in bed"
-  },
-  {
-    "_id": 54,
-    "ru": "Земля круглая",
-    "en": "The Earth is round"
-  },
-  {
-    "_id": 55,
-    "ru": "Еда вкусная",
-    "en": "The food is delicious"
-  },
-  {
-    "_id": 56,
-    "ru": "Она очень опытный врач",
-    "en": "She's a very experienced doctor"
-  },
-  {
-    "_id": 57,
-    "ru": "Церковь очень красивая",
-    "en": "The church is very beautiful"
-  },
-  {
-    "_id": 58,
-    "ru": "Ребенок в кровати",
-    "en": "The baby is in bed"
-  },
-  {
-    "_id": 59,
-    "ru": "Ребенок лежит в кровати",
-    "en": "The baby lies in bed"
-  },
-  {
-    "_id": 60,
-    "ru": "Этот ребенок в кровати",
-    "en": "This baby is in bed"
-  },
-  {
-    "_id": 61,
-    "ru": "Стакан пустой",
-    "en": "The glass is empty"
-  },
-  {
-    "_id": 62,
-    "ru": "Мой стакан пустой",
-    "en": "My glass is empty"
-  },
-  {
-    "_id": 63,
-    "ru": "Этот стакан пустой",
-    "en": "This glass is empty"
-  },
-  {
-    "_id": 64,
-    "ru": "Я вижу, что ты очень опытный",
-    "en": "I see that you are very experienced"
-  },
-  {
-    "_id": 65,
-    "ru": "Я вижу, что они очень опытные",
-    "en": "I see that they are very experienced"
-  },
-  {
-    "_id": 66,
-    "ru": "Я знаю, что она очень опытная",
-    "en": "I know that she is very experienced"
-  },
-  {
-    "_id": 67,
-    "ru": "Это неинформативное видео",
-    "en": "It's an uninformative video"
-  },
-  {
-    "_id": 68,
-    "ru": "Это информативное видео",
-    "en": "It's an informative video"
-  },
-  {
-    "_id": 69,
-    "ru": "Это неинформативный урок",
-    "en": "It's an uninformative lesson"
-  },
-  {
-    "_id": 70,
-    "ru": "Это пустая бутылка",
-    "en": "It is an empty bottle"
-  },
-  {
-    "_id": 71,
-    "ru": "Это пустой стакан",
-    "en": "It is an empty glass"
-  },
-  {
-    "_id": 72,
-    "ru": "Это полная бутылка",
-    "en": "It's a full bottle"
-  },
-  {
-    "_id": 73,
-    "ru": "Счастье - больше, чем деньги",
-    "en": "Happiness is more than money"
-  },
-  {
-    "_id": 74,
-    "ru": "Счастье - это действительно больше, чем деньги",
-    "en": "Happiness is really more than money"
-  },
-  {
-    "_id": 75,
-    "ru": "Работа полна ошибок",
-    "en": "The work is full of mistakes"
-  },
-  {
-    "_id": 76,
-    "ru": "Эта работа полна ошибок",
-    "en": "This work is full of mistakes"
-  },
-  {
-    "_id": 77,
-    "ru": "Эти документы полны ошибок",
-    "en": "These documents are full of mistakes"
-  },
-  {
-    "_id": 78,
-    "ru": "Те дети в кровати",
-    "en": "Those children are in bed"
-  },
-  {
-    "_id": 79,
-    "ru": "Он очень профессиональный врач",
-    "en": "He is a very professional doctor"
-  },
-  {
-    "_id": 80,
-    "ru": "Они очень профессиональные врачи",
-    "en": "They are very professional doctors"
-  },
-  {
-    "_id": 81,
-    "ru": "Он очень хороший врач",
-    "en": "He is a very good doctor"
-  },
-  {
-    "_id": 82,
-    "ru": "Любовь - это прекрасное чувство",
-    "en": "Love is a wonderful feeling"
-  },
-  {
-    "_id": 83,
-    "ru": "Любовь - это хорошее чувство",
-    "en": "Love is a good feeling"
-  },
-  {
-    "_id": 84,
-    "ru": "Любовь - это действительно прекрасное чувство",
-    "en": "Love is a really wonderful feeling"
-  },
-  {
-    "_id": 85,
-    "ru": "Полиция там",
-    "en": "The police are there"
-  },
-  {
-    "_id": 86,
-    "ru": "Дети дома",
-    "en": "The children are at home"
-  },
-  {
-    "_id": 87,
-    "ru": "Деньги - больше, чем бумага",
-    "en": "Money is more than paper"
-  },
-  {
-    "_id": 88,
-    "ru": "Это широкая улица",
-    "en": "It is a wide street"
-  },
-  {
-    "_id": 89,
-    "ru": "Я знаю, что компьютеры очень старые",
-    "en": "I know that the computers are very old"
-  },
-  {
-    "_id": 90,
-    "ru": "Дорога полна машинами",
-    "en": "The road is full of cars"
-  },
-  {
-    "_id": 91,
-    "ru": "Улица очень узкая",
-    "en": "The street is very narrow"
-  },
-  {
-    "_id": 92,
-    "ru": "Текст сложный для понимания",
-    "en": "The text is difficult for understanding"
-  },
-  {
-    "_id": 93,
-    "ru": "Это чрезвычайно полезный урок",
-    "en": "It is an extremely useful lesson"
-  },
-  {
-    "_id": 94,
-    "ru": "Ответ очевиден",
-    "en": "The answer is obvious"
-  },
-  {
-    "_id": 95,
-    "ru": "Я полон энергии",
-    "en": "I'm full of energy"
-  },
-  {
-    "_id": 96,
-    "ru": "Это старая машина",
-    "en": "It's an old car"
-  },
-  {
-    "_id": 97,
-    "ru": "Эта улица очень широкая",
-    "en": "This street is very wide"
-  },
-  {
-    "_id": 98,
-    "ru": "Они очень опытные работники",
-    "en": "They're very experienced workers"
-  },
-  {
-    "_id": 99,
-    "ru": "Полиция здесь",
-    "en": "The police are here"
+    "id": 1,
+    "ru": {
+      "text": "Ребенок дома",
+      "audio": false
+    },
+    "en": {
+      "text": "The child is at home",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Вода в этой бутылке",
+      "audio": false
+    },
+    "en": {
+      "text": "The water is in this bottle",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Эта девушка моя подруга",
+      "audio": false
+    },
+    "en": {
+      "text": "This girl is my friend",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Много людей приходит сюда каждый день",
+      "audio": false
+    },
+    "en": {
+      "text": "Many people come here every day",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Еда свежая",
+      "audio": false
+    },
+    "en": {
+      "text": "The food is fresh",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Игра такая скучная",
+      "audio": false
+    },
+    "en": {
+      "text": "The game is so boring",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Книга очень тонкая",
+      "audio": false
+    },
+    "en": {
+      "text": "The book is very thin",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Это солнечный день",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a sunny day",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Комната слишком маленькая",
+      "audio": false
+    },
+    "en": {
+      "text": "The room is too small",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "День такой солнечный",
+      "audio": false
+    },
+    "en": {
+      "text": "The day is so sunny",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Это маленькая комната",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a small room",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Экзамен слишком сложный",
+      "audio": false
+    },
+    "en": {
+      "text": "The exam is too difficult",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Это тонкая книга",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a thin book",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Это скучная игра",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a boring game",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Мужчина толстый",
+      "audio": false
+    },
+    "en": {
+      "text": "The man is fat",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Это очень сложная ситуация",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a very difficult situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Идеи очень интересные",
+      "audio": false
+    },
+    "en": {
+      "text": "The ideas are very interesting",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Студент очень амбициозен",
+      "audio": false
+    },
+    "en": {
+      "text": "The student is very ambitious",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Результаты блестящие",
+      "audio": false
+    },
+    "en": {
+      "text": "The results are brilliant",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Ситуация очень сложная",
+      "audio": false
+    },
+    "en": {
+      "text": "The situation is very difficult",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Женщина очень стройная",
+      "audio": false
+    },
+    "en": {
+      "text": "The woman is very slim",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Тест очень простой",
+      "audio": false
+    },
+    "en": {
+      "text": "The test is very simple",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Путь слишком длинный",
+      "audio": false
+    },
+    "en": {
+      "text": "The way is too long",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Это блестящий результат",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a brilliant result",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Вопросы очень хорошие",
+      "audio": false
+    },
+    "en": {
+      "text": "The questions are very good",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Студенты очень амбициозны",
+      "audio": false
+    },
+    "en": {
+      "text": "The students are very ambitious",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Урок чрезвычайно полезен",
+      "audio": false
+    },
+    "en": {
+      "text": "The lesson is extremely useful",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Она очень стройная девушка",
+      "audio": false
+    },
+    "en": {
+      "text": "She's a very slim girl",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Шутка очень смешная",
+      "audio": false
+    },
+    "en": {
+      "text": "The joke is very funny",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Программа действительно скучная",
+      "audio": false
+    },
+    "en": {
+      "text": "The program is really boring",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Видео такие скучные",
+      "audio": false
+    },
+    "en": {
+      "text": "The videos are so boring",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Мужчины очень толстые",
+      "audio": false
+    },
+    "en": {
+      "text": "The men are very fat",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Это очень интересная идея",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very interesting idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Уроки очень полезны",
+      "audio": false
+    },
+    "en": {
+      "text": "The lessons are very useful",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Место такое красивое",
+      "audio": false
+    },
+    "en": {
+      "text": "The place is so beautiful",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Результат отличный",
+      "audio": false
+    },
+    "en": {
+      "text": "The result is excellent",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Ребенок в школе",
+      "audio": false
+    },
+    "en": {
+      "text": "The child is at school",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Еда очень вкусная",
+      "audio": false
+    },
+    "en": {
+      "text": "The food is very tasty",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Это дождливый день",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a rainy day",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Путь очень короткий",
+      "audio": false
+    },
+    "en": {
+      "text": "The way is very short",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "День дождливый",
+      "audio": false
+    },
+    "en": {
+      "text": "The day is rainy",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Видео такое неинформативное",
+      "audio": false
+    },
+    "en": {
+      "text": "The video is so uninformative",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Это очень простой тест",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very simple test",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Цена слишком высокая",
+      "audio": false
+    },
+    "en": {
+      "text": "The price is too high",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Это очень красивая церковь",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a very beautiful church",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Женщины очень стройные",
+      "audio": false
+    },
+    "en": {
+      "text": "The women are very slim",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Он очень амбициозный студент",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a very ambitious student",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "У тебя блестящие идеи как всегда",
+      "audio": false
+    },
+    "en": {
+      "text": "You have brilliant ideas as always",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Он очень опытный учитель",
+      "audio": false
+    },
+    "en": {
+      "text": "He's a very experienced teacher",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Дорога пустая",
+      "audio": false
+    },
+    "en": {
+      "text": "The road is empty",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я вижу, ты полон энтузиазма",
+      "audio": false
+    },
+    "en": {
+      "text": "I see you're full of enthusiasm",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Это очень узкая улица",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very narrow street",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Дети в кровати",
+      "audio": false
+    },
+    "en": {
+      "text": "The children are in bed",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Земля круглая",
+      "audio": false
+    },
+    "en": {
+      "text": "The Earth is round",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Еда вкусная",
+      "audio": false
+    },
+    "en": {
+      "text": "The food is delicious",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Она очень опытный врач",
+      "audio": false
+    },
+    "en": {
+      "text": "She's a very experienced doctor",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Церковь очень красивая",
+      "audio": false
+    },
+    "en": {
+      "text": "The church is very beautiful",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Ребенок в кровати",
+      "audio": false
+    },
+    "en": {
+      "text": "The baby is in bed",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Ребенок лежит в кровати",
+      "audio": false
+    },
+    "en": {
+      "text": "The baby lies in bed",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Этот ребенок в кровати",
+      "audio": false
+    },
+    "en": {
+      "text": "This baby is in bed",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Стакан пустой",
+      "audio": false
+    },
+    "en": {
+      "text": "The glass is empty",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Мой стакан пустой",
+      "audio": false
+    },
+    "en": {
+      "text": "My glass is empty",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Этот стакан пустой",
+      "audio": false
+    },
+    "en": {
+      "text": "This glass is empty",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я вижу, что ты очень опытный",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that you are very experienced",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я вижу, что они очень опытные",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that they are very experienced",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я знаю, что она очень опытная",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that she is very experienced",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Это неинформативное видео",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an uninformative video",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Это информативное видео",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an informative video",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Это неинформативный урок",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an uninformative lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Это пустая бутылка",
+      "audio": false
+    },
+    "en": {
+      "text": "It is an empty bottle",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Это пустой стакан",
+      "audio": false
+    },
+    "en": {
+      "text": "It is an empty glass",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Это полная бутылка",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a full bottle",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Счастье - больше, чем деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "Happiness is more than money",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Счастье - это действительно больше, чем деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "Happiness is really more than money",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Работа полна ошибок",
+      "audio": false
+    },
+    "en": {
+      "text": "The work is full of mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Эта работа полна ошибок",
+      "audio": false
+    },
+    "en": {
+      "text": "This work is full of mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Эти документы полны ошибок",
+      "audio": false
+    },
+    "en": {
+      "text": "These documents are full of mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Те дети в кровати",
+      "audio": false
+    },
+    "en": {
+      "text": "Those children are in bed",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Он очень профессиональный врач",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a very professional doctor",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Они очень профессиональные врачи",
+      "audio": false
+    },
+    "en": {
+      "text": "They are very professional doctors",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Он очень хороший врач",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a very good doctor",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Любовь - это прекрасное чувство",
+      "audio": false
+    },
+    "en": {
+      "text": "Love is a wonderful feeling",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Любовь - это хорошее чувство",
+      "audio": false
+    },
+    "en": {
+      "text": "Love is a good feeling",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Любовь - это действительно прекрасное чувство",
+      "audio": false
+    },
+    "en": {
+      "text": "Love is a really wonderful feeling",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Полиция там",
+      "audio": false
+    },
+    "en": {
+      "text": "The police are there",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Дети дома",
+      "audio": false
+    },
+    "en": {
+      "text": "The children are at home",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Деньги - больше, чем бумага",
+      "audio": false
+    },
+    "en": {
+      "text": "Money is more than paper",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Это широкая улица",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a wide street",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Я знаю, что компьютеры очень старые",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that the computers are very old",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Дорога полна машинами",
+      "audio": false
+    },
+    "en": {
+      "text": "The road is full of cars",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Улица очень узкая",
+      "audio": false
+    },
+    "en": {
+      "text": "The street is very narrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Текст сложный для понимания",
+      "audio": false
+    },
+    "en": {
+      "text": "The text is difficult for understanding",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Это чрезвычайно полезный урок",
+      "audio": false
+    },
+    "en": {
+      "text": "It is an extremely useful lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Ответ очевиден",
+      "audio": false
+    },
+    "en": {
+      "text": "The answer is obvious",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Я полон энергии",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm full of energy",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Это старая машина",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an old car",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Эта улица очень широкая",
+      "audio": false
+    },
+    "en": {
+      "text": "This street is very wide",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Они очень опытные работники",
+      "audio": false
+    },
+    "en": {
+      "text": "They're very experienced workers",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Полиция здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "The police are here",
+      "audio": false
+    }
   }
 ]

@@ -1,102 +1,222 @@
 [
   {
-    "_id": 1,
-    "ru": "Это лучший сценарий",
-    "en": "It's the best scenario"
+    "id": 1,
+    "ru": {
+      "text": "Это лучший сценарий",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the best scenario",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Это худший сценарий",
-    "en": "It's the worst scenario"
+    "id": 2,
+    "ru": {
+      "text": "Это худший сценарий",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the worst scenario",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Эта вещь гораздо важнее",
-    "en": "This thing is much more important"
+    "id": 3,
+    "ru": {
+      "text": "Эта вещь гораздо важнее",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing is much more important",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Он собирается найти более хорошо оплачиваемую работу",
-    "en": "He's going to find a more well-paid job"
+    "id": 4,
+    "ru": {
+      "text": "Он собирается найти более хорошо оплачиваемую работу",
+      "audio": false
+    },
+    "en": {
+      "text": "He's going to find a more well-paid job",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Это намного дешевле",
-    "en": "It's much cheaper"
+    "id": 5,
+    "ru": {
+      "text": "Это намного дешевле",
+      "audio": false
+    },
+    "en": {
+      "text": "It's much cheaper",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Это гораздо лучше",
-    "en": "It's much better"
+    "id": 6,
+    "ru": {
+      "text": "Это гораздо лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "It's much better",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Это более формальный ответ",
-    "en": "It's a more formal answer"
+    "id": 7,
+    "ru": {
+      "text": "Это более формальный ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a more formal answer",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Это место намного красивее",
-    "en": "This place is much more beautiful"
+    "id": 8,
+    "ru": {
+      "text": "Это место намного красивее",
+      "audio": false
+    },
+    "en": {
+      "text": "This place is much more beautiful",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Это дешевле",
-    "en": "It's cheaper"
+    "id": 9,
+    "ru": {
+      "text": "Это дешевле",
+      "audio": false
+    },
+    "en": {
+      "text": "It's cheaper",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Это дороже",
-    "en": "It's more expensive"
+    "id": 10,
+    "ru": {
+      "text": "Это дороже",
+      "audio": false
+    },
+    "en": {
+      "text": "It's more expensive",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Этот дом больше",
-    "en": "This house is bigger"
+    "id": 11,
+    "ru": {
+      "text": "Этот дом больше",
+      "audio": false
+    },
+    "en": {
+      "text": "This house is bigger",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Это более важная вещь",
-    "en": "It's a more important thing"
+    "id": 12,
+    "ru": {
+      "text": "Это более важная вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a more important thing",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Это более надежный источник дохода",
-    "en": "It's a more reliable source of income"
+    "id": 13,
+    "ru": {
+      "text": "Это более надежный источник дохода",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a more reliable source of income",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Эта цена намного ниже",
-    "en": "This price is much lower"
+    "id": 14,
+    "ru": {
+      "text": "Эта цена намного ниже",
+      "audio": false
+    },
+    "en": {
+      "text": "This price is much lower",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Этот путь намного дольше",
-    "en": "This way is much longer"
+    "id": 15,
+    "ru": {
+      "text": "Этот путь намного дольше",
+      "audio": false
+    },
+    "en": {
+      "text": "This way is much longer",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Это гораздо более красивое место",
-    "en": "It's a much more beautiful place"
+    "id": 16,
+    "ru": {
+      "text": "Это гораздо более красивое место",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a much more beautiful place",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Это намного дороже",
-    "en": "It's much more expensive"
+    "id": 17,
+    "ru": {
+      "text": "Это намного дороже",
+      "audio": false
+    },
+    "en": {
+      "text": "It's much more expensive",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Тот дом меньше",
-    "en": "That house is smaller"
+    "id": 18,
+    "ru": {
+      "text": "Тот дом меньше",
+      "audio": false
+    },
+    "en": {
+      "text": "That house is smaller",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Этот источник дохода более надежный",
-    "en": "This source of income is more reliable"
+    "id": 19,
+    "ru": {
+      "text": "Этот источник дохода более надежный",
+      "audio": false
+    },
+    "en": {
+      "text": "This source of income is more reliable",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Ситуация может быть хуже",
-    "en": "The situation can be worse"
+    "id": 20,
+    "ru": {
+      "text": "Ситуация может быть хуже",
+      "audio": false
+    },
+    "en": {
+      "text": "The situation can be worse",
+      "audio": false
+    }
   }
 ]

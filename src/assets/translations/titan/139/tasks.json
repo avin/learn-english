@@ -1,462 +1,1014 @@
 [
   {
-    "_id": 1,
-    "ru": "Она такая милая девочка",
-    "en": "She's such a pretty girl"
-  },
-  {
-    "_id": 2,
-    "ru": "Она живет в старом доме",
-    "en": "She lives in an old house"
-  },
-  {
-    "_id": 3,
-    "ru": "Женщина беременна",
-    "en": "The woman is pregnant"
-  },
-  {
-    "_id": 4,
-    "ru": "Он такой известный музыкант",
-    "en": "He is such a famous musician"
-  },
-  {
-    "_id": 5,
-    "ru": "Она беременна?",
-    "en": "Is she pregnant?"
-  },
-  {
-    "_id": 6,
-    "ru": "Вы такие умные люди",
-    "en": "You are such smart people"
-  },
-  {
-    "_id": 7,
-    "ru": "Он может бежать очень быстро",
-    "en": "He can run very fast"
-  },
-  {
-    "_id": 8,
-    "ru": "Этот дом такой старый",
-    "en": "This house is so old"
-  },
-  {
-    "_id": 9,
-    "ru": "Я также хочу посетить другие страны и города",
-    "en": "I also want to visit other countries and cities"
-  },
-  {
-    "_id": 10,
-    "ru": "Он выиграл золотую медаль",
-    "en": "He won a gold medal"
-  },
-  {
-    "_id": 11,
-    "ru": "Они такие добрые люди",
-    "en": "They are such kind people"
-  },
-  {
-    "_id": 12,
-    "ru": "Это такой старый дом",
-    "en": "It's such an old house"
-  },
-  {
-    "_id": 13,
-    "ru": "Они такие успешные бизнесмены",
-    "en": "They are such successful businessmen"
-  },
-  {
-    "_id": 14,
-    "ru": "Он живет в другом месте",
-    "en": "He lives in another place"
-  },
-  {
-    "_id": 15,
-    "ru": "Она больна сейчас",
-    "en": "She is ill now"
-  },
-  {
-    "_id": 16,
-    "ru": "Мне очень жаль",
-    "en": "I'm so sorry"
-  },
-  {
-    "_id": 17,
-    "ru": "Он больной человек",
-    "en": "He is an ill person"
-  },
-  {
-    "_id": 18,
-    "ru": "Забор желтый",
-    "en": "The fence is yellow"
-  },
-  {
-    "_id": 19,
-    "ru": "Она слушает ежедневные новости",
-    "en": "She listens to daily news"
-  },
-  {
-    "_id": 20,
-    "ru": "Та улица намного шире",
-    "en": "That street is much wider"
-  },
-  {
-    "_id": 21,
-    "ru": "Это такая интересная идея",
-    "en": "It's such an interesting idea"
-  },
-  {
-    "_id": 22,
-    "ru": "У нее очень красивое лицо",
-    "en": "She has a very pretty face"
-  },
-  {
-    "_id": 23,
-    "ru": "Он очень успешный бизнесмен",
-    "en": "He is a very successful businessman"
-  },
-  {
-    "_id": 24,
-    "ru": "Это стандартная процедура",
-    "en": "It's a standard procedure"
-  },
-  {
-    "_id": 25,
-    "ru": "Он дал мне прямой ответ",
-    "en": "He gave me a direct answer"
-  },
-  {
-    "_id": 26,
-    "ru": "Я действительно сожалел об этом",
-    "en": "I was really sorry about it"
-  },
-  {
-    "_id": 27,
-    "ru": "Это моя личная точка зрения",
-    "en": "It's my personal point of view"
-  },
-  {
-    "_id": 28,
-    "ru": "Это стандартная процедура",
-    "en": "It's a standard procedure"
-  },
-  {
-    "_id": 29,
-    "ru": "Он дал мне прямой ответ",
-    "en": "He gave me a direct answer"
-  },
-  {
-    "_id": 30,
-    "ru": "Я действительно сожалел об этом",
-    "en": "I was really sorry about it"
-  },
-  {
-    "_id": 31,
-    "ru": "Это моя личная точка зрения",
-    "en": "It's my personal point of view"
-  },
-  {
-    "_id": 32,
-    "ru": "Город известен своей историей",
-    "en": "The city is famous for its history"
-  },
-  {
-    "_id": 33,
-    "ru": "Я оставил свой мобильный телефон дома",
-    "en": "I left my mobile phone at home"
-  },
-  {
-    "_id": 34,
-    "ru": "Она купила новое красное платье",
-    "en": "She bought a new red dress"
-  },
-  {
-    "_id": 35,
-    "ru": "Ты так добр ко мне",
-    "en": "You are so kind to me"
-  },
-  {
-    "_id": 36,
-    "ru": "Она очень позитивный человек",
-    "en": "She's a very positive person"
-  },
-  {
-    "_id": 37,
-    "ru": "Он выиграл серебряную медаль",
-    "en": "He won a silver medal"
-  },
-  {
-    "_id": 38,
-    "ru": "Карандаш коричневый",
-    "en": "The pencil is brown"
-  },
-  {
-    "_id": 39,
-    "ru": "Это такой скучный фильм",
-    "en": "It's such a boring movie"
-  },
-  {
-    "_id": 40,
-    "ru": "Я не вполне уверен, что я выбрал правильный ответ",
-    "en": "I'm not quite sure that I chose the right answer"
-  },
-  {
-    "_id": 41,
-    "ru": "Это гораздо более серьезная проблема",
-    "en": "It's a much more serious problem"
-  },
-  {
-    "_id": 42,
-    "ru": "Как хорошо вы знаете друг друга?",
-    "en": "How well do you know each other?"
-  },
-  {
-    "_id": 43,
-    "ru": "У него такие выдающиеся академические достижения",
-    "en": "He has such outstanding academic achievements"
-  },
-  {
-    "_id": 44,
-    "ru": "Он чувствует себя намного увереннее",
-    "en": "He feels much more confident"
-  },
-  {
-    "_id": 45,
-    "ru": "У него очень приятная улыбка",
-    "en": "He has a very pleasant smile"
-  },
-  {
-    "_id": 46,
-    "ru": "Это самое старое здание в деревне",
-    "en": "It's the oldest building in the village"
-  },
-  {
-    "_id": 47,
-    "ru": "Я думаю, это естественная реакция",
-    "en": "I think it's a natural reaction"
-  },
-  {
-    "_id": 48,
-    "ru": "Это такая древняя крепость",
-    "en": "It's such an ancient fortress"
-  },
-  {
-    "_id": 49,
-    "ru": "Он такой успешный бизнесмен",
-    "en": "He is such a successful businessman"
-  },
-  {
-    "_id": 50,
-    "ru": "Это более серьезная проблема",
-    "en": "It's a more serious problem"
-  },
-  {
-    "_id": 51,
-    "ru": "Это огромный успех",
-    "en": "It is a huge success"
-  },
-  {
-    "_id": 52,
-    "ru": "Это очень серьезная проблема",
-    "en": "It's a very serious problem"
-  },
-  {
-    "_id": 53,
-    "ru": "Это более скучная статья",
-    "en": "It's a more boring article"
-  },
-  {
-    "_id": 54,
-    "ru": "Он один из самых умных людей в мире",
-    "en": "He is one of the smartest people in the world"
-  },
-  {
-    "_id": 55,
-    "ru": "Он один из самых талантливых людей в мире",
-    "en": "He is one of the most talented people in the world"
-  },
-  {
-    "_id": 56,
-    "ru": "Это очень серьезная социальная проблема",
-    "en": "It's a very serious social problem"
-  },
-  {
-    "_id": 57,
-    "ru": "Это очень важное решение",
-    "en": "It's a very important decision"
-  },
-  {
-    "_id": 58,
-    "ru": "Это действительно серьезная проблема в наши дни",
-    "en": "It's a really serious problem nowadays"
-  },
-  {
-    "_id": 59,
-    "ru": "Он такой везучий человек",
-    "en": "He is such a lucky person"
-  },
-  {
-    "_id": 60,
-    "ru": "Он такой везучий",
-    "en": "He is so lucky"
-  },
-  {
-    "_id": 61,
-    "ru": "Он такой хороший человек",
-    "en": "He is such a good person"
-  },
-  {
-    "_id": 62,
-    "ru": "Каждый из этих вопросов заслуживает нашего внимания",
-    "en": "Each of these questions deserves our attention"
-  },
-  {
-    "_id": 63,
-    "ru": "Все эти вопросы заслуживают твоего внимания",
-    "en": "All these questions deserve your attention"
-  },
-  {
-    "_id": 64,
-    "ru": "Каждая из этих проблем заслуживала нашего внимания",
-    "en": "Each of these problems deserved our attention"
-  },
-  {
-    "_id": 65,
-    "ru": "Это такое приятное чувство",
-    "en": "It's such a pleasant feeling"
-  },
-  {
-    "_id": 66,
-    "ru": "Он такой популярный актер",
-    "en": "He's such a popular actor"
-  },
-  {
-    "_id": 67,
-    "ru": "Это такое необычное чувство",
-    "en": "It's such an unusual feeling"
-  },
-  {
-    "_id": 68,
-    "ru": "Это такой древний город",
-    "en": "It's such an ancient town"
-  },
-  {
-    "_id": 69,
-    "ru": "Этот город такой древний",
-    "en": "This town is so ancient"
-  },
-  {
-    "_id": 70,
-    "ru": "Это такой старый город",
-    "en": "It's such an old town"
-  },
-  {
-    "_id": 71,
-    "ru": "Я уверен, что это правильное решение",
-    "en": "I'm sure that it's the right decision"
-  },
-  {
-    "_id": 72,
-    "ru": "Я уверен, что это твое лучшее решение",
-    "en": "I'm sure that it's your best decision"
-  },
-  {
-    "_id": 73,
-    "ru": "Я не уверен, что это правильный ответ",
-    "en": "I'm not sure that it's the right answer"
-  },
-  {
-    "_id": 74,
-    "ru": "Она более известная актриса",
-    "en": "She is a more famous actress"
-  },
-  {
-    "_id": 75,
-    "ru": "Она очень популярная актриса",
-    "en": "She is a very popular actress"
-  },
-  {
-    "_id": 76,
-    "ru": "Она самая известная актриса в мире",
-    "en": "She is the most famous actress in the world"
-  },
-  {
-    "_id": 77,
-    "ru": "Он купил кожаный футляр",
-    "en": "He bought a leather case"
-  },
-  {
-    "_id": 78,
-    "ru": "Он купил маленькую красную машину",
-    "en": "He bought a small red car"
-  },
-  {
-    "_id": 79,
-    "ru": "Он гораздо более известный музыкант",
-    "en": "He is a much more famous musician"
-  },
-  {
-    "_id": 80,
-    "ru": "Она такой добрый человек",
-    "en": "She is such a kind person"
-  },
-  {
-    "_id": 81,
-    "ru": "Я действительно заинтересован в этой теме",
-    "en": "I'm really interested in this topic"
-  },
-  {
-    "_id": 82,
-    "ru": "Это такая большая социальная проблема",
-    "en": "It's such a big social problem"
-  },
-  {
-    "_id": 83,
-    "ru": "Он носит кожаный ремень",
-    "en": "He wears a leather belt"
-  },
-  {
-    "_id": 84,
-    "ru": "Это было огромным успехом",
-    "en": "It was a huge success"
-  },
-  {
-    "_id": 85,
-    "ru": "Он более успешный предприниматель",
-    "en": "He is a more successful entrepreneur"
-  },
-  {
-    "_id": 86,
-    "ru": "Мы можем дышать свежим воздухом там",
-    "en": "We can breathe fresh air there"
-  },
-  {
-    "_id": 87,
-    "ru": "Каждый из них это понимает",
-    "en": "Each of them understands it"
-  },
-  {
-    "_id": 88,
-    "ru": "Каждый из нас знает это",
-    "en": "Each of us knows it"
-  },
-  {
-    "_id": 89,
-    "ru": "Он не сумасшедший",
-    "en": "He isn't mad"
-  },
-  {
-    "_id": 90,
-    "ru": "Это очень древний город",
-    "en": "It's a very ancient city"
-  },
-  {
-    "_id": 91,
-    "ru": "Ты такой везучий",
-    "en": "You are so lucky"
-  },
-  {
-    "_id": 92,
-    "ru": "Здесь очень сухо",
-    "en": "It is very dry here"
+    "id": 1,
+    "ru": {
+      "text": "Она такая милая девочка",
+      "audio": false
+    },
+    "en": {
+      "text": "She's such a pretty girl",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Она живет в старом доме",
+      "audio": false
+    },
+    "en": {
+      "text": "She lives in an old house",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Женщина беременна",
+      "audio": false
+    },
+    "en": {
+      "text": "The woman is pregnant",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Он такой известный музыкант",
+      "audio": false
+    },
+    "en": {
+      "text": "He is such a famous musician",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Она беременна?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is she pregnant?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Вы такие умные люди",
+      "audio": false
+    },
+    "en": {
+      "text": "You are such smart people",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Он может бежать очень быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "He can run very fast",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Этот дом такой старый",
+      "audio": false
+    },
+    "en": {
+      "text": "This house is so old",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я также хочу посетить другие страны и города",
+      "audio": false
+    },
+    "en": {
+      "text": "I also want to visit other countries and cities",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Он выиграл золотую медаль",
+      "audio": false
+    },
+    "en": {
+      "text": "He won a gold medal",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Они такие добрые люди",
+      "audio": false
+    },
+    "en": {
+      "text": "They are such kind people",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Это такой старый дом",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such an old house",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Они такие успешные бизнесмены",
+      "audio": false
+    },
+    "en": {
+      "text": "They are such successful businessmen",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Он живет в другом месте",
+      "audio": false
+    },
+    "en": {
+      "text": "He lives in another place",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Она больна сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "She is ill now",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Мне очень жаль",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm so sorry",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Он больной человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is an ill person",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Забор желтый",
+      "audio": false
+    },
+    "en": {
+      "text": "The fence is yellow",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Она слушает ежедневные новости",
+      "audio": false
+    },
+    "en": {
+      "text": "She listens to daily news",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Та улица намного шире",
+      "audio": false
+    },
+    "en": {
+      "text": "That street is much wider",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Это такая интересная идея",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such an interesting idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "У нее очень красивое лицо",
+      "audio": false
+    },
+    "en": {
+      "text": "She has a very pretty face",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он очень успешный бизнесмен",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a very successful businessman",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Это стандартная процедура",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a standard procedure",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Он дал мне прямой ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "He gave me a direct answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я действительно сожалел об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I was really sorry about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Это моя личная точка зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "It's my personal point of view",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Это стандартная процедура",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a standard procedure",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Он дал мне прямой ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "He gave me a direct answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я действительно сожалел об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I was really sorry about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Это моя личная точка зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "It's my personal point of view",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Город известен своей историей",
+      "audio": false
+    },
+    "en": {
+      "text": "The city is famous for its history",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я оставил свой мобильный телефон дома",
+      "audio": false
+    },
+    "en": {
+      "text": "I left my mobile phone at home",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Она купила новое красное платье",
+      "audio": false
+    },
+    "en": {
+      "text": "She bought a new red dress",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Ты так добр ко мне",
+      "audio": false
+    },
+    "en": {
+      "text": "You are so kind to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Она очень позитивный человек",
+      "audio": false
+    },
+    "en": {
+      "text": "She's a very positive person",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Он выиграл серебряную медаль",
+      "audio": false
+    },
+    "en": {
+      "text": "He won a silver medal",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Карандаш коричневый",
+      "audio": false
+    },
+    "en": {
+      "text": "The pencil is brown",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Это такой скучный фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such a boring movie",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я не вполне уверен, что я выбрал правильный ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not quite sure that I chose the right answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Это гораздо более серьезная проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a much more serious problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Как хорошо вы знаете друг друга?",
+      "audio": false
+    },
+    "en": {
+      "text": "How well do you know each other?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "У него такие выдающиеся академические достижения",
+      "audio": false
+    },
+    "en": {
+      "text": "He has such outstanding academic achievements",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Он чувствует себя намного увереннее",
+      "audio": false
+    },
+    "en": {
+      "text": "He feels much more confident",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "У него очень приятная улыбка",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a very pleasant smile",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Это самое старое здание в деревне",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the oldest building in the village",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я думаю, это естественная реакция",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it's a natural reaction",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Это такая древняя крепость",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such an ancient fortress",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Он такой успешный бизнесмен",
+      "audio": false
+    },
+    "en": {
+      "text": "He is such a successful businessman",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Это более серьезная проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a more serious problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Это огромный успех",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a huge success",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Это очень серьезная проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very serious problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Это более скучная статья",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a more boring article",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Он один из самых умных людей в мире",
+      "audio": false
+    },
+    "en": {
+      "text": "He is one of the smartest people in the world",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Он один из самых талантливых людей в мире",
+      "audio": false
+    },
+    "en": {
+      "text": "He is one of the most talented people in the world",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Это очень серьезная социальная проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very serious social problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Это очень важное решение",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very important decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Это действительно серьезная проблема в наши дни",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a really serious problem nowadays",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Он такой везучий человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is such a lucky person",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Он такой везучий",
+      "audio": false
+    },
+    "en": {
+      "text": "He is so lucky",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он такой хороший человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is such a good person",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Каждый из этих вопросов заслуживает нашего внимания",
+      "audio": false
+    },
+    "en": {
+      "text": "Each of these questions deserves our attention",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Все эти вопросы заслуживают твоего внимания",
+      "audio": false
+    },
+    "en": {
+      "text": "All these questions deserve your attention",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Каждая из этих проблем заслуживала нашего внимания",
+      "audio": false
+    },
+    "en": {
+      "text": "Each of these problems deserved our attention",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Это такое приятное чувство",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such a pleasant feeling",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Он такой популярный актер",
+      "audio": false
+    },
+    "en": {
+      "text": "He's such a popular actor",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Это такое необычное чувство",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such an unusual feeling",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Это такой древний город",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such an ancient town",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Этот город такой древний",
+      "audio": false
+    },
+    "en": {
+      "text": "This town is so ancient",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Это такой старый город",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such an old town",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я уверен, что это правильное решение",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure that it's the right decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я уверен, что это твое лучшее решение",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure that it's your best decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я не уверен, что это правильный ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not sure that it's the right answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Она более известная актриса",
+      "audio": false
+    },
+    "en": {
+      "text": "She is a more famous actress",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Она очень популярная актриса",
+      "audio": false
+    },
+    "en": {
+      "text": "She is a very popular actress",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Она самая известная актриса в мире",
+      "audio": false
+    },
+    "en": {
+      "text": "She is the most famous actress in the world",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Он купил кожаный футляр",
+      "audio": false
+    },
+    "en": {
+      "text": "He bought a leather case",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Он купил маленькую красную машину",
+      "audio": false
+    },
+    "en": {
+      "text": "He bought a small red car",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Он гораздо более известный музыкант",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a much more famous musician",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Она такой добрый человек",
+      "audio": false
+    },
+    "en": {
+      "text": "She is such a kind person",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я действительно заинтересован в этой теме",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really interested in this topic",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Это такая большая социальная проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such a big social problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Он носит кожаный ремень",
+      "audio": false
+    },
+    "en": {
+      "text": "He wears a leather belt",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Это было огромным успехом",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a huge success",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Он более успешный предприниматель",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a more successful entrepreneur",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Мы можем дышать свежим воздухом там",
+      "audio": false
+    },
+    "en": {
+      "text": "We can breathe fresh air there",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Каждый из них это понимает",
+      "audio": false
+    },
+    "en": {
+      "text": "Each of them understands it",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Каждый из нас знает это",
+      "audio": false
+    },
+    "en": {
+      "text": "Each of us knows it",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Он не сумасшедший",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't mad",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Это очень древний город",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very ancient city",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Ты такой везучий",
+      "audio": false
+    },
+    "en": {
+      "text": "You are so lucky",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Здесь очень сухо",
+      "audio": false
+    },
+    "en": {
+      "text": "It is very dry here",
+      "audio": false
+    }
   }
 ]

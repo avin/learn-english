@@ -1,502 +1,1102 @@
 [
   {
-    "_id": 1,
-    "ru": "Он полон энтузиазма",
-    "en": "He is full of enthusiasm"
-  },
-  {
-    "_id": 2,
-    "ru": "Я действительно рад за тебя",
-    "en": "I'm really glad for you"
-  },
-  {
-    "_id": 3,
-    "ru": "Это сделано из хлопка",
-    "en": "It is made of cotton"
-  },
-  {
-    "_id": 4,
-    "ru": "Он очень раздражен ею",
-    "en": "He is very annoyed with her"
-  },
-  {
-    "_id": 5,
-    "ru": "Я так рад за тебя",
-    "en": "I am so happy for you"
-  },
-  {
-    "_id": 6,
-    "ru": "Это сделано из стали",
-    "en": "It is made of steel"
-  },
-  {
-    "_id": 7,
-    "ru": "Он очень нервничает из-за своего будущего",
-    "en": "He is very nervous about his future"
-  },
-  {
-    "_id": 8,
-    "ru": "Я действительно сожалею обо всем",
-    "en": "I am really sorry about everything"
-  },
-  {
-    "_id": 9,
-    "ru": "Она очень раздражена им",
-    "en": "She is very irritated with him"
-  },
-  {
-    "_id": 10,
-    "ru": "Она безнадежна в катании на коньках",
-    "en": "She is hopeless at skating"
-  },
-  {
-    "_id": 11,
-    "ru": "Я так рад за тебя",
-    "en": "I'm so glad for you"
-  },
-  {
-    "_id": 12,
-    "ru": "Она зависима от своих родителей",
-    "en": "She is dependent on her parents"
-  },
-  {
-    "_id": 13,
-    "ru": "Он помолвлен с ней",
-    "en": "He is engaged to her"
-  },
-  {
-    "_id": 14,
-    "ru": "Он абсолютно безнадежен в этом",
-    "en": "He is absolutely hopeless at it"
-  },
-  {
-    "_id": 15,
-    "ru": "Ему не все ясно",
-    "en": "Not everything is clear to him"
-  },
-  {
-    "_id": 16,
-    "ru": "Он был очень раздражен детьми",
-    "en": "He was very annoyed with the kids"
-  },
-  {
-    "_id": 17,
-    "ru": "Они были очень раздражены его грубостью",
-    "en": "They were very irritated by his rudeness"
-  },
-  {
-    "_id": 18,
-    "ru": "Мне все ясно",
-    "en": "Everything is clear to me"
-  },
-  {
-    "_id": 19,
-    "ru": "Я очень рад твоему успеху",
-    "en": "I'm really glad about your success"
-  },
-  {
-    "_id": 20,
-    "ru": "Он был очень разочарован результатом",
-    "en": "He was very disappointed about the result"
-  },
-  {
-    "_id": 21,
-    "ru": "Он действительно уверен в этом?",
-    "en": "Is he really sure about it?"
-  },
-  {
-    "_id": 22,
-    "ru": "Она помолвлена с ним",
-    "en": "She is engaged to him"
-  },
-  {
-    "_id": 23,
-    "ru": "Это сделано из шерсти",
-    "en": "It is made of wool"
-  },
-  {
-    "_id": 24,
-    "ru": "Я так рад твоим достижениям",
-    "en": "I am so happy about your achievements"
-  },
-  {
-    "_id": 25,
-    "ru": "Он очень раздражен ее комментариями",
-    "en": "He is very irritated by her comments"
-  },
-  {
-    "_id": 26,
-    "ru": "Она действительно без ума от музыки",
-    "en": "She is really crazy about music"
-  },
-  {
-    "_id": 27,
-    "ru": "Он без ума от нее",
-    "en": "He is mad about her"
-  },
-  {
-    "_id": 28,
-    "ru": "Он полон энтузиазма",
-    "en": "He is full of enthusiasm"
-  },
-  {
-    "_id": 29,
-    "ru": "Я не совсем уверен в этом",
-    "en": "I'm not really sure about it"
-  },
-  {
-    "_id": 30,
-    "ru": "Она безнадежна в кулинарии",
-    "en": "She is hopeless at cooking"
-  },
-  {
-    "_id": 31,
-    "ru": "Это сделано из пластика",
-    "en": "It is made of plastic"
-  },
-  {
-    "_id": 32,
-    "ru": "Она все еще злится на него",
-    "en": "She is still furious with him"
-  },
-  {
-    "_id": 33,
-    "ru": "Это мне не ясно",
-    "en": "It isn't clear to me"
-  },
-  {
-    "_id": 34,
-    "ru": "Я так рад таким результатам",
-    "en": "I'm so happy about such results"
-  },
-  {
-    "_id": 35,
-    "ru": "Она очень нервничает из-за этого",
-    "en": "She is very nervous about it"
-  },
-  {
-    "_id": 36,
-    "ru": "Я действительно раздражен этой вещью",
-    "en": "I'm really annoyed about this thing"
-  },
-  {
-    "_id": 37,
-    "ru": "Это сделано из металла",
-    "en": "It is made of metal"
-  },
-  {
-    "_id": 38,
-    "ru": "Я действительно рад за тебя",
-    "en": "I'm really glad for you"
-  },
-  {
-    "_id": 39,
-    "ru": "Сумка сделана из кожи",
-    "en": "The bag is made of leather"
-  },
-  {
-    "_id": 40,
-    "ru": "Она очень нервничает из-за интервью",
-    "en": "She feels very nervous about the interview"
-  },
-  {
-    "_id": 41,
-    "ru": "Мне это стало ясно",
-    "en": "It became clear to me"
-  },
-  {
-    "_id": 42,
-    "ru": "Она полна энергии, несмотря на свой возраст",
-    "en": "She is full of energy despite her age"
-  },
-  {
-    "_id": 43,
-    "ru": "Несмотря на свой возраст, он зависит от своих родителей",
-    "en": "Despite his age he is dependent on his parents"
-  },
-  {
-    "_id": 44,
-    "ru": "Ты всегда очень добр ко мне",
-    "en": "You are always very kind to me"
-  },
-  {
-    "_id": 45,
-    "ru": "Я хочу сказать, что благодарен тебе за все",
-    "en": "I want to say that I'm grateful to you for everything"
-  },
-  {
-    "_id": 46,
-    "ru": "Я знаком с такого рода проблемами",
-    "en": "I'm acquainted with this kind of problems"
-  },
-  {
-    "_id": 47,
-    "ru": "Он так рад такому результату",
-    "en": "He's so happy about such a result"
-  },
-  {
-    "_id": 48,
-    "ru": "Она всегда очень добра к нам",
-    "en": "She is always very kind to us"
-  },
-  {
-    "_id": 49,
-    "ru": "Несмотря на свой возраст, он зависит от своего отца",
-    "en": "In spite of his age he is dependent on his father"
-  },
-  {
-    "_id": 50,
-    "ru": "Он полон энергии, несмотря на свой возраст",
-    "en": "He is full of energy in spite of his age"
-  },
-  {
-    "_id": 51,
-    "ru": "Я опоздал на урок",
-    "en": "I was late for the lesson"
-  },
-  {
-    "_id": 52,
-    "ru": "Его коллеги завидовали его успехам",
-    "en": "His colleagues were envious of his success"
-  },
-  {
-    "_id": 53,
-    "ru": "Он хочет познакомиться с ней",
-    "en": "He wants to get acquainted with her"
-  },
-  {
-    "_id": 54,
-    "ru": "Он немного опоздал на урок",
-    "en": "He was late for the lesson a little"
-  },
-  {
-    "_id": 55,
-    "ru": "Я благодарен тебе за твое гостеприимство",
-    "en": "I am grateful to you for your hospitality"
-  },
-  {
-    "_id": 56,
-    "ru": "У него аллергия на орехи",
-    "en": "He is allergic to nuts"
-  },
-  {
-    "_id": 57,
-    "ru": "У нее нет аллергии на это",
-    "en": "She isn't allergic to it"
-  },
-  {
-    "_id": 58,
-    "ru": "У меня аллергия на эту еду",
-    "en": "I am allergic to this food"
-  },
-  {
-    "_id": 59,
-    "ru": "Ей не хватает денег",
-    "en": "She is short of money"
-  },
-  {
-    "_id": 60,
-    "ru": "Мне не хватает времени",
-    "en": "I am short of time"
-  },
-  {
-    "_id": 61,
-    "ru": "Ему не хватает наличных?",
-    "en": "Is he short of cash?"
-  },
-  {
-    "_id": 62,
-    "ru": "Было очень мило с твоей стороны помочь нам",
-    "en": "It was very nice of you to help us"
-  },
-  {
-    "_id": 63,
-    "ru": "Было так мило с твоей стороны помочь мне",
-    "en": "It was so nice of you to help me"
-  },
-  {
-    "_id": 64,
-    "ru": "Было очень мило с его стороны встретить нас",
-    "en": "It was really nice of him to meet us"
-  },
-  {
-    "_id": 65,
-    "ru": "Он часто грустит из-за этого",
-    "en": "He is often sad about it"
-  },
-  {
-    "_id": 66,
-    "ru": "Она действительно грустит из-за этой вещи",
-    "en": "She is really sad about this thing"
-  },
-  {
-    "_id": 67,
-    "ru": "Он так грустит из-за своих ошибок",
-    "en": "He is so sad about his mistakes"
-  },
-  {
-    "_id": 68,
-    "ru": "Все завидуют ему",
-    "en": "Everyone is envious of him"
-  },
-  {
-    "_id": 69,
-    "ru": "Никто ей не завидует",
-    "en": "No one is envious of her"
-  },
-  {
-    "_id": 70,
-    "ru": "Я не завидую тебе",
-    "en": "I am not envious of you"
-  },
-  {
-    "_id": 71,
-    "ru": "Он отсутствовал на работе",
-    "en": "He was absent from work"
-  },
-  {
-    "_id": 72,
-    "ru": "Я отсутствовал в университете",
-    "en": "I was absent from the university"
-  },
-  {
-    "_id": 73,
-    "ru": "Он отсутствует на работе?",
-    "en": "Is he absent from work?"
-  },
-  {
-    "_id": 74,
-    "ru": "Ты хочешь с ней познакомиться?",
-    "en": "Do you want to get acquainted with her?"
-  },
-  {
-    "_id": 75,
-    "ru": "Я действительно хочу с ним познакомиться",
-    "en": "I really want to get acquainted with him"
-  },
-  {
-    "_id": 76,
-    "ru": "Я никогда не хотел с ними знакомиться",
-    "en": "I have never wanted to get acquainted with them"
-  },
-  {
-    "_id": 77,
-    "ru": "Ему наскучил такой формат образования",
-    "en": "He's bored with this format of education"
-  },
-  {
-    "_id": 78,
-    "ru": "Ей наскучила эта работа",
-    "en": "She's bored with this job"
-  },
-  {
-    "_id": 79,
-    "ru": "Ему наскучил этот фильм?",
-    "en": "Is he bored with this movie?"
-  },
-  {
-    "_id": 80,
-    "ru": "Эта вещь нам не понятна",
-    "en": "This thing isn't clear to us"
-  },
-  {
-    "_id": 81,
-    "ru": "Эта вещь мне понятна",
-    "en": "This thing is clear to me"
-  },
-  {
-    "_id": 82,
-    "ru": "Эта вещь тебе понятна?",
-    "en": "Is this thing clear to you?"
-  },
-  {
-    "_id": 83,
-    "ru": "Им не хватает воды",
-    "en": "They are short of water"
-  },
-  {
-    "_id": 84,
-    "ru": "Мне не хватает денег",
-    "en": "I am short of money"
-  },
-  {
-    "_id": 85,
-    "ru": "Тебе не хватило времени?",
-    "en": "Were you short of time?"
-  },
-  {
-    "_id": 86,
-    "ru": "Им не хватает времени",
-    "en": "They are short of time"
-  },
-  {
-    "_id": 87,
-    "ru": "Было очень мило с твоей стороны предложить это",
-    "en": "It was very nice of you to offer it"
-  },
-  {
-    "_id": 88,
-    "ru": "У мальчика аллергия на эту еду",
-    "en": "The boy is allergic to this food"
-  },
-  {
-    "_id": 89,
-    "ru": "Я отсутствовал на встрече",
-    "en": "I was absent from the meeting"
-  },
-  {
-    "_id": 90,
-    "ru": "Я хочу с ним познакомиться",
-    "en": "I want to get acquainted with him"
-  },
-  {
-    "_id": 91,
-    "ru": "Почему он так завидует ей?",
-    "en": "Why is he so envious of her?"
-  },
-  {
-    "_id": 92,
-    "ru": "Она присутствовала на уроке",
-    "en": "She was present at the lesson"
-  },
-  {
-    "_id": 93,
-    "ru": "Ты знаком с ней?",
-    "en": "Are you acquainted with her?"
-  },
-  {
-    "_id": 94,
-    "ru": "Она отсутствовала в школе",
-    "en": "She was absent from school"
-  },
-  {
-    "_id": 95,
-    "ru": "У нее аллергия на домашнюю пыль",
-    "en": "She is allergic to house dust"
-  },
-  {
-    "_id": 96,
-    "ru": "Это очень мило с твоей стороны",
-    "en": "It is very nice of you"
-  },
-  {
-    "_id": 97,
-    "ru": "Он присутствовал на встрече",
-    "en": "He was present at the meeting"
-  },
-  {
-    "_id": 98,
-    "ru": "Он не благодарен за это?",
-    "en": "Isn't he grateful for it?"
-  },
-  {
-    "_id": 99,
-    "ru": "Ему не хватает наличных",
-    "en": "He is short of cash"
-  },
-  {
-    "_id": 100,
-    "ru": "Она грустит об этом",
-    "en": "She is sad about it"
+    "id": 1,
+    "ru": {
+      "text": "Он полон энтузиазма",
+      "audio": false
+    },
+    "en": {
+      "text": "He is full of enthusiasm",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я действительно рад за тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really glad for you",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Это сделано из хлопка",
+      "audio": false
+    },
+    "en": {
+      "text": "It is made of cotton",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Он очень раздражен ею",
+      "audio": false
+    },
+    "en": {
+      "text": "He is very annoyed with her",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я так рад за тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I am so happy for you",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Это сделано из стали",
+      "audio": false
+    },
+    "en": {
+      "text": "It is made of steel",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Он очень нервничает из-за своего будущего",
+      "audio": false
+    },
+    "en": {
+      "text": "He is very nervous about his future",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я действительно сожалею обо всем",
+      "audio": false
+    },
+    "en": {
+      "text": "I am really sorry about everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Она очень раздражена им",
+      "audio": false
+    },
+    "en": {
+      "text": "She is very irritated with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Она безнадежна в катании на коньках",
+      "audio": false
+    },
+    "en": {
+      "text": "She is hopeless at skating",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я так рад за тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm so glad for you",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Она зависима от своих родителей",
+      "audio": false
+    },
+    "en": {
+      "text": "She is dependent on her parents",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он помолвлен с ней",
+      "audio": false
+    },
+    "en": {
+      "text": "He is engaged to her",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Он абсолютно безнадежен в этом",
+      "audio": false
+    },
+    "en": {
+      "text": "He is absolutely hopeless at it",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Ему не все ясно",
+      "audio": false
+    },
+    "en": {
+      "text": "Not everything is clear to him",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Он был очень раздражен детьми",
+      "audio": false
+    },
+    "en": {
+      "text": "He was very annoyed with the kids",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Они были очень раздражены его грубостью",
+      "audio": false
+    },
+    "en": {
+      "text": "They were very irritated by his rudeness",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Мне все ясно",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything is clear to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я очень рад твоему успеху",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really glad about your success",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Он был очень разочарован результатом",
+      "audio": false
+    },
+    "en": {
+      "text": "He was very disappointed about the result",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Он действительно уверен в этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he really sure about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Она помолвлена с ним",
+      "audio": false
+    },
+    "en": {
+      "text": "She is engaged to him",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Это сделано из шерсти",
+      "audio": false
+    },
+    "en": {
+      "text": "It is made of wool",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Я так рад твоим достижениям",
+      "audio": false
+    },
+    "en": {
+      "text": "I am so happy about your achievements",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Он очень раздражен ее комментариями",
+      "audio": false
+    },
+    "en": {
+      "text": "He is very irritated by her comments",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Она действительно без ума от музыки",
+      "audio": false
+    },
+    "en": {
+      "text": "She is really crazy about music",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Он без ума от нее",
+      "audio": false
+    },
+    "en": {
+      "text": "He is mad about her",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Он полон энтузиазма",
+      "audio": false
+    },
+    "en": {
+      "text": "He is full of enthusiasm",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Я не совсем уверен в этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not really sure about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Она безнадежна в кулинарии",
+      "audio": false
+    },
+    "en": {
+      "text": "She is hopeless at cooking",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Это сделано из пластика",
+      "audio": false
+    },
+    "en": {
+      "text": "It is made of plastic",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Она все еще злится на него",
+      "audio": false
+    },
+    "en": {
+      "text": "She is still furious with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Это мне не ясно",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't clear to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я так рад таким результатам",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm so happy about such results",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Она очень нервничает из-за этого",
+      "audio": false
+    },
+    "en": {
+      "text": "She is very nervous about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я действительно раздражен этой вещью",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really annoyed about this thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Это сделано из металла",
+      "audio": false
+    },
+    "en": {
+      "text": "It is made of metal",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Я действительно рад за тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm really glad for you",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Сумка сделана из кожи",
+      "audio": false
+    },
+    "en": {
+      "text": "The bag is made of leather",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Она очень нервничает из-за интервью",
+      "audio": false
+    },
+    "en": {
+      "text": "She feels very nervous about the interview",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Мне это стало ясно",
+      "audio": false
+    },
+    "en": {
+      "text": "It became clear to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Она полна энергии, несмотря на свой возраст",
+      "audio": false
+    },
+    "en": {
+      "text": "She is full of energy despite her age",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Несмотря на свой возраст, он зависит от своих родителей",
+      "audio": false
+    },
+    "en": {
+      "text": "Despite his age he is dependent on his parents",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Ты всегда очень добр ко мне",
+      "audio": false
+    },
+    "en": {
+      "text": "You are always very kind to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я хочу сказать, что благодарен тебе за все",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to say that I'm grateful to you for everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я знаком с такого рода проблемами",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm acquainted with this kind of problems",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Он так рад такому результату",
+      "audio": false
+    },
+    "en": {
+      "text": "He's so happy about such a result",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Она всегда очень добра к нам",
+      "audio": false
+    },
+    "en": {
+      "text": "She is always very kind to us",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Несмотря на свой возраст, он зависит от своего отца",
+      "audio": false
+    },
+    "en": {
+      "text": "In spite of his age he is dependent on his father",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он полон энергии, несмотря на свой возраст",
+      "audio": false
+    },
+    "en": {
+      "text": "He is full of energy in spite of his age",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я опоздал на урок",
+      "audio": false
+    },
+    "en": {
+      "text": "I was late for the lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Его коллеги завидовали его успехам",
+      "audio": false
+    },
+    "en": {
+      "text": "His colleagues were envious of his success",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Он хочет познакомиться с ней",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to get acquainted with her",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Он немного опоздал на урок",
+      "audio": false
+    },
+    "en": {
+      "text": "He was late for the lesson a little",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я благодарен тебе за твое гостеприимство",
+      "audio": false
+    },
+    "en": {
+      "text": "I am grateful to you for your hospitality",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "У него аллергия на орехи",
+      "audio": false
+    },
+    "en": {
+      "text": "He is allergic to nuts",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "У нее нет аллергии на это",
+      "audio": false
+    },
+    "en": {
+      "text": "She isn't allergic to it",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "У меня аллергия на эту еду",
+      "audio": false
+    },
+    "en": {
+      "text": "I am allergic to this food",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Ей не хватает денег",
+      "audio": false
+    },
+    "en": {
+      "text": "She is short of money",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Мне не хватает времени",
+      "audio": false
+    },
+    "en": {
+      "text": "I am short of time",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Ему не хватает наличных?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he short of cash?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Было очень мило с твоей стороны помочь нам",
+      "audio": false
+    },
+    "en": {
+      "text": "It was very nice of you to help us",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Было так мило с твоей стороны помочь мне",
+      "audio": false
+    },
+    "en": {
+      "text": "It was so nice of you to help me",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Было очень мило с его стороны встретить нас",
+      "audio": false
+    },
+    "en": {
+      "text": "It was really nice of him to meet us",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Он часто грустит из-за этого",
+      "audio": false
+    },
+    "en": {
+      "text": "He is often sad about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Она действительно грустит из-за этой вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "She is really sad about this thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Он так грустит из-за своих ошибок",
+      "audio": false
+    },
+    "en": {
+      "text": "He is so sad about his mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Все завидуют ему",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone is envious of him",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Никто ей не завидует",
+      "audio": false
+    },
+    "en": {
+      "text": "No one is envious of her",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я не завидую тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I am not envious of you",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Он отсутствовал на работе",
+      "audio": false
+    },
+    "en": {
+      "text": "He was absent from work",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я отсутствовал в университете",
+      "audio": false
+    },
+    "en": {
+      "text": "I was absent from the university",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Он отсутствует на работе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he absent from work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Ты хочешь с ней познакомиться?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to get acquainted with her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я действительно хочу с ним познакомиться",
+      "audio": false
+    },
+    "en": {
+      "text": "I really want to get acquainted with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я никогда не хотел с ними знакомиться",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never wanted to get acquainted with them",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Ему наскучил такой формат образования",
+      "audio": false
+    },
+    "en": {
+      "text": "He's bored with this format of education",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Ей наскучила эта работа",
+      "audio": false
+    },
+    "en": {
+      "text": "She's bored with this job",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Ему наскучил этот фильм?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he bored with this movie?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Эта вещь нам не понятна",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing isn't clear to us",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Эта вещь мне понятна",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing is clear to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Эта вещь тебе понятна?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this thing clear to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Им не хватает воды",
+      "audio": false
+    },
+    "en": {
+      "text": "They are short of water",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Мне не хватает денег",
+      "audio": false
+    },
+    "en": {
+      "text": "I am short of money",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Тебе не хватило времени?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you short of time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Им не хватает времени",
+      "audio": false
+    },
+    "en": {
+      "text": "They are short of time",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Было очень мило с твоей стороны предложить это",
+      "audio": false
+    },
+    "en": {
+      "text": "It was very nice of you to offer it",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "У мальчика аллергия на эту еду",
+      "audio": false
+    },
+    "en": {
+      "text": "The boy is allergic to this food",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Я отсутствовал на встрече",
+      "audio": false
+    },
+    "en": {
+      "text": "I was absent from the meeting",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Я хочу с ним познакомиться",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to get acquainted with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Почему он так завидует ей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why is he so envious of her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Она присутствовала на уроке",
+      "audio": false
+    },
+    "en": {
+      "text": "She was present at the lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Ты знаком с ней?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you acquainted with her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Она отсутствовала в школе",
+      "audio": false
+    },
+    "en": {
+      "text": "She was absent from school",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "У нее аллергия на домашнюю пыль",
+      "audio": false
+    },
+    "en": {
+      "text": "She is allergic to house dust",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Это очень мило с твоей стороны",
+      "audio": false
+    },
+    "en": {
+      "text": "It is very nice of you",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Он присутствовал на встрече",
+      "audio": false
+    },
+    "en": {
+      "text": "He was present at the meeting",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Он не благодарен за это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Isn't he grateful for it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Ему не хватает наличных",
+      "audio": false
+    },
+    "en": {
+      "text": "He is short of cash",
+      "audio": false
+    }
+  },
+  {
+    "id": 100,
+    "ru": {
+      "text": "Она грустит об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "She is sad about it",
+      "audio": false
+    }
   }
 ]

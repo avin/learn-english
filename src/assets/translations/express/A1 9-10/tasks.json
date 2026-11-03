@@ -1,222 +1,486 @@
 [
   {
-    "_id": 1,
-    "ru": "Эта информация не новая для меня",
-    "en": "This information isn't new for me"
+    "id": 1,
+    "ru": {
+      "text": "Эта информация не новая для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "This information isn't new for me",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Тест не выглядит таким легким",
-    "en": "The test doesn't look so easy"
+    "id": 2,
+    "ru": {
+      "text": "Тест не выглядит таким легким",
+      "audio": false
+    },
+    "en": {
+      "text": "The test doesn't look so easy",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Он не готов к этому",
-    "en": "He isn't ready for it"
+    "id": 3,
+    "ru": {
+      "text": "Он не готов к этому",
+      "audio": false
+    },
+    "en": {
+      "text": "He isn't ready for it",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Это слово не новое для меня",
-    "en": "This word isn't new for me"
+    "id": 4,
+    "ru": {
+      "text": "Это слово не новое для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "This word isn't new for me",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Моему другу нравится эта идея",
-    "en": "My friend likes this idea"
+    "id": 5,
+    "ru": {
+      "text": "Моему другу нравится эта идея",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend likes this idea",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Сейчас не тепло",
-    "en": "It isn't warm now"
+    "id": 6,
+    "ru": {
+      "text": "Сейчас не тепло",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't warm now",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Он не выглядит уставшим",
-    "en": "He doesn't look tired"
+    "id": 7,
+    "ru": {
+      "text": "Он не выглядит уставшим",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't look tired",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Это действительно мотивирует меня",
-    "en": "It really motivates me"
+    "id": 8,
+    "ru": {
+      "text": "Это действительно мотивирует меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It really motivates me",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Моему другу не нравится эта идея",
-    "en": "My friend doesn't like this idea"
+    "id": 9,
+    "ru": {
+      "text": "Моему другу не нравится эта идея",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend doesn't like this idea",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Это очень подробный ответ",
-    "en": "It's a very detailed answer"
+    "id": 10,
+    "ru": {
+      "text": "Это очень подробный ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very detailed answer",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Этот ответ не такой подробный",
-    "en": "This answer isn't so detailed"
+    "id": 11,
+    "ru": {
+      "text": "Этот ответ не такой подробный",
+      "audio": false
+    },
+    "en": {
+      "text": "This answer isn't so detailed",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Эта вещь не удивляет меня",
-    "en": "This thing doesn't surprise me"
+    "id": 12,
+    "ru": {
+      "text": "Эта вещь не удивляет меня",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing doesn't surprise me",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Тот ответ не выглядит действительно информативным",
-    "en": "That answer doesn't look really informative"
+    "id": 13,
+    "ru": {
+      "text": "Тот ответ не выглядит действительно информативным",
+      "audio": false
+    },
+    "en": {
+      "text": "That answer doesn't look really informative",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Эта деталь не важна",
-    "en": "This detail isn't important"
+    "id": 14,
+    "ru": {
+      "text": "Эта деталь не важна",
+      "audio": false
+    },
+    "en": {
+      "text": "This detail isn't important",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Сейчас не холодно",
-    "en": "It isn't cold now"
+    "id": 15,
+    "ru": {
+      "text": "Сейчас не холодно",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't cold now",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Сегодня не так ветрено",
-    "en": "It isn't so windy today"
+    "id": 16,
+    "ru": {
+      "text": "Сегодня не так ветрено",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't so windy today",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Его родители не знают этого",
-    "en": "His parents don't know it"
+    "id": 17,
+    "ru": {
+      "text": "Его родители не знают этого",
+      "audio": false
+    },
+    "en": {
+      "text": "His parents don't know it",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Этот урок не кажется таким легким, но очень полезный",
-    "en": "This lesson doesn't seem so easy but it's very useful"
+    "id": 18,
+    "ru": {
+      "text": "Этот урок не кажется таким легким, но очень полезный",
+      "audio": false
+    },
+    "en": {
+      "text": "This lesson doesn't seem so easy but it's very useful",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Мой друг не знает этого",
-    "en": "My friend doesn't know it"
+    "id": 19,
+    "ru": {
+      "text": "Мой друг не знает этого",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend doesn't know it",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Эта деталь не кажется важной",
-    "en": "This detail doesn't seem important"
+    "id": 20,
+    "ru": {
+      "text": "Эта деталь не кажется важной",
+      "audio": false
+    },
+    "en": {
+      "text": "This detail doesn't seem important",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Этот ответ очень подробный",
-    "en": "This answer is very detailed"
+    "id": 21,
+    "ru": {
+      "text": "Этот ответ очень подробный",
+      "audio": false
+    },
+    "en": {
+      "text": "This answer is very detailed",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Сегодня не солнечно",
-    "en": "It isn't sunny today"
+    "id": 22,
+    "ru": {
+      "text": "Сегодня не солнечно",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't sunny today",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Это описание не такое информативное",
-    "en": "This description isn't so informative"
+    "id": 23,
+    "ru": {
+      "text": "Это описание не такое информативное",
+      "audio": false
+    },
+    "en": {
+      "text": "This description isn't so informative",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Это не удивляет меня",
-    "en": "It doesn't surprise me"
+    "id": 24,
+    "ru": {
+      "text": "Это не удивляет меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It doesn't surprise me",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Я хочу сказать, что я не удивлен",
-    "en": "I want to say that I'm not surprised"
+    "id": 25,
+    "ru": {
+      "text": "Я хочу сказать, что я не удивлен",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to say that I'm not surprised",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Эта вещь мотивирует меня так сильно",
-    "en": "This thing motivates me so much"
+    "id": 26,
+    "ru": {
+      "text": "Эта вещь мотивирует меня так сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing motivates me so much",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Сейчас не так жарко",
-    "en": "It isn't so hot now"
+    "id": 27,
+    "ru": {
+      "text": "Сейчас не так жарко",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't so hot now",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Мальчик не выглядит уставшим",
-    "en": "The boy doesn't look tired"
+    "id": 28,
+    "ru": {
+      "text": "Мальчик не выглядит уставшим",
+      "audio": false
+    },
+    "en": {
+      "text": "The boy doesn't look tired",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Его родителей нет дома",
-    "en": "His parents aren't at home"
+    "id": 29,
+    "ru": {
+      "text": "Его родителей нет дома",
+      "audio": false
+    },
+    "en": {
+      "text": "His parents aren't at home",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Его мама не знает этого",
-    "en": "His mother doesn't know it"
+    "id": 30,
+    "ru": {
+      "text": "Его мама не знает этого",
+      "audio": false
+    },
+    "en": {
+      "text": "His mother doesn't know it",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Сегодня не очень холодно",
-    "en": "It isn't very cold today"
+    "id": 31,
+    "ru": {
+      "text": "Сегодня не очень холодно",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't very cold today",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Этот метод кажется очень простым, но он очень эффективный",
-    "en": "This method seems very simple but it's very effective"
+    "id": 32,
+    "ru": {
+      "text": "Этот метод кажется очень простым, но он очень эффективный",
+      "audio": false
+    },
+    "en": {
+      "text": "This method seems very simple but it's very effective",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Моих родителей нет дома",
-    "en": "My parents aren't at home"
+    "id": 33,
+    "ru": {
+      "text": "Моих родителей нет дома",
+      "audio": false
+    },
+    "en": {
+      "text": "My parents aren't at home",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Эта информация не кажется такой полезной",
-    "en": "This information doesn't seem so useful"
+    "id": 34,
+    "ru": {
+      "text": "Эта информация не кажется такой полезной",
+      "audio": false
+    },
+    "en": {
+      "text": "This information doesn't seem so useful",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Тест не такой сложный",
-    "en": "The test isn't so difficult"
+    "id": 35,
+    "ru": {
+      "text": "Тест не такой сложный",
+      "audio": false
+    },
+    "en": {
+      "text": "The test isn't so difficult",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Эта проблема не такая большая",
-    "en": "This problem isn't so big"
+    "id": 36,
+    "ru": {
+      "text": "Эта проблема не такая большая",
+      "audio": false
+    },
+    "en": {
+      "text": "This problem isn't so big",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Эта вещь не кажется действительно важной",
-    "en": "This thing doesn't seem really important"
+    "id": 37,
+    "ru": {
+      "text": "Эта вещь не кажется действительно важной",
+      "audio": false
+    },
+    "en": {
+      "text": "This thing doesn't seem really important",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Я не удивлен",
-    "en": "I'm not surprised"
+    "id": 38,
+    "ru": {
+      "text": "Я не удивлен",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not surprised",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Я хочу сказать тебе, что я не устал",
-    "en": "I want to tell you that I'm not tired"
+    "id": 39,
+    "ru": {
+      "text": "Я хочу сказать тебе, что я не устал",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to tell you that I'm not tired",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Я думаю, это не важно",
-    "en": "I think it isn't important"
+    "id": 40,
+    "ru": {
+      "text": "Я думаю, это не важно",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it isn't important",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Сегодня не очень тепло",
-    "en": "It isn't very warm today"
+    "id": 41,
+    "ru": {
+      "text": "Сегодня не очень тепло",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't very warm today",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Урок не кажется таким легким, но он очень полезный",
-    "en": "The lesson doesn't seem so easy but it's very useful"
+    "id": 42,
+    "ru": {
+      "text": "Урок не кажется таким легким, но он очень полезный",
+      "audio": false
+    },
+    "en": {
+      "text": "The lesson doesn't seem so easy but it's very useful",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Сейчас не жарко",
-    "en": "It isn't hot now"
+    "id": 43,
+    "ru": {
+      "text": "Сейчас не жарко",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't hot now",
+      "audio": false
+    }
   },
   {
-    "_id": 44,
-    "ru": "Это описание не выглядит таким информативным",
-    "en": "This description doesn't look so informative"
+    "id": 44,
+    "ru": {
+      "text": "Это описание не выглядит таким информативным",
+      "audio": false
+    },
+    "en": {
+      "text": "This description doesn't look so informative",
+      "audio": false
+    }
   }
 ]

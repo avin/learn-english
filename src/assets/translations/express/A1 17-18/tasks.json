@@ -1,247 +1,541 @@
 [
   {
-    "_id": 1,
-    "ru": "Я работал почти каждый день",
-    "en": "I worked almost every day"
+    "id": 1,
+    "ru": {
+      "text": "Я работал почти каждый день",
+      "audio": false
+    },
+    "en": {
+      "text": "I worked almost every day",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я общался с иностранцами",
-    "en": "I communicated with foreigners"
+    "id": 2,
+    "ru": {
+      "text": "Я общался с иностранцами",
+      "audio": false
+    },
+    "en": {
+      "text": "I communicated with foreigners",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Я посмотрел на это еще раз",
-    "en": "I looked at it one more time"
+    "id": 3,
+    "ru": {
+      "text": "Я посмотрел на это еще раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I looked at it one more time",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я решил последовать этому совету",
-    "en": "I decided to follow this advice"
+    "id": 4,
+    "ru": {
+      "text": "Я решил последовать этому совету",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to follow this advice",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Он задал мне пару вопросов",
-    "en": "He asked me a couple of questions"
+    "id": 5,
+    "ru": {
+      "text": "Он задал мне пару вопросов",
+      "audio": false
+    },
+    "en": {
+      "text": "He asked me a couple of questions",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Это казалось мудрым решением",
-    "en": "It seemed a wise decision"
+    "id": 6,
+    "ru": {
+      "text": "Это казалось мудрым решением",
+      "audio": false
+    },
+    "en": {
+      "text": "It seemed a wise decision",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я посмотрел весь этот фильм",
-    "en": "I watched all of this movie"
+    "id": 7,
+    "ru": {
+      "text": "Я посмотрел весь этот фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "I watched all of this movie",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Они жили очень счастливо",
-    "en": "They lived very happily"
+    "id": 8,
+    "ru": {
+      "text": "Они жили очень счастливо",
+      "audio": false
+    },
+    "en": {
+      "text": "They lived very happily",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Он переехал в другой город",
-    "en": "He moved to another city"
+    "id": 9,
+    "ru": {
+      "text": "Он переехал в другой город",
+      "audio": false
+    },
+    "en": {
+      "text": "He moved to another city",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Он работал менеджером по продажам",
-    "en": "He worked as a sales manager"
+    "id": 10,
+    "ru": {
+      "text": "Он работал менеджером по продажам",
+      "audio": false
+    },
+    "en": {
+      "text": "He worked as a sales manager",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Это казалось очень мудрым решением",
-    "en": "It seemed a very wise decision"
+    "id": 11,
+    "ru": {
+      "text": "Это казалось очень мудрым решением",
+      "audio": false
+    },
+    "en": {
+      "text": "It seemed a very wise decision",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я общался с людьми из разных стран",
-    "en": "I communicated with people from different countries"
+    "id": 12,
+    "ru": {
+      "text": "Я общался с людьми из разных стран",
+      "audio": false
+    },
+    "en": {
+      "text": "I communicated with people from different countries",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Она посоветовала мне прочитать эту статью",
-    "en": "She advised me to read this article"
+    "id": 13,
+    "ru": {
+      "text": "Она посоветовала мне прочитать эту статью",
+      "audio": false
+    },
+    "en": {
+      "text": "She advised me to read this article",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Она работала консультантом",
-    "en": "She worked as a consultant"
+    "id": 14,
+    "ru": {
+      "text": "Она работала консультантом",
+      "audio": false
+    },
+    "en": {
+      "text": "She worked as a consultant",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Она переехала в другое место",
-    "en": "She moved to another place"
+    "id": 15,
+    "ru": {
+      "text": "Она переехала в другое место",
+      "audio": false
+    },
+    "en": {
+      "text": "She moved to another place",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Я решил последовать этой рекомендации",
-    "en": "I decided to follow this recommendation"
+    "id": 16,
+    "ru": {
+      "text": "Я решил последовать этой рекомендации",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to follow this recommendation",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Это случилось со мной так неожиданно",
-    "en": "It happened to me so unexpectedly"
+    "id": 17,
+    "ru": {
+      "text": "Это случилось со мной так неожиданно",
+      "audio": false
+    },
+    "en": {
+      "text": "It happened to me so unexpectedly",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Это случилось с нами так неожиданно",
-    "en": "It happened to us so unexpectedly"
+    "id": 18,
+    "ru": {
+      "text": "Это случилось с нами так неожиданно",
+      "audio": false
+    },
+    "en": {
+      "text": "It happened to us so unexpectedly",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Мне очень понравилось то объяснение",
-    "en": "I really liked that explanation"
+    "id": 19,
+    "ru": {
+      "text": "Мне очень понравилось то объяснение",
+      "audio": false
+    },
+    "en": {
+      "text": "I really liked that explanation",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Я последовал его рекомендации",
-    "en": "I followed his recommendation"
+    "id": 20,
+    "ru": {
+      "text": "Я последовал его рекомендации",
+      "audio": false
+    },
+    "en": {
+      "text": "I followed his recommendation",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Мне очень понравилось это объяснение",
-    "en": "I really liked this explanation"
+    "id": 21,
+    "ru": {
+      "text": "Мне очень понравилось это объяснение",
+      "audio": false
+    },
+    "en": {
+      "text": "I really liked this explanation",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Мы повернули назад",
-    "en": "We turned back"
+    "id": 22,
+    "ru": {
+      "text": "Мы повернули назад",
+      "audio": false
+    },
+    "en": {
+      "text": "We turned back",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Мне нужно было что-то сказать",
-    "en": "I needed to say something"
+    "id": 23,
+    "ru": {
+      "text": "Мне нужно было что-то сказать",
+      "audio": false
+    },
+    "en": {
+      "text": "I needed to say something",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Я решил остаться дома",
-    "en": "I decided to stay at home"
+    "id": 24,
+    "ru": {
+      "text": "Я решил остаться дома",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to stay at home",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Я поверил ему в начале",
-    "en": "I believed him in the beginning"
+    "id": 25,
+    "ru": {
+      "text": "Я поверил ему в начале",
+      "audio": false
+    },
+    "en": {
+      "text": "I believed him in the beginning",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Я пользовался той услугой время от времени",
-    "en": "I used that service from time to time"
+    "id": 26,
+    "ru": {
+      "text": "Я пользовался той услугой время от времени",
+      "audio": false
+    },
+    "en": {
+      "text": "I used that service from time to time",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Я пользовался этой услугой время от времени",
-    "en": "I used this service from time to time"
+    "id": 27,
+    "ru": {
+      "text": "Я пользовался этой услугой время от времени",
+      "audio": false
+    },
+    "en": {
+      "text": "I used this service from time to time",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Я думаю, что это изменило мою жизнь",
-    "en": "I think that it changed my life"
+    "id": 28,
+    "ru": {
+      "text": "Я думаю, что это изменило мою жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that it changed my life",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Я смотрел весь фильм",
-    "en": "I watched all the movie"
+    "id": 29,
+    "ru": {
+      "text": "Я смотрел весь фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "I watched all the movie",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Они часто разговаривали по телефону",
-    "en": "They often talked on the phone"
+    "id": 30,
+    "ru": {
+      "text": "Они часто разговаривали по телефону",
+      "audio": false
+    },
+    "en": {
+      "text": "They often talked on the phone",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Я перезвонил ему около десяти минут назад",
-    "en": "I called him back about ten minutes ago"
+    "id": 31,
+    "ru": {
+      "text": "Я перезвонил ему около десяти минут назад",
+      "audio": false
+    },
+    "en": {
+      "text": "I called him back about ten minutes ago",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Я последовал ее совету",
-    "en": "I followed her advice"
+    "id": 32,
+    "ru": {
+      "text": "Я последовал ее совету",
+      "audio": false
+    },
+    "en": {
+      "text": "I followed her advice",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Он перезвонил мне час назад",
-    "en": "He called me back an hour ago"
+    "id": 33,
+    "ru": {
+      "text": "Он перезвонил мне час назад",
+      "audio": false
+    },
+    "en": {
+      "text": "He called me back an hour ago",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Я продолжил этот очень интенсивный курс",
-    "en": "I continued this very intensive course"
+    "id": 34,
+    "ru": {
+      "text": "Я продолжил этот очень интенсивный курс",
+      "audio": false
+    },
+    "en": {
+      "text": "I continued this very intensive course",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Было очень темно, и мы повернули назад",
-    "en": "It was very dark and we turned back"
+    "id": 35,
+    "ru": {
+      "text": "Было очень темно, и мы повернули назад",
+      "audio": false
+    },
+    "en": {
+      "text": "It was very dark and we turned back",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Я старался сделать все возможное, чтобы достичь этой цели",
-    "en": "I tried to do my best to achieve this aim"
+    "id": 36,
+    "ru": {
+      "text": "Я старался сделать все возможное, чтобы достичь этой цели",
+      "audio": false
+    },
+    "en": {
+      "text": "I tried to do my best to achieve this aim",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Я посмотрел на экран",
-    "en": "I looked at the screen"
+    "id": 37,
+    "ru": {
+      "text": "Я посмотрел на экран",
+      "audio": false
+    },
+    "en": {
+      "text": "I looked at the screen",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Я хотел поехать в отпуск",
-    "en": "I wanted to go on holiday"
+    "id": 38,
+    "ru": {
+      "text": "Я хотел поехать в отпуск",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to go on holiday",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Мы играли в различные игры вместе",
-    "en": "We played different games together"
+    "id": 39,
+    "ru": {
+      "text": "Мы играли в различные игры вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "We played different games together",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Я был на выставке и общался с иностранцами",
-    "en": "I was at the exhibition and communicated with foreigners"
+    "id": 40,
+    "ru": {
+      "text": "Я был на выставке и общался с иностранцами",
+      "audio": false
+    },
+    "en": {
+      "text": "I was at the exhibition and communicated with foreigners",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Я посмотрел всё видео",
-    "en": "I watched the whole video"
+    "id": 41,
+    "ru": {
+      "text": "Я посмотрел всё видео",
+      "audio": false
+    },
+    "en": {
+      "text": "I watched the whole video",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Я задал ему пару вопросов",
-    "en": "I asked him a couple of questions"
+    "id": 42,
+    "ru": {
+      "text": "Я задал ему пару вопросов",
+      "audio": false
+    },
+    "en": {
+      "text": "I asked him a couple of questions",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Он посоветовал мне сделать это",
-    "en": "He advised me to do it"
+    "id": 43,
+    "ru": {
+      "text": "Он посоветовал мне сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "He advised me to do it",
+      "audio": false
+    }
   },
   {
-    "_id": 44,
-    "ru": "Я очень хотел посетить это место",
-    "en": "I really wanted to visit this place"
+    "id": 44,
+    "ru": {
+      "text": "Я очень хотел посетить это место",
+      "audio": false
+    },
+    "en": {
+      "text": "I really wanted to visit this place",
+      "audio": false
+    }
   },
   {
-    "_id": 45,
-    "ru": "Мне нужно было остаться дома",
-    "en": "I needed to stay at home"
+    "id": 45,
+    "ru": {
+      "text": "Мне нужно было остаться дома",
+      "audio": false
+    },
+    "en": {
+      "text": "I needed to stay at home",
+      "audio": false
+    }
   },
   {
-    "_id": 46,
-    "ru": "Эти тренировки действительно помогли мне",
-    "en": "These trainings really helped me"
+    "id": 46,
+    "ru": {
+      "text": "Эти тренировки действительно помогли мне",
+      "audio": false
+    },
+    "en": {
+      "text": "These trainings really helped me",
+      "audio": false
+    }
   },
   {
-    "_id": 47,
-    "ru": "Я решил сделать это позже",
-    "en": "I decided to do it later"
+    "id": 47,
+    "ru": {
+      "text": "Я решил сделать это позже",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to do it later",
+      "audio": false
+    }
   },
   {
-    "_id": 48,
-    "ru": "Я начал этот курс в прошлом месяце",
-    "en": "I started this course last month"
+    "id": 48,
+    "ru": {
+      "text": "Я начал этот курс в прошлом месяце",
+      "audio": false
+    },
+    "en": {
+      "text": "I started this course last month",
+      "audio": false
+    }
   },
   {
-    "_id": 49,
-    "ru": "Мы говорили о различных вещах",
-    "en": "We talked about different things"
+    "id": 49,
+    "ru": {
+      "text": "Мы говорили о различных вещах",
+      "audio": false
+    },
+    "en": {
+      "text": "We talked about different things",
+      "audio": false
+    }
   }
 ]

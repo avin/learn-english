@@ -1,477 +1,1047 @@
 [
   {
-    "_id": 1,
-    "ru": "Он придет к нам скоро",
-    "en": "He will come to us soon"
-  },
-  {
-    "_id": 2,
-    "ru": "Мы поговорим об этом скоро",
-    "en": "We will talk about it soon"
-  },
-  {
-    "_id": 3,
-    "ru": "Я помогу тебе",
-    "en": "I'll help you"
-  },
-  {
-    "_id": 4,
-    "ru": "Он пойдет туда с нами",
-    "en": "He'll go there with us"
-  },
-  {
-    "_id": 5,
-    "ru": "Я поеду в Англию в следующем году",
-    "en": "I'll go to England next year"
-  },
-  {
-    "_id": 6,
-    "ru": "Я буду работать над этими ошибками",
-    "en": "I will work on these mistakes"
-  },
-  {
-    "_id": 7,
-    "ru": "Я перезвоню тебе",
-    "en": "I'll call you back"
-  },
-  {
-    "_id": 8,
-    "ru": "Он придет к нам скоро",
-    "en": "He will come to us soon"
-  },
-  {
-    "_id": 9,
-    "ru": "Я получу те деньги скоро",
-    "en": "I'll get that money soon"
-  },
-  {
-    "_id": 10,
-    "ru": "Я помогу тебе",
-    "en": "I'll help you"
-  },
-  {
-    "_id": 11,
-    "ru": "Она будет преподавать английский",
-    "en": "She will teach English"
-  },
-  {
-    "_id": 12,
-    "ru": "Это произойдет скоро",
-    "en": "It will happen soon"
-  },
-  {
-    "_id": 13,
-    "ru": "Мы посетим это место скоро",
-    "en": "We will visit this place soon"
-  },
-  {
-    "_id": 14,
-    "ru": "Я поеду в Англию в следующем году",
-    "en": "I'll go to England next year"
-  },
-  {
-    "_id": 15,
-    "ru": "Он пойдет туда с нами",
-    "en": "He'll go there with us"
-  },
-  {
-    "_id": 16,
-    "ru": "Я пошлю ей письмо",
-    "en": "I will send her a letter"
-  },
-  {
-    "_id": 17,
-    "ru": "Я проверю все",
-    "en": "I'll check everything"
-  },
-  {
-    "_id": 18,
-    "ru": "Они построят дом",
-    "en": "They'll build a house"
-  },
-  {
-    "_id": 19,
-    "ru": "Я буду работать над этими ошибками",
-    "en": "I will work on these mistakes"
-  },
-  {
-    "_id": 20,
-    "ru": "Мы поговорим об этом скоро",
-    "en": "We will talk about it soon"
-  },
-  {
-    "_id": 21,
-    "ru": "Я перезвоню тебе",
-    "en": "I'll call you back"
-  },
-  {
-    "_id": 22,
-    "ru": "Мы скоро это увидим",
-    "en": "We'll see it soon"
-  },
-  {
-    "_id": 23,
-    "ru": "Это будет стоить больше скоро",
-    "en": "It'll cost more soon"
-  },
-  {
-    "_id": 24,
-    "ru": "Я прочитаю эту книгу",
-    "en": "I will read this book"
-  },
-  {
-    "_id": 25,
-    "ru": "Мы все обсудим",
-    "en": "We'll discuss everything"
-  },
-  {
-    "_id": 26,
-    "ru": "Это принесет ему больше денег",
-    "en": "It will bring him more money"
-  },
-  {
-    "_id": 27,
-    "ru": "Я постараюсь сделать это сегодня",
-    "en": "I'll try to do it today"
-  },
-  {
-    "_id": 28,
-    "ru": "Ему понравится эта идея",
-    "en": "He will like this idea"
-  },
-  {
-    "_id": 29,
-    "ru": "Я посмотрю тот фильм",
-    "en": "I'll watch that movie"
-  },
-  {
-    "_id": 30,
-    "ru": "Ей понравится то предложение",
-    "en": "She will like that offer"
-  },
-  {
-    "_id": 31,
-    "ru": "Это будет лучше",
-    "en": "It will be better"
-  },
-  {
-    "_id": 32,
-    "ru": "Я скажу ему эту вещь",
-    "en": "I'll tell him this thing"
-  },
-  {
-    "_id": 33,
-    "ru": "Она посетит другие города в этом году",
-    "en": "She'll visit other cities this year"
-  },
-  {
-    "_id": 34,
-    "ru": "Это будет лучшее решение",
-    "en": "It'll be the best decision"
-  },
-  {
-    "_id": 35,
-    "ru": "Он будет работать над теми ошибками",
-    "en": "He will work on those mistakes"
-  },
-  {
-    "_id": 36,
-    "ru": "Он придет сюда завтра",
-    "en": "He will come here tomorrow"
-  },
-  {
-    "_id": 37,
-    "ru": "Я сделаю это завтра",
-    "en": "I will do it tomorrow"
-  },
-  {
-    "_id": 38,
-    "ru": "Тебе понравится та еда",
-    "en": "You will like that food"
-  },
-  {
-    "_id": 39,
-    "ru": "Я пришлю тебе электронное письмо",
-    "en": "I will send you an email"
-  },
-  {
-    "_id": 40,
-    "ru": "Ты скоро узнаешь это",
-    "en": "You'll know it soon"
-  },
-  {
-    "_id": 41,
-    "ru": "Я также посещу эти страны",
-    "en": "I will also visit these countries"
-  },
-  {
-    "_id": 42,
-    "ru": "Она останется дома",
-    "en": "She will stay at home"
-  },
-  {
-    "_id": 43,
-    "ru": "Тебе понравится эта идея",
-    "en": "You'll like this idea"
-  },
-  {
-    "_id": 44,
-    "ru": "Я куплю другой билет",
-    "en": "I'll buy another ticket"
-  },
-  {
-    "_id": 45,
-    "ru": "Он заплатит за все",
-    "en": "He'll pay for everything"
-  },
-  {
-    "_id": 46,
-    "ru": "Я буду ждать этого",
-    "en": "I will wait for it"
-  },
-  {
-    "_id": 47,
-    "ru": "Я буду слушать эту программу",
-    "en": "I'll listen to this program"
-  },
-  {
-    "_id": 48,
-    "ru": "Я перезвоню тебе скоро",
-    "en": "I will call you back soon"
-  },
-  {
-    "_id": 49,
-    "ru": "Я постараюсь сделать это",
-    "en": "I'll try to do it"
-  },
-  {
-    "_id": 50,
-    "ru": "Я думаю, я увижу его сегодня",
-    "en": "I think I'll see him today"
-  },
-  {
-    "_id": 51,
-    "ru": "Я заплачу за это",
-    "en": "I'll pay for it"
-  },
-  {
-    "_id": 52,
-    "ru": "Я буду слушать этот подкаст",
-    "en": "I will listen to this podcast"
-  },
-  {
-    "_id": 53,
-    "ru": "Я думаю, я пойму это скоро",
-    "en": "I think I'll understand it soon"
-  },
-  {
-    "_id": 54,
-    "ru": "Я выпью немного кофе",
-    "en": "I will drink some coffee"
-  },
-  {
-    "_id": 55,
-    "ru": "Я думаю, я последую этому совету",
-    "en": "I think I will follow this advice"
-  },
-  {
-    "_id": 56,
-    "ru": "Я буду слушать эту песню",
-    "en": "I will listen to this song"
-  },
-  {
-    "_id": 57,
-    "ru": "Я перезвоню тебе позже",
-    "en": "I'll call you back later"
-  },
-  {
-    "_id": 58,
-    "ru": "Я перезвоню ему скоро",
-    "en": "I'll call him back soon"
-  },
-  {
-    "_id": 59,
-    "ru": "Он перезвонит мне завтра",
-    "en": "He'll call me back tomorrow"
-  },
-  {
-    "_id": 60,
-    "ru": "Я последую твоей рекомендации",
-    "en": "I will follow your recommendation"
-  },
-  {
-    "_id": 61,
-    "ru": "Я последую твоему совету",
-    "en": "I will follow your advice"
-  },
-  {
-    "_id": 62,
-    "ru": "Она пойдет в этот музей",
-    "en": "She will go to this museum"
-  },
-  {
-    "_id": 63,
-    "ru": "Он пойдет в тот музей",
-    "en": "He will go to that museum"
-  },
-  {
-    "_id": 64,
-    "ru": "Они посетят этот музей",
-    "en": "They will visit this museum"
-  },
-  {
-    "_id": 65,
-    "ru": "Я заплачу за тебя",
-    "en": "I'll pay for you"
-  },
-  {
-    "_id": 66,
-    "ru": "Она заплатит за меня",
-    "en": "She'll pay for me"
-  },
-  {
-    "_id": 67,
-    "ru": "Я заплачу за это в следующий раз",
-    "en": "I'll pay for it next time"
-  },
-  {
-    "_id": 68,
-    "ru": "Я съем один бутерброд на завтрак",
-    "en": "I will eat one sandwich for breakfast"
-  },
-  {
-    "_id": 69,
-    "ru": "Она съест два яйца на завтрак",
-    "en": "She will eat two eggs for breakfast"
-  },
-  {
-    "_id": 70,
-    "ru": "Мы дадим ему подарок",
-    "en": "We will give him a present"
-  },
-  {
-    "_id": 71,
-    "ru": "Я дам ему этот подарок",
-    "en": "I will give him this present"
-  },
-  {
-    "_id": 72,
-    "ru": "Они дадут ему подарки",
-    "en": "They will give him some presents"
-  },
-  {
-    "_id": 73,
-    "ru": "Я съем это на завтрак",
-    "en": "I will eat it for breakfast"
-  },
-  {
-    "_id": 74,
-    "ru": "Я съем это на обед",
-    "en": "I will eat it for lunch"
-  },
-  {
-    "_id": 75,
-    "ru": "Она съест это на завтрак",
-    "en": "She will eat it for breakfast"
-  },
-  {
-    "_id": 76,
-    "ru": "Я постараюсь закончить это скоро",
-    "en": "I'll try to finish it soon"
-  },
-  {
-    "_id": 77,
-    "ru": "Она постарается закончить это скоро",
-    "en": "She'll try to finish it soon"
-  },
-  {
-    "_id": 78,
-    "ru": "Они постараются купить это скоро",
-    "en": "They'll try to buy it soon"
-  },
-  {
-    "_id": 79,
-    "ru": "Они последуют моему совету",
-    "en": "They will follow my advice"
-  },
-  {
-    "_id": 80,
-    "ru": "Она съест этот торт на обед",
-    "en": "She will eat this cake for lunch"
-  },
-  {
-    "_id": 81,
-    "ru": "Они съедят эти торты на обед",
-    "en": "They will eat these cakes for lunch"
-  },
-  {
-    "_id": 82,
-    "ru": "Я съем тот торт на завтрак",
-    "en": "I will eat that cake for breakfast"
-  },
-  {
-    "_id": 83,
-    "ru": "Я выпью немного чая",
-    "en": "I'll drink some tea"
-  },
-  {
-    "_id": 84,
-    "ru": "Я выберу второй ответ",
-    "en": "I'll choose the second answer"
-  },
-  {
-    "_id": 85,
-    "ru": "Я поеду в Лондон на этой неделе",
-    "en": "I will go to London this week"
-  },
-  {
-    "_id": 86,
-    "ru": "Он будет преподавать другие предметы",
-    "en": "He will teach other subjects"
-  },
-  {
-    "_id": 87,
-    "ru": "Я съем этот бутерброд",
-    "en": "I will eat this sandwich"
-  },
-  {
-    "_id": 88,
-    "ru": "Я пойду в театр с ней",
-    "en": "I will go to the theatre with her"
-  },
-  {
-    "_id": 89,
-    "ru": "Я дам ей подарок",
-    "en": "I will give her a present"
-  },
-  {
-    "_id": 90,
-    "ru": "Я выберу первый ответ",
-    "en": "I'll choose the first answer"
-  },
-  {
-    "_id": 91,
-    "ru": "Я съем эту еду на ужин",
-    "en": "I will eat this food for dinner"
-  },
-  {
-    "_id": 92,
-    "ru": "Я выберу третий ответ",
-    "en": "I will chose the third answer"
-  },
-  {
-    "_id": 93,
-    "ru": "Я сделаю это с большим удовольствием",
-    "en": "I'll do it with great pleasure"
-  },
-  {
-    "_id": 94,
-    "ru": "Мы пойдем в кино вместе",
-    "en": "We will go to the cinema together"
-  },
-  {
-    "_id": 95,
-    "ru": "Я расскажу ей все",
-    "en": "I will tell her everything"
+    "id": 1,
+    "ru": {
+      "text": "Он придет к нам скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "He will come to us soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Мы поговорим об этом скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "We will talk about it soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я помогу тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll help you",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Он пойдет туда с нами",
+      "audio": false
+    },
+    "en": {
+      "text": "He'll go there with us",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я поеду в Англию в следующем году",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll go to England next year",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я буду работать над этими ошибками",
+      "audio": false
+    },
+    "en": {
+      "text": "I will work on these mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Я перезвоню тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll call you back",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Он придет к нам скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "He will come to us soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я получу те деньги скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll get that money soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я помогу тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll help you",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Она будет преподавать английский",
+      "audio": false
+    },
+    "en": {
+      "text": "She will teach English",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Это произойдет скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "It will happen soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Мы посетим это место скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "We will visit this place soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я поеду в Англию в следующем году",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll go to England next year",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Он пойдет туда с нами",
+      "audio": false
+    },
+    "en": {
+      "text": "He'll go there with us",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я пошлю ей письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I will send her a letter",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я проверю все",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll check everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Они построят дом",
+      "audio": false
+    },
+    "en": {
+      "text": "They'll build a house",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Я буду работать над этими ошибками",
+      "audio": false
+    },
+    "en": {
+      "text": "I will work on these mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Мы поговорим об этом скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "We will talk about it soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Я перезвоню тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll call you back",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Мы скоро это увидим",
+      "audio": false
+    },
+    "en": {
+      "text": "We'll see it soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Это будет стоить больше скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "It'll cost more soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Я прочитаю эту книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "I will read this book",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Мы все обсудим",
+      "audio": false
+    },
+    "en": {
+      "text": "We'll discuss everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Это принесет ему больше денег",
+      "audio": false
+    },
+    "en": {
+      "text": "It will bring him more money",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я постараюсь сделать это сегодня",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try to do it today",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Ему понравится эта идея",
+      "audio": false
+    },
+    "en": {
+      "text": "He will like this idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Я посмотрю тот фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll watch that movie",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Ей понравится то предложение",
+      "audio": false
+    },
+    "en": {
+      "text": "She will like that offer",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Это будет лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "It will be better",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я скажу ему эту вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll tell him this thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Она посетит другие города в этом году",
+      "audio": false
+    },
+    "en": {
+      "text": "She'll visit other cities this year",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Это будет лучшее решение",
+      "audio": false
+    },
+    "en": {
+      "text": "It'll be the best decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Он будет работать над теми ошибками",
+      "audio": false
+    },
+    "en": {
+      "text": "He will work on those mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Он придет сюда завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "He will come here tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я сделаю это завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "I will do it tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Тебе понравится та еда",
+      "audio": false
+    },
+    "en": {
+      "text": "You will like that food",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я пришлю тебе электронное письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I will send you an email",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Ты скоро узнаешь это",
+      "audio": false
+    },
+    "en": {
+      "text": "You'll know it soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я также посещу эти страны",
+      "audio": false
+    },
+    "en": {
+      "text": "I will also visit these countries",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Она останется дома",
+      "audio": false
+    },
+    "en": {
+      "text": "She will stay at home",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Тебе понравится эта идея",
+      "audio": false
+    },
+    "en": {
+      "text": "You'll like this idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я куплю другой билет",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll buy another ticket",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Он заплатит за все",
+      "audio": false
+    },
+    "en": {
+      "text": "He'll pay for everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я буду ждать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I will wait for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я буду слушать эту программу",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll listen to this program",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я перезвоню тебе скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "I will call you back soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я постараюсь сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я думаю, я увижу его сегодня",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I'll see him today",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я заплачу за это",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll pay for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Я буду слушать этот подкаст",
+      "audio": false
+    },
+    "en": {
+      "text": "I will listen to this podcast",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я думаю, я пойму это скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I'll understand it soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я выпью немного кофе",
+      "audio": false
+    },
+    "en": {
+      "text": "I will drink some coffee",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я думаю, я последую этому совету",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I will follow this advice",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я буду слушать эту песню",
+      "audio": false
+    },
+    "en": {
+      "text": "I will listen to this song",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я перезвоню тебе позже",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll call you back later",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я перезвоню ему скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll call him back soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Он перезвонит мне завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "He'll call me back tomorrow",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я последую твоей рекомендации",
+      "audio": false
+    },
+    "en": {
+      "text": "I will follow your recommendation",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я последую твоему совету",
+      "audio": false
+    },
+    "en": {
+      "text": "I will follow your advice",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Она пойдет в этот музей",
+      "audio": false
+    },
+    "en": {
+      "text": "She will go to this museum",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Он пойдет в тот музей",
+      "audio": false
+    },
+    "en": {
+      "text": "He will go to that museum",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Они посетят этот музей",
+      "audio": false
+    },
+    "en": {
+      "text": "They will visit this museum",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я заплачу за тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll pay for you",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Она заплатит за меня",
+      "audio": false
+    },
+    "en": {
+      "text": "She'll pay for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я заплачу за это в следующий раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll pay for it next time",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я съем один бутерброд на завтрак",
+      "audio": false
+    },
+    "en": {
+      "text": "I will eat one sandwich for breakfast",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Она съест два яйца на завтрак",
+      "audio": false
+    },
+    "en": {
+      "text": "She will eat two eggs for breakfast",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Мы дадим ему подарок",
+      "audio": false
+    },
+    "en": {
+      "text": "We will give him a present",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я дам ему этот подарок",
+      "audio": false
+    },
+    "en": {
+      "text": "I will give him this present",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Они дадут ему подарки",
+      "audio": false
+    },
+    "en": {
+      "text": "They will give him some presents",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я съем это на завтрак",
+      "audio": false
+    },
+    "en": {
+      "text": "I will eat it for breakfast",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я съем это на обед",
+      "audio": false
+    },
+    "en": {
+      "text": "I will eat it for lunch",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Она съест это на завтрак",
+      "audio": false
+    },
+    "en": {
+      "text": "She will eat it for breakfast",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я постараюсь закончить это скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll try to finish it soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Она постарается закончить это скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "She'll try to finish it soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Они постараются купить это скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "They'll try to buy it soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Они последуют моему совету",
+      "audio": false
+    },
+    "en": {
+      "text": "They will follow my advice",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Она съест этот торт на обед",
+      "audio": false
+    },
+    "en": {
+      "text": "She will eat this cake for lunch",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Они съедят эти торты на обед",
+      "audio": false
+    },
+    "en": {
+      "text": "They will eat these cakes for lunch",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я съем тот торт на завтрак",
+      "audio": false
+    },
+    "en": {
+      "text": "I will eat that cake for breakfast",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я выпью немного чая",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll drink some tea",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я выберу второй ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll choose the second answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я поеду в Лондон на этой неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "I will go to London this week",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Он будет преподавать другие предметы",
+      "audio": false
+    },
+    "en": {
+      "text": "He will teach other subjects",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Я съем этот бутерброд",
+      "audio": false
+    },
+    "en": {
+      "text": "I will eat this sandwich",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Я пойду в театр с ней",
+      "audio": false
+    },
+    "en": {
+      "text": "I will go to the theatre with her",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Я дам ей подарок",
+      "audio": false
+    },
+    "en": {
+      "text": "I will give her a present",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Я выберу первый ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll choose the first answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Я съем эту еду на ужин",
+      "audio": false
+    },
+    "en": {
+      "text": "I will eat this food for dinner",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Я выберу третий ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I will chose the third answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Я сделаю это с большим удовольствием",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll do it with great pleasure",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Мы пойдем в кино вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "We will go to the cinema together",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Я расскажу ей все",
+      "audio": false
+    },
+    "en": {
+      "text": "I will tell her everything",
+      "audio": false
+    }
   }
 ]

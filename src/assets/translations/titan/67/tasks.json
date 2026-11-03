@@ -1,492 +1,1080 @@
 [
   {
-    "_id": 1,
-    "ru": "Твоя сестра школьница?",
-    "en": "Is your sister a schoolgirl?"
-  },
-  {
-    "_id": 2,
-    "ru": "Дети дома?",
-    "en": "Are the kids at home?"
-  },
-  {
-    "_id": 3,
-    "ru": "Эта вещь действительно важна для тебя?",
-    "en": "Is this thing really important for you?"
-  },
-  {
-    "_id": 4,
-    "ru": "Эти два мальчика в одной и той же группе?",
-    "en": "Are these two boys in the same group?"
-  },
-  {
-    "_id": 5,
-    "ru": "Билеты слишком дорогие?",
-    "en": "Are the tickets too expensive?"
-  },
-  {
-    "_id": 6,
-    "ru": "Этой информации более, чем достаточно?",
-    "en": "Is this information more than enough?"
-  },
-  {
-    "_id": 7,
-    "ru": "История - твой любимый предмет?",
-    "en": "Is history your favourite subject?"
-  },
-  {
-    "_id": 8,
-    "ru": "Твой брат школьник?",
-    "en": "Is your brother a schoolboy?"
-  },
-  {
-    "_id": 9,
-    "ru": "Твои родственники очень далеко?",
-    "en": "Are your relatives very far?"
-  },
-  {
-    "_id": 10,
-    "ru": "Фильм очень скучный?",
-    "en": "Is the movie very boring?"
-  },
-  {
-    "_id": 11,
-    "ru": "Цена очень низкая?",
-    "en": "Is the price very low?"
-  },
-  {
-    "_id": 12,
-    "ru": "Тот проект успешный?",
-    "en": "Is that project successful?"
-  },
-  {
-    "_id": 13,
-    "ru": "Эта помощь важна для тебя?",
-    "en": "Is this help important for you?"
-  },
-  {
-    "_id": 14,
-    "ru": "Курс действительно эффективный?",
-    "en": "Is the course really effective?"
-  },
-  {
-    "_id": 15,
-    "ru": "Проблема очень серьезная?",
-    "en": "Is the problem very serious?"
-  },
-  {
-    "_id": 16,
-    "ru": "Это хороший знак для нас?",
-    "en": "Is it a good sign for us?"
-  },
-  {
-    "_id": 17,
-    "ru": "Тот мужчина болен?",
-    "en": "Is that man ill?"
-  },
-  {
-    "_id": 18,
-    "ru": "Твоя сестра школьница?",
-    "en": "Is your sister a schoolgirl?"
-  },
-  {
-    "_id": 19,
-    "ru": "Этот ребенок очень талантливый?",
-    "en": "Is this kid very talented?"
-  },
-  {
-    "_id": 20,
-    "ru": "Этот путь довольно короткий?",
-    "en": "Is this way quite short?"
-  },
-  {
-    "_id": 21,
-    "ru": "Та песня очень красивая?",
-    "en": "Is that song very beautiful?"
-  },
-  {
-    "_id": 22,
-    "ru": "Это дорожный знак?",
-    "en": "Is it a road sign?"
-  },
-  {
-    "_id": 23,
-    "ru": "Это место очень далеко?",
-    "en": "Is this place very far?"
-  },
-  {
-    "_id": 24,
-    "ru": "Твой компьютер новый?",
-    "en": "Is your computer new?"
-  },
-  {
-    "_id": 25,
-    "ru": "История очень интересная?",
-    "en": "Is the story very interesting?"
-  },
-  {
-    "_id": 26,
-    "ru": "Книга интересная?",
-    "en": "Is the book interesting?"
-  },
-  {
-    "_id": 27,
-    "ru": "Твой босс против этого решения?",
-    "en": "Is your boss against this decision?"
-  },
-  {
-    "_id": 28,
-    "ru": "Этот уровень действительно высокий?",
-    "en": "Is this level really high?"
-  },
-  {
-    "_id": 29,
-    "ru": "Компьютер старый?",
-    "en": "Is the computer old?"
-  },
-  {
-    "_id": 30,
-    "ru": "Уроки бесплатные?",
-    "en": "Are the lessons free?"
-  },
-  {
-    "_id": 31,
-    "ru": "Твои родители счастливы?",
-    "en": "Are your parents happy?"
-  },
-  {
-    "_id": 32,
-    "ru": "Учитель прав?",
-    "en": "Is the teacher right?"
-  },
-  {
-    "_id": 33,
-    "ru": "Здание очень высокое?",
-    "en": "Is the building very high?"
-  },
-  {
-    "_id": 34,
-    "ru": "Эта вещь действительно не важная?",
-    "en": "Is this thing really unimportant?"
-  },
-  {
-    "_id": 35,
-    "ru": "Школа хорошая?",
-    "en": "Is the school good?"
-  },
-  {
-    "_id": 36,
-    "ru": "Отель слишком дорогой?",
-    "en": "Is the hotel too expensive?"
-  },
-  {
-    "_id": 37,
-    "ru": "Цена очень высокая?",
-    "en": "Is the price very high?"
-  },
-  {
-    "_id": 38,
-    "ru": "Урок бесплатный?",
-    "en": "Is the lesson free?"
-  },
-  {
-    "_id": 39,
-    "ru": "Эта машина надежная?",
-    "en": "Is this car reliable?"
-  },
-  {
-    "_id": 40,
-    "ru": "Мальчики в этой группе очень ленивые?",
-    "en": "Are the boys in this group very lazy?"
-  },
-  {
-    "_id": 41,
-    "ru": "Этот метод действительно эффективный?",
-    "en": "Is this method really effective?"
-  },
-  {
-    "_id": 42,
-    "ru": "Дверь открыта?",
-    "en": "Is the door open?"
-  },
-  {
-    "_id": 43,
-    "ru": "Эти изменения очень неожиданные для них?",
-    "en": "Are these changes very unexpected for them?"
-  },
-  {
-    "_id": 44,
-    "ru": "Дом просторный для твоей семьи?",
-    "en": "Is the house spacious for your family?"
-  },
-  {
-    "_id": 45,
-    "ru": "Образование бесплатное в твоей стране?",
-    "en": "Is education free in your country?"
-  },
-  {
-    "_id": 46,
-    "ru": "Этих денег действительно достаточно?",
-    "en": "Is this money really enough?"
-  },
-  {
-    "_id": 47,
-    "ru": "Эти оценки очень хороши для вас?",
-    "en": "Are these marks very good for you?"
-  },
-  {
-    "_id": 48,
-    "ru": "Те люди также заинтересованы в этом?",
-    "en": "Are those people also interested in it?"
-  },
-  {
-    "_id": 49,
-    "ru": "Эти новости очень удивительны для тебя?",
-    "en": "Is this news very surprising for you?"
-  },
-  {
-    "_id": 50,
-    "ru": "Та область переполнена туристами?",
-    "en": "Is that area overcrowded with tourists?"
-  },
-  {
-    "_id": 51,
-    "ru": "Этого опыта достаточно?",
-    "en": "Is this experience enough?"
-  },
-  {
-    "_id": 52,
-    "ru": "Второй урок тоже бесплатный?",
-    "en": "Is the second lesson also free?"
-  },
-  {
-    "_id": 53,
-    "ru": "Эта оценка достаточно высокая для тебя?",
-    "en": "Is this mark quite high for you?"
-  },
-  {
-    "_id": 54,
-    "ru": "Полицейский в этом районе?",
-    "en": "Is the policeman in this district?"
-  },
-  {
-    "_id": 55,
-    "ru": "Эти оценки очень высокие для него?",
-    "en": "Are these grades very high for him?"
-  },
-  {
-    "_id": 56,
-    "ru": "Эта машина достаточно надежная?",
-    "en": "Is this car reliable enough?"
-  },
-  {
-    "_id": 57,
-    "ru": "Его голос очень мелодичный?",
-    "en": "Is his voice very melodic?"
-  },
-  {
-    "_id": 58,
-    "ru": "Его родители в отъезде сейчас?",
-    "en": "Are his parents away now?"
-  },
-  {
-    "_id": 59,
-    "ru": "Твои родители дома сейчас?",
-    "en": "Are your parents at home now?"
-  },
-  {
-    "_id": 60,
-    "ru": "Твои родители в отъезде?",
-    "en": "Are your parents away?"
-  },
-  {
-    "_id": 61,
-    "ru": "Этот город переполнен туристами?",
-    "en": "Is this city overcrowded with tourists?"
-  },
-  {
-    "_id": 62,
-    "ru": "Эта область переполнена туристами?",
-    "en": "Is this area overcrowded with tourists?"
-  },
-  {
-    "_id": 63,
-    "ru": "Это здание переполнено людьми?",
-    "en": "Is this building overcrowded with people?"
-  },
-  {
-    "_id": 64,
-    "ru": "Это место часто переполнено?",
-    "en": "Is this place often overcrowded?"
-  },
-  {
-    "_id": 65,
-    "ru": "Это место обычно переполнено?",
-    "en": "Is this place usually overcrowded?"
-  },
-  {
-    "_id": 66,
-    "ru": "То место часто переполнено?",
-    "en": "Is that place often overcrowded?"
-  },
-  {
-    "_id": 67,
-    "ru": "Полицейский в том районе?",
-    "en": "Is the policeman in that district?"
-  },
-  {
-    "_id": 68,
-    "ru": "Полицейские в том районе?",
-    "en": "Are the policemen in that district?"
-  },
-  {
-    "_id": 69,
-    "ru": "Это членство бесплатное?",
-    "en": "Is this membership free?"
-  },
-  {
-    "_id": 70,
-    "ru": "Членство очень дорогое?",
-    "en": "Is the membership very expensive?"
-  },
-  {
-    "_id": 71,
-    "ru": "То членство дорогое?",
-    "en": "Is that membership expensive?"
-  },
-  {
-    "_id": 72,
-    "ru": "Эти парни очень покладистые?",
-    "en": "Are these guys very easy-going?"
-  },
-  {
-    "_id": 73,
-    "ru": "Этот парень очень покладистый?",
-    "en": "Is this guy very easy-going?"
-  },
-  {
-    "_id": 74,
-    "ru": "Эти мужчины очень покладистые?",
-    "en": "Are these men very easy-going?"
-  },
-  {
-    "_id": 75,
-    "ru": "Первый урок бесплатный?",
-    "en": "Is the first lesson free?"
-  },
-  {
-    "_id": 76,
-    "ru": "Этот урок бесплатный?",
-    "en": "Is this lesson free?"
-  },
-  {
-    "_id": 77,
-    "ru": "Второй урок интересный?",
-    "en": "Is the second lesson interesting?"
-  },
-  {
-    "_id": 78,
-    "ru": "Стоимость жизни выше сейчас?",
-    "en": "Is the cost of life higher now?"
-  },
-  {
-    "_id": 79,
-    "ru": "Стоимость жизни выше в наши дни?",
-    "en": "Is the cost of life higher nowadays?"
-  },
-  {
-    "_id": 80,
-    "ru": "Стоимость жизни ниже сейчас?",
-    "en": "Is the cost of life lower now?"
-  },
-  {
-    "_id": 81,
-    "ru": "Полиция рядом?",
-    "en": "Are the police near?"
-  },
-  {
-    "_id": 82,
-    "ru": "Полиция там?",
-    "en": "Are the police there?"
-  },
-  {
-    "_id": 83,
-    "ru": "Еда испорчена?",
-    "en": "Is the food spoilt?"
-  },
-  {
-    "_id": 84,
-    "ru": "Твоя еда испорчена?",
-    "en": "Is your food spoilt?"
-  },
-  {
-    "_id": 85,
-    "ru": "Та еда испорчена?",
-    "en": "Is that food spoilt?"
-  },
-  {
-    "_id": 86,
-    "ru": "Те новости такие неожиданные для тебя?",
-    "en": "Is that news so unexpected for you?"
-  },
-  {
-    "_id": 87,
-    "ru": "Дети внутри?",
-    "en": "Are the kids inside?"
-  },
-  {
-    "_id": 88,
-    "ru": "Твой отец отсутствует?",
-    "en": "Is your father out?"
-  },
-  {
-    "_id": 89,
-    "ru": "Дом достаточно просторный?",
-    "en": "Is the house spacious enough?"
-  },
-  {
-    "_id": 90,
-    "ru": "Полиция в том месте?",
-    "en": "Are the police in that place?"
-  },
-  {
-    "_id": 91,
-    "ru": "Стоимость жизни в наши дни намного выше?",
-    "en": "Is the cost of life much higher nowadays?"
-  },
-  {
-    "_id": 92,
-    "ru": "Цена слишком высокая?",
-    "en": "Is the price too high?"
-  },
-  {
-    "_id": 93,
-    "ru": "Дети снаружи?",
-    "en": "Are the children outside?"
-  },
-  {
-    "_id": 94,
-    "ru": "Этих навыков достаточно для той работы?",
-    "en": "Are these skills enough for that job?"
-  },
-  {
-    "_id": 95,
-    "ru": "Эта оценка очень низкая?",
-    "en": "Is this grade very low?"
-  },
-  {
-    "_id": 96,
-    "ru": "Это членство абсолютно бесплатно?",
-    "en": "Is this membership absolutely free?"
-  },
-  {
-    "_id": 97,
-    "ru": "Этот человек также заинтересован в этом?",
-    "en": "Is this person also interested in it?"
-  },
-  {
-    "_id": 98,
-    "ru": "Квартира достаточно просторная для тебя?",
-    "en": "Is the apartment spacious enough for you?"
+    "id": 1,
+    "ru": {
+      "text": "Твоя сестра школьница?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is your sister a schoolgirl?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Дети дома?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are the kids at home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Эта вещь действительно важна для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this thing really important for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Эти два мальчика в одной и той же группе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are these two boys in the same group?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Билеты слишком дорогие?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are the tickets too expensive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Этой информации более, чем достаточно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this information more than enough?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "История - твой любимый предмет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is history your favourite subject?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Твой брат школьник?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is your brother a schoolboy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Твои родственники очень далеко?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are your relatives very far?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Фильм очень скучный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the movie very boring?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Цена очень низкая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the price very low?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Тот проект успешный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is that project successful?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Эта помощь важна для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this help important for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Курс действительно эффективный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the course really effective?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Проблема очень серьезная?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the problem very serious?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Это хороший знак для нас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a good sign for us?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Тот мужчина болен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is that man ill?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Твоя сестра школьница?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is your sister a schoolgirl?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Этот ребенок очень талантливый?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this kid very talented?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Этот путь довольно короткий?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this way quite short?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Та песня очень красивая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is that song very beautiful?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это дорожный знак?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is it a road sign?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Это место очень далеко?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this place very far?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Твой компьютер новый?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is your computer new?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "История очень интересная?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the story very interesting?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Книга интересная?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the book interesting?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Твой босс против этого решения?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is your boss against this decision?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Этот уровень действительно высокий?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this level really high?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Компьютер старый?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the computer old?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Уроки бесплатные?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are the lessons free?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Твои родители счастливы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are your parents happy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Учитель прав?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the teacher right?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Здание очень высокое?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the building very high?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Эта вещь действительно не важная?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this thing really unimportant?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Школа хорошая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the school good?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Отель слишком дорогой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the hotel too expensive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Цена очень высокая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the price very high?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Урок бесплатный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the lesson free?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Эта машина надежная?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this car reliable?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Мальчики в этой группе очень ленивые?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are the boys in this group very lazy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Этот метод действительно эффективный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this method really effective?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Дверь открыта?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the door open?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Эти изменения очень неожиданные для них?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are these changes very unexpected for them?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Дом просторный для твоей семьи?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the house spacious for your family?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Образование бесплатное в твоей стране?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is education free in your country?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Этих денег действительно достаточно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this money really enough?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Эти оценки очень хороши для вас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are these marks very good for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Те люди также заинтересованы в этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are those people also interested in it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Эти новости очень удивительны для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this news very surprising for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Та область переполнена туристами?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is that area overcrowded with tourists?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Этого опыта достаточно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this experience enough?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Второй урок тоже бесплатный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the second lesson also free?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Эта оценка достаточно высокая для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this mark quite high for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Полицейский в этом районе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the policeman in this district?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Эти оценки очень высокие для него?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are these grades very high for him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Эта машина достаточно надежная?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this car reliable enough?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Его голос очень мелодичный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is his voice very melodic?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Его родители в отъезде сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are his parents away now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Твои родители дома сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are your parents at home now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Твои родители в отъезде?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are your parents away?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Этот город переполнен туристами?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this city overcrowded with tourists?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Эта область переполнена туристами?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this area overcrowded with tourists?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Это здание переполнено людьми?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this building overcrowded with people?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Это место часто переполнено?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this place often overcrowded?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Это место обычно переполнено?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this place usually overcrowded?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "То место часто переполнено?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is that place often overcrowded?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Полицейский в том районе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the policeman in that district?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Полицейские в том районе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are the policemen in that district?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Это членство бесплатное?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this membership free?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Членство очень дорогое?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the membership very expensive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "То членство дорогое?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is that membership expensive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Эти парни очень покладистые?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are these guys very easy-going?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Этот парень очень покладистый?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this guy very easy-going?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Эти мужчины очень покладистые?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are these men very easy-going?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Первый урок бесплатный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the first lesson free?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Этот урок бесплатный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this lesson free?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Второй урок интересный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the second lesson interesting?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Стоимость жизни выше сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the cost of life higher now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Стоимость жизни выше в наши дни?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the cost of life higher nowadays?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Стоимость жизни ниже сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the cost of life lower now?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Полиция рядом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are the police near?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Полиция там?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are the police there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Еда испорчена?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the food spoilt?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Твоя еда испорчена?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is your food spoilt?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Та еда испорчена?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is that food spoilt?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Те новости такие неожиданные для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is that news so unexpected for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Дети внутри?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are the kids inside?",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Твой отец отсутствует?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is your father out?",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Дом достаточно просторный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the house spacious enough?",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Полиция в том месте?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are the police in that place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Стоимость жизни в наши дни намного выше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the cost of life much higher nowadays?",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Цена слишком высокая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the price too high?",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Дети снаружи?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are the children outside?",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Этих навыков достаточно для той работы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are these skills enough for that job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Эта оценка очень низкая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this grade very low?",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Это членство абсолютно бесплатно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this membership absolutely free?",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Этот человек также заинтересован в этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this person also interested in it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Квартира достаточно просторная для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is the apartment spacious enough for you?",
+      "audio": false
+    }
   }
 ]

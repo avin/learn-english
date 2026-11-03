@@ -1,432 +1,948 @@
 [
   {
-    "_id": 1,
-    "ru": "Ей нужно помыть посуду",
-    "en": "She needs to do the dishes"
-  },
-  {
-    "_id": 2,
-    "ru": "Он сделал большую ошибку",
-    "en": "He made a big mistake"
-  },
-  {
-    "_id": 3,
-    "ru": "Мне нужно совершить этот платеж сейчас",
-    "en": "I need to make this payment now"
-  },
-  {
-    "_id": 4,
-    "ru": "Ей нужно помыть посуду",
-    "en": "She needs to do the dishes"
-  },
-  {
-    "_id": 5,
-    "ru": "Она делает много работы на выходных",
-    "en": "She does lots of work at the weekends"
-  },
-  {
-    "_id": 6,
-    "ru": "Секретарь делает так много бумажной работы",
-    "en": "The secretary does so much paperwork"
-  },
-  {
-    "_id": 7,
-    "ru": "Он сделал такую большую ошибку",
-    "en": "He made such a big mistake"
-  },
-  {
-    "_id": 8,
-    "ru": "Они делают такую вкусную еду в этом кафе",
-    "en": "They make such delicious food in this café"
-  },
-  {
-    "_id": 9,
-    "ru": "Это также сделано в Китае",
-    "en": "It is also made in China"
-  },
-  {
-    "_id": 10,
-    "ru": "Они делают вкусную еду в этом ресторане",
-    "en": "They make tasty food in this restaurant"
-  },
-  {
-    "_id": 11,
-    "ru": "Что было сделано вчера?",
-    "en": "What was done yesterday?"
-  },
-  {
-    "_id": 12,
-    "ru": "Ты совершил этот платеж?",
-    "en": "Did you make this payment?"
-  },
-  {
-    "_id": 13,
-    "ru": "Покупатель подал жалобу",
-    "en": "The customer made a complaint"
-  },
-  {
-    "_id": 14,
-    "ru": "Эта фабрика делает мебель",
-    "en": "This factory makes furniture"
-  },
-  {
-    "_id": 15,
-    "ru": "Она делает торт",
-    "en": "She is making a cake"
-  },
-  {
-    "_id": 16,
-    "ru": "Это действительно злит его",
-    "en": "It makes him really angry"
-  },
-  {
-    "_id": 17,
-    "ru": "Это произвело на меня хорошее впечатление",
-    "en": "It made a good impression on me"
-  },
-  {
-    "_id": 18,
-    "ru": "Мне нужно сделать телефонный звонок",
-    "en": "I need to make a phone call"
-  },
-  {
-    "_id": 19,
-    "ru": "Эта вещь сделана в Китае?",
-    "en": "Is this thing made in China?"
-  },
-  {
-    "_id": 20,
-    "ru": "Они сделали мне очень интересное предложение",
-    "en": "They made me a very interesting offer"
-  },
-  {
-    "_id": 21,
-    "ru": "Кто подал жалобу?",
-    "en": "Who made a complaint?"
-  },
-  {
-    "_id": 22,
-    "ru": "Учитель сделал несколько интересных наблюдений",
-    "en": "The teacher made several interesting observations"
-  },
-  {
-    "_id": 23,
-    "ru": "Она составляет список этих предложений",
-    "en": "She is making a list of these sentences"
-  },
-  {
-    "_id": 24,
-    "ru": "Ты делаешь хороший прогресс",
-    "en": "You make good progress"
-  },
-  {
-    "_id": 25,
-    "ru": "Машина не производит никакого шума",
-    "en": "The machine doesn't make any noise"
-  },
-  {
-    "_id": 26,
-    "ru": "Директор сделал очень интересное предложение",
-    "en": "The director made a very interesting suggestion"
-  },
-  {
-    "_id": 27,
-    "ru": "Они заключили специальное соглашение",
-    "en": "They made a special agreement"
-  },
-  {
-    "_id": 28,
-    "ru": "Что будет сделано завтра?",
-    "en": "What will be done tomorrow?"
-  },
-  {
-    "_id": 29,
-    "ru": "Эти ученые сделали большое открытие",
-    "en": "These scientists made a great discovery"
-  },
-  {
-    "_id": 30,
-    "ru": "Ему нужно было сделать телефонный звонок",
-    "en": "He needed to make a phone call"
-  },
-  {
-    "_id": 31,
-    "ru": "Докладчик сделал очень интересное замечание",
-    "en": "The reporter made a very interesting remark"
-  },
-  {
-    "_id": 32,
-    "ru": "Я сделал еще одну попытку",
-    "en": "I made one more attempt"
-  },
-  {
-    "_id": 33,
-    "ru": "Ей действительно нравится заниматься садоводством",
-    "en": "She really likes doing gardening"
-  },
-  {
-    "_id": 34,
-    "ru": "Аналитики сделали очень необычный прогноз",
-    "en": "The analysts made a very unusual prediction"
-  },
-  {
-    "_id": 35,
-    "ru": "Я просто хочу сделать предложение",
-    "en": "I just want to make a suggestion"
-  },
-  {
-    "_id": 36,
-    "ru": "Мы назначили встречу на семь часов",
-    "en": "We made an appointment for seven o'clock"
-  },
-  {
-    "_id": 37,
-    "ru": "Эта машина производит много шума",
-    "en": "This machine makes a lot of noise"
-  },
-  {
-    "_id": 38,
-    "ru": "Он записался на прием к дантисту",
-    "en": "He made an appointment with the dentist"
-  },
-  {
-    "_id": 39,
-    "ru": "Он действительно ненавидит заниматься своей бумажной работой",
-    "en": "He really hates doing his paperwork"
-  },
-  {
-    "_id": 40,
-    "ru": "Мой друг хорошо справляется со своей новой работой",
-    "en": "My friend is doing well in his new job"
-  },
-  {
-    "_id": 41,
-    "ru": "Я просто хочу внести ясность",
-    "en": "I just want to make it clear"
-  },
-  {
-    "_id": 42,
-    "ru": "Я решил продолжать работать здесь",
-    "en": "I made up my mind to continue working here"
-  },
-  {
-    "_id": 43,
-    "ru": "Он произвел на нас очень благоприятное впечатление",
-    "en": "He made a very favourable impression on us"
-  },
-  {
-    "_id": 44,
-    "ru": "Ураган нанес большой ущерб этим зданиям",
-    "en": "The hurricane did great damage to these buildings"
-  },
-  {
-    "_id": 45,
-    "ru": "Они позволили ему сделать еще одну попытку",
-    "en": "They let him make one more attempt"
-  },
-  {
-    "_id": 46,
-    "ru": "Ты знаешь, я сделал очень интересное наблюдение",
-    "en": "You know, I made a very interesting observation"
-  },
-  {
-    "_id": 47,
-    "ru": "Буря нанесла зданию большой ущерб",
-    "en": "The storm did lots of damage to the building"
-  },
-  {
-    "_id": 48,
-    "ru": "Это делается очень медленно",
-    "en": "It is done very slowly"
-  },
-  {
-    "_id": 49,
-    "ru": "Это делается очень быстро",
-    "en": "It is done very quickly"
-  },
-  {
-    "_id": 50,
-    "ru": "Это делается очень часто",
-    "en": "It is done very often"
-  },
-  {
-    "_id": 51,
-    "ru": "Прекрати суетиться!",
-    "en": "Stop making a fuss!"
-  },
-  {
-    "_id": 52,
-    "ru": "Пожалуйста, прекрати суетиться!",
-    "en": "Please, stop making a fuss!"
-  },
-  {
-    "_id": 53,
-    "ru": "Не суетись!",
-    "en": "Don't make a fuss!"
-  },
-  {
-    "_id": 54,
-    "ru": "Это уже было сделано?",
-    "en": "Has it already been done?"
-  },
-  {
-    "_id": 55,
-    "ru": "Это уже было сделано",
-    "en": "It has already been done"
-  },
-  {
-    "_id": 56,
-    "ru": "Это еще не было сделано",
-    "en": "It hasn't been done yet"
-  },
-  {
-    "_id": 57,
-    "ru": "Мне пришлось совершить несколько платежей",
-    "en": "I had to make several payments"
-  },
-  {
-    "_id": 58,
-    "ru": "Я совершил два платежа",
-    "en": "I made two payments"
-  },
-  {
-    "_id": 59,
-    "ru": "Она уже помыла посуду?",
-    "en": "Has she already done the dishes?"
-  },
-  {
-    "_id": 60,
-    "ru": "Она уже помыла посуду",
-    "en": "She has already done the dishes"
-  },
-  {
-    "_id": 61,
-    "ru": "Она еще не помыла посуду",
-    "en": "She hasn't done the dishes yet"
-  },
-  {
-    "_id": 62,
-    "ru": "Это произвело на меня очень благоприятное впечатление",
-    "en": "It made a very favourable impression on me"
-  },
-  {
-    "_id": 63,
-    "ru": "Она произвела на него очень хорошее впечатление",
-    "en": "She made a very good impression on him"
-  },
-  {
-    "_id": 64,
-    "ru": "Это произвело на тебя хорошее впечатление?",
-    "en": "Did it make a good impression on you?"
-  },
-  {
-    "_id": 65,
-    "ru": "Я наслаждаюсь разгадыванием кроссвордов",
-    "en": "I enjoy doing crosswords"
-  },
-  {
-    "_id": 66,
-    "ru": "Тебе нравится разгадывать кроссворды?",
-    "en": "Do you like doing crosswords?"
-  },
-  {
-    "_id": 67,
-    "ru": "Они сделали очень важное открытие",
-    "en": "They made a very important discovery"
-  },
-  {
-    "_id": 68,
-    "ru": "Они сделали действительно полезное открытие",
-    "en": "They made a really useful discovery"
-  },
-  {
-    "_id": 69,
-    "ru": "Они сделали важное открытие?",
-    "en": "Did they make an important discovery?"
-  },
-  {
-    "_id": 70,
-    "ru": "Ей нужно сделать некоторые домашние дела",
-    "en": "She needs to do some chores"
-  },
-  {
-    "_id": 71,
-    "ru": "Мне приходится идти туда и делать некоторые домашние дела",
-    "en": "I have to go there and do some chores"
-  },
-  {
-    "_id": 72,
-    "ru": "Им была сделана такая большая ошибка",
-    "en": "Such a big mistake was made by him"
-  },
-  {
-    "_id": 73,
-    "ru": "Он сделал большую ошибку?",
-    "en": "Did he make a big mistake?"
-  },
-  {
-    "_id": 74,
-    "ru": "Я не могу решить, что делать",
-    "en": "I can't make up my mind what to do"
-  },
-  {
-    "_id": 75,
-    "ru": "Я внес некоторые изменения в эту программу",
-    "en": "I made some changes to this program"
-  },
-  {
-    "_id": 76,
-    "ru": "Я просто хочу убедиться, что все правильно",
-    "en": "I just want to make sure that everything is correct"
-  },
-  {
-    "_id": 77,
-    "ru": "Он сидел на стуле и разгадывал кроссворд",
-    "en": "He was sitting on a chair doing a crossword"
-  },
-  {
-    "_id": 78,
-    "ru": "Недостаточно сделано, чтобы изменить эту ситуацию",
-    "en": "Not enough is done to change this situation"
-  },
-  {
-    "_id": 79,
-    "ru": "Мне было сделано очень интересное предложение",
-    "en": "A very interesting offer was made to me"
-  },
-  {
-    "_id": 80,
-    "ru": "Я просто хотел убедиться, что это действительно там",
-    "en": "I just wanted to make sure that it was really there"
-  },
-  {
-    "_id": 81,
-    "ru": "Он внес несколько изменений в расписание",
-    "en": "He made several changes to the schedule"
-  },
-  {
-    "_id": 82,
-    "ru": "Учитель сделал несколько комментариев",
-    "en": "The teacher made a few comments"
-  },
-  {
-    "_id": 83,
-    "ru": "Я хочу убедиться, что это действительно так",
-    "en": "I want to make sure that it is really so"
-  },
-  {
-    "_id": 84,
-    "ru": "Они не хотели суетиться",
-    "en": "They didn't want to make a fuss"
-  },
-  {
-    "_id": 85,
-    "ru": "Почему эта вещь еще не сделана?",
-    "en": "Why hasn't this thing been done yet?"
-  },
-  {
-    "_id": 86,
-    "ru": "Я принял решение остаться дома",
-    "en": "I made up my mind to stay at home"
+    "id": 1,
+    "ru": {
+      "text": "Ей нужно помыть посуду",
+      "audio": false
+    },
+    "en": {
+      "text": "She needs to do the dishes",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Он сделал большую ошибку",
+      "audio": false
+    },
+    "en": {
+      "text": "He made a big mistake",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Мне нужно совершить этот платеж сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to make this payment now",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Ей нужно помыть посуду",
+      "audio": false
+    },
+    "en": {
+      "text": "She needs to do the dishes",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Она делает много работы на выходных",
+      "audio": false
+    },
+    "en": {
+      "text": "She does lots of work at the weekends",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Секретарь делает так много бумажной работы",
+      "audio": false
+    },
+    "en": {
+      "text": "The secretary does so much paperwork",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Он сделал такую большую ошибку",
+      "audio": false
+    },
+    "en": {
+      "text": "He made such a big mistake",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Они делают такую вкусную еду в этом кафе",
+      "audio": false
+    },
+    "en": {
+      "text": "They make such delicious food in this café",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Это также сделано в Китае",
+      "audio": false
+    },
+    "en": {
+      "text": "It is also made in China",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Они делают вкусную еду в этом ресторане",
+      "audio": false
+    },
+    "en": {
+      "text": "They make tasty food in this restaurant",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Что было сделано вчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was done yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Ты совершил этот платеж?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you make this payment?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Покупатель подал жалобу",
+      "audio": false
+    },
+    "en": {
+      "text": "The customer made a complaint",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Эта фабрика делает мебель",
+      "audio": false
+    },
+    "en": {
+      "text": "This factory makes furniture",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Она делает торт",
+      "audio": false
+    },
+    "en": {
+      "text": "She is making a cake",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Это действительно злит его",
+      "audio": false
+    },
+    "en": {
+      "text": "It makes him really angry",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Это произвело на меня хорошее впечатление",
+      "audio": false
+    },
+    "en": {
+      "text": "It made a good impression on me",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Мне нужно сделать телефонный звонок",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to make a phone call",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Эта вещь сделана в Китае?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is this thing made in China?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Они сделали мне очень интересное предложение",
+      "audio": false
+    },
+    "en": {
+      "text": "They made me a very interesting offer",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Кто подал жалобу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who made a complaint?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Учитель сделал несколько интересных наблюдений",
+      "audio": false
+    },
+    "en": {
+      "text": "The teacher made several interesting observations",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Она составляет список этих предложений",
+      "audio": false
+    },
+    "en": {
+      "text": "She is making a list of these sentences",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Ты делаешь хороший прогресс",
+      "audio": false
+    },
+    "en": {
+      "text": "You make good progress",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Машина не производит никакого шума",
+      "audio": false
+    },
+    "en": {
+      "text": "The machine doesn't make any noise",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Директор сделал очень интересное предложение",
+      "audio": false
+    },
+    "en": {
+      "text": "The director made a very interesting suggestion",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Они заключили специальное соглашение",
+      "audio": false
+    },
+    "en": {
+      "text": "They made a special agreement",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Что будет сделано завтра?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will be done tomorrow?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Эти ученые сделали большое открытие",
+      "audio": false
+    },
+    "en": {
+      "text": "These scientists made a great discovery",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Ему нужно было сделать телефонный звонок",
+      "audio": false
+    },
+    "en": {
+      "text": "He needed to make a phone call",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Докладчик сделал очень интересное замечание",
+      "audio": false
+    },
+    "en": {
+      "text": "The reporter made a very interesting remark",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Я сделал еще одну попытку",
+      "audio": false
+    },
+    "en": {
+      "text": "I made one more attempt",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Ей действительно нравится заниматься садоводством",
+      "audio": false
+    },
+    "en": {
+      "text": "She really likes doing gardening",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Аналитики сделали очень необычный прогноз",
+      "audio": false
+    },
+    "en": {
+      "text": "The analysts made a very unusual prediction",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я просто хочу сделать предложение",
+      "audio": false
+    },
+    "en": {
+      "text": "I just want to make a suggestion",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Мы назначили встречу на семь часов",
+      "audio": false
+    },
+    "en": {
+      "text": "We made an appointment for seven o'clock",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Эта машина производит много шума",
+      "audio": false
+    },
+    "en": {
+      "text": "This machine makes a lot of noise",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Он записался на прием к дантисту",
+      "audio": false
+    },
+    "en": {
+      "text": "He made an appointment with the dentist",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Он действительно ненавидит заниматься своей бумажной работой",
+      "audio": false
+    },
+    "en": {
+      "text": "He really hates doing his paperwork",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Мой друг хорошо справляется со своей новой работой",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend is doing well in his new job",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я просто хочу внести ясность",
+      "audio": false
+    },
+    "en": {
+      "text": "I just want to make it clear",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я решил продолжать работать здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "I made up my mind to continue working here",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Он произвел на нас очень благоприятное впечатление",
+      "audio": false
+    },
+    "en": {
+      "text": "He made a very favourable impression on us",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Ураган нанес большой ущерб этим зданиям",
+      "audio": false
+    },
+    "en": {
+      "text": "The hurricane did great damage to these buildings",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Они позволили ему сделать еще одну попытку",
+      "audio": false
+    },
+    "en": {
+      "text": "They let him make one more attempt",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Ты знаешь, я сделал очень интересное наблюдение",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, I made a very interesting observation",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Буря нанесла зданию большой ущерб",
+      "audio": false
+    },
+    "en": {
+      "text": "The storm did lots of damage to the building",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Это делается очень медленно",
+      "audio": false
+    },
+    "en": {
+      "text": "It is done very slowly",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Это делается очень быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "It is done very quickly",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Это делается очень часто",
+      "audio": false
+    },
+    "en": {
+      "text": "It is done very often",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Прекрати суетиться!",
+      "audio": false
+    },
+    "en": {
+      "text": "Stop making a fuss!",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Пожалуйста, прекрати суетиться!",
+      "audio": false
+    },
+    "en": {
+      "text": "Please, stop making a fuss!",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Не суетись!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't make a fuss!",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Это уже было сделано?",
+      "audio": false
+    },
+    "en": {
+      "text": "Has it already been done?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Это уже было сделано",
+      "audio": false
+    },
+    "en": {
+      "text": "It has already been done",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Это еще не было сделано",
+      "audio": false
+    },
+    "en": {
+      "text": "It hasn't been done yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Мне пришлось совершить несколько платежей",
+      "audio": false
+    },
+    "en": {
+      "text": "I had to make several payments",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я совершил два платежа",
+      "audio": false
+    },
+    "en": {
+      "text": "I made two payments",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Она уже помыла посуду?",
+      "audio": false
+    },
+    "en": {
+      "text": "Has she already done the dishes?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Она уже помыла посуду",
+      "audio": false
+    },
+    "en": {
+      "text": "She has already done the dishes",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Она еще не помыла посуду",
+      "audio": false
+    },
+    "en": {
+      "text": "She hasn't done the dishes yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Это произвело на меня очень благоприятное впечатление",
+      "audio": false
+    },
+    "en": {
+      "text": "It made a very favourable impression on me",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Она произвела на него очень хорошее впечатление",
+      "audio": false
+    },
+    "en": {
+      "text": "She made a very good impression on him",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Это произвело на тебя хорошее впечатление?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did it make a good impression on you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я наслаждаюсь разгадыванием кроссвордов",
+      "audio": false
+    },
+    "en": {
+      "text": "I enjoy doing crosswords",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Тебе нравится разгадывать кроссворды?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like doing crosswords?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Они сделали очень важное открытие",
+      "audio": false
+    },
+    "en": {
+      "text": "They made a very important discovery",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Они сделали действительно полезное открытие",
+      "audio": false
+    },
+    "en": {
+      "text": "They made a really useful discovery",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Они сделали важное открытие?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did they make an important discovery?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Ей нужно сделать некоторые домашние дела",
+      "audio": false
+    },
+    "en": {
+      "text": "She needs to do some chores",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Мне приходится идти туда и делать некоторые домашние дела",
+      "audio": false
+    },
+    "en": {
+      "text": "I have to go there and do some chores",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Им была сделана такая большая ошибка",
+      "audio": false
+    },
+    "en": {
+      "text": "Such a big mistake was made by him",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Он сделал большую ошибку?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did he make a big mistake?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я не могу решить, что делать",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't make up my mind what to do",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я внес некоторые изменения в эту программу",
+      "audio": false
+    },
+    "en": {
+      "text": "I made some changes to this program",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я просто хочу убедиться, что все правильно",
+      "audio": false
+    },
+    "en": {
+      "text": "I just want to make sure that everything is correct",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Он сидел на стуле и разгадывал кроссворд",
+      "audio": false
+    },
+    "en": {
+      "text": "He was sitting on a chair doing a crossword",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Недостаточно сделано, чтобы изменить эту ситуацию",
+      "audio": false
+    },
+    "en": {
+      "text": "Not enough is done to change this situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Мне было сделано очень интересное предложение",
+      "audio": false
+    },
+    "en": {
+      "text": "A very interesting offer was made to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я просто хотел убедиться, что это действительно там",
+      "audio": false
+    },
+    "en": {
+      "text": "I just wanted to make sure that it was really there",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Он внес несколько изменений в расписание",
+      "audio": false
+    },
+    "en": {
+      "text": "He made several changes to the schedule",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Учитель сделал несколько комментариев",
+      "audio": false
+    },
+    "en": {
+      "text": "The teacher made a few comments",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я хочу убедиться, что это действительно так",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to make sure that it is really so",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Они не хотели суетиться",
+      "audio": false
+    },
+    "en": {
+      "text": "They didn't want to make a fuss",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Почему эта вещь еще не сделана?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why hasn't this thing been done yet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Я принял решение остаться дома",
+      "audio": false
+    },
+    "en": {
+      "text": "I made up my mind to stay at home",
+      "audio": false
+    }
   }
 ]

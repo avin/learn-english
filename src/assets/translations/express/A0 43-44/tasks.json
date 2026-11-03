@@ -1,222 +1,486 @@
 [
   {
-    "_id": 1,
-    "ru": "Что ты увидел там?",
-    "en": "What did you see there?"
+    "id": 1,
+    "ru": {
+      "text": "Что ты увидел там?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you see there?",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Какие ошибки он сделал?",
-    "en": "What mistakes did he make?"
+    "id": 2,
+    "ru": {
+      "text": "Какие ошибки он сделал?",
+      "audio": false
+    },
+    "en": {
+      "text": "What mistakes did he make?",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Когда ты видел его в последний раз?",
-    "en": "When did you see him last time?"
+    "id": 3,
+    "ru": {
+      "text": "Когда ты видел его в последний раз?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you see him last time?",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Что ты делал вчера?",
-    "en": "What did you do yesterday?"
+    "id": 4,
+    "ru": {
+      "text": "Что ты делал вчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you do yesterday?",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Где ты нашел эту информацию?",
-    "en": "Where did you find this information?"
+    "id": 5,
+    "ru": {
+      "text": "Где ты нашел эту информацию?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did you find this information?",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Когда она пришла на встречу?",
-    "en": "When did she come to the meeting?"
+    "id": 6,
+    "ru": {
+      "text": "Когда она пришла на встречу?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did she come to the meeting?",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Как ты сделал это?",
-    "en": "How did you do it?"
+    "id": 7,
+    "ru": {
+      "text": "Как ты сделал это?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you do it?",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Какую еду ты купил?",
-    "en": "What food did you buy?"
+    "id": 8,
+    "ru": {
+      "text": "Какую еду ты купил?",
+      "audio": false
+    },
+    "en": {
+      "text": "What food did you buy?",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Какие ошибки ты сделал?",
-    "en": "What mistakes did you make?"
+    "id": 9,
+    "ru": {
+      "text": "Какие ошибки ты сделал?",
+      "audio": false
+    },
+    "en": {
+      "text": "What mistakes did you make?",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Что ты ел на обед?",
-    "en": "What did you eat for lunch?"
+    "id": 10,
+    "ru": {
+      "text": "Что ты ел на обед?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you eat for lunch?",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Когда он пришел на ту вечеринку?",
-    "en": "When did he come to that party?"
+    "id": 11,
+    "ru": {
+      "text": "Когда он пришел на ту вечеринку?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did he come to that party?",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Которую модель ты заказал?",
-    "en": "Which model did you order?"
+    "id": 12,
+    "ru": {
+      "text": "Которую модель ты заказал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Which model did you order?",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Где ты жил?",
-    "en": "Where did you live?"
+    "id": 13,
+    "ru": {
+      "text": "Где ты жил?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did you live?",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Когда они пришли?",
-    "en": "When did they come?"
+    "id": 14,
+    "ru": {
+      "text": "Когда они пришли?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did they come?",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Как это помогло тебе?",
-    "en": "How did it help you?"
+    "id": 15,
+    "ru": {
+      "text": "Как это помогло тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did it help you?",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Сколько ты заплатил за это?",
-    "en": "How much did you pay for it?"
+    "id": 16,
+    "ru": {
+      "text": "Сколько ты заплатил за это?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much did you pay for it?",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Что ты ел на завтрак?",
-    "en": "What did you eat for breakfast?"
+    "id": 17,
+    "ru": {
+      "text": "Что ты ел на завтрак?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you eat for breakfast?",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Куда ты ездил прошлой зимой?",
-    "en": "Where did you go last winter?"
+    "id": 18,
+    "ru": {
+      "text": "Куда ты ездил прошлой зимой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did you go last winter?",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Где ты купил это?",
-    "en": "Where did you buy it?"
+    "id": 19,
+    "ru": {
+      "text": "Где ты купил это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did you buy it?",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Когда ты пришел на вечеринку?",
-    "en": "When did you come to the party?"
+    "id": 20,
+    "ru": {
+      "text": "Когда ты пришел на вечеринку?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you come to the party?",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Как ты решил эту проблему?",
-    "en": "How did you solve this problem?"
+    "id": 21,
+    "ru": {
+      "text": "Как ты решил эту проблему?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you solve this problem?",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Что ты делал позавчера?",
-    "en": "What did you do the day before yesterday?"
+    "id": 22,
+    "ru": {
+      "text": "Что ты делал позавчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you do the day before yesterday?",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Когда ты это понял?",
-    "en": "When did you understand it?"
+    "id": 23,
+    "ru": {
+      "text": "Когда ты это понял?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you understand it?",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Какие результаты у тебя были?",
-    "en": "What results did you have?"
+    "id": 24,
+    "ru": {
+      "text": "Какие результаты у тебя были?",
+      "audio": false
+    },
+    "en": {
+      "text": "What results did you have?",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Что он сказал тебе?",
-    "en": "What did he tell you?"
+    "id": 25,
+    "ru": {
+      "text": "Что он сказал тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did he tell you?",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Что ты ел на ужин?",
-    "en": "What did you eat for dinner?"
+    "id": 26,
+    "ru": {
+      "text": "Что ты ел на ужин?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you eat for dinner?",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Зачем ты сделал это?",
-    "en": "Why did you do it?"
+    "id": 27,
+    "ru": {
+      "text": "Зачем ты сделал это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you do it?",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Где вы встречались в прошлый раз?",
-    "en": "Where did you meet last time?"
+    "id": 28,
+    "ru": {
+      "text": "Где вы встречались в прошлый раз?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did you meet last time?",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Как ты говорил по-английски?",
-    "en": "How did you speak English?"
+    "id": 29,
+    "ru": {
+      "text": "Как ты говорил по-английски?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you speak English?",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Какие результаты у него были?",
-    "en": "What results did he have?"
+    "id": 30,
+    "ru": {
+      "text": "Какие результаты у него были?",
+      "audio": false
+    },
+    "en": {
+      "text": "What results did he have?",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Как ты отмечал этот праздник?",
-    "en": "How did you celebrate this holiday?"
+    "id": 31,
+    "ru": {
+      "text": "Как ты отмечал этот праздник?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you celebrate this holiday?",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Когда вы прибыли в аэропорт?",
-    "en": "When did you arrive at the airport?"
+    "id": 32,
+    "ru": {
+      "text": "Когда вы прибыли в аэропорт?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you arrive at the airport?",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Как ты узнал об этом?",
-    "en": "How did you know about it?"
+    "id": 33,
+    "ru": {
+      "text": "Как ты узнал об этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you know about it?",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Когда ты пришел домой?",
-    "en": "When did you come home?"
+    "id": 34,
+    "ru": {
+      "text": "Когда ты пришел домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you come home?",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Какие билеты ты купил?",
-    "en": "What tickets did you buy?"
+    "id": 35,
+    "ru": {
+      "text": "Какие билеты ты купил?",
+      "audio": false
+    },
+    "en": {
+      "text": "What tickets did you buy?",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Когда он пришел на эту встречу?",
-    "en": "When did he come to this meeting?"
+    "id": 36,
+    "ru": {
+      "text": "Когда он пришел на эту встречу?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did he come to this meeting?",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Во сколько ты пришел домой?",
-    "en": "What time did you come home?"
+    "id": 37,
+    "ru": {
+      "text": "Во сколько ты пришел домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time did you come home?",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Что она сказала?",
-    "en": "What did she say?"
+    "id": 38,
+    "ru": {
+      "text": "Что она сказала?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did she say?",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Сколько это стоило?",
-    "en": "How much did it cost?"
+    "id": 39,
+    "ru": {
+      "text": "Сколько это стоило?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much did it cost?",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Куда ты ездил прошлым летом?",
-    "en": "Where did you go last summer?"
+    "id": 40,
+    "ru": {
+      "text": "Куда ты ездил прошлым летом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did you go last summer?",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Как вы встретились?",
-    "en": "How did you meet?"
+    "id": 41,
+    "ru": {
+      "text": "Как вы встретились?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you meet?",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Какие места вы посетили?",
-    "en": "What places did you visit?"
+    "id": 42,
+    "ru": {
+      "text": "Какие места вы посетили?",
+      "audio": false
+    },
+    "en": {
+      "text": "What places did you visit?",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Как часто ты ходил туда?",
-    "en": "How often did you go there?"
+    "id": 43,
+    "ru": {
+      "text": "Как часто ты ходил туда?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often did you go there?",
+      "audio": false
+    }
   },
   {
-    "_id": 44,
-    "ru": "Которое платье ты выбрал?",
-    "en": "Which dress did you choose?"
+    "id": 44,
+    "ru": {
+      "text": "Которое платье ты выбрал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Which dress did you choose?",
+      "audio": false
+    }
   }
 ]

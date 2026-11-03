@@ -1,457 +1,1003 @@
 [
   {
-    "_id": 1,
-    "ru": "Эти новости меня совсем не удивили",
-    "en": "This news didn't surprise me at all"
-  },
-  {
-    "_id": 2,
-    "ru": "Мой друг поделился этой ссылкой со мной",
-    "en": "My friend shared this link with me"
-  },
-  {
-    "_id": 3,
-    "ru": "Она часто смотрела в зеркало",
-    "en": "She often looked in the mirror"
-  },
-  {
-    "_id": 4,
-    "ru": "Кто-то атаковал эту бедную женщину",
-    "en": "Someone attacked this poor woman"
-  },
-  {
-    "_id": 5,
-    "ru": "Они жили очень тихо и мирно",
-    "en": "They lived very quietly and peacefully"
-  },
-  {
-    "_id": 6,
-    "ru": "Я внезапно заметил ее",
-    "en": "I noticed her suddenly"
-  },
-  {
-    "_id": 7,
-    "ru": "Враг внезапно напал на них",
-    "en": "The enemy attacked them suddenly"
-  },
-  {
-    "_id": 8,
-    "ru": "Компания доставила все вовремя",
-    "en": "The company delivered everything on time"
-  },
-  {
-    "_id": 9,
-    "ru": "Он ничего не обещал",
-    "en": "He didn't promise anything"
-  },
-  {
-    "_id": 10,
-    "ru": "Это действительно удивило каждого",
-    "en": "It really surprised everyone"
-  },
-  {
-    "_id": 11,
-    "ru": "Моя жизнь полностью изменилась",
-    "en": "My life changed completely"
-  },
-  {
-    "_id": 12,
-    "ru": "Я включил несколько примеров в свое сочинение",
-    "en": "I included some examples in my composition"
-  },
-  {
-    "_id": 13,
-    "ru": "Я заметил что-то действительно странное",
-    "en": "I noticed something really strange"
-  },
-  {
-    "_id": 14,
-    "ru": "Я выразил свои мысли в нашем разговоре",
-    "en": "I expressed my thoughts in our conversation"
-  },
-  {
-    "_id": 15,
-    "ru": "Она поделилась со мной этим секретом",
-    "en": "She shared this secret with me"
-  },
-  {
-    "_id": 16,
-    "ru": "Он поцеловал ее в щеку",
-    "en": "He kissed her cheek"
-  },
-  {
-    "_id": 17,
-    "ru": "Цена включала все",
-    "en": "The price included everything"
-  },
-  {
-    "_id": 18,
-    "ru": "Я успешно сдал тот экзамен",
-    "en": "I passed that exam successfully"
-  },
-  {
-    "_id": 19,
-    "ru": "Он внезапно прикоснулся ко мне",
-    "en": "He touched me suddenly"
-  },
-  {
-    "_id": 20,
-    "ru": "Они протестировали мой английский в начале",
-    "en": "They tested my English in the beginning"
-  },
-  {
-    "_id": 21,
-    "ru": "Она посмотрела на него и улыбнулась",
-    "en": "She looked at him and smiled"
-  },
-  {
-    "_id": 22,
-    "ru": "Они доставили посылку",
-    "en": "They delivered the parcel"
-  },
-  {
-    "_id": 23,
-    "ru": "Тур включал посещение того музея",
-    "en": "The tour included a visit to that museum"
-  },
-  {
-    "_id": 24,
-    "ru": "Мне действительно нравилось плавать в море",
-    "en": "I really liked swimming in the sea"
-  },
-  {
-    "_id": 25,
-    "ru": "Молодая пара жила очень счастливо и мирно",
-    "en": "A young couple lived very happily and peacefully"
-  },
-  {
-    "_id": 26,
-    "ru": "Я не трогал те документы",
-    "en": "I didn't touch those documents"
-  },
-  {
-    "_id": 27,
-    "ru": "Я посмотрел на зеркало",
-    "en": "I looked in the mirror"
-  },
-  {
-    "_id": 28,
-    "ru": "Он дотронулся до нее",
-    "en": "He touched her"
-  },
-  {
-    "_id": 29,
-    "ru": "Он помыл свою машину",
-    "en": "He washed his car"
-  },
-  {
-    "_id": 30,
-    "ru": "Я задал ему вопрос",
-    "en": "I asked him a question"
-  },
-  {
-    "_id": 31,
-    "ru": "Я выразил свое собственное мнение",
-    "en": "I expressed my personal opinion"
-  },
-  {
-    "_id": 32,
-    "ru": "Когда ты заметил это?",
-    "en": "When did you notice it?"
-  },
-  {
-    "_id": 33,
-    "ru": "Я заполнил форму",
-    "en": "I filled in the form"
-  },
-  {
-    "_id": 34,
-    "ru": "Он не задал мне никаких вопросов",
-    "en": "He didn't ask me any questions"
-  },
-  {
-    "_id": 35,
-    "ru": "Они доставили коробку",
-    "en": "They delivered the box"
-  },
-  {
-    "_id": 36,
-    "ru": "Мне не нравилось это в начале",
-    "en": "I didn't like it in the beginning"
-  },
-  {
-    "_id": 37,
-    "ru": "Он поцеловал ее в губы",
-    "en": "He kissed her lips"
-  },
-  {
-    "_id": 38,
-    "ru": "Я немедленно это заметил",
-    "en": "I noticed it immediately"
-  },
-  {
-    "_id": 39,
-    "ru": "Он жил и работал на ферме",
-    "en": "He lived and worked on a farm"
-  },
-  {
-    "_id": 40,
-    "ru": "Это полностью изменило мою жизнь",
-    "en": "It changed my life completely"
-  },
-  {
-    "_id": 41,
-    "ru": "Я просто хотел выразить свою личную точку зрения",
-    "en": "I just wanted to express my personal point of view"
-  },
-  {
-    "_id": 42,
-    "ru": "Он задал мне несколько вопросов во время интервью",
-    "en": "He asked me a few questions during the interview"
-  },
-  {
-    "_id": 43,
-    "ru": "К счастью, я успешно сдал этот экзамен",
-    "en": "Fortunately, I passed this exam successfully"
-  },
-  {
-    "_id": 44,
-    "ru": "Я хотел перестать думать об этом",
-    "en": "I wanted to stop thinking about it"
-  },
-  {
-    "_id": 45,
-    "ru": "Я посмотрел это в словаре",
-    "en": "I looked it up in a dictionary"
-  },
-  {
-    "_id": 46,
-    "ru": "Я скачал это приложение бесплатно",
-    "en": "I downloaded this application for free"
-  },
-  {
-    "_id": 47,
-    "ru": "Мне пришлось заполнить форму",
-    "en": "I had to fill in the form"
-  },
-  {
-    "_id": 48,
-    "ru": "Мой друг рекомендовал остановиться в этом отеле",
-    "en": "My friend recommended staying at this hotel"
-  },
-  {
-    "_id": 49,
-    "ru": "Он помылся",
-    "en": "He washed himself"
-  },
-  {
-    "_id": 50,
-    "ru": "Я должен был заполнить пробелы в этом документе",
-    "en": "I had to fill in the gaps in this document"
-  },
-  {
-    "_id": 51,
-    "ru": "Я решил продолжить изучать английский здесь",
-    "en": "I decided to continue learning English here"
-  },
-  {
-    "_id": 52,
-    "ru": "Мы перестали говорить об этом",
-    "en": "We stopped talking about it"
-  },
-  {
-    "_id": 53,
-    "ru": "Мы перестали делать это",
-    "en": "We stopped doing it"
-  },
-  {
-    "_id": 54,
-    "ru": "Они перестали говорить об этом",
-    "en": "They stopped talking about it"
-  },
-  {
-    "_id": 55,
-    "ru": "Я рекомендовал использовать тот сервис",
-    "en": "I recommended using that service"
-  },
-  {
-    "_id": 56,
-    "ru": "Она рекомендовала нам использовать этот сервис",
-    "en": "She recommended that we use this service"
-  },
-  {
-    "_id": 57,
-    "ru": "Я решил использовать тот сервис",
-    "en": "I decided to use that service"
-  },
-  {
-    "_id": 58,
-    "ru": "Я задал ей несколько вопросов",
-    "en": "I asked her a few questions"
-  },
-  {
-    "_id": 59,
-    "ru": "Я задал ему несколько вопросов",
-    "en": "I asked him some questions"
-  },
-  {
-    "_id": 60,
-    "ru": "Я задал ей вопрос",
-    "en": "I asked her a question"
-  },
-  {
-    "_id": 61,
-    "ru": "Я решил остаться там",
-    "en": "I decided to stay there"
-  },
-  {
-    "_id": 62,
-    "ru": "Я хотел остаться там",
-    "en": "I wanted to stay there"
-  },
-  {
-    "_id": 63,
-    "ru": "Она предпочла остаться здесь",
-    "en": "She preferred to stay here"
-  },
-  {
-    "_id": 64,
-    "ru": "Я рекомендовал прочитать ту книгу",
-    "en": "I recommended reading that book"
-  },
-  {
-    "_id": 65,
-    "ru": "Я рекомендовал ту книгу ей",
-    "en": "I recommended that book to her"
-  },
-  {
-    "_id": 66,
-    "ru": "Я рекомендовал посмотреть этот фильм",
-    "en": "I recommended watching this movie"
-  },
-  {
-    "_id": 67,
-    "ru": "Я посмотрел это слово в словаре",
-    "en": "I looked up this word in a dictionary"
-  },
-  {
-    "_id": 68,
-    "ru": "Я нашел это слово в словаре",
-    "en": "I found this word in a dictionary"
-  },
-  {
-    "_id": 69,
-    "ru": "Он посмотрел эти слова в словаре",
-    "en": "He looked up these words in a dictionary"
-  },
-  {
-    "_id": 70,
-    "ru": "Я решил выглянуть в окно",
-    "en": "I decided to look out of the window"
-  },
-  {
-    "_id": 71,
-    "ru": "Я выглянул в окно",
-    "en": "I looked out of the window"
-  },
-  {
-    "_id": 72,
-    "ru": "Он решил не выглядывать из окна",
-    "en": "He decided not to look out of the window"
-  },
-  {
-    "_id": 73,
-    "ru": "Я наконец вспомнил это слово",
-    "en": "I remembered this word at last"
-  },
-  {
-    "_id": 74,
-    "ru": "Я наконец вспомнил это правило",
-    "en": "I remembered this rule at last"
-  },
-  {
-    "_id": 75,
-    "ru": "Она попросила меня сделать это снова",
-    "en": "She asked me to do it again"
-  },
-  {
-    "_id": 76,
-    "ru": "Я попросил его не делать это снова",
-    "en": "I asked him not to do it again"
-  },
-  {
-    "_id": 77,
-    "ru": "Он попросил меня делать это снова и снова",
-    "en": "He asked me to do it again and again"
-  },
-  {
-    "_id": 78,
-    "ru": "Я сделал заказ в этом онлайн магазине",
-    "en": "I made an order in this online store"
-  },
-  {
-    "_id": 79,
-    "ru": "Я должен был заполнить пробелы в том упражнении",
-    "en": "I had to fill in the gaps in that exercise"
-  },
-  {
-    "_id": 80,
-    "ru": "Я решил продолжить учиться там",
-    "en": "I decided to continue studying there"
-  },
-  {
-    "_id": 81,
-    "ru": "Учитель указал на ошибку студента",
-    "en": "The teacher pointed out the student's mistake"
-  },
-  {
-    "_id": 82,
-    "ru": "Я был готов сделать заказ",
-    "en": "I was ready to make an order"
-  },
-  {
-    "_id": 83,
-    "ru": "Дом принадлежал ему",
-    "en": "The house belonged to him"
-  },
-  {
-    "_id": 84,
-    "ru": "Она указала на карту",
-    "en": "She pointed at the map"
-  },
-  {
-    "_id": 85,
-    "ru": "Я говорил с ним не так давно",
-    "en": "I talked to him not long ago"
-  },
-  {
-    "_id": 86,
-    "ru": "Он рекомендовал посмотреть этот фильм",
-    "en": "He recommended watching this movie"
-  },
-  {
-    "_id": 87,
-    "ru": "Она помылась",
-    "en": "She washed herself"
-  },
-  {
-    "_id": 88,
-    "ru": "Она попросила меня остаться с ней",
-    "en": "She asked me to stay with her"
-  },
-  {
-    "_id": 89,
-    "ru": "Мы продолжали разговаривать",
-    "en": "We continued talking"
-  },
-  {
-    "_id": 90,
-    "ru": "Он обещал сделать это",
-    "en": "He promised to do it"
-  },
-  {
-    "_id": 91,
-    "ru": "Я был готов заказать это",
-    "en": "I was ready to order it"
+    "id": 1,
+    "ru": {
+      "text": "Эти новости меня совсем не удивили",
+      "audio": false
+    },
+    "en": {
+      "text": "This news didn't surprise me at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Мой друг поделился этой ссылкой со мной",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend shared this link with me",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Она часто смотрела в зеркало",
+      "audio": false
+    },
+    "en": {
+      "text": "She often looked in the mirror",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Кто-то атаковал эту бедную женщину",
+      "audio": false
+    },
+    "en": {
+      "text": "Someone attacked this poor woman",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Они жили очень тихо и мирно",
+      "audio": false
+    },
+    "en": {
+      "text": "They lived very quietly and peacefully",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я внезапно заметил ее",
+      "audio": false
+    },
+    "en": {
+      "text": "I noticed her suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Враг внезапно напал на них",
+      "audio": false
+    },
+    "en": {
+      "text": "The enemy attacked them suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Компания доставила все вовремя",
+      "audio": false
+    },
+    "en": {
+      "text": "The company delivered everything on time",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Он ничего не обещал",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't promise anything",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Это действительно удивило каждого",
+      "audio": false
+    },
+    "en": {
+      "text": "It really surprised everyone",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Моя жизнь полностью изменилась",
+      "audio": false
+    },
+    "en": {
+      "text": "My life changed completely",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я включил несколько примеров в свое сочинение",
+      "audio": false
+    },
+    "en": {
+      "text": "I included some examples in my composition",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Я заметил что-то действительно странное",
+      "audio": false
+    },
+    "en": {
+      "text": "I noticed something really strange",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я выразил свои мысли в нашем разговоре",
+      "audio": false
+    },
+    "en": {
+      "text": "I expressed my thoughts in our conversation",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Она поделилась со мной этим секретом",
+      "audio": false
+    },
+    "en": {
+      "text": "She shared this secret with me",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Он поцеловал ее в щеку",
+      "audio": false
+    },
+    "en": {
+      "text": "He kissed her cheek",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Цена включала все",
+      "audio": false
+    },
+    "en": {
+      "text": "The price included everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я успешно сдал тот экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "I passed that exam successfully",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он внезапно прикоснулся ко мне",
+      "audio": false
+    },
+    "en": {
+      "text": "He touched me suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Они протестировали мой английский в начале",
+      "audio": false
+    },
+    "en": {
+      "text": "They tested my English in the beginning",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Она посмотрела на него и улыбнулась",
+      "audio": false
+    },
+    "en": {
+      "text": "She looked at him and smiled",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Они доставили посылку",
+      "audio": false
+    },
+    "en": {
+      "text": "They delivered the parcel",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Тур включал посещение того музея",
+      "audio": false
+    },
+    "en": {
+      "text": "The tour included a visit to that museum",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Мне действительно нравилось плавать в море",
+      "audio": false
+    },
+    "en": {
+      "text": "I really liked swimming in the sea",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Молодая пара жила очень счастливо и мирно",
+      "audio": false
+    },
+    "en": {
+      "text": "A young couple lived very happily and peacefully",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я не трогал те документы",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't touch those documents",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я посмотрел на зеркало",
+      "audio": false
+    },
+    "en": {
+      "text": "I looked in the mirror",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Он дотронулся до нее",
+      "audio": false
+    },
+    "en": {
+      "text": "He touched her",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Он помыл свою машину",
+      "audio": false
+    },
+    "en": {
+      "text": "He washed his car",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я задал ему вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I asked him a question",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Я выразил свое собственное мнение",
+      "audio": false
+    },
+    "en": {
+      "text": "I expressed my personal opinion",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Когда ты заметил это?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you notice it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я заполнил форму",
+      "audio": false
+    },
+    "en": {
+      "text": "I filled in the form",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он не задал мне никаких вопросов",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't ask me any questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Они доставили коробку",
+      "audio": false
+    },
+    "en": {
+      "text": "They delivered the box",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Мне не нравилось это в начале",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't like it in the beginning",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Он поцеловал ее в губы",
+      "audio": false
+    },
+    "en": {
+      "text": "He kissed her lips",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Я немедленно это заметил",
+      "audio": false
+    },
+    "en": {
+      "text": "I noticed it immediately",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Он жил и работал на ферме",
+      "audio": false
+    },
+    "en": {
+      "text": "He lived and worked on a farm",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Это полностью изменило мою жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "It changed my life completely",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я просто хотел выразить свою личную точку зрения",
+      "audio": false
+    },
+    "en": {
+      "text": "I just wanted to express my personal point of view",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Он задал мне несколько вопросов во время интервью",
+      "audio": false
+    },
+    "en": {
+      "text": "He asked me a few questions during the interview",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "К счастью, я успешно сдал этот экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "Fortunately, I passed this exam successfully",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я хотел перестать думать об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to stop thinking about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я посмотрел это в словаре",
+      "audio": false
+    },
+    "en": {
+      "text": "I looked it up in a dictionary",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я скачал это приложение бесплатно",
+      "audio": false
+    },
+    "en": {
+      "text": "I downloaded this application for free",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Мне пришлось заполнить форму",
+      "audio": false
+    },
+    "en": {
+      "text": "I had to fill in the form",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Мой друг рекомендовал остановиться в этом отеле",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend recommended staying at this hotel",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Он помылся",
+      "audio": false
+    },
+    "en": {
+      "text": "He washed himself",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я должен был заполнить пробелы в этом документе",
+      "audio": false
+    },
+    "en": {
+      "text": "I had to fill in the gaps in this document",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я решил продолжить изучать английский здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to continue learning English here",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Мы перестали говорить об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "We stopped talking about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Мы перестали делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "We stopped doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Они перестали говорить об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "They stopped talking about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я рекомендовал использовать тот сервис",
+      "audio": false
+    },
+    "en": {
+      "text": "I recommended using that service",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Она рекомендовала нам использовать этот сервис",
+      "audio": false
+    },
+    "en": {
+      "text": "She recommended that we use this service",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я решил использовать тот сервис",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to use that service",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я задал ей несколько вопросов",
+      "audio": false
+    },
+    "en": {
+      "text": "I asked her a few questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я задал ему несколько вопросов",
+      "audio": false
+    },
+    "en": {
+      "text": "I asked him some questions",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я задал ей вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I asked her a question",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я решил остаться там",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to stay there",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я хотел остаться там",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to stay there",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Она предпочла остаться здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "She preferred to stay here",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я рекомендовал прочитать ту книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "I recommended reading that book",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я рекомендовал ту книгу ей",
+      "audio": false
+    },
+    "en": {
+      "text": "I recommended that book to her",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Я рекомендовал посмотреть этот фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "I recommended watching this movie",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я посмотрел это слово в словаре",
+      "audio": false
+    },
+    "en": {
+      "text": "I looked up this word in a dictionary",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я нашел это слово в словаре",
+      "audio": false
+    },
+    "en": {
+      "text": "I found this word in a dictionary",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Он посмотрел эти слова в словаре",
+      "audio": false
+    },
+    "en": {
+      "text": "He looked up these words in a dictionary",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я решил выглянуть в окно",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to look out of the window",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я выглянул в окно",
+      "audio": false
+    },
+    "en": {
+      "text": "I looked out of the window",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Он решил не выглядывать из окна",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided not to look out of the window",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я наконец вспомнил это слово",
+      "audio": false
+    },
+    "en": {
+      "text": "I remembered this word at last",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я наконец вспомнил это правило",
+      "audio": false
+    },
+    "en": {
+      "text": "I remembered this rule at last",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Она попросила меня сделать это снова",
+      "audio": false
+    },
+    "en": {
+      "text": "She asked me to do it again",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я попросил его не делать это снова",
+      "audio": false
+    },
+    "en": {
+      "text": "I asked him not to do it again",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Он попросил меня делать это снова и снова",
+      "audio": false
+    },
+    "en": {
+      "text": "He asked me to do it again and again",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я сделал заказ в этом онлайн магазине",
+      "audio": false
+    },
+    "en": {
+      "text": "I made an order in this online store",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Я должен был заполнить пробелы в том упражнении",
+      "audio": false
+    },
+    "en": {
+      "text": "I had to fill in the gaps in that exercise",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я решил продолжить учиться там",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to continue studying there",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Учитель указал на ошибку студента",
+      "audio": false
+    },
+    "en": {
+      "text": "The teacher pointed out the student's mistake",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я был готов сделать заказ",
+      "audio": false
+    },
+    "en": {
+      "text": "I was ready to make an order",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Дом принадлежал ему",
+      "audio": false
+    },
+    "en": {
+      "text": "The house belonged to him",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Она указала на карту",
+      "audio": false
+    },
+    "en": {
+      "text": "She pointed at the map",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я говорил с ним не так давно",
+      "audio": false
+    },
+    "en": {
+      "text": "I talked to him not long ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Он рекомендовал посмотреть этот фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "He recommended watching this movie",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Она помылась",
+      "audio": false
+    },
+    "en": {
+      "text": "She washed herself",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Она попросила меня остаться с ней",
+      "audio": false
+    },
+    "en": {
+      "text": "She asked me to stay with her",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Мы продолжали разговаривать",
+      "audio": false
+    },
+    "en": {
+      "text": "We continued talking",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Он обещал сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "He promised to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Я был готов заказать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I was ready to order it",
+      "audio": false
+    }
   }
 ]

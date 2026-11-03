@@ -1,502 +1,1102 @@
 [
   {
-    "_id": 1,
-    "ru": "Это незаконно",
-    "en": "It is illegal"
-  },
-  {
-    "_id": 2,
-    "ru": "Он такой милый человек",
-    "en": "He is such a nice person"
-  },
-  {
-    "_id": 3,
-    "ru": "Это специальная цена",
-    "en": "It's a special price"
-  },
-  {
-    "_id": 4,
-    "ru": "Они беспокоятся о своей национальной безопасности",
-    "en": "They are worried about their national security"
-  },
-  {
-    "_id": 5,
-    "ru": "Она живет в доме поменьше",
-    "en": "She lives in a smaller house"
-  },
-  {
-    "_id": 6,
-    "ru": "Он действительно сердится на него",
-    "en": "He is really angry with him"
-  },
-  {
-    "_id": 7,
-    "ru": "Они такие профессиональные учителя",
-    "en": "They are such professional teachers"
-  },
-  {
-    "_id": 8,
-    "ru": "Она обычная женщина",
-    "en": "She is an ordinary woman"
-  },
-  {
-    "_id": 9,
-    "ru": "Он живет в обычных условиях",
-    "en": "He lives in ordinary conditions"
-  },
-  {
-    "_id": 10,
-    "ru": "Это неофициальный ответ",
-    "en": "It's an informal answer"
-  },
-  {
-    "_id": 11,
-    "ru": "Здесь гораздо громче",
-    "en": "It is much louder here"
-  },
-  {
-    "_id": 12,
-    "ru": "Музыка такая громкая",
-    "en": "The music is so loud"
-  },
-  {
-    "_id": 13,
-    "ru": "Она всегда полна энергии",
-    "en": "She is always full of energy"
-  },
-  {
-    "_id": 14,
-    "ru": "Это правильный глагол",
-    "en": "It's a regular verb"
-  },
-  {
-    "_id": 15,
-    "ru": "Они очень милые люди",
-    "en": "They are very nice people"
-  },
-  {
-    "_id": 16,
-    "ru": "Она действительно злится на это",
-    "en": "She is really angry about it"
-  },
-  {
-    "_id": 17,
-    "ru": "Это была такая сложная проблема",
-    "en": "It was such a difficult problem"
-  },
-  {
-    "_id": 18,
-    "ru": "Шутка была совсем не смешная",
-    "en": "The joke wasn't funny at all"
-  },
-  {
-    "_id": 19,
-    "ru": "Река очень глубокая",
-    "en": "The river is very deep"
-  },
-  {
-    "_id": 20,
-    "ru": "Он очень терпеливый человек",
-    "en": "He is a very patient person"
-  },
-  {
-    "_id": 21,
-    "ru": "Его машина более новая",
-    "en": "His car is newer"
-  },
-  {
-    "_id": 22,
-    "ru": "Она в безопасном месте сейчас",
-    "en": "She is in a safe place now"
-  },
-  {
-    "_id": 23,
-    "ru": "Это более популярная песня",
-    "en": "It's a more popular song"
-  },
-  {
-    "_id": 24,
-    "ru": "Это было специальное предложение",
-    "en": "It was a special offer"
-  },
-  {
-    "_id": 25,
-    "ru": "Она такая мудрая женщина",
-    "en": "She is such a wise woman"
-  },
-  {
-    "_id": 26,
-    "ru": "У него широкие плечи",
-    "en": "He has broad shoulders"
-  },
-  {
-    "_id": 27,
-    "ru": "Ее английский безупречен",
-    "en": "Her English is perfect"
-  },
-  {
-    "_id": 28,
-    "ru": "Он был в очень сложной ситуации",
-    "en": "He was in a very difficult situation"
-  },
-  {
-    "_id": 29,
-    "ru": "Это такая смешная шутка",
-    "en": "It is such a funny joke"
-  },
-  {
-    "_id": 30,
-    "ru": "Это было такое мудрое решение",
-    "en": "It was such a wise decision"
-  },
-  {
-    "_id": 31,
-    "ru": "Он был нашим специальным гостем",
-    "en": "He was our special guest"
-  },
-  {
-    "_id": 32,
-    "ru": "Это очень популярная тенденция в наши дни",
-    "en": "It's a very popular trend – nowadays"
-  },
-  {
-    "_id": 33,
-    "ru": "У мальчика широкие плечи",
-    "en": "The boy has broad shoulders"
-  },
-  {
-    "_id": 34,
-    "ru": "То место было полно людей",
-    "en": "That place was full of people"
-  },
-  {
-    "_id": 35,
-    "ru": "Она чувствует себя такой несчастной",
-    "en": "She feels so unhappy"
-  },
-  {
-    "_id": 36,
-    "ru": "Это идеальный пример",
-    "en": "It's a perfect example"
-  },
-  {
-    "_id": 37,
-    "ru": "Он национальный герой",
-    "en": "He is a national hero"
-  },
-  {
-    "_id": 38,
-    "ru": "Тест был таким сложным",
-    "en": "The test was so difficult"
-  },
-  {
-    "_id": 39,
-    "ru": "Это такой сложный тест",
-    "en": "It is such a difficult test"
-  },
-  {
-    "_id": 40,
-    "ru": "Она сейчас может чувствовать себя в безопасности",
-    "en": "She can feel safe now"
-  },
-  {
-    "_id": 41,
-    "ru": "Эта песня не так популярна, как та",
-    "en": "This song isn't as popular as that one"
-  },
-  {
-    "_id": 42,
-    "ru": "Он один из самых богатых людей в мире",
-    "en": "He is one of the richest people in the world"
-  },
-  {
-    "_id": 43,
-    "ru": "Нам также нужно учитывать политические факторы",
-    "en": "We also need to consider political factors"
-  },
-  {
-    "_id": 44,
-    "ru": "Я абсолютно уверен, что делаю правильную вещь",
-    "en": "I'm absolutely sure that I'm doing the right thing"
-  },
-  {
-    "_id": 45,
-    "ru": "Это неформальный способ сказать это по-английски",
-    "en": "It's an informal way of saying it in English"
-  },
-  {
-    "_id": 46,
-    "ru": "Я знаю, что мне нужно быть более терпеливым",
-    "en": "I know that I need to be more patient"
-  },
-  {
-    "_id": 47,
-    "ru": "Он может говорить на трех иностранных языках",
-    "en": "He can speak three foreign languages"
-  },
-  {
-    "_id": 48,
-    "ru": "Я абсолютно уверен, что Бог действительно существует",
-    "en": "I am absolutely sure that God really exists"
-  },
-  {
-    "_id": 49,
-    "ru": "Какая была общая сумма?",
-    "en": "What was the total sum?"
-  },
-  {
-    "_id": 50,
-    "ru": "Он мой любимый видеоблогер",
-    "en": "He is my favourite video blogger"
-  },
-  {
-    "_id": 51,
-    "ru": "То, что они сделали, было незаконно",
-    "en": "What they did was illegal"
-  },
-  {
-    "_id": 52,
-    "ru": "Он один из самых богатых людей на нашей планете",
-    "en": "He is one of the richest people on our planet"
-  },
-  {
-    "_id": 53,
-    "ru": "Общая сумма была двести долларов",
-    "en": "The total sum was two hundred dollars"
-  },
-  {
-    "_id": 54,
-    "ru": "Это такое грязное место",
-    "en": "It's such a dirty place"
-  },
-  {
-    "_id": 55,
-    "ru": "Он гораздо более богатый человек",
-    "en": "He is a much richer person"
-  },
-  {
-    "_id": 56,
-    "ru": "Я стараюсь делать это на регулярной основе",
-    "en": "I try to do it on a regular basis"
-  },
-  {
-    "_id": 57,
-    "ru": "Я использую это приложение на регулярной основе",
-    "en": "I use this application on a regular basis"
-  },
-  {
-    "_id": 58,
-    "ru": "Я стараюсь делать это так часто, как могу",
-    "en": "I try to do it as often as I can"
-  },
-  {
-    "_id": 59,
-    "ru": "Это неформальный способ сказать это",
-    "en": "It's an informal way of saying it"
-  },
-  {
-    "_id": 60,
-    "ru": "Это неформальный способ сделать это",
-    "en": "It's an informal way of doing it"
-  },
-  {
-    "_id": 61,
-    "ru": "Он обычно носит неформальную одежду",
-    "en": "He usually wears informal clothes"
-  },
-  {
-    "_id": 62,
-    "ru": "Это такое захватывающее событие",
-    "en": "It's such an exciting event"
-  },
-  {
-    "_id": 63,
-    "ru": "Это событие было таким захватывающим",
-    "en": "This event was so exciting"
-  },
-  {
-    "_id": 64,
-    "ru": "Это такое важное событие",
-    "en": "It's such an important event"
-  },
-  {
-    "_id": 65,
-    "ru": "Эта новость такая захватывающая",
-    "en": "This news is so exciting"
-  },
-  {
-    "_id": 66,
-    "ru": "Эта новость такая шокирующая",
-    "en": "This news is so shocking"
-  },
-  {
-    "_id": 67,
-    "ru": "Это такая захватывающая новость",
-    "en": "It is such an exciting news"
-  },
-  {
-    "_id": 68,
-    "ru": "Его дом меньше чем ее",
-    "en": "His house is smaller than hers"
-  },
-  {
-    "_id": 69,
-    "ru": "Его дом больше моего",
-    "en": "His house is bigger than mine"
-  },
-  {
-    "_id": 70,
-    "ru": "Его дом дороже чем ее?",
-    "en": "Is his house more expensive than hers?"
-  },
-  {
-    "_id": 71,
-    "ru": "Ты заплатил всю сумму сразу?",
-    "en": "Did you pay the total sum at once?"
-  },
-  {
-    "_id": 72,
-    "ru": "Ты потратил эту сумму сразу?",
-    "en": "Did you spend this sum at once?"
-  },
-  {
-    "_id": 73,
-    "ru": "Ты сделал это сразу?",
-    "en": "Did you do it at once?"
-  },
-  {
-    "_id": 74,
-    "ru": "Он более профессиональный тренер",
-    "en": "He is a more professional trainer"
-  },
-  {
-    "_id": 75,
-    "ru": "Он профессиональный спортсмен",
-    "en": "He is a professional sportsman"
-  },
-  {
-    "_id": 76,
-    "ru": "Он тренирует их действительно профессионально",
-    "en": "He trains them really professionally"
-  },
-  {
-    "_id": 77,
-    "ru": "Это одна из самых мощных организаций",
-    "en": "It is one of the most powerful organizations"
-  },
-  {
-    "_id": 78,
-    "ru": "Это один из самых полезных уроков",
-    "en": "It is one of the most useful lessons"
-  },
-  {
-    "_id": 79,
-    "ru": "Это самая богатая организация",
-    "en": "It is the richest organization"
-  },
-  {
-    "_id": 80,
-    "ru": "Он отказался сделать это по политическим причинам",
-    "en": "He refused to do it for political reasons"
-  },
-  {
-    "_id": 81,
-    "ru": "Он отказался сделать это по другой причине",
-    "en": "He refused to do it for another reason"
-  },
-  {
-    "_id": 82,
-    "ru": "Он сделал это без причины",
-    "en": "He did it for no reason"
-  },
-  {
-    "_id": 83,
-    "ru": "Она гораздо более профессиональный тренер",
-    "en": "She is a much more professional trainer"
-  },
-  {
-    "_id": 84,
-    "ru": "Она действительно профессиональный музыкант",
-    "en": "She is a really professional musician"
-  },
-  {
-    "_id": 85,
-    "ru": "Она делала это действительно профессионально",
-    "en": "She did it really professionally"
-  },
-  {
-    "_id": 86,
-    "ru": "Кто твой любимый певец?",
-    "en": "Who is your favourite singer?"
-  },
-  {
-    "_id": 87,
-    "ru": "На скольких иностранных языках он говорит?",
-    "en": "How many foreign languages does he speak?"
-  },
-  {
-    "_id": 88,
-    "ru": "Эта река глубже, чем та",
-    "en": "That river is deeper than that one"
-  },
-  {
-    "_id": 89,
-    "ru": "Новости были такими захватывающими",
-    "en": "The news was so exciting"
-  },
-  {
-    "_id": 90,
-    "ru": "Это очень мощная организация",
-    "en": "It's a very powerful organization"
-  },
-  {
-    "_id": 91,
-    "ru": "Мы учим как правильные, так и неправильные глаголы",
-    "en": "We learn both regular and irregular verbs"
-  },
-  {
-    "_id": 92,
-    "ru": "Это мое любимое блюдо",
-    "en": "It's my favourite dish"
-  },
-  {
-    "_id": 93,
-    "ru": "То, что они делают, незаконно",
-    "en": "What they do is illegal"
-  },
-  {
-    "_id": 94,
-    "ru": "Эта река не такая глубокая, как та",
-    "en": "This river isn't as deep as that one"
-  },
-  {
-    "_id": 95,
-    "ru": "Разные вещи обсуждались вчера",
-    "en": "Different things were discussed yesterday"
-  },
-  {
-    "_id": 96,
-    "ru": "Небо серое",
-    "en": "The sky is grey"
-  },
-  {
-    "_id": 97,
-    "ru": "Он более богатый человек",
-    "en": "He is a richer person"
-  },
-  {
-    "_id": 98,
-    "ru": "У него седые волосы",
-    "en": "He has grey hair"
-  },
-  {
-    "_id": 99,
-    "ru": "Она маленькая девочка",
-    "en": "She is a little girl"
-  },
-  {
-    "_id": 100,
-    "ru": "Какая общая сумма?",
-    "en": "What is the total sum?"
+    "id": 1,
+    "ru": {
+      "text": "Это незаконно",
+      "audio": false
+    },
+    "en": {
+      "text": "It is illegal",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Он такой милый человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is such a nice person",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Это специальная цена",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a special price",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Они беспокоятся о своей национальной безопасности",
+      "audio": false
+    },
+    "en": {
+      "text": "They are worried about their national security",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Она живет в доме поменьше",
+      "audio": false
+    },
+    "en": {
+      "text": "She lives in a smaller house",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Он действительно сердится на него",
+      "audio": false
+    },
+    "en": {
+      "text": "He is really angry with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Они такие профессиональные учителя",
+      "audio": false
+    },
+    "en": {
+      "text": "They are such professional teachers",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Она обычная женщина",
+      "audio": false
+    },
+    "en": {
+      "text": "She is an ordinary woman",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Он живет в обычных условиях",
+      "audio": false
+    },
+    "en": {
+      "text": "He lives in ordinary conditions",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Это неофициальный ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an informal answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Здесь гораздо громче",
+      "audio": false
+    },
+    "en": {
+      "text": "It is much louder here",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Музыка такая громкая",
+      "audio": false
+    },
+    "en": {
+      "text": "The music is so loud",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Она всегда полна энергии",
+      "audio": false
+    },
+    "en": {
+      "text": "She is always full of energy",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Это правильный глагол",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a regular verb",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Они очень милые люди",
+      "audio": false
+    },
+    "en": {
+      "text": "They are very nice people",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Она действительно злится на это",
+      "audio": false
+    },
+    "en": {
+      "text": "She is really angry about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Это была такая сложная проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "It was such a difficult problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Шутка была совсем не смешная",
+      "audio": false
+    },
+    "en": {
+      "text": "The joke wasn't funny at all",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Река очень глубокая",
+      "audio": false
+    },
+    "en": {
+      "text": "The river is very deep",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Он очень терпеливый человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a very patient person",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Его машина более новая",
+      "audio": false
+    },
+    "en": {
+      "text": "His car is newer",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Она в безопасном месте сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "She is in a safe place now",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Это более популярная песня",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a more popular song",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Это было специальное предложение",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a special offer",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Она такая мудрая женщина",
+      "audio": false
+    },
+    "en": {
+      "text": "She is such a wise woman",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "У него широкие плечи",
+      "audio": false
+    },
+    "en": {
+      "text": "He has broad shoulders",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Ее английский безупречен",
+      "audio": false
+    },
+    "en": {
+      "text": "Her English is perfect",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Он был в очень сложной ситуации",
+      "audio": false
+    },
+    "en": {
+      "text": "He was in a very difficult situation",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Это такая смешная шутка",
+      "audio": false
+    },
+    "en": {
+      "text": "It is such a funny joke",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Это было такое мудрое решение",
+      "audio": false
+    },
+    "en": {
+      "text": "It was such a wise decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Он был нашим специальным гостем",
+      "audio": false
+    },
+    "en": {
+      "text": "He was our special guest",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Это очень популярная тенденция в наши дни",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very popular trend – nowadays",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "У мальчика широкие плечи",
+      "audio": false
+    },
+    "en": {
+      "text": "The boy has broad shoulders",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "То место было полно людей",
+      "audio": false
+    },
+    "en": {
+      "text": "That place was full of people",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Она чувствует себя такой несчастной",
+      "audio": false
+    },
+    "en": {
+      "text": "She feels so unhappy",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Это идеальный пример",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a perfect example",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Он национальный герой",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a national hero",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Тест был таким сложным",
+      "audio": false
+    },
+    "en": {
+      "text": "The test was so difficult",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Это такой сложный тест",
+      "audio": false
+    },
+    "en": {
+      "text": "It is such a difficult test",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Она сейчас может чувствовать себя в безопасности",
+      "audio": false
+    },
+    "en": {
+      "text": "She can feel safe now",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Эта песня не так популярна, как та",
+      "audio": false
+    },
+    "en": {
+      "text": "This song isn't as popular as that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Он один из самых богатых людей в мире",
+      "audio": false
+    },
+    "en": {
+      "text": "He is one of the richest people in the world",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Нам также нужно учитывать политические факторы",
+      "audio": false
+    },
+    "en": {
+      "text": "We also need to consider political factors",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я абсолютно уверен, что делаю правильную вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm absolutely sure that I'm doing the right thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Это неформальный способ сказать это по-английски",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an informal way of saying it in English",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я знаю, что мне нужно быть более терпеливым",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that I need to be more patient",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Он может говорить на трех иностранных языках",
+      "audio": false
+    },
+    "en": {
+      "text": "He can speak three foreign languages",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я абсолютно уверен, что Бог действительно существует",
+      "audio": false
+    },
+    "en": {
+      "text": "I am absolutely sure that God really exists",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Какая была общая сумма?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was the total sum?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Он мой любимый видеоблогер",
+      "audio": false
+    },
+    "en": {
+      "text": "He is my favourite video blogger",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "То, что они сделали, было незаконно",
+      "audio": false
+    },
+    "en": {
+      "text": "What they did was illegal",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Он один из самых богатых людей на нашей планете",
+      "audio": false
+    },
+    "en": {
+      "text": "He is one of the richest people on our planet",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Общая сумма была двести долларов",
+      "audio": false
+    },
+    "en": {
+      "text": "The total sum was two hundred dollars",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Это такое грязное место",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such a dirty place",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Он гораздо более богатый человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a much richer person",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я стараюсь делать это на регулярной основе",
+      "audio": false
+    },
+    "en": {
+      "text": "I try to do it on a regular basis",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я использую это приложение на регулярной основе",
+      "audio": false
+    },
+    "en": {
+      "text": "I use this application on a regular basis",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я стараюсь делать это так часто, как могу",
+      "audio": false
+    },
+    "en": {
+      "text": "I try to do it as often as I can",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Это неформальный способ сказать это",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an informal way of saying it",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Это неформальный способ сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an informal way of doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он обычно носит неформальную одежду",
+      "audio": false
+    },
+    "en": {
+      "text": "He usually wears informal clothes",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Это такое захватывающее событие",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such an exciting event",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Это событие было таким захватывающим",
+      "audio": false
+    },
+    "en": {
+      "text": "This event was so exciting",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Это такое важное событие",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such an important event",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Эта новость такая захватывающая",
+      "audio": false
+    },
+    "en": {
+      "text": "This news is so exciting",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Эта новость такая шокирующая",
+      "audio": false
+    },
+    "en": {
+      "text": "This news is so shocking",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Это такая захватывающая новость",
+      "audio": false
+    },
+    "en": {
+      "text": "It is such an exciting news",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Его дом меньше чем ее",
+      "audio": false
+    },
+    "en": {
+      "text": "His house is smaller than hers",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Его дом больше моего",
+      "audio": false
+    },
+    "en": {
+      "text": "His house is bigger than mine",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Его дом дороже чем ее?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is his house more expensive than hers?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Ты заплатил всю сумму сразу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you pay the total sum at once?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Ты потратил эту сумму сразу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you spend this sum at once?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Ты сделал это сразу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you do it at once?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Он более профессиональный тренер",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a more professional trainer",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Он профессиональный спортсмен",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a professional sportsman",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Он тренирует их действительно профессионально",
+      "audio": false
+    },
+    "en": {
+      "text": "He trains them really professionally",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Это одна из самых мощных организаций",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the most powerful organizations",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Это один из самых полезных уроков",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the most useful lessons",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Это самая богатая организация",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the richest organization",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Он отказался сделать это по политическим причинам",
+      "audio": false
+    },
+    "en": {
+      "text": "He refused to do it for political reasons",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Он отказался сделать это по другой причине",
+      "audio": false
+    },
+    "en": {
+      "text": "He refused to do it for another reason",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Он сделал это без причины",
+      "audio": false
+    },
+    "en": {
+      "text": "He did it for no reason",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Она гораздо более профессиональный тренер",
+      "audio": false
+    },
+    "en": {
+      "text": "She is a much more professional trainer",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Она действительно профессиональный музыкант",
+      "audio": false
+    },
+    "en": {
+      "text": "She is a really professional musician",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Она делала это действительно профессионально",
+      "audio": false
+    },
+    "en": {
+      "text": "She did it really professionally",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Кто твой любимый певец?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is your favourite singer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "На скольких иностранных языках он говорит?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many foreign languages does he speak?",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Эта река глубже, чем та",
+      "audio": false
+    },
+    "en": {
+      "text": "That river is deeper than that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Новости были такими захватывающими",
+      "audio": false
+    },
+    "en": {
+      "text": "The news was so exciting",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Это очень мощная организация",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very powerful organization",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Мы учим как правильные, так и неправильные глаголы",
+      "audio": false
+    },
+    "en": {
+      "text": "We learn both regular and irregular verbs",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Это мое любимое блюдо",
+      "audio": false
+    },
+    "en": {
+      "text": "It's my favourite dish",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "То, что они делают, незаконно",
+      "audio": false
+    },
+    "en": {
+      "text": "What they do is illegal",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Эта река не такая глубокая, как та",
+      "audio": false
+    },
+    "en": {
+      "text": "This river isn't as deep as that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Разные вещи обсуждались вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "Different things were discussed yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Небо серое",
+      "audio": false
+    },
+    "en": {
+      "text": "The sky is grey",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Он более богатый человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a richer person",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "У него седые волосы",
+      "audio": false
+    },
+    "en": {
+      "text": "He has grey hair",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Она маленькая девочка",
+      "audio": false
+    },
+    "en": {
+      "text": "She is a little girl",
+      "audio": false
+    }
+  },
+  {
+    "id": 100,
+    "ru": {
+      "text": "Какая общая сумма?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is the total sum?",
+      "audio": false
+    }
   }
 ]

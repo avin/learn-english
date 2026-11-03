@@ -1,252 +1,552 @@
 [
   {
-    "_id": 1,
-    "ru": "Я сделал это сразу же",
-    "en": "I did it immediately"
+    "id": 1,
+    "ru": {
+      "text": "Я сделал это сразу же",
+      "audio": false
+    },
+    "en": {
+      "text": "I did it immediately",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я сделал эту работу",
-    "en": "I did this work"
+    "id": 2,
+    "ru": {
+      "text": "Я сделал эту работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I did this work",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Она купила дом",
-    "en": "She bought a house"
+    "id": 3,
+    "ru": {
+      "text": "Она купила дом",
+      "audio": false
+    },
+    "en": {
+      "text": "She bought a house",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я понял это сразу",
-    "en": "I understood it immediately"
+    "id": 4,
+    "ru": {
+      "text": "Я понял это сразу",
+      "audio": false
+    },
+    "en": {
+      "text": "I understood it immediately",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я вернулся",
-    "en": "I came back"
+    "id": 5,
+    "ru": {
+      "text": "Я вернулся",
+      "audio": false
+    },
+    "en": {
+      "text": "I came back",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я прочитал эту историю",
-    "en": "I read this story"
+    "id": 6,
+    "ru": {
+      "text": "Я прочитал эту историю",
+      "audio": false
+    },
+    "en": {
+      "text": "I read this story",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Я прочитал эту книгу",
-    "en": "I read this book"
+    "id": 7,
+    "ru": {
+      "text": "Я прочитал эту книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "I read this book",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я взял это с собой",
-    "en": "I took it with me"
+    "id": 8,
+    "ru": {
+      "text": "Я взял это с собой",
+      "audio": false
+    },
+    "en": {
+      "text": "I took it with me",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Ты сделал это очень хорошо",
-    "en": "You did it very well"
+    "id": 9,
+    "ru": {
+      "text": "Ты сделал это очень хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "You did it very well",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я сделал это для тебя",
-    "en": "I did it for you"
+    "id": 10,
+    "ru": {
+      "text": "Я сделал это для тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I did it for you",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я получил письмо от него",
-    "en": "I got a letter from him"
+    "id": 11,
+    "ru": {
+      "text": "Я получил письмо от него",
+      "audio": false
+    },
+    "en": {
+      "text": "I got a letter from him",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я написал ей сообщение",
-    "en": "I wrote her a message"
+    "id": 12,
+    "ru": {
+      "text": "Я написал ей сообщение",
+      "audio": false
+    },
+    "en": {
+      "text": "I wrote her a message",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я написал им письмо",
-    "en": "I wrote them a letter"
+    "id": 13,
+    "ru": {
+      "text": "Я написал им письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I wrote them a letter",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Он сделал ошибку",
-    "en": "He made a mistake"
+    "id": 14,
+    "ru": {
+      "text": "Он сделал ошибку",
+      "audio": false
+    },
+    "en": {
+      "text": "He made a mistake",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я знал это",
-    "en": "I knew it"
+    "id": 15,
+    "ru": {
+      "text": "Я знал это",
+      "audio": false
+    },
+    "en": {
+      "text": "I knew it",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Я знал ответ",
-    "en": "I knew the answer"
+    "id": 16,
+    "ru": {
+      "text": "Я знал ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "I knew the answer",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я пошел домой",
-    "en": "I went home"
+    "id": 17,
+    "ru": {
+      "text": "Я пошел домой",
+      "audio": false
+    },
+    "en": {
+      "text": "I went home",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Я вернулся два часа назад",
-    "en": "I came back two hours ago"
+    "id": 18,
+    "ru": {
+      "text": "Я вернулся два часа назад",
+      "audio": false
+    },
+    "en": {
+      "text": "I came back two hours ago",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Я понял это только позже",
-    "en": "I understood it only later"
+    "id": 19,
+    "ru": {
+      "text": "Я понял это только позже",
+      "audio": false
+    },
+    "en": {
+      "text": "I understood it only later",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Я прочитал эту статью",
-    "en": "I read this article"
+    "id": 20,
+    "ru": {
+      "text": "Я прочитал эту статью",
+      "audio": false
+    },
+    "en": {
+      "text": "I read this article",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Я знал это очень хорошо",
-    "en": "I knew it very well"
+    "id": 21,
+    "ru": {
+      "text": "Я знал это очень хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "I knew it very well",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Она сказала это так громко",
-    "en": "She said it so loudly"
+    "id": 22,
+    "ru": {
+      "text": "Она сказала это так громко",
+      "audio": false
+    },
+    "en": {
+      "text": "She said it so loudly",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Я понял это наконец",
-    "en": "I understood it at last"
+    "id": 23,
+    "ru": {
+      "text": "Я понял это наконец",
+      "audio": false
+    },
+    "en": {
+      "text": "I understood it at last",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Она сказала это очень громко",
-    "en": "She said it very loudly"
+    "id": 24,
+    "ru": {
+      "text": "Она сказала это очень громко",
+      "audio": false
+    },
+    "en": {
+      "text": "She said it very loudly",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Он сказал это слишком тихо",
-    "en": "He said it too quietly"
+    "id": 25,
+    "ru": {
+      "text": "Он сказал это слишком тихо",
+      "audio": false
+    },
+    "en": {
+      "text": "He said it too quietly",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Я купил тебе подарок",
-    "en": "I bought you a present"
+    "id": 26,
+    "ru": {
+      "text": "Я купил тебе подарок",
+      "audio": false
+    },
+    "en": {
+      "text": "I bought you a present",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Я получил сообщение от нее",
-    "en": "I got a message from her"
+    "id": 27,
+    "ru": {
+      "text": "Я получил сообщение от нее",
+      "audio": false
+    },
+    "en": {
+      "text": "I got a message from her",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Он сказал это снова",
-    "en": "He said it again"
+    "id": 28,
+    "ru": {
+      "text": "Он сказал это снова",
+      "audio": false
+    },
+    "en": {
+      "text": "He said it again",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Он рассказал мне эту историю",
-    "en": "He told me this story"
+    "id": 29,
+    "ru": {
+      "text": "Он рассказал мне эту историю",
+      "audio": false
+    },
+    "en": {
+      "text": "He told me this story",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Я принял это предложение",
-    "en": "I took this offer"
+    "id": 30,
+    "ru": {
+      "text": "Я принял это предложение",
+      "audio": false
+    },
+    "en": {
+      "text": "I took this offer",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Я купил два билета",
-    "en": "I bought two tickets"
+    "id": 31,
+    "ru": {
+      "text": "Я купил два билета",
+      "audio": false
+    },
+    "en": {
+      "text": "I bought two tickets",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Я понял эту речь",
-    "en": "I understood this speech"
+    "id": 32,
+    "ru": {
+      "text": "Я понял эту речь",
+      "audio": false
+    },
+    "en": {
+      "text": "I understood this speech",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Я понял тебя",
-    "en": "I understood you"
+    "id": 33,
+    "ru": {
+      "text": "Я понял тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I understood you",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Он сказал это очень тихо",
-    "en": "He said it very quietly"
+    "id": 34,
+    "ru": {
+      "text": "Он сказал это очень тихо",
+      "audio": false
+    },
+    "en": {
+      "text": "He said it very quietly",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Я ходил на работу вчера",
-    "en": "I went to work yesterday"
+    "id": 35,
+    "ru": {
+      "text": "Я ходил на работу вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I went to work yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Я получил твое сообщение",
-    "en": "I got your message"
+    "id": 36,
+    "ru": {
+      "text": "Я получил твое сообщение",
+      "audio": false
+    },
+    "en": {
+      "text": "I got your message",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Он взял эти деньги",
-    "en": "He took this money"
+    "id": 37,
+    "ru": {
+      "text": "Он взял эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "He took this money",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Я думаю, я сделал ошибку",
-    "en": "I think I made a mistake"
+    "id": 38,
+    "ru": {
+      "text": "Я думаю, я сделал ошибку",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I made a mistake",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Я купил подарок для тебя",
-    "en": "I bought a present for you"
+    "id": 39,
+    "ru": {
+      "text": "Я купил подарок для тебя",
+      "audio": false
+    },
+    "en": {
+      "text": "I bought a present for you",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Я прочитал это онлайн",
-    "en": "I read it online"
+    "id": 40,
+    "ru": {
+      "text": "Я прочитал это онлайн",
+      "audio": false
+    },
+    "en": {
+      "text": "I read it online",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Я написал письмо",
-    "en": "I wrote a letter"
+    "id": 41,
+    "ru": {
+      "text": "Я написал письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I wrote a letter",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Он купил машину",
-    "en": "He bought a car"
+    "id": 42,
+    "ru": {
+      "text": "Он купил машину",
+      "audio": false
+    },
+    "en": {
+      "text": "He bought a car",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Я получил твое письмо",
-    "en": "I got your letter"
+    "id": 43,
+    "ru": {
+      "text": "Я получил твое письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I got your letter",
+      "audio": false
+    }
   },
   {
-    "_id": 44,
-    "ru": "Я пошел домой после работы",
-    "en": "I went home after work"
+    "id": 44,
+    "ru": {
+      "text": "Я пошел домой после работы",
+      "audio": false
+    },
+    "en": {
+      "text": "I went home after work",
+      "audio": false
+    }
   },
   {
-    "_id": 45,
-    "ru": "Я написал сообщение",
-    "en": "I wrote a message"
+    "id": 45,
+    "ru": {
+      "text": "Я написал сообщение",
+      "audio": false
+    },
+    "en": {
+      "text": "I wrote a message",
+      "audio": false
+    }
   },
   {
-    "_id": 46,
-    "ru": "Я видел его позавчера",
-    "en": "I saw him the day before yesterday"
+    "id": 46,
+    "ru": {
+      "text": "Я видел его позавчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I saw him the day before yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 47,
-    "ru": "Она купила квартиру",
-    "en": "She bought an apartment"
+    "id": 47,
+    "ru": {
+      "text": "Она купила квартиру",
+      "audio": false
+    },
+    "en": {
+      "text": "She bought an apartment",
+      "audio": false
+    }
   },
   {
-    "_id": 48,
-    "ru": "Я вернулся час назад",
-    "en": "I came back an hour ago"
+    "id": 48,
+    "ru": {
+      "text": "Я вернулся час назад",
+      "audio": false
+    },
+    "en": {
+      "text": "I came back an hour ago",
+      "audio": false
+    }
   },
   {
-    "_id": 49,
-    "ru": "Я купил подарок",
-    "en": "I bought a present"
+    "id": 49,
+    "ru": {
+      "text": "Я купил подарок",
+      "audio": false
+    },
+    "en": {
+      "text": "I bought a present",
+      "audio": false
+    }
   },
   {
-    "_id": 50,
-    "ru": "Я видел ее вчера",
-    "en": "I saw her yesterday"
+    "id": 50,
+    "ru": {
+      "text": "Я видел ее вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I saw her yesterday",
+      "audio": false
+    }
   }
 ]

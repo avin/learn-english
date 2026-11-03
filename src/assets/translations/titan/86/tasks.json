@@ -1,447 +1,981 @@
 [
   {
-    "_id": 1,
-    "ru": "Он часто лгал своему боссу",
-    "en": "He often lied to his boss"
-  },
-  {
-    "_id": 2,
-    "ru": "Мальчик ответил очень грубо",
-    "en": "The boy answered very rudely"
-  },
-  {
-    "_id": 3,
-    "ru": "Она закрыла дверь",
-    "en": "She closed the door"
-  },
-  {
-    "_id": 4,
-    "ru": "Она приготовила что-то незабываемое",
-    "en": "She cooked something unforgettable"
-  },
-  {
-    "_id": 5,
-    "ru": "Это предложение звучало действительно странно",
-    "en": "This offer sounded really strange"
-  },
-  {
-    "_id": 6,
-    "ru": "Он действительно не заботился о своем будущем",
-    "en": "He didn't really care about his future"
-  },
-  {
-    "_id": 7,
-    "ru": "Компания два раза увеличивала цену",
-    "en": "The company increased the price two times"
-  },
-  {
-    "_id": 8,
-    "ru": "Это зависело от него",
-    "en": "It depended on him"
-  },
-  {
-    "_id": 9,
-    "ru": "Мой лучший друг полностью поддерживал меня",
-    "en": "My best friend fully supported me"
-  },
-  {
-    "_id": 10,
-    "ru": "Я поблагодарил его за его огромную поддержку",
-    "en": "I thanked him for his huge support"
-  },
-  {
-    "_id": 11,
-    "ru": "Я действительно рассчитывал на ее помощь",
-    "en": "I really counted on her help"
-  },
-  {
-    "_id": 12,
-    "ru": "Я ответила на телефон",
-    "en": "I answered the phone"
-  },
-  {
-    "_id": 13,
-    "ru": "Она соврала мне",
-    "en": "She lied to me"
-  },
-  {
-    "_id": 14,
-    "ru": "Они поженились в конце",
-    "en": "They got married in the end"
-  },
-  {
-    "_id": 15,
-    "ru": "Она покрасила забор",
-    "en": "She painted the fence"
-  },
-  {
-    "_id": 16,
-    "ru": "Они выпустили новый альбом",
-    "en": "They released a new album"
-  },
-  {
-    "_id": 17,
-    "ru": "Он не заботился об этом",
-    "en": "He didn't care about it"
-  },
-  {
-    "_id": 18,
-    "ru": "Я поблагодарил ее за подарок",
-    "en": "I thanked her for the present"
-  },
-  {
-    "_id": 19,
-    "ru": "Урок длился около часа",
-    "en": "The lesson lasted for about an hour"
-  },
-  {
-    "_id": 20,
-    "ru": "Я праздновал Новый год со своей семьей",
-    "en": "I celebrated New Year with my family"
-  },
-  {
-    "_id": 21,
-    "ru": "Как ты отпраздновал свой последний день рождения?",
-    "en": "How did you celebrate your last birthday?"
-  },
-  {
-    "_id": 22,
-    "ru": "Они увеличивали цену несколько раз",
-    "en": "They increased the price several times"
-  },
-  {
-    "_id": 23,
-    "ru": "Я вернулся домой вечером",
-    "en": "I returned home in the evening"
-  },
-  {
-    "_id": 24,
-    "ru": "Он не извинился за свое грубое поведение",
-    "en": "He didn't apologise for his rude behaviour"
-  },
-  {
-    "_id": 25,
-    "ru": "Игра длилась около часа",
-    "en": "The game lasted for about an hour"
-  },
-  {
-    "_id": 26,
-    "ru": "Он выпустил новую песню",
-    "en": "He released a new song"
-  },
-  {
-    "_id": 27,
-    "ru": "Я действительно обожал игру",
-    "en": "I really enjoyed the game"
-  },
-  {
-    "_id": 28,
-    "ru": "Мы вернулись домой",
-    "en": "We turned back home"
-  },
-  {
-    "_id": 29,
-    "ru": "Он посоветовал мне купить эту вещь",
-    "en": "He advised me to buy this thing"
-  },
-  {
-    "_id": 30,
-    "ru": "Они покрасили стену",
-    "en": "They painted the wall"
-  },
-  {
-    "_id": 31,
-    "ru": "Я рассчитывал на его помощь",
-    "en": "I counted on his help"
-  },
-  {
-    "_id": 32,
-    "ru": "Он вернулся домой после полуночи",
-    "en": "He returned home after midnight"
-  },
-  {
-    "_id": 33,
-    "ru": "Я поблагодарил его за все",
-    "en": "I thanked him for everything"
-  },
-  {
-    "_id": 34,
-    "ru": "Он предпочел остаться дома",
-    "en": "He preferred to stay at home"
-  },
-  {
-    "_id": 35,
-    "ru": "Она приготовила это на обед",
-    "en": "She cooked it for dinner"
-  },
-  {
-    "_id": 36,
-    "ru": "Война длилась около двух лет",
-    "en": "The war lasted for about two years"
-  },
-  {
-    "_id": 37,
-    "ru": "Я правильно ответил на этот вопрос",
-    "en": "I answered this question correctly"
-  },
-  {
-    "_id": 38,
-    "ru": "Он вернулся в Англию",
-    "en": "He returned to England"
-  },
-  {
-    "_id": 39,
-    "ru": "Большинству людей не понравился этот новый закон",
-    "en": "The majority of people didn't like this new law"
-  },
-  {
-    "_id": 40,
-    "ru": "Будущее компании зависело от них",
-    "en": "The future of the company depended on them"
-  },
-  {
-    "_id": 41,
-    "ru": "Он пригласил меня на вечеринку",
-    "en": "He invited me to the party"
-  },
-  {
-    "_id": 42,
-    "ru": "Она вышла замуж в возрасте восемнадцати лет",
-    "en": "She married at the age of eighteen"
-  },
-  {
-    "_id": 43,
-    "ru": "Я закончил писать отчет",
-    "en": "I finished writing the report"
-  },
-  {
-    "_id": 44,
-    "ru": "Она действительно любила танцевать",
-    "en": "She really loved dancing"
-  },
-  {
-    "_id": 45,
-    "ru": "Она приготовила что-то очень вкусное",
-    "en": "She cooked something very tasty"
-  },
-  {
-    "_id": 46,
-    "ru": "Я закончил читать эту главу",
-    "en": "I finished reading this chapter"
-  },
-  {
-    "_id": 47,
-    "ru": "Мы обсудили все в конце концов",
-    "en": "We discussed everything in the end"
-  },
-  {
-    "_id": 48,
-    "ru": "Мы обсудили все в конце нашего разговора",
-    "en": "We discussed everything at the end of our conversation"
-  },
-  {
-    "_id": 49,
-    "ru": "Мы обсудили это в конце концов",
-    "en": "We discussed it in the end"
-  },
-  {
-    "_id": 50,
-    "ru": "Они пригласили меня на эту вечеринку",
-    "en": "They invited me to this party"
-  },
-  {
-    "_id": 51,
-    "ru": "Я пригласил его на свою вечеринку",
-    "en": "I invited him to my party"
-  },
-  {
-    "_id": 52,
-    "ru": "Они пригласили меня на вечеринку",
-    "en": "They invited me to the party"
-  },
-  {
-    "_id": 53,
-    "ru": "Я действительно обожал смотреть этот фильм",
-    "en": "I really enjoyed watching this movie"
-  },
-  {
-    "_id": 54,
-    "ru": "Он обожал смотреть этот фильм без субтитров",
-    "en": "He enjoyed watching this movie without subtitles"
-  },
-  {
-    "_id": 55,
-    "ru": "Я предпочел потратить так много денег на это",
-    "en": "I preferred to spend so much money on it"
-  },
-  {
-    "_id": 56,
-    "ru": "Я решил потратить на это свои деньги",
-    "en": "I decided to spend my money on it"
-  },
-  {
-    "_id": 57,
-    "ru": "Он предпочел потратить все свои деньги на это",
-    "en": "He preferred to spend all his money on it"
-  },
-  {
-    "_id": 58,
-    "ru": "Я не советовал ему делать это",
-    "en": "I didn't advise him to do it"
-  },
-  {
-    "_id": 59,
-    "ru": "Я не советовал ему говорить это",
-    "en": "I didn't advise him to say it"
-  },
-  {
-    "_id": 60,
-    "ru": "Я посоветовал ему сделать это",
-    "en": "I advised him to do it"
-  },
-  {
-    "_id": 61,
-    "ru": "Он решил извиниться за свое поведение",
-    "en": "He decided to apologise for his behaviour"
-  },
-  {
-    "_id": 62,
-    "ru": "Я решил извиниться за свое поведение",
-    "en": "I decided to apologise for my behaviour"
-  },
-  {
-    "_id": 63,
-    "ru": "Он извинился за свое поведение",
-    "en": "He apologised for his behaviour"
-  },
-  {
-    "_id": 64,
-    "ru": "Большинство людей не поддержали эту идею",
-    "en": "The majority of people didn't support this idea"
-  },
-  {
-    "_id": 65,
-    "ru": "Эти люди не поддержали мою идею",
-    "en": "These people didn't support my idea"
-  },
-  {
-    "_id": 66,
-    "ru": "Люди не поддержали ту идею",
-    "en": "People didn't support that idea"
-  },
-  {
-    "_id": 67,
-    "ru": "Я желал увидеть ее снова",
-    "en": "I wished to see her again"
-  },
-  {
-    "_id": 68,
-    "ru": "Он желал увидеть тебя снова",
-    "en": "He wished to see you again"
-  },
-  {
-    "_id": 69,
-    "ru": "Я желал сделать это снова",
-    "en": "I wished to do it again"
-  },
-  {
-    "_id": 70,
-    "ru": "Я решил пригласить тебя на мой день рождения",
-    "en": "I decided to invite you to my birthday"
-  },
-  {
-    "_id": 71,
-    "ru": "Он решил пригласить ее на свой день рождения",
-    "en": "He decided to invite her to his birthday"
-  },
-  {
-    "_id": 72,
-    "ru": "Я решил пригласить их на мой день рождения",
-    "en": "I decided to invite them to my birthday party"
-  },
-  {
-    "_id": 73,
-    "ru": "Я позвонил пожелать ему скорейшего выздоровления",
-    "en": "I called to wish him a speedy recovery"
-  },
-  {
-    "_id": 74,
-    "ru": "Я позвонил пожелать ей скорейшего выздоровления",
-    "en": "I called to wish her a speedy recovery"
-  },
-  {
-    "_id": 75,
-    "ru": "Я позвонил пожелать ему счастья",
-    "en": "I called to wish him happiness"
-  },
-  {
-    "_id": 76,
-    "ru": "Мне нужно повернуть направо на перекрестке",
-    "en": "I need to turn right at the crossroads"
-  },
-  {
-    "_id": 77,
-    "ru": "Я предпочел не рассказывать ему эту вещь",
-    "en": "I preferred not to tell him this thing"
-  },
-  {
-    "_id": 78,
-    "ru": "Я сравнил эти два отеля и выбрал первый",
-    "en": "I compared these two hotels and chose the first one"
-  },
-  {
-    "_id": 79,
-    "ru": "Успех проекта зависел от нас",
-    "en": "The success of the project depended on us"
-  },
-  {
-    "_id": 80,
-    "ru": "Я повернул налево на перекрестке",
-    "en": "I turned left at the crossroads"
-  },
-  {
-    "_id": 81,
-    "ru": "Это помогло мне развить мои аналитические способности",
-    "en": "It helped me develop my analytical abilities"
-  },
-  {
-    "_id": 82,
-    "ru": "Мой друг женился очень молодым",
-    "en": "My friend married very young"
-  },
-  {
-    "_id": 83,
-    "ru": "Я пожелал ему скорейшего выздоровления",
-    "en": "I wished him a speedy recovery"
-  },
-  {
-    "_id": 84,
-    "ru": "Я предпочел не делать этого",
-    "en": "I preferred not to do it"
-  },
-  {
-    "_id": 85,
-    "ru": "Я закончил печатать этот текст",
-    "en": "I finished typing this text"
-  },
-  {
-    "_id": 86,
-    "ru": "Я предпочел не говорить этого",
-    "en": "I preferred not to say it"
-  },
-  {
-    "_id": 87,
-    "ru": "Я действительно любил это делать",
-    "en": "I really loved doing it"
-  },
-  {
-    "_id": 88,
-    "ru": "Этот курс помог мне подготовиться к экзамену",
-    "en": "This course helped me prepare for the exam"
-  },
-  {
-    "_id": 89,
-    "ru": "Я решил закрыть окно",
-    "en": "I decided to close the window"
+    "id": 1,
+    "ru": {
+      "text": "Он часто лгал своему боссу",
+      "audio": false
+    },
+    "en": {
+      "text": "He often lied to his boss",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Мальчик ответил очень грубо",
+      "audio": false
+    },
+    "en": {
+      "text": "The boy answered very rudely",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Она закрыла дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "She closed the door",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Она приготовила что-то незабываемое",
+      "audio": false
+    },
+    "en": {
+      "text": "She cooked something unforgettable",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Это предложение звучало действительно странно",
+      "audio": false
+    },
+    "en": {
+      "text": "This offer sounded really strange",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Он действительно не заботился о своем будущем",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't really care about his future",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Компания два раза увеличивала цену",
+      "audio": false
+    },
+    "en": {
+      "text": "The company increased the price two times",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Это зависело от него",
+      "audio": false
+    },
+    "en": {
+      "text": "It depended on him",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Мой лучший друг полностью поддерживал меня",
+      "audio": false
+    },
+    "en": {
+      "text": "My best friend fully supported me",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я поблагодарил его за его огромную поддержку",
+      "audio": false
+    },
+    "en": {
+      "text": "I thanked him for his huge support",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я действительно рассчитывал на ее помощь",
+      "audio": false
+    },
+    "en": {
+      "text": "I really counted on her help",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я ответила на телефон",
+      "audio": false
+    },
+    "en": {
+      "text": "I answered the phone",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Она соврала мне",
+      "audio": false
+    },
+    "en": {
+      "text": "She lied to me",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Они поженились в конце",
+      "audio": false
+    },
+    "en": {
+      "text": "They got married in the end",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Она покрасила забор",
+      "audio": false
+    },
+    "en": {
+      "text": "She painted the fence",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Они выпустили новый альбом",
+      "audio": false
+    },
+    "en": {
+      "text": "They released a new album",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Он не заботился об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't care about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я поблагодарил ее за подарок",
+      "audio": false
+    },
+    "en": {
+      "text": "I thanked her for the present",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Урок длился около часа",
+      "audio": false
+    },
+    "en": {
+      "text": "The lesson lasted for about an hour",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я праздновал Новый год со своей семьей",
+      "audio": false
+    },
+    "en": {
+      "text": "I celebrated New Year with my family",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Как ты отпраздновал свой последний день рождения?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you celebrate your last birthday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Они увеличивали цену несколько раз",
+      "audio": false
+    },
+    "en": {
+      "text": "They increased the price several times",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Я вернулся домой вечером",
+      "audio": false
+    },
+    "en": {
+      "text": "I returned home in the evening",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Он не извинился за свое грубое поведение",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't apologise for his rude behaviour",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Игра длилась около часа",
+      "audio": false
+    },
+    "en": {
+      "text": "The game lasted for about an hour",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Он выпустил новую песню",
+      "audio": false
+    },
+    "en": {
+      "text": "He released a new song",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я действительно обожал игру",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoyed the game",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Мы вернулись домой",
+      "audio": false
+    },
+    "en": {
+      "text": "We turned back home",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Он посоветовал мне купить эту вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "He advised me to buy this thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Они покрасили стену",
+      "audio": false
+    },
+    "en": {
+      "text": "They painted the wall",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Я рассчитывал на его помощь",
+      "audio": false
+    },
+    "en": {
+      "text": "I counted on his help",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Он вернулся домой после полуночи",
+      "audio": false
+    },
+    "en": {
+      "text": "He returned home after midnight",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я поблагодарил его за все",
+      "audio": false
+    },
+    "en": {
+      "text": "I thanked him for everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он предпочел остаться дома",
+      "audio": false
+    },
+    "en": {
+      "text": "He preferred to stay at home",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Она приготовила это на обед",
+      "audio": false
+    },
+    "en": {
+      "text": "She cooked it for dinner",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Война длилась около двух лет",
+      "audio": false
+    },
+    "en": {
+      "text": "The war lasted for about two years",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я правильно ответил на этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I answered this question correctly",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Он вернулся в Англию",
+      "audio": false
+    },
+    "en": {
+      "text": "He returned to England",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Большинству людей не понравился этот новый закон",
+      "audio": false
+    },
+    "en": {
+      "text": "The majority of people didn't like this new law",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Будущее компании зависело от них",
+      "audio": false
+    },
+    "en": {
+      "text": "The future of the company depended on them",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Он пригласил меня на вечеринку",
+      "audio": false
+    },
+    "en": {
+      "text": "He invited me to the party",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Она вышла замуж в возрасте восемнадцати лет",
+      "audio": false
+    },
+    "en": {
+      "text": "She married at the age of eighteen",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я закончил писать отчет",
+      "audio": false
+    },
+    "en": {
+      "text": "I finished writing the report",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Она действительно любила танцевать",
+      "audio": false
+    },
+    "en": {
+      "text": "She really loved dancing",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Она приготовила что-то очень вкусное",
+      "audio": false
+    },
+    "en": {
+      "text": "She cooked something very tasty",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я закончил читать эту главу",
+      "audio": false
+    },
+    "en": {
+      "text": "I finished reading this chapter",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Мы обсудили все в конце концов",
+      "audio": false
+    },
+    "en": {
+      "text": "We discussed everything in the end",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Мы обсудили все в конце нашего разговора",
+      "audio": false
+    },
+    "en": {
+      "text": "We discussed everything at the end of our conversation",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Мы обсудили это в конце концов",
+      "audio": false
+    },
+    "en": {
+      "text": "We discussed it in the end",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Они пригласили меня на эту вечеринку",
+      "audio": false
+    },
+    "en": {
+      "text": "They invited me to this party",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я пригласил его на свою вечеринку",
+      "audio": false
+    },
+    "en": {
+      "text": "I invited him to my party",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Они пригласили меня на вечеринку",
+      "audio": false
+    },
+    "en": {
+      "text": "They invited me to the party",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я действительно обожал смотреть этот фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoyed watching this movie",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Он обожал смотреть этот фильм без субтитров",
+      "audio": false
+    },
+    "en": {
+      "text": "He enjoyed watching this movie without subtitles",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Я предпочел потратить так много денег на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I preferred to spend so much money on it",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Я решил потратить на это свои деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to spend my money on it",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Он предпочел потратить все свои деньги на это",
+      "audio": false
+    },
+    "en": {
+      "text": "He preferred to spend all his money on it",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я не советовал ему делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't advise him to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я не советовал ему говорить это",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't advise him to say it",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я посоветовал ему сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I advised him to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он решил извиниться за свое поведение",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided to apologise for his behaviour",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я решил извиниться за свое поведение",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to apologise for my behaviour",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Он извинился за свое поведение",
+      "audio": false
+    },
+    "en": {
+      "text": "He apologised for his behaviour",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Большинство людей не поддержали эту идею",
+      "audio": false
+    },
+    "en": {
+      "text": "The majority of people didn't support this idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Эти люди не поддержали мою идею",
+      "audio": false
+    },
+    "en": {
+      "text": "These people didn't support my idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Люди не поддержали ту идею",
+      "audio": false
+    },
+    "en": {
+      "text": "People didn't support that idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Я желал увидеть ее снова",
+      "audio": false
+    },
+    "en": {
+      "text": "I wished to see her again",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Он желал увидеть тебя снова",
+      "audio": false
+    },
+    "en": {
+      "text": "He wished to see you again",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я желал сделать это снова",
+      "audio": false
+    },
+    "en": {
+      "text": "I wished to do it again",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я решил пригласить тебя на мой день рождения",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to invite you to my birthday",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Он решил пригласить ее на свой день рождения",
+      "audio": false
+    },
+    "en": {
+      "text": "He decided to invite her to his birthday",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я решил пригласить их на мой день рождения",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to invite them to my birthday party",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я позвонил пожелать ему скорейшего выздоровления",
+      "audio": false
+    },
+    "en": {
+      "text": "I called to wish him a speedy recovery",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Я позвонил пожелать ей скорейшего выздоровления",
+      "audio": false
+    },
+    "en": {
+      "text": "I called to wish her a speedy recovery",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я позвонил пожелать ему счастья",
+      "audio": false
+    },
+    "en": {
+      "text": "I called to wish him happiness",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Мне нужно повернуть направо на перекрестке",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to turn right at the crossroads",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Я предпочел не рассказывать ему эту вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "I preferred not to tell him this thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я сравнил эти два отеля и выбрал первый",
+      "audio": false
+    },
+    "en": {
+      "text": "I compared these two hotels and chose the first one",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Успех проекта зависел от нас",
+      "audio": false
+    },
+    "en": {
+      "text": "The success of the project depended on us",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я повернул налево на перекрестке",
+      "audio": false
+    },
+    "en": {
+      "text": "I turned left at the crossroads",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Это помогло мне развить мои аналитические способности",
+      "audio": false
+    },
+    "en": {
+      "text": "It helped me develop my analytical abilities",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Мой друг женился очень молодым",
+      "audio": false
+    },
+    "en": {
+      "text": "My friend married very young",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я пожелал ему скорейшего выздоровления",
+      "audio": false
+    },
+    "en": {
+      "text": "I wished him a speedy recovery",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я предпочел не делать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I preferred not to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я закончил печатать этот текст",
+      "audio": false
+    },
+    "en": {
+      "text": "I finished typing this text",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Я предпочел не говорить этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I preferred not to say it",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Я действительно любил это делать",
+      "audio": false
+    },
+    "en": {
+      "text": "I really loved doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Этот курс помог мне подготовиться к экзамену",
+      "audio": false
+    },
+    "en": {
+      "text": "This course helped me prepare for the exam",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Я решил закрыть окно",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided to close the window",
+      "audio": false
+    }
   }
 ]

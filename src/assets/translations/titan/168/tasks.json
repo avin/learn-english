@@ -1,307 +1,673 @@
 [
   {
-    "_id": 1,
-    "ru": "На следующей неделе у них будет большая вечеринка",
-    "en": "They are having a big party next week"
+    "id": 1,
+    "ru": {
+      "text": "На следующей неделе у них будет большая вечеринка",
+      "audio": false
+    },
+    "en": {
+      "text": "They are having a big party next week",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я читал эту книгу четыре раза",
-    "en": "I have read this book four times"
+    "id": 2,
+    "ru": {
+      "text": "Я читал эту книгу четыре раза",
+      "audio": false
+    },
+    "en": {
+      "text": "I have read this book four times",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Она сказала, что она купила новое платье",
-    "en": "She said that she had bought a new dress"
+    "id": 3,
+    "ru": {
+      "text": "Она сказала, что она купила новое платье",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that she had bought a new dress",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Он обычно ест бутерброды на завтрак",
-    "en": "He usually eats sandwiches for breakfast"
+    "id": 4,
+    "ru": {
+      "text": "Он обычно ест бутерброды на завтрак",
+      "audio": false
+    },
+    "en": {
+      "text": "He usually eats sandwiches for breakfast",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Сегодня ей предложили новую работу",
-    "en": "She has been offered a new job today"
+    "id": 5,
+    "ru": {
+      "text": "Сегодня ей предложили новую работу",
+      "audio": false
+    },
+    "en": {
+      "text": "She has been offered a new job today",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Она сменила прическу",
-    "en": "She changed her hairstyle"
+    "id": 6,
+    "ru": {
+      "text": "Она сменила прическу",
+      "audio": false
+    },
+    "en": {
+      "text": "She changed her hairstyle",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Они все обсудили к четырем часам",
-    "en": "They had discussed everything by four"
+    "id": 7,
+    "ru": {
+      "text": "Они все обсудили к четырем часам",
+      "audio": false
+    },
+    "en": {
+      "text": "They had discussed everything by four",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Она сказала нам, что уже была в Англии",
-    "en": "She told us that she had already been to England"
+    "id": 8,
+    "ru": {
+      "text": "Она сказала нам, что уже была в Англии",
+      "audio": false
+    },
+    "en": {
+      "text": "She told us that she had already been to England",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Он ушел в школу еще до того, как мы вернулись домой",
-    "en": "He had gone to school before we came home"
+    "id": 9,
+    "ru": {
+      "text": "Он ушел в школу еще до того, как мы вернулись домой",
+      "audio": false
+    },
+    "en": {
+      "text": "He had gone to school before we came home",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Он сказал мне, что выиграл этот турнир",
-    "en": "He told me that he had won this tournament"
+    "id": 10,
+    "ru": {
+      "text": "Он сказал мне, что выиграл этот турнир",
+      "audio": false
+    },
+    "en": {
+      "text": "He told me that he had won this tournament",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Что ты делаешь сегодня вечером?",
-    "en": "What are you doing tonight?"
+    "id": 11,
+    "ru": {
+      "text": "Что ты делаешь сегодня вечером?",
+      "audio": false
+    },
+    "en": {
+      "text": "What are you doing tonight?",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Это предложение кажется непривлекательным",
-    "en": "This offer seems unattractive"
+    "id": 12,
+    "ru": {
+      "text": "Это предложение кажется непривлекательным",
+      "audio": false
+    },
+    "en": {
+      "text": "This offer seems unattractive",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я вижу у тебя новая стрижка",
-    "en": "I see you have a new haircut"
+    "id": 13,
+    "ru": {
+      "text": "Я вижу у тебя новая стрижка",
+      "audio": false
+    },
+    "en": {
+      "text": "I see you have a new haircut",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Давай сделаем перерыв!",
-    "en": "Let's have a break!"
+    "id": 14,
+    "ru": {
+      "text": "Давай сделаем перерыв!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let's have a break!",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я слышал это минуту назад",
-    "en": "I heard it a minute ago"
+    "id": 15,
+    "ru": {
+      "text": "Я слышал это минуту назад",
+      "audio": false
+    },
+    "en": {
+      "text": "I heard it a minute ago",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Он ест бутерброд",
-    "en": "He is eating a sandwich"
+    "id": 16,
+    "ru": {
+      "text": "Он ест бутерброд",
+      "audio": false
+    },
+    "en": {
+      "text": "He is eating a sandwich",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Вчера ей предложили новую работу",
-    "en": "She was offered a new job yesterday"
+    "id": 17,
+    "ru": {
+      "text": "Вчера ей предложили новую работу",
+      "audio": false
+    },
+    "en": {
+      "text": "She was offered a new job yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Я только что услышал это в новостях",
-    "en": "I have just heard it on the news"
+    "id": 18,
+    "ru": {
+      "text": "Я только что услышал это в новостях",
+      "audio": false
+    },
+    "en": {
+      "text": "I have just heard it on the news",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Как давно она здесь работает?",
-    "en": "How long has she been working here?"
+    "id": 19,
+    "ru": {
+      "text": "Как давно она здесь работает?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long has she been working here?",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Он положил руку ей на плечо",
-    "en": "He laid his hand on her shoulder"
+    "id": 20,
+    "ru": {
+      "text": "Он положил руку ей на плечо",
+      "audio": false
+    },
+    "en": {
+      "text": "He laid his hand on her shoulder",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Ты всегда такой энергичный",
-    "en": "You are always so energetic"
+    "id": 21,
+    "ru": {
+      "text": "Ты всегда такой энергичный",
+      "audio": false
+    },
+    "en": {
+      "text": "You are always so energetic",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Если что-то изменится, я дам тебе знать",
-    "en": "If something changes, I will let you know"
+    "id": 22,
+    "ru": {
+      "text": "Если что-то изменится, я дам тебе знать",
+      "audio": false
+    },
+    "en": {
+      "text": "If something changes, I will let you know",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Глобализация происходит везде в наше время",
-    "en": "Globalization is taking place everywhere nowadays"
+    "id": 23,
+    "ru": {
+      "text": "Глобализация происходит везде в наше время",
+      "audio": false
+    },
+    "en": {
+      "text": "Globalization is taking place everywhere nowadays",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Ты хочешь стать миллиардером?",
-    "en": "Do you want to become a billionaire?"
+    "id": 24,
+    "ru": {
+      "text": "Ты хочешь стать миллиардером?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you want to become a billionaire?",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Они женаты двадцать лет",
-    "en": "They have been married for twenty years"
+    "id": 25,
+    "ru": {
+      "text": "Они женаты двадцать лет",
+      "audio": false
+    },
+    "en": {
+      "text": "They have been married for twenty years",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Когда ты потерял свой кошелек?",
-    "en": "When did you lose your wallet?"
+    "id": 26,
+    "ru": {
+      "text": "Когда ты потерял свой кошелек?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you lose your wallet?",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Билл обычно ходит на прогулку вечером",
-    "en": "Bill usually goes for a walk in the evening"
+    "id": 27,
+    "ru": {
+      "text": "Билл обычно ходит на прогулку вечером",
+      "audio": false
+    },
+    "en": {
+      "text": "Bill usually goes for a walk in the evening",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Он пришел домой, взял свой зонтик и вышел",
-    "en": "He came home, took his umbrella and went out"
+    "id": 28,
+    "ru": {
+      "text": "Он пришел домой, взял свой зонтик и вышел",
+      "audio": false
+    },
+    "en": {
+      "text": "He came home, took his umbrella and went out",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Сколько раз ты был там?",
-    "en": "How many times have you been there?"
+    "id": 29,
+    "ru": {
+      "text": "Сколько раз ты был там?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many times have you been there?",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "У меня сегодня вечером деловая встреча",
-    "en": "I'm having a business meeting tonight"
+    "id": 30,
+    "ru": {
+      "text": "У меня сегодня вечером деловая встреча",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm having a business meeting tonight",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Когда я позвонил ему, он спал",
-    "en": "When I called him, he was sleeping"
+    "id": 31,
+    "ru": {
+      "text": "Когда я позвонил ему, он спал",
+      "audio": false
+    },
+    "en": {
+      "text": "When I called him, he was sleeping",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Мы прекрасно провели время вчера",
-    "en": "We had a great time yesterday"
+    "id": 32,
+    "ru": {
+      "text": "Мы прекрасно провели время вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "We had a great time yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Завтра в это время я буду делать покупки",
-    "en": "This time tomorrow I will be doing the shopping"
+    "id": 33,
+    "ru": {
+      "text": "Завтра в это время я буду делать покупки",
+      "audio": false
+    },
+    "en": {
+      "text": "This time tomorrow I will be doing the shopping",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Это самая вкусная еда, которую я когда-либо пробовал",
-    "en": "It's the most delicious food I've ever tasted"
+    "id": 34,
+    "ru": {
+      "text": "Это самая вкусная еда, которую я когда-либо пробовал",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the most delicious food I've ever tasted",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Он сбил другого мужчину, пока ехал на работу",
-    "en": "He hit another man while he was driving to work"
+    "id": 35,
+    "ru": {
+      "text": "Он сбил другого мужчину, пока ехал на работу",
+      "audio": false
+    },
+    "en": {
+      "text": "He hit another man while he was driving to work",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Я впервые опаздываю на урок английского",
-    "en": "It is the first time I have been late for my English class"
+    "id": 36,
+    "ru": {
+      "text": "Я впервые опаздываю на урок английского",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the first time I have been late for my English class",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Это лучший фильм, который я когда-либо видел",
-    "en": "It's the best movie I've ever seen"
+    "id": 37,
+    "ru": {
+      "text": "Это лучший фильм, который я когда-либо видел",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the best movie I've ever seen",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Это лучшая книга, которую я когда-либо читал",
-    "en": "It's the best book I've ever read"
+    "id": 38,
+    "ru": {
+      "text": "Это лучшая книга, которую я когда-либо читал",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the best book I've ever read",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Это лучший фильм, который я когда-либо смотрел",
-    "en": "It's the best movie we have ever watched"
+    "id": 39,
+    "ru": {
+      "text": "Это лучший фильм, который я когда-либо смотрел",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the best movie we have ever watched",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Когда ты осознал, что мотоцикл исчез?",
-    "en": "When did you realise that the bike had disappeared?"
+    "id": 40,
+    "ru": {
+      "text": "Когда ты осознал, что мотоцикл исчез?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you realise that the bike had disappeared?",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Когда ты понял, что твой бумажник исчез?",
-    "en": "When did you understand that your wallet had disappeared?"
+    "id": 41,
+    "ru": {
+      "text": "Когда ты понял, что твой бумажник исчез?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you understand that your wallet had disappeared?",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Я вдруг осознал, что моя машина исчезла",
-    "en": "I suddenly realised that my car had disappeared"
+    "id": 42,
+    "ru": {
+      "text": "Я вдруг осознал, что моя машина исчезла",
+      "audio": false
+    },
+    "en": {
+      "text": "I suddenly realised that my car had disappeared",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Она присоединится к нам, как только закончит это",
-    "en": "She will join us as soon as she finishes it"
+    "id": 43,
+    "ru": {
+      "text": "Она присоединится к нам, как только закончит это",
+      "audio": false
+    },
+    "en": {
+      "text": "She will join us as soon as she finishes it",
+      "audio": false
+    }
   },
   {
-    "_id": 44,
-    "ru": "Она присоединится к нам как можно скорее",
-    "en": "She will join us as soon as possible"
+    "id": 44,
+    "ru": {
+      "text": "Она присоединится к нам как можно скорее",
+      "audio": false
+    },
+    "en": {
+      "text": "She will join us as soon as possible",
+      "audio": false
+    }
   },
   {
-    "_id": 45,
-    "ru": "Когда она присоединится к нам?",
-    "en": "When will she join us?"
+    "id": 45,
+    "ru": {
+      "text": "Когда она присоединится к нам?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will she join us?",
+      "audio": false
+    }
   },
   {
-    "_id": 46,
-    "ru": "Я уверен, что успешно сдам этот экзамен",
-    "en": "I'm sure that I will pass this exam successfully"
+    "id": 46,
+    "ru": {
+      "text": "Я уверен, что успешно сдам этот экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure that I will pass this exam successfully",
+      "audio": false
+    }
   },
   {
-    "_id": 47,
-    "ru": "Я уверен, что получу эту работу",
-    "en": "I'm sure that I will get this job"
+    "id": 47,
+    "ru": {
+      "text": "Я уверен, что получу эту работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure that I will get this job",
+      "audio": false
+    }
   },
   {
-    "_id": 48,
-    "ru": "Я не уверен, что сдам этот тест",
-    "en": "I'm not sure that I will pass this test"
+    "id": 48,
+    "ru": {
+      "text": "Я не уверен, что сдам этот тест",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not sure that I will pass this test",
+      "audio": false
+    }
   },
   {
-    "_id": 49,
-    "ru": "Я шел по улице, когда внезапно увидел его",
-    "en": "I was walking along the street when I saw him suddenly"
+    "id": 49,
+    "ru": {
+      "text": "Я шел по улице, когда внезапно увидел его",
+      "audio": false
+    },
+    "en": {
+      "text": "I was walking along the street when I saw him suddenly",
+      "audio": false
+    }
   },
   {
-    "_id": 50,
-    "ru": "Я гулял в парке, когда я внезапно увидел ее",
-    "en": "I was walking in the park when I saw her suddenly"
+    "id": 50,
+    "ru": {
+      "text": "Я гулял в парке, когда я внезапно увидел ее",
+      "audio": false
+    },
+    "en": {
+      "text": "I was walking in the park when I saw her suddenly",
+      "audio": false
+    }
   },
   {
-    "_id": 51,
-    "ru": "Я шел вдоль реки, когда внезапно услышал это",
-    "en": "I was walking along the river when I heard it suddenly"
+    "id": 51,
+    "ru": {
+      "text": "Я шел вдоль реки, когда внезапно услышал это",
+      "audio": false
+    },
+    "en": {
+      "text": "I was walking along the river when I heard it suddenly",
+      "audio": false
+    }
   },
   {
-    "_id": 52,
-    "ru": "Я впервые в этом месте",
-    "en": "It is the first time I have been to this place"
+    "id": 52,
+    "ru": {
+      "text": "Я впервые в этом месте",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the first time I have been to this place",
+      "audio": false
+    }
   },
   {
-    "_id": 53,
-    "ru": "Это был первый раз, когда я был в этом городе",
-    "en": "It was the first time I had been to this city"
+    "id": 53,
+    "ru": {
+      "text": "Это был первый раз, когда я был в этом городе",
+      "audio": false
+    },
+    "en": {
+      "text": "It was the first time I had been to this city",
+      "audio": false
+    }
   },
   {
-    "_id": 54,
-    "ru": "Это второй раз, когда я в Англии",
-    "en": "It is the second time I have been to England"
+    "id": 54,
+    "ru": {
+      "text": "Это второй раз, когда я в Англии",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the second time I have been to England",
+      "audio": false
+    }
   },
   {
-    "_id": 55,
-    "ru": "Мы шли вдоль реки, когда начался дождь",
-    "en": "We were walking along the river when it started raining"
+    "id": 55,
+    "ru": {
+      "text": "Мы шли вдоль реки, когда начался дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "We were walking along the river when it started raining",
+      "audio": false
+    }
   },
   {
-    "_id": 56,
-    "ru": "Мы лежали на пляже, когда начался дождь",
-    "en": "We were lying on the beach when it started raining"
+    "id": 56,
+    "ru": {
+      "text": "Мы лежали на пляже, когда начался дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "We were lying on the beach when it started raining",
+      "audio": false
+    }
   },
   {
-    "_id": 57,
-    "ru": "Я гулял в лесу, когда пошел снег",
-    "en": "I was walking in the forest when it started snowing"
+    "id": 57,
+    "ru": {
+      "text": "Я гулял в лесу, когда пошел снег",
+      "audio": false
+    },
+    "en": {
+      "text": "I was walking in the forest when it started snowing",
+      "audio": false
+    }
   },
   {
-    "_id": 58,
-    "ru": "Он потратит эти деньги к концу недели",
-    "en": "He will have spent this money by the end of the week"
+    "id": 58,
+    "ru": {
+      "text": "Он потратит эти деньги к концу недели",
+      "audio": false
+    },
+    "en": {
+      "text": "He will have spent this money by the end of the week",
+      "audio": false
+    }
   },
   {
-    "_id": 59,
-    "ru": "Ты когда-нибудь видел какие-либо из этих фильмов?",
-    "en": "Have you ever seen any of these movies?"
+    "id": 59,
+    "ru": {
+      "text": "Ты когда-нибудь видел какие-либо из этих фильмов?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever seen any of these movies?",
+      "audio": false
+    }
   },
   {
-    "_id": 60,
-    "ru": "Он никогда не водил машину, но он хочет учиться",
-    "en": "He has never driven a car but he wants to learn"
+    "id": 60,
+    "ru": {
+      "text": "Он никогда не водил машину, но он хочет учиться",
+      "audio": false
+    },
+    "en": {
+      "text": "He has never driven a car but he wants to learn",
+      "audio": false
+    }
   },
   {
-    "_id": 61,
-    "ru": "Если его головная боль исчезнет, он пойдет в кино",
-    "en": "If his headache disappears, he will go to the cinema"
+    "id": 61,
+    "ru": {
+      "text": "Если его головная боль исчезнет, он пойдет в кино",
+      "audio": false
+    },
+    "en": {
+      "text": "If his headache disappears, he will go to the cinema",
+      "audio": false
+    }
   }
 ]

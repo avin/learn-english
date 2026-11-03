@@ -1,462 +1,1014 @@
 [
   {
-    "_id": 1,
-    "ru": "Мне было очень приятно получить твое приглашение",
-    "en": "I was very pleased to receive your invitation"
-  },
-  {
-    "_id": 2,
-    "ru": "Я хочу пожелать тебе настоящего счастья и удачи",
-    "en": "I want to wish you true happiness and good luck"
-  },
-  {
-    "_id": 3,
-    "ru": "Она начала внезапно плакать",
-    "en": "She began to cry suddenly"
-  },
-  {
-    "_id": 4,
-    "ru": "Тебе нравится ходить по магазинам?",
-    "en": "Do you like going shopping?"
-  },
-  {
-    "_id": 5,
-    "ru": "Я отправил это ей по почте",
-    "en": "I sent it to her by post"
-  },
-  {
-    "_id": 6,
-    "ru": "Я полностью поддерживаю эту идею",
-    "en": "I fully support this idea"
-  },
-  {
-    "_id": 7,
-    "ru": "Это платье подходило ей идеально",
-    "en": "This dress fit her perfectly"
-  },
-  {
-    "_id": 8,
-    "ru": "Он вдохнул, а затем он выдохнул",
-    "en": "He breathed in and then he breathed out"
-  },
-  {
-    "_id": 9,
-    "ru": "Я хотел сосредоточиться на этой задаче",
-    "en": "I wanted to concentrate on this task"
-  },
-  {
-    "_id": 10,
-    "ru": "Тебе следует контролировать себя",
-    "en": "You should control yourself"
-  },
-  {
-    "_id": 11,
-    "ru": "Я был в полном восторге получить твое письмо",
-    "en": "I was absolutely delighted to receive your letter"
-  },
-  {
-    "_id": 12,
-    "ru": "Я обычно хожу туда пешком",
-    "en": "I usually go there on foot"
-  },
-  {
-    "_id": 13,
-    "ru": "Я буду ждать твоего звонка с нетерпением",
-    "en": "I will be waiting for your call with impatience"
-  },
-  {
-    "_id": 14,
-    "ru": "Я как-нибудь исправлю эту проблему",
-    "en": "I will fix this problem somehow"
-  },
-  {
-    "_id": 15,
-    "ru": "Прекрати это делать!",
-    "en": "Stop doing it!"
-  },
-  {
-    "_id": 16,
-    "ru": "Я ему не верю сейчас",
-    "en": "I don't believe him now"
-  },
-  {
-    "_id": 17,
-    "ru": "Он не может себя контролировать",
-    "en": "He can't control himself"
-  },
-  {
-    "_id": 18,
-    "ru": "Я закажу тебе такси",
-    "en": "I will order you a taxi"
-  },
-  {
-    "_id": 19,
-    "ru": "Мне нужно было это сделать",
-    "en": "I needed to do it"
-  },
-  {
-    "_id": 20,
-    "ru": "Я нажал на ту кнопку",
-    "en": "I clicked on that button"
-  },
-  {
-    "_id": 21,
-    "ru": "Он вырыл яму в земле",
-    "en": "He dug a hole in the ground"
-  },
-  {
-    "_id": 22,
-    "ru": "Ему нужно отсканировать этот документ",
-    "en": "He needs to scan this document"
-  },
-  {
-    "_id": 23,
-    "ru": "Я хотел бы забронировать эти билеты заранее",
-    "en": "I would like to book these tickets in advance"
-  },
-  {
-    "_id": 24,
-    "ru": "Что ты заказал?",
-    "en": "What did you order?"
-  },
-  {
-    "_id": 25,
-    "ru": "Они сделали очень интересное открытие",
-    "en": "They made a very interesting discovery"
-  },
-  {
-    "_id": 26,
-    "ru": "Я нахожу это предложение действительно привлекательным",
-    "en": "I find this offer really attractive"
-  },
-  {
-    "_id": 27,
-    "ru": "Они пригласили тебя на эту вечеринку?",
-    "en": "Did they invite you to this party?"
-  },
-  {
-    "_id": 28,
-    "ru": "Они сражались героически",
-    "en": "They were fighting heroically"
-  },
-  {
-    "_id": 29,
-    "ru": "Ему не нравится носить костюм",
-    "en": "He doesn't like wearing a suit"
-  },
-  {
-    "_id": 30,
-    "ru": "Тебе нужно нажать на ссылку ниже",
-    "en": "You need to click on the link below"
-  },
-  {
-    "_id": 31,
-    "ru": "Он полностью поддерживает это решение",
-    "en": "He fully supports this decision"
-  },
-  {
-    "_id": 32,
-    "ru": "Эта одежда ей не подходит",
-    "en": "These clothes don't fit - her"
-  },
-  {
-    "_id": 33,
-    "ru": "Я начал думать об этом более серьезно",
-    "en": "I began to think about it more seriously"
-  },
-  {
-    "_id": 34,
-    "ru": "Я так долго этого ждал",
-    "en": "I have been waiting for it for so long"
-  },
-  {
-    "_id": 35,
-    "ru": "Солдаты сражались очень смело и мужественно",
-    "en": "The soldiers were fighting very bravely and courageously"
-  },
-  {
-    "_id": 36,
-    "ru": "Кто заплатил за билеты?",
-    "en": "Who paid for the tickets?"
-  },
-  {
-    "_id": 37,
-    "ru": "Дети копаются в земле",
-    "en": "The kids are digging in the ground"
-  },
-  {
-    "_id": 38,
-    "ru": "Он сделал несколько ошибок",
-    "en": "He made several mistakes"
-  },
-  {
-    "_id": 39,
-    "ru": "Они носили слишком формальную одежду",
-    "en": "They wore too formal clothes"
-  },
-  {
-    "_id": 40,
-    "ru": "Очень трудно сосредоточиться из-за этого шума",
-    "en": "It is very difficult to concentrate because of this noise"
-  },
-  {
-    "_id": 41,
-    "ru": "Я пытаюсь связаться с ней с утра",
-    "en": "I have been trying to get in touch with her since morning"
-  },
-  {
-    "_id": 42,
-    "ru": "Преступники были пойманы и наказаны",
-    "en": "The criminals were caught and punished"
-  },
-  {
-    "_id": 43,
-    "ru": "Что происходит в данный момент?",
-    "en": "What is happening at the moment?"
-  },
-  {
-    "_id": 44,
-    "ru": "Ярко светит солнце и птицы поют",
-    "en": "The sun is shining brightly and the birds are singing"
-  },
-  {
-    "_id": 45,
-    "ru": "Как тебе удалось найти это место?",
-    "en": "How did you manage to find this place?"
-  },
-  {
-    "_id": 46,
-    "ru": "Он сказал, что это уже случилось",
-    "en": "He said that it had already happened"
-  },
-  {
-    "_id": 47,
-    "ru": "Когда я вошел в комнату, она рисовала",
-    "en": "When I entered the room, she was drawing"
-  },
-  {
-    "_id": 48,
-    "ru": "Как долго ты тренируешься?",
-    "en": "How long have you been training?"
-  },
-  {
-    "_id": 49,
-    "ru": "Они были пойманы, когда они пытались сбежать",
-    "en": "They were caught when they were trying to escape"
-  },
-  {
-    "_id": 50,
-    "ru": "Сложно сравнивать эти вещи",
-    "en": "It's difficult to compare these things"
-  },
-  {
-    "_id": 51,
-    "ru": "Я тренируюсь намного больше в последнее время",
-    "en": "I have been training much more lately"
-  },
-  {
-    "_id": 52,
-    "ru": "Оборудование было установлено правильно",
-    "en": "The equipment was installed properly"
-  },
-  {
-    "_id": 53,
-    "ru": "Программа не установлена здесь",
-    "en": "The program isn't installed here"
-  },
-  {
-    "_id": 54,
-    "ru": "Эта программа не была установлена на моем компьютере",
-    "en": "This program wasn't installed on my computer"
-  },
-  {
-    "_id": 55,
-    "ru": "Он всегда интересовался музыкой",
-    "en": "He has always been interested in music"
-  },
-  {
-    "_id": 56,
-    "ru": "Он никогда не интересовался футболом",
-    "en": "He has never been interested in football"
-  },
-  {
-    "_id": 57,
-    "ru": "Я всегда интересовался готовкой",
-    "en": "I have always been interested in cooking"
-  },
-  {
-    "_id": 58,
-    "ru": "Он пытался сбежать из тюрьмы, но у него не получилось",
-    "en": "He tried to escape from prison but he failed"
-  },
-  {
-    "_id": 59,
-    "ru": "Он никогда не пытался сбежать из тюрьмы",
-    "en": "He has never tried to escape from prison"
-  },
-  {
-    "_id": 60,
-    "ru": "Я пользуюсь этим сервисом на регулярной основе",
-    "en": "I use this service on a regular basis"
-  },
-  {
-    "_id": 61,
-    "ru": "Я пользуюсь этим сервисом регулярно",
-    "en": "I use this service regularly"
-  },
-  {
-    "_id": 62,
-    "ru": "Я часто пользуюсь этим сервисом",
-    "en": "I often use this service"
-  },
-  {
-    "_id": 63,
-    "ru": "Сообщение было отправлено ему",
-    "en": "The message was sent to him"
-  },
-  {
-    "_id": 64,
-    "ru": "Сообщение не было отправлено ему вовремя",
-    "en": "The message wasn't sent to him on time"
-  },
-  {
-    "_id": 65,
-    "ru": "Это письмо отправлено ей",
-    "en": "This letter is sent to her"
-  },
-  {
-    "_id": 66,
-    "ru": "Ему потребовалось некоторое время, чтобы починить велосипед",
-    "en": "It took him some time to fix the bike"
-  },
-  {
-    "_id": 67,
-    "ru": "Это займет некоторое время",
-    "en": "It will take some time"
-  },
-  {
-    "_id": 68,
-    "ru": "Дождь еще не прекратился",
-    "en": "It hasn't stopped raining yet"
-  },
-  {
-    "_id": 69,
-    "ru": "Дождь шел весь день",
-    "en": "It has been raining all day"
-  },
-  {
-    "_id": 70,
-    "ru": "Дождь уже прекратился",
-    "en": "It has already stopped raining"
-  },
-  {
-    "_id": 71,
-    "ru": "Я не могу сказать, что я печатаю очень быстро",
-    "en": "I can't say that I type very fast"
-  },
-  {
-    "_id": 72,
-    "ru": "Я могу сказать, что я печатаю очень быстро",
-    "en": "I can say that I type really fast"
-  },
-  {
-    "_id": 73,
-    "ru": "Я не могу сказать, что я читаю очень быстро",
-    "en": "I can't say that I read very fast"
-  },
-  {
-    "_id": 74,
-    "ru": "Эти документы были отсканированы",
-    "en": "These documents were scanned"
-  },
-  {
-    "_id": 75,
-    "ru": "Эти документы не подписаны",
-    "en": "These documents aren't signed"
-  },
-  {
-    "_id": 76,
-    "ru": "Эти фотографии были напечатаны",
-    "en": "These photos were printed"
-  },
-  {
-    "_id": 77,
-    "ru": "Ты нарисовал настоящий шедевр",
-    "en": "You drew a real masterpiece"
-  },
-  {
-    "_id": 78,
-    "ru": "Я покрасил стену в красный",
-    "en": "I painted the wall red"
-  },
-  {
-    "_id": 79,
-    "ru": "Ты нарисовал очень красивую картинку",
-    "en": "You drew a very beautiful picture"
-  },
-  {
-    "_id": 80,
-    "ru": "Я всегда был заинтересован в этом",
-    "en": "I have always been interested in it"
-  },
-  {
-    "_id": 81,
-    "ru": "Он сказал, что заплатил за все",
-    "en": "He said that he had paid for everything"
-  },
-  {
-    "_id": 82,
-    "ru": "Луна светила очень ярко",
-    "en": "The moon was shining very brightly"
-  },
-  {
-    "_id": 83,
-    "ru": "Я много печатал в последнее время",
-    "en": "I have been typing a lot lately"
-  },
-  {
-    "_id": 84,
-    "ru": "Я еще не установил эту программу",
-    "en": "I haven't installed this program yet"
-  },
-  {
-    "_id": 85,
-    "ru": "Я еще не забронировал рейс",
-    "en": "I haven't booked the flight yet"
-  },
-  {
-    "_id": 86,
-    "ru": "Мои сверстники и я часто сравниваем наши результаты",
-    "en": "My peers and I often compare our results"
-  },
-  {
-    "_id": 87,
-    "ru": "Я был так удивлен, что не я мог поверить своим глазам",
-    "en": "I was so surprised that I couldn't believe my eyes"
-  },
-  {
-    "_id": 88,
-    "ru": "Я отправил ей текстовое сообщение",
-    "en": "I sent her a text message"
-  },
-  {
-    "_id": 89,
-    "ru": "Все включено",
-    "en": "Everything is included"
-  },
-  {
-    "_id": 90,
-    "ru": "Это включено в счет",
-    "en": "It is included in the bill"
-  },
-  {
-    "_id": 91,
-    "ru": "Я вошел в здание",
-    "en": "I entered the building"
-  },
-  {
-    "_id": 92,
-    "ru": "Никто не был наказан",
-    "en": "No one was punished"
+    "id": 1,
+    "ru": {
+      "text": "Мне было очень приятно получить твое приглашение",
+      "audio": false
+    },
+    "en": {
+      "text": "I was very pleased to receive your invitation",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я хочу пожелать тебе настоящего счастья и удачи",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to wish you true happiness and good luck",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Она начала внезапно плакать",
+      "audio": false
+    },
+    "en": {
+      "text": "She began to cry suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Тебе нравится ходить по магазинам?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like going shopping?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я отправил это ей по почте",
+      "audio": false
+    },
+    "en": {
+      "text": "I sent it to her by post",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я полностью поддерживаю эту идею",
+      "audio": false
+    },
+    "en": {
+      "text": "I fully support this idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Это платье подходило ей идеально",
+      "audio": false
+    },
+    "en": {
+      "text": "This dress fit her perfectly",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Он вдохнул, а затем он выдохнул",
+      "audio": false
+    },
+    "en": {
+      "text": "He breathed in and then he breathed out",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я хотел сосредоточиться на этой задаче",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to concentrate on this task",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Тебе следует контролировать себя",
+      "audio": false
+    },
+    "en": {
+      "text": "You should control yourself",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я был в полном восторге получить твое письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I was absolutely delighted to receive your letter",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я обычно хожу туда пешком",
+      "audio": false
+    },
+    "en": {
+      "text": "I usually go there on foot",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Я буду ждать твоего звонка с нетерпением",
+      "audio": false
+    },
+    "en": {
+      "text": "I will be waiting for your call with impatience",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я как-нибудь исправлю эту проблему",
+      "audio": false
+    },
+    "en": {
+      "text": "I will fix this problem somehow",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Прекрати это делать!",
+      "audio": false
+    },
+    "en": {
+      "text": "Stop doing it!",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я ему не верю сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't believe him now",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Он не может себя контролировать",
+      "audio": false
+    },
+    "en": {
+      "text": "He can't control himself",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я закажу тебе такси",
+      "audio": false
+    },
+    "en": {
+      "text": "I will order you a taxi",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Мне нужно было это сделать",
+      "audio": false
+    },
+    "en": {
+      "text": "I needed to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я нажал на ту кнопку",
+      "audio": false
+    },
+    "en": {
+      "text": "I clicked on that button",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Он вырыл яму в земле",
+      "audio": false
+    },
+    "en": {
+      "text": "He dug a hole in the ground",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Ему нужно отсканировать этот документ",
+      "audio": false
+    },
+    "en": {
+      "text": "He needs to scan this document",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Я хотел бы забронировать эти билеты заранее",
+      "audio": false
+    },
+    "en": {
+      "text": "I would like to book these tickets in advance",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Что ты заказал?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you order?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Они сделали очень интересное открытие",
+      "audio": false
+    },
+    "en": {
+      "text": "They made a very interesting discovery",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я нахожу это предложение действительно привлекательным",
+      "audio": false
+    },
+    "en": {
+      "text": "I find this offer really attractive",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Они пригласили тебя на эту вечеринку?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did they invite you to this party?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Они сражались героически",
+      "audio": false
+    },
+    "en": {
+      "text": "They were fighting heroically",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Ему не нравится носить костюм",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't like wearing a suit",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Тебе нужно нажать на ссылку ниже",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to click on the link below",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Он полностью поддерживает это решение",
+      "audio": false
+    },
+    "en": {
+      "text": "He fully supports this decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Эта одежда ей не подходит",
+      "audio": false
+    },
+    "en": {
+      "text": "These clothes don't fit - her",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я начал думать об этом более серьезно",
+      "audio": false
+    },
+    "en": {
+      "text": "I began to think about it more seriously",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я так долго этого ждал",
+      "audio": false
+    },
+    "en": {
+      "text": "I have been waiting for it for so long",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Солдаты сражались очень смело и мужественно",
+      "audio": false
+    },
+    "en": {
+      "text": "The soldiers were fighting very bravely and courageously",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Кто заплатил за билеты?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who paid for the tickets?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Дети копаются в земле",
+      "audio": false
+    },
+    "en": {
+      "text": "The kids are digging in the ground",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Он сделал несколько ошибок",
+      "audio": false
+    },
+    "en": {
+      "text": "He made several mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Они носили слишком формальную одежду",
+      "audio": false
+    },
+    "en": {
+      "text": "They wore too formal clothes",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Очень трудно сосредоточиться из-за этого шума",
+      "audio": false
+    },
+    "en": {
+      "text": "It is very difficult to concentrate because of this noise",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я пытаюсь связаться с ней с утра",
+      "audio": false
+    },
+    "en": {
+      "text": "I have been trying to get in touch with her since morning",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Преступники были пойманы и наказаны",
+      "audio": false
+    },
+    "en": {
+      "text": "The criminals were caught and punished",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Что происходит в данный момент?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is happening at the moment?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Ярко светит солнце и птицы поют",
+      "audio": false
+    },
+    "en": {
+      "text": "The sun is shining brightly and the birds are singing",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Как тебе удалось найти это место?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you manage to find this place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Он сказал, что это уже случилось",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that it had already happened",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Когда я вошел в комнату, она рисовала",
+      "audio": false
+    },
+    "en": {
+      "text": "When I entered the room, she was drawing",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Как долго ты тренируешься?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long have you been training?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Они были пойманы, когда они пытались сбежать",
+      "audio": false
+    },
+    "en": {
+      "text": "They were caught when they were trying to escape",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Сложно сравнивать эти вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "It's difficult to compare these things",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я тренируюсь намного больше в последнее время",
+      "audio": false
+    },
+    "en": {
+      "text": "I have been training much more lately",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Оборудование было установлено правильно",
+      "audio": false
+    },
+    "en": {
+      "text": "The equipment was installed properly",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Программа не установлена здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "The program isn't installed here",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Эта программа не была установлена на моем компьютере",
+      "audio": false
+    },
+    "en": {
+      "text": "This program wasn't installed on my computer",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Он всегда интересовался музыкой",
+      "audio": false
+    },
+    "en": {
+      "text": "He has always been interested in music",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Он никогда не интересовался футболом",
+      "audio": false
+    },
+    "en": {
+      "text": "He has never been interested in football",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я всегда интересовался готовкой",
+      "audio": false
+    },
+    "en": {
+      "text": "I have always been interested in cooking",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Он пытался сбежать из тюрьмы, но у него не получилось",
+      "audio": false
+    },
+    "en": {
+      "text": "He tried to escape from prison but he failed",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Он никогда не пытался сбежать из тюрьмы",
+      "audio": false
+    },
+    "en": {
+      "text": "He has never tried to escape from prison",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я пользуюсь этим сервисом на регулярной основе",
+      "audio": false
+    },
+    "en": {
+      "text": "I use this service on a regular basis",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я пользуюсь этим сервисом регулярно",
+      "audio": false
+    },
+    "en": {
+      "text": "I use this service regularly",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я часто пользуюсь этим сервисом",
+      "audio": false
+    },
+    "en": {
+      "text": "I often use this service",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Сообщение было отправлено ему",
+      "audio": false
+    },
+    "en": {
+      "text": "The message was sent to him",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Сообщение не было отправлено ему вовремя",
+      "audio": false
+    },
+    "en": {
+      "text": "The message wasn't sent to him on time",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Это письмо отправлено ей",
+      "audio": false
+    },
+    "en": {
+      "text": "This letter is sent to her",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Ему потребовалось некоторое время, чтобы починить велосипед",
+      "audio": false
+    },
+    "en": {
+      "text": "It took him some time to fix the bike",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Это займет некоторое время",
+      "audio": false
+    },
+    "en": {
+      "text": "It will take some time",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Дождь еще не прекратился",
+      "audio": false
+    },
+    "en": {
+      "text": "It hasn't stopped raining yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Дождь шел весь день",
+      "audio": false
+    },
+    "en": {
+      "text": "It has been raining all day",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Дождь уже прекратился",
+      "audio": false
+    },
+    "en": {
+      "text": "It has already stopped raining",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я не могу сказать, что я печатаю очень быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't say that I type very fast",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я могу сказать, что я печатаю очень быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "I can say that I type really fast",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я не могу сказать, что я читаю очень быстро",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't say that I read very fast",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Эти документы были отсканированы",
+      "audio": false
+    },
+    "en": {
+      "text": "These documents were scanned",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Эти документы не подписаны",
+      "audio": false
+    },
+    "en": {
+      "text": "These documents aren't signed",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Эти фотографии были напечатаны",
+      "audio": false
+    },
+    "en": {
+      "text": "These photos were printed",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Ты нарисовал настоящий шедевр",
+      "audio": false
+    },
+    "en": {
+      "text": "You drew a real masterpiece",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я покрасил стену в красный",
+      "audio": false
+    },
+    "en": {
+      "text": "I painted the wall red",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Ты нарисовал очень красивую картинку",
+      "audio": false
+    },
+    "en": {
+      "text": "You drew a very beautiful picture",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Я всегда был заинтересован в этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I have always been interested in it",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Он сказал, что заплатил за все",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had paid for everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Луна светила очень ярко",
+      "audio": false
+    },
+    "en": {
+      "text": "The moon was shining very brightly",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я много печатал в последнее время",
+      "audio": false
+    },
+    "en": {
+      "text": "I have been typing a lot lately",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я еще не установил эту программу",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't installed this program yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я еще не забронировал рейс",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't booked the flight yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Мои сверстники и я часто сравниваем наши результаты",
+      "audio": false
+    },
+    "en": {
+      "text": "My peers and I often compare our results",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Я был так удивлен, что не я мог поверить своим глазам",
+      "audio": false
+    },
+    "en": {
+      "text": "I was so surprised that I couldn't believe my eyes",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Я отправил ей текстовое сообщение",
+      "audio": false
+    },
+    "en": {
+      "text": "I sent her a text message",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Все включено",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything is included",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Это включено в счет",
+      "audio": false
+    },
+    "en": {
+      "text": "It is included in the bill",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Я вошел в здание",
+      "audio": false
+    },
+    "en": {
+      "text": "I entered the building",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Никто не был наказан",
+      "audio": false
+    },
+    "en": {
+      "text": "No one was punished",
+      "audio": false
+    }
   }
 ]

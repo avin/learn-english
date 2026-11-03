@@ -1,462 +1,1014 @@
 [
   {
-    "_id": 1,
-    "ru": "Моя мама на четыре года младше, чем мой папа",
-    "en": "My mother is four years younger than my father"
-  },
-  {
-    "_id": 2,
-    "ru": "Этот метод более эффективный, чем тот",
-    "en": "This method is more effective than that one"
-  },
-  {
-    "_id": 3,
-    "ru": "Он так же богат, как и его брат",
-    "en": "He’s as rich as his brother"
-  },
-  {
-    "_id": 4,
-    "ru": "Она одна из самых знаменитых женщин в мире",
-    "en": "She's one of the most famous women in the world"
-  },
-  {
-    "_id": 5,
-    "ru": "Это одна из лучших книг, которую я когда-либо читал",
-    "en": "It is one of the best books I have ever read"
-  },
-  {
-    "_id": 6,
-    "ru": "Чем больше практики, тем лучше",
-    "en": "The more practice, the better"
-  },
-  {
-    "_id": 7,
-    "ru": "Моя сестра на три года младше, чем я",
-    "en": "My sister is three years younger than me"
-  },
-  {
-    "_id": 8,
-    "ru": "Этот автомобиль не так хорош, как тот",
-    "en": "This car isn't as good as that one"
-  },
-  {
-    "_id": 9,
-    "ru": "Я жду последних новостей",
-    "en": "I am waiting for the latest news"
-  },
-  {
-    "_id": 10,
-    "ru": "Это его последний шанс",
-    "en": "It's his last chance"
-  },
-  {
-    "_id": 11,
-    "ru": "Это одна из самых сложных вещей для понимания",
-    "en": "It's one of the most difficult things for understanding"
-  },
-  {
-    "_id": 12,
-    "ru": "Этот учитель намного строже",
-    "en": "This teacher is much stricter"
-  },
-  {
-    "_id": 13,
-    "ru": "Он один из самых богатых людей в мире",
-    "en": "He's one of the richest people in the world"
-  },
-  {
-    "_id": 14,
-    "ru": "Это одна из самых важных вещей",
-    "en": "It is one of the most important things"
-  },
-  {
-    "_id": 15,
-    "ru": "Это мой лучший результат",
-    "en": "It is my best result"
-  },
-  {
-    "_id": 16,
-    "ru": "Он старший брат",
-    "en": "He is the eldest brother"
-  },
-  {
-    "_id": 17,
-    "ru": "Этот фильм гораздо интереснее, чем тот",
-    "en": "This movie is much more interesting than that one"
-  },
-  {
-    "_id": 18,
-    "ru": "Это самая популярная песня в мире",
-    "en": "It is the most popular song in the world"
-  },
-  {
-    "_id": 19,
-    "ru": "Это более дорогой отель",
-    "en": "It is a more expensive hotel"
-  },
-  {
-    "_id": 20,
-    "ru": "Это один из крупнейших штатов в Америке",
-    "en": "It is one of the biggest states in America"
-  },
-  {
-    "_id": 21,
-    "ru": "Он один из лучших студентов в нашей группе",
-    "en": "He is one of the best students in our group"
-  },
-  {
-    "_id": 22,
-    "ru": "Английский намного проще ,чем китайский",
-    "en": "English is much easier than Chinese"
-  },
-  {
-    "_id": 23,
-    "ru": "Это более хороший отель",
-    "en": "It's a better hotel"
-  },
-  {
-    "_id": 24,
-    "ru": "Какая самая длинная река в мире?",
-    "en": "What is the longest river in the world?"
-  },
-  {
-    "_id": 25,
-    "ru": "Это длинная река",
-    "en": "It's a long river"
-  },
-  {
-    "_id": 26,
-    "ru": "Сегодня намного жарче",
-    "en": "It's much hotter today"
-  },
-  {
-    "_id": 27,
-    "ru": "Он более строгий учитель",
-    "en": "He is a stricter teacher"
-  },
-  {
-    "_id": 28,
-    "ru": "Это более дешевая вещь",
-    "en": "It is a cheaper thing"
-  },
-  {
-    "_id": 29,
-    "ru": "Она моя старшая сестра",
-    "en": "She is my eldest sister"
-  },
-  {
-    "_id": 30,
-    "ru": "Это один из крупнейших городов Англии",
-    "en": "It is one of the biggest cities in England"
-  },
-  {
-    "_id": 31,
-    "ru": "Это гораздо лучший отель",
-    "en": "It is a much better hotel"
-  },
-  {
-    "_id": 32,
-    "ru": "Это намного более дешевая вещь",
-    "en": "It is a much cheaper thing"
-  },
-  {
-    "_id": 33,
-    "ru": "Ее результат лучше, чем мой",
-    "en": "Her result is better than mine"
-  },
-  {
-    "_id": 34,
-    "ru": "Наш дом больше, чем тот дом",
-    "en": "Our house is bigger than that house"
-  },
-  {
-    "_id": 35,
-    "ru": "Сегодня холоднее, чем вчера",
-    "en": "It is colder today than yesterday"
-  },
-  {
-    "_id": 36,
-    "ru": "Какая самая высокая гора в мире?",
-    "en": "What is the highest mountain in the world?"
-  },
-  {
-    "_id": 37,
-    "ru": "Это одна из самых длинных рек в мире",
-    "en": "It is one of the longest rivers in the world"
-  },
-  {
-    "_id": 38,
-    "ru": "Она намного строже учитель",
-    "en": "She is a much stricter teacher"
-  },
-  {
-    "_id": 39,
-    "ru": "Это худший сценарий",
-    "en": "It is the worst scenario"
-  },
-  {
-    "_id": 40,
-    "ru": "Это лучший результат",
-    "en": "It is the best result"
-  },
-  {
-    "_id": 41,
-    "ru": "Я жду дальнейших инструкций",
-    "en": "I'm waiting for further instructions"
-  },
-  {
-    "_id": 42,
-    "ru": "Это более красивое место",
-    "en": "It's a more beautiful place"
-  },
-  {
-    "_id": 43,
-    "ru": "Земля намного больше, чем луна",
-    "en": "The Earth is much bigger than the moon"
-  },
-  {
-    "_id": 44,
-    "ru": "Его результат хуже твоего",
-    "en": "His result is worse than yours"
-  },
-  {
-    "_id": 45,
-    "ru": "Его оценка хуже моей",
-    "en": "His grade is worse than mine"
-  },
-  {
-    "_id": 46,
-    "ru": "Это может произойти в ближайшее время",
-    "en": "It can happen in the near future"
-  },
-  {
-    "_id": 47,
-    "ru": "Чем больше примеров, тем лучше",
-    "en": "The more examples, the better"
-  },
-  {
-    "_id": 48,
-    "ru": "Этот отель не так хорош, как тот",
-    "en": "This hotel isn't as good as that one"
-  },
-  {
-    "_id": 49,
-    "ru": "Это одна из самых богатых компаний в мире",
-    "en": "It is one of the richest companies in the world"
-  },
-  {
-    "_id": 50,
-    "ru": "Чем больше мы читаем, тем больше мы знаем",
-    "en": "The more we read, the more we know"
-  },
-  {
-    "_id": 51,
-    "ru": "Это одно из самых выдающихся достижений",
-    "en": "It is one of the most outstanding achievements"
-  },
-  {
-    "_id": 52,
-    "ru": "Этот дом не такой большой, как наш",
-    "en": "This house isn't as big as ours"
-  },
-  {
-    "_id": 53,
-    "ru": "Чем больше я учусь, тем больше я понимаю",
-    "en": "The more I study, the more I understand"
-  },
-  {
-    "_id": 54,
-    "ru": "Это самый скучный фильм, который я когда-либо видел",
-    "en": "It is the most boring movie I've ever seen"
-  },
-  {
-    "_id": 55,
-    "ru": "Она того же возраста, что и он",
-    "en": "She is the same age as him"
-  },
-  {
-    "_id": 56,
-    "ru": "Она того же возраста, что и я",
-    "en": "She is as old as me"
-  },
-  {
-    "_id": 57,
-    "ru": "Она старше меня",
-    "en": "She is older than me"
-  },
-  {
-    "_id": 58,
-    "ru": "Она моя старшая сестра",
-    "en": "She is my elder sister"
-  },
-  {
-    "_id": 59,
-    "ru": "Чем больше практики, тем лучше",
-    "en": "The more practice, the better"
-  },
-  {
-    "_id": 60,
-    "ru": "Чем больше, тем лучше",
-    "en": "The more, the better"
-  },
-  {
-    "_id": 61,
-    "ru": "Чем меньше, тем хуже",
-    "en": "The less, the worse"
-  },
-  {
-    "_id": 62,
-    "ru": "Я думаю, это произойдет в ближайшем будущем",
-    "en": "I think it will happen in the near future"
-  },
-  {
-    "_id": 63,
-    "ru": "Я надеюсь, это произойдет на следующей неделе",
-    "en": "I hope it will happen next week"
-  },
-  {
-    "_id": 64,
-    "ru": "Это может произойти в ближайшем будущем",
-    "en": "It might happen in the near future"
-  },
-  {
-    "_id": 65,
-    "ru": "Зимой дни не такие длинные, как летом",
-    "en": "The days in winter are not as long as the days in summer"
-  },
-  {
-    "_id": 66,
-    "ru": "Зимой дни не такие теплые, как летом",
-    "en": "The days in winter are not as warm as the days in summer"
-  },
-  {
-    "_id": 67,
-    "ru": "Зимой дни не такие длинные, как весной",
-    "en": "The days in winter are not as long as the days in spring"
-  },
-  {
-    "_id": 68,
-    "ru": "Этот тест более сложный, чем предыдущий",
-    "en": "This test is more difficult than the previous one"
-  },
-  {
-    "_id": 69,
-    "ru": "Этот тест намного проще, чем тот",
-    "en": "This test is much easier than that one"
-  },
-  {
-    "_id": 70,
-    "ru": "Этот тест самый сложный",
-    "en": "This test is the most difficult"
-  },
-  {
-    "_id": 71,
-    "ru": "Тот курс не так хорош, как этот",
-    "en": "That course isn't as good as this one"
-  },
-  {
-    "_id": 72,
-    "ru": "Этот фильм не так хорош, как тот",
-    "en": "This movie isn't as good as that one"
-  },
-  {
-    "_id": 73,
-    "ru": "Этот курс так же хорош, как и тот",
-    "en": "This course is as good as that one"
-  },
-  {
-    "_id": 74,
-    "ru": "Это один из самых простых экзаменов",
-    "en": "It is one of the easiest exams"
-  },
-  {
-    "_id": 75,
-    "ru": "Это его самое выдающееся достижение",
-    "en": "It's his most outstanding achievement"
-  },
-  {
-    "_id": 76,
-    "ru": "Это его лучшее решение",
-    "en": "It's his best decision"
-  },
-  {
-    "_id": 77,
-    "ru": "Это самое красивое место",
-    "en": "It is the most beautiful place"
-  },
-  {
-    "_id": 78,
-    "ru": "Чем больше я практикуюсь, тем меньше ошибок делаю",
-    "en": "The more I practise, the fewer mistakes I make"
-  },
-  {
-    "_id": 79,
-    "ru": "Чем меньше я практикуюсь, тем больше ошибок делаю",
-    "en": "The less I practise, the more mistakes I make"
-  },
-  {
-    "_id": 80,
-    "ru": "Тот метод не так эффективен, как этот",
-    "en": "That method isn't as effective as this one"
-  },
-  {
-    "_id": 81,
-    "ru": "Это самое красивое место, которое я когда-либо видел",
-    "en": "It is the most beautiful place I have ever seen"
-  },
-  {
-    "_id": 82,
-    "ru": "Чем дороже отель, тем лучше сервис",
-    "en": "The more expensive the hotel, the better the service"
-  },
-  {
-    "_id": 83,
-    "ru": "Чем больше мы тренируемся, тем мы сильнее",
-    "en": "The more we train, the stronger we are"
-  },
-  {
-    "_id": 84,
-    "ru": "Я думаю, что весна - самое прекрасное время года",
-    "en": "I think spring is the most beautiful season of the year"
-  },
-  {
-    "_id": 85,
-    "ru": "Чем больше у нас практики, тем лучше для нас",
-    "en": "The more practice we have, the better it is for us"
-  },
-  {
-    "_id": 86,
-    "ru": "Это самый полезный ресурс, который я когда-либо встречал",
-    "en": "It is the most useful resource I have ever met"
-  },
-  {
-    "_id": 87,
-    "ru": "Это один из самых красивых городов мира",
-    "en": "It is one of the most beautiful cities in the world"
-  },
-  {
-    "_id": 88,
-    "ru": "Этот тест намного проще, чем предыдущий",
-    "en": "This test is much easier than the previous one"
-  },
-  {
-    "_id": 89,
-    "ru": "Чем больше я тренируюсь, тем лучше это для меня",
-    "en": "The more I train, the better it is for me"
-  },
-  {
-    "_id": 90,
-    "ru": "Он того же возраста, что и мой брат",
-    "en": "He is as old as my brother"
-  },
-  {
-    "_id": 91,
-    "ru": "Он того же возраста, что и я",
-    "en": "He is the same age as me"
-  },
-  {
-    "_id": 92,
-    "ru": "Чем больше тренировок, тем лучше",
-    "en": "The more trainings, the better"
+    "id": 1,
+    "ru": {
+      "text": "Моя мама на четыре года младше, чем мой папа",
+      "audio": false
+    },
+    "en": {
+      "text": "My mother is four years younger than my father",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Этот метод более эффективный, чем тот",
+      "audio": false
+    },
+    "en": {
+      "text": "This method is more effective than that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Он так же богат, как и его брат",
+      "audio": false
+    },
+    "en": {
+      "text": "He’s as rich as his brother",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Она одна из самых знаменитых женщин в мире",
+      "audio": false
+    },
+    "en": {
+      "text": "She's one of the most famous women in the world",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Это одна из лучших книг, которую я когда-либо читал",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the best books I have ever read",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Чем больше практики, тем лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "The more practice, the better",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Моя сестра на три года младше, чем я",
+      "audio": false
+    },
+    "en": {
+      "text": "My sister is three years younger than me",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Этот автомобиль не так хорош, как тот",
+      "audio": false
+    },
+    "en": {
+      "text": "This car isn't as good as that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я жду последних новостей",
+      "audio": false
+    },
+    "en": {
+      "text": "I am waiting for the latest news",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Это его последний шанс",
+      "audio": false
+    },
+    "en": {
+      "text": "It's his last chance",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Это одна из самых сложных вещей для понимания",
+      "audio": false
+    },
+    "en": {
+      "text": "It's one of the most difficult things for understanding",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Этот учитель намного строже",
+      "audio": false
+    },
+    "en": {
+      "text": "This teacher is much stricter",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он один из самых богатых людей в мире",
+      "audio": false
+    },
+    "en": {
+      "text": "He's one of the richest people in the world",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Это одна из самых важных вещей",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the most important things",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Это мой лучший результат",
+      "audio": false
+    },
+    "en": {
+      "text": "It is my best result",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Он старший брат",
+      "audio": false
+    },
+    "en": {
+      "text": "He is the eldest brother",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Этот фильм гораздо интереснее, чем тот",
+      "audio": false
+    },
+    "en": {
+      "text": "This movie is much more interesting than that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Это самая популярная песня в мире",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the most popular song in the world",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Это более дорогой отель",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a more expensive hotel",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Это один из крупнейших штатов в Америке",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the biggest states in America",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Он один из лучших студентов в нашей группе",
+      "audio": false
+    },
+    "en": {
+      "text": "He is one of the best students in our group",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Английский намного проще ,чем китайский",
+      "audio": false
+    },
+    "en": {
+      "text": "English is much easier than Chinese",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Это более хороший отель",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a better hotel",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Какая самая длинная река в мире?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is the longest river in the world?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Это длинная река",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a long river",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Сегодня намного жарче",
+      "audio": false
+    },
+    "en": {
+      "text": "It's much hotter today",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Он более строгий учитель",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a stricter teacher",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Это более дешевая вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a cheaper thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Она моя старшая сестра",
+      "audio": false
+    },
+    "en": {
+      "text": "She is my eldest sister",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Это один из крупнейших городов Англии",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the biggest cities in England",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Это гораздо лучший отель",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a much better hotel",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Это намного более дешевая вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a much cheaper thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Ее результат лучше, чем мой",
+      "audio": false
+    },
+    "en": {
+      "text": "Her result is better than mine",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Наш дом больше, чем тот дом",
+      "audio": false
+    },
+    "en": {
+      "text": "Our house is bigger than that house",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Сегодня холоднее, чем вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "It is colder today than yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Какая самая высокая гора в мире?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is the highest mountain in the world?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Это одна из самых длинных рек в мире",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the longest rivers in the world",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Она намного строже учитель",
+      "audio": false
+    },
+    "en": {
+      "text": "She is a much stricter teacher",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Это худший сценарий",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the worst scenario",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Это лучший результат",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the best result",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Я жду дальнейших инструкций",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm waiting for further instructions",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Это более красивое место",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a more beautiful place",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Земля намного больше, чем луна",
+      "audio": false
+    },
+    "en": {
+      "text": "The Earth is much bigger than the moon",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Его результат хуже твоего",
+      "audio": false
+    },
+    "en": {
+      "text": "His result is worse than yours",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Его оценка хуже моей",
+      "audio": false
+    },
+    "en": {
+      "text": "His grade is worse than mine",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Это может произойти в ближайшее время",
+      "audio": false
+    },
+    "en": {
+      "text": "It can happen in the near future",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Чем больше примеров, тем лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "The more examples, the better",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Этот отель не так хорош, как тот",
+      "audio": false
+    },
+    "en": {
+      "text": "This hotel isn't as good as that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Это одна из самых богатых компаний в мире",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the richest companies in the world",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Чем больше мы читаем, тем больше мы знаем",
+      "audio": false
+    },
+    "en": {
+      "text": "The more we read, the more we know",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Это одно из самых выдающихся достижений",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the most outstanding achievements",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Этот дом не такой большой, как наш",
+      "audio": false
+    },
+    "en": {
+      "text": "This house isn't as big as ours",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Чем больше я учусь, тем больше я понимаю",
+      "audio": false
+    },
+    "en": {
+      "text": "The more I study, the more I understand",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Это самый скучный фильм, который я когда-либо видел",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the most boring movie I've ever seen",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Она того же возраста, что и он",
+      "audio": false
+    },
+    "en": {
+      "text": "She is the same age as him",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Она того же возраста, что и я",
+      "audio": false
+    },
+    "en": {
+      "text": "She is as old as me",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Она старше меня",
+      "audio": false
+    },
+    "en": {
+      "text": "She is older than me",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Она моя старшая сестра",
+      "audio": false
+    },
+    "en": {
+      "text": "She is my elder sister",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Чем больше практики, тем лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "The more practice, the better",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Чем больше, тем лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "The more, the better",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Чем меньше, тем хуже",
+      "audio": false
+    },
+    "en": {
+      "text": "The less, the worse",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Я думаю, это произойдет в ближайшем будущем",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it will happen in the near future",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я надеюсь, это произойдет на следующей неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope it will happen next week",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Это может произойти в ближайшем будущем",
+      "audio": false
+    },
+    "en": {
+      "text": "It might happen in the near future",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Зимой дни не такие длинные, как летом",
+      "audio": false
+    },
+    "en": {
+      "text": "The days in winter are not as long as the days in summer",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Зимой дни не такие теплые, как летом",
+      "audio": false
+    },
+    "en": {
+      "text": "The days in winter are not as warm as the days in summer",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Зимой дни не такие длинные, как весной",
+      "audio": false
+    },
+    "en": {
+      "text": "The days in winter are not as long as the days in spring",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Этот тест более сложный, чем предыдущий",
+      "audio": false
+    },
+    "en": {
+      "text": "This test is more difficult than the previous one",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Этот тест намного проще, чем тот",
+      "audio": false
+    },
+    "en": {
+      "text": "This test is much easier than that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Этот тест самый сложный",
+      "audio": false
+    },
+    "en": {
+      "text": "This test is the most difficult",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Тот курс не так хорош, как этот",
+      "audio": false
+    },
+    "en": {
+      "text": "That course isn't as good as this one",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Этот фильм не так хорош, как тот",
+      "audio": false
+    },
+    "en": {
+      "text": "This movie isn't as good as that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Этот курс так же хорош, как и тот",
+      "audio": false
+    },
+    "en": {
+      "text": "This course is as good as that one",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Это один из самых простых экзаменов",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the easiest exams",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Это его самое выдающееся достижение",
+      "audio": false
+    },
+    "en": {
+      "text": "It's his most outstanding achievement",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Это его лучшее решение",
+      "audio": false
+    },
+    "en": {
+      "text": "It's his best decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Это самое красивое место",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the most beautiful place",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Чем больше я практикуюсь, тем меньше ошибок делаю",
+      "audio": false
+    },
+    "en": {
+      "text": "The more I practise, the fewer mistakes I make",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Чем меньше я практикуюсь, тем больше ошибок делаю",
+      "audio": false
+    },
+    "en": {
+      "text": "The less I practise, the more mistakes I make",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Тот метод не так эффективен, как этот",
+      "audio": false
+    },
+    "en": {
+      "text": "That method isn't as effective as this one",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Это самое красивое место, которое я когда-либо видел",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the most beautiful place I have ever seen",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Чем дороже отель, тем лучше сервис",
+      "audio": false
+    },
+    "en": {
+      "text": "The more expensive the hotel, the better the service",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Чем больше мы тренируемся, тем мы сильнее",
+      "audio": false
+    },
+    "en": {
+      "text": "The more we train, the stronger we are",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я думаю, что весна - самое прекрасное время года",
+      "audio": false
+    },
+    "en": {
+      "text": "I think spring is the most beautiful season of the year",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Чем больше у нас практики, тем лучше для нас",
+      "audio": false
+    },
+    "en": {
+      "text": "The more practice we have, the better it is for us",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Это самый полезный ресурс, который я когда-либо встречал",
+      "audio": false
+    },
+    "en": {
+      "text": "It is the most useful resource I have ever met",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Это один из самых красивых городов мира",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the most beautiful cities in the world",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Этот тест намного проще, чем предыдущий",
+      "audio": false
+    },
+    "en": {
+      "text": "This test is much easier than the previous one",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Чем больше я тренируюсь, тем лучше это для меня",
+      "audio": false
+    },
+    "en": {
+      "text": "The more I train, the better it is for me",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Он того же возраста, что и мой брат",
+      "audio": false
+    },
+    "en": {
+      "text": "He is as old as my brother",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Он того же возраста, что и я",
+      "audio": false
+    },
+    "en": {
+      "text": "He is the same age as me",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Чем больше тренировок, тем лучше",
+      "audio": false
+    },
+    "en": {
+      "text": "The more trainings, the better",
+      "audio": false
+    }
   }
 ]

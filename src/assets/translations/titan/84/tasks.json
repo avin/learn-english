@@ -1,512 +1,1124 @@
 [
   {
-    "_id": 1,
-    "ru": "Почему ты выбрал эту профессию?",
-    "en": "Why did you choose this profession?"
-  },
-  {
-    "_id": 2,
-    "ru": "Где он остановился?",
-    "en": "Where did he stay?"
-  },
-  {
-    "_id": 3,
-    "ru": "Где он был?",
-    "en": "Where was he?"
-  },
-  {
-    "_id": 4,
-    "ru": "Почему ты был дома вчера?",
-    "en": "Why were you at home yesterday?"
-  },
-  {
-    "_id": 5,
-    "ru": "Когда ты родился?",
-    "en": "When were you born?"
-  },
-  {
-    "_id": 6,
-    "ru": "Как ты обычно отдыхал летом?",
-    "en": "How did you usually have a rest in summer?"
-  },
-  {
-    "_id": 7,
-    "ru": "Кому ты звонил?",
-    "en": "Who did you call?"
-  },
-  {
-    "_id": 8,
-    "ru": "Как прошел твой отпуск?",
-    "en": "How was your vacation?"
-  },
-  {
-    "_id": 9,
-    "ru": "Насколько интересным был урок?",
-    "en": "How interesting was the lesson?"
-  },
-  {
-    "_id": 10,
-    "ru": "Насколько эффективным был курс?",
-    "en": "How effective was the course?"
-  },
-  {
-    "_id": 11,
-    "ru": "Насколько это было дорого?",
-    "en": "How expensive was it?"
-  },
-  {
-    "_id": 12,
-    "ru": "Когда был твой день рождения?",
-    "en": "When was your birthday?"
-  },
-  {
-    "_id": 13,
-    "ru": "Ты путешествовал на самолете?",
-    "en": "Did you travel by plane?"
-  },
-  {
-    "_id": 14,
-    "ru": "Почему ты выбрал эту профессию?",
-    "en": "Why did you choose this profession?"
-  },
-  {
-    "_id": 15,
-    "ru": "Почему ты установил эту программу?",
-    "en": "Why did you install this program?"
-  },
-  {
-    "_id": 16,
-    "ru": "Что он делал на прошлых выходных?",
-    "en": "What did he do last weekend?"
-  },
-  {
-    "_id": 17,
-    "ru": "Ты путешествовал на поезде?",
-    "en": "Did you travel by train?"
-  },
-  {
-    "_id": 18,
-    "ru": "Они также проинформировали тебя?",
-    "en": "Did they also inform you?"
-  },
-  {
-    "_id": 19,
-    "ru": "Где ты родился?",
-    "en": "Where were you born?"
-  },
-  {
-    "_id": 20,
-    "ru": "Кто тебе это сказал?",
-    "en": "Who told you it?"
-  },
-  {
-    "_id": 21,
-    "ru": "Как был фильм?",
-    "en": "How was the movie?"
-  },
-  {
-    "_id": 22,
-    "ru": "Кто это сказал?",
-    "en": "Who said it?"
-  },
-  {
-    "_id": 23,
-    "ru": "Насколько это было дешево?",
-    "en": "How cheap was it?"
-  },
-  {
-    "_id": 24,
-    "ru": "Как это случилось с тобой?",
-    "en": "How did it happen to you?"
-  },
-  {
-    "_id": 25,
-    "ru": "Как прошел твой летний отпуск?",
-    "en": "How was your summer vacation?"
-  },
-  {
-    "_id": 26,
-    "ru": "Как долго длился один урок английского?",
-    "en": "How long did one English lesson last?"
-  },
-  {
-    "_id": 27,
-    "ru": "Как прошло интервью?",
-    "en": "How was the interview?"
-  },
-  {
-    "_id": 28,
-    "ru": "Где ты остановился?",
-    "en": "Where did you stay?"
-  },
-  {
-    "_id": 29,
-    "ru": "Как ты отпраздновал Новый год?",
-    "en": "How did you celebrate New Year?"
-  },
-  {
-    "_id": 30,
-    "ru": "Насколько глубоким было озеро?",
-    "en": "How deep was the lake?"
-  },
-  {
-    "_id": 31,
-    "ru": "Насколько хороша была эта рекомендация?",
-    "en": "How good was this recommendation?"
-  },
-  {
-    "_id": 32,
-    "ru": "Как прошла игра?",
-    "en": "How was the game?"
-  },
-  {
-    "_id": 33,
-    "ru": "Ты закончил всю свою работу?",
-    "en": "Did you finish all your work?"
-  },
-  {
-    "_id": 34,
-    "ru": "Где была твоя сумка?",
-    "en": "Where was your bag?"
-  },
-  {
-    "_id": 35,
-    "ru": "Как ты обычно отдыхал после работы?",
-    "en": "How did you usually relax after work?"
-  },
-  {
-    "_id": 36,
-    "ru": "Что ты делал в прошлое воскресенье?",
-    "en": "What did you do last Sunday?"
-  },
-  {
-    "_id": 37,
-    "ru": "Как долго ты оставался там?",
-    "en": "How long did you stay there?"
-  },
-  {
-    "_id": 38,
-    "ru": "Почему машина сломалась?",
-    "en": "Why did the car break down?"
-  },
-  {
-    "_id": 39,
-    "ru": "Кто звонил тебе?",
-    "en": "Who called [d] you?"
-  },
-  {
-    "_id": 40,
-    "ru": "Как прошла встреча?",
-    "en": "How was the meeting?"
-  },
-  {
-    "_id": 41,
-    "ru": "Почему компьютер сломался?",
-    "en": "Why did the computer break down?"
-  },
-  {
-    "_id": 42,
-    "ru": "Когда случилась эта авария?",
-    "en": "When did this accident happen?"
-  },
-  {
-    "_id": 43,
-    "ru": "Насколько он был заинтересован?",
-    "en": "How interested was he?"
-  },
-  {
-    "_id": 44,
-    "ru": "Кого они проинформировали?",
-    "en": "Who did they inform?"
-  },
-  {
-    "_id": 45,
-    "ru": "Почему ты перестал это делать?",
-    "en": "Why did you stop doing it?"
-  },
-  {
-    "_id": 46,
-    "ru": "Что тебе больше всего помогло?",
-    "en": "What helped you most of all?"
-  },
-  {
-    "_id": 47,
-    "ru": "Что ты решил купить?",
-    "en": "What did you decide to buy?"
-  },
-  {
-    "_id": 48,
-    "ru": "Как тебе удалось найти решение этой проблемы?",
-    "en": "How did you manage to find a solution to this problem?"
-  },
-  {
-    "_id": 49,
-    "ru": "Почему ты решил сделать это позже?",
-    "en": "Why did you decide to do it later?"
-  },
-  {
-    "_id": 50,
-    "ru": "Почему он сказал тебе не делать этого?",
-    "en": "Why did he tell you not to do it?"
-  },
-  {
-    "_id": 51,
-    "ru": "Почему еда так плохо пахла?",
-    "en": "Why did the food smell so bad?"
-  },
-  {
-    "_id": 52,
-    "ru": "Сколько предложений ты перевел?",
-    "en": "How many sentences did you translate?"
-  },
-  {
-    "_id": 53,
-    "ru": "Что она решила не покупать?",
-    "en": "What did she decide not to buy?"
-  },
-  {
-    "_id": 54,
-    "ru": "Какие упражнения ты сделал?",
-    "en": "What exercises did you do?"
-  },
-  {
-    "_id": 55,
-    "ru": "Насколько успешной была операция?",
-    "en": "How successful was the operation?"
-  },
-  {
-    "_id": 56,
-    "ru": "Какой отель ты выбрал?",
-    "en": "Which hotel did you choose?"
-  },
-  {
-    "_id": 57,
-    "ru": "Как они разрешили этот конфликт?",
-    "en": "How did they resolve this conflict?"
-  },
-  {
-    "_id": 58,
-    "ru": "Что исчезло?",
-    "en": "What disappeared?"
-  },
-  {
-    "_id": 59,
-    "ru": "Почему он предпочел не покупать это?",
-    "en": "Why did he prefer not to buy it?"
-  },
-  {
-    "_id": 60,
-    "ru": "Почему он решил не покупать это?",
-    "en": "Why did he decide not to buy it?"
-  },
-  {
-    "_id": 61,
-    "ru": "Почему ты предпочел не покупать эту вещь?",
-    "en": "Why did you prefer not to buy this thing?"
-  },
-  {
-    "_id": 62,
-    "ru": "Что действительно удивило тебя?",
-    "en": "What really surprised you?"
-  },
-  {
-    "_id": 63,
-    "ru": "Кто удивил тебя?",
-    "en": "Who surprised you?"
-  },
-  {
-    "_id": 64,
-    "ru": "Что удивило тебя так сильно?",
-    "en": "What surprised you so much?"
-  },
-  {
-    "_id": 65,
-    "ru": "Почему ты решил начать изучать английский здесь?",
-    "en": "Why did you decide to start learning English here?"
-  },
-  {
-    "_id": 66,
-    "ru": "Почему ты решил учиться здесь?",
-    "en": "Why did you decide to study here?"
-  },
-  {
-    "_id": 67,
-    "ru": "Как ты сумел это сделать?",
-    "en": "How did you manage to do it?"
-  },
-  {
-    "_id": 68,
-    "ru": "Как он это сделал?",
-    "en": "How did he do it?"
-  },
-  {
-    "_id": 69,
-    "ru": "Как ты предпочел это сделать?",
-    "en": "How did you prefer to do it?"
-  },
-  {
-    "_id": 70,
-    "ru": "Как он вошел в здание?",
-    "en": "How did he enter the building?"
-  },
-  {
-    "_id": 71,
-    "ru": "Когда он вошел в здание?",
-    "en": "When did he enter the building?"
-  },
-  {
-    "_id": 72,
-    "ru": "Как они вошли в здание?",
-    "en": "How did they enter the building?"
-  },
-  {
-    "_id": 73,
-    "ru": "Кого удивила эта новость?",
-    "en": "Who did this news surprise?"
-  },
-  {
-    "_id": 74,
-    "ru": "Кого больше всего удивила эта новость?",
-    "en": "Who did this news surprise most of all?"
-  },
-  {
-    "_id": 75,
-    "ru": "Кого удивила эта ситуация?",
-    "en": "Who did this situation surprise?"
-  },
-  {
-    "_id": 76,
-    "ru": "Как пахла еда?",
-    "en": "How did the food smell?"
-  },
-  {
-    "_id": 77,
-    "ru": "Как пахнет эта еда?",
-    "en": "How does this food smell?"
-  },
-  {
-    "_id": 78,
-    "ru": "Как пахли эти продукты?",
-    "en": "How did these products smell?"
-  },
-  {
-    "_id": 79,
-    "ru": "Как ты сумел решить эту проблему?",
-    "en": "How did you manage to solve this problem?"
-  },
-  {
-    "_id": 80,
-    "ru": "Как тебе удалось решить проблему?",
-    "en": "How did you manage to solve the problem?"
-  },
-  {
-    "_id": 81,
-    "ru": "Когда ему удалось решить эту проблему?",
-    "en": "When did he manage to solve this problem?"
-  },
-  {
-    "_id": 82,
-    "ru": "Сколько стоило платье?",
-    "en": "How much did the dress cost?"
-  },
-  {
-    "_id": 83,
-    "ru": "Сколько стоила эта одежда?",
-    "en": "How much did these clothes cost?"
-  },
-  {
-    "_id": 84,
-    "ru": "Сколько стоила эта вещь?",
-    "en": "How much did this thing cost?"
-  },
-  {
-    "_id": 85,
-    "ru": "Как ты бросил курить?",
-    "en": "How did you stop smoking?"
-  },
-  {
-    "_id": 86,
-    "ru": "Когда ты бросил курить?",
-    "en": "When did you stop smoking?"
-  },
-  {
-    "_id": 87,
-    "ru": "Когда ты прекратил это делать?",
-    "en": "When did you stop doing it?"
-  },
-  {
-    "_id": 88,
-    "ru": "Сколько времени ты потратил на это?",
-    "en": "How much time did you spend on it?"
-  },
-  {
-    "_id": 89,
-    "ru": "Что случилось с тобой?",
-    "en": "What happened to you?"
-  },
-  {
-    "_id": 90,
-    "ru": "Что ты предпочел сделать?",
-    "en": "What did you prefer to do?"
-  },
-  {
-    "_id": 91,
-    "ru": "Почему ты перестал читать эту книгу?",
-    "en": "Why did you stop reading this book?"
-  },
-  {
-    "_id": 92,
-    "ru": "Почему они исчезли?",
-    "en": "Why did they disappear?"
-  },
-  {
-    "_id": 93,
-    "ru": "Кого удивило это решение?",
-    "en": "Who did this decision surprise?"
-  },
-  {
-    "_id": 94,
-    "ru": "Почему ты начал изучать английский?",
-    "en": "Why did you start learning English?"
-  },
-  {
-    "_id": 95,
-    "ru": "Почему ты начал делать это?",
-    "en": "Why did you start doing it?"
-  },
-  {
-    "_id": 96,
-    "ru": "Как ты поступил в этот университет?",
-    "en": "How did you enter this university?"
-  },
-  {
-    "_id": 97,
-    "ru": "Почему ты предпочел не делать этого?",
-    "en": "Why did you prefer not to do it?"
-  },
-  {
-    "_id": 98,
-    "ru": "Когда ты вошел в комнату?",
-    "en": "When did you enter the room?"
-  },
-  {
-    "_id": 99,
-    "ru": "Кто исчез?",
-    "en": "Who disappeared?"
-  },
-  {
-    "_id": 100,
-    "ru": "Как долго длилась операция?",
-    "en": "How long was the operation?"
-  },
-  {
-    "_id": 101,
-    "ru": "Что удивило тебя больше всего?",
-    "en": "What surprised you most of all?"
-  },
-  {
-    "_id": 102,
-    "ru": "Сколько стоило платье?",
-    "en": "How much was the dress?"
+    "id": 1,
+    "ru": {
+      "text": "Почему ты выбрал эту профессию?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you choose this profession?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Где он остановился?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did he stay?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Где он был?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where was he?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Почему ты был дома вчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why were you at home yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Когда ты родился?",
+      "audio": false
+    },
+    "en": {
+      "text": "When were you born?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Как ты обычно отдыхал летом?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you usually have a rest in summer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Кому ты звонил?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who did you call?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Как прошел твой отпуск?",
+      "audio": false
+    },
+    "en": {
+      "text": "How was your vacation?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Насколько интересным был урок?",
+      "audio": false
+    },
+    "en": {
+      "text": "How interesting was the lesson?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Насколько эффективным был курс?",
+      "audio": false
+    },
+    "en": {
+      "text": "How effective was the course?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Насколько это было дорого?",
+      "audio": false
+    },
+    "en": {
+      "text": "How expensive was it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Когда был твой день рождения?",
+      "audio": false
+    },
+    "en": {
+      "text": "When was your birthday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Ты путешествовал на самолете?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you travel by plane?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Почему ты выбрал эту профессию?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you choose this profession?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Почему ты установил эту программу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you install this program?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Что он делал на прошлых выходных?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did he do last weekend?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Ты путешествовал на поезде?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you travel by train?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Они также проинформировали тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did they also inform you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Где ты родился?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where were you born?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Кто тебе это сказал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who told you it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Как был фильм?",
+      "audio": false
+    },
+    "en": {
+      "text": "How was the movie?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Кто это сказал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who said it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Насколько это было дешево?",
+      "audio": false
+    },
+    "en": {
+      "text": "How cheap was it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Как это случилось с тобой?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did it happen to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Как прошел твой летний отпуск?",
+      "audio": false
+    },
+    "en": {
+      "text": "How was your summer vacation?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Как долго длился один урок английского?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long did one English lesson last?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Как прошло интервью?",
+      "audio": false
+    },
+    "en": {
+      "text": "How was the interview?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Где ты остановился?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where did you stay?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Как ты отпраздновал Новый год?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you celebrate New Year?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Насколько глубоким было озеро?",
+      "audio": false
+    },
+    "en": {
+      "text": "How deep was the lake?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Насколько хороша была эта рекомендация?",
+      "audio": false
+    },
+    "en": {
+      "text": "How good was this recommendation?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Как прошла игра?",
+      "audio": false
+    },
+    "en": {
+      "text": "How was the game?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Ты закончил всю свою работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Did you finish all your work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Где была твоя сумка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where was your bag?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Как ты обычно отдыхал после работы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you usually relax after work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Что ты делал в прошлое воскресенье?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you do last Sunday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Как долго ты оставался там?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long did you stay there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Почему машина сломалась?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did the car break down?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Кто звонил тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who called [d] you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Как прошла встреча?",
+      "audio": false
+    },
+    "en": {
+      "text": "How was the meeting?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Почему компьютер сломался?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did the computer break down?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Когда случилась эта авария?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did this accident happen?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Насколько он был заинтересован?",
+      "audio": false
+    },
+    "en": {
+      "text": "How interested was he?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Кого они проинформировали?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who did they inform?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Почему ты перестал это делать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you stop doing it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Что тебе больше всего помогло?",
+      "audio": false
+    },
+    "en": {
+      "text": "What helped you most of all?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Что ты решил купить?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you decide to buy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Как тебе удалось найти решение этой проблемы?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you manage to find a solution to this problem?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Почему ты решил сделать это позже?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you decide to do it later?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Почему он сказал тебе не делать этого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did he tell you not to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Почему еда так плохо пахла?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did the food smell so bad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Сколько предложений ты перевел?",
+      "audio": false
+    },
+    "en": {
+      "text": "How many sentences did you translate?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Что она решила не покупать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did she decide not to buy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Какие упражнения ты сделал?",
+      "audio": false
+    },
+    "en": {
+      "text": "What exercises did you do?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Насколько успешной была операция?",
+      "audio": false
+    },
+    "en": {
+      "text": "How successful was the operation?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Какой отель ты выбрал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Which hotel did you choose?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Как они разрешили этот конфликт?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did they resolve this conflict?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Что исчезло?",
+      "audio": false
+    },
+    "en": {
+      "text": "What disappeared?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Почему он предпочел не покупать это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did he prefer not to buy it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Почему он решил не покупать это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did he decide not to buy it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Почему ты предпочел не покупать эту вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you prefer not to buy this thing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Что действительно удивило тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "What really surprised you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Кто удивил тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who surprised you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Что удивило тебя так сильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "What surprised you so much?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Почему ты решил начать изучать английский здесь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you decide to start learning English here?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Почему ты решил учиться здесь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you decide to study here?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Как ты сумел это сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you manage to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Как он это сделал?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did he do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Как ты предпочел это сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you prefer to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Как он вошел в здание?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did he enter the building?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Когда он вошел в здание?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did he enter the building?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Как они вошли в здание?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did they enter the building?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Кого удивила эта новость?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who did this news surprise?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Кого больше всего удивила эта новость?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who did this news surprise most of all?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Кого удивила эта ситуация?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who did this situation surprise?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Как пахла еда?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did the food smell?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Как пахнет эта еда?",
+      "audio": false
+    },
+    "en": {
+      "text": "How does this food smell?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Как пахли эти продукты?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did these products smell?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Как ты сумел решить эту проблему?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you manage to solve this problem?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Как тебе удалось решить проблему?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you manage to solve the problem?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Когда ему удалось решить эту проблему?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did he manage to solve this problem?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Сколько стоило платье?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much did the dress cost?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Сколько стоила эта одежда?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much did these clothes cost?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Сколько стоила эта вещь?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much did this thing cost?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Как ты бросил курить?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you stop smoking?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Когда ты бросил курить?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you stop smoking?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Когда ты прекратил это делать?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you stop doing it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Сколько времени ты потратил на это?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much time did you spend on it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Что случилось с тобой?",
+      "audio": false
+    },
+    "en": {
+      "text": "What happened to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Что ты предпочел сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What did you prefer to do?",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Почему ты перестал читать эту книгу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you stop reading this book?",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Почему они исчезли?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did they disappear?",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Кого удивило это решение?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who did this decision surprise?",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Почему ты начал изучать английский?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you start learning English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Почему ты начал делать это?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you start doing it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Как ты поступил в этот университет?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did you enter this university?",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Почему ты предпочел не делать этого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why did you prefer not to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Когда ты вошел в комнату?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did you enter the room?",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Кто исчез?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who disappeared?",
+      "audio": false
+    }
+  },
+  {
+    "id": 100,
+    "ru": {
+      "text": "Как долго длилась операция?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long was the operation?",
+      "audio": false
+    }
+  },
+  {
+    "id": 101,
+    "ru": {
+      "text": "Что удивило тебя больше всего?",
+      "audio": false
+    },
+    "en": {
+      "text": "What surprised you most of all?",
+      "audio": false
+    }
+  },
+  {
+    "id": 102,
+    "ru": {
+      "text": "Сколько стоило платье?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much was the dress?",
+      "audio": false
+    }
   }
 ]

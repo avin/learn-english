@@ -1,442 +1,970 @@
 [
   {
-    "_id": 1,
-    "ru": "Она сняла все деньги со своего счета",
-    "en": "She withdrew all the money from her account"
-  },
-  {
-    "_id": 2,
-    "ru": "Я начал изучать английский язык полгода назад",
-    "en": "I started learning English half a year ago"
-  },
-  {
-    "_id": 3,
-    "ru": "Я испытал много трудностей на своем пути",
-    "en": "I experienced many difficulties on my way"
-  },
-  {
-    "_id": 4,
-    "ru": "Я спрятал это в секретном месте",
-    "en": "I hid it in a secret place"
-  },
-  {
-    "_id": 5,
-    "ru": "Я думаю, он может изменить свое мнение",
-    "en": "I think he can change his mind"
-  },
-  {
-    "_id": 6,
-    "ru": "Это стимулирует экономический рост",
-    "en": "It stimulates economic growth"
-  },
-  {
-    "_id": 7,
-    "ru": "Ты поедешь со мной кататься на лыжах завтра?",
-    "en": "Will you go skiing with me tomorrow?"
-  },
-  {
-    "_id": 8,
-    "ru": "Они предложили мне работу",
-    "en": "They offered me a job"
-  },
-  {
-    "_id": 9,
-    "ru": "Какие вещи стимулировали тебя больше?",
-    "en": "What things stimulated you more?"
-  },
-  {
-    "_id": 10,
-    "ru": "Я не ожидал этого от него",
-    "en": "I didn't expect it from him"
-  },
-  {
-    "_id": 11,
-    "ru": "Кто изобрел интернет?",
-    "en": "Who invented the Internet?"
-  },
-  {
-    "_id": 12,
-    "ru": "Мне нужно снять немного денег со своего счета",
-    "en": "I need to withdraw some money from my account"
-  },
-  {
-    "_id": 13,
-    "ru": "Ее действительно это не заботит",
-    "en": "She doesn't really care about it"
-  },
-  {
-    "_id": 14,
-    "ru": "Весь день шел сильный дождь",
-    "en": "It was raining heavily all day"
-  },
-  {
-    "_id": 15,
-    "ru": "Толкни дверь!",
-    "en": "Push the door!"
-  },
-  {
-    "_id": 16,
-    "ru": "Он умер неожиданно",
-    "en": "He died unexpectedly"
-  },
-  {
-    "_id": 17,
-    "ru": "Он спрятался за дверью",
-    "en": "He hid behind the door"
-  },
-  {
-    "_id": 18,
-    "ru": "Она внезапно заплакала",
-    "en": "She cried all of a sudden"
-  },
-  {
-    "_id": 19,
-    "ru": "Когда он начал изучать английский язык?",
-    "en": "When did he start learning English?"
-  },
-  {
-    "_id": 20,
-    "ru": "К счастью, он не был убит",
-    "en": "Luckily, he wasn't killed"
-  },
-  {
-    "_id": 21,
-    "ru": "Тебе нравится играть в теннис?",
-    "en": "Do you like playing tennis?"
-  },
-  {
-    "_id": 22,
-    "ru": "Это описано в этой книге",
-    "en": "It is described in this book"
-  },
-  {
-    "_id": 23,
-    "ru": "Он основал эту компанию пять лет назад",
-    "en": "He founded this company five years ago"
-  },
-  {
-    "_id": 24,
-    "ru": "Как ты предпочитаешь расслабляться?",
-    "en": "How do you prefer to relax?"
-  },
-  {
-    "_id": 25,
-    "ru": "Давай поиграем вместе!",
-    "en": "Let's play together!"
-  },
-  {
-    "_id": 26,
-    "ru": "Я участвую в этом чемпионате сейчас",
-    "en": "I am participating in this championship now"
-  },
-  {
-    "_id": 27,
-    "ru": "Мы повернули назад",
-    "en": "We turned back"
-  },
-  {
-    "_id": 28,
-    "ru": "Он предложил ей поддержку и защиту",
-    "en": "He offered her support and protection"
-  },
-  {
-    "_id": 29,
-    "ru": "Они атаковали врага",
-    "en": "They attacked the enemy"
-  },
-  {
-    "_id": 30,
-    "ru": "Он изменил свое решение в конце",
-    "en": "He changed his decision in the end"
-  },
-  {
-    "_id": 31,
-    "ru": "Город был основан много веков назад",
-    "en": "The city was founded many centuries ago"
-  },
-  {
-    "_id": 32,
-    "ru": "Ты любишь кататься на лыжах?",
-    "en": "Do you like skiing?"
-  },
-  {
-    "_id": 33,
-    "ru": "Я не буду подписывать эти документы",
-    "en": "I won't sign these documents"
-  },
-  {
-    "_id": 34,
-    "ru": "Их внезапно атаковали",
-    "en": "They were attacked suddenly"
-  },
-  {
-    "_id": 35,
-    "ru": "Он имеет дело с поставщиками",
-    "en": "He deals with suppliers"
-  },
-  {
-    "_id": 36,
-    "ru": "Тебе не нужно беспокоиться об этом так сильно",
-    "en": "You don't need to worry about it so much"
-  },
-  {
-    "_id": 37,
-    "ru": "Она описала внешность этого мужчины",
-    "en": "She described this man's appearance"
-  },
-  {
-    "_id": 38,
-    "ru": "Ураган разрушил эти здания",
-    "en": "The hurricane destroyed these buildings"
-  },
-  {
-    "_id": 39,
-    "ru": "Все необходимые условия будут предоставлены тебе",
-    "en": "All the necessary conditions will be provided for you"
-  },
-  {
-    "_id": 40,
-    "ru": "Она сказала, что она уже закончила университет",
-    "en": "She said that she had already graduated from university"
-  },
-  {
-    "_id": 41,
-    "ru": "Пока она пела, все слушали ее",
-    "en": "While she was singing, everyone was listening to her"
-  },
-  {
-    "_id": 42,
-    "ru": "Мы видели, что она не могла перестать плакать",
-    "en": "We saw that she couldn't stop crying"
-  },
-  {
-    "_id": 43,
-    "ru": "Я уверен, что ему сразу понравится эта идея",
-    "en": "I am sure that he will like this idea at once"
-  },
-  {
-    "_id": 44,
-    "ru": "Я не думаю, что невозможно достичь этой цели",
-    "en": "I don't think that it is impossible to achieve this aim"
-  },
-  {
-    "_id": 45,
-    "ru": "Стены были окрашены вчера",
-    "en": "The walls were painted yesterday"
-  },
-  {
-    "_id": 46,
-    "ru": "Моя мечта - достичь этой цели",
-    "en": "My dream is to achieve this aim"
-  },
-  {
-    "_id": 47,
-    "ru": "Я уверен, что это платье тебе подойдет",
-    "en": "I'm sure that this dress will suit you"
-  },
-  {
-    "_id": 48,
-    "ru": "Я уверен, что эти ботинки тебе подойдут",
-    "en": "I'm sure that these shoes will suit you"
-  },
-  {
-    "_id": 49,
-    "ru": "Я думаю, что это платье действительно подходит тебе",
-    "en": "I think that this dress really suits you"
-  },
-  {
-    "_id": 50,
-    "ru": "Я никогда не испытывал такого чувства",
-    "en": "I have never experienced such a feeling"
-  },
-  {
-    "_id": 51,
-    "ru": "Я никогда так не уставал",
-    "en": "I have never felt so tired"
-  },
-  {
-    "_id": 52,
-    "ru": "Ты когда-нибудь испытывал такие чувства?",
-    "en": "Have you ever experienced such feelings?"
-  },
-  {
-    "_id": 53,
-    "ru": "Я думаю, что он не беспокоился об этом",
-    "en": "I think that he didn't care about it"
-  },
-  {
-    "_id": 54,
-    "ru": "Я думаю, что он не будет беспокоиться об этом",
-    "en": "I think that he won't care about it"
-  },
-  {
-    "_id": 55,
-    "ru": "Дождь идет с утра",
-    "en": "It has been raining since morning"
-  },
-  {
-    "_id": 56,
-    "ru": "Снег идет со вчерашнего дня",
-    "en": "It has been snowing since yesterday"
-  },
-  {
-    "_id": 57,
-    "ru": "Сейчас идет сильный дождь",
-    "en": "It is raining heavily now"
-  },
-  {
-    "_id": 58,
-    "ru": "Ты уже закончил университет?",
-    "en": "Have you already graduated from university?"
-  },
-  {
-    "_id": 59,
-    "ru": "Ты уже поступил в университет?",
-    "en": "Have you already entered university?"
-  },
-  {
-    "_id": 60,
-    "ru": "Ты уже закончил делать свое домашнее задание?",
-    "en": "Have you already finished doing your homework?"
-  },
-  {
-    "_id": 61,
-    "ru": "Он только что спел свою любимую песню",
-    "en": "He has just sung his favourite song"
-  },
-  {
-    "_id": 62,
-    "ru": "Он только что подписал этот контракт",
-    "en": "He has just signed this contract"
-  },
-  {
-    "_id": 63,
-    "ru": "Она ещё не сделала свое домашнее задание",
-    "en": "She hasn't done her homework yet"
-  },
-  {
-    "_id": 64,
-    "ru": "Я ожидаю, что это произойдет рано или поздно",
-    "en": "I expect that it will happen sooner or later"
-  },
-  {
-    "_id": 65,
-    "ru": "Я надеюсь, что это не произойдет в ближайшее время",
-    "en": "I hope that it won't happen soon"
-  },
-  {
-    "_id": 66,
-    "ru": "Мне кажется, что это не произойдет скоро",
-    "en": "It seems to me that it will not happen soon"
-  },
-  {
-    "_id": 67,
-    "ru": "Она сможет простить его?",
-    "en": "Will she be able to forgive him?"
-  },
-  {
-    "_id": 68,
-    "ru": "Я думаю, что я смогу простить его",
-    "en": "I think I will be able to forgive him"
-  },
-  {
-    "_id": 69,
-    "ru": "Она сможет это сделать?",
-    "en": "Will she be able to do it?"
-  },
-  {
-    "_id": 70,
-    "ru": "Я еще не закончил работу",
-    "en": "I haven't finished working yet"
-  },
-  {
-    "_id": 71,
-    "ru": "Я уже начал это делать",
-    "en": "I have already begun doing it"
-  },
-  {
-    "_id": 72,
-    "ru": "Ты уже закончил работать над этим проектом?",
-    "en": "Have you already finished working on this project?"
-  },
-  {
-    "_id": 73,
-    "ru": "Пока она отдыхала, он работал очень усердно",
-    "en": "While she was relaxing, he was working really hard"
-  },
-  {
-    "_id": 74,
-    "ru": "Пока она работала очень усердно, он отдыхал",
-    "en": "While she was working very hard, he was relaxing"
-  },
-  {
-    "_id": 75,
-    "ru": "Пока она спала, он убирал комнату",
-    "en": "While she was sleeping, he was cleaning the room"
-  },
-  {
-    "_id": 76,
-    "ru": "Я слушал ее очень внимательно",
-    "en": "I was listening to her very attentively"
-  },
-  {
-    "_id": 77,
-    "ru": "Он объяснил мне эту вещь очень четко",
-    "en": "He explained this thing to me very clearly"
-  },
-  {
-    "_id": 78,
-    "ru": "Ты еще не закончил свою работу?",
-    "en": "Haven't you finished your work yet?"
-  },
-  {
-    "_id": 79,
-    "ru": "Мы все знаем, что никто не хочет умирать",
-    "en": "We all know that no one wants to die"
-  },
-  {
-    "_id": 80,
-    "ru": "Мне никогда не нравился этот формат обучения",
-    "en": "I have never liked this format of education"
-  },
-  {
-    "_id": 81,
-    "ru": "Она сказала, что полностью его простила",
-    "en": "She said that she had forgiven him completely"
-  },
-  {
-    "_id": 82,
-    "ru": "Я не думаю, что этот свитер мне действительно подходит",
-    "en": "I don't think that this sweater really suits me"
-  },
-  {
-    "_id": 83,
-    "ru": "Когда забор будет окрашен?",
-    "en": "When will the fence be painted?"
-  },
-  {
-    "_id": 84,
-    "ru": "Если ты не поторопишься, ты опоздаешь",
-    "en": "If you don't hurry up, you will be late"
-  },
-  {
-    "_id": 85,
-    "ru": "Ты можешь объяснить это мне?",
-    "en": "Can you explain it to me?"
-  },
-  {
-    "_id": 86,
-    "ru": "Он сказал мне толкнуть дверь",
-    "en": "He told me to push the door"
-  },
-  {
-    "_id": 87,
-    "ru": "Хватит беспокоиться об этом!",
-    "en": "Stop worrying about it!"
-  },
-  {
-    "_id": 88,
-    "ru": "К счастью, никто не был убит",
-    "en": "Luckily, no one was killed"
+    "id": 1,
+    "ru": {
+      "text": "Она сняла все деньги со своего счета",
+      "audio": false
+    },
+    "en": {
+      "text": "She withdrew all the money from her account",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я начал изучать английский язык полгода назад",
+      "audio": false
+    },
+    "en": {
+      "text": "I started learning English half a year ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я испытал много трудностей на своем пути",
+      "audio": false
+    },
+    "en": {
+      "text": "I experienced many difficulties on my way",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я спрятал это в секретном месте",
+      "audio": false
+    },
+    "en": {
+      "text": "I hid it in a secret place",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Я думаю, он может изменить свое мнение",
+      "audio": false
+    },
+    "en": {
+      "text": "I think he can change his mind",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Это стимулирует экономический рост",
+      "audio": false
+    },
+    "en": {
+      "text": "It stimulates economic growth",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Ты поедешь со мной кататься на лыжах завтра?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will you go skiing with me tomorrow?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Они предложили мне работу",
+      "audio": false
+    },
+    "en": {
+      "text": "They offered me a job",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Какие вещи стимулировали тебя больше?",
+      "audio": false
+    },
+    "en": {
+      "text": "What things stimulated you more?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я не ожидал этого от него",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't expect it from him",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Кто изобрел интернет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who invented the Internet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Мне нужно снять немного денег со своего счета",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to withdraw some money from my account",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Ее действительно это не заботит",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't really care about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Весь день шел сильный дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "It was raining heavily all day",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Толкни дверь!",
+      "audio": false
+    },
+    "en": {
+      "text": "Push the door!",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Он умер неожиданно",
+      "audio": false
+    },
+    "en": {
+      "text": "He died unexpectedly",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Он спрятался за дверью",
+      "audio": false
+    },
+    "en": {
+      "text": "He hid behind the door",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Она внезапно заплакала",
+      "audio": false
+    },
+    "en": {
+      "text": "She cried all of a sudden",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Когда он начал изучать английский язык?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did he start learning English?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "К счастью, он не был убит",
+      "audio": false
+    },
+    "en": {
+      "text": "Luckily, he wasn't killed",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Тебе нравится играть в теннис?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like playing tennis?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это описано в этой книге",
+      "audio": false
+    },
+    "en": {
+      "text": "It is described in this book",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он основал эту компанию пять лет назад",
+      "audio": false
+    },
+    "en": {
+      "text": "He founded this company five years ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Как ты предпочитаешь расслабляться?",
+      "audio": false
+    },
+    "en": {
+      "text": "How do you prefer to relax?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Давай поиграем вместе!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let's play together!",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я участвую в этом чемпионате сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I am participating in this championship now",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Мы повернули назад",
+      "audio": false
+    },
+    "en": {
+      "text": "We turned back",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Он предложил ей поддержку и защиту",
+      "audio": false
+    },
+    "en": {
+      "text": "He offered her support and protection",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Они атаковали врага",
+      "audio": false
+    },
+    "en": {
+      "text": "They attacked the enemy",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Он изменил свое решение в конце",
+      "audio": false
+    },
+    "en": {
+      "text": "He changed his decision in the end",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Город был основан много веков назад",
+      "audio": false
+    },
+    "en": {
+      "text": "The city was founded many centuries ago",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Ты любишь кататься на лыжах?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like skiing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я не буду подписывать эти документы",
+      "audio": false
+    },
+    "en": {
+      "text": "I won't sign these documents",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Их внезапно атаковали",
+      "audio": false
+    },
+    "en": {
+      "text": "They were attacked suddenly",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Он имеет дело с поставщиками",
+      "audio": false
+    },
+    "en": {
+      "text": "He deals with suppliers",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Тебе не нужно беспокоиться об этом так сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "You don't need to worry about it so much",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Она описала внешность этого мужчины",
+      "audio": false
+    },
+    "en": {
+      "text": "She described this man's appearance",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Ураган разрушил эти здания",
+      "audio": false
+    },
+    "en": {
+      "text": "The hurricane destroyed these buildings",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Все необходимые условия будут предоставлены тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "All the necessary conditions will be provided for you",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Она сказала, что она уже закончила университет",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that she had already graduated from university",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Пока она пела, все слушали ее",
+      "audio": false
+    },
+    "en": {
+      "text": "While she was singing, everyone was listening to her",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Мы видели, что она не могла перестать плакать",
+      "audio": false
+    },
+    "en": {
+      "text": "We saw that she couldn't stop crying",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Я уверен, что ему сразу понравится эта идея",
+      "audio": false
+    },
+    "en": {
+      "text": "I am sure that he will like this idea at once",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я не думаю, что невозможно достичь этой цели",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that it is impossible to achieve this aim",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Стены были окрашены вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "The walls were painted yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Моя мечта - достичь этой цели",
+      "audio": false
+    },
+    "en": {
+      "text": "My dream is to achieve this aim",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я уверен, что это платье тебе подойдет",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure that this dress will suit you",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я уверен, что эти ботинки тебе подойдут",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm sure that these shoes will suit you",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я думаю, что это платье действительно подходит тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that this dress really suits you",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Я никогда не испытывал такого чувства",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never experienced such a feeling",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Я никогда так не уставал",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never felt so tired",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Ты когда-нибудь испытывал такие чувства?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever experienced such feelings?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Я думаю, что он не беспокоился об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that he didn't care about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я думаю, что он не будет беспокоиться об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that he won't care about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Дождь идет с утра",
+      "audio": false
+    },
+    "en": {
+      "text": "It has been raining since morning",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Снег идет со вчерашнего дня",
+      "audio": false
+    },
+    "en": {
+      "text": "It has been snowing since yesterday",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Сейчас идет сильный дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "It is raining heavily now",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Ты уже закончил университет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you already graduated from university?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Ты уже поступил в университет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you already entered university?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Ты уже закончил делать свое домашнее задание?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you already finished doing your homework?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Он только что спел свою любимую песню",
+      "audio": false
+    },
+    "en": {
+      "text": "He has just sung his favourite song",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Он только что подписал этот контракт",
+      "audio": false
+    },
+    "en": {
+      "text": "He has just signed this contract",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Она ещё не сделала свое домашнее задание",
+      "audio": false
+    },
+    "en": {
+      "text": "She hasn't done her homework yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я ожидаю, что это произойдет рано или поздно",
+      "audio": false
+    },
+    "en": {
+      "text": "I expect that it will happen sooner or later",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я надеюсь, что это не произойдет в ближайшее время",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope that it won't happen soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Мне кажется, что это не произойдет скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "It seems to me that it will not happen soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Она сможет простить его?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will she be able to forgive him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я думаю, что я смогу простить его",
+      "audio": false
+    },
+    "en": {
+      "text": "I think I will be able to forgive him",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Она сможет это сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will she be able to do it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я еще не закончил работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't finished working yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я уже начал это делать",
+      "audio": false
+    },
+    "en": {
+      "text": "I have already begun doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Ты уже закончил работать над этим проектом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you already finished working on this project?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Пока она отдыхала, он работал очень усердно",
+      "audio": false
+    },
+    "en": {
+      "text": "While she was relaxing, he was working really hard",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Пока она работала очень усердно, он отдыхал",
+      "audio": false
+    },
+    "en": {
+      "text": "While she was working very hard, he was relaxing",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Пока она спала, он убирал комнату",
+      "audio": false
+    },
+    "en": {
+      "text": "While she was sleeping, he was cleaning the room",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Я слушал ее очень внимательно",
+      "audio": false
+    },
+    "en": {
+      "text": "I was listening to her very attentively",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Он объяснил мне эту вещь очень четко",
+      "audio": false
+    },
+    "en": {
+      "text": "He explained this thing to me very clearly",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Ты еще не закончил свою работу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Haven't you finished your work yet?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Мы все знаем, что никто не хочет умирать",
+      "audio": false
+    },
+    "en": {
+      "text": "We all know that no one wants to die",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Мне никогда не нравился этот формат обучения",
+      "audio": false
+    },
+    "en": {
+      "text": "I have never liked this format of education",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Она сказала, что полностью его простила",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that she had forgiven him completely",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я не думаю, что этот свитер мне действительно подходит",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't think that this sweater really suits me",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Когда забор будет окрашен?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will the fence be painted?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Если ты не поторопишься, ты опоздаешь",
+      "audio": false
+    },
+    "en": {
+      "text": "If you don't hurry up, you will be late",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Ты можешь объяснить это мне?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you explain it to me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Он сказал мне толкнуть дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "He told me to push the door",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Хватит беспокоиться об этом!",
+      "audio": false
+    },
+    "en": {
+      "text": "Stop worrying about it!",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "К счастью, никто не был убит",
+      "audio": false
+    },
+    "en": {
+      "text": "Luckily, no one was killed",
+      "audio": false
+    }
   }
 ]

@@ -1,512 +1,1124 @@
 [
   {
-    "_id": 1,
-    "ru": "Она пообещала сохранить его секрет",
-    "en": "She promised to keep his secret"
-  },
-  {
-    "_id": 2,
-    "ru": "Он избегает встречать ее",
-    "en": "He avoids meeting her"
-  },
-  {
-    "_id": 3,
-    "ru": "Я хочу пойти в этот парк",
-    "en": "I want to go to this park"
-  },
-  {
-    "_id": 4,
-    "ru": "Я обожаю читать книги",
-    "en": "I enjoy reading books"
-  },
-  {
-    "_id": 5,
-    "ru": "Он обещал не делать этого",
-    "en": "He promised not to do it"
-  },
-  {
-    "_id": 6,
-    "ru": "Я не рекомендую покупать еду там",
-    "en": "I don't recommend buying food there"
-  },
-  {
-    "_id": 7,
-    "ru": "Что ты любишь делать в свое свободное время?",
-    "en": "What do you like doing in your spare time?"
-  },
-  {
-    "_id": 8,
-    "ru": "Я хочу пойти домой сейчас",
-    "en": "I want to go home now"
-  },
-  {
-    "_id": 9,
-    "ru": "Что ты предлагаешь делать?",
-    "en": "What do you suggest doing?"
-  },
-  {
-    "_id": 10,
-    "ru": "Я надеюсь сдать тест",
-    "en": "I hope to pass the test"
-  },
-  {
-    "_id": 11,
-    "ru": "Он попросил меня пойти с ним",
-    "en": "He asked me to come with him"
-  },
-  {
-    "_id": 12,
-    "ru": "Я не хотел бы говорить об этом",
-    "en": "I wouldn't like to talk about it"
-  },
-  {
-    "_id": 13,
-    "ru": "Я рекомендую прочитать эту книгу",
-    "en": "I recommend reading this book"
-  },
-  {
-    "_id": 14,
-    "ru": "Я решил не делать этого",
-    "en": "I decided not to do it"
-  },
-  {
-    "_id": 15,
-    "ru": "Я действительно обожаю заниматься спортом",
-    "en": "I really enjoy playing sports"
-  },
-  {
-    "_id": 16,
-    "ru": "Ты хотел бы жить за границей?",
-    "en": "Would you like to live abroad?"
-  },
-  {
-    "_id": 17,
-    "ru": "Я хотел бы сказать тебе одну вещь",
-    "en": "I would like to tell you one thing"
-  },
-  {
-    "_id": 18,
-    "ru": "Я предлагаю пойти туда сейчас",
-    "en": "I suggest going there now"
-  },
-  {
-    "_id": 19,
-    "ru": "Он надеется сдать этот тест",
-    "en": "He hopes to pass this test"
-  },
-  {
-    "_id": 20,
-    "ru": "Я рекомендую посмотреть это видео",
-    "en": "I recommend watching this video"
-  },
-  {
-    "_id": 21,
-    "ru": "Я действительно обожаю изучать иностранные языки",
-    "en": "I really enjoy learning foreign languages"
-  },
-  {
-    "_id": 22,
-    "ru": "Он хочет видеть врача",
-    "en": "He wants to see a doctor"
-  },
-  {
-    "_id": 23,
-    "ru": "Он рекомендовал подождать",
-    "en": "He recommended waiting"
-  },
-  {
-    "_id": 24,
-    "ru": "Она согласилась помочь нам",
-    "en": "She agreed to help us"
-  },
-  {
-    "_id": 25,
-    "ru": "Она действительно любит танцевать",
-    "en": "She really loves dancing"
-  },
-  {
-    "_id": 26,
-    "ru": "Я предлагаю подождать",
-    "en": "I suggest waiting"
-  },
-  {
-    "_id": 27,
-    "ru": "Я избегаю обсуждать такого рода вещи",
-    "en": "I avoid discussing this kind of things"
-  },
-  {
-    "_id": 28,
-    "ru": "Я люблю играть в настольный теннис",
-    "en": "I love playing table tennis"
-  },
-  {
-    "_id": 29,
-    "ru": "Он обещал сдержать свои слова",
-    "en": "He promised to keep his words"
-  },
-  {
-    "_id": 30,
-    "ru": "Она только что закончила готовить",
-    "en": "She has just finished cooking"
-  },
-  {
-    "_id": 31,
-    "ru": "Я закончил делать свое домашнее задание",
-    "en": "I finished doing my homework"
-  },
-  {
-    "_id": 32,
-    "ru": "Ему нравится бегать трусцой",
-    "en": "He likes jogging"
-  },
-  {
-    "_id": 33,
-    "ru": "Я предлагаю сходить посмотреть это",
-    "en": "I suggest going to see it"
-  },
-  {
-    "_id": 34,
-    "ru": "Он действительно обожает заниматься спортом",
-    "en": "He really enjoys doing sports"
-  },
-  {
-    "_id": 35,
-    "ru": "Я обожаю заниматься спортом",
-    "en": "I enjoy doing sports"
-  },
-  {
-    "_id": 36,
-    "ru": "Я действительно обожаю проводить время с тобой",
-    "en": "I really enjoy spending time with you"
-  },
-  {
-    "_id": 37,
-    "ru": "Мы еще не закончили это обсуждать",
-    "en": "We haven't finished discussing it yet"
-  },
-  {
-    "_id": 38,
-    "ru": "Ты хотел бы жить в другой стране?",
-    "en": "Would you like to live in another country?"
-  },
-  {
-    "_id": 39,
-    "ru": "Я начал думать об этом действительно серьезно",
-    "en": "I started thinking about it really seriously"
-  },
-  {
-    "_id": 40,
-    "ru": "Она обещала сохранить этот секрет",
-    "en": "She promised to keep this secret"
-  },
-  {
-    "_id": 41,
-    "ru": "Когда ты закончишь это делать?",
-    "en": "When will you finish doing it?"
-  },
-  {
-    "_id": 42,
-    "ru": "Он посоветовал мне не делать этого",
-    "en": "He advised me not to do it"
-  },
-  {
-    "_id": 43,
-    "ru": "Она еще не закончила говорить",
-    "en": "She hasn't finished speaking yet"
-  },
-  {
-    "_id": 44,
-    "ru": "Я хочу сказать следующее",
-    "en": "I want to say the following"
-  },
-  {
-    "_id": 45,
-    "ru": "Я не против пойти туда",
-    "en": "I don't mind going there"
-  },
-  {
-    "_id": 46,
-    "ru": "Ты хочешь пойти в ресторан сегодня вечером?",
-    "en": "Do you fancy going to the restaurant tonight?"
-  },
-  {
-    "_id": 47,
-    "ru": "Я избегаю рассказывать другим людям о моих планах",
-    "en": "I avoid telling other people about my plans"
-  },
-  {
-    "_id": 48,
-    "ru": "Он избегает говорить об этом",
-    "en": "He avoids talking about it"
-  },
-  {
-    "_id": 49,
-    "ru": "Я не могу не восхищаться красотой этого места",
-    "en": "I can't help admiring the beauty of this place"
-  },
-  {
-    "_id": 50,
-    "ru": "Она не может не восхищаться таким человеком",
-    "en": "She can't help admiring such a person"
-  },
-  {
-    "_id": 51,
-    "ru": "Ты когда-нибудь рассматривал жизнь за границей?",
-    "en": "Have you ever considered living abroad?"
-  },
-  {
-    "_id": 52,
-    "ru": "Он не против ждать этого",
-    "en": "He doesn't mind waiting for it"
-  },
-  {
-    "_id": 53,
-    "ru": "Они отложили обсуждение этих событий",
-    "en": "They postponed discussing these events"
-  },
-  {
-    "_id": 54,
-    "ru": "Ты хочешь выпить чашку кофе?",
-    "en": "Do you fancy drinking a cup of coffee?"
-  },
-  {
-    "_id": 55,
-    "ru": "Она избегает говорить с ним",
-    "en": "She avoids talking to him"
-  },
-  {
-    "_id": 56,
-    "ru": "Определенно, я рекомендую посмотреть этот фильм",
-    "en": "Definitely, I recommend watching this movie"
-  },
-  {
-    "_id": 57,
-    "ru": "Мне нравится гулять в парке, дыша свежим воздухом",
-    "en": "I like walking in the park breathing fresh air"
-  },
-  {
-    "_id": 58,
-    "ru": "Я настоятельно рекомендую посетить это место",
-    "en": "I strongly recommend visiting this place"
-  },
-  {
-    "_id": 59,
-    "ru": "Ты знаешь, я действительно люблю это делать",
-    "en": "You know, I really enjoy doing it"
-  },
-  {
-    "_id": 60,
-    "ru": "Ты знаешь, мне действительно нравится плавать",
-    "en": "You know, I really enjoy swimming"
-  },
-  {
-    "_id": 61,
-    "ru": "Ты знаешь, ему действительно нравится петь",
-    "en": "You know, he really enjoys singing"
-  },
-  {
-    "_id": 62,
-    "ru": "Он рассматривает обучение за границей",
-    "en": "He considers studying abroad"
-  },
-  {
-    "_id": 63,
-    "ru": "Он рассматривает переезд за границу",
-    "en": "He considers moving abroad"
-  },
-  {
-    "_id": 64,
-    "ru": "Он рассматривал обучение там",
-    "en": "He considered studying there"
-  },
-  {
-    "_id": 65,
-    "ru": "Начался снег",
-    "en": "It started snowing"
-  },
-  {
-    "_id": 66,
-    "ru": "Начался дождь",
-    "en": "It started raining"
-  },
-  {
-    "_id": 67,
-    "ru": "Дождь уже закончился?",
-    "en": "Has it already stopped raining?"
-  },
-  {
-    "_id": 68,
-    "ru": "Я избегаю делать это",
-    "en": "I avoid doing it"
-  },
-  {
-    "_id": 69,
-    "ru": "Я избегаю говорить об этом",
-    "en": "I avoid talking about it"
-  },
-  {
-    "_id": 70,
-    "ru": "Я избегаю обсуждать это",
-    "en": "I avoid discussing it"
-  },
-  {
-    "_id": 71,
-    "ru": "Я еще не закончил делать это",
-    "en": "I haven't finished doing it yet"
-  },
-  {
-    "_id": 72,
-    "ru": "Я уже закончил это делать",
-    "en": "I have already finished doing it"
-  },
-  {
-    "_id": 73,
-    "ru": "Я еще не прочитал эту книгу",
-    "en": "I haven't read this book yet"
-  },
-  {
-    "_id": 74,
-    "ru": "Мне нравится плавать",
-    "en": "I fancy swimming"
-  },
-  {
-    "_id": 75,
-    "ru": "Мне нравится бегать трусцой",
-    "en": "I fancy jogging"
-  },
-  {
-    "_id": 76,
-    "ru": "Мне не нравится плавать",
-    "en": "I don't fancy swimming"
-  },
-  {
-    "_id": 77,
-    "ru": "Мне не нравилось плавать там",
-    "en": "I didn't fancy swimming there"
-  },
-  {
-    "_id": 78,
-    "ru": "Мне не нравится посещать этот клуб",
-    "en": "I don't fancy visiting this club"
-  },
-  {
-    "_id": 79,
-    "ru": "Мне не нравилось петь эту песню",
-    "en": "I didn't fancy singing this song"
-  },
-  {
-    "_id": 80,
-    "ru": "Определенно, я рекомендую посетить это место",
-    "en": "Definitely, I recommend visiting this place"
-  },
-  {
-    "_id": 81,
-    "ru": "Конечно, я рекомендую пойти в это место",
-    "en": "Of course, I recommend going to this place"
-  },
-  {
-    "_id": 82,
-    "ru": "Они отложили представление этих материалов",
-    "en": "They postponed presenting these materials"
-  },
-  {
-    "_id": 83,
-    "ru": "Они отложили показ этих материалов",
-    "en": "They postponed showing these materials"
-  },
-  {
-    "_id": 84,
-    "ru": "Они отложили это дело",
-    "en": "They postponed doing it"
-  },
-  {
-    "_id": 85,
-    "ru": "Я не против сделать это прямо сейчас",
-    "en": "I don't mind doing it right now"
-  },
-  {
-    "_id": 86,
-    "ru": "Я не против пойти туда прямо сейчас",
-    "en": "I don't mind going there right now"
-  },
-  {
-    "_id": 87,
-    "ru": "Я не против посетить этот музей прямо сейчас",
-    "en": "I don't mind visiting this museum right now"
-  },
-  {
-    "_id": 88,
-    "ru": "Ребенок начал плакать",
-    "en": "The baby started crying"
-  },
-  {
-    "_id": 89,
-    "ru": "Я не могу не восхищаться такими людьми",
-    "en": "I can't help admiring such people"
-  },
-  {
-    "_id": 90,
-    "ru": "Ты уже закончил это делать?",
-    "en": "Have you already finished doing it?"
-  },
-  {
-    "_id": 91,
-    "ru": "Я настоятельно советую тебе не делать этого",
-    "en": "I strongly advise you not to do it"
-  },
-  {
-    "_id": 92,
-    "ru": "Ты не против помочь мне?",
-    "en": "Do you mind helping me?"
-  },
-  {
-    "_id": 93,
-    "ru": "Он избегает рассказывать другим о своих планах",
-    "en": "He avoids telling others about his plans"
-  },
-  {
-    "_id": 94,
-    "ru": "Я хочу встретиться с тобой здесь",
-    "en": "I fancy meeting you here"
-  },
-  {
-    "_id": 95,
-    "ru": "Они отложили строительство новой больницы",
-    "en": "They postponed building a new hospital"
-  },
-  {
-    "_id": 96,
-    "ru": "Он избегает встречи с ней",
-    "en": "He avoids meeting her"
-  },
-  {
-    "_id": 97,
-    "ru": "Он отложил строительство дома",
-    "en": "He postponed building a house"
-  },
-  {
-    "_id": 98,
-    "ru": "Он хочет стать членом этой организации",
-    "en": "He wants to become a member of this organization"
-  },
-  {
-    "_id": 99,
-    "ru": "Ты хочешь выйти сегодня вечером?",
-    "en": "Do you fancy going out tonight?"
-  },
-  {
-    "_id": 100,
-    "ru": "Скоро начнется дождь",
-    "en": "It will start raining soon"
-  },
-  {
-    "_id": 101,
-    "ru": "Я не против сделать это",
-    "en": "I don't mind doing it"
-  },
-  {
-    "_id": 102,
-    "ru": "Я начал изучать английский, когда я был ребенком",
-    "en": "I started learning English when I was a child"
+    "id": 1,
+    "ru": {
+      "text": "Она пообещала сохранить его секрет",
+      "audio": false
+    },
+    "en": {
+      "text": "She promised to keep his secret",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Он избегает встречать ее",
+      "audio": false
+    },
+    "en": {
+      "text": "He avoids meeting her",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Я хочу пойти в этот парк",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to go to this park",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я обожаю читать книги",
+      "audio": false
+    },
+    "en": {
+      "text": "I enjoy reading books",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Он обещал не делать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "He promised not to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я не рекомендую покупать еду там",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't recommend buying food there",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Что ты любишь делать в свое свободное время?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do you like doing in your spare time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я хочу пойти домой сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to go home now",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Что ты предлагаешь делать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do you suggest doing?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Я надеюсь сдать тест",
+      "audio": false
+    },
+    "en": {
+      "text": "I hope to pass the test",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Он попросил меня пойти с ним",
+      "audio": false
+    },
+    "en": {
+      "text": "He asked me to come with him",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Я не хотел бы говорить об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I wouldn't like to talk about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Я рекомендую прочитать эту книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "I recommend reading this book",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Я решил не делать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I decided not to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я действительно обожаю заниматься спортом",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy playing sports",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Ты хотел бы жить за границей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Would you like to live abroad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Я хотел бы сказать тебе одну вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "I would like to tell you one thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Я предлагаю пойти туда сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I suggest going there now",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Он надеется сдать этот тест",
+      "audio": false
+    },
+    "en": {
+      "text": "He hopes to pass this test",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я рекомендую посмотреть это видео",
+      "audio": false
+    },
+    "en": {
+      "text": "I recommend watching this video",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Я действительно обожаю изучать иностранные языки",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy learning foreign languages",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Он хочет видеть врача",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to see a doctor",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Он рекомендовал подождать",
+      "audio": false
+    },
+    "en": {
+      "text": "He recommended waiting",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Она согласилась помочь нам",
+      "audio": false
+    },
+    "en": {
+      "text": "She agreed to help us",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Она действительно любит танцевать",
+      "audio": false
+    },
+    "en": {
+      "text": "She really loves dancing",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я предлагаю подождать",
+      "audio": false
+    },
+    "en": {
+      "text": "I suggest waiting",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я избегаю обсуждать такого рода вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "I avoid discussing this kind of things",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Я люблю играть в настольный теннис",
+      "audio": false
+    },
+    "en": {
+      "text": "I love playing table tennis",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Он обещал сдержать свои слова",
+      "audio": false
+    },
+    "en": {
+      "text": "He promised to keep his words",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Она только что закончила готовить",
+      "audio": false
+    },
+    "en": {
+      "text": "She has just finished cooking",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Я закончил делать свое домашнее задание",
+      "audio": false
+    },
+    "en": {
+      "text": "I finished doing my homework",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Ему нравится бегать трусцой",
+      "audio": false
+    },
+    "en": {
+      "text": "He likes jogging",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Я предлагаю сходить посмотреть это",
+      "audio": false
+    },
+    "en": {
+      "text": "I suggest going to see it",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он действительно обожает заниматься спортом",
+      "audio": false
+    },
+    "en": {
+      "text": "He really enjoys doing sports",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я обожаю заниматься спортом",
+      "audio": false
+    },
+    "en": {
+      "text": "I enjoy doing sports",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Я действительно обожаю проводить время с тобой",
+      "audio": false
+    },
+    "en": {
+      "text": "I really enjoy spending time with you",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Мы еще не закончили это обсуждать",
+      "audio": false
+    },
+    "en": {
+      "text": "We haven't finished discussing it yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Ты хотел бы жить в другой стране?",
+      "audio": false
+    },
+    "en": {
+      "text": "Would you like to live in another country?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Я начал думать об этом действительно серьезно",
+      "audio": false
+    },
+    "en": {
+      "text": "I started thinking about it really seriously",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Она обещала сохранить этот секрет",
+      "audio": false
+    },
+    "en": {
+      "text": "She promised to keep this secret",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Когда ты закончишь это делать?",
+      "audio": false
+    },
+    "en": {
+      "text": "When will you finish doing it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Он посоветовал мне не делать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "He advised me not to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Она еще не закончила говорить",
+      "audio": false
+    },
+    "en": {
+      "text": "She hasn't finished speaking yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Я хочу сказать следующее",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to say the following",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я не против пойти туда",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't mind going there",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Ты хочешь пойти в ресторан сегодня вечером?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you fancy going to the restaurant tonight?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я избегаю рассказывать другим людям о моих планах",
+      "audio": false
+    },
+    "en": {
+      "text": "I avoid telling other people about my plans",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Он избегает говорить об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "He avoids talking about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Я не могу не восхищаться красотой этого места",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't help admiring the beauty of this place",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Она не может не восхищаться таким человеком",
+      "audio": false
+    },
+    "en": {
+      "text": "She can't help admiring such a person",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Ты когда-нибудь рассматривал жизнь за границей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever considered living abroad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Он не против ждать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't mind waiting for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Они отложили обсуждение этих событий",
+      "audio": false
+    },
+    "en": {
+      "text": "They postponed discussing these events",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Ты хочешь выпить чашку кофе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you fancy drinking a cup of coffee?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Она избегает говорить с ним",
+      "audio": false
+    },
+    "en": {
+      "text": "She avoids talking to him",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Определенно, я рекомендую посмотреть этот фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "Definitely, I recommend watching this movie",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Мне нравится гулять в парке, дыша свежим воздухом",
+      "audio": false
+    },
+    "en": {
+      "text": "I like walking in the park breathing fresh air",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я настоятельно рекомендую посетить это место",
+      "audio": false
+    },
+    "en": {
+      "text": "I strongly recommend visiting this place",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Ты знаешь, я действительно люблю это делать",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, I really enjoy doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Ты знаешь, мне действительно нравится плавать",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, I really enjoy swimming",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Ты знаешь, ему действительно нравится петь",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, he really enjoys singing",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Он рассматривает обучение за границей",
+      "audio": false
+    },
+    "en": {
+      "text": "He considers studying abroad",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Он рассматривает переезд за границу",
+      "audio": false
+    },
+    "en": {
+      "text": "He considers moving abroad",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он рассматривал обучение там",
+      "audio": false
+    },
+    "en": {
+      "text": "He considered studying there",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Начался снег",
+      "audio": false
+    },
+    "en": {
+      "text": "It started snowing",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Начался дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "It started raining",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Дождь уже закончился?",
+      "audio": false
+    },
+    "en": {
+      "text": "Has it already stopped raining?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я избегаю делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I avoid doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я избегаю говорить об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I avoid talking about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я избегаю обсуждать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I avoid discussing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я еще не закончил делать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't finished doing it yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Я уже закончил это делать",
+      "audio": false
+    },
+    "en": {
+      "text": "I have already finished doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я еще не прочитал эту книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't read this book yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Мне нравится плавать",
+      "audio": false
+    },
+    "en": {
+      "text": "I fancy swimming",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Мне нравится бегать трусцой",
+      "audio": false
+    },
+    "en": {
+      "text": "I fancy jogging",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Мне не нравится плавать",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't fancy swimming",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Мне не нравилось плавать там",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't fancy swimming there",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Мне не нравится посещать этот клуб",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't fancy visiting this club",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Мне не нравилось петь эту песню",
+      "audio": false
+    },
+    "en": {
+      "text": "I didn't fancy singing this song",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Определенно, я рекомендую посетить это место",
+      "audio": false
+    },
+    "en": {
+      "text": "Definitely, I recommend visiting this place",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Конечно, я рекомендую пойти в это место",
+      "audio": false
+    },
+    "en": {
+      "text": "Of course, I recommend going to this place",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Они отложили представление этих материалов",
+      "audio": false
+    },
+    "en": {
+      "text": "They postponed presenting these materials",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Они отложили показ этих материалов",
+      "audio": false
+    },
+    "en": {
+      "text": "They postponed showing these materials",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Они отложили это дело",
+      "audio": false
+    },
+    "en": {
+      "text": "They postponed doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Я не против сделать это прямо сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't mind doing it right now",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Я не против пойти туда прямо сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't mind going there right now",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Я не против посетить этот музей прямо сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't mind visiting this museum right now",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Ребенок начал плакать",
+      "audio": false
+    },
+    "en": {
+      "text": "The baby started crying",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Я не могу не восхищаться такими людьми",
+      "audio": false
+    },
+    "en": {
+      "text": "I can't help admiring such people",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Ты уже закончил это делать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you already finished doing it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Я настоятельно советую тебе не делать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I strongly advise you not to do it",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Ты не против помочь мне?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you mind helping me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Он избегает рассказывать другим о своих планах",
+      "audio": false
+    },
+    "en": {
+      "text": "He avoids telling others about his plans",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Я хочу встретиться с тобой здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "I fancy meeting you here",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Они отложили строительство новой больницы",
+      "audio": false
+    },
+    "en": {
+      "text": "They postponed building a new hospital",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Он избегает встречи с ней",
+      "audio": false
+    },
+    "en": {
+      "text": "He avoids meeting her",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "Он отложил строительство дома",
+      "audio": false
+    },
+    "en": {
+      "text": "He postponed building a house",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Он хочет стать членом этой организации",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to become a member of this organization",
+      "audio": false
+    }
+  },
+  {
+    "id": 99,
+    "ru": {
+      "text": "Ты хочешь выйти сегодня вечером?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you fancy going out tonight?",
+      "audio": false
+    }
+  },
+  {
+    "id": 100,
+    "ru": {
+      "text": "Скоро начнется дождь",
+      "audio": false
+    },
+    "en": {
+      "text": "It will start raining soon",
+      "audio": false
+    }
+  },
+  {
+    "id": 101,
+    "ru": {
+      "text": "Я не против сделать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't mind doing it",
+      "audio": false
+    }
+  },
+  {
+    "id": 102,
+    "ru": {
+      "text": "Я начал изучать английский, когда я был ребенком",
+      "audio": false
+    },
+    "en": {
+      "text": "I started learning English when I was a child",
+      "audio": false
+    }
   }
 ]

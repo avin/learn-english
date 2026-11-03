@@ -1,337 +1,739 @@
 [
   {
-    "_id": 1,
-    "ru": "Кого это действительно будет волновать?",
-    "en": "Who will really care about it?"
-  },
-  {
-    "_id": 2,
-    "ru": "Эта компания превосходит своих конкурентов",
-    "en": "This company is superior to its competitors"
-  },
-  {
-    "_id": 3,
-    "ru": "Многие ученые пытаются найти лекарство от рака",
-    "en": "Many scientists try to find a cure for cancer"
-  },
-  {
-    "_id": 4,
-    "ru": "Он не согласен со своими коллегами по многим вопросам",
-    "en": "He disagrees with his colleagues on many issues"
-  },
-  {
-    "_id": 5,
-    "ru": "Это может привести к снижению производства",
-    "en": "It can lead to a decrease in production"
-  },
-  {
-    "_id": 6,
-    "ru": "Он не имеет права вмешиваться в их дела",
-    "en": "He doesn't have the right to interfere in their affairs"
-  },
-  {
-    "_id": 7,
-    "ru": "Мы можем видеть увеличение спроса и предложения",
-    "en": "We can see an increase of demand and supply"
-  },
-  {
-    "_id": 8,
-    "ru": "Они должны компенсировать тебе эти потери",
-    "en": "They must compensate you for these losses"
-  },
-  {
-    "_id": 9,
-    "ru": "Они категорически не согласны с тем предложением",
-    "en": "They strongly disagree with that proposal"
-  },
-  {
-    "_id": 10,
-    "ru": "Существует растущий спрос на эти продукты",
-    "en": "There is a growing demand for these products"
-  },
-  {
-    "_id": 11,
-    "ru": "Мы наблюдаем рост населения",
-    "en": "We observe an increase in population"
-  },
-  {
-    "_id": 12,
-    "ru": "Иди и извинись перед ним!",
-    "en": "Go and apologize to him!"
-  },
-  {
-    "_id": 13,
-    "ru": "Ты действительно серьезно к этому относишься?",
-    "en": "Are you really serious about it?"
-  },
-  {
-    "_id": 14,
-    "ru": "Его лечили антибиотиками",
-    "en": "He was cured with antibiotics"
-  },
-  {
-    "_id": 15,
-    "ru": "На него пялился незнакомец",
-    "en": "A stranger was staring at him"
-  },
-  {
-    "_id": 16,
-    "ru": "Это один из недостатков этой работы",
-    "en": "It is one of the disadvantages of this work"
-  },
-  {
-    "_id": 17,
-    "ru": "Кто компенсирует им потерю заработка?",
-    "en": "Who will compensate them for their loss of earnings?"
-  },
-  {
-    "_id": 18,
-    "ru": "Такого рода поведение типично для него",
-    "en": "This kind of behaviour is typical of him"
-  },
-  {
-    "_id": 19,
-    "ru": "Им удалось вылечить его от этой болезни",
-    "en": "They managed to cure him of this illness"
-  },
-  {
-    "_id": 20,
-    "ru": "Это типичная особенность его работы",
-    "en": "It's a typical feature of his work"
-  },
-  {
-    "_id": 21,
-    "ru": "Это привело к снижению цен",
-    "en": "It led to a decrease in prices"
-  },
-  {
-    "_id": 22,
-    "ru": "У того метода есть огромный недостаток",
-    "en": "There is a huge disadvantage of that method"
-  },
-  {
-    "_id": 23,
-    "ru": "Они не согласны по этому вопросу",
-    "en": "They disagree on this issue"
-  },
-  {
-    "_id": 24,
-    "ru": "Все уставились на нее",
-    "en": "Everyone was staring at her"
-  },
-  {
-    "_id": 25,
-    "ru": "Это может привести к хаосу",
-    "en": "It can lead to chaos"
-  },
-  {
-    "_id": 26,
-    "ru": "Я думаю, что ты слишком сильно беспокоишься об этом",
-    "en": "I think you worry about it too much"
-  },
-  {
-    "_id": 27,
-    "ru": "Этот босс превосходит своих сотрудников",
-    "en": "This boss is superior to his employees"
-  },
-  {
-    "_id": 28,
-    "ru": "Это одно из главных преимуществ этой профессии",
-    "en": "It is one of the main advantages of this profession"
-  },
-  {
-    "_id": 29,
-    "ru": "Лекарства от этой болезни не существует",
-    "en": "A cure for this disease doesn't exist"
-  },
-  {
-    "_id": 30,
-    "ru": "Мой компьютер превосходит их",
-    "en": "My computer is superior to theirs"
-  },
-  {
-    "_id": 31,
-    "ru": "Мы видим увеличение спроса",
-    "en": "We see an increase in demand"
-  },
-  {
-    "_id": 32,
-    "ru": "Как он объяснил свое отсутствие на работе?",
-    "en": "How did he explain his absence from work?"
-  },
-  {
-    "_id": 33,
-    "ru": "Он пошел и извинился перед ней",
-    "en": "He went and apologized to her"
-  },
-  {
-    "_id": 34,
-    "ru": "Он был вылечен от этой болезни",
-    "en": "He was cured of this disease"
-  },
-  {
-    "_id": 35,
-    "ru": "Он извинился за то, что вышел из себя",
-    "en": "He apologized for losing his temper"
-  },
-  {
-    "_id": 36,
-    "ru": "Они ищут чудесное лекарство от этих болезней",
-    "en": "They are searching for a miraculous cure for these diseases"
-  },
-  {
-    "_id": 37,
-    "ru": "К чему это приведет?",
-    "en": "What will it lead to?"
-  },
-  {
-    "_id": 38,
-    "ru": "К чему это может привести?",
-    "en": "What can it lead to?"
-  },
-  {
-    "_id": 39,
-    "ru": "Это привело к росту цен",
-    "en": "It led to an increase in prices"
-  },
-  {
-    "_id": 40,
-    "ru": "Я извинился за опоздание",
-    "en": "I apologised for coming late"
-  },
-  {
-    "_id": 41,
-    "ru": "Он извинился за свое поведение",
-    "en": "He apologised for his behaviour"
-  },
-  {
-    "_id": 42,
-    "ru": "Она извинилась передо мной за опоздание",
-    "en": "She apologised to me for being late"
-  },
-  {
-    "_id": 43,
-    "ru": "Они не получат компенсации за эти потери",
-    "en": "They won't be compensated for these losses"
-  },
-  {
-    "_id": 44,
-    "ru": "Он не получит компенсацию за потерю работы",
-    "en": "He won't be compensated for the loss of his job"
-  },
-  {
-    "_id": 45,
-    "ru": "Кто компенсирует нам потерю заработка?",
-    "en": "Who will compensate us for our loss of earnings?"
-  },
-  {
-    "_id": 46,
-    "ru": "На кого он уставился?",
-    "en": "Who is he staring at?"
-  },
-  {
-    "_id": 47,
-    "ru": "На что она уставилась?",
-    "en": "What is she staring at?"
-  },
-  {
-    "_id": 48,
-    "ru": "Все уставились на меня",
-    "en": "Everyone was staring at me"
-  },
-  {
-    "_id": 49,
-    "ru": "До сих пор нет лекарства от этой болезни",
-    "en": "There is still no cure for this disease"
-  },
-  {
-    "_id": 50,
-    "ru": "Лекарство от этой болезни еще не найдено",
-    "en": "A cure for this disease hasn't been found yet"
-  },
-  {
-    "_id": 51,
-    "ru": "Они ищут новое лекарство от этой болезни",
-    "en": "They are searching for a new cure for this disease"
-  },
-  {
-    "_id": 52,
-    "ru": "Есть ли какие-то преимущества у этого метода?",
-    "en": "Are there any advantages of this method?"
-  },
-  {
-    "_id": 53,
-    "ru": "Считается грубым пялиться на других",
-    "en": "It is considered rude to stare at others"
-  },
-  {
-    "_id": 54,
-    "ru": "Мне не нравится, когда кто-то пялится на меня",
-    "en": "I don't like it when someone stares at me"
-  },
-  {
-    "_id": 55,
-    "ru": "Не пялься на них!",
-    "en": "Don't stare at them!"
-  },
-  {
-    "_id": 56,
-    "ru": "Никто не извинился перед нами за задержку",
-    "en": "No one apologised to us for the delay"
-  },
-  {
-    "_id": 57,
-    "ru": "Они не извинились передо мной за опоздание",
-    "en": "They didn't apologise to me for coming late"
-  },
-  {
-    "_id": 58,
-    "ru": "Тебе лучше извиниться за твое грубое поведение",
-    "en": "You'd better apologise for your rude behaviour"
-  },
-  {
-    "_id": 59,
-    "ru": "Я категорически не согласен с таким решением",
-    "en": "I strongly disagree with such a decision"
-  },
-  {
-    "_id": 60,
-    "ru": "Я абсолютно не согласен с этим решением",
-    "en": "I absolutely disagree with this decision"
-  },
-  {
-    "_id": 61,
-    "ru": "Ты со мной не согласен?",
-    "en": "Do you disagree with me?"
-  },
-  {
-    "_id": 62,
-    "ru": "Кого будет действительно волновать эта проблема?",
-    "en": "Who will really care about this problem?"
-  },
-  {
-    "_id": 63,
-    "ru": "Его не волновала важность этого",
-    "en": "He didn't care about the importance of it"
-  },
-  {
-    "_id": 64,
-    "ru": "Качество нашего продукта превосходит их",
-    "en": "The quality of our product is superior to theirs"
-  },
-  {
-    "_id": 65,
-    "ru": "Я хочу сказать, что я прошу прощения за опоздание",
-    "en": "I want to say that I apologise for being late"
-  },
-  {
-    "_id": 66,
-    "ru": "Лекарство от этой болезни еще не было изобретено",
-    "en": "A cure for this disease hasn't been invented yet"
-  },
-  {
-    "_id": 67,
-    "ru": "Есть какие-либо преимущества хорошего образования?",
-    "en": "Are there any advantages of good education?"
+    "id": 1,
+    "ru": {
+      "text": "Кого это действительно будет волновать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will really care about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Эта компания превосходит своих конкурентов",
+      "audio": false
+    },
+    "en": {
+      "text": "This company is superior to its competitors",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Многие ученые пытаются найти лекарство от рака",
+      "audio": false
+    },
+    "en": {
+      "text": "Many scientists try to find a cure for cancer",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Он не согласен со своими коллегами по многим вопросам",
+      "audio": false
+    },
+    "en": {
+      "text": "He disagrees with his colleagues on many issues",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Это может привести к снижению производства",
+      "audio": false
+    },
+    "en": {
+      "text": "It can lead to a decrease in production",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Он не имеет права вмешиваться в их дела",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't have the right to interfere in their affairs",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Мы можем видеть увеличение спроса и предложения",
+      "audio": false
+    },
+    "en": {
+      "text": "We can see an increase of demand and supply",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Они должны компенсировать тебе эти потери",
+      "audio": false
+    },
+    "en": {
+      "text": "They must compensate you for these losses",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Они категорически не согласны с тем предложением",
+      "audio": false
+    },
+    "en": {
+      "text": "They strongly disagree with that proposal",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Существует растущий спрос на эти продукты",
+      "audio": false
+    },
+    "en": {
+      "text": "There is a growing demand for these products",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Мы наблюдаем рост населения",
+      "audio": false
+    },
+    "en": {
+      "text": "We observe an increase in population",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Иди и извинись перед ним!",
+      "audio": false
+    },
+    "en": {
+      "text": "Go and apologize to him!",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Ты действительно серьезно к этому относишься?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are you really serious about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Его лечили антибиотиками",
+      "audio": false
+    },
+    "en": {
+      "text": "He was cured with antibiotics",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "На него пялился незнакомец",
+      "audio": false
+    },
+    "en": {
+      "text": "A stranger was staring at him",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Это один из недостатков этой работы",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the disadvantages of this work",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Кто компенсирует им потерю заработка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will compensate them for their loss of earnings?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Такого рода поведение типично для него",
+      "audio": false
+    },
+    "en": {
+      "text": "This kind of behaviour is typical of him",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Им удалось вылечить его от этой болезни",
+      "audio": false
+    },
+    "en": {
+      "text": "They managed to cure him of this illness",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Это типичная особенность его работы",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a typical feature of his work",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Это привело к снижению цен",
+      "audio": false
+    },
+    "en": {
+      "text": "It led to a decrease in prices",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "У того метода есть огромный недостаток",
+      "audio": false
+    },
+    "en": {
+      "text": "There is a huge disadvantage of that method",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Они не согласны по этому вопросу",
+      "audio": false
+    },
+    "en": {
+      "text": "They disagree on this issue",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Все уставились на нее",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone was staring at her",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Это может привести к хаосу",
+      "audio": false
+    },
+    "en": {
+      "text": "It can lead to chaos",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Я думаю, что ты слишком сильно беспокоишься об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I think you worry about it too much",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Этот босс превосходит своих сотрудников",
+      "audio": false
+    },
+    "en": {
+      "text": "This boss is superior to his employees",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Это одно из главных преимуществ этой профессии",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the main advantages of this profession",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Лекарства от этой болезни не существует",
+      "audio": false
+    },
+    "en": {
+      "text": "A cure for this disease doesn't exist",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Мой компьютер превосходит их",
+      "audio": false
+    },
+    "en": {
+      "text": "My computer is superior to theirs",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Мы видим увеличение спроса",
+      "audio": false
+    },
+    "en": {
+      "text": "We see an increase in demand",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Как он объяснил свое отсутствие на работе?",
+      "audio": false
+    },
+    "en": {
+      "text": "How did he explain his absence from work?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Он пошел и извинился перед ней",
+      "audio": false
+    },
+    "en": {
+      "text": "He went and apologized to her",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он был вылечен от этой болезни",
+      "audio": false
+    },
+    "en": {
+      "text": "He was cured of this disease",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Он извинился за то, что вышел из себя",
+      "audio": false
+    },
+    "en": {
+      "text": "He apologized for losing his temper",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Они ищут чудесное лекарство от этих болезней",
+      "audio": false
+    },
+    "en": {
+      "text": "They are searching for a miraculous cure for these diseases",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "К чему это приведет?",
+      "audio": false
+    },
+    "en": {
+      "text": "What will it lead to?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "К чему это может привести?",
+      "audio": false
+    },
+    "en": {
+      "text": "What can it lead to?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Это привело к росту цен",
+      "audio": false
+    },
+    "en": {
+      "text": "It led to an increase in prices",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я извинился за опоздание",
+      "audio": false
+    },
+    "en": {
+      "text": "I apologised for coming late",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Он извинился за свое поведение",
+      "audio": false
+    },
+    "en": {
+      "text": "He apologised for his behaviour",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Она извинилась передо мной за опоздание",
+      "audio": false
+    },
+    "en": {
+      "text": "She apologised to me for being late",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Они не получат компенсации за эти потери",
+      "audio": false
+    },
+    "en": {
+      "text": "They won't be compensated for these losses",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Он не получит компенсацию за потерю работы",
+      "audio": false
+    },
+    "en": {
+      "text": "He won't be compensated for the loss of his job",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Кто компенсирует нам потерю заработка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will compensate us for our loss of earnings?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "На кого он уставился?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is he staring at?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "На что она уставилась?",
+      "audio": false
+    },
+    "en": {
+      "text": "What is she staring at?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Все уставились на меня",
+      "audio": false
+    },
+    "en": {
+      "text": "Everyone was staring at me",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "До сих пор нет лекарства от этой болезни",
+      "audio": false
+    },
+    "en": {
+      "text": "There is still no cure for this disease",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Лекарство от этой болезни еще не найдено",
+      "audio": false
+    },
+    "en": {
+      "text": "A cure for this disease hasn't been found yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Они ищут новое лекарство от этой болезни",
+      "audio": false
+    },
+    "en": {
+      "text": "They are searching for a new cure for this disease",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Есть ли какие-то преимущества у этого метода?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are there any advantages of this method?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Считается грубым пялиться на других",
+      "audio": false
+    },
+    "en": {
+      "text": "It is considered rude to stare at others",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Мне не нравится, когда кто-то пялится на меня",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't like it when someone stares at me",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Не пялься на них!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't stare at them!",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Никто не извинился перед нами за задержку",
+      "audio": false
+    },
+    "en": {
+      "text": "No one apologised to us for the delay",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Они не извинились передо мной за опоздание",
+      "audio": false
+    },
+    "en": {
+      "text": "They didn't apologise to me for coming late",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Тебе лучше извиниться за твое грубое поведение",
+      "audio": false
+    },
+    "en": {
+      "text": "You'd better apologise for your rude behaviour",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я категорически не согласен с таким решением",
+      "audio": false
+    },
+    "en": {
+      "text": "I strongly disagree with such a decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я абсолютно не согласен с этим решением",
+      "audio": false
+    },
+    "en": {
+      "text": "I absolutely disagree with this decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Ты со мной не согласен?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you disagree with me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Кого будет действительно волновать эта проблема?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who will really care about this problem?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Его не волновала важность этого",
+      "audio": false
+    },
+    "en": {
+      "text": "He didn't care about the importance of it",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Качество нашего продукта превосходит их",
+      "audio": false
+    },
+    "en": {
+      "text": "The quality of our product is superior to theirs",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Я хочу сказать, что я прошу прощения за опоздание",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to say that I apologise for being late",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Лекарство от этой болезни еще не было изобретено",
+      "audio": false
+    },
+    "en": {
+      "text": "A cure for this disease hasn't been invented yet",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Есть какие-либо преимущества хорошего образования?",
+      "audio": false
+    },
+    "en": {
+      "text": "Are there any advantages of good education?",
+      "audio": false
+    }
   }
 ]

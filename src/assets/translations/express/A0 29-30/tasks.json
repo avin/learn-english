@@ -1,222 +1,486 @@
 [
   {
-    "_id": 1,
-    "ru": "Она училась в другой стране",
-    "en": "She studied in another country"
+    "id": 1,
+    "ru": {
+      "text": "Она училась в другой стране",
+      "audio": false
+    },
+    "en": {
+      "text": "She studied in another country",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я начал этот курс на прошлой неделе",
-    "en": "I started this course last week"
+    "id": 2,
+    "ru": {
+      "text": "Я начал этот курс на прошлой неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "I started this course last week",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Я хотел найти хорошую работу",
-    "en": "I wanted to find a good job"
+    "id": 3,
+    "ru": {
+      "text": "Я хотел найти хорошую работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to find a good job",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я часто пользовался интернетом",
-    "en": "I often used the Internet"
+    "id": 4,
+    "ru": {
+      "text": "Я часто пользовался интернетом",
+      "audio": false
+    },
+    "en": {
+      "text": "I often used the Internet",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я задал ей некоторые вопросы",
-    "en": "I asked her some questions"
+    "id": 5,
+    "ru": {
+      "text": "Я задал ей некоторые вопросы",
+      "audio": false
+    },
+    "en": {
+      "text": "I asked her some questions",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Он учился там",
-    "en": "He studied there"
+    "id": 6,
+    "ru": {
+      "text": "Он учился там",
+      "audio": false
+    },
+    "en": {
+      "text": "He studied there",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Мне понравилось это место",
-    "en": "I liked this place"
+    "id": 7,
+    "ru": {
+      "text": "Мне понравилось это место",
+      "audio": false
+    },
+    "en": {
+      "text": "I liked this place",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я часто пользовался этой услугой",
-    "en": "I often used this service"
+    "id": 8,
+    "ru": {
+      "text": "Я часто пользовался этой услугой",
+      "audio": false
+    },
+    "en": {
+      "text": "I often used this service",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я жил в этом месте",
-    "en": "I lived in this place"
+    "id": 9,
+    "ru": {
+      "text": "Я жил в этом месте",
+      "audio": false
+    },
+    "en": {
+      "text": "I lived in this place",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Это происшествие случилось вчера",
-    "en": "This accident happened yesterday"
+    "id": 10,
+    "ru": {
+      "text": "Это происшествие случилось вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "This accident happened yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я хотел улучшить свой английский",
-    "en": "I wanted to improve my English"
+    "id": 11,
+    "ru": {
+      "text": "Я хотел улучшить свой английский",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to improve my English",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я хотел посетить это место",
-    "en": "I wanted to visit this place"
+    "id": 12,
+    "ru": {
+      "text": "Я хотел посетить это место",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to visit this place",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я играл в разные игры",
-    "en": "I played different games"
+    "id": 13,
+    "ru": {
+      "text": "Я играл в разные игры",
+      "audio": false
+    },
+    "en": {
+      "text": "I played different games",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я посмотрел этот фильм",
-    "en": "I watched this movie"
+    "id": 14,
+    "ru": {
+      "text": "Я посмотрел этот фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "I watched this movie",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Он ответил на этот вопрос",
-    "en": "He answered this question"
+    "id": 15,
+    "ru": {
+      "text": "Он ответил на этот вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "He answered this question",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Я посмотрел это видео",
-    "en": "I watched this video"
+    "id": 16,
+    "ru": {
+      "text": "Я посмотрел это видео",
+      "audio": false
+    },
+    "en": {
+      "text": "I watched this video",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я жил в этом районе",
-    "en": "I lived in this area"
+    "id": 17,
+    "ru": {
+      "text": "Я жил в этом районе",
+      "audio": false
+    },
+    "en": {
+      "text": "I lived in this area",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Это случилось три часа назад",
-    "en": "It happened three hours ago"
+    "id": 18,
+    "ru": {
+      "text": "Это случилось три часа назад",
+      "audio": false
+    },
+    "en": {
+      "text": "It happened three hours ago",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Ты помог мне так сильно",
-    "en": "You helped me so much"
+    "id": 19,
+    "ru": {
+      "text": "Ты помог мне так сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "You helped me so much",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Он навестил нас позавчера",
-    "en": "He visited us the day before yesterday"
+    "id": 20,
+    "ru": {
+      "text": "Он навестил нас позавчера",
+      "audio": false
+    },
+    "en": {
+      "text": "He visited us the day before yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Она звонила мне два часа назад",
-    "en": "She called me two hours ago"
+    "id": 21,
+    "ru": {
+      "text": "Она звонила мне два часа назад",
+      "audio": false
+    },
+    "en": {
+      "text": "She called me two hours ago",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Я хотел выбрать лучший отель",
-    "en": "I wanted to choose the best hotel"
+    "id": 22,
+    "ru": {
+      "text": "Я хотел выбрать лучший отель",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to choose the best hotel",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Я смотрел эту программу вчера",
-    "en": "I watched this program yesterday"
+    "id": 23,
+    "ru": {
+      "text": "Я смотрел эту программу вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I watched this program yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Я учился здесь",
-    "en": "I studied here"
+    "id": 24,
+    "ru": {
+      "text": "Я учился здесь",
+      "audio": false
+    },
+    "en": {
+      "text": "I studied here",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Ты действительно помог мне",
-    "en": "You really helped me"
+    "id": 25,
+    "ru": {
+      "text": "Ты действительно помог мне",
+      "audio": false
+    },
+    "en": {
+      "text": "You really helped me",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Я ответил на это письмо",
-    "en": "I answered this letter"
+    "id": 26,
+    "ru": {
+      "text": "Я ответил на это письмо",
+      "audio": false
+    },
+    "en": {
+      "text": "I answered this letter",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Они прибыли час назад",
-    "en": "They arrived an hour ago"
+    "id": 27,
+    "ru": {
+      "text": "Они прибыли час назад",
+      "audio": false
+    },
+    "en": {
+      "text": "They arrived an hour ago",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Он хотел найти хорошую работу",
-    "en": "He wanted to find a good job"
+    "id": 28,
+    "ru": {
+      "text": "Он хотел найти хорошую работу",
+      "audio": false
+    },
+    "en": {
+      "text": "He wanted to find a good job",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Я хотел улучшить свою грамматику",
-    "en": "I wanted to improve my grammar"
+    "id": 29,
+    "ru": {
+      "text": "Я хотел улучшить свою грамматику",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to improve my grammar",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Мы говорили о разных вещах",
-    "en": "We talked about different things"
+    "id": 30,
+    "ru": {
+      "text": "Мы говорили о разных вещах",
+      "audio": false
+    },
+    "en": {
+      "text": "We talked about different things",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Я закончил свою работу",
-    "en": "I finished my work"
+    "id": 31,
+    "ru": {
+      "text": "Я закончил свою работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I finished my work",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Я задал ему вопрос",
-    "en": "I asked him a question"
+    "id": 32,
+    "ru": {
+      "text": "Я задал ему вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "I asked him a question",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Я работал так много",
-    "en": "I worked so much"
+    "id": 33,
+    "ru": {
+      "text": "Я работал так много",
+      "audio": false
+    },
+    "en": {
+      "text": "I worked so much",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Я звонил ей вчера",
-    "en": "I called her yesterday"
+    "id": 34,
+    "ru": {
+      "text": "Я звонил ей вчера",
+      "audio": false
+    },
+    "en": {
+      "text": "I called her yesterday",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Мне очень понравилось это видео",
-    "en": "I really liked this video"
+    "id": 35,
+    "ru": {
+      "text": "Мне очень понравилось это видео",
+      "audio": false
+    },
+    "en": {
+      "text": "I really liked this video",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Мне нужна была твоя помощь",
-    "en": "I needed your help"
+    "id": 36,
+    "ru": {
+      "text": "Мне нужна была твоя помощь",
+      "audio": false
+    },
+    "en": {
+      "text": "I needed your help",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Мы играли в футбол вместе",
-    "en": "We played football together"
+    "id": 37,
+    "ru": {
+      "text": "Мы играли в футбол вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "We played football together",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Она посмотрела на него",
-    "en": "She looked at him"
+    "id": 38,
+    "ru": {
+      "text": "Она посмотрела на него",
+      "audio": false
+    },
+    "en": {
+      "text": "She looked at him",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Мне очень понравился этот курс",
-    "en": "I really liked this course"
+    "id": 39,
+    "ru": {
+      "text": "Мне очень понравился этот курс",
+      "audio": false
+    },
+    "en": {
+      "text": "I really liked this course",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Мне нужны были эти деньги",
-    "en": "I needed this money"
+    "id": 40,
+    "ru": {
+      "text": "Мне нужны были эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "I needed this money",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Я начал этот курс",
-    "en": "I started this course"
+    "id": 41,
+    "ru": {
+      "text": "Я начал этот курс",
+      "audio": false
+    },
+    "en": {
+      "text": "I started this course",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Он посмотрел на нее",
-    "en": "He looked at her"
+    "id": 42,
+    "ru": {
+      "text": "Он посмотрел на нее",
+      "audio": false
+    },
+    "en": {
+      "text": "He looked at her",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Мы часто говорили об этом",
-    "en": "We often talked about it"
+    "id": 43,
+    "ru": {
+      "text": "Мы часто говорили об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "We often talked about it",
+      "audio": false
+    }
   },
   {
-    "_id": 44,
-    "ru": "Он учился за границей",
-    "en": "He studied abroad"
+    "id": 44,
+    "ru": {
+      "text": "Он учился за границей",
+      "audio": false
+    },
+    "en": {
+      "text": "He studied abroad",
+      "audio": false
+    }
   }
 ]

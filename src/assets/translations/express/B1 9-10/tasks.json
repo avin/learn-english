@@ -1,82 +1,178 @@
 [
   {
-    "_id": 1,
-    "ru": "Все контролируется сейчас",
-    "en": "Everything is being controlled now"
+    "id": 1,
+    "ru": {
+      "text": "Все контролируется сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything is being controlled now",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Это только что было сделано",
-    "en": "It has just been done"
+    "id": 2,
+    "ru": {
+      "text": "Это только что было сделано",
+      "audio": false
+    },
+    "en": {
+      "text": "It has just been done",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Следующий уровень будет достигнут довольно скоро",
-    "en": "The next level will be reached quite soon"
+    "id": 3,
+    "ru": {
+      "text": "Следующий уровень будет достигнут довольно скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "The next level will be reached quite soon",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Их проинформируют завтра",
-    "en": "They'll be informed tomorrow"
+    "id": 4,
+    "ru": {
+      "text": "Их проинформируют завтра",
+      "audio": false
+    },
+    "en": {
+      "text": "They'll be informed tomorrow",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Его критикуют очень резко в эти дни",
-    "en": "He's being criticized very sharply these days"
+    "id": 5,
+    "ru": {
+      "text": "Его критикуют очень резко в эти дни",
+      "audio": false
+    },
+    "en": {
+      "text": "He's being criticized very sharply these days",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Она сказала, что все ошибки были исправлены",
-    "en": "She said that all the mistakes had been corrected"
+    "id": 6,
+    "ru": {
+      "text": "Она сказала, что все ошибки были исправлены",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that all the mistakes had been corrected",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Эти цифры анализируются сейчас",
-    "en": "These figures are being analyzed now"
+    "id": 7,
+    "ru": {
+      "text": "Эти цифры анализируются сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "These figures are being analyzed now",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Не все было понято сразу",
-    "en": "Not everything was understood immediately"
+    "id": 8,
+    "ru": {
+      "text": "Не все было понято сразу",
+      "audio": false
+    },
+    "en": {
+      "text": "Not everything was understood immediately",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Он сказал, что проблема была решена",
-    "en": "He said that the problem had been solved"
+    "id": 9,
+    "ru": {
+      "text": "Он сказал, что проблема была решена",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that the problem had been solved",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я ждал, пока проверяли его работу",
-    "en": "I was waiting while his work was being checked"
+    "id": 10,
+    "ru": {
+      "text": "Я ждал, пока проверяли его работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I was waiting while his work was being checked",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Выяснилось, что сумку украли",
-    "en": "It was found out that the bag had been stolen"
+    "id": 11,
+    "ru": {
+      "text": "Выяснилось, что сумку украли",
+      "audio": false
+    },
+    "en": {
+      "text": "It was found out that the bag had been stolen",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Как уже говорили, ситуация не такая простая",
-    "en": "As it has already been said, the situation isn't so simple"
+    "id": 12,
+    "ru": {
+      "text": "Как уже говорили, ситуация не такая простая",
+      "audio": false
+    },
+    "en": {
+      "text": "As it has already been said, the situation isn't so simple",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Сказали, что он был награжден",
-    "en": "It was said that he had been awarded"
+    "id": 13,
+    "ru": {
+      "text": "Сказали, что он был награжден",
+      "audio": false
+    },
+    "en": {
+      "text": "It was said that he had been awarded",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Это уже было сказано",
-    "en": "It has already been said"
+    "id": 14,
+    "ru": {
+      "text": "Это уже было сказано",
+      "audio": false
+    },
+    "en": {
+      "text": "It has already been said",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Он сказал, что не все было понято правильно",
-    "en": "He said that not everything had been understood correctly"
+    "id": 15,
+    "ru": {
+      "text": "Он сказал, что не все было понято правильно",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that not everything had been understood correctly",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Как уже упоминалось, не все зависит от нас",
-    "en": "As it has already been mentioned, not everything depends on us"
+    "id": 16,
+    "ru": {
+      "text": "Как уже упоминалось, не все зависит от нас",
+      "audio": false
+    },
+    "en": {
+      "text": "As it has already been mentioned, not everything depends on us",
+      "audio": false
+    }
   }
 ]

@@ -1,32 +1,68 @@
 [
   {
-    "_id": 1,
-    "ru": "Я работаю здесь с тех пор, как окончил университет",
-    "en": "I've been working here since I graduated from university"
+    "id": 1,
+    "ru": {
+      "text": "Я работаю здесь с тех пор, как окончил университет",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been working here since I graduated from university",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я жду очень долго",
-    "en": "I've been waiting for a very long time"
+    "id": 2,
+    "ru": {
+      "text": "Я жду очень долго",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been waiting for a very long time",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Я буду работать здесь год к августу",
-    "en": "I will have been working here for a year by August"
+    "id": 3,
+    "ru": {
+      "text": "Я буду работать здесь год к августу",
+      "audio": false
+    },
+    "en": {
+      "text": "I will have been working here for a year by August",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я так долго жду это",
-    "en": "I've been waiting for it for so long"
+    "id": 4,
+    "ru": {
+      "text": "Я так долго жду это",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been waiting for it for so long",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Как долго ты здесь учишься?",
-    "en": "How long have you been studying here?"
+    "id": 5,
+    "ru": {
+      "text": "Как долго ты здесь учишься?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long have you been studying here?",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я жду этого час. Я больше не могу ждать этого",
-    "en": "I've been waiting for it for an hour. I can't wait for it anymore"
+    "id": 6,
+    "ru": {
+      "text": "Я жду этого час. Я больше не могу ждать этого",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been waiting for it for an hour. I can't wait for it anymore",
+      "audio": false
+    }
   }
 ]

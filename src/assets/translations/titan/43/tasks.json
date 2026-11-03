@@ -1,462 +1,1014 @@
 [
   {
-    "_id": 1,
-    "ru": "Кто был твоим учителем?",
-    "en": "Who was your teacher?"
-  },
-  {
-    "_id": 2,
-    "ru": "Где ты был вчера?",
-    "en": "Where were you yesterday?"
-  },
-  {
-    "_id": 3,
-    "ru": "Кто был твоим учителем?",
-    "en": "Who was your teacher?"
-  },
-  {
-    "_id": 4,
-    "ru": "Почему это было так необычно?",
-    "en": "Why was it so unusual?"
-  },
-  {
-    "_id": 5,
-    "ru": "Как он был?",
-    "en": "How was he?"
-  },
-  {
-    "_id": 6,
-    "ru": "Кто был твоим тренером?",
-    "en": "Who was your trainer?"
-  },
-  {
-    "_id": 7,
-    "ru": "Где он был прошлой ночью?",
-    "en": "Where was he last night?"
-  },
-  {
-    "_id": 8,
-    "ru": "Почему ты был там?",
-    "en": "Why were you there?"
-  },
-  {
-    "_id": 9,
-    "ru": "Где это было?",
-    "en": "Where was it?"
-  },
-  {
-    "_id": 10,
-    "ru": "Кто был прав?",
-    "en": "Who was right?"
-  },
-  {
-    "_id": 11,
-    "ru": "Почему это было неправильно?",
-    "en": "Why was it wrong?"
-  },
-  {
-    "_id": 12,
-    "ru": "Где ты был вчера?",
-    "en": "Where were you yesterday?"
-  },
-  {
-    "_id": 13,
-    "ru": "Почему она была так расстроена?",
-    "en": "Why was she so upset?"
-  },
-  {
-    "_id": 14,
-    "ru": "Почему ты был таким уставшим?",
-    "en": "Why were you so tired?"
-  },
-  {
-    "_id": 15,
-    "ru": "Что было лучше?",
-    "en": "What was better?"
-  },
-  {
-    "_id": 16,
-    "ru": "Почему это было так скучно?",
-    "en": "Why was it so boring?"
-  },
-  {
-    "_id": 17,
-    "ru": "Когда ты был дома?",
-    "en": "When were you at home?"
-  },
-  {
-    "_id": 18,
-    "ru": "Сколько это стоило?",
-    "en": "How much was it?"
-  },
-  {
-    "_id": 19,
-    "ru": "Почему он был такой грустный?",
-    "en": "Why was he so sad?"
-  },
-  {
-    "_id": 20,
-    "ru": "Где ты был в прошлом году?",
-    "en": "Where were you last year?"
-  },
-  {
-    "_id": 21,
-    "ru": "Почему это было так дешево?",
-    "en": "Why was it so cheap?"
-  },
-  {
-    "_id": 22,
-    "ru": "Кто был с тобой?",
-    "en": "Who was with you?"
-  },
-  {
-    "_id": 23,
-    "ru": "Они были хорошими студентами?",
-    "en": "Were they good students?"
-  },
-  {
-    "_id": 24,
-    "ru": "Почему это было так важно?",
-    "en": "Why was it so important?"
-  },
-  {
-    "_id": 25,
-    "ru": "Где он был вчера утром?",
-    "en": "Where was he yesterday morning?"
-  },
-  {
-    "_id": 26,
-    "ru": "Как у нее были дела?",
-    "en": "How was she?"
-  },
-  {
-    "_id": 27,
-    "ru": "Почему это было неправильно?",
-    "en": "Why was it incorrect?"
-  },
-  {
-    "_id": 28,
-    "ru": "Кто был не прав?",
-    "en": "Who was wrong?"
-  },
-  {
-    "_id": 29,
-    "ru": "Что было так сложно для тебя?",
-    "en": "What was so difficult for you?"
-  },
-  {
-    "_id": 30,
-    "ru": "Как это было?",
-    "en": "How was it?"
-  },
-  {
-    "_id": 31,
-    "ru": "Что было так необычно для тебя?",
-    "en": "What was so unusual for you?"
-  },
-  {
-    "_id": 32,
-    "ru": "Когда ты был болен?",
-    "en": "When were you ill?"
-  },
-  {
-    "_id": 33,
-    "ru": "Почему это было так дорого?",
-    "en": "Why was it so expensive?"
-  },
-  {
-    "_id": 34,
-    "ru": "Кто был с твоим братом?",
-    "en": "Who was with your brother?"
-  },
-  {
-    "_id": 35,
-    "ru": "Почему ты был так счастлив?",
-    "en": "Why were you so happy?"
-  },
-  {
-    "_id": 36,
-    "ru": "Почему он был так зол?",
-    "en": "Why was he so angry?"
-  },
-  {
-    "_id": 37,
-    "ru": "Когда ты был там последний раз?",
-    "en": "When were you there last time?"
-  },
-  {
-    "_id": 38,
-    "ru": "Как долго это было?",
-    "en": "How long was it?"
-  },
-  {
-    "_id": 39,
-    "ru": "Сколько было времени?",
-    "en": "What time was it?"
-  },
-  {
-    "_id": 40,
-    "ru": "Как далеко это было?",
-    "en": "How far was it?"
-  },
-  {
-    "_id": 41,
-    "ru": "Какой ответ был правильным?",
-    "en": "Which answer was correct?"
-  },
-  {
-    "_id": 42,
-    "ru": "Что было в углу?",
-    "en": "What was in the corner?"
-  },
-  {
-    "_id": 43,
-    "ru": "Ты тоже был на вечеринке?",
-    "en": "Were you also at the party?"
-  },
-  {
-    "_id": 44,
-    "ru": "Сколько ей было лет?",
-    "en": "How old was she?"
-  },
-  {
-    "_id": 45,
-    "ru": "Когда она была во дворе?",
-    "en": "When was she in the yard?"
-  },
-  {
-    "_id": 46,
-    "ru": "Что было в классе?",
-    "en": "What was in the classroom?"
-  },
-  {
-    "_id": 47,
-    "ru": "Что было на письменном столе?",
-    "en": "What was on the desk?"
-  },
-  {
-    "_id": 48,
-    "ru": "Она тоже была в том месте?",
-    "en": "Was she also in that place?"
-  },
-  {
-    "_id": 49,
-    "ru": "Что было за коробкой?",
-    "en": "What was behind the box?"
-  },
-  {
-    "_id": 50,
-    "ru": "Что было в том углу?",
-    "en": "What was in that corner?"
-  },
-  {
-    "_id": 51,
-    "ru": "Сколько ему было лет?",
-    "en": "How old was he?"
-  },
-  {
-    "_id": 52,
-    "ru": "Кто был в классе?",
-    "en": "Who was in the classroom?"
-  },
-  {
-    "_id": 53,
-    "ru": "Как часто ты был там?",
-    "en": "How often were you there?"
-  },
-  {
-    "_id": 54,
-    "ru": "Он тоже там был?",
-    "en": "Was he also there?"
-  },
-  {
-    "_id": 55,
-    "ru": "Она тоже там была?",
-    "en": "Was she also there?"
-  },
-  {
-    "_id": 56,
-    "ru": "Он был там вчера?",
-    "en": "Was he there yesterday?"
-  },
-  {
-    "_id": 57,
-    "ru": "Когда ты был во дворе?",
-    "en": "When were you in the yard?"
-  },
-  {
-    "_id": 58,
-    "ru": "Когда ты был в саду?",
-    "en": "When were you in the garden?"
-  },
-  {
-    "_id": 59,
-    "ru": "Что было на столе?",
-    "en": "What was on the table?"
-  },
-  {
-    "_id": 60,
-    "ru": "Кто был на столе?",
-    "en": "Who was on the table?"
-  },
-  {
-    "_id": 61,
-    "ru": "Что было на стуле?",
-    "en": "What was on the chair?"
-  },
-  {
-    "_id": 62,
-    "ru": "Какая у него была работа?",
-    "en": "What was his job?"
-  },
-  {
-    "_id": 63,
-    "ru": "Какой была ее работа?",
-    "en": "What was her job?"
-  },
-  {
-    "_id": 64,
-    "ru": "Кто был его другом?",
-    "en": "Who was his friend?"
-  },
-  {
-    "_id": 65,
-    "ru": "Чья идея была лучше?",
-    "en": "Whose idea was better?"
-  },
-  {
-    "_id": 66,
-    "ru": "Чья идея лучшая?",
-    "en": "Whose idea is the best?"
-  },
-  {
-    "_id": 67,
-    "ru": "Кто был в парке?",
-    "en": "Who was in the park?"
-  },
-  {
-    "_id": 68,
-    "ru": "Кто был в доме?",
-    "en": "Who was in the house?"
-  },
-  {
-    "_id": 69,
-    "ru": "Что было на дереве?",
-    "en": "What was in(on) the tree?"
-  },
-  {
-    "_id": 70,
-    "ru": "Во сколько ты был там?",
-    "en": "What time were you there?"
-  },
-  {
-    "_id": 71,
-    "ru": "Во сколько ты был здесь?",
-    "en": "What time were you here?"
-  },
-  {
-    "_id": 72,
-    "ru": "Во сколько он был дома?",
-    "en": "What time was he at home?"
-  },
-  {
-    "_id": 73,
-    "ru": "Чья книга была интереснее?",
-    "en": "Whose book was more interesting?"
-  },
-  {
-    "_id": 74,
-    "ru": "Которая книга была там?",
-    "en": "Which book was there?"
-  },
-  {
-    "_id": 75,
-    "ru": "Какой был ее ответ?",
-    "en": "What was her answer?"
-  },
-  {
-    "_id": 76,
-    "ru": "Какой ответ был правильным?",
-    "en": "Which answer was right?"
-  },
-  {
-    "_id": 77,
-    "ru": "Какой вопрос был правильным?",
-    "en": "Which question was correct?"
-  },
-  {
-    "_id": 78,
-    "ru": "Какие ответы были неправильными?",
-    "en": "Which answers were wrong?"
-  },
-  {
-    "_id": 79,
-    "ru": "Сколько тебе было лет?",
-    "en": "How old were you?"
-  },
-  {
-    "_id": 80,
-    "ru": "Какой билет был дороже?",
-    "en": "Which ticket was more expensive?"
-  },
-  {
-    "_id": 81,
-    "ru": "Кто был во дворе?",
-    "en": "Who was in the yard?"
-  },
-  {
-    "_id": 82,
-    "ru": "Насколько это было трудно для тебя?",
-    "en": "How difficult was it for you?"
-  },
-  {
-    "_id": 83,
-    "ru": "Он был на вечеринке?",
-    "en": "Was he at the party?"
-  },
-  {
-    "_id": 84,
-    "ru": "Что было в коробке?",
-    "en": "What was in the box?"
-  },
-  {
-    "_id": 85,
-    "ru": "Насколько это было эффективно?",
-    "en": "How effective was it?"
-  },
-  {
-    "_id": 86,
-    "ru": "Кто был за тем деревом?",
-    "en": "Who was behind that tree?"
-  },
-  {
-    "_id": 87,
-    "ru": "Кто был в лесу?",
-    "en": "Who was in the forest?"
-  },
-  {
-    "_id": 88,
-    "ru": "Что было на полу?",
-    "en": "What was on the floor?"
-  },
-  {
-    "_id": 89,
-    "ru": "Кто был в саду?",
-    "en": "Who was in the garden?"
-  },
-  {
-    "_id": 90,
-    "ru": "Ты был также с ними?",
-    "en": "Were you also with them?"
-  },
-  {
-    "_id": 91,
-    "ru": "Что было за той коробкой?",
-    "en": "What was behind that box?"
-  },
-  {
-    "_id": 92,
-    "ru": "Насколько это было интересно?",
-    "en": "How interesting was it?"
+    "id": 1,
+    "ru": {
+      "text": "Кто был твоим учителем?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was your teacher?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Где ты был вчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where were you yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Кто был твоим учителем?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was your teacher?",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Почему это было так необычно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was it so unusual?",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Как он был?",
+      "audio": false
+    },
+    "en": {
+      "text": "How was he?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Кто был твоим тренером?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was your trainer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Где он был прошлой ночью?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where was he last night?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Почему ты был там?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why were you there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Где это было?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where was it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Кто был прав?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was right?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Почему это было неправильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was it wrong?",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Где ты был вчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where were you yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Почему она была так расстроена?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was she so upset?",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Почему ты был таким уставшим?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why were you so tired?",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Что было лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was better?",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Почему это было так скучно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was it so boring?",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Когда ты был дома?",
+      "audio": false
+    },
+    "en": {
+      "text": "When were you at home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Сколько это стоило?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much was it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Почему он был такой грустный?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was he so sad?",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Где ты был в прошлом году?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where were you last year?",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Почему это было так дешево?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was it so cheap?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Кто был с тобой?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was with you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Они были хорошими студентами?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were they good students?",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Почему это было так важно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was it so important?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Где он был вчера утром?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where was he yesterday morning?",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Как у нее были дела?",
+      "audio": false
+    },
+    "en": {
+      "text": "How was she?",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Почему это было неправильно?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was it incorrect?",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Кто был не прав?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was wrong?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Что было так сложно для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was so difficult for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Как это было?",
+      "audio": false
+    },
+    "en": {
+      "text": "How was it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Что было так необычно для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was so unusual for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Когда ты был болен?",
+      "audio": false
+    },
+    "en": {
+      "text": "When were you ill?",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Почему это было так дорого?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was it so expensive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Кто был с твоим братом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was with your brother?",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Почему ты был так счастлив?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why were you so happy?",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Почему он был так зол?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why was he so angry?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Когда ты был там последний раз?",
+      "audio": false
+    },
+    "en": {
+      "text": "When were you there last time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Как долго это было?",
+      "audio": false
+    },
+    "en": {
+      "text": "How long was it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Сколько было времени?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time was it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Как далеко это было?",
+      "audio": false
+    },
+    "en": {
+      "text": "How far was it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Какой ответ был правильным?",
+      "audio": false
+    },
+    "en": {
+      "text": "Which answer was correct?",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Что было в углу?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was in the corner?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Ты тоже был на вечеринке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you also at the party?",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Сколько ей было лет?",
+      "audio": false
+    },
+    "en": {
+      "text": "How old was she?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Когда она была во дворе?",
+      "audio": false
+    },
+    "en": {
+      "text": "When was she in the yard?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Что было в классе?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was in the classroom?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Что было на письменном столе?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was on the desk?",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Она тоже была в том месте?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was she also in that place?",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Что было за коробкой?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was behind the box?",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Что было в том углу?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was in that corner?",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Сколько ему было лет?",
+      "audio": false
+    },
+    "en": {
+      "text": "How old was he?",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Кто был в классе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was in the classroom?",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Как часто ты был там?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often were you there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Он тоже там был?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was he also there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Она тоже там была?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was she also there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Он был там вчера?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was he there yesterday?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Когда ты был во дворе?",
+      "audio": false
+    },
+    "en": {
+      "text": "When were you in the yard?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Когда ты был в саду?",
+      "audio": false
+    },
+    "en": {
+      "text": "When were you in the garden?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Что было на столе?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was on the table?",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Кто был на столе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was on the table?",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Что было на стуле?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was on the chair?",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Какая у него была работа?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was his job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Какой была ее работа?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was her job?",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Кто был его другом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was his friend?",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Чья идея была лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Whose idea was better?",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Чья идея лучшая?",
+      "audio": false
+    },
+    "en": {
+      "text": "Whose idea is the best?",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Кто был в парке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was in the park?",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Кто был в доме?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was in the house?",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Что было на дереве?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was in(on) the tree?",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Во сколько ты был там?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time were you there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Во сколько ты был здесь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time were you here?",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Во сколько он был дома?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time was he at home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Чья книга была интереснее?",
+      "audio": false
+    },
+    "en": {
+      "text": "Whose book was more interesting?",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Которая книга была там?",
+      "audio": false
+    },
+    "en": {
+      "text": "Which book was there?",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Какой был ее ответ?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was her answer?",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Какой ответ был правильным?",
+      "audio": false
+    },
+    "en": {
+      "text": "Which answer was right?",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Какой вопрос был правильным?",
+      "audio": false
+    },
+    "en": {
+      "text": "Which question was correct?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Какие ответы были неправильными?",
+      "audio": false
+    },
+    "en": {
+      "text": "Which answers were wrong?",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Сколько тебе было лет?",
+      "audio": false
+    },
+    "en": {
+      "text": "How old were you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Какой билет был дороже?",
+      "audio": false
+    },
+    "en": {
+      "text": "Which ticket was more expensive?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Кто был во дворе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was in the yard?",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Насколько это было трудно для тебя?",
+      "audio": false
+    },
+    "en": {
+      "text": "How difficult was it for you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Он был на вечеринке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Was he at the party?",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Что было в коробке?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was in the box?",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Насколько это было эффективно?",
+      "audio": false
+    },
+    "en": {
+      "text": "How effective was it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Кто был за тем деревом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was behind that tree?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Кто был в лесу?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was in the forest?",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Что было на полу?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was on the floor?",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Кто был в саду?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was in the garden?",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Ты был также с ними?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you also with them?",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Что было за той коробкой?",
+      "audio": false
+    },
+    "en": {
+      "text": "What was behind that box?",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Насколько это было интересно?",
+      "audio": false
+    },
+    "en": {
+      "text": "How interesting was it?",
+      "audio": false
+    }
   }
 ]

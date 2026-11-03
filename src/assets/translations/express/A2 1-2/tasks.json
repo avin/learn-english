@@ -1,207 +1,453 @@
 [
   {
-    "_id": 1,
-    "ru": "Ты когда-либо был в Америке?",
-    "en": "Have you ever been to America?"
+    "id": 1,
+    "ru": {
+      "text": "Ты когда-либо был в Америке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever been to America?",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я всегда хотел добиться успеха в жизни",
-    "en": "I've always wanted to succeed in life"
+    "id": 2,
+    "ru": {
+      "text": "Я всегда хотел добиться успеха в жизни",
+      "audio": false
+    },
+    "en": {
+      "text": "I've always wanted to succeed in life",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Ты знаешь, я был там так много раз",
-    "en": "You know, I've been there so many times"
+    "id": 3,
+    "ru": {
+      "text": "Ты знаешь, я был там так много раз",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, I've been there so many times",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я был там несколько раз",
-    "en": "I've been there several times"
+    "id": 4,
+    "ru": {
+      "text": "Я был там несколько раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been there several times",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Ты был в Америке в прошлом году?",
-    "en": "Were you in America last year?"
+    "id": 5,
+    "ru": {
+      "text": "Ты был в Америке в прошлом году?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you in America last year?",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Когда ты был там?",
-    "en": "When were you there?"
+    "id": 6,
+    "ru": {
+      "text": "Когда ты был там?",
+      "audio": false
+    },
+    "en": {
+      "text": "When were you there?",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Ты был за границей?",
-    "en": "Have you been abroad?"
+    "id": 7,
+    "ru": {
+      "text": "Ты был за границей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you been abroad?",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я был там много раз",
-    "en": "I've been there many times"
+    "id": 8,
+    "ru": {
+      "text": "Я был там много раз",
+      "audio": false
+    },
+    "en": {
+      "text": "I've been there many times",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Ты был в Китае два года назад?",
-    "en": "Were you in China two years ago?"
+    "id": 9,
+    "ru": {
+      "text": "Ты был в Китае два года назад?",
+      "audio": false
+    },
+    "en": {
+      "text": "Were you in China two years ago?",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Я не нашел еще ничего подходящего",
-    "en": "I haven't found anything suitable yet"
+    "id": 10,
+    "ru": {
+      "text": "Я не нашел еще ничего подходящего",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't found anything suitable yet",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Я всегда хотел уделять этому больше свободного времени",
-    "en": "I've always wanted to devote more free time to it"
+    "id": 11,
+    "ru": {
+      "text": "Я всегда хотел уделять этому больше свободного времени",
+      "audio": false
+    },
+    "en": {
+      "text": "I've always wanted to devote more free time to it",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я уже отправил ему это сообщение",
-    "en": "I've already sent him this message"
+    "id": 12,
+    "ru": {
+      "text": "Я уже отправил ему это сообщение",
+      "audio": false
+    },
+    "en": {
+      "text": "I've already sent him this message",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Ты когда-нибудь был в Италии? Я был там в прошлом году",
-    "en": "Have you ever been to Italy? I was there last year"
+    "id": 13,
+    "ru": {
+      "text": "Ты когда-нибудь был в Италии? Я был там в прошлом году",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever been to Italy? I was there last year",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я только что прибыл в Англию",
-    "en": "I've just arrived in England"
+    "id": 14,
+    "ru": {
+      "text": "Я только что прибыл в Англию",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just arrived in England",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Ты когда-нибудь был в этой стране?",
-    "en": "Have you ever been to this country?"
+    "id": 15,
+    "ru": {
+      "text": "Ты когда-нибудь был в этой стране?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever been to this country?",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Как я знаю, он выпустил этот альбом около года назад",
-    "en": "As I know, he released this album about a year ago"
+    "id": 16,
+    "ru": {
+      "text": "Как я знаю, он выпустил этот альбом около года назад",
+      "audio": false
+    },
+    "en": {
+      "text": "As I know, he released this album about a year ago",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я никогда не думал об этом",
-    "en": "I've never thought about it"
+    "id": 17,
+    "ru": {
+      "text": "Я никогда не думал об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "I've never thought about it",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Когда ты был там в последний раз?",
-    "en": "When were you there last time?"
+    "id": 18,
+    "ru": {
+      "text": "Когда ты был там в последний раз?",
+      "audio": false
+    },
+    "en": {
+      "text": "When were you there last time?",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Ты был в Китае?",
-    "en": "Have you been to China?"
+    "id": 19,
+    "ru": {
+      "text": "Ты был в Китае?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you been to China?",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Ты когда-нибудь был за границей?",
-    "en": "Have you ever been abroad?"
+    "id": 20,
+    "ru": {
+      "text": "Ты когда-нибудь был за границей?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever been abroad?",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Она всегда хотела изучать психологию",
-    "en": "She has always wanted to study psychology"
+    "id": 21,
+    "ru": {
+      "text": "Она всегда хотела изучать психологию",
+      "audio": false
+    },
+    "en": {
+      "text": "She has always wanted to study psychology",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Ты когда-нибудь был в Латинской Америке? Я еще не был там",
-    "en": "Have you ever been to Latin America? I haven't been there yet"
+    "id": 22,
+    "ru": {
+      "text": "Ты когда-нибудь был в Латинской Америке? Я еще не был там",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever been to Latin America? I haven't been there yet",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Он никогда не был за границей",
-    "en": "He's never been abroad"
+    "id": 23,
+    "ru": {
+      "text": "Он никогда не был за границей",
+      "audio": false
+    },
+    "en": {
+      "text": "He's never been abroad",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Ты знаешь, я всегда хотел добиться успеха в жизни",
-    "en": "You know, I've always wanted to succeed in life"
+    "id": 24,
+    "ru": {
+      "text": "Ты знаешь, я всегда хотел добиться успеха в жизни",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, I've always wanted to succeed in life",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Я еще не достиг этой цели",
-    "en": "I haven't achieved this aim yet"
+    "id": 25,
+    "ru": {
+      "text": "Я еще не достиг этой цели",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't achieved this aim yet",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Ты когда-нибудь был в этом городе?",
-    "en": "Have you ever been to this city?"
+    "id": 26,
+    "ru": {
+      "text": "Ты когда-нибудь был в этом городе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever been to this city?",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Ты знаешь, я слышал это так много раз",
-    "en": "You know, I've heard it so many times"
+    "id": 27,
+    "ru": {
+      "text": "Ты знаешь, я слышал это так много раз",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, I've heard it so many times",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Как я знаю, они уже приняли надлежащие меры",
-    "en": "As I know, they have already taken proper measures"
+    "id": 28,
+    "ru": {
+      "text": "Как я знаю, они уже приняли надлежащие меры",
+      "audio": false
+    },
+    "en": {
+      "text": "As I know, they have already taken proper measures",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Он приглашал меня к себе много раз",
-    "en": "He's invited me to him many times"
+    "id": 29,
+    "ru": {
+      "text": "Он приглашал меня к себе много раз",
+      "audio": false
+    },
+    "en": {
+      "text": "He's invited me to him many times",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Она уже упоминала это во время разговора",
-    "en": "She's already mentioned it during the conversation"
+    "id": 30,
+    "ru": {
+      "text": "Она уже упоминала это во время разговора",
+      "audio": false
+    },
+    "en": {
+      "text": "She's already mentioned it during the conversation",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Ты был в Индии?",
-    "en": "Have you been to India?"
+    "id": 31,
+    "ru": {
+      "text": "Ты был в Индии?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you been to India?",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Я только что прибыл в аэропорт",
-    "en": "I've just arrived at the airport"
+    "id": 32,
+    "ru": {
+      "text": "Я только что прибыл в аэропорт",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just arrived at the airport",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Если честно, я никогда не рассматривал это действительно всерьез",
-    "en": "To be honest, I've never considered it really seriously"
+    "id": 33,
+    "ru": {
+      "text": "Если честно, я никогда не рассматривал это действительно всерьез",
+      "audio": false
+    },
+    "en": {
+      "text": "To be honest, I've never considered it really seriously",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Ты знаешь, я слышал это тысячу раз",
-    "en": "You know, I've heard it a thousand times"
+    "id": 34,
+    "ru": {
+      "text": "Ты знаешь, я слышал это тысячу раз",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, I've heard it a thousand times",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Ты когда-нибудь был в Англии?",
-    "en": "Have you ever been to England?"
+    "id": 35,
+    "ru": {
+      "text": "Ты когда-нибудь был в Англии?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever been to England?",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Он только что прибыл на вечеринку",
-    "en": "He's just arrived at the party"
+    "id": 36,
+    "ru": {
+      "text": "Он только что прибыл на вечеринку",
+      "audio": false
+    },
+    "en": {
+      "text": "He's just arrived at the party",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Я еще не сделал это",
-    "en": "I haven't done it yet"
+    "id": 37,
+    "ru": {
+      "text": "Я еще не сделал это",
+      "audio": false
+    },
+    "en": {
+      "text": "I haven't done it yet",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Он уже упоминал об этом во время своего разговора",
-    "en": "He's already mentioned it during his conversation"
+    "id": 38,
+    "ru": {
+      "text": "Он уже упоминал об этом во время своего разговора",
+      "audio": false
+    },
+    "en": {
+      "text": "He's already mentioned it during his conversation",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Как я знаю, они выпустили этот альбом около месяца назад",
-    "en": "As I know, they released this album about a month ago"
+    "id": 39,
+    "ru": {
+      "text": "Как я знаю, они выпустили этот альбом около месяца назад",
+      "audio": false
+    },
+    "en": {
+      "text": "As I know, they released this album about a month ago",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Ты когда-нибудь был в Испании? Еще нет",
-    "en": "Have you ever been to Spain? Not yet"
+    "id": 40,
+    "ru": {
+      "text": "Ты когда-нибудь был в Испании? Еще нет",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever been to Spain? Not yet",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Ты когда-нибудь был в Соединенных Штатах?",
-    "en": "Have you ever been to the United States?"
+    "id": 41,
+    "ru": {
+      "text": "Ты когда-нибудь был в Соединенных Штатах?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you ever been to the United States?",
+      "audio": false
+    }
   }
 ]

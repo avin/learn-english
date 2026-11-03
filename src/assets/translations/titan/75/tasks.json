@@ -1,432 +1,948 @@
 [
   {
-    "_id": 1,
-    "ru": "Во сколько твоя жена обычно возвращается домой?",
-    "en": "What time does your wife usually return home?"
-  },
-  {
-    "_id": 2,
-    "ru": "Я хочу достичь следующего уровня как можно скорее",
-    "en": "I want to reach the next level as soon as possible"
-  },
-  {
-    "_id": 3,
-    "ru": "Это может случиться с каждым",
-    "en": "It can happen to everyone"
-  },
-  {
-    "_id": 4,
-    "ru": "Я пишу по-английски очень редко",
-    "en": "I write in English very seldom"
-  },
-  {
-    "_id": 5,
-    "ru": "Ты веришь в любовь с первого взгляда?",
-    "en": "Do you believe in love at first sight?"
-  },
-  {
-    "_id": 6,
-    "ru": "Я желаю тебе всего самого лучшего",
-    "en": "I wish you all the best"
-  },
-  {
-    "_id": 7,
-    "ru": "Во сколько он обычно уходит из дома?",
-    "en": "What time does he usually leave home?"
-  },
-  {
-    "_id": 8,
-    "ru": "Это упражнение развивает наш разум",
-    "en": "This exercise develops our mind"
-  },
-  {
-    "_id": 9,
-    "ru": "Он не хочет одалживать деньги",
-    "en": "He doesn't want to lend money"
-  },
-  {
-    "_id": 10,
-    "ru": "Ты можешь прийти ко мне сегодня",
-    "en": "You can come to me today"
-  },
-  {
-    "_id": 11,
-    "ru": "Я вижу, что они действительно любят друг друга",
-    "en": "I see that they really love each other"
-  },
-  {
-    "_id": 12,
-    "ru": "Ты веришь в Бога?",
-    "en": "Do you believe in God?"
-  },
-  {
-    "_id": 13,
-    "ru": "Ты можешь потрогать это",
-    "en": "You can touch it"
-  },
-  {
-    "_id": 14,
-    "ru": "Не оставляй свою сумку здесь!",
-    "en": "Don't leave your bag here!"
-  },
-  {
-    "_id": 15,
-    "ru": "Я тебя очень сильно люблю",
-    "en": "I love you very much"
-  },
-  {
-    "_id": 16,
-    "ru": "Я хочу принять это предложение",
-    "en": "I want to take this offer"
-  },
-  {
-    "_id": 17,
-    "ru": "Просто верь мне!",
-    "en": "Just believe me!"
-  },
-  {
-    "_id": 18,
-    "ru": "Сядь, пожалуйста!",
-    "en": "Sit down, please!"
-  },
-  {
-    "_id": 19,
-    "ru": "Она никогда не говорит о своей личной жизни",
-    "en": "She never talks about her private life"
-  },
-  {
-    "_id": 20,
-    "ru": "Мы можем продолжить наше обсуждение",
-    "en": "We can continue our discussion"
-  },
-  {
-    "_id": 21,
-    "ru": "Кто готовит лучше?",
-    "en": "Who cooks better?"
-  },
-  {
-    "_id": 22,
-    "ru": "Эти физические упражнения развивают наше тело",
-    "en": "These physical exercises develop our body"
-  },
-  {
-    "_id": 23,
-    "ru": "Не подписывай этот контракт!",
-    "en": "Don't sign this contract!"
-  },
-  {
-    "_id": 24,
-    "ru": "Почему они жалуются все время?",
-    "en": "Why do they complain all the time?"
-  },
-  {
-    "_id": 25,
-    "ru": "Не трогай это!",
-    "en": "Don't touch it!"
-  },
-  {
-    "_id": 26,
-    "ru": "Это предложение звучит очень интересно",
-    "en": "This offer sounds very interesting"
-  },
-  {
-    "_id": 27,
-    "ru": "Я полагаю, это может быть так",
-    "en": "I suppose it can be so"
-  },
-  {
-    "_id": 28,
-    "ru": "Ты можешь подождать меня?",
-    "en": "Can you wait for me?"
-  },
-  {
-    "_id": 29,
-    "ru": "Тебе нужно что-то выбрать",
-    "en": "You need to choose something"
-  },
-  {
-    "_id": 30,
-    "ru": "Я предпочитаю сидеть на мягком стуле",
-    "en": "I prefer to sit on a soft chair"
-  },
-  {
-    "_id": 31,
-    "ru": "Это делает меня действительно счастливым",
-    "en": "It makes me really happy"
-  },
-  {
-    "_id": 32,
-    "ru": "Ты можешь оставить здесь свои комментарии",
-    "en": "You can leave your comments here"
-  },
-  {
-    "_id": 33,
-    "ru": "Давай продолжим нашу беседу!",
-    "en": "Let's continue our conversation!"
-  },
-  {
-    "_id": 34,
-    "ru": "Я желаю тебе удачи",
-    "en": "I wish you good luck"
-  },
-  {
-    "_id": 35,
-    "ru": "Они не целуются на публике",
-    "en": "They don't kiss in public"
-  },
-  {
-    "_id": 36,
-    "ru": "Почему он делает так много ошибок?",
-    "en": "Why does he make so many mistakes?"
-  },
-  {
-    "_id": 37,
-    "ru": "Я прежде всего хочу достичь промежуточного уровня",
-    "en": "I want to reach an Intermediate level first of all"
-  },
-  {
-    "_id": 38,
-    "ru": "Это не так легко учиться и работать одновременно",
-    "en": "It isn't so easy to study and work at the same time"
-  },
-  {
-    "_id": 39,
-    "ru": "Это может случиться с каждым из нас",
-    "en": "It can happen to each of us"
-  },
-  {
-    "_id": 40,
-    "ru": "Я частично с тобой согласен",
-    "en": "I partly agree with you"
-  },
-  {
-    "_id": 41,
-    "ru": "Так много людей живут в бедности",
-    "en": "So many people live in poverty"
-  },
-  {
-    "_id": 42,
-    "ru": "Что он отказывается делать?",
-    "en": "What does he refuse to do?"
-  },
-  {
-    "_id": 43,
-    "ru": "Она никогда не рассказывает мне эти вещи",
-    "en": "She never tells me these things"
-  },
-  {
-    "_id": 44,
-    "ru": "Что происходит с ним?",
-    "en": "What happens to him?"
-  },
-  {
-    "_id": 45,
-    "ru": "Что с ней произошло?",
-    "en": "What happened to her?"
-  },
-  {
-    "_id": 46,
-    "ru": "Когда это произошло с тобой?",
-    "en": "When did it happen to you?"
-  },
-  {
-    "_id": 47,
-    "ru": "Я перезвоню тебе через минуту",
-    "en": "I'll call you back in a minute"
-  },
-  {
-    "_id": 48,
-    "ru": "Я позвоню ему через минуту",
-    "en": "I'll call him in a minute"
-  },
-  {
-    "_id": 49,
-    "ru": "Он перезвонит ей через минуту",
-    "en": "He'll call her back in a minute"
-  },
-  {
-    "_id": 50,
-    "ru": "Не подписывай этот документ, не читая!",
-    "en": "Don't sign this document without reading!"
-  },
-  {
-    "_id": 51,
-    "ru": "Ты не можешь подписать этот документ, не читая!",
-    "en": "You can't sign this document without reading!"
-  },
-  {
-    "_id": 52,
-    "ru": "Не подписывай эти документы, не читая!",
-    "en": "Don't sign these documents without reading!"
-  },
-  {
-    "_id": 53,
-    "ru": "Мне нужно подумать об этом более тщательно",
-    "en": "I need to think about it more thoroughly"
-  },
-  {
-    "_id": 54,
-    "ru": "Я хочу подумать об этом более тщательно",
-    "en": "I want to think about it more thoroughly"
-  },
-  {
-    "_id": 55,
-    "ru": "Мне следует подумать об этом более тщательно",
-    "en": "I should think about it more thoroughly"
-  },
-  {
-    "_id": 56,
-    "ru": "Кто действительно заботится об этом?",
-    "en": "Who really cares about it?"
-  },
-  {
-    "_id": 57,
-    "ru": "Кто действительно заботится о тебе?",
-    "en": "Who really cares about you?"
-  },
-  {
-    "_id": 58,
-    "ru": "Ты действительно заботишься об этом?",
-    "en": "Do you really care about it?"
-  },
-  {
-    "_id": 59,
-    "ru": "Я полагаю, мы на правильном пути",
-    "en": "I suppose we're on the right way"
-  },
-  {
-    "_id": 60,
-    "ru": "Я полагаю, что они на правильном пути",
-    "en": "I suppose that they're on the right way"
-  },
-  {
-    "_id": 61,
-    "ru": "Я думаю, что мы на правильном пути",
-    "en": "I think that we're on the right way"
-  },
-  {
-    "_id": 62,
-    "ru": "Он отказывается брать эти деньги у меня",
-    "en": "He refuses to take this money from me"
-  },
-  {
-    "_id": 63,
-    "ru": "Я отказываюсь брать у тебя эти деньги",
-    "en": "I refuse to take this money from you"
-  },
-  {
-    "_id": 64,
-    "ru": "Он хочет взять у них эти деньги",
-    "en": "He wants to take this money from them"
-  },
-  {
-    "_id": 65,
-    "ru": "Тебе нужно заботиться о своем здоровье",
-    "en": "You need to look after your health"
-  },
-  {
-    "_id": 66,
-    "ru": "Ты должен заботиться о своем здоровье",
-    "en": "You must look after your health"
-  },
-  {
-    "_id": 67,
-    "ru": "Ей нужно заботиться о своем здоровье",
-    "en": "She needs to look after her health"
-  },
-  {
-    "_id": 68,
-    "ru": "Я не хочу жаловаться на это",
-    "en": "I don't want to complain about it"
-  },
-  {
-    "_id": 69,
-    "ru": "Она не хочет жаловаться на это",
-    "en": "She doesn't want to complain about it"
-  },
-  {
-    "_id": 70,
-    "ru": "Я хочу пожаловаться на это",
-    "en": "I want to complain about it"
-  },
-  {
-    "_id": 71,
-    "ru": "Ты знаешь, что это всегда привлекает мое внимание",
-    "en": "You know that it always attracts my attention"
-  },
-  {
-    "_id": 72,
-    "ru": "Она знает, что это всегда привлекает мое внимание",
-    "en": "She knows that it always attracts my attention"
-  },
-  {
-    "_id": 73,
-    "ru": "Ты знаешь, это всегда привлекает мое внимание",
-    "en": "You know, it always attracts my attention"
-  },
-  {
-    "_id": 74,
-    "ru": "К сожалению, у него не достаточно времени на это",
-    "en": "Unfortunately, he doesn't have enough time for it"
-  },
-  {
-    "_id": 75,
-    "ru": "Я перезвоню ему через пару минут",
-    "en": "I'll call him back in a couple of minutes"
-  },
-  {
-    "_id": 76,
-    "ru": "Не подписывай тот контракт, не читая его",
-    "en": "Don't sign that contract without reading it"
-  },
-  {
-    "_id": 77,
-    "ru": "Что обычно привлекает внимание людей?",
-    "en": "What usually attracts people's attention?"
-  },
-  {
-    "_id": 78,
-    "ru": "Я думаю, что мы можем обсудить это немного позже",
-    "en": "I think that we can discuss it a bit later"
-  },
-  {
-    "_id": 79,
-    "ru": "Я хочу сказать, что я тебя очень сильно люблю",
-    "en": "I want to say that I love you very much"
-  },
-  {
-    "_id": 80,
-    "ru": "Кого действительно волнуют эти проблемы?",
-    "en": "Who really cares about these problems?"
-  },
-  {
-    "_id": 81,
-    "ru": "Ты можешь сказать мне, что ты думаешь обо всем этом",
-    "en": "You can tell me what you think about all this"
-  },
-  {
-    "_id": 82,
-    "ru": "Он никогда не говорит об этом",
-    "en": "He never talks about it"
-  },
-  {
-    "_id": 83,
-    "ru": "Он записывает разные видео ради забавы",
-    "en": "He records different videos for fun"
-  },
-  {
-    "_id": 84,
-    "ru": "Мне нужно обдумать это",
-    "en": "I need to think it over"
-  },
-  {
-    "_id": 85,
-    "ru": "Кого волнует?",
-    "en": "Who cares?"
-  },
-  {
-    "_id": 86,
-    "ru": "Я думаю, что мы на правильном пути",
-    "en": "I think that we're on the right way"
+    "id": 1,
+    "ru": {
+      "text": "Во сколько твоя жена обычно возвращается домой?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time does your wife usually return home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Я хочу достичь следующего уровня как можно скорее",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to reach the next level as soon as possible",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Это может случиться с каждым",
+      "audio": false
+    },
+    "en": {
+      "text": "It can happen to everyone",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Я пишу по-английски очень редко",
+      "audio": false
+    },
+    "en": {
+      "text": "I write in English very seldom",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Ты веришь в любовь с первого взгляда?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you believe in love at first sight?",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Я желаю тебе всего самого лучшего",
+      "audio": false
+    },
+    "en": {
+      "text": "I wish you all the best",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Во сколько он обычно уходит из дома?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time does he usually leave home?",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Это упражнение развивает наш разум",
+      "audio": false
+    },
+    "en": {
+      "text": "This exercise develops our mind",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Он не хочет одалживать деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "He doesn't want to lend money",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Ты можешь прийти ко мне сегодня",
+      "audio": false
+    },
+    "en": {
+      "text": "You can come to me today",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Я вижу, что они действительно любят друг друга",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that they really love each other",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Ты веришь в Бога?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you believe in God?",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Ты можешь потрогать это",
+      "audio": false
+    },
+    "en": {
+      "text": "You can touch it",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Не оставляй свою сумку здесь!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't leave your bag here!",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Я тебя очень сильно люблю",
+      "audio": false
+    },
+    "en": {
+      "text": "I love you very much",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Я хочу принять это предложение",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to take this offer",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Просто верь мне!",
+      "audio": false
+    },
+    "en": {
+      "text": "Just believe me!",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Сядь, пожалуйста!",
+      "audio": false
+    },
+    "en": {
+      "text": "Sit down, please!",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Она никогда не говорит о своей личной жизни",
+      "audio": false
+    },
+    "en": {
+      "text": "She never talks about her private life",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Мы можем продолжить наше обсуждение",
+      "audio": false
+    },
+    "en": {
+      "text": "We can continue our discussion",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Кто готовит лучше?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who cooks better?",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Эти физические упражнения развивают наше тело",
+      "audio": false
+    },
+    "en": {
+      "text": "These physical exercises develop our body",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Не подписывай этот контракт!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't sign this contract!",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Почему они жалуются все время?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why do they complain all the time?",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Не трогай это!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't touch it!",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Это предложение звучит очень интересно",
+      "audio": false
+    },
+    "en": {
+      "text": "This offer sounds very interesting",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я полагаю, это может быть так",
+      "audio": false
+    },
+    "en": {
+      "text": "I suppose it can be so",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Ты можешь подождать меня?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you wait for me?",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Тебе нужно что-то выбрать",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to choose something",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Я предпочитаю сидеть на мягком стуле",
+      "audio": false
+    },
+    "en": {
+      "text": "I prefer to sit on a soft chair",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Это делает меня действительно счастливым",
+      "audio": false
+    },
+    "en": {
+      "text": "It makes me really happy",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Ты можешь оставить здесь свои комментарии",
+      "audio": false
+    },
+    "en": {
+      "text": "You can leave your comments here",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Давай продолжим нашу беседу!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let's continue our conversation!",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Я желаю тебе удачи",
+      "audio": false
+    },
+    "en": {
+      "text": "I wish you good luck",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Они не целуются на публике",
+      "audio": false
+    },
+    "en": {
+      "text": "They don't kiss in public",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Почему он делает так много ошибок?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why does he make so many mistakes?",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я прежде всего хочу достичь промежуточного уровня",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to reach an Intermediate level first of all",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Это не так легко учиться и работать одновременно",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't so easy to study and work at the same time",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Это может случиться с каждым из нас",
+      "audio": false
+    },
+    "en": {
+      "text": "It can happen to each of us",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Я частично с тобой согласен",
+      "audio": false
+    },
+    "en": {
+      "text": "I partly agree with you",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Так много людей живут в бедности",
+      "audio": false
+    },
+    "en": {
+      "text": "So many people live in poverty",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Что он отказывается делать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What does he refuse to do?",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Она никогда не рассказывает мне эти вещи",
+      "audio": false
+    },
+    "en": {
+      "text": "She never tells me these things",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Что происходит с ним?",
+      "audio": false
+    },
+    "en": {
+      "text": "What happens to him?",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Что с ней произошло?",
+      "audio": false
+    },
+    "en": {
+      "text": "What happened to her?",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Когда это произошло с тобой?",
+      "audio": false
+    },
+    "en": {
+      "text": "When did it happen to you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я перезвоню тебе через минуту",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll call you back in a minute",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Я позвоню ему через минуту",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll call him in a minute",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Он перезвонит ей через минуту",
+      "audio": false
+    },
+    "en": {
+      "text": "He'll call her back in a minute",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Не подписывай этот документ, не читая!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't sign this document without reading!",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Ты не можешь подписать этот документ, не читая!",
+      "audio": false
+    },
+    "en": {
+      "text": "You can't sign this document without reading!",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Не подписывай эти документы, не читая!",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't sign these documents without reading!",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Мне нужно подумать об этом более тщательно",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to think about it more thoroughly",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я хочу подумать об этом более тщательно",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to think about it more thoroughly",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Мне следует подумать об этом более тщательно",
+      "audio": false
+    },
+    "en": {
+      "text": "I should think about it more thoroughly",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Кто действительно заботится об этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who really cares about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Кто действительно заботится о тебе?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who really cares about you?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Ты действительно заботишься об этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you really care about it?",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я полагаю, мы на правильном пути",
+      "audio": false
+    },
+    "en": {
+      "text": "I suppose we're on the right way",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Я полагаю, что они на правильном пути",
+      "audio": false
+    },
+    "en": {
+      "text": "I suppose that they're on the right way",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Я думаю, что мы на правильном пути",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that we're on the right way",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Он отказывается брать эти деньги у меня",
+      "audio": false
+    },
+    "en": {
+      "text": "He refuses to take this money from me",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Я отказываюсь брать у тебя эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "I refuse to take this money from you",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он хочет взять у них эти деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to take this money from them",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Тебе нужно заботиться о своем здоровье",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to look after your health",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Ты должен заботиться о своем здоровье",
+      "audio": false
+    },
+    "en": {
+      "text": "You must look after your health",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Ей нужно заботиться о своем здоровье",
+      "audio": false
+    },
+    "en": {
+      "text": "She needs to look after her health",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Я не хочу жаловаться на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I don't want to complain about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Она не хочет жаловаться на это",
+      "audio": false
+    },
+    "en": {
+      "text": "She doesn't want to complain about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Я хочу пожаловаться на это",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to complain about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Ты знаешь, что это всегда привлекает мое внимание",
+      "audio": false
+    },
+    "en": {
+      "text": "You know that it always attracts my attention",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Она знает, что это всегда привлекает мое внимание",
+      "audio": false
+    },
+    "en": {
+      "text": "She knows that it always attracts my attention",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Ты знаешь, это всегда привлекает мое внимание",
+      "audio": false
+    },
+    "en": {
+      "text": "You know, it always attracts my attention",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "К сожалению, у него не достаточно времени на это",
+      "audio": false
+    },
+    "en": {
+      "text": "Unfortunately, he doesn't have enough time for it",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Я перезвоню ему через пару минут",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll call him back in a couple of minutes",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Не подписывай тот контракт, не читая его",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't sign that contract without reading it",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Что обычно привлекает внимание людей?",
+      "audio": false
+    },
+    "en": {
+      "text": "What usually attracts people's attention?",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Я думаю, что мы можем обсудить это немного позже",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that we can discuss it a bit later",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Я хочу сказать, что я тебя очень сильно люблю",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to say that I love you very much",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Кого действительно волнуют эти проблемы?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who really cares about these problems?",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Ты можешь сказать мне, что ты думаешь обо всем этом",
+      "audio": false
+    },
+    "en": {
+      "text": "You can tell me what you think about all this",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Он никогда не говорит об этом",
+      "audio": false
+    },
+    "en": {
+      "text": "He never talks about it",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Он записывает разные видео ради забавы",
+      "audio": false
+    },
+    "en": {
+      "text": "He records different videos for fun",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Мне нужно обдумать это",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to think it over",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Кого волнует?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who cares?",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Я думаю, что мы на правильном пути",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that we're on the right way",
+      "audio": false
+    }
   }
 ]

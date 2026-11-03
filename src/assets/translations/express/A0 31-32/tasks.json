@@ -1,232 +1,508 @@
 [
   {
-    "_id": 1,
-    "ru": "Я закрыл окно",
-    "en": "I closed the window"
+    "id": 1,
+    "ru": {
+      "text": "Я закрыл окно",
+      "audio": false
+    },
+    "en": {
+      "text": "I closed the window",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Мы продолжили наш разговор",
-    "en": "We continued our conversation"
+    "id": 2,
+    "ru": {
+      "text": "Мы продолжили наш разговор",
+      "audio": false
+    },
+    "en": {
+      "text": "We continued our conversation",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Они любили друг друга",
-    "en": "They loved each other"
+    "id": 3,
+    "ru": {
+      "text": "Они любили друг друга",
+      "audio": false
+    },
+    "en": {
+      "text": "They loved each other",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Он любил ее так сильно",
-    "en": "He loved her so much"
+    "id": 4,
+    "ru": {
+      "text": "Он любил ее так сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "He loved her so much",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Кто-то открыл дверь",
-    "en": "Someone opened the door"
+    "id": 5,
+    "ru": {
+      "text": "Кто-то открыл дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "Someone opened the door",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я закрыл дверь",
-    "en": "I closed the door"
+    "id": 6,
+    "ru": {
+      "text": "Я закрыл дверь",
+      "audio": false
+    },
+    "en": {
+      "text": "I closed the door",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Мы остановились в этом отеле",
-    "en": "We stayed at this hotel"
+    "id": 7,
+    "ru": {
+      "text": "Мы остановились в этом отеле",
+      "audio": false
+    },
+    "en": {
+      "text": "We stayed at this hotel",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Я согласился в конце",
-    "en": "I agreed in the end"
+    "id": 8,
+    "ru": {
+      "text": "Я согласился в конце",
+      "audio": false
+    },
+    "en": {
+      "text": "I agreed in the end",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Все изменилось внезапно",
-    "en": "Everything changed suddenly"
+    "id": 9,
+    "ru": {
+      "text": "Все изменилось внезапно",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything changed suddenly",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Мы поддерживали друг друга",
-    "en": "We supported each other"
+    "id": 10,
+    "ru": {
+      "text": "Мы поддерживали друг друга",
+      "audio": false
+    },
+    "en": {
+      "text": "We supported each other",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Мы продолжили этот курс",
-    "en": "We continued this course"
+    "id": 11,
+    "ru": {
+      "text": "Мы продолжили этот курс",
+      "audio": false
+    },
+    "en": {
+      "text": "We continued this course",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Мы повернули назад",
-    "en": "We turned back"
+    "id": 12,
+    "ru": {
+      "text": "Мы повернули назад",
+      "audio": false
+    },
+    "en": {
+      "text": "We turned back",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Они переехали в Америку",
-    "en": "They moved to America"
+    "id": 13,
+    "ru": {
+      "text": "Они переехали в Америку",
+      "audio": false
+    },
+    "en": {
+      "text": "They moved to America",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Это изменило мою жизнь",
-    "en": "It changed my life"
+    "id": 14,
+    "ru": {
+      "text": "Это изменило мою жизнь",
+      "audio": false
+    },
+    "en": {
+      "text": "It changed my life",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Я послушал эту песню",
-    "en": "I listened to this song"
+    "id": 15,
+    "ru": {
+      "text": "Я послушал эту песню",
+      "audio": false
+    },
+    "en": {
+      "text": "I listened to this song",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Я подождал его",
-    "en": "I waited for him"
+    "id": 16,
+    "ru": {
+      "text": "Я подождал его",
+      "audio": false
+    },
+    "en": {
+      "text": "I waited for him",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Это интересовало меня так сильно",
-    "en": "It interested me so much"
+    "id": 17,
+    "ru": {
+      "text": "Это интересовало меня так сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "It interested me so much",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Это действительно интересовало меня",
-    "en": "It really interested me"
+    "id": 18,
+    "ru": {
+      "text": "Это действительно интересовало меня",
+      "audio": false
+    },
+    "en": {
+      "text": "It really interested me",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Мы часто разговаривали по телефону",
-    "en": "We often talked on the phone"
+    "id": 19,
+    "ru": {
+      "text": "Мы часто разговаривали по телефону",
+      "audio": false
+    },
+    "en": {
+      "text": "We often talked on the phone",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Он любил ее, и она любила его",
-    "en": "He loved her and she loved him"
+    "id": 20,
+    "ru": {
+      "text": "Он любил ее, и она любила его",
+      "audio": false
+    },
+    "en": {
+      "text": "He loved her and she loved him",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Они согласились в конце",
-    "en": "They agreed in the end"
+    "id": 21,
+    "ru": {
+      "text": "Они согласились в конце",
+      "audio": false
+    },
+    "en": {
+      "text": "They agreed in the end",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Мне нужно было больше времени",
-    "en": "I needed more time"
+    "id": 22,
+    "ru": {
+      "text": "Мне нужно было больше времени",
+      "audio": false
+    },
+    "en": {
+      "text": "I needed more time",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Я остановился внезапно",
-    "en": "I stopped suddenly"
+    "id": 23,
+    "ru": {
+      "text": "Я остановился внезапно",
+      "audio": false
+    },
+    "en": {
+      "text": "I stopped suddenly",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Они подождали меня немного",
-    "en": "They waited for me a little"
+    "id": 24,
+    "ru": {
+      "text": "Они подождали меня немного",
+      "audio": false
+    },
+    "en": {
+      "text": "They waited for me a little",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Он переехал в этот город",
-    "en": "He moved to this city"
+    "id": 25,
+    "ru": {
+      "text": "Он переехал в этот город",
+      "audio": false
+    },
+    "en": {
+      "text": "He moved to this city",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Я действительно хотел понять это",
-    "en": "I really wanted to understand it"
+    "id": 26,
+    "ru": {
+      "text": "Я действительно хотел понять это",
+      "audio": false
+    },
+    "en": {
+      "text": "I really wanted to understand it",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Она переехала в Англию",
-    "en": "She moved to England"
+    "id": 27,
+    "ru": {
+      "text": "Она переехала в Англию",
+      "audio": false
+    },
+    "en": {
+      "text": "She moved to England",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Кто-то открыл окно",
-    "en": "Someone opened the window"
+    "id": 28,
+    "ru": {
+      "text": "Кто-то открыл окно",
+      "audio": false
+    },
+    "en": {
+      "text": "Someone opened the window",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Они часто смеялись",
-    "en": "They often laughed"
+    "id": 29,
+    "ru": {
+      "text": "Они часто смеялись",
+      "audio": false
+    },
+    "en": {
+      "text": "They often laughed",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "Я подождал ее",
-    "en": "I waited for her"
+    "id": 30,
+    "ru": {
+      "text": "Я подождал ее",
+      "audio": false
+    },
+    "en": {
+      "text": "I waited for her",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Я подождал тебя немного",
-    "en": "I waited for you a little"
+    "id": 31,
+    "ru": {
+      "text": "Я подождал тебя немного",
+      "audio": false
+    },
+    "en": {
+      "text": "I waited for you a little",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Я хотел выучить английский",
-    "en": "I wanted to learn English"
+    "id": 32,
+    "ru": {
+      "text": "Я хотел выучить английский",
+      "audio": false
+    },
+    "en": {
+      "text": "I wanted to learn English",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Я вспомнил его имя",
-    "en": "I remembered his name"
+    "id": 33,
+    "ru": {
+      "text": "Я вспомнил его имя",
+      "audio": false
+    },
+    "en": {
+      "text": "I remembered his name",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Я послушал ту песню",
-    "en": "I listened to that song"
+    "id": 34,
+    "ru": {
+      "text": "Я послушал ту песню",
+      "audio": false
+    },
+    "en": {
+      "text": "I listened to that song",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Они часто разговаривали по телефону",
-    "en": "They often talked on the phone"
+    "id": 35,
+    "ru": {
+      "text": "Они часто разговаривали по телефону",
+      "audio": false
+    },
+    "en": {
+      "text": "They often talked on the phone",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Я иногда слушал музыку",
-    "en": "I sometimes listened to music"
+    "id": 36,
+    "ru": {
+      "text": "Я иногда слушал музыку",
+      "audio": false
+    },
+    "en": {
+      "text": "I sometimes listened to music",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Они повернули назад",
-    "en": "They turned back"
+    "id": 37,
+    "ru": {
+      "text": "Они повернули назад",
+      "audio": false
+    },
+    "en": {
+      "text": "They turned back",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Я остановился рядом с этим магазином",
-    "en": "I stopped near this shop"
+    "id": 38,
+    "ru": {
+      "text": "Я остановился рядом с этим магазином",
+      "audio": false
+    },
+    "en": {
+      "text": "I stopped near this shop",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Мы остановились в этом месте",
-    "en": "We stopped in this place"
+    "id": 39,
+    "ru": {
+      "text": "Мы остановились в этом месте",
+      "audio": false
+    },
+    "en": {
+      "text": "We stopped in this place",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Я вспомнил ее имя",
-    "en": "I remembered her name"
+    "id": 40,
+    "ru": {
+      "text": "Я вспомнил ее имя",
+      "audio": false
+    },
+    "en": {
+      "text": "I remembered her name",
+      "audio": false
+    }
   },
   {
-    "_id": 41,
-    "ru": "Он часто смеялся",
-    "en": "He often laughed"
+    "id": 41,
+    "ru": {
+      "text": "Он часто смеялся",
+      "audio": false
+    },
+    "en": {
+      "text": "He often laughed",
+      "audio": false
+    }
   },
   {
-    "_id": 42,
-    "ru": "Я их подождал",
-    "en": "I waited for them"
+    "id": 42,
+    "ru": {
+      "text": "Я их подождал",
+      "audio": false
+    },
+    "en": {
+      "text": "I waited for them",
+      "audio": false
+    }
   },
   {
-    "_id": 43,
-    "ru": "Все изменилось",
-    "en": "Everything changed"
+    "id": 43,
+    "ru": {
+      "text": "Все изменилось",
+      "audio": false
+    },
+    "en": {
+      "text": "Everything changed",
+      "audio": false
+    }
   },
   {
-    "_id": 44,
-    "ru": "Я остановился в этом отеле",
-    "en": "I stayed at this hotel"
+    "id": 44,
+    "ru": {
+      "text": "Я остановился в этом отеле",
+      "audio": false
+    },
+    "en": {
+      "text": "I stayed at this hotel",
+      "audio": false
+    }
   },
   {
-    "_id": 45,
-    "ru": "Это реально помогло мне",
-    "en": "It really helped me"
+    "id": 45,
+    "ru": {
+      "text": "Это реально помогло мне",
+      "audio": false
+    },
+    "en": {
+      "text": "It really helped me",
+      "audio": false
+    }
   },
   {
-    "_id": 46,
-    "ru": "Он остановился внезапно",
-    "en": "He stopped suddenly"
+    "id": 46,
+    "ru": {
+      "text": "Он остановился внезапно",
+      "audio": false
+    },
+    "en": {
+      "text": "He stopped suddenly",
+      "audio": false
+    }
   }
 ]

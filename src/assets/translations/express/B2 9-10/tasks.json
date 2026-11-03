@@ -1,67 +1,145 @@
 [
   {
-    "_id": 1,
-    "ru": "Ты можешь сделать музыку потише?",
-    "en": "Can you turn down the music?"
+    "id": 1,
+    "ru": {
+      "text": "Ты можешь сделать музыку потише?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you turn down the music?",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Я перезвоню тебе, как только освобожусь",
-    "en": "I'll call you back as soon as I get free"
+    "id": 2,
+    "ru": {
+      "text": "Я перезвоню тебе, как только освобожусь",
+      "audio": false
+    },
+    "en": {
+      "text": "I'll call you back as soon as I get free",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Кем он воспитывался?",
-    "en": "Who was he brought up by?"
+    "id": 3,
+    "ru": {
+      "text": "Кем он воспитывался?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who was he brought up by?",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Я сказал ей, что перезвоню ей, как только освобожусь",
-    "en": "I told her that I would call her back as soon as I got free"
+    "id": 4,
+    "ru": {
+      "text": "Я сказал ей, что перезвоню ей, как только освобожусь",
+      "audio": false
+    },
+    "en": {
+      "text": "I told her that I would call her back as soon as I got free",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Он остался дома, потому что его машина сломалась",
-    "en": "He stayed at home because his car had broken down"
+    "id": 5,
+    "ru": {
+      "text": "Он остался дома, потому что его машина сломалась",
+      "audio": false
+    },
+    "en": {
+      "text": "He stayed at home because his car had broken down",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Можешь чуть-чуть увеличить громкость?",
-    "en": "Can you turn up the volume a bit?"
+    "id": 6,
+    "ru": {
+      "text": "Можешь чуть-чуть увеличить громкость?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you turn up the volume a bit?",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Можешь немного увеличить громкость?",
-    "en": "Can you turn up the volume a little?"
+    "id": 7,
+    "ru": {
+      "text": "Можешь немного увеличить громкость?",
+      "audio": false
+    },
+    "en": {
+      "text": "Can you turn up the volume a little?",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Музыка была настолько громкой, что я ее сделал потише",
-    "en": "The music was so loud that I turned it down"
+    "id": 8,
+    "ru": {
+      "text": "Музыка была настолько громкой, что я ее сделал потише",
+      "audio": false
+    },
+    "en": {
+      "text": "The music was so loud that I turned it down",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я уже выключил компьютер",
-    "en": "I've already switched off the computer"
+    "id": 9,
+    "ru": {
+      "text": "Я уже выключил компьютер",
+      "audio": false
+    },
+    "en": {
+      "text": "I've already switched off the computer",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Он сказал, что никогда не вернется туда",
-    "en": "He said that he would never come back there"
+    "id": 10,
+    "ru": {
+      "text": "Он сказал, что никогда не вернется туда",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he would never come back there",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Кто его воспитывал?",
-    "en": "Who brought him up?"
+    "id": 11,
+    "ru": {
+      "text": "Кто его воспитывал?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who brought him up?",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Не забудь выключить свет перед уходом",
-    "en": "Don't forget to turn off the light before leaving"
+    "id": 12,
+    "ru": {
+      "text": "Не забудь выключить свет перед уходом",
+      "audio": false
+    },
+    "en": {
+      "text": "Don't forget to turn off the light before leaving",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Давай вернемся к нашему разговору!",
-    "en": "Let's get back to our conversation!"
+    "id": 13,
+    "ru": {
+      "text": "Давай вернемся к нашему разговору!",
+      "audio": false
+    },
+    "en": {
+      "text": "Let's get back to our conversation!",
+      "audio": false
+    }
   }
 ]

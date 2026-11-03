@@ -1,127 +1,277 @@
 [
   {
-    "_id": 1,
-    "ru": "Я сомневаюсь, что это когда-нибудь случится",
-    "en": "I doubt that it will ever happen"
+    "id": 1,
+    "ru": {
+      "text": "Я сомневаюсь, что это когда-нибудь случится",
+      "audio": false
+    },
+    "en": {
+      "text": "I doubt that it will ever happen",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Кто сейчас выигрывает?",
-    "en": "Who is winning now?"
+    "id": 2,
+    "ru": {
+      "text": "Кто сейчас выигрывает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Who is winning now?",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Он упал и повредил колено",
-    "en": "He fell and hurt his knee"
+    "id": 3,
+    "ru": {
+      "text": "Он упал и повредил колено",
+      "audio": false
+    },
+    "en": {
+      "text": "He fell and hurt his knee",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Эта новость звучит действительно странно",
-    "en": "This news sounds really strange"
+    "id": 4,
+    "ru": {
+      "text": "Эта новость звучит действительно странно",
+      "audio": false
+    },
+    "en": {
+      "text": "This news sounds really strange",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Я никогда не имел дело с такого рода проблемами",
-    "en": "I've never dealt with this kind of problems"
+    "id": 5,
+    "ru": {
+      "text": "Я никогда не имел дело с такого рода проблемами",
+      "audio": false
+    },
+    "en": {
+      "text": "I've never dealt with this kind of problems",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Я хотел бы поблагодарить тебя за вашу огромную поддержку",
-    "en": "I'd like to thank you for your huge support"
+    "id": 6,
+    "ru": {
+      "text": "Я хотел бы поблагодарить тебя за вашу огромную поддержку",
+      "audio": false
+    },
+    "en": {
+      "text": "I'd like to thank you for your huge support",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Когда я увидел его, он стоял за дверью",
-    "en": "When I saw him, he was standing behind the door"
+    "id": 7,
+    "ru": {
+      "text": "Когда я увидел его, он стоял за дверью",
+      "audio": false
+    },
+    "en": {
+      "text": "When I saw him, he was standing behind the door",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Они уже поддержали эту инициативу",
-    "en": "They have already supported this initiative"
+    "id": 8,
+    "ru": {
+      "text": "Они уже поддержали эту инициативу",
+      "audio": false
+    },
+    "en": {
+      "text": "They have already supported this initiative",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Я отправил ей письмо около часа назад",
-    "en": "I sent her a letter about an hour ago"
+    "id": 9,
+    "ru": {
+      "text": "Я отправил ей письмо около часа назад",
+      "audio": false
+    },
+    "en": {
+      "text": "I sent her a letter about an hour ago",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Сколько ты там зарабатывал?",
-    "en": "How much did you earn there?"
+    "id": 10,
+    "ru": {
+      "text": "Сколько ты там зарабатывал?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much did you earn there?",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Они перестали разговаривать",
-    "en": "They stopped talking"
+    "id": 11,
+    "ru": {
+      "text": "Они перестали разговаривать",
+      "audio": false
+    },
+    "en": {
+      "text": "They stopped talking",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Я только что вошел в здание",
-    "en": "I've just entered the building"
+    "id": 12,
+    "ru": {
+      "text": "Я только что вошел в здание",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just entered the building",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Я ожидаю, что они скоро опубликуют этот отчет",
-    "en": "I expect that they'll publish this report soon"
+    "id": 13,
+    "ru": {
+      "text": "Я ожидаю, что они скоро опубликуют этот отчет",
+      "audio": false
+    },
+    "en": {
+      "text": "I expect that they'll publish this report soon",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Я имел дело с разными людьми на работе",
-    "en": "I dealt with different people at work"
+    "id": 14,
+    "ru": {
+      "text": "Я имел дело с разными людьми на работе",
+      "audio": false
+    },
+    "en": {
+      "text": "I dealt with different people at work",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Он сказал, что поступил в очень престижный вуз",
-    "en": "He said that he had entered a very prestigious university"
+    "id": 15,
+    "ru": {
+      "text": "Он сказал, что поступил в очень престижный вуз",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had entered a very prestigious university",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Я только что отправил ей сообщение",
-    "en": "I've just sent her a message"
+    "id": 16,
+    "ru": {
+      "text": "Я только что отправил ей сообщение",
+      "audio": false
+    },
+    "en": {
+      "text": "I've just sent her a message",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Я уже забыл это",
-    "en": "I've already forgotten it"
+    "id": 17,
+    "ru": {
+      "text": "Я уже забыл это",
+      "audio": false
+    },
+    "en": {
+      "text": "I've already forgotten it",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Они очень сильно повредили это здание",
-    "en": "They damaged this building very badly"
+    "id": 18,
+    "ru": {
+      "text": "Они очень сильно повредили это здание",
+      "audio": false
+    },
+    "en": {
+      "text": "They damaged this building very badly",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Я забыл его имя",
-    "en": "I forgot his name"
+    "id": 19,
+    "ru": {
+      "text": "Я забыл его имя",
+      "audio": false
+    },
+    "en": {
+      "text": "I forgot his name",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Я всегда хотел иметь такого рода работу",
-    "en": "I've always wanted to have this kind of job"
+    "id": 20,
+    "ru": {
+      "text": "Я всегда хотел иметь такого рода работу",
+      "audio": false
+    },
+    "en": {
+      "text": "I've always wanted to have this kind of job",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Он еще не сдал этот экзамен",
-    "en": "He hasn't passed this exam yet"
+    "id": 21,
+    "ru": {
+      "text": "Он еще не сдал этот экзамен",
+      "audio": false
+    },
+    "en": {
+      "text": "He hasn't passed this exam yet",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Он весь день праздновал свой день рождения",
-    "en": "He was celebrating his birthday all day"
+    "id": 22,
+    "ru": {
+      "text": "Он весь день праздновал свой день рождения",
+      "audio": false
+    },
+    "en": {
+      "text": "He was celebrating his birthday all day",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Он сказал, что подписал все документы",
-    "en": "He said that he had signed all the documents"
+    "id": 23,
+    "ru": {
+      "text": "Он сказал, что подписал все документы",
+      "audio": false
+    },
+    "en": {
+      "text": "He said that he had signed all the documents",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Она сказала, что они согласились это сделать",
-    "en": "She said that they had agreed to do it"
+    "id": 24,
+    "ru": {
+      "text": "Она сказала, что они согласились это сделать",
+      "audio": false
+    },
+    "en": {
+      "text": "She said that they had agreed to do it",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "Он сразу встал, когда увидел ее",
-    "en": "He stood up immediately when he saw her"
+    "id": 25,
+    "ru": {
+      "text": "Он сразу встал, когда увидел ее",
+      "audio": false
+    },
+    "en": {
+      "text": "He stood up immediately when he saw her",
+      "audio": false
+    }
   }
 ]

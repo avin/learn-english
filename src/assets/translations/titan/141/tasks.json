@@ -1,472 +1,1036 @@
 [
   {
-    "_id": 1,
-    "ru": "Это здание такое уродливое",
-    "en": "This building is so ugly"
-  },
-  {
-    "_id": 2,
-    "ru": "Солнце сейчас такое яркое",
-    "en": "The sun is so bright now"
-  },
-  {
-    "_id": 3,
-    "ru": "Это такая замечательная возможность",
-    "en": "It's such a wonderful opportunity"
-  },
-  {
-    "_id": 4,
-    "ru": "Он такой странный мужчина",
-    "en": "He is such a strange man"
-  },
-  {
-    "_id": 5,
-    "ru": "Это гораздо более дорогая вещь",
-    "en": "It's a much more expensive thing"
-  },
-  {
-    "_id": 6,
-    "ru": "Это прекрасная возможность",
-    "en": "It is a wonderful opportunity"
-  },
-  {
-    "_id": 7,
-    "ru": "Лампа очень яркая",
-    "en": "The lamp is very bright"
-  },
-  {
-    "_id": 8,
-    "ru": "Я хочу чувствовать себя финансово независимым",
-    "en": "I want to feel financially independent"
-  },
-  {
-    "_id": 9,
-    "ru": "Тебе нравится современная музыка?",
-    "en": "Do you like modern music?"
-  },
-  {
-    "_id": 10,
-    "ru": "Он строгий учитель?",
-    "en": "Is he a strict teacher?"
-  },
-  {
-    "_id": 11,
-    "ru": "Этот человек такой странный",
-    "en": "This man is so strange"
-  },
-  {
-    "_id": 12,
-    "ru": "Это более дорогой отель",
-    "en": "It's a more expensive hotel"
-  },
-  {
-    "_id": 13,
-    "ru": "Он хочет чувствовать себя более независимым",
-    "en": "He wants to feel more independent"
-  },
-  {
-    "_id": 14,
-    "ru": "Это единственно правильное решение",
-    "en": "It's the only right decision"
-  },
-  {
-    "_id": 15,
-    "ru": "Он очень толстый",
-    "en": "He is very fat"
-  },
-  {
-    "_id": 16,
-    "ru": "Она чувствует себя такой одинокой",
-    "en": "She feels so lonely"
-  },
-  {
-    "_id": 17,
-    "ru": "Это был единственный правильный выбор",
-    "en": "It was the only right choice"
-  },
-  {
-    "_id": 18,
-    "ru": "Это очень мягкая сумка",
-    "en": "It's a very soft bag"
-  },
-  {
-    "_id": 19,
-    "ru": "Это его собственная квартира",
-    "en": "It's his own apartment"
-  },
-  {
-    "_id": 20,
-    "ru": "Я посетил это место на прошлой неделе",
-    "en": "I visited this place last week"
-  },
-  {
-    "_id": 21,
-    "ru": "Наш учитель не строгий",
-    "en": "Our teacher isn't strict"
-  },
-  {
-    "_id": 22,
-    "ru": "Это глобальная проблема",
-    "en": "It's a global problem"
-  },
-  {
-    "_id": 23,
-    "ru": "Она спрятала это в секретное место",
-    "en": "She hid it in a secret place"
-  },
-  {
-    "_id": 24,
-    "ru": "Стул очень мягкий",
-    "en": "The chair is very soft"
-  },
-  {
-    "_id": 25,
-    "ru": "Он очень осторожный водитель",
-    "en": "He is a very careful driver"
-  },
-  {
-    "_id": 26,
-    "ru": "Он очень нервный человек",
-    "en": "He is a very nervous person"
-  },
-  {
-    "_id": 27,
-    "ru": "Она так нервничает",
-    "en": "She feels so nervous"
-  },
-  {
-    "_id": 28,
-    "ru": "Тебе нужно быть более осторожным",
-    "en": "You need to be more careful"
-  },
-  {
-    "_id": 29,
-    "ru": "Он такой строгий учитель",
-    "en": "He is such a strict teacher"
-  },
-  {
-    "_id": 30,
-    "ru": "Она не боится этого",
-    "en": "She isn't afraid of it"
-  },
-  {
-    "_id": 31,
-    "ru": "Это очень дорогие часы",
-    "en": "It's a very expensive watch"
-  },
-  {
-    "_id": 32,
-    "ru": "Он держит это в секретном месте",
-    "en": "He keeps it in a secret place"
-  },
-  {
-    "_id": 33,
-    "ru": "Они такие странные люди",
-    "en": "They are such strange people"
-  },
-  {
-    "_id": 34,
-    "ru": "Он показал худший результат",
-    "en": "He showed the worst result"
-  },
-  {
-    "_id": 35,
-    "ru": "Это обычная вещь",
-    "en": "It is a usual thing"
-  },
-  {
-    "_id": 36,
-    "ru": "Она очень строгая учительница",
-    "en": "She is a very strict teacher"
-  },
-  {
-    "_id": 37,
-    "ru": "Он очень одинокий человек",
-    "en": "He is a very lonely person"
-  },
-  {
-    "_id": 38,
-    "ru": "Это обычный ответ",
-    "en": "It is a usual answer"
-  },
-  {
-    "_id": 39,
-    "ru": "Эти меры являются временными",
-    "en": "These measures are temporary"
-  },
-  {
-    "_id": 40,
-    "ru": "Мы замечательно провели время вместе",
-    "en": "We had a wonderful time together"
-  },
-  {
-    "_id": 41,
-    "ru": "Мой дорогой друг, спасибо за все",
-    "en": "My dear friend, thanks for everything"
-  },
-  {
-    "_id": 42,
-    "ru": "Я так рад узнать, что он все еще жив",
-    "en": "I'm so happy to know that he is still alive"
-  },
-  {
-    "_id": 43,
-    "ru": "Эти вещи были запрещены в Советском Союзе",
-    "en": "These things were forbidden in the Soviet Union"
-  },
-  {
-    "_id": 44,
-    "ru": "Это здание на противоположной стороне улицы",
-    "en": "This building is on the opposite side of the street"
-  },
-  {
-    "_id": 45,
-    "ru": "Я не боюсь этих трудностей",
-    "en": "I'm not afraid of these difficulties"
-  },
-  {
-    "_id": 46,
-    "ru": "Я отказался сделать это по разным причинам",
-    "en": "I refused to do it for various reasons"
-  },
-  {
-    "_id": 47,
-    "ru": "Она сделала это по другой причине",
-    "en": "She did it for another reason"
-  },
-  {
-    "_id": 48,
-    "ru": "Он ждет следующего урока",
-    "en": "He is waiting for the next lesson"
-  },
-  {
-    "_id": 49,
-    "ru": "Это идеальное место для жизни",
-    "en": "It's an ideal place for living"
-  },
-  {
-    "_id": 50,
-    "ru": "Это один из самых эффективных курсов",
-    "en": "It is one of the most effective courses"
-  },
-  {
-    "_id": 51,
-    "ru": "Это было очень популярно в Советском Союзе",
-    "en": "It was very popular in the Soviet Union"
-  },
-  {
-    "_id": 52,
-    "ru": "Он единственный ребенок",
-    "en": "He's an only child"
-  },
-  {
-    "_id": 53,
-    "ru": "Это будет объяснено в следующем уроке",
-    "en": "It will be explained in the next lesson"
-  },
-  {
-    "_id": 54,
-    "ru": "Это было объяснено в предыдущих уроках",
-    "en": "It was explained in the previous lessons"
-  },
-  {
-    "_id": 55,
-    "ru": "Это будет объяснено в этом уроке?",
-    "en": "Will it be explained in this lesson?"
-  },
-  {
-    "_id": 56,
-    "ru": "Что ты думаешь о пластической хирургии?",
-    "en": "What do you think about plastic surgery?"
-  },
-  {
-    "_id": 57,
-    "ru": "Какое твое отношение к пластической хирургии?",
-    "en": "What's your attitude to plastic surgery?"
-  },
-  {
-    "_id": 58,
-    "ru": "Я делаю эти упражнения довольно регулярно",
-    "en": "I do these exercises quite regularly"
-  },
-  {
-    "_id": 59,
-    "ru": "Я стараюсь делать физические упражнения чаще",
-    "en": "I try to do physical exercises more often"
-  },
-  {
-    "_id": 60,
-    "ru": "Эта фраза имеет противоположное значение",
-    "en": "This phrase has the opposite meaning"
-  },
-  {
-    "_id": 61,
-    "ru": "Эта фраза имеет то же значение",
-    "en": "This phrase has the same meaning"
-  },
-  {
-    "_id": 62,
-    "ru": "Это слово имеет противоположное значение",
-    "en": "This word has the opposite meaning"
-  },
-  {
-    "_id": 63,
-    "ru": "Он идеальный кандидат для этой работы",
-    "en": "He is an ideal candidate for this job"
-  },
-  {
-    "_id": 64,
-    "ru": "Он единственный кандидат для этой работы",
-    "en": "He is the only candidate for this job"
-  },
-  {
-    "_id": 65,
-    "ru": "Он идеальный кандидат на эту вакансию",
-    "en": "He is an ideal candidate for this vacancy"
-  },
-  {
-    "_id": 66,
-    "ru": "Это связано с моей будущей профессией",
-    "en": "It is connected with my future profession"
-  },
-  {
-    "_id": 67,
-    "ru": "Это было связано с моей работой",
-    "en": "It was connected with my job"
-  },
-  {
-    "_id": 68,
-    "ru": "Это не связано с моей профессией",
-    "en": "It isn't connected with my profession"
-  },
-  {
-    "_id": 69,
-    "ru": "Я хочу поблагодарить тебя, мой дорогой друг",
-    "en": "I want to thank you, my dear friend"
-  },
-  {
-    "_id": 70,
-    "ru": "Мне нужно поблагодарить его за его помощь",
-    "en": "I need to thank him for his help"
-  },
-  {
-    "_id": 71,
-    "ru": "Он поблагодарил ее за ее поддержку",
-    "en": "He thanked her for her support"
-  },
-  {
-    "_id": 72,
-    "ru": "Тебе нужно понять, что это временная мера",
-    "en": "You need to understand that it's a temporary measure"
-  },
-  {
-    "_id": 73,
-    "ru": "Я понимаю, что это была временная мера",
-    "en": "I understand that it was a temporary measure"
-  },
-  {
-    "_id": 74,
-    "ru": "Тебе нужно понять, что это необходимая мера",
-    "en": "You need to understand that it's a necessary measure"
-  },
-  {
-    "_id": 75,
-    "ru": "Это связано с моей будущей работой",
-    "en": "It is connected with my future job"
-  },
-  {
-    "_id": 76,
-    "ru": "Это не связано с моей будущей профессией",
-    "en": "It isn't connected with my future profession"
-  },
-  {
-    "_id": 77,
-    "ru": "Мы знаем, что это глобальная проблема",
-    "en": "We know that it's a global problem"
-  },
-  {
-    "_id": 78,
-    "ru": "Мы знаем, что это серьезная проблема",
-    "en": "We know that it's a serious problem"
-  },
-  {
-    "_id": 79,
-    "ru": "Я думаю, что это глобальная проблема",
-    "en": "I think that it's a global problem"
-  },
-  {
-    "_id": 80,
-    "ru": "Это один из лучших отелей",
-    "en": "It's one of the best hotels"
-  },
-  {
-    "_id": 81,
-    "ru": "Это был очень тяжелый выбор",
-    "en": "It was a very hard choice"
-  },
-  {
-    "_id": 82,
-    "ru": "Он отказался сделать это по этой причине",
-    "en": "He refused to do it for this reason"
-  },
-  {
-    "_id": 83,
-    "ru": "Мы увидим это в следующем видео",
-    "en": "We will see it in the next video"
-  },
-  {
-    "_id": 84,
-    "ru": "Я думаю, это худшее решение",
-    "en": "I think it's the worst decision"
-  },
-  {
-    "_id": 85,
-    "ru": "Это один из моих лучших результатов",
-    "en": "It is one of my best results"
-  },
-  {
-    "_id": 86,
-    "ru": "Ты уже выбрал свою будущую профессию?",
-    "en": "Have you already chosen your future profession?"
-  },
-  {
-    "_id": 87,
-    "ru": "Это решение было такое трудное для него",
-    "en": "This decision was so hard for him"
-  },
-  {
-    "_id": 88,
-    "ru": "Я думаю, мы могли бы встретиться на следующей неделе",
-    "en": "I think we could meet next week"
-  },
-  {
-    "_id": 89,
-    "ru": "Это такое уродливое здание",
-    "en": "It's such an ugly building"
-  },
-  {
-    "_id": 90,
-    "ru": "Это противоположное слово",
-    "en": "It's the opposite word"
-  },
-  {
-    "_id": 91,
-    "ru": "Она единственный ребенок",
-    "en": "She's an only child"
-  },
-  {
-    "_id": 92,
-    "ru": "Это было трудно представить",
-    "en": "It was hard to imagine it"
-  },
-  {
-    "_id": 93,
-    "ru": "Полиция нашла его живым",
-    "en": "The police found him alive"
-  },
-  {
-    "_id": 94,
-    "ru": "Это была пластическая операция",
-    "en": "It was a plastic surgery operation"
+    "id": 1,
+    "ru": {
+      "text": "Это здание такое уродливое",
+      "audio": false
+    },
+    "en": {
+      "text": "This building is so ugly",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "Солнце сейчас такое яркое",
+      "audio": false
+    },
+    "en": {
+      "text": "The sun is so bright now",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Это такая замечательная возможность",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such a wonderful opportunity",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "Он такой странный мужчина",
+      "audio": false
+    },
+    "en": {
+      "text": "He is such a strange man",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Это гораздо более дорогая вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a much more expensive thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Это прекрасная возможность",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a wonderful opportunity",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "Лампа очень яркая",
+      "audio": false
+    },
+    "en": {
+      "text": "The lamp is very bright",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я хочу чувствовать себя финансово независимым",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to feel financially independent",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Тебе нравится современная музыка?",
+      "audio": false
+    },
+    "en": {
+      "text": "Do you like modern music?",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Он строгий учитель?",
+      "audio": false
+    },
+    "en": {
+      "text": "Is he a strict teacher?",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "Этот человек такой странный",
+      "audio": false
+    },
+    "en": {
+      "text": "This man is so strange",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "Это более дорогой отель",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a more expensive hotel",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он хочет чувствовать себя более независимым",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to feel more independent",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "Это единственно правильное решение",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the only right decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "Он очень толстый",
+      "audio": false
+    },
+    "en": {
+      "text": "He is very fat",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "Она чувствует себя такой одинокой",
+      "audio": false
+    },
+    "en": {
+      "text": "She feels so lonely",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Это был единственный правильный выбор",
+      "audio": false
+    },
+    "en": {
+      "text": "It was the only right choice",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "Это очень мягкая сумка",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very soft bag",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "Это его собственная квартира",
+      "audio": false
+    },
+    "en": {
+      "text": "It's his own apartment",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Я посетил это место на прошлой неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "I visited this place last week",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Наш учитель не строгий",
+      "audio": false
+    },
+    "en": {
+      "text": "Our teacher isn't strict",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Это глобальная проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a global problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Она спрятала это в секретное место",
+      "audio": false
+    },
+    "en": {
+      "text": "She hid it in a secret place",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "Стул очень мягкий",
+      "audio": false
+    },
+    "en": {
+      "text": "The chair is very soft",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Он очень осторожный водитель",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a very careful driver",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Он очень нервный человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a very nervous person",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Она так нервничает",
+      "audio": false
+    },
+    "en": {
+      "text": "She feels so nervous",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "Тебе нужно быть более осторожным",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to be more careful",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "Он такой строгий учитель",
+      "audio": false
+    },
+    "en": {
+      "text": "He is such a strict teacher",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Она не боится этого",
+      "audio": false
+    },
+    "en": {
+      "text": "She isn't afraid of it",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Это очень дорогие часы",
+      "audio": false
+    },
+    "en": {
+      "text": "It's a very expensive watch",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "Он держит это в секретном месте",
+      "audio": false
+    },
+    "en": {
+      "text": "He keeps it in a secret place",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "Они такие странные люди",
+      "audio": false
+    },
+    "en": {
+      "text": "They are such strange people",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Он показал худший результат",
+      "audio": false
+    },
+    "en": {
+      "text": "He showed the worst result",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Это обычная вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a usual thing",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "Она очень строгая учительница",
+      "audio": false
+    },
+    "en": {
+      "text": "She is a very strict teacher",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Он очень одинокий человек",
+      "audio": false
+    },
+    "en": {
+      "text": "He is a very lonely person",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "Это обычный ответ",
+      "audio": false
+    },
+    "en": {
+      "text": "It is a usual answer",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Эти меры являются временными",
+      "audio": false
+    },
+    "en": {
+      "text": "These measures are temporary",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Мы замечательно провели время вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "We had a wonderful time together",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "Мой дорогой друг, спасибо за все",
+      "audio": false
+    },
+    "en": {
+      "text": "My dear friend, thanks for everything",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Я так рад узнать, что он все еще жив",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm so happy to know that he is still alive",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Эти вещи были запрещены в Советском Союзе",
+      "audio": false
+    },
+    "en": {
+      "text": "These things were forbidden in the Soviet Union",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "Это здание на противоположной стороне улицы",
+      "audio": false
+    },
+    "en": {
+      "text": "This building is on the opposite side of the street",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "Я не боюсь этих трудностей",
+      "audio": false
+    },
+    "en": {
+      "text": "I'm not afraid of these difficulties",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Я отказался сделать это по разным причинам",
+      "audio": false
+    },
+    "en": {
+      "text": "I refused to do it for various reasons",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Она сделала это по другой причине",
+      "audio": false
+    },
+    "en": {
+      "text": "She did it for another reason",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "Он ждет следующего урока",
+      "audio": false
+    },
+    "en": {
+      "text": "He is waiting for the next lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Это идеальное место для жизни",
+      "audio": false
+    },
+    "en": {
+      "text": "It's an ideal place for living",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "Это один из самых эффективных курсов",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of the most effective courses",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Это было очень популярно в Советском Союзе",
+      "audio": false
+    },
+    "en": {
+      "text": "It was very popular in the Soviet Union",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "Он единственный ребенок",
+      "audio": false
+    },
+    "en": {
+      "text": "He's an only child",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Это будет объяснено в следующем уроке",
+      "audio": false
+    },
+    "en": {
+      "text": "It will be explained in the next lesson",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Это было объяснено в предыдущих уроках",
+      "audio": false
+    },
+    "en": {
+      "text": "It was explained in the previous lessons",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "Это будет объяснено в этом уроке?",
+      "audio": false
+    },
+    "en": {
+      "text": "Will it be explained in this lesson?",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "Что ты думаешь о пластической хирургии?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do you think about plastic surgery?",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Какое твое отношение к пластической хирургии?",
+      "audio": false
+    },
+    "en": {
+      "text": "What's your attitude to plastic surgery?",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "Я делаю эти упражнения довольно регулярно",
+      "audio": false
+    },
+    "en": {
+      "text": "I do these exercises quite regularly",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "Я стараюсь делать физические упражнения чаще",
+      "audio": false
+    },
+    "en": {
+      "text": "I try to do physical exercises more often",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Эта фраза имеет противоположное значение",
+      "audio": false
+    },
+    "en": {
+      "text": "This phrase has the opposite meaning",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "Эта фраза имеет то же значение",
+      "audio": false
+    },
+    "en": {
+      "text": "This phrase has the same meaning",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "Это слово имеет противоположное значение",
+      "audio": false
+    },
+    "en": {
+      "text": "This word has the opposite meaning",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "Он идеальный кандидат для этой работы",
+      "audio": false
+    },
+    "en": {
+      "text": "He is an ideal candidate for this job",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Он единственный кандидат для этой работы",
+      "audio": false
+    },
+    "en": {
+      "text": "He is the only candidate for this job",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Он идеальный кандидат на эту вакансию",
+      "audio": false
+    },
+    "en": {
+      "text": "He is an ideal candidate for this vacancy",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Это связано с моей будущей профессией",
+      "audio": false
+    },
+    "en": {
+      "text": "It is connected with my future profession",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "Это было связано с моей работой",
+      "audio": false
+    },
+    "en": {
+      "text": "It was connected with my job",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "Это не связано с моей профессией",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't connected with my profession",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "Я хочу поблагодарить тебя, мой дорогой друг",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to thank you, my dear friend",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Мне нужно поблагодарить его за его помощь",
+      "audio": false
+    },
+    "en": {
+      "text": "I need to thank him for his help",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Он поблагодарил ее за ее поддержку",
+      "audio": false
+    },
+    "en": {
+      "text": "He thanked her for her support",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Тебе нужно понять, что это временная мера",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to understand that it's a temporary measure",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Я понимаю, что это была временная мера",
+      "audio": false
+    },
+    "en": {
+      "text": "I understand that it was a temporary measure",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Тебе нужно понять, что это необходимая мера",
+      "audio": false
+    },
+    "en": {
+      "text": "You need to understand that it's a necessary measure",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "Это связано с моей будущей работой",
+      "audio": false
+    },
+    "en": {
+      "text": "It is connected with my future job",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "Это не связано с моей будущей профессией",
+      "audio": false
+    },
+    "en": {
+      "text": "It isn't connected with my future profession",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "Мы знаем, что это глобальная проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "We know that it's a global problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "Мы знаем, что это серьезная проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "We know that it's a serious problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "Я думаю, что это глобальная проблема",
+      "audio": false
+    },
+    "en": {
+      "text": "I think that it's a global problem",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "Это один из лучших отелей",
+      "audio": false
+    },
+    "en": {
+      "text": "It's one of the best hotels",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Это был очень тяжелый выбор",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a very hard choice",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Он отказался сделать это по этой причине",
+      "audio": false
+    },
+    "en": {
+      "text": "He refused to do it for this reason",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Мы увидим это в следующем видео",
+      "audio": false
+    },
+    "en": {
+      "text": "We will see it in the next video",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "Я думаю, это худшее решение",
+      "audio": false
+    },
+    "en": {
+      "text": "I think it's the worst decision",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "Это один из моих лучших результатов",
+      "audio": false
+    },
+    "en": {
+      "text": "It is one of my best results",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "Ты уже выбрал свою будущую профессию?",
+      "audio": false
+    },
+    "en": {
+      "text": "Have you already chosen your future profession?",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Это решение было такое трудное для него",
+      "audio": false
+    },
+    "en": {
+      "text": "This decision was so hard for him",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Я думаю, мы могли бы встретиться на следующей неделе",
+      "audio": false
+    },
+    "en": {
+      "text": "I think we could meet next week",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Это такое уродливое здание",
+      "audio": false
+    },
+    "en": {
+      "text": "It's such an ugly building",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "Это противоположное слово",
+      "audio": false
+    },
+    "en": {
+      "text": "It's the opposite word",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "Она единственный ребенок",
+      "audio": false
+    },
+    "en": {
+      "text": "She's an only child",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Это было трудно представить",
+      "audio": false
+    },
+    "en": {
+      "text": "It was hard to imagine it",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Полиция нашла его живым",
+      "audio": false
+    },
+    "en": {
+      "text": "The police found him alive",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "Это была пластическая операция",
+      "audio": false
+    },
+    "en": {
+      "text": "It was a plastic surgery operation",
+      "audio": false
+    }
   }
 ]

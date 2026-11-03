@@ -1,492 +1,1080 @@
 [
   {
-    "_id": 1,
-    "ru": "У меня большая семья",
-    "en": "I have a big family"
-  },
-  {
-    "_id": 2,
-    "ru": "У него старый дом",
-    "en": "He has an old house"
-  },
-  {
-    "_id": 3,
-    "ru": "У нее короткие волосы",
-    "en": "She has short hair"
-  },
-  {
-    "_id": 4,
-    "ru": "У них есть большие деньги",
-    "en": "They have big money"
-  },
-  {
-    "_id": 5,
-    "ru": "У нас богатые друзья",
-    "en": "We have rich friends"
-  },
-  {
-    "_id": 6,
-    "ru": "Им нравятся большие машины",
-    "en": "They like big cars"
-  },
-  {
-    "_id": 7,
-    "ru": "У нее очень интересная работа",
-    "en": "She has a very interesting job"
-  },
-  {
-    "_id": 8,
-    "ru": "Я знаю одно странное место",
-    "en": "I know one strange place"
-  },
-  {
-    "_id": 9,
-    "ru": "Я купил одну книгу",
-    "en": "I bought one book"
-  },
-  {
-    "_id": 10,
-    "ru": "Мне действительно нравится теплая погода",
-    "en": "I really like warm weather"
-  },
-  {
-    "_id": 11,
-    "ru": "У меня хороший результат",
-    "en": "I have a good result"
-  },
-  {
-    "_id": 12,
-    "ru": "У тебя высокий уровень",
-    "en": "You have a high level"
-  },
-  {
-    "_id": 13,
-    "ru": "Он использует простой метод",
-    "en": "He uses a simple method"
-  },
-  {
-    "_id": 14,
-    "ru": "У меня очень большая мотивация",
-    "en": "I have very big motivation"
-  },
-  {
-    "_id": 15,
-    "ru": "У нее длинные светлые волосы",
-    "en": "She has long blonde hair"
-  },
-  {
-    "_id": 16,
-    "ru": "У него большая семья",
-    "en": "He has a large family"
-  },
-  {
-    "_id": 17,
-    "ru": "Мы видим современное здание",
-    "en": "We see a modern building"
-  },
-  {
-    "_id": 18,
-    "ru": "У них старая машина",
-    "en": "They have an old car"
-  },
-  {
-    "_id": 19,
-    "ru": "У него финансовые проблемы",
-    "en": "He has financial problems"
-  },
-  {
-    "_id": 20,
-    "ru": "Она хочет горячий чай",
-    "en": "She wants hot tea"
-  },
-  {
-    "_id": 21,
-    "ru": "У него синяя машина",
-    "en": "He has a blue car"
-  },
-  {
-    "_id": 22,
-    "ru": "У меня новый компьютер",
-    "en": "I have a new computer"
-  },
-  {
-    "_id": 23,
-    "ru": "У меня есть синяя ручка",
-    "en": "I have a blue pen"
-  },
-  {
-    "_id": 24,
-    "ru": "У него плохой результат",
-    "en": "He has a bad result"
-  },
-  {
-    "_id": 25,
-    "ru": "У тебя блестящий результат",
-    "en": "You have a brilliant result"
-  },
-  {
-    "_id": 26,
-    "ru": "У него короткие волосы",
-    "en": "He has short hair"
-  },
-  {
-    "_id": 27,
-    "ru": "Я вижу реальный прогресс",
-    "en": "I see real progress"
-  },
-  {
-    "_id": 28,
-    "ru": "У него есть другая идея",
-    "en": "He has another idea"
-  },
-  {
-    "_id": 29,
-    "ru": "У него странный вопрос",
-    "en": "He has a strange question"
-  },
-  {
-    "_id": 30,
-    "ru": "Он смотрит бесплатные видео уроки",
-    "en": "He watches free video lessons"
-  },
-  {
-    "_id": 31,
-    "ru": "Ей нравится зеленый цвет",
-    "en": "She likes green colour"
-  },
-  {
-    "_id": 32,
-    "ru": "У него богатые родители",
-    "en": "He has rich parents"
-  },
-  {
-    "_id": 33,
-    "ru": "У нее длинные волосы",
-    "en": "She has long hair"
-  },
-  {
-    "_id": 34,
-    "ru": "Она живет в маленьком городе",
-    "en": "She lives in a small town"
-  },
-  {
-    "_id": 35,
-    "ru": "Я вижу одну маленькую ошибку",
-    "en": "I see one small mistake"
-  },
-  {
-    "_id": 36,
-    "ru": "У него низкий уровень",
-    "en": "He has a low level"
-  },
-  {
-    "_id": 37,
-    "ru": "Я смотрю бесплатные уроки английского",
-    "en": "I watch free English lessons"
-  },
-  {
-    "_id": 38,
-    "ru": "У него короткие черные волосы",
-    "en": "He has short black hair"
-  },
-  {
-    "_id": 39,
-    "ru": "Они используют простое устройство",
-    "en": "They use a simple device"
-  },
-  {
-    "_id": 40,
-    "ru": "Ей больше нравится холодная погода",
-    "en": "She likes cold weather more"
-  },
-  {
-    "_id": 41,
-    "ru": "У нее есть ребенок",
-    "en": "She has a baby"
-  },
-  {
-    "_id": 42,
-    "ru": "Он видит некоторые ошибки",
-    "en": "He sees some mistakes"
-  },
-  {
-    "_id": 43,
-    "ru": "Он видит реальный прогресс",
-    "en": "He sees real progress"
-  },
-  {
-    "_id": 44,
-    "ru": "У тебя интересный вопрос",
-    "en": "You have an interesting question"
-  },
-  {
-    "_id": 45,
-    "ru": "У него один ребенок",
-    "en": "He has one child"
-  },
-  {
-    "_id": 46,
-    "ru": "Ему нужна горячая вода",
-    "en": "He needs hot water"
-  },
-  {
-    "_id": 47,
-    "ru": "Я живу в большом городе",
-    "en": "I live in a big city"
-  },
-  {
-    "_id": 48,
-    "ru": "У нее есть черный карандаш",
-    "en": "She has a black pencil"
-  },
-  {
-    "_id": 49,
-    "ru": "Она всегда старается покупать свежую еду",
-    "en": "She always tries to buy fresh food"
-  },
-  {
-    "_id": 50,
-    "ru": "У него очень умный сын",
-    "en": "He has a very smart son"
-  },
-  {
-    "_id": 51,
-    "ru": "Он хочет иметь средний уровень для начала",
-    "en": "He wants to have an intermediate level for a start"
-  },
-  {
-    "_id": 52,
-    "ru": "У них очень низкий уровень",
-    "en": "They have a very low level"
-  },
-  {
-    "_id": 53,
-    "ru": "Она смотрит бесплатные видео уроки",
-    "en": "She watches free video lessons"
-  },
-  {
-    "_id": 54,
-    "ru": "Я знаю, что у него старый компьютер",
-    "en": "I know that he has an old computer"
-  },
-  {
-    "_id": 55,
-    "ru": "У него очень высокий уровень",
-    "en": "He has a very high level"
-  },
-  {
-    "_id": 56,
-    "ru": "У них есть один очень интересный план",
-    "en": "They have one very interesting plan"
-  },
-  {
-    "_id": 57,
-    "ru": "Я вижу очень красивое место",
-    "en": "I see a very beautiful place"
-  },
-  {
-    "_id": 58,
-    "ru": "У него очень старый компьютер",
-    "en": "He has a very old computer"
-  },
-  {
-    "_id": 59,
-    "ru": "У нее очень красивая дочь",
-    "en": "She has a very beautiful daughter"
-  },
-  {
-    "_id": 60,
-    "ru": "Это часто случается в нашем современном обществе",
-    "en": "It often happens in our modern society"
-  },
-  {
-    "_id": 61,
-    "ru": "У меня очень интересная работа",
-    "en": "I have a very interesting job"
-  },
-  {
-    "_id": 62,
-    "ru": "У меня действительно интересная работа",
-    "en": "I have a really interesting job"
-  },
-  {
-    "_id": 63,
-    "ru": "У нее очень интересная работа",
-    "en": "She has a very interesting job"
-  },
-  {
-    "_id": 64,
-    "ru": "Я вижу, что у меня отличный результат",
-    "en": "I see that I have an excellent result"
-  },
-  {
-    "_id": 65,
-    "ru": "Она видит, что у нее отличный результат",
-    "en": "She sees that she has an excellent result"
-  },
-  {
-    "_id": 66,
-    "ru": "Они видят, что у меня отличные результаты",
-    "en": "They see that I have excellent results"
-  },
-  {
-    "_id": 67,
-    "ru": "У него большая мотивация",
-    "en": "He has big motivation"
-  },
-  {
-    "_id": 68,
-    "ru": "У нее большая мотивация",
-    "en": "She has big motivation"
-  },
-  {
-    "_id": 69,
-    "ru": "У меня большая мотивация",
-    "en": "I have big motivation"
-  },
-  {
-    "_id": 70,
-    "ru": "Он использует два очень интересных устройства",
-    "en": "He uses two very interesting devices"
-  },
-  {
-    "_id": 71,
-    "ru": "Я использую одно очень интересное устройство",
-    "en": "I use one very interesting device"
-  },
-  {
-    "_id": 72,
-    "ru": "Они используют некоторые очень интересные устройства",
-    "en": "They use some very interesting devices"
-  },
-  {
-    "_id": 73,
-    "ru": "Это оказывает очень положительное влияние на его здоровье",
-    "en": "It has a very positive effect on his health"
-  },
-  {
-    "_id": 74,
-    "ru": "Это оказывает очень положительный эффект на мое здоровье",
-    "en": "It has a very positive effect on my health"
-  },
-  {
-    "_id": 75,
-    "ru": "У нее очень сильный акцент",
-    "en": "She has a very strong accent"
-  },
-  {
-    "_id": 76,
-    "ru": "У него очень сильный акцент",
-    "en": "He has a very strong accent"
-  },
-  {
-    "_id": 77,
-    "ru": "У него действительно сильный акцент",
-    "en": "He has a really strong accent"
-  },
-  {
-    "_id": 78,
-    "ru": "У меня очень прибыльный бизнес",
-    "en": "I have a very profitable business"
-  },
-  {
-    "_id": 79,
-    "ru": "У него очень прибыльный бизнес",
-    "en": "He has a very profitable business"
-  },
-  {
-    "_id": 80,
-    "ru": "У них очень прибыльный бизнес",
-    "en": "They have a very profitable business"
-  },
-  {
-    "_id": 81,
-    "ru": "Я всегда стараюсь покупать свежие фрукты и овощи",
-    "en": "I always try to buy fresh fruit and vegetables"
-  },
-  {
-    "_id": 82,
-    "ru": "Я всегда покупаю свежие фрукты и овощи",
-    "en": "I always buy fresh fruit and vegetables"
-  },
-  {
-    "_id": 83,
-    "ru": "Я обычно стараюсь покупать свежие фрукты и овощи",
-    "en": "I usually try to buy fresh fruit and vegetables"
-  },
-  {
-    "_id": 84,
-    "ru": "У тебя очень хорошая машина",
-    "en": "You have a very good car"
-  },
-  {
-    "_id": 85,
-    "ru": "У тебя очень плохая машина",
-    "en": "You have a very bad car"
-  },
-  {
-    "_id": 86,
-    "ru": "У него очень хорошая машина",
-    "en": "He has a very good car"
-  },
-  {
-    "_id": 87,
-    "ru": "Он живет в очень маленьком городке",
-    "en": "He lives in a very small town"
-  },
-  {
-    "_id": 88,
-    "ru": "Он хочет жить в другой стране",
-    "en": "He wants to live in another country"
-  },
-  {
-    "_id": 89,
-    "ru": "Для начала, я хочу иметь промежуточный уровень",
-    "en": "I want to have an Intermediate level for a start"
-  },
-  {
-    "_id": 90,
-    "ru": "У нее красивый голос",
-    "en": "She has a beautiful voice"
-  },
-  {
-    "_id": 91,
-    "ru": "У нее очень красивая улыбка",
-    "en": "She has a very beautiful smile"
-  },
-  {
-    "_id": 92,
-    "ru": "Это иногда происходит в нашем современном обществе",
-    "en": "It sometimes happens in our modern society"
-  },
-  {
-    "_id": 93,
-    "ru": "Мы видим одно очень красивое здание",
-    "en": "We see one very beautiful building"
-  },
-  {
-    "_id": 94,
-    "ru": "У меня отличный результат",
-    "en": "I have an excellent result"
-  },
-  {
-    "_id": 95,
-    "ru": "Я хочу иметь продвинутый уровень английского языка",
-    "en": "I want to have an Advanced level in English"
-  },
-  {
-    "_id": 96,
-    "ru": "Мы учим основные правила в начале",
-    "en": "We learn basic rules in the beginning"
-  },
-  {
-    "_id": 97,
-    "ru": "У нее очень приятная улыбка",
-    "en": "She has a very pleasant smile"
-  },
-  {
-    "_id": 98,
-    "ru": "Они используют очень простой метод",
-    "en": "They use a very simple method"
+    "id": 1,
+    "ru": {
+      "text": "У меня большая семья",
+      "audio": false
+    },
+    "en": {
+      "text": "I have a big family",
+      "audio": false
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "У него старый дом",
+      "audio": false
+    },
+    "en": {
+      "text": "He has an old house",
+      "audio": false
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "У нее короткие волосы",
+      "audio": false
+    },
+    "en": {
+      "text": "She has short hair",
+      "audio": false
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "У них есть большие деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "They have big money",
+      "audio": false
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "У нас богатые друзья",
+      "audio": false
+    },
+    "en": {
+      "text": "We have rich friends",
+      "audio": false
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "Им нравятся большие машины",
+      "audio": false
+    },
+    "en": {
+      "text": "They like big cars",
+      "audio": false
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "У нее очень интересная работа",
+      "audio": false
+    },
+    "en": {
+      "text": "She has a very interesting job",
+      "audio": false
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "Я знаю одно странное место",
+      "audio": false
+    },
+    "en": {
+      "text": "I know one strange place",
+      "audio": false
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "Я купил одну книгу",
+      "audio": false
+    },
+    "en": {
+      "text": "I bought one book",
+      "audio": false
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "Мне действительно нравится теплая погода",
+      "audio": false
+    },
+    "en": {
+      "text": "I really like warm weather",
+      "audio": false
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "У меня хороший результат",
+      "audio": false
+    },
+    "en": {
+      "text": "I have a good result",
+      "audio": false
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "У тебя высокий уровень",
+      "audio": false
+    },
+    "en": {
+      "text": "You have a high level",
+      "audio": false
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "Он использует простой метод",
+      "audio": false
+    },
+    "en": {
+      "text": "He uses a simple method",
+      "audio": false
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "У меня очень большая мотивация",
+      "audio": false
+    },
+    "en": {
+      "text": "I have very big motivation",
+      "audio": false
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "У нее длинные светлые волосы",
+      "audio": false
+    },
+    "en": {
+      "text": "She has long blonde hair",
+      "audio": false
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "У него большая семья",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a large family",
+      "audio": false
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "Мы видим современное здание",
+      "audio": false
+    },
+    "en": {
+      "text": "We see a modern building",
+      "audio": false
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "У них старая машина",
+      "audio": false
+    },
+    "en": {
+      "text": "They have an old car",
+      "audio": false
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "У него финансовые проблемы",
+      "audio": false
+    },
+    "en": {
+      "text": "He has financial problems",
+      "audio": false
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Она хочет горячий чай",
+      "audio": false
+    },
+    "en": {
+      "text": "She wants hot tea",
+      "audio": false
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "У него синяя машина",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a blue car",
+      "audio": false
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "У меня новый компьютер",
+      "audio": false
+    },
+    "en": {
+      "text": "I have a new computer",
+      "audio": false
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "У меня есть синяя ручка",
+      "audio": false
+    },
+    "en": {
+      "text": "I have a blue pen",
+      "audio": false
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "У него плохой результат",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a bad result",
+      "audio": false
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "У тебя блестящий результат",
+      "audio": false
+    },
+    "en": {
+      "text": "You have a brilliant result",
+      "audio": false
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "У него короткие волосы",
+      "audio": false
+    },
+    "en": {
+      "text": "He has short hair",
+      "audio": false
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "Я вижу реальный прогресс",
+      "audio": false
+    },
+    "en": {
+      "text": "I see real progress",
+      "audio": false
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "У него есть другая идея",
+      "audio": false
+    },
+    "en": {
+      "text": "He has another idea",
+      "audio": false
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "У него странный вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a strange question",
+      "audio": false
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Он смотрит бесплатные видео уроки",
+      "audio": false
+    },
+    "en": {
+      "text": "He watches free video lessons",
+      "audio": false
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "Ей нравится зеленый цвет",
+      "audio": false
+    },
+    "en": {
+      "text": "She likes green colour",
+      "audio": false
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "У него богатые родители",
+      "audio": false
+    },
+    "en": {
+      "text": "He has rich parents",
+      "audio": false
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "У нее длинные волосы",
+      "audio": false
+    },
+    "en": {
+      "text": "She has long hair",
+      "audio": false
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "Она живет в маленьком городе",
+      "audio": false
+    },
+    "en": {
+      "text": "She lives in a small town",
+      "audio": false
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "Я вижу одну маленькую ошибку",
+      "audio": false
+    },
+    "en": {
+      "text": "I see one small mistake",
+      "audio": false
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "У него низкий уровень",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a low level",
+      "audio": false
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "Я смотрю бесплатные уроки английского",
+      "audio": false
+    },
+    "en": {
+      "text": "I watch free English lessons",
+      "audio": false
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "У него короткие черные волосы",
+      "audio": false
+    },
+    "en": {
+      "text": "He has short black hair",
+      "audio": false
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "Они используют простое устройство",
+      "audio": false
+    },
+    "en": {
+      "text": "They use a simple device",
+      "audio": false
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "Ей больше нравится холодная погода",
+      "audio": false
+    },
+    "en": {
+      "text": "She likes cold weather more",
+      "audio": false
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "У нее есть ребенок",
+      "audio": false
+    },
+    "en": {
+      "text": "She has a baby",
+      "audio": false
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "Он видит некоторые ошибки",
+      "audio": false
+    },
+    "en": {
+      "text": "He sees some mistakes",
+      "audio": false
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "Он видит реальный прогресс",
+      "audio": false
+    },
+    "en": {
+      "text": "He sees real progress",
+      "audio": false
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "У тебя интересный вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "You have an interesting question",
+      "audio": false
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "У него один ребенок",
+      "audio": false
+    },
+    "en": {
+      "text": "He has one child",
+      "audio": false
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "Ему нужна горячая вода",
+      "audio": false
+    },
+    "en": {
+      "text": "He needs hot water",
+      "audio": false
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "Я живу в большом городе",
+      "audio": false
+    },
+    "en": {
+      "text": "I live in a big city",
+      "audio": false
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "У нее есть черный карандаш",
+      "audio": false
+    },
+    "en": {
+      "text": "She has a black pencil",
+      "audio": false
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "Она всегда старается покупать свежую еду",
+      "audio": false
+    },
+    "en": {
+      "text": "She always tries to buy fresh food",
+      "audio": false
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "У него очень умный сын",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a very smart son",
+      "audio": false
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "Он хочет иметь средний уровень для начала",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to have an intermediate level for a start",
+      "audio": false
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "У них очень низкий уровень",
+      "audio": false
+    },
+    "en": {
+      "text": "They have a very low level",
+      "audio": false
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "Она смотрит бесплатные видео уроки",
+      "audio": false
+    },
+    "en": {
+      "text": "She watches free video lessons",
+      "audio": false
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "Я знаю, что у него старый компьютер",
+      "audio": false
+    },
+    "en": {
+      "text": "I know that he has an old computer",
+      "audio": false
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "У него очень высокий уровень",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a very high level",
+      "audio": false
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "У них есть один очень интересный план",
+      "audio": false
+    },
+    "en": {
+      "text": "They have one very interesting plan",
+      "audio": false
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "Я вижу очень красивое место",
+      "audio": false
+    },
+    "en": {
+      "text": "I see a very beautiful place",
+      "audio": false
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "У него очень старый компьютер",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a very old computer",
+      "audio": false
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "У нее очень красивая дочь",
+      "audio": false
+    },
+    "en": {
+      "text": "She has a very beautiful daughter",
+      "audio": false
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "Это часто случается в нашем современном обществе",
+      "audio": false
+    },
+    "en": {
+      "text": "It often happens in our modern society",
+      "audio": false
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "У меня очень интересная работа",
+      "audio": false
+    },
+    "en": {
+      "text": "I have a very interesting job",
+      "audio": false
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "У меня действительно интересная работа",
+      "audio": false
+    },
+    "en": {
+      "text": "I have a really interesting job",
+      "audio": false
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "У нее очень интересная работа",
+      "audio": false
+    },
+    "en": {
+      "text": "She has a very interesting job",
+      "audio": false
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "Я вижу, что у меня отличный результат",
+      "audio": false
+    },
+    "en": {
+      "text": "I see that I have an excellent result",
+      "audio": false
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "Она видит, что у нее отличный результат",
+      "audio": false
+    },
+    "en": {
+      "text": "She sees that she has an excellent result",
+      "audio": false
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "Они видят, что у меня отличные результаты",
+      "audio": false
+    },
+    "en": {
+      "text": "They see that I have excellent results",
+      "audio": false
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "У него большая мотивация",
+      "audio": false
+    },
+    "en": {
+      "text": "He has big motivation",
+      "audio": false
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "У нее большая мотивация",
+      "audio": false
+    },
+    "en": {
+      "text": "She has big motivation",
+      "audio": false
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "У меня большая мотивация",
+      "audio": false
+    },
+    "en": {
+      "text": "I have big motivation",
+      "audio": false
+    }
+  },
+  {
+    "id": 70,
+    "ru": {
+      "text": "Он использует два очень интересных устройства",
+      "audio": false
+    },
+    "en": {
+      "text": "He uses two very interesting devices",
+      "audio": false
+    }
+  },
+  {
+    "id": 71,
+    "ru": {
+      "text": "Я использую одно очень интересное устройство",
+      "audio": false
+    },
+    "en": {
+      "text": "I use one very interesting device",
+      "audio": false
+    }
+  },
+  {
+    "id": 72,
+    "ru": {
+      "text": "Они используют некоторые очень интересные устройства",
+      "audio": false
+    },
+    "en": {
+      "text": "They use some very interesting devices",
+      "audio": false
+    }
+  },
+  {
+    "id": 73,
+    "ru": {
+      "text": "Это оказывает очень положительное влияние на его здоровье",
+      "audio": false
+    },
+    "en": {
+      "text": "It has a very positive effect on his health",
+      "audio": false
+    }
+  },
+  {
+    "id": 74,
+    "ru": {
+      "text": "Это оказывает очень положительный эффект на мое здоровье",
+      "audio": false
+    },
+    "en": {
+      "text": "It has a very positive effect on my health",
+      "audio": false
+    }
+  },
+  {
+    "id": 75,
+    "ru": {
+      "text": "У нее очень сильный акцент",
+      "audio": false
+    },
+    "en": {
+      "text": "She has a very strong accent",
+      "audio": false
+    }
+  },
+  {
+    "id": 76,
+    "ru": {
+      "text": "У него очень сильный акцент",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a very strong accent",
+      "audio": false
+    }
+  },
+  {
+    "id": 77,
+    "ru": {
+      "text": "У него действительно сильный акцент",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a really strong accent",
+      "audio": false
+    }
+  },
+  {
+    "id": 78,
+    "ru": {
+      "text": "У меня очень прибыльный бизнес",
+      "audio": false
+    },
+    "en": {
+      "text": "I have a very profitable business",
+      "audio": false
+    }
+  },
+  {
+    "id": 79,
+    "ru": {
+      "text": "У него очень прибыльный бизнес",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a very profitable business",
+      "audio": false
+    }
+  },
+  {
+    "id": 80,
+    "ru": {
+      "text": "У них очень прибыльный бизнес",
+      "audio": false
+    },
+    "en": {
+      "text": "They have a very profitable business",
+      "audio": false
+    }
+  },
+  {
+    "id": 81,
+    "ru": {
+      "text": "Я всегда стараюсь покупать свежие фрукты и овощи",
+      "audio": false
+    },
+    "en": {
+      "text": "I always try to buy fresh fruit and vegetables",
+      "audio": false
+    }
+  },
+  {
+    "id": 82,
+    "ru": {
+      "text": "Я всегда покупаю свежие фрукты и овощи",
+      "audio": false
+    },
+    "en": {
+      "text": "I always buy fresh fruit and vegetables",
+      "audio": false
+    }
+  },
+  {
+    "id": 83,
+    "ru": {
+      "text": "Я обычно стараюсь покупать свежие фрукты и овощи",
+      "audio": false
+    },
+    "en": {
+      "text": "I usually try to buy fresh fruit and vegetables",
+      "audio": false
+    }
+  },
+  {
+    "id": 84,
+    "ru": {
+      "text": "У тебя очень хорошая машина",
+      "audio": false
+    },
+    "en": {
+      "text": "You have a very good car",
+      "audio": false
+    }
+  },
+  {
+    "id": 85,
+    "ru": {
+      "text": "У тебя очень плохая машина",
+      "audio": false
+    },
+    "en": {
+      "text": "You have a very bad car",
+      "audio": false
+    }
+  },
+  {
+    "id": 86,
+    "ru": {
+      "text": "У него очень хорошая машина",
+      "audio": false
+    },
+    "en": {
+      "text": "He has a very good car",
+      "audio": false
+    }
+  },
+  {
+    "id": 87,
+    "ru": {
+      "text": "Он живет в очень маленьком городке",
+      "audio": false
+    },
+    "en": {
+      "text": "He lives in a very small town",
+      "audio": false
+    }
+  },
+  {
+    "id": 88,
+    "ru": {
+      "text": "Он хочет жить в другой стране",
+      "audio": false
+    },
+    "en": {
+      "text": "He wants to live in another country",
+      "audio": false
+    }
+  },
+  {
+    "id": 89,
+    "ru": {
+      "text": "Для начала, я хочу иметь промежуточный уровень",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to have an Intermediate level for a start",
+      "audio": false
+    }
+  },
+  {
+    "id": 90,
+    "ru": {
+      "text": "У нее красивый голос",
+      "audio": false
+    },
+    "en": {
+      "text": "She has a beautiful voice",
+      "audio": false
+    }
+  },
+  {
+    "id": 91,
+    "ru": {
+      "text": "У нее очень красивая улыбка",
+      "audio": false
+    },
+    "en": {
+      "text": "She has a very beautiful smile",
+      "audio": false
+    }
+  },
+  {
+    "id": 92,
+    "ru": {
+      "text": "Это иногда происходит в нашем современном обществе",
+      "audio": false
+    },
+    "en": {
+      "text": "It sometimes happens in our modern society",
+      "audio": false
+    }
+  },
+  {
+    "id": 93,
+    "ru": {
+      "text": "Мы видим одно очень красивое здание",
+      "audio": false
+    },
+    "en": {
+      "text": "We see one very beautiful building",
+      "audio": false
+    }
+  },
+  {
+    "id": 94,
+    "ru": {
+      "text": "У меня отличный результат",
+      "audio": false
+    },
+    "en": {
+      "text": "I have an excellent result",
+      "audio": false
+    }
+  },
+  {
+    "id": 95,
+    "ru": {
+      "text": "Я хочу иметь продвинутый уровень английского языка",
+      "audio": false
+    },
+    "en": {
+      "text": "I want to have an Advanced level in English",
+      "audio": false
+    }
+  },
+  {
+    "id": 96,
+    "ru": {
+      "text": "Мы учим основные правила в начале",
+      "audio": false
+    },
+    "en": {
+      "text": "We learn basic rules in the beginning",
+      "audio": false
+    }
+  },
+  {
+    "id": 97,
+    "ru": {
+      "text": "У нее очень приятная улыбка",
+      "audio": false
+    },
+    "en": {
+      "text": "She has a very pleasant smile",
+      "audio": false
+    }
+  },
+  {
+    "id": 98,
+    "ru": {
+      "text": "Они используют очень простой метод",
+      "audio": false
+    },
+    "en": {
+      "text": "They use a very simple method",
+      "audio": false
+    }
   }
 ]

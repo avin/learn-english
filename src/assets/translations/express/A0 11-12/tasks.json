@@ -1,202 +1,442 @@
 [
   {
-    "_id": 1,
-    "ru": "Во сколько ты обычно встаешь?",
-    "en": "What time do you usually get up?"
+    "id": 1,
+    "ru": {
+      "text": "Во сколько ты обычно встаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What time do you usually get up?",
+      "audio": false
+    }
   },
   {
-    "_id": 2,
-    "ru": "Почему ты так много работаешь?",
-    "en": "Why do you work so much?"
+    "id": 2,
+    "ru": {
+      "text": "Почему ты так много работаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why do you work so much?",
+      "audio": false
+    }
   },
   {
-    "_id": 3,
-    "ru": "Где ты работаешь?",
-    "en": "Where do you work?"
+    "id": 3,
+    "ru": {
+      "text": "Где ты работаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where do you work?",
+      "audio": false
+    }
   },
   {
-    "_id": 4,
-    "ru": "Где он хочет учиться?",
-    "en": "Where does he want to study?"
+    "id": 4,
+    "ru": {
+      "text": "Где он хочет учиться?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where does he want to study?",
+      "audio": false
+    }
   },
   {
-    "_id": 5,
-    "ru": "Что ты знаешь об этом?",
-    "en": "What do you know about it?"
+    "id": 5,
+    "ru": {
+      "text": "Что ты знаешь об этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do you know about it?",
+      "audio": false
+    }
   },
   {
-    "_id": 6,
-    "ru": "Как часто ты водишь машину?",
-    "en": "How often do you drive a car?"
+    "id": 6,
+    "ru": {
+      "text": "Как часто ты водишь машину?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often do you drive a car?",
+      "audio": false
+    }
   },
   {
-    "_id": 7,
-    "ru": "Где ты учишься?",
-    "en": "Where do you study?"
+    "id": 7,
+    "ru": {
+      "text": "Где ты учишься?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where do you study?",
+      "audio": false
+    }
   },
   {
-    "_id": 8,
-    "ru": "Сколько это стоит?",
-    "en": "How much does it cost?"
+    "id": 8,
+    "ru": {
+      "text": "Сколько это стоит?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much does it cost?",
+      "audio": false
+    }
   },
   {
-    "_id": 9,
-    "ru": "Где ты хочешь работать?",
-    "en": "Where do you want to work?"
+    "id": 9,
+    "ru": {
+      "text": "Где ты хочешь работать?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where do you want to work?",
+      "audio": false
+    }
   },
   {
-    "_id": 10,
-    "ru": "Сколько стоит этот билет?",
-    "en": "How much does this ticket cost?"
+    "id": 10,
+    "ru": {
+      "text": "Сколько стоит этот билет?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much does this ticket cost?",
+      "audio": false
+    }
   },
   {
-    "_id": 11,
-    "ru": "Когда ты работаешь?",
-    "en": "When do you work?"
+    "id": 11,
+    "ru": {
+      "text": "Когда ты работаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "When do you work?",
+      "audio": false
+    }
   },
   {
-    "_id": 12,
-    "ru": "Сколько стоит эта сумка?",
-    "en": "How much does this bag cost?"
+    "id": 12,
+    "ru": {
+      "text": "Сколько стоит эта сумка?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much does this bag cost?",
+      "audio": false
+    }
   },
   {
-    "_id": 13,
-    "ru": "Что ты хочешь сделать?",
-    "en": "What do you want to do?"
+    "id": 13,
+    "ru": {
+      "text": "Что ты хочешь сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do you want to do?",
+      "audio": false
+    }
   },
   {
-    "_id": 14,
-    "ru": "Сколько стоит это кольцо?",
-    "en": "How much does this ring cost?"
+    "id": 14,
+    "ru": {
+      "text": "Сколько стоит это кольцо?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much does this ring cost?",
+      "audio": false
+    }
   },
   {
-    "_id": 15,
-    "ru": "Как часто ты изучаешь английский?",
-    "en": "How often do you learn English?"
+    "id": 15,
+    "ru": {
+      "text": "Как часто ты изучаешь английский?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often do you learn English?",
+      "audio": false
+    }
   },
   {
-    "_id": 16,
-    "ru": "Сколько стоит эта услуга?",
-    "en": "How much does this service cost?"
+    "id": 16,
+    "ru": {
+      "text": "Сколько стоит эта услуга?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much does this service cost?",
+      "audio": false
+    }
   },
   {
-    "_id": 17,
-    "ru": "Где она учится?",
-    "en": "Where does he study?"
+    "id": 17,
+    "ru": {
+      "text": "Где она учится?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where does he study?",
+      "audio": false
+    }
   },
   {
-    "_id": 18,
-    "ru": "Какие фильмы ты смотришь?",
-    "en": "What movies do you watch?"
+    "id": 18,
+    "ru": {
+      "text": "Какие фильмы ты смотришь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What movies do you watch?",
+      "audio": false
+    }
   },
   {
-    "_id": 19,
-    "ru": "Сколько ты платишь за это?",
-    "en": "How much do you pay for it?"
+    "id": 19,
+    "ru": {
+      "text": "Сколько ты платишь за это?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much do you pay for it?",
+      "audio": false
+    }
   },
   {
-    "_id": 20,
-    "ru": "Где она живет?",
-    "en": "Where does she live?"
+    "id": 20,
+    "ru": {
+      "text": "Где она живет?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where does she live?",
+      "audio": false
+    }
   },
   {
-    "_id": 21,
-    "ru": "Сколько стоит это платье?",
-    "en": "How much does this dress cost?"
+    "id": 21,
+    "ru": {
+      "text": "Сколько стоит это платье?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much does this dress cost?",
+      "audio": false
+    }
   },
   {
-    "_id": 22,
-    "ru": "Куда ты хочешь пойти сейчас?",
-    "en": "Where do you want to go now?"
+    "id": 22,
+    "ru": {
+      "text": "Куда ты хочешь пойти сейчас?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where do you want to go now?",
+      "audio": false
+    }
   },
   {
-    "_id": 23,
-    "ru": "Что он хочет?",
-    "en": "What does he want?"
+    "id": 23,
+    "ru": {
+      "text": "Что он хочет?",
+      "audio": false
+    },
+    "en": {
+      "text": "What does he want?",
+      "audio": false
+    }
   },
   {
-    "_id": 24,
-    "ru": "Сколько стоит этот браслет?",
-    "en": "How much does this bracelet cost?"
+    "id": 24,
+    "ru": {
+      "text": "Сколько стоит этот браслет?",
+      "audio": false
+    },
+    "en": {
+      "text": "How much does this bracelet cost?",
+      "audio": false
+    }
   },
   {
-    "_id": 25,
-    "ru": "В какие игры ты играешь?",
-    "en": "What games do you play?"
+    "id": 25,
+    "ru": {
+      "text": "В какие игры ты играешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What games do you play?",
+      "audio": false
+    }
   },
   {
-    "_id": 26,
-    "ru": "Когда у тебя есть свободное время?",
-    "en": "When do you have free time?"
+    "id": 26,
+    "ru": {
+      "text": "Когда у тебя есть свободное время?",
+      "audio": false
+    },
+    "en": {
+      "text": "When do you have free time?",
+      "audio": false
+    }
   },
   {
-    "_id": 27,
-    "ru": "Как часто он ходит в спортзал?",
-    "en": "How often does he go to the gym?"
+    "id": 27,
+    "ru": {
+      "text": "Как часто он ходит в спортзал?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often does he go to the gym?",
+      "audio": false
+    }
   },
   {
-    "_id": 28,
-    "ru": "Какие книги ты читаешь?",
-    "en": "What books do you read?"
+    "id": 28,
+    "ru": {
+      "text": "Какие книги ты читаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What books do you read?",
+      "audio": false
+    }
   },
   {
-    "_id": 29,
-    "ru": "Что она знает?",
-    "en": "What does she know?"
+    "id": 29,
+    "ru": {
+      "text": "Что она знает?",
+      "audio": false
+    },
+    "en": {
+      "text": "What does she know?",
+      "audio": false
+    }
   },
   {
-    "_id": 30,
-    "ru": "В какие игры ты обычно играешь?",
-    "en": "What games do you usually play?"
+    "id": 30,
+    "ru": {
+      "text": "В какие игры ты обычно играешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What games do you usually play?",
+      "audio": false
+    }
   },
   {
-    "_id": 31,
-    "ru": "Где ты живешь?",
-    "en": "Where do you live?"
+    "id": 31,
+    "ru": {
+      "text": "Где ты живешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where do you live?",
+      "audio": false
+    }
   },
   {
-    "_id": 32,
-    "ru": "Как часто ты ходишь в парк?",
-    "en": "How often do you go to the park?"
+    "id": 32,
+    "ru": {
+      "text": "Как часто ты ходишь в парк?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often do you go to the park?",
+      "audio": false
+    }
   },
   {
-    "_id": 33,
-    "ru": "Где он работает?",
-    "en": "Where does he work?"
+    "id": 33,
+    "ru": {
+      "text": "Где он работает?",
+      "audio": false
+    },
+    "en": {
+      "text": "Where does he work?",
+      "audio": false
+    }
   },
   {
-    "_id": 34,
-    "ru": "Что ты знаешь обо всем этом?",
-    "en": "What do you know about all this?"
+    "id": 34,
+    "ru": {
+      "text": "Что ты знаешь обо всем этом?",
+      "audio": false
+    },
+    "en": {
+      "text": "What do you know about all this?",
+      "audio": false
+    }
   },
   {
-    "_id": 35,
-    "ru": "Какие видео ты обычно смотришь?",
-    "en": "What videos do you usually watch?"
+    "id": 35,
+    "ru": {
+      "text": "Какие видео ты обычно смотришь?",
+      "audio": false
+    },
+    "en": {
+      "text": "What videos do you usually watch?",
+      "audio": false
+    }
   },
   {
-    "_id": 36,
-    "ru": "Как часто ты это делаешь?",
-    "en": "How often do you do it?"
+    "id": 36,
+    "ru": {
+      "text": "Как часто ты это делаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often do you do it?",
+      "audio": false
+    }
   },
   {
-    "_id": 37,
-    "ru": "Почему ты так думаешь?",
-    "en": "Why do you think so?"
+    "id": 37,
+    "ru": {
+      "text": "Почему ты так думаешь?",
+      "audio": false
+    },
+    "en": {
+      "text": "Why do you think so?",
+      "audio": false
+    }
   },
   {
-    "_id": 38,
-    "ru": "Как часто ты ходишь в спортзал?",
-    "en": "How often do you go to the gym?"
+    "id": 38,
+    "ru": {
+      "text": "Как часто ты ходишь в спортзал?",
+      "audio": false
+    },
+    "en": {
+      "text": "How often do you go to the gym?",
+      "audio": false
+    }
   },
   {
-    "_id": 39,
-    "ru": "Когда ты находишь время на это?",
-    "en": "When do you find time for it?"
+    "id": 39,
+    "ru": {
+      "text": "Когда ты находишь время на это?",
+      "audio": false
+    },
+    "en": {
+      "text": "When do you find time for it?",
+      "audio": false
+    }
   },
   {
-    "_id": 40,
-    "ru": "Что он хочет сделать?",
-    "en": "What does he want to do?"
+    "id": 40,
+    "ru": {
+      "text": "Что он хочет сделать?",
+      "audio": false
+    },
+    "en": {
+      "text": "What does he want to do?",
+      "audio": false
+    }
   }
 ]

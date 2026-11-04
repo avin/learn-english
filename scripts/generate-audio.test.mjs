@@ -3,6 +3,7 @@ import { mkdir, mkdtemp, readFile, readdir, rm, writeFile } from 'node:fs/promis
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import test from 'node:test';
+import { setImmediate } from 'node:timers/promises';
 import {
   generateAudio,
   loadAudioJobs,
@@ -13,6 +14,14 @@ import {
 
 const voices = { en: 'Adrian', ru: 'Adrian' };
 const fixtureFile = new URL('./fixtures/soniox.m4a', import.meta.url);
+
+function deferred() {
+  let resolve;
+  const promise = new Promise((done) => {
+    resolve = done;
+  });
+  return { promise, resolve };
+}
 
 test('names audio files with padded ids in the audio subdirectory', () => {
   const tasks = [1, 12, 123, 1234].map((id) => ({
@@ -35,7 +44,7 @@ test('names audio files with padded ids in the audio subdirectory', () => {
   );
 });
 
-test('synchronizes flags with files and persists progress before the next request', async () => {
+test('runs sequentially by default and persists progress before the next request', async () => {
   const directory = await mkdtemp(join(tmpdir(), 'soniox-flags-test-'));
   try {
     const tasksFile = join(directory, 'tasks.json');
@@ -108,6 +117,164 @@ test('synchronizes flags with files and persists progress before the next reques
   }
 });
 
+test(
+  'runs four requests when configured and persists out-of-order completions for one lesson',
+  { timeout: 5000 },
+  async () => {
+    const directory = await mkdtemp(join(tmpdir(), 'soniox-parallel-test-'));
+    const gates = Array.from({ length: 4 }, () => deferred());
+    try {
+      const tasksFile = join(directory, 'tasks.json');
+      const tasks = Array.from({ length: 8 }, (_, index) => ({
+        id: index + 1,
+        en: { text: String(index + 1), audio: false },
+        ru: { text: 'Example', audio: false },
+      }));
+      await writeFile(tasksFile, JSON.stringify(tasks));
+      const audio = await readFile(fixtureFile);
+      const firstBatch = deferred();
+      const nextBatch = deferred();
+      let active = 0;
+      let maximum = 0;
+      const requested = [];
+      const running = generateAudio({
+        jobs: await loadAudioJobs(tasksFile, ['en'], voices),
+        apiKey: 'fake-test-key',
+        concurrency: 4,
+        request: async (config) => {
+          const id = Number(config.text);
+          requested.push(id);
+          active++;
+          maximum = Math.max(maximum, active);
+          if (requested.length === 4) firstBatch.resolve();
+          if (requested.length === 5) nextBatch.resolve();
+          if (id <= 4) await gates[id - 1].promise;
+          active--;
+          return audio;
+        },
+      });
+      await firstBatch.promise;
+      assert.equal(active, 4);
+      assert.equal(requested.length, 4);
+      // The fourth result must be saved while the first three are still pending.
+      gates[3].resolve();
+      await nextBatch.promise;
+      assert.equal(JSON.parse(await readFile(tasksFile, 'utf8'))[3].en.audio, true);
+      for (const gate of gates) gate.resolve();
+      assert.deepEqual(await running, { created: 8, skipped: 0, requests: 8 });
+      assert.equal(maximum, 4);
+      assert.deepEqual([...requested].sort((a, b) => a - b), [1, 2, 3, 4, 5, 6, 7, 8]);
+      const saved = JSON.parse(await readFile(tasksFile, 'utf8'));
+      assert.ok(saved.every((task) => task.en.audio && !task.ru.audio));
+      assert.deepEqual(await readdir(directory), ['audio', 'tasks.json']);
+      assert.equal((await readdir(join(directory, 'audio'))).length, 8);
+      assert.deepEqual(
+        await generateAudio({
+          jobs: await loadAudioJobs(tasksFile, ['en'], voices),
+          apiKey: 'fake-test-key',
+          request: async () => {
+            throw new Error('Existing files must be skipped');
+          },
+        }),
+        { created: 0, skipped: 8, requests: 0 },
+      );
+    } finally {
+      for (const gate of gates) gate.resolve();
+      await rm(directory, { recursive: true, force: true });
+    }
+  },
+);
+
+test(
+  'stops scheduling after a failure and saves in-flight results before rejecting',
+  { timeout: 5000 },
+  async () => {
+    const directory = await mkdtemp(join(tmpdir(), 'soniox-drain-test-'));
+    const fail = deferred();
+    const finish = deferred();
+    try {
+      const tasksFile = join(directory, 'tasks.json');
+      const tasks = Array.from({ length: 6 }, (_, index) => ({
+        id: index + 1,
+        en: { text: String(index + 1), audio: false },
+        ru: { text: 'Example', audio: false },
+      }));
+      await writeFile(tasksFile, JSON.stringify(tasks));
+      const audio = await readFile(fixtureFile);
+      const started = deferred();
+      const requested = [];
+      let settled = false;
+      const running = generateAudio({
+        jobs: await loadAudioJobs(tasksFile, ['en'], voices),
+        apiKey: 'fake-test-key',
+        concurrency: 2,
+        request: async (config) => {
+          const id = Number(config.text);
+          requested.push(id);
+          if (requested.length === 2) started.resolve();
+          if (id === 1) {
+            await fail.promise;
+            throw new Error('simulated network failure');
+          }
+          await finish.promise;
+          return audio;
+        },
+      });
+      const rejected = assert.rejects(running, /simulated network failure/);
+      running.then(
+        () => {
+          settled = true;
+        },
+        () => {
+          settled = true;
+        },
+      );
+      await started.promise;
+      fail.resolve();
+      await setImmediate();
+      assert.equal(settled, false);
+      assert.deepEqual([...requested].sort((a, b) => a - b), [1, 2]);
+      finish.resolve();
+      await rejected;
+      assert.deepEqual([...requested].sort((a, b) => a - b), [1, 2]);
+      assert.deepEqual(
+        JSON.parse(await readFile(tasksFile, 'utf8')).map((task) => task.en.audio),
+        [false, true, false, false, false, false],
+      );
+      const resumed = [];
+      assert.deepEqual(
+        await generateAudio({
+          jobs: await loadAudioJobs(tasksFile, ['en'], voices),
+          apiKey: 'fake-test-key',
+          request: async (config) => {
+            resumed.push(Number(config.text));
+            return audio;
+          },
+        }),
+        { created: 5, skipped: 1, requests: 5 },
+      );
+      assert.deepEqual(
+        resumed.sort((a, b) => a - b),
+        [1, 3, 4, 5, 6],
+      );
+      assert.ok(JSON.parse(await readFile(tasksFile, 'utf8')).every((task) => task.en.audio));
+    } finally {
+      fail.resolve();
+      finish.resolve();
+      await rm(directory, { recursive: true, force: true });
+    }
+  },
+);
+
+test('rejects invalid concurrency before touching files or making requests', async () => {
+  for (const concurrency of [0, -1, 1.5, Infinity, NaN]) {
+    await assert.rejects(
+      generateAudio({ jobs: [], concurrency }),
+      /--concurrency must be a positive integer/,
+    );
+  }
+});
+
 test('accepts Soniox AAC in MP4 with application/octet-stream and creates M4A', async (t) => {
   const directory = await mkdtemp(join(tmpdir(), 'soniox-response-test-'));
   try {
@@ -163,7 +330,7 @@ test('requests each missing file, resumes after failure, and regenerates deleted
     ];
     const jobs = planAudio(tasks, ['en'], voices);
     let calls = 0;
-    const options = { jobs, outputDirectory, apiKey: 'fake-test-key' };
+    const options = { jobs, outputDirectory, apiKey: 'fake-test-key', concurrency: 1 };
     await assert.rejects(
       generateAudio({
         ...options,

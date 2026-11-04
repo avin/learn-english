@@ -162,8 +162,12 @@ export async function generateAudio({
   apiKey,
   request = requestSpeech,
   limit = Infinity,
+  concurrency = 1,
   dryRun = false,
 }) {
+  if (!Number.isSafeInteger(concurrency) || concurrency < 1) {
+    throw new Error('--concurrency must be a positive integer (number of parallel requests).');
+  }
   if (!dryRun) {
     const documents = new Set(jobs.map((job) => job.document).filter(Boolean));
     for (const document of documents) await syncAudioFlags(document);
@@ -182,23 +186,46 @@ export async function generateAudio({
     return { created: 0, skipped, requests: 0 };
   }
   if (!pending.length) return { created: 0, skipped, requests: 0 };
+  if (!apiKey) throw new Error('Set SONIOX_API_KEY in .env.soniox.local.');
+  console.log(`Concurrency: ${concurrency}.`);
   let requests = 0;
-  for (const [index, job] of pending.entries()) {
-    if (!apiKey) throw new Error('Set SONIOX_API_KEY in .env.soniox.local.');
-    const destination = join(job.outputDirectory, job.filename);
-    await mkdir(dirname(destination), { recursive: true });
-    const data = await request(job.config, apiKey);
-    requests++;
-    await writeFile(`${destination}.tmp`, data);
-    await rename(`${destination}.tmp`, destination);
-    job.phrase.audio = true;
-    if (job.document) await writeTasks(job.document);
-    console.log(`[${index + 1}/${pending.length}] ${destination}: ready`);
+  let created = 0;
+  let nextJob = 0;
+  let failure;
+  const documentWrites = new Map();
+  async function worker() {
+    try {
+      while (!failure && nextJob < pending.length) {
+        const job = pending[nextJob++];
+        const destination = join(job.outputDirectory, job.filename);
+        await mkdir(dirname(destination), { recursive: true });
+        if (failure) return;
+        const data = await request(job.config, apiKey);
+        requests++;
+        await writeFile(`${destination}.tmp`, data);
+        await rename(`${destination}.tmp`, destination);
+        job.phrase.audio = true;
+        if (job.document) {
+          // Jobs for one lesson share tasks.json.tmp; serialize their writes.
+          const previous = documentWrites.get(job.document.path) ?? Promise.resolve();
+          const write = previous.then(() => writeTasks(job.document));
+          documentWrites.set(job.document.path, write);
+          await write;
+        }
+        created++;
+        console.log(`[${created}/${pending.length}] ${destination}: ready`);
+      }
+    } catch (error) {
+      failure ??= error;
+    }
   }
+  // Drain in-flight requests on failure so their successful responses are saved.
+  await Promise.all(Array.from({ length: Math.min(concurrency, pending.length) }, () => worker()));
+  if (failure) throw failure;
   console.log(
     `Done: ${pending.length} files created, ${skipped} existing, ${requests} API requests.`,
   );
-  return { created: pending.length, skipped, requests };
+  return { created, skipped, requests };
 }
 
 async function main() {
@@ -208,6 +235,7 @@ async function main() {
       'dry-run': { type: 'boolean', default: false },
       languages: { type: 'string', default: 'en,ru' },
       limit: { type: 'string' },
+      concurrency: { type: 'string', default: '1' },
       all: { type: 'boolean', default: false },
     },
   });
@@ -235,7 +263,13 @@ async function main() {
   console.log(`Files: ${jobs.length}`);
   console.log('AAC, 64 kbps, 24 kHz, M4A; model tts-rt-v2.');
   const apiKey = process.env.SONIOX_API_KEY?.trim();
-  await generateAudio({ jobs, apiKey, limit, dryRun: values['dry-run'] });
+  await generateAudio({
+    jobs,
+    apiKey,
+    limit,
+    concurrency: Number(values.concurrency),
+    dryRun: values['dry-run'],
+  });
 }
 
 if (process.argv[1] && pathToFileURL(resolve(process.argv[1])).href === import.meta.url) {

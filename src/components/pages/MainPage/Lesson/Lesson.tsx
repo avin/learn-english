@@ -7,6 +7,7 @@ import React, {
   useState,
 } from 'react';
 import { HiOutlineStar, HiStar } from 'react-icons/hi';
+import { TbArrowsExchange, TbArrowsShuffle, TbEye, TbEyeOff } from 'react-icons/tb';
 import { usePrevious } from 'react-use';
 import cn from 'clsx';
 import { shuffle } from 'lodash-es';
@@ -21,6 +22,7 @@ interface Props {
   course: Course;
   lesson: string;
   settings: AppSettings;
+  onSwapDirection: () => void;
 }
 
 export interface LessonControls {
@@ -29,7 +31,10 @@ export interface LessonControls {
   restart: () => void;
 }
 
-const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, ref) => {
+const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
+  const { course, lesson, settings, onSwapDirection } = props;
+  const sourceLanguage = settings.sourceLanguage;
+  const targetLanguage = sourceLanguage === 'ru' ? 'en' : 'ru';
   const {
     loadFavoriteTranslations,
     loadLastOpenSentences,
@@ -103,7 +108,7 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
       if (!translations) return;
       setSelected(next);
       setCursorVisible(true);
-      if (next.column === 'en') {
+      if (next.column === targetLanguage) {
         setOpenSentences((current) =>
           current?.includes(next.idx) ? current : [...(current || []), next.idx],
         );
@@ -120,32 +125,29 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
         setAudioBlocked(false);
       }
     },
-    [playAudio, translations],
+    [playAudio, targetLanguage, translations],
   );
 
-  const restart = useCallback(
-    (announceCompletion = false) => {
-      if (!translations || !openSentences || !favoriteTranslations || !order.length) return;
-      const newOrder = shuffle(order);
-      setOrder(newOrder);
-      setOpenSentences([]);
-      selectSentence({ idx: newOrder[0], column: 'ru' }, announceCompletion);
-    },
-    [favoriteTranslations, openSentences, order, selectSentence, translations],
-  );
+  const restart = useCallback(() => {
+    if (!translations || !openSentences || !favoriteTranslations || !order.length) return;
+    const newOrder = shuffle(order);
+    setOrder(newOrder);
+    setOpenSentences([]);
+    selectSentence({ idx: newOrder[0], column: sourceLanguage }, true);
+  }, [favoriteTranslations, openSentences, order, selectSentence, sourceLanguage, translations]);
 
   const navigate = useCallback(
     (key: ArrowKey) => {
       if (!translations || !openSentences || !favoriteTranslations) return;
-      const next = getNextSentence(order, selected, key);
+      const next = getNextSentence(order, selected, key, sourceLanguage);
       if (!next) return;
       if (
         settings.resetOnLessonEnd &&
         key === 'ArrowRight' &&
         selected?.idx === order[order.length - 1] &&
-        selected?.column === 'en'
+        selected?.column === targetLanguage
       ) {
-        restart(true);
+        restart();
         return;
       }
       selectSentence(next);
@@ -158,6 +160,8 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
       selectSentence,
       selected,
       settings.resetOnLessonEnd,
+      sourceLanguage,
+      targetLanguage,
       translations,
     ],
   );
@@ -305,7 +309,9 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
         setOrder(remaining);
         if (selected?.idx === removedIdx) {
           setSelected(
-            remaining.length ? { idx: remaining[row % remaining.length], column: 'ru' } : null,
+            remaining.length
+              ? { idx: remaining[row % remaining.length], column: sourceLanguage }
+              : null,
           );
         }
       }
@@ -370,8 +376,8 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
     };
   }, [course, lesson, loadFavoriteTranslations]);
 
-  const handleClickEnSentence = (idx: number) => {
-    const audio = translations?.[idx]?.audio?.en;
+  const handleClickTargetSentence = (idx: number) => {
+    const audio = translations?.[idx]?.audio?.[targetLanguage];
     if (settings.autoPlayOnReveal && audio && !openSentences?.includes(idx)) {
       playAudio(audio);
     }
@@ -408,6 +414,16 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
     setCursorVisible(false);
   };
 
+  const handleClickSwap = () => {
+    audioRef.current?.pause();
+    audioRef.current = null;
+    setAudioBlocked(false);
+    setOpenSentences([]);
+    setSelected(null);
+    setCursorVisible(false);
+    onSwapDirection();
+  };
+
   if (loadError) {
     return (
       <div
@@ -435,22 +451,48 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
         <HiOutlineStar size={32} className="mx-auto mb-3 text-orange2" aria-hidden="true" />
         <h2 className="font-semibold text-dark-gray1">Здесь будут избранные фразы</h2>
         <p className="mt-2 text-sm leading-relaxed text-gray1">
-          Откройте урок Titan или Express и нажмите на звёздочку рядом с фразой, которую хотите
-          повторить.
+          Откройте урок и нажмите на звёздочку рядом с фразой, которую хотите повторить.
         </p>
       </div>
     );
   }
 
   const controls = (
-    <div className="flex justify-center space-x-2">
-      <Button onClick={handleClickShuffle} intent="warning">
+    <div className="flex flex-wrap justify-center gap-2">
+      <Button
+        onClick={handleClickSwap}
+        intent="outline"
+        className="inline-flex items-center gap-1.5"
+        title={
+          sourceLanguage === 'ru' ? 'Сейчас: русский → английский' : 'Сейчас: английский → русский'
+        }
+        aria-pressed={sourceLanguage === 'en'}
+      >
+        <TbArrowsExchange size={16} aria-hidden="true" />
+        Поменять
+      </Button>
+      <Button
+        onClick={handleClickShuffle}
+        intent="outline"
+        className="inline-flex items-center gap-1.5"
+      >
+        <TbArrowsShuffle size={16} className="text-orange2" aria-hidden="true" />
         Перемешать
       </Button>
-      <Button onClick={handleClickOpenAll} intent="primary">
+      <Button
+        onClick={handleClickOpenAll}
+        intent="outline"
+        className="inline-flex items-center gap-1.5"
+      >
+        <TbEye size={16} className="text-blue2" aria-hidden="true" />
         Открыть все
       </Button>
-      <Button onClick={handleClickCloseAll} intent="danger">
+      <Button
+        onClick={handleClickCloseAll}
+        intent="outline"
+        className="inline-flex items-center gap-1.5"
+      >
+        <TbEyeOff size={16} className="text-red2" aria-hidden="true" />
         Закрыть все
       </Button>
     </div>
@@ -473,8 +515,8 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
             {order.map((idx) => {
               const translation = translations[idx];
               const { ru, en, audio } = translation;
-              const ruAudio = audio?.ru;
-              const enAudio = audio?.en;
+              const sourceAudio = audio?.[sourceLanguage];
+              const targetAudio = audio?.[targetLanguage];
 
               const isOpen = openSentences.includes(idx);
               const isFavorite = favoriteTranslations.find((i) => i.ru === ru && i.en === en);
@@ -500,61 +542,67 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
                   </td>
                   <td className="p-4 text-right align-top">
                     <div
-                      data-sentence="ru"
+                      data-sentence={sourceLanguage}
+                      lang={sourceLanguage}
                       ref={
-                        selected?.idx === idx && selected.column === 'ru'
+                        selected?.idx === idx && selected.column === sourceLanguage
                           ? selectedSentenceRef
                           : null
                       }
                       className={cn('sentence', {
                         'sentence-selected':
-                          cursorVisible && selected?.idx === idx && selected.column === 'ru',
+                          cursorVisible &&
+                          selected?.idx === idx &&
+                          selected.column === sourceLanguage,
                       })}
-                      onClick={() => setSelected({ idx, column: 'ru' })}
+                      onClick={() => setSelected({ idx, column: sourceLanguage })}
                     >
-                      {ruAudio ? (
+                      {sourceAudio ? (
                         <button
                           type="button"
                           className="text-right"
-                          onClick={() => playAudio(ruAudio)}
+                          onClick={() => playAudio(sourceAudio)}
                         >
                           <span className={cn({ 'audio-phrase': settings.showAudioUnderline })}>
-                            {ru}
+                            {translation[sourceLanguage]}
                           </span>
                         </button>
                       ) : (
-                        ru
+                        translation[sourceLanguage]
                       )}
                     </div>
                   </td>
                   <td className="w-[50%] p-4 align-top">
                     <div
-                      data-sentence="en"
+                      data-sentence={targetLanguage}
+                      lang={targetLanguage}
                       ref={
-                        selected?.idx === idx && selected.column === 'en'
+                        selected?.idx === idx && selected.column === targetLanguage
                           ? selectedSentenceRef
                           : null
                       }
                       className={cn('sentence relative text-blue1', {
                         'sentence-selected':
-                          cursorVisible && selected?.idx === idx && selected.column === 'en',
+                          cursorVisible &&
+                          selected?.idx === idx &&
+                          selected.column === targetLanguage,
                       })}
-                      onClick={() => setSelected({ idx, column: 'en' })}
+                      onClick={() => setSelected({ idx, column: targetLanguage })}
                     >
                       <div aria-hidden={!isOpen}>
-                        {enAudio ? (
+                        {targetAudio ? (
                           <button
                             type="button"
                             className="text-left"
                             tabIndex={isOpen ? 0 : -1}
-                            onClick={() => playAudio(enAudio)}
+                            onClick={() => playAudio(targetAudio)}
                           >
                             <span className={cn({ 'audio-phrase': settings.showAudioUnderline })}>
-                              {en}
+                              {translation[targetLanguage]}
                             </span>
                           </button>
                         ) : (
-                          en
+                          translation[targetLanguage]
                         )}
                       </div>
                       <button
@@ -566,7 +614,7 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
                         aria-label="Открыть перевод"
                         aria-hidden={isOpen}
                         tabIndex={isOpen ? -1 : 0}
-                        onClick={() => handleClickEnSentence(idx)}
+                        onClick={() => handleClickTargetSentence(idx)}
                       />
                     </div>
                   </td>

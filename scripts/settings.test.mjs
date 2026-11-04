@@ -84,3 +84,14 @@ test('gamepad support defaults to enabled and persists either choice', () => {
     assert.equal(loadSettings().gamepadEnabled, true);
   }
 });
+
+test('translation direction persists and defaults to Russian for old or invalid settings', () => {
+  for (const sourceLanguage of ['en', 'ru']) {
+    saveSettings({ ...loadSettings(), sourceLanguage });
+    assert.equal(loadSettings().sourceLanguage, sourceLanguage);
+  }
+  for (const sourceLanguage of [undefined, 'fr', true, 1, null, {}, []]) {
+    stored = JSON.stringify({ sourceLanguage });
+    assert.equal(loadSettings().sourceLanguage, 'ru');
+  }
+});

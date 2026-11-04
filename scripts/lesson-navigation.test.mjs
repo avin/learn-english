@@ -80,3 +80,33 @@ test('empty lists have no selection and a missing selection restarts at the firs
     });
   }
 });
+
+test('English-first navigation follows the swapped columns, including row boundaries', () => {
+  const sequence = order.flatMap((idx) => [
+    { idx, column: 'en' },
+    { idx, column: 'ru' },
+  ]);
+  for (const key of keys) {
+    assert.deepEqual(getNextSentence(order, null, key, 'en'), sequence[0]);
+    assert.deepEqual(getNextSentence(order, { idx: 100, column: 'ru' }, key, 'en'), sequence[0]);
+    assert.equal(getNextSentence([], null, key, 'en'), null);
+  }
+  for (let i = 0; i < sequence.length; i++) {
+    assert.deepEqual(
+      getNextSentence(order, sequence[i], 'ArrowRight', 'en'),
+      sequence[(i + 1) % sequence.length],
+    );
+    assert.deepEqual(
+      getNextSentence(order, sequence[i], 'ArrowLeft', 'en'),
+      sequence[(i + sequence.length - 1) % sequence.length],
+    );
+    assert.deepEqual(
+      getNextSentence(order, sequence[i], 'ArrowDown', 'en'),
+      sequence[(i + 2) % sequence.length],
+    );
+    assert.deepEqual(
+      getNextSentence(order, sequence[i], 'ArrowUp', 'en'),
+      sequence[(i + sequence.length - 2) % sequence.length],
+    );
+  }
+});

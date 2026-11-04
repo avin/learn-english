@@ -285,6 +285,12 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
             course={course}
             lesson={lesson}
             settings={settings}
+            onSwapDirection={() =>
+              handleSettingsChange({
+                ...settings,
+                sourceLanguage: settings.sourceLanguage === 'ru' ? 'en' : 'ru',
+              })
+            }
           />
         ) : (
           <FullPageSpinner />

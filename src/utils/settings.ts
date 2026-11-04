@@ -1,4 +1,5 @@
 export interface AppSettings {
+  sourceLanguage: 'ru' | 'en';
   autoPlayOnReveal: boolean;
   showAudioUnderline: boolean;
   gamepadEnabled: boolean;
@@ -12,6 +13,7 @@ export const cursorScrollDurationOptions = [200, 400, 600, 800, 1000, 1500];
 
 const storageKey = 'settings';
 const defaultSettings: AppSettings = {
+  sourceLanguage: 'ru',
   autoPlayOnReveal: true,
   showAudioUnderline: true,
   gamepadEnabled: true,
@@ -26,6 +28,7 @@ export const loadSettings = (): AppSettings => {
       localStorage.getItem(storageKey) || '{}',
     ) as Partial<AppSettings> | null;
     return {
+      sourceLanguage: saved?.sourceLanguage === 'en' ? 'en' : defaultSettings.sourceLanguage,
       autoPlayOnReveal:
         typeof saved?.autoPlayOnReveal === 'boolean'
           ? saved.autoPlayOnReveal

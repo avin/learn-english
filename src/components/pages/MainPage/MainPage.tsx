@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { useCallback, useEffect, useMemo, useState } from 'react';
 import { HiArrowUp, HiOutlineCog } from 'react-icons/hi';
 import Button from '@/components/common/Button/Button.tsx';
 import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner.tsx';
@@ -89,11 +89,50 @@ const MainPage = () => {
     void saveLastCourse(course);
   };
 
-  const handleChangeLesson = (val: string) => {
-    setLesson(val);
+  const handleChangeLesson = useCallback(
+    (val: string) => {
+      if (!course) return;
+      setLesson(val);
 
-    void saveLastLesson(course!, val);
-  };
+      void saveLastLesson(course, val);
+    },
+    [course],
+  );
+
+  useEffect(() => {
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (
+        !event.shiftKey ||
+        !['ArrowLeft', 'ArrowRight'].includes(event.key) ||
+        event.altKey ||
+        event.ctrlKey ||
+        event.metaKey ||
+        event.isComposing ||
+        event.defaultPrevented ||
+        settingsOpen ||
+        !course ||
+        lesson === null
+      )
+        return;
+
+      const target = event.target;
+      if (
+        target instanceof HTMLElement &&
+        (target.isContentEditable ||
+          target.closest('input, textarea, select, [role="combobox"], [role="slider"]'))
+      )
+        return;
+
+      const index = lessonOptions.findIndex((option) => option.value === lesson);
+      if (index === -1) return;
+      event.preventDefault();
+      if (event.repeat) return;
+      const next = lessonOptions[index + (event.key === 'ArrowRight' ? 1 : -1)];
+      if (next) handleChangeLesson(next.value);
+    };
+    document.addEventListener('keydown', handleKeyDown);
+    return () => document.removeEventListener('keydown', handleKeyDown);
+  }, [course, handleChangeLesson, lesson, lessonOptions, settingsOpen]);
 
   const handleSettingsChange = (newSettings: AppSettings) => {
     setSettings(newSettings);
@@ -146,12 +185,7 @@ const MainPage = () => {
       )}
       <div className="p-8">
         {course && lesson !== null ? (
-          <Lesson
-            key={`${course}_${lesson}`}
-            course={course}
-            lesson={lesson}
-            settings={settings}
-          />
+          <Lesson key={`${course}_${lesson}`} course={course} lesson={lesson} settings={settings} />
         ) : (
           <FullPageSpinner />
         )}
@@ -162,7 +196,7 @@ const MainPage = () => {
         className="group fixed bottom-0 right-0 z-10 block p-4"
         onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
       >
-        <div className="rounded-full border border-gray5 p-2 text-gray3 transition group-hover:border-dark-gray1 group-hover:text-dark-gray1 bg-light-gray5">
+        <div className="rounded-full border border-gray5 bg-light-gray5 p-2 text-gray3 transition group-hover:border-dark-gray1 group-hover:text-dark-gray1">
           <HiArrowUp size={24} />
         </div>
       </button>

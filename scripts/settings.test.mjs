@@ -24,6 +24,7 @@ test('new and existing users keep the previous scroll defaults', () => {
     const settings = loadSettings();
     assert.equal(settings.cursorZonePercent, 30);
     assert.equal(settings.cursorScrollDurationMs, 600);
+    assert.equal(settings.resetOnLessonEnd, false);
   }
   assert.equal(loadSettings().autoPlayOnReveal, false);
   assert.equal(loadSettings().showAudioUnderline, false);
@@ -57,5 +58,17 @@ test('corrupt saved settings recover to defaults', () => {
     const settings = loadSettings();
     assert.equal(settings.cursorZonePercent, 30);
     assert.equal(settings.cursorScrollDurationMs, 600);
+    assert.equal(settings.resetOnLessonEnd, false);
+  }
+});
+
+test('automatic lesson reset persists both boolean values and rejects invalid values', () => {
+  for (const resetOnLessonEnd of [true, false]) {
+    saveSettings({ ...loadSettings(), resetOnLessonEnd });
+    assert.equal(loadSettings().resetOnLessonEnd, resetOnLessonEnd);
+  }
+  for (const resetOnLessonEnd of ['true', 1, null, {}, []]) {
+    stored = JSON.stringify({ resetOnLessonEnd });
+    assert.equal(loadSettings().resetOnLessonEnd, false);
   }
 });

@@ -1,6 +1,7 @@
 export interface AppSettings {
   autoPlayOnReveal: boolean;
   showAudioUnderline: boolean;
+  resetOnLessonEnd: boolean;
   cursorZonePercent: number;
   cursorScrollDurationMs: number;
 }
@@ -12,6 +13,7 @@ const storageKey = 'settings';
 const defaultSettings: AppSettings = {
   autoPlayOnReveal: true,
   showAudioUnderline: true,
+  resetOnLessonEnd: false,
   cursorZonePercent: 30,
   cursorScrollDurationMs: 600,
 };
@@ -30,6 +32,10 @@ export const loadSettings = (): AppSettings => {
         typeof saved?.showAudioUnderline === 'boolean'
           ? saved.showAudioUnderline
           : defaultSettings.showAudioUnderline,
+      resetOnLessonEnd:
+        typeof saved?.resetOnLessonEnd === 'boolean'
+          ? saved.resetOnLessonEnd
+          : defaultSettings.resetOnLessonEnd,
       cursorZonePercent:
         typeof saved?.cursorZonePercent === 'number' &&
         cursorZoneOptions.includes(saved.cursorZonePercent)

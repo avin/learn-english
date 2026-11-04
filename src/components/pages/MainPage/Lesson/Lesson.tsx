@@ -102,9 +102,20 @@ const Lesson = ({ course, lesson, settings }: Props) => {
         return;
       }
 
-      const next = getNextSentence(order, selected, event.key as ArrowKey);
+      let next = getNextSentence(order, selected, event.key as ArrowKey);
       if (!next) return;
       event.preventDefault();
+      if (
+        settings.resetOnLessonEnd &&
+        event.key === 'ArrowRight' &&
+        selected?.idx === order[order.length - 1] &&
+        selected?.column === 'en'
+      ) {
+        const newOrder = shuffle(order);
+        setOrder(newOrder);
+        setOpenSentences([]);
+        next = { idx: newOrder[0], column: 'ru' };
+      }
       setSelected(next);
       setKeyboardMode(true);
       if (next.column === 'en') {
@@ -118,7 +129,15 @@ const Lesson = ({ course, lesson, settings }: Props) => {
     };
     document.addEventListener('keydown', handleKeyDown);
     return () => document.removeEventListener('keydown', handleKeyDown);
-  }, [favoriteTranslations, openSentences, order, playAudio, selected, translations]);
+  }, [
+    favoriteTranslations,
+    openSentences,
+    order,
+    playAudio,
+    selected,
+    settings.resetOnLessonEnd,
+    translations,
+  ]);
 
   useEffect(() => {
     const sentence = selectedSentenceRef.current;

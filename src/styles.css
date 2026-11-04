@@ -38,6 +38,16 @@ html, body, #root{
   box-decoration-break: clone;
 }
 
+.sentence {
+  border-radius: 3px;
+  outline: 1px solid transparent;
+  outline-offset: 5px;
+}
+
+.sentence-selected {
+  @apply outline-gray3;
+}
+
 select {
   -webkit-appearance: none;
   -moz-appearance: none;

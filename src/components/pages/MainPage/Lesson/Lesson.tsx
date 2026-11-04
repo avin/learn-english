@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useCallback, useEffect, useRef, useState } from 'react';
 import { HiOutlineStar, HiStar } from 'react-icons/hi';
 import { usePrevious } from 'react-use';
 import cn from 'clsx';
@@ -13,6 +13,7 @@ import {
   saveFavoriteTranslations,
   saveLastOpenSentences,
 } from '@/utils/storage.ts';
+import { ArrowKey, SentenceSelection, getNextSentence } from './navigation.ts';
 
 interface Props {
   course: Course;
@@ -27,6 +28,9 @@ const Lesson = ({ course, lesson, settings }: Props) => {
   const prevOpenSentences = usePrevious(openSentences);
   const [favoriteTranslations, setFavoriteTranslations] = useState<Translation[] | null>(null);
   const audioRef = useRef<HTMLAudioElement | null>(null);
+  const [selected, setSelected] = useState<SentenceSelection | null>(null);
+  const [keyboardMode, setKeyboardMode] = useState(false);
+  const selectedSentenceRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
     return () => {
@@ -35,7 +39,7 @@ const Lesson = ({ course, lesson, settings }: Props) => {
     };
   }, [course, lesson]);
 
-  const playAudio = (path: string) => {
+  const playAudio = useCallback((path: string) => {
     const relativePath = path.replace(/^\/src\/assets\//, '');
     const url = `${import.meta.env.BASE_URL}${relativePath}`;
 
@@ -48,7 +52,65 @@ const Lesson = ({ course, lesson, settings }: Props) => {
       }
       console.error('Error playing phrase audio:', error);
     });
-  };
+  }, []);
+
+  useEffect(() => {
+    const handlePointerDown = () => setKeyboardMode(false);
+    document.addEventListener('pointerdown', handlePointerDown, true);
+    return () => document.removeEventListener('pointerdown', handlePointerDown, true);
+  }, []);
+
+  useEffect(() => {
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (
+        !['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].includes(event.key) ||
+        event.altKey ||
+        event.ctrlKey ||
+        event.metaKey ||
+        event.shiftKey ||
+        event.defaultPrevented ||
+        !translations ||
+        !openSentences ||
+        !favoriteTranslations ||
+        document.querySelector('dialog[open]')
+      )
+        return;
+
+      const target = event.target;
+      if (
+        target instanceof HTMLElement &&
+        (target.isContentEditable ||
+          target.closest('input, textarea, select, [role="combobox"], [role="slider"]'))
+      )
+        return;
+
+      const next = getNextSentence(order, selected, event.key as ArrowKey);
+      if (!next) return;
+      event.preventDefault();
+      setSelected(next);
+      setKeyboardMode(true);
+      if (next.column === 'en') {
+        setOpenSentences((current) =>
+          current?.includes(next.idx) ? current : [...(current || []), next.idx],
+        );
+      }
+      const audio = translations[next.idx].audio?.[next.column];
+      if (audio) playAudio(audio);
+      else audioRef.current?.pause();
+    };
+    document.addEventListener('keydown', handleKeyDown);
+    return () => document.removeEventListener('keydown', handleKeyDown);
+  }, [favoriteTranslations, openSentences, order, playAudio, selected, translations]);
+
+  useEffect(() => {
+    if (keyboardMode) {
+      selectedSentenceRef.current?.scrollIntoView({
+        behavior: 'smooth',
+        block: 'center',
+        inline: 'nearest',
+      });
+    }
+  }, [keyboardMode, selected]);
 
   useEffect(() => {
     setOpenSentences(null);
@@ -64,6 +126,19 @@ const Lesson = ({ course, lesson, settings }: Props) => {
   }, []);
 
   const addRemoveFromFavoriteTranslations = (translation: Translation) => {
+    if (course === 'favorites') {
+      const removedIdx = translations?.indexOf(translation);
+      if (removedIdx !== undefined && removedIdx !== -1) {
+        const row = order.indexOf(removedIdx);
+        const remaining = order.filter((idx) => idx !== removedIdx);
+        setOrder(remaining);
+        if (selected?.idx === removedIdx) {
+          setSelected(
+            remaining.length ? { idx: remaining[row % remaining.length], column: 'ru' } : null,
+          );
+        }
+      }
+    }
     setFavoriteTranslations((v) => {
       if (!v) {
         return v;
@@ -154,13 +229,15 @@ const Lesson = ({ course, lesson, settings }: Props) => {
 
   const handleClickShuffle = () => {
     setOrder((v) => shuffle(v));
+    setSelected(null);
+    setKeyboardMode(false);
   };
 
   if (!translations || !openSentences || !favoriteTranslations) {
     return <FullPageSpinner />;
   }
 
-  if (!translations.length) {
+  if (!order.length) {
     return null;
   }
 
@@ -210,22 +287,48 @@ const Lesson = ({ course, lesson, settings }: Props) => {
                     )}
                   </td>
                   <td className="p-4 text-right align-top">
-                    {ruAudio ? (
-                      <button
-                        type="button"
-                        className="text-right"
-                        onClick={() => playAudio(ruAudio)}
-                      >
-                        <span className={cn({ 'audio-phrase': settings.showAudioUnderline })}>
-                          {ru}
-                        </span>
-                      </button>
-                    ) : (
-                      ru
-                    )}
+                    <div
+                      data-sentence="ru"
+                      ref={
+                        selected?.idx === idx && selected.column === 'ru'
+                          ? selectedSentenceRef
+                          : null
+                      }
+                      className={cn('sentence', {
+                        'sentence-selected':
+                          keyboardMode && selected?.idx === idx && selected.column === 'ru',
+                      })}
+                      onClick={() => setSelected({ idx, column: 'ru' })}
+                    >
+                      {ruAudio ? (
+                        <button
+                          type="button"
+                          className="text-right"
+                          onClick={() => playAudio(ruAudio)}
+                        >
+                          <span className={cn({ 'audio-phrase': settings.showAudioUnderline })}>
+                            {ru}
+                          </span>
+                        </button>
+                      ) : (
+                        ru
+                      )}
+                    </div>
                   </td>
                   <td className="w-[50%] p-4 align-top">
-                    <div className="relative text-blue1">
+                    <div
+                      data-sentence="en"
+                      ref={
+                        selected?.idx === idx && selected.column === 'en'
+                          ? selectedSentenceRef
+                          : null
+                      }
+                      className={cn('sentence relative text-blue1', {
+                        'sentence-selected':
+                          keyboardMode && selected?.idx === idx && selected.column === 'en',
+                      })}
+                      onClick={() => setSelected({ idx, column: 'en' })}
+                    >
                       <div aria-hidden={!isOpen}>
                         {enAudio ? (
                           <button

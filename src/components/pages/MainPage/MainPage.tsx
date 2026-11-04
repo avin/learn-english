@@ -145,7 +145,16 @@ const MainPage = () => {
         />
       )}
       <div className="p-8">
-        {(course && lesson !== null) ? <Lesson course={course} lesson={lesson} settings={settings} /> : <FullPageSpinner />}
+        {course && lesson !== null ? (
+          <Lesson
+            key={`${course}_${lesson}`}
+            course={course}
+            lesson={lesson}
+            settings={settings}
+          />
+        ) : (
+          <FullPageSpinner />
+        )}
       </div>
 
       <button

@@ -1,9 +1,11 @@
 import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { HiArrowUp, HiOutlineCog } from 'react-icons/hi';
+import { TbDeviceGamepad2, TbKeyboard } from 'react-icons/tb';
 import Button from '@/components/common/Button/Button.tsx';
 import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner.tsx';
 import Select from '@/components/common/Select/Select.tsx';
 import UserButton from '@/components/common/UserButton/UserButton.tsx';
+import ControlsHelp from '@/components/pages/MainPage/ControlsHelp.tsx';
 import Lesson, { LessonControls } from '@/components/pages/MainPage/Lesson/Lesson.tsx';
 import Settings from '@/components/pages/MainPage/Settings.tsx';
 import { Course } from '@/types';
@@ -55,6 +57,7 @@ const MainPage = () => {
   const [lesson, setLesson] = useState<string | null>(null);
   const [settings, setSettings] = useState(loadSettings);
   const [settingsOpen, setSettingsOpen] = useState(false);
+  const [helpOpen, setHelpOpen] = useState(false);
   const lessonRef = useRef<LessonControls>(null);
 
   const lessonOptions = useMemo(() => {
@@ -124,7 +127,7 @@ const MainPage = () => {
       }
     },
     settings.gamepadEnabled,
-    !course || lesson === null || settingsOpen,
+    !course || lesson === null || settingsOpen || helpOpen,
   );
 
   useEffect(() => {
@@ -138,6 +141,7 @@ const MainPage = () => {
         event.isComposing ||
         event.defaultPrevented ||
         settingsOpen ||
+        helpOpen ||
         !course ||
         lesson === null
       )
@@ -159,7 +163,7 @@ const MainPage = () => {
     };
     document.addEventListener('keydown', handleKeyDown);
     return () => document.removeEventListener('keydown', handleKeyDown);
-  }, [changeAdjacentLesson, course, lesson, lessonOptions, settingsOpen]);
+  }, [changeAdjacentLesson, course, helpOpen, lesson, lessonOptions, settingsOpen]);
 
   const handleSettingsChange = (newSettings: AppSettings) => {
     setSettings(newSettings);
@@ -172,14 +176,25 @@ const MainPage = () => {
 
   return (
     <div>
-      <div className="flex items-center justify-between border-b border-gray3 bg-light-gray3 px-4 py-2">
+      <header className="flex flex-wrap items-center justify-between gap-4 border-b border-gray3 bg-light-gray3 px-4 py-2">
         <div className="flex items-center gap-3">
           <h1 className="text-gray-500 text-lg font-bold">Learn English</h1>
-          <Button onClick={() => setSettingsOpen(true)} intent="outline" aria-label="Настройки">
-            <HiOutlineCog size={18} />
+          <Button
+            onClick={() => setHelpOpen(true)}
+            intent="outline"
+            className="flex h-8 items-center gap-2"
+            aria-label="Справка по управлению"
+            aria-haspopup="dialog"
+            aria-expanded={helpOpen}
+            aria-controls="controls-help"
+            title="Справка по управлению"
+          >
+            <TbKeyboard size={20} aria-hidden="true" />
+            <span aria-hidden="true">+</span>
+            <TbDeviceGamepad2 size={20} aria-hidden="true" />
           </Button>
         </div>
-        <div className="flex items-center space-x-4">
+        <div className="flex flex-wrap items-center justify-end gap-4">
           <Select
             label="Курс"
             value={course}
@@ -200,9 +215,21 @@ const MainPage = () => {
             disabled={course === 'favorites'}
           />
 
-          <UserButton />
+          <div className="flex items-center gap-2">
+            <Button
+              onClick={() => setSettingsOpen(true)}
+              intent="outline"
+              className="flex h-8 w-8 items-center justify-center"
+              aria-label="Настройки"
+              title="Настройки"
+            >
+              <HiOutlineCog size={18} aria-hidden="true" />
+            </Button>
+            <UserButton />
+          </div>
         </div>
-      </div>
+      </header>
+      {helpOpen && <ControlsHelp onClose={() => setHelpOpen(false)} />}
       {settingsOpen && (
         <Settings
           settings={settings}

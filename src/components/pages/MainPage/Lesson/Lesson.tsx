@@ -158,8 +158,11 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
   useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {
       const isReplay = event.key === ' ' || event.key === 'Enter';
+      const isRestart = event.key === 'Escape';
       if (
-        (!isReplay && !['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].includes(event.key)) ||
+        (!isReplay &&
+          !isRestart &&
+          !['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].includes(event.key)) ||
         event.altKey ||
         event.ctrlKey ||
         event.metaKey ||
@@ -180,6 +183,13 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
           target.closest('input, textarea, select, [role="combobox"], [role="slider"]'))
       )
         return;
+
+      if (isRestart) {
+        if (!order.length) return;
+        event.preventDefault();
+        if (!event.repeat) restart();
+        return;
+      }
 
       if (isReplay) {
         if (
@@ -202,7 +212,16 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
     };
     document.addEventListener('keydown', handleKeyDown);
     return () => document.removeEventListener('keydown', handleKeyDown);
-  }, [favoriteTranslations, openSentences, order, navigate, replay, selected, translations]);
+  }, [
+    favoriteTranslations,
+    openSentences,
+    order,
+    navigate,
+    replay,
+    restart,
+    selected,
+    translations,
+  ]);
 
   useEffect(() => {
     const sentence = selectedSentenceRef.current;

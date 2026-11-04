@@ -1,7 +1,7 @@
-import React, { useEffect, useRef } from 'react';
+import React from 'react';
 import { HiCheck, HiX } from 'react-icons/hi';
-import Button from '@/components/common/Button/Button.tsx';
 import { AppSettings, cursorScrollDurationOptions, cursorZoneOptions } from '@/utils/settings.ts';
+import { useModalDialog } from '@/utils/useModalDialog.ts';
 
 interface Props {
   settings: AppSettings;
@@ -10,15 +10,12 @@ interface Props {
 }
 
 const Settings = ({ settings, onChange, onClose }: Props) => {
-  const dialogRef = useRef<HTMLDialogElement>(null);
-
-  useEffect(() => {
-    dialogRef.current?.showModal();
-  }, []);
+  const { dialogRef, ...dialogEvents } = useModalDialog();
 
   return (
     <dialog
       ref={dialogRef}
+      {...dialogEvents}
       onClose={onClose}
       aria-labelledby="settings-title"
       className="w-[min(90vw,480px)] rounded-lg p-6 shadow-lg backdrop:bg-black/50"
@@ -159,11 +156,6 @@ const Settings = ({ settings, onChange, onClose }: Props) => {
           </div>
         </div>
       </section>
-      <div className="mt-6 flex justify-end">
-        <Button intent="outline" onClick={() => dialogRef.current?.close()}>
-          Закрыть
-        </Button>
-      </div>
     </dialog>
   );
 };

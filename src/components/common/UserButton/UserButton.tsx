@@ -1,10 +1,11 @@
 import React from 'react';
+import { HiOutlineLogout } from 'react-icons/hi';
+import Button from '@/components/common/Button/Button.tsx';
 import { auth } from '@/firebase-config.ts';
 
-interface Props {}
-
-const UserButton = ({}: Props) => {
+const UserButton = () => {
   const handleClickLogout = async () => {
+    if (!window.confirm('Выйти из аккаунта?')) return;
     try {
       await auth.signOut();
     } catch (error) {
@@ -13,11 +14,10 @@ const UserButton = ({}: Props) => {
   };
 
   return (
-    <div>
-      <button type="button" onClick={handleClickLogout}>
-        Logout
-      </button>
-    </div>
+    <Button intent="outline" className="flex h-8 items-center gap-2" onClick={handleClickLogout}>
+      <HiOutlineLogout size={18} aria-hidden="true" />
+      Выход
+    </Button>
   );
 };
 

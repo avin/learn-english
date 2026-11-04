@@ -1,18 +1,45 @@
 import { mkdir, readFile, readdir, rename, stat, writeFile } from 'node:fs/promises';
 import { dirname, join, relative, resolve } from 'node:path';
+import { setTimeout } from 'node:timers/promises';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { parseArgs } from 'node:util';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const translationsDirectory = join(root, 'public/translations');
 
+async function withFileLockRetry(path, operation) {
+  let delay = 100;
+  let nextWarning = 0;
+  let waiting = false;
+  for (;;) {
+    try {
+      const result = await operation();
+      if (waiting) console.log(`File available, continuing: ${path}`);
+      return result;
+    } catch (error) {
+      if (!['EPERM', 'EACCES', 'EBUSY'].includes(error.code)) throw error;
+      // Windows can temporarily block replacement while another program reads the file.
+      // Keep the completed response and retry only disk I/O, never the paid request.
+      waiting = true;
+      if (Date.now() >= nextWarning) {
+        console.warn(`File locked (${error.code}): ${path}; waiting and retrying. Ctrl+C to stop.`);
+        nextWarning = Date.now() + 60_000;
+      }
+      await setTimeout(delay);
+      delay = Math.min(delay * 2, 5000);
+    }
+  }
+}
+
 export function audioFilename(id, language) {
   return `audio/${String(id).padStart(3, '0')}_${language}.m4a`;
 }
 
 export async function writeTasks(document) {
-  await writeFile(`${document.path}.tmp`, JSON.stringify(document.tasks, null, 2) + '\n');
-  await rename(`${document.path}.tmp`, document.path);
+  await withFileLockRetry(`${document.path}.tmp`, () =>
+    writeFile(`${document.path}.tmp`, JSON.stringify(document.tasks, null, 2) + '\n'),
+  );
+  await withFileLockRetry(document.path, () => rename(`${document.path}.tmp`, document.path));
 }
 
 export async function syncAudioFlags(document) {
@@ -198,12 +225,14 @@ export async function generateAudio({
       while (!failure && nextJob < pending.length) {
         const job = pending[nextJob++];
         const destination = join(job.outputDirectory, job.filename);
-        await mkdir(dirname(destination), { recursive: true });
+        await withFileLockRetry(dirname(destination), () =>
+          mkdir(dirname(destination), { recursive: true }),
+        );
         if (failure) return;
         const data = await request(job.config, apiKey);
         requests++;
-        await writeFile(`${destination}.tmp`, data);
-        await rename(`${destination}.tmp`, destination);
+        await withFileLockRetry(`${destination}.tmp`, () => writeFile(`${destination}.tmp`, data));
+        await withFileLockRetry(destination, () => rename(`${destination}.tmp`, destination));
         job.phrase.audio = true;
         if (job.document) {
           // Jobs for one lesson share tasks.json.tmp; serialize their writes.

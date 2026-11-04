@@ -1,5 +1,7 @@
 import assert from 'node:assert/strict';
+import fs from 'node:fs/promises';
 import { mkdir, mkdtemp, readFile, readdir, rm, writeFile } from 'node:fs/promises';
+import { syncBuiltinESMExports } from 'node:module';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import test from 'node:test';
@@ -22,6 +24,127 @@ function deferred() {
   });
   return { promise, resolve };
 }
+
+for (const blockedOperation of [
+  'tasks rename',
+  'tasks write',
+  'audio rename',
+  'audio write',
+  'initial sync',
+]) {
+  test(`waits for a transient Windows lock during ${blockedOperation} without repeating requests`, async (t) => {
+    const directory = await mkdtemp(join(tmpdir(), 'soniox-file-lock-test-'));
+    try {
+      const tasksFile = join(directory, 'tasks.json');
+      const tasks = [1, 2, 3, 4].map((id) => ({
+        id,
+        en: { text: String(id), audio: blockedOperation === 'initial sync' },
+        ru: { text: 'Example', audio: false },
+      }));
+      await writeFile(tasksFile, JSON.stringify(tasks));
+      const audio = await readFile(fixtureFile);
+      const jobs = await loadAudioJobs(tasksFile, ['en'], voices);
+      const operation = blockedOperation.endsWith('write') ? 'writeFile' : 'rename';
+      const original = fs[operation];
+      const blockedPath = blockedOperation.startsWith('audio')
+        ? join(directory, 'audio/001_en.m4a.tmp')
+        : `${tasksFile}.tmp`;
+      const codes = ['EPERM', 'EACCES', 'EBUSY'];
+      let failures = 0;
+      t.mock.method(fs, operation, async (source, ...args) => {
+        if (source === blockedPath && failures < codes.length) {
+          const code = codes[failures++];
+          throw Object.assign(new Error(`${code}: operation not permitted, ${operation}`), {
+            code,
+          });
+        }
+        return original(source, ...args);
+      });
+      syncBuiltinESMExports();
+      const requested = [];
+      assert.deepEqual(
+        await generateAudio({
+          jobs,
+          concurrency: 4,
+          apiKey: 'fake-test-key',
+          request: async (config) => {
+            requested.push(config.text);
+            return audio;
+          },
+        }),
+        { created: 4, skipped: 0, requests: 4 },
+      );
+      assert.equal(failures, 3);
+      assert.deepEqual(requested.sort(), ['1', '2', '3', '4']);
+      assert.ok(JSON.parse(await readFile(tasksFile, 'utf8')).every((task) => task.en.audio));
+      for (const job of jobs)
+        assert.deepEqual(await readFile(join(directory, job.filename)), audio);
+      assert.deepEqual(await readdir(directory), ['audio', 'tasks.json']);
+      assert.equal((await readdir(join(directory, 'audio'))).length, 4);
+      assert.deepEqual(
+        await generateAudio({
+          jobs: await loadAudioJobs(tasksFile, ['en'], voices),
+          request: async () => assert.fail('Saved audio must not be requested again'),
+        }),
+        { created: 0, skipped: 4, requests: 0 },
+      );
+    } finally {
+      t.mock.restoreAll();
+      syncBuiltinESMExports();
+      await rm(directory, { recursive: true, force: true });
+    }
+  });
+}
+
+test('reports a disk error, preserves the original JSON, and resumes from saved audio', async (t) => {
+  const directory = await mkdtemp(join(tmpdir(), 'soniox-disk-error-test-'));
+  try {
+    const tasksFile = join(directory, 'tasks.json');
+    const tasks = [
+      { id: 1, en: { text: 'Example', audio: false }, ru: { text: 'Example', audio: false } },
+    ];
+    const originalJSON = JSON.stringify(tasks);
+    await writeFile(tasksFile, originalJSON);
+    const audio = await readFile(fixtureFile);
+    const originalRename = fs.rename;
+    let attempts = 0;
+    t.mock.method(fs, 'rename', async (source, destination) => {
+      if (destination === tasksFile) {
+        attempts++;
+        throw Object.assign(new Error('EIO: simulated disk error'), { code: 'EIO' });
+      }
+      return originalRename(source, destination);
+    });
+    syncBuiltinESMExports();
+    await assert.rejects(
+      generateAudio({
+        jobs: await loadAudioJobs(tasksFile, ['en'], voices),
+        apiKey: 'fake-test-key',
+        request: async () => audio,
+      }),
+      { code: 'EIO' },
+    );
+    assert.equal(attempts, 1);
+    assert.equal(await readFile(tasksFile, 'utf8'), originalJSON);
+    assert.equal(JSON.parse(await readFile(`${tasksFile}.tmp`, 'utf8'))[0].en.audio, true);
+    assert.deepEqual(await readFile(join(directory, 'audio/001_en.m4a')), audio);
+    t.mock.restoreAll();
+    syncBuiltinESMExports();
+    assert.deepEqual(
+      await generateAudio({
+        jobs: await loadAudioJobs(tasksFile, ['en'], voices),
+        request: async () => assert.fail('Saved audio must not be requested again'),
+      }),
+      { created: 0, skipped: 1, requests: 0 },
+    );
+    assert.equal(JSON.parse(await readFile(tasksFile, 'utf8'))[0].en.audio, true);
+    assert.deepEqual(await readdir(directory), ['audio', 'tasks.json']);
+  } finally {
+    t.mock.restoreAll();
+    syncBuiltinESMExports();
+    await rm(directory, { recursive: true, force: true });
+  }
+});
 
 test('names audio files with padded ids in the audio subdirectory', () => {
   const tasks = [1, 12, 123, 1234].map((id) => ({

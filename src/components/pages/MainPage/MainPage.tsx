@@ -1,10 +1,13 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { HiArrowUp } from 'react-icons/hi';
+import { HiArrowUp, HiOutlineCog } from 'react-icons/hi';
+import Button from '@/components/common/Button/Button.tsx';
 import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner.tsx';
 import Select from '@/components/common/Select/Select.tsx';
 import UserButton from '@/components/common/UserButton/UserButton.tsx';
 import Lesson from '@/components/pages/MainPage/Lesson/Lesson.tsx';
+import Settings from '@/components/pages/MainPage/Settings.tsx';
 import { Course } from '@/types';
+import { AppSettings, loadSettings, saveSettings } from '@/utils/settings.ts';
 import { loadLastCourse, loadLastLesson, saveLastCourse, saveLastLesson } from '@/utils/storage.ts';
 
 type Options = { label: string; value: string }[];
@@ -49,6 +52,8 @@ const expressLessonOptions = ((): Options => {
 const MainPage = () => {
   const [course, setCourse] = useState<Course | null>(null);
   const [lesson, setLesson] = useState<string | null>(null);
+  const [settings, setSettings] = useState(loadSettings);
+  const [settingsOpen, setSettingsOpen] = useState(false);
 
   const lessonOptions = useMemo(() => {
     if (course === 'titan') {
@@ -90,6 +95,11 @@ const MainPage = () => {
     void saveLastLesson(course!, val);
   };
 
+  const handleSettingsChange = (newSettings: AppSettings) => {
+    setSettings(newSettings);
+    saveSettings(newSettings);
+  };
+
   if (!course) {
     return <FullPageSpinner />;
   }
@@ -97,7 +107,12 @@ const MainPage = () => {
   return (
     <div>
       <div className="flex items-center justify-between border-b border-gray3 bg-light-gray3 px-4 py-2">
-        <h1 className="text-gray-500 text-lg font-bold">Learn English</h1>
+        <div className="flex items-center gap-3">
+          <h1 className="text-gray-500 text-lg font-bold">Learn English</h1>
+          <Button onClick={() => setSettingsOpen(true)} intent="outline" aria-label="Настройки">
+            <HiOutlineCog size={18} />
+          </Button>
+        </div>
         <div className="flex items-center space-x-4">
           <Select
             label="Курс"
@@ -122,8 +137,15 @@ const MainPage = () => {
           <UserButton />
         </div>
       </div>
+      {settingsOpen && (
+        <Settings
+          settings={settings}
+          onChange={handleSettingsChange}
+          onClose={() => setSettingsOpen(false)}
+        />
+      )}
       <div className="p-8">
-        {(course && lesson !== null) ? <Lesson course={course} lesson={lesson} /> : <FullPageSpinner />}
+        {(course && lesson !== null) ? <Lesson course={course} lesson={lesson} settings={settings} /> : <FullPageSpinner />}
       </div>
 
       <button

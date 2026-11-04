@@ -6,6 +6,7 @@ import { shuffle } from 'lodash-es';
 import Button from '@/components/common/Button/Button.tsx';
 import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner.tsx';
 import { Course, Translation, TranslationTask } from '@/types';
+import { AppSettings } from '@/utils/settings.ts';
 import {
   loadFavoriteTranslations,
   loadLastOpenSentences,
@@ -16,9 +17,10 @@ import {
 interface Props {
   course: Course;
   lesson: string;
+  settings: AppSettings;
 }
 
-const Lesson = ({ course, lesson }: Props) => {
+const Lesson = ({ course, lesson, settings }: Props) => {
   const [translations, setTranslations] = useState<Translation[] | null>(null);
   const [order, setOrder] = useState<number[]>([]);
   const [openSentences, setOpenSentences] = useState<number[] | null>(null);
@@ -119,6 +121,10 @@ const Lesson = ({ course, lesson }: Props) => {
   }, [course, lesson]);
 
   const handleClickEnSentence = (idx: number) => {
+    const audio = translations?.[idx]?.audio?.en;
+    if (settings.autoPlayOnReveal && audio && !openSentences?.includes(idx)) {
+      playAudio(audio);
+    }
     setOpenSentences((v) => {
       if (!v) {
         return v;
@@ -210,7 +216,9 @@ const Lesson = ({ course, lesson }: Props) => {
                         className="text-right"
                         onClick={() => playAudio(ruAudio)}
                       >
-                        <span className="audio-phrase">{ru}</span>
+                        <span className={cn({ 'audio-phrase': settings.showAudioUnderline })}>
+                          {ru}
+                        </span>
                       </button>
                     ) : (
                       ru
@@ -226,7 +234,9 @@ const Lesson = ({ course, lesson }: Props) => {
                             tabIndex={isOpen ? 0 : -1}
                             onClick={() => playAudio(enAudio)}
                           >
-                            <span className="audio-phrase">{en}</span>
+                            <span className={cn({ 'audio-phrase': settings.showAudioUnderline })}>
+                              {en}
+                            </span>
                           </button>
                         ) : (
                           en

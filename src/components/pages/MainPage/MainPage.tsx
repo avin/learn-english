@@ -9,8 +9,9 @@ import ControlsHelp from '@/components/pages/MainPage/ControlsHelp.tsx';
 import Lesson, { LessonControls } from '@/components/pages/MainPage/Lesson/Lesson.tsx';
 import Settings from '@/components/pages/MainPage/Settings.tsx';
 import { Course } from '@/types';
+import { useProgressStorage } from '@/utils/ProgressContext.ts';
+import { ProgressError } from '@/utils/progress.ts';
 import { AppSettings, loadSettings, saveSettings } from '@/utils/settings.ts';
-import { loadLastCourse, loadLastLesson, saveLastCourse, saveLastLesson } from '@/utils/storage.ts';
 import { useGamepad } from '@/utils/useGamepad.ts';
 
 type Options = { label: string; value: string }[];
@@ -52,7 +53,15 @@ const expressLessonOptions = ((): Options => {
   return result;
 })();
 
-const MainPage = () => {
+interface Props {
+  isLocal: boolean;
+  onLogin: () => void;
+  storageError: ProgressError | null;
+}
+
+const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
+  const { loadLastCourse, loadLastLesson, saveLastCourse, saveLastLesson, retrySaving } =
+    useProgressStorage();
   const [course, setCourse] = useState<Course | null>(null);
   const [lesson, setLesson] = useState<string | null>(null);
   const [settings, setSettings] = useState(loadSettings);
@@ -71,20 +80,27 @@ const MainPage = () => {
   }, [course]);
 
   useEffect(() => {
+    let active = true;
     if (course === null) {
-      void loadLastCourse().then((course) => setCourse(course));
+      void loadLastCourse().then((course) => {
+        if (active) setCourse(course);
+      });
     }
 
     if (course && !lesson) {
       void loadLastLesson(course).then((lesson) => {
-        if (lesson) {
+        if (!active) return;
+        if (lessonOptions.some((option) => option.value === lesson)) {
           setLesson(lesson);
         } else {
           setLesson(lessonOptions[0]?.value || '');
         }
       });
     }
-  }, [course, lesson, lessonOptions]);
+    return () => {
+      active = false;
+    };
+  }, [course, lesson, lessonOptions, loadLastCourse, loadLastLesson]);
 
   const handleChangeCourse = (val: string) => {
     const course = val as Course;
@@ -101,7 +117,7 @@ const MainPage = () => {
 
       void saveLastLesson(course, val);
     },
-    [course],
+    [course, saveLastLesson],
   );
 
   const changeAdjacentLesson = useCallback(
@@ -178,7 +194,7 @@ const MainPage = () => {
     <div>
       <header className="flex flex-wrap items-center justify-between gap-4 border-b border-gray3 bg-light-gray3 px-4 py-2">
         <div className="flex items-center gap-3">
-          <h1 className="text-gray-500 text-lg font-bold">Learn English</h1>
+          <h1 className="text-gray-500 text-lg font-bold">Тренажёр перевода</h1>
           <Button
             onClick={() => setHelpOpen(true)}
             intent="outline"
@@ -225,10 +241,34 @@ const MainPage = () => {
             >
               <HiOutlineCog size={18} aria-hidden="true" />
             </Button>
-            <UserButton />
+            {isLocal && (
+              <span
+                className="text-xs text-gray1"
+                title="Прогресс сохраняется только в этом браузере"
+              >
+                Локально
+              </span>
+            )}
+            <UserButton isLocal={isLocal} onLogin={onLogin} />
           </div>
         </div>
       </header>
+      {storageError && (
+        <div
+          role="alert"
+          className="flex flex-wrap items-center gap-3 border-b border-red1 bg-white px-4 py-3 text-sm text-red1"
+        >
+          <p className="max-w-3xl">{storageError.message}</p>
+          <Button
+            intent="outline"
+            onClick={() =>
+              storageError.type === 'load' ? window.location.reload() : void retrySaving()
+            }
+          >
+            {storageError.type === 'load' ? 'Обновить страницу' : 'Повторить сохранение'}
+          </Button>
+        </div>
+      )}
       {helpOpen && <ControlsHelp onClose={() => setHelpOpen(false)} />}
       {settingsOpen && (
         <Settings

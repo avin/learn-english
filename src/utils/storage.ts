@@ -1,111 +1,30 @@
 import { doc, getDoc, setDoc } from 'firebase/firestore/lite';
-import { auth, db } from '@/firebase-config.ts';
-import { Course, Translation } from '@/types';
+import { db } from '@/firebase-config.ts';
+import {
+  ProgressData,
+  ProgressError,
+  createLocalProgressAdapter,
+  createProgressStorage,
+} from '@/utils/progress.ts';
 
-const saveUserData = async (data: Record<string, unknown>) => {
-  try {
-    const userId = auth.currentUser!.uid;
-    const docRef = doc(db, 'users', userId);
-    const docSnapshot = await getDoc(docRef);
-    if (docSnapshot.exists()) {
-      await setDoc(docRef, data, { merge: true });
-    } else {
-      await setDoc(docRef, data);
-    }
-  } catch (e) {
-    console.error('Error saving user data: ', e, data);
-  }
-};
-
-const loadUserData = async <T extends Record<string, unknown>>(): Promise<T | null> => {
-  try {
-    const userId = auth.currentUser!.uid;
-    const docRef = doc(db, 'users', userId);
-    const docSnapshot = await getDoc(docRef);
-    if (docSnapshot.exists()) {
-      return docSnapshot.data() as T;
-    } else {
-      return null;
-    }
-  } catch (e) {
-    console.error('Error loading user data:', e);
-    return null;
-  }
-};
-
-export const saveFavoriteTranslations = async (translations: Translation[]) => {
-  await saveUserData({ favoriteTranslations: translations });
-};
-
-export const loadFavoriteTranslations = async (): Promise<Translation[]> => {
-  const data = await loadUserData<{ favoriteTranslations: Translation[] }>();
-  if (data && data.favoriteTranslations) {
-    try {
-      return data.favoriteTranslations;
-    } catch (e) {
-      console.error('Error parsing favorite translations:', e);
-      return [];
-    }
-  }
-  return [];
-};
-
-export const loadLastCourse = async (): Promise<Course> => {
-  const data = await loadUserData<{ lastCourse: Course }>();
-  if (data && data.lastCourse) {
-    return data.lastCourse;
-  }
-  return 'titan';
-};
-
-export const saveLastCourse = async (course: Course) => {
-  await saveUserData({ lastCourse: course });
-};
-
-export const loadLastLesson = async (course: Course): Promise<string | null> => {
-  const data = await loadUserData<{ lastLessons: Record<Course, string> }>();
-  if (data && data.lastLessons) {
-    return data.lastLessons[course];
-  }
-  return null;
-};
-
-export const saveLastLesson = async (course: Course, lesson: string) => {
-  const data = await loadUserData<{ lastLessons: Record<Course, string> }>();
-
-  const lastLessons = (data && data.lastLessons) || ({} as Record<Course, string>);
-
-  lastLessons[course] = lesson;
-
-  await saveUserData({ lastLessons });
-};
-
-// ----------
-
-export const loadLastOpenSentences = async (course: Course, lesson: string): Promise<number[]> => {
-  const data = await loadUserData<{
-    lastOpenSentences: Record<Course, Record<string, number[]>>;
-  }>();
-  if (data && data.lastOpenSentences) {
-    return data.lastOpenSentences[course]?.[lesson] || [];
-  }
-  return [];
-};
-
-export const saveLastOpenSentences = async (
-  course: Course,
-  lesson: string,
-  sentences: number[],
+// The destination belongs to this session. Pending writes cannot switch accounts or modes.
+export const createStorage = (
+  userId: string | null,
+  onError: (error: ProgressError | null) => void,
 ) => {
-  const data = await loadUserData<{
-    lastOpenSentences: Record<Course, Record<string, number[]>>;
-  }>();
+  if (!userId) return createProgressStorage(createLocalProgressAdapter(), onError);
 
-  const lastOpenSentences =
-    (data && data.lastOpenSentences) || ({} as Record<Course, Record<string, number[]>>);
+  const reference = doc(db, 'users', userId);
 
-  lastOpenSentences[course] ||= {};
-  lastOpenSentences[course][lesson] = sentences;
-
-  await saveUserData({ lastOpenSentences });
+  return createProgressStorage(
+    {
+      async read() {
+        const snapshot = await getDoc(reference);
+        return snapshot.exists() ? (snapshot.data() as ProgressData) : {};
+      },
+      patch: (data) => setDoc(reference, data, { merge: true }),
+    },
+    onError,
+    'cloud',
+  );
 };

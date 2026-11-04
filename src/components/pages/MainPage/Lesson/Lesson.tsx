@@ -13,13 +13,8 @@ import { shuffle } from 'lodash-es';
 import Button from '@/components/common/Button/Button.tsx';
 import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner.tsx';
 import { Course, Translation, TranslationTask } from '@/types';
+import { useProgressStorage } from '@/utils/ProgressContext.ts';
 import { AppSettings } from '@/utils/settings.ts';
-import {
-  loadFavoriteTranslations,
-  loadLastOpenSentences,
-  saveFavoriteTranslations,
-  saveLastOpenSentences,
-} from '@/utils/storage.ts';
 import { ArrowKey, SentenceSelection, getNextSentence } from './navigation.ts';
 
 interface Props {
@@ -35,6 +30,12 @@ export interface LessonControls {
 }
 
 const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, ref) => {
+  const {
+    loadFavoriteTranslations,
+    loadLastOpenSentences,
+    saveFavoriteTranslations,
+    saveLastOpenSentences,
+  } = useProgressStorage();
   const [translations, setTranslations] = useState<Translation[] | null>(null);
   const [order, setOrder] = useState<number[]>([]);
   const [openSentences, setOpenSentences] = useState<number[] | null>(null);
@@ -44,6 +45,7 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
   const [selected, setSelected] = useState<SentenceSelection | null>(null);
   const [cursorVisible, setCursorVisible] = useState(false);
   const [audioBlocked, setAudioBlocked] = useState(false);
+  const [loadError, setLoadError] = useState(false);
   const selectedSentenceRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
@@ -274,17 +276,25 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
   }, [cursorVisible, selected, settings.cursorZonePercent, settings.cursorScrollDurationMs]);
 
   useEffect(() => {
+    let active = true;
     setOpenSentences(null);
     void loadLastOpenSentences(course, lesson).then((sentences) => {
-      setOpenSentences(sentences);
+      if (active) setOpenSentences(sentences);
     });
-  }, [course, lesson]);
+    return () => {
+      active = false;
+    };
+  }, [course, lesson, loadLastOpenSentences]);
 
   useEffect(() => {
+    let active = true;
     void loadFavoriteTranslations().then((favoriteTranslations) => {
-      setFavoriteTranslations(favoriteTranslations);
+      if (active) setFavoriteTranslations(favoriteTranslations);
     });
-  }, []);
+    return () => {
+      active = false;
+    };
+  }, [loadFavoriteTranslations]);
 
   const addRemoveFromFavoriteTranslations = (translation: Translation) => {
     if (course === 'favorites') {
@@ -322,6 +332,7 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
     let active = true;
     void (async () => {
       setTranslations(null);
+      setLoadError(false);
 
       const newTranslations = await (async () => {
         if (course === 'favorites') {
@@ -350,11 +361,14 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
         setTranslations(newTranslations);
         setOrder(new Array(newTranslations.length).fill(0).map((_, idx) => idx));
       }
-    })();
+    })().catch((error: unknown) => {
+      console.error('Error loading lesson:', error);
+      if (active) setLoadError(true);
+    });
     return () => {
       active = false;
     };
-  }, [course, lesson]);
+  }, [course, lesson, loadFavoriteTranslations]);
 
   const handleClickEnSentence = (idx: number) => {
     const audio = translations?.[idx]?.audio?.en;
@@ -378,7 +392,7 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
     ) {
       void saveLastOpenSentences(course, lesson, openSentences);
     }
-  }, [course, lesson, openSentences, prevOpenSentences]);
+  }, [course, lesson, openSentences, prevOpenSentences, saveLastOpenSentences]);
 
   const handleClickCloseAll = () => {
     setOpenSentences([]);
@@ -394,12 +408,38 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
     setCursorVisible(false);
   };
 
+  if (loadError) {
+    return (
+      <div
+        role="alert"
+        className="mx-auto max-w-xl rounded-lg border border-gray5 bg-white p-6 text-center"
+      >
+        <h2 className="font-semibold text-dark-gray1">Не удалось загрузить урок</h2>
+        <p className="mb-4 mt-2 text-sm text-gray1">
+          Для загрузки упражнений нужен интернет. Проверьте подключение и обновите страницу.
+        </p>
+        <Button intent="primary" onClick={() => window.location.reload()}>
+          Обновить страницу
+        </Button>
+      </div>
+    );
+  }
+
   if (!translations || !openSentences || !favoriteTranslations) {
     return <FullPageSpinner />;
   }
 
   if (!order.length) {
-    return null;
+    return (
+      <div className="mx-auto max-w-xl rounded-lg border border-gray5 bg-white p-8 text-center">
+        <HiOutlineStar size={32} className="mx-auto mb-3 text-orange2" aria-hidden="true" />
+        <h2 className="font-semibold text-dark-gray1">Здесь будут избранные фразы</h2>
+        <p className="mt-2 text-sm leading-relaxed text-gray1">
+          Откройте урок Titan или Express и нажмите на звёздочку рядом с фразой, которую хотите
+          повторить.
+        </p>
+      </div>
+    );
   }
 
   const controls = (
@@ -443,17 +483,20 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
                   key={`${course}_${lesson}_${idx}`}
                   className="w-[50%] bg-white hover:bg-light-gray5"
                 >
-                  <td
-                    className="w-[1px] cursor-pointer px-2"
-                    onClick={() => {
-                      addRemoveFromFavoriteTranslations(translation);
-                    }}
-                  >
-                    {isFavorite ? (
-                      <HiStar size={24} className="text-orange5 opacity-50" />
-                    ) : (
-                      <HiOutlineStar size={24} className="text-light-gray3" />
-                    )}
+                  <td className="w-[1px] px-2">
+                    <button
+                      type="button"
+                      className="flex min-h-10 min-w-8 items-center justify-center rounded focus-visible:outline-blue2"
+                      onClick={() => addRemoveFromFavoriteTranslations(translation)}
+                      aria-label={isFavorite ? 'Убрать из избранного' : 'Добавить в избранное'}
+                      aria-pressed={!!isFavorite}
+                    >
+                      {isFavorite ? (
+                        <HiStar size={24} className="text-orange5 opacity-50" aria-hidden="true" />
+                      ) : (
+                        <HiOutlineStar size={24} className="text-gray4" aria-hidden="true" />
+                      )}
+                    </button>
                   </td>
                   <td className="p-4 text-right align-top">
                     <div

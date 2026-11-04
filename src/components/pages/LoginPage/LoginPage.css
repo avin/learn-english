@@ -1,0 +1,119 @@
+.welcome-page {
+  display: grid;
+  min-height: 100%;
+  place-items: center;
+  padding: 32px 20px;
+  color: #182026;
+  background: #f5f8fa;
+}
+
+.welcome-card {
+  width: 100%;
+  max-width: 440px;
+  padding: 32px;
+  border: 1px solid #d8e1e8;
+  border-radius: 12px;
+  background: white;
+  box-shadow: 0 4px 20px #18202606;
+}
+
+.welcome-card h1 {
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: -0.6px;
+  line-height: 1.3;
+}
+
+.welcome-description {
+  margin-top: 12px;
+  color: #5c7080;
+  font-size: 14px;
+  line-height: 1.65;
+}
+
+.welcome-description a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.welcome-description a:hover {
+  color: #106ba3;
+}
+
+.welcome-option {
+  margin-top: 28px;
+}
+
+.welcome-action {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  min-height: 46px;
+  padding: 10px 16px;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.welcome-action-google {
+  color: white;
+  background: #106ba3;
+}
+
+.welcome-action-google:hover {
+  background: #0e5a8a;
+}
+
+.welcome-google-mark {
+  display: grid;
+  flex-shrink: 0;
+  place-items: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 3px;
+  background: white;
+}
+
+.welcome-action-local {
+  border-color: #a7b6c2;
+  background: white;
+}
+
+.welcome-action-local:hover {
+  background: #f5f8fa;
+  border-color: #5c7080;
+}
+
+.welcome-option-description {
+  margin-top: 10px;
+  color: #5c7080;
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.welcome-local {
+  margin-top: 24px;
+  padding-top: 24px;
+  border-top: 1px solid #e1e8ed;
+}
+
+.welcome-error {
+  margin-top: 20px;
+  color: #a82a2a;
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.welcome-page :focus-visible {
+  outline: 3px solid #106ba3;
+  outline-offset: 4px;
+}
+
+@media (max-width: 480px) {
+  .welcome-card {
+    padding: 24px;
+  }
+}

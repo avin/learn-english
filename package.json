@@ -11,6 +11,8 @@
     "test:navigation": "node --test scripts/lesson-navigation.test.mjs",
     "test:settings": "node --test scripts/settings.test.mjs",
     "test:gamepad": "node --test scripts/gamepad.test.mjs",
+    "test:progress": "node --test scripts/progress.test.mjs",
+    "test:login": "node --test scripts/login.test.mjs",
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "prettier": "prettier --ignore-unknown --write **"
@@ -43,6 +45,7 @@
     "lint-staged": "^15.2.2",
     "postcss": "^8.4.38",
     "prettier": "^3.2.5",
+    "react-test-renderer": "18.2.0",
     "tailwindcss": "^3.4.3",
     "typescript": "^5.2.2",
     "vite": "^5.2.0",

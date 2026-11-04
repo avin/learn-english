@@ -118,8 +118,7 @@ const Lesson = ({ course, lesson }: Props) => {
     };
   }, [course, lesson]);
 
-  const handleClickEnSentence = (e: React.MouseEvent<HTMLTableCellElement>) => {
-    const idx = Number(e.currentTarget.dataset.idx);
+  const handleClickEnSentence = (idx: number) => {
     setOpenSentences((v) => {
       if (!v) {
         return v;
@@ -217,30 +216,33 @@ const Lesson = ({ course, lesson }: Props) => {
                       ru
                     )}
                   </td>
-                  <td
-                    className={cn('w-[50%] p-4 align-top', {
-                      'cursor-pointer': !isOpen,
-                    })}
-                    onClick={handleClickEnSentence}
-                    data-idx={idx}
-                  >
-                    <div
-                      className={cn('transition-all', {
-                        'h-full w-full bg-gray5 text-left text-gray5': !isOpen,
-                        'text-blue1': isOpen,
-                      })}
-                    >
-                      {enAudio ? (
-                        <button
-                          type="button"
-                          className="text-left"
-                          onClick={() => playAudio(enAudio)}
-                        >
-                          <span className={cn({ 'audio-phrase': isOpen })}>{en}</span>
-                        </button>
-                      ) : (
-                        en
-                      )}
+                  <td className="w-[50%] p-4 align-top">
+                    <div className="relative text-blue1">
+                      <div aria-hidden={!isOpen}>
+                        {enAudio ? (
+                          <button
+                            type="button"
+                            className="text-left"
+                            tabIndex={isOpen ? 0 : -1}
+                            onClick={() => playAudio(enAudio)}
+                          >
+                            <span className="audio-phrase">{en}</span>
+                          </button>
+                        ) : (
+                          en
+                        )}
+                      </div>
+                      <button
+                        type="button"
+                        className={cn(
+                          'absolute -bottom-1 left-0 right-0 top-0 w-full cursor-pointer bg-gray5 transition-opacity',
+                          { 'pointer-events-none opacity-0': isOpen },
+                        )}
+                        aria-label="Открыть перевод"
+                        aria-hidden={isOpen}
+                        tabIndex={isOpen ? -1 : 0}
+                        onClick={() => handleClickEnSentence(idx)}
+                      />
                     </div>
                   </td>
                 </tr>

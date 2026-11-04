@@ -15,6 +15,8 @@ import {
 } from '@/utils/storage.ts';
 import { ArrowKey, SentenceSelection, getNextSentence } from './navigation.ts';
 
+const CURSOR_SCROLL_DURATION_MS = 600;
+
 interface Props {
   course: Course;
   lesson: string;
@@ -128,11 +130,29 @@ const Lesson = ({ course, lesson, settings }: Props) => {
       const viewportHeight = window.innerHeight;
       if (center >= viewportHeight * 0.35 && center <= viewportHeight * 0.65) return;
 
-      sentence.scrollIntoView({
-        behavior: 'smooth',
-        block: 'center',
-        inline: 'nearest',
-      });
+      const start = window.scrollY;
+      const maxScroll = Math.max(0, document.documentElement.scrollHeight - viewportHeight);
+      const target = Math.min(maxScroll, Math.max(0, start + center - viewportHeight / 2));
+      if (target === start) return;
+
+      const startedAt = performance.now();
+      let frame: number;
+      const animate = (now: number) => {
+        const progress = Math.min(1, (now - startedAt) / CURSOR_SCROLL_DURATION_MS);
+        const easedProgress = (1 - Math.cos(Math.PI * progress)) / 2;
+        window.scrollTo({ top: start + (target - start) * easedProgress, behavior: 'instant' });
+        if (progress < 1) frame = requestAnimationFrame(animate);
+      };
+      frame = requestAnimationFrame(animate);
+
+      const cancel = () => cancelAnimationFrame(frame);
+      window.addEventListener('wheel', cancel, { passive: true });
+      window.addEventListener('touchstart', cancel, { passive: true });
+      return () => {
+        cancel();
+        window.removeEventListener('wheel', cancel);
+        window.removeEventListener('touchstart', cancel);
+      };
     }
   }, [keyboardMode, selected]);
 

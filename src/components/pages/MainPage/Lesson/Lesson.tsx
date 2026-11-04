@@ -121,8 +121,14 @@ const Lesson = ({ course, lesson, settings }: Props) => {
   }, [favoriteTranslations, openSentences, order, playAudio, selected, translations]);
 
   useEffect(() => {
-    if (keyboardMode) {
-      selectedSentenceRef.current?.scrollIntoView({
+    const sentence = selectedSentenceRef.current;
+    if (keyboardMode && sentence) {
+      const { top, height } = sentence.getBoundingClientRect();
+      const center = top + height / 2;
+      const viewportHeight = window.innerHeight;
+      if (center >= viewportHeight * 0.35 && center <= viewportHeight * 0.65) return;
+
+      sentence.scrollIntoView({
         behavior: 'smooth',
         block: 'center',
         inline: 'nearest',

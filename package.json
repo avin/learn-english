@@ -10,6 +10,7 @@
     "audio:test": "node --test scripts/generate-audio.test.mjs",
     "test:navigation": "node --test scripts/lesson-navigation.test.mjs",
     "test:settings": "node --test scripts/settings.test.mjs",
+    "test:gamepad": "node --test scripts/gamepad.test.mjs",
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "prettier": "prettier --ignore-unknown --write **"

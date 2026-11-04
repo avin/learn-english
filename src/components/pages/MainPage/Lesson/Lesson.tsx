@@ -1,4 +1,11 @@
-import React, { useCallback, useEffect, useRef, useState } from 'react';
+import React, {
+  forwardRef,
+  useCallback,
+  useEffect,
+  useImperativeHandle,
+  useRef,
+  useState,
+} from 'react';
 import { HiOutlineStar, HiStar } from 'react-icons/hi';
 import { usePrevious } from 'react-use';
 import cn from 'clsx';
@@ -21,7 +28,13 @@ interface Props {
   settings: AppSettings;
 }
 
-const Lesson = ({ course, lesson, settings }: Props) => {
+export interface LessonControls {
+  navigate: (key: ArrowKey) => void;
+  replay: () => void;
+  restart: () => void;
+}
+
+const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, ref) => {
   const [translations, setTranslations] = useState<Translation[] | null>(null);
   const [order, setOrder] = useState<number[]>([]);
   const [openSentences, setOpenSentences] = useState<number[] | null>(null);
@@ -29,7 +42,8 @@ const Lesson = ({ course, lesson, settings }: Props) => {
   const [favoriteTranslations, setFavoriteTranslations] = useState<Translation[] | null>(null);
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const [selected, setSelected] = useState<SentenceSelection | null>(null);
-  const [keyboardMode, setKeyboardMode] = useState(false);
+  const [cursorVisible, setCursorVisible] = useState(false);
+  const [audioBlocked, setAudioBlocked] = useState(false);
   const selectedSentenceRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
@@ -39,26 +53,107 @@ const Lesson = ({ course, lesson, settings }: Props) => {
     };
   }, [course, lesson]);
 
-  const playAudio = useCallback((path: string) => {
-    const relativePath = path.replace(/^\/src\/assets\//, '');
-    const url = `${import.meta.env.BASE_URL}${relativePath}`;
-
-    audioRef.current?.pause();
-    const audio = new Audio(url);
-    audioRef.current = audio;
-    void audio.play().catch((error: unknown) => {
-      if (error instanceof DOMException && error.name === 'AbortError') {
-        return;
-      }
-      console.error('Error playing phrase audio:', error);
-    });
+  const startAudio = useCallback((audio: HTMLAudioElement) => {
+    void audio.play().then(
+      () => {
+        if (audioRef.current === audio) setAudioBlocked(false);
+      },
+      (error: unknown) => {
+        if (audioRef.current !== audio) return;
+        if (error instanceof DOMException && error.name === 'NotAllowedError') {
+          setAudioBlocked(true);
+          return;
+        }
+        if (error instanceof DOMException && error.name === 'AbortError') return;
+        console.error('Error playing phrase audio:', error);
+      },
+    );
   }, []);
 
+  const playAudio = useCallback(
+    (path: string) => {
+      const relativePath = path.replace(/^\/src\/assets\//, '');
+      const url = `${import.meta.env.BASE_URL}${relativePath}`;
+
+      audioRef.current?.pause();
+      const audio = new Audio(url);
+      audioRef.current = audio;
+      startAudio(audio);
+    },
+    [startAudio],
+  );
+
   useEffect(() => {
-    const handlePointerDown = () => setKeyboardMode(false);
+    const handlePointerDown = () => setCursorVisible(false);
     document.addEventListener('pointerdown', handlePointerDown, true);
     return () => document.removeEventListener('pointerdown', handlePointerDown, true);
   }, []);
+
+  const selectSentence = useCallback(
+    (next: SentenceSelection) => {
+      if (!translations) return;
+      setSelected(next);
+      setCursorVisible(true);
+      if (next.column === 'en') {
+        setOpenSentences((current) =>
+          current?.includes(next.idx) ? current : [...(current || []), next.idx],
+        );
+      }
+      const audio = translations[next.idx].audio?.[next.column];
+      if (audio) playAudio(audio);
+      else {
+        audioRef.current?.pause();
+        audioRef.current = null;
+        setAudioBlocked(false);
+      }
+    },
+    [playAudio, translations],
+  );
+
+  const restart = useCallback(() => {
+    if (!translations || !openSentences || !favoriteTranslations || !order.length) return;
+    const newOrder = shuffle(order);
+    setOrder(newOrder);
+    setOpenSentences([]);
+    selectSentence({ idx: newOrder[0], column: 'ru' });
+  }, [favoriteTranslations, openSentences, order, selectSentence, translations]);
+
+  const navigate = useCallback(
+    (key: ArrowKey) => {
+      if (!translations || !openSentences || !favoriteTranslations) return;
+      const next = getNextSentence(order, selected, key);
+      if (!next) return;
+      if (
+        settings.resetOnLessonEnd &&
+        key === 'ArrowRight' &&
+        selected?.idx === order[order.length - 1] &&
+        selected?.column === 'en'
+      ) {
+        restart();
+        return;
+      }
+      selectSentence(next);
+    },
+    [
+      favoriteTranslations,
+      openSentences,
+      order,
+      restart,
+      selectSentence,
+      selected,
+      settings.resetOnLessonEnd,
+      translations,
+    ],
+  );
+
+  const replay = useCallback(() => {
+    if (!selected || !translations) return;
+    setCursorVisible(true);
+    const audio = translations[selected.idx].audio?.[selected.column];
+    if (audio) playAudio(audio);
+  }, [playAudio, selected, translations]);
+
+  useImperativeHandle(ref, () => ({ navigate, replay, restart }), [navigate, replay, restart]);
 
   useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {
@@ -69,6 +164,7 @@ const Lesson = ({ course, lesson, settings }: Props) => {
         event.ctrlKey ||
         event.metaKey ||
         event.shiftKey ||
+        event.isComposing ||
         event.defaultPrevented ||
         !translations ||
         !openSentences ||
@@ -96,52 +192,21 @@ const Lesson = ({ course, lesson, settings }: Props) => {
 
         event.preventDefault();
         if (event.repeat) return;
-        setKeyboardMode(true);
-        const audio = translations[selected.idx].audio?.[selected.column];
-        if (audio) playAudio(audio);
+        replay();
         return;
       }
 
-      let next = getNextSentence(order, selected, event.key as ArrowKey);
-      if (!next) return;
+      if (!order.length) return;
       event.preventDefault();
-      if (
-        settings.resetOnLessonEnd &&
-        event.key === 'ArrowRight' &&
-        selected?.idx === order[order.length - 1] &&
-        selected?.column === 'en'
-      ) {
-        const newOrder = shuffle(order);
-        setOrder(newOrder);
-        setOpenSentences([]);
-        next = { idx: newOrder[0], column: 'ru' };
-      }
-      setSelected(next);
-      setKeyboardMode(true);
-      if (next.column === 'en') {
-        setOpenSentences((current) =>
-          current?.includes(next.idx) ? current : [...(current || []), next.idx],
-        );
-      }
-      const audio = translations[next.idx].audio?.[next.column];
-      if (audio) playAudio(audio);
-      else audioRef.current?.pause();
+      navigate(event.key as ArrowKey);
     };
     document.addEventListener('keydown', handleKeyDown);
     return () => document.removeEventListener('keydown', handleKeyDown);
-  }, [
-    favoriteTranslations,
-    openSentences,
-    order,
-    playAudio,
-    selected,
-    settings.resetOnLessonEnd,
-    translations,
-  ]);
+  }, [favoriteTranslations, openSentences, order, navigate, replay, selected, translations]);
 
   useEffect(() => {
     const sentence = selectedSentenceRef.current;
-    if (keyboardMode && sentence && !document.querySelector('dialog[open]')) {
+    if (cursorVisible && sentence && !document.querySelector('dialog[open]')) {
       const { top, height } = sentence.getBoundingClientRect();
       const center = top + height / 2;
       const viewportHeight = window.innerHeight;
@@ -173,7 +238,7 @@ const Lesson = ({ course, lesson, settings }: Props) => {
         window.removeEventListener('touchstart', cancel);
       };
     }
-  }, [keyboardMode, selected, settings.cursorZonePercent, settings.cursorScrollDurationMs]);
+  }, [cursorVisible, selected, settings.cursorZonePercent, settings.cursorScrollDurationMs]);
 
   useEffect(() => {
     setOpenSentences(null);
@@ -293,7 +358,7 @@ const Lesson = ({ course, lesson, settings }: Props) => {
   const handleClickShuffle = () => {
     setOrder((v) => shuffle(v));
     setSelected(null);
-    setKeyboardMode(false);
+    setCursorVisible(false);
   };
 
   if (!translations || !openSentences || !favoriteTranslations) {
@@ -321,6 +386,14 @@ const Lesson = ({ course, lesson, settings }: Props) => {
   return (
     <div className="fade-in">
       {controls}
+      {audioBlocked && (
+        <div className="mt-4 flex items-center justify-center gap-3" role="status">
+          <span>Нажмите, чтобы разрешить озвучку.</span>
+          <Button intent="outline" onClick={() => audioRef.current && startAudio(audioRef.current)}>
+            Включить звук
+          </Button>
+        </div>
+      )}
       <div className="mx-auto my-8 max-w-[800px] overflow-hidden rounded-lg border border-gray3">
         <table className="w-full">
           <tbody className="divide-y divide-gray5 bg-white">
@@ -359,7 +432,7 @@ const Lesson = ({ course, lesson, settings }: Props) => {
                       }
                       className={cn('sentence', {
                         'sentence-selected':
-                          keyboardMode && selected?.idx === idx && selected.column === 'ru',
+                          cursorVisible && selected?.idx === idx && selected.column === 'ru',
                       })}
                       onClick={() => setSelected({ idx, column: 'ru' })}
                     >
@@ -388,7 +461,7 @@ const Lesson = ({ course, lesson, settings }: Props) => {
                       }
                       className={cn('sentence relative text-blue1', {
                         'sentence-selected':
-                          keyboardMode && selected?.idx === idx && selected.column === 'en',
+                          cursorVisible && selected?.idx === idx && selected.column === 'en',
                       })}
                       onClick={() => setSelected({ idx, column: 'en' })}
                     >
@@ -430,6 +503,8 @@ const Lesson = ({ course, lesson, settings }: Props) => {
       {controls}
     </div>
   );
-};
+});
+
+Lesson.displayName = 'Lesson';
 
 export default Lesson;

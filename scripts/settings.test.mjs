@@ -25,6 +25,7 @@ test('new and existing users keep the previous scroll defaults', () => {
     assert.equal(settings.cursorZonePercent, 30);
     assert.equal(settings.cursorScrollDurationMs, 600);
     assert.equal(settings.resetOnLessonEnd, false);
+    assert.equal(settings.gamepadEnabled, true);
   }
   assert.equal(loadSettings().autoPlayOnReveal, false);
   assert.equal(loadSettings().showAudioUnderline, false);
@@ -70,5 +71,16 @@ test('automatic lesson reset persists both boolean values and rejects invalid va
   for (const resetOnLessonEnd of ['true', 1, null, {}, []]) {
     stored = JSON.stringify({ resetOnLessonEnd });
     assert.equal(loadSettings().resetOnLessonEnd, false);
+  }
+});
+
+test('gamepad support defaults to enabled and persists either choice', () => {
+  for (const gamepadEnabled of [true, false]) {
+    saveSettings({ ...loadSettings(), gamepadEnabled });
+    assert.equal(loadSettings().gamepadEnabled, gamepadEnabled);
+  }
+  for (const gamepadEnabled of ['false', 0, null, {}, []]) {
+    stored = JSON.stringify({ gamepadEnabled });
+    assert.equal(loadSettings().gamepadEnabled, true);
   }
 });

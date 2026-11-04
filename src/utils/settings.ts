@@ -1,6 +1,7 @@
 export interface AppSettings {
   autoPlayOnReveal: boolean;
   showAudioUnderline: boolean;
+  gamepadEnabled: boolean;
   resetOnLessonEnd: boolean;
   cursorZonePercent: number;
   cursorScrollDurationMs: number;
@@ -13,6 +14,7 @@ const storageKey = 'settings';
 const defaultSettings: AppSettings = {
   autoPlayOnReveal: true,
   showAudioUnderline: true,
+  gamepadEnabled: true,
   resetOnLessonEnd: false,
   cursorZonePercent: 30,
   cursorScrollDurationMs: 600,
@@ -32,6 +34,10 @@ export const loadSettings = (): AppSettings => {
         typeof saved?.showAudioUnderline === 'boolean'
           ? saved.showAudioUnderline
           : defaultSettings.showAudioUnderline,
+      gamepadEnabled:
+        typeof saved?.gamepadEnabled === 'boolean'
+          ? saved.gamepadEnabled
+          : defaultSettings.gamepadEnabled,
       resetOnLessonEnd:
         typeof saved?.resetOnLessonEnd === 'boolean'
           ? saved.resetOnLessonEnd

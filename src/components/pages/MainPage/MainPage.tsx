@@ -1,14 +1,15 @@
-import React, { useCallback, useEffect, useMemo, useState } from 'react';
+import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { HiArrowUp, HiOutlineCog } from 'react-icons/hi';
 import Button from '@/components/common/Button/Button.tsx';
 import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner.tsx';
 import Select from '@/components/common/Select/Select.tsx';
 import UserButton from '@/components/common/UserButton/UserButton.tsx';
-import Lesson from '@/components/pages/MainPage/Lesson/Lesson.tsx';
+import Lesson, { LessonControls } from '@/components/pages/MainPage/Lesson/Lesson.tsx';
 import Settings from '@/components/pages/MainPage/Settings.tsx';
 import { Course } from '@/types';
 import { AppSettings, loadSettings, saveSettings } from '@/utils/settings.ts';
 import { loadLastCourse, loadLastLesson, saveLastCourse, saveLastLesson } from '@/utils/storage.ts';
+import { useGamepad } from '@/utils/useGamepad.ts';
 
 type Options = { label: string; value: string }[];
 
@@ -54,6 +55,7 @@ const MainPage = () => {
   const [lesson, setLesson] = useState<string | null>(null);
   const [settings, setSettings] = useState(loadSettings);
   const [settingsOpen, setSettingsOpen] = useState(false);
+  const lessonRef = useRef<LessonControls>(null);
 
   const lessonOptions = useMemo(() => {
     if (course === 'titan') {
@@ -99,6 +101,32 @@ const MainPage = () => {
     [course],
   );
 
+  const changeAdjacentLesson = useCallback(
+    (direction: number) => {
+      const index = lessonOptions.findIndex((option) => option.value === lesson);
+      if (index === -1) return;
+      const next = lessonOptions[index + direction];
+      if (next) handleChangeLesson(next.value);
+    },
+    [handleChangeLesson, lesson, lessonOptions],
+  );
+
+  useGamepad(
+    (action) => {
+      if (action === 'previousLesson' || action === 'nextLesson') {
+        changeAdjacentLesson(action === 'nextLesson' ? 1 : -1);
+      } else if (action === 'replay') {
+        lessonRef.current?.replay();
+      } else if (action === 'restart') {
+        lessonRef.current?.restart();
+      } else {
+        lessonRef.current?.navigate(action);
+      }
+    },
+    settings.gamepadEnabled,
+    !course || lesson === null || settingsOpen,
+  );
+
   useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {
       if (
@@ -127,12 +155,11 @@ const MainPage = () => {
       if (index === -1) return;
       event.preventDefault();
       if (event.repeat) return;
-      const next = lessonOptions[index + (event.key === 'ArrowRight' ? 1 : -1)];
-      if (next) handleChangeLesson(next.value);
+      changeAdjacentLesson(event.key === 'ArrowRight' ? 1 : -1);
     };
     document.addEventListener('keydown', handleKeyDown);
     return () => document.removeEventListener('keydown', handleKeyDown);
-  }, [course, handleChangeLesson, lesson, lessonOptions, settingsOpen]);
+  }, [changeAdjacentLesson, course, lesson, lessonOptions, settingsOpen]);
 
   const handleSettingsChange = (newSettings: AppSettings) => {
     setSettings(newSettings);
@@ -185,7 +212,13 @@ const MainPage = () => {
       )}
       <div className="p-8">
         {course && lesson !== null ? (
-          <Lesson key={`${course}_${lesson}`} course={course} lesson={lesson} settings={settings} />
+          <Lesson
+            ref={lessonRef}
+            key={`${course}_${lesson}`}
+            course={course}
+            lesson={lesson}
+            settings={settings}
+          />
         ) : (
           <FullPageSpinner />
         )}

@@ -74,9 +74,26 @@ const Settings = ({ settings, onChange, onClose }: Props) => {
       </div>
       <section aria-labelledby="keyboard-settings-title" className="mt-6">
         <h3 id="keyboard-settings-title" className="mb-4 font-semibold">
-          Управление с клавиатуры
+          Управление с клавиатуры и геймпада
         </h3>
         <div className="space-y-4">
+          <label className="flex cursor-pointer items-start gap-3">
+            <span className="relative mt-1 flex h-4 w-4 shrink-0">
+              <input
+                type="checkbox"
+                className="peer h-4 w-4 cursor-pointer appearance-none rounded border border-gray3 bg-white checked:border-gray1 checked:bg-gray1 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray1"
+                checked={settings.gamepadEnabled}
+                onChange={(event) =>
+                  onChange({ ...settings, gamepadEnabled: event.target.checked })
+                }
+              />
+              <HiCheck
+                aria-hidden="true"
+                className="pointer-events-none absolute inset-0 hidden h-4 w-4 text-white peer-checked:block"
+              />
+            </span>
+            <span>Включить управление с геймпада</span>
+          </label>
           <label className="flex cursor-pointer items-start gap-3">
             <span className="relative mt-1 flex h-4 w-4 shrink-0">
               <input

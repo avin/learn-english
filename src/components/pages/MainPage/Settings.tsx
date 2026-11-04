@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import { HiCheck } from 'react-icons/hi';
 import Button from '@/components/common/Button/Button.tsx';
-import { AppSettings } from '@/utils/settings.ts';
+import { AppSettings, cursorScrollDurationOptions, cursorZoneOptions } from '@/utils/settings.ts';
 
 interface Props {
   settings: AppSettings;
@@ -61,6 +61,52 @@ const Settings = ({ settings, onChange, onClose }: Props) => {
           </span>
           <span>Показывать пунктиром предложения с озвучкой</span>
         </label>
+        <div>
+          <label htmlFor="cursor-zone-percent" className="mb-2 block">
+            Размер центральной зоны
+          </label>
+          <select
+            id="cursor-zone-percent"
+            className="w-full appearance-auto rounded border border-gray3 bg-white px-3 py-2"
+            value={settings.cursorZonePercent}
+            onChange={(event) =>
+              onChange({ ...settings, cursorZonePercent: Number(event.target.value) })
+            }
+            aria-describedby="cursor-zone-description"
+          >
+            {cursorZoneOptions.map((value) => (
+              <option key={value} value={value}>
+                {value}%
+              </option>
+            ))}
+          </select>
+          <p id="cursor-zone-description" className="mt-2 text-sm text-gray1">
+            Пока курсор в этой области по центру экрана, страница не прокручивается.
+          </p>
+        </div>
+        <div>
+          <label htmlFor="cursor-scroll-duration" className="mb-2 block">
+            Длительность прокрутки
+          </label>
+          <select
+            id="cursor-scroll-duration"
+            className="w-full appearance-auto rounded border border-gray3 bg-white px-3 py-2"
+            value={settings.cursorScrollDurationMs}
+            onChange={(event) =>
+              onChange({ ...settings, cursorScrollDurationMs: Number(event.target.value) })
+            }
+            aria-describedby="cursor-scroll-description"
+          >
+            {cursorScrollDurationOptions.map((value) => (
+              <option key={value} value={value}>
+                {value} мс
+              </option>
+            ))}
+          </select>
+          <p id="cursor-scroll-description" className="mt-2 text-sm text-gray1">
+            Чем больше значение, тем медленнее прокрутка.
+          </p>
+        </div>
       </div>
       <div className="mt-6 flex justify-end">
         <Button intent="outline" onClick={() => dialogRef.current?.close()}>

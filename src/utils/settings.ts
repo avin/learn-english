@@ -1,10 +1,20 @@
 export interface AppSettings {
   autoPlayOnReveal: boolean;
   showAudioUnderline: boolean;
+  cursorZonePercent: number;
+  cursorScrollDurationMs: number;
 }
 
+export const cursorZoneOptions = [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
+export const cursorScrollDurationOptions = [200, 400, 600, 800, 1000, 1500];
+
 const storageKey = 'settings';
-const defaultSettings: AppSettings = { autoPlayOnReveal: true, showAudioUnderline: true };
+const defaultSettings: AppSettings = {
+  autoPlayOnReveal: true,
+  showAudioUnderline: true,
+  cursorZonePercent: 30,
+  cursorScrollDurationMs: 600,
+};
 
 export const loadSettings = (): AppSettings => {
   try {
@@ -20,6 +30,16 @@ export const loadSettings = (): AppSettings => {
         typeof saved?.showAudioUnderline === 'boolean'
           ? saved.showAudioUnderline
           : defaultSettings.showAudioUnderline,
+      cursorZonePercent:
+        typeof saved?.cursorZonePercent === 'number' &&
+        cursorZoneOptions.includes(saved.cursorZonePercent)
+          ? saved.cursorZonePercent
+          : defaultSettings.cursorZonePercent,
+      cursorScrollDurationMs:
+        typeof saved?.cursorScrollDurationMs === 'number' &&
+        cursorScrollDurationOptions.includes(saved.cursorScrollDurationMs)
+          ? saved.cursorScrollDurationMs
+          : defaultSettings.cursorScrollDurationMs,
     };
   } catch {
     return defaultSettings;

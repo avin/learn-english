@@ -62,8 +62,9 @@ const Lesson = ({ course, lesson, settings }: Props) => {
 
   useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {
+      const isReplay = event.key === ' ' || event.key === 'Enter';
       if (
-        !['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].includes(event.key) ||
+        (!isReplay && !['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].includes(event.key)) ||
         event.altKey ||
         event.ctrlKey ||
         event.metaKey ||
@@ -83,6 +84,23 @@ const Lesson = ({ course, lesson, settings }: Props) => {
           target.closest('input, textarea, select, [role="combobox"], [role="slider"]'))
       )
         return;
+
+      if (isReplay) {
+        if (
+          !selected ||
+          (target instanceof HTMLElement &&
+            target.closest('button, a, [role="button"]') &&
+            !target.closest('[data-sentence]'))
+        )
+          return;
+
+        event.preventDefault();
+        if (event.repeat) return;
+        setKeyboardMode(true);
+        const audio = translations[selected.idx].audio?.[selected.column];
+        if (audio) playAudio(audio);
+        return;
+      }
 
       const next = getNextSentence(order, selected, event.key as ArrowKey);
       if (!next) return;

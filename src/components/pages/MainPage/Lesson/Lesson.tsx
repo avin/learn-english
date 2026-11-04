@@ -71,13 +71,20 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
   }, []);
 
   const playAudio = useCallback(
-    (path: string) => {
+    (path: string, onFinished?: () => void) => {
       const relativePath = path.replace(/^\/src\/assets\//, '');
       const url = `${import.meta.env.BASE_URL}${relativePath}`;
 
       audioRef.current?.pause();
       const audio = new Audio(url);
       audioRef.current = audio;
+      if (onFinished) {
+        const finish = () => {
+          if (audioRef.current === audio) onFinished();
+        };
+        audio.onended = finish;
+        audio.onerror = finish;
+      }
       startAudio(audio);
     },
     [startAudio],
@@ -90,7 +97,7 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
   }, []);
 
   const selectSentence = useCallback(
-    (next: SentenceSelection) => {
+    (next: SentenceSelection, announceCompletion = false) => {
       if (!translations) return;
       setSelected(next);
       setCursorVisible(true);
@@ -100,7 +107,11 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
         );
       }
       const audio = translations[next.idx].audio?.[next.column];
-      if (audio) playAudio(audio);
+      if (announceCompletion) {
+        playAudio('sounds/lesson-complete.wav', () => {
+          if (audio) playAudio(audio);
+        });
+      } else if (audio) playAudio(audio);
       else {
         audioRef.current?.pause();
         audioRef.current = null;
@@ -110,13 +121,16 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
     [playAudio, translations],
   );
 
-  const restart = useCallback(() => {
-    if (!translations || !openSentences || !favoriteTranslations || !order.length) return;
-    const newOrder = shuffle(order);
-    setOrder(newOrder);
-    setOpenSentences([]);
-    selectSentence({ idx: newOrder[0], column: 'ru' });
-  }, [favoriteTranslations, openSentences, order, selectSentence, translations]);
+  const restart = useCallback(
+    (announceCompletion = false) => {
+      if (!translations || !openSentences || !favoriteTranslations || !order.length) return;
+      const newOrder = shuffle(order);
+      setOrder(newOrder);
+      setOpenSentences([]);
+      selectSentence({ idx: newOrder[0], column: 'ru' }, announceCompletion);
+    },
+    [favoriteTranslations, openSentences, order, selectSentence, translations],
+  );
 
   const navigate = useCallback(
     (key: ArrowKey) => {
@@ -129,7 +143,7 @@ const Lesson = forwardRef<LessonControls, Props>(({ course, lesson, settings }, 
         selected?.idx === order[order.length - 1] &&
         selected?.column === 'en'
       ) {
-        restart();
+        restart(true);
         return;
       }
       selectSentence(next);

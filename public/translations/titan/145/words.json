@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "любой",
+      "audio": false
+    },
+    "en": {
+      "text": "anyone",
+      "audio": true,
+      "transcription": "ˈenɪwʌn"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "умный",
+      "audio": false
+    },
+    "en": {
+      "text": "clever",
+      "audio": true,
+      "transcription": "ˈklevə"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "ухо",
+      "audio": false
+    },
+    "en": {
+      "text": "ear",
+      "audio": true,
+      "transcription": "ɪə"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "точно",
+      "audio": false
+    },
+    "en": {
+      "text": "exactly",
+      "audio": true,
+      "transcription": "ɪgˈzæktli"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "следует",
+      "audio": false
+    },
+    "en": {
+      "text": "ought to",
+      "audio": true,
+      "transcription": "ɔ:t tu:"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "туалет",
+      "audio": false
+    },
+    "en": {
+      "text": "toilet",
+      "audio": true,
+      "transcription": "ˈtɔɪlɪt"
+    }
+  }
+]

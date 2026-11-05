@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "выше",
+      "audio": false
+    },
+    "en": {
+      "text": "above",
+      "audio": true,
+      "transcription": "əˈbʌv"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "миллиард",
+      "audio": false
+    },
+    "en": {
+      "text": "billion",
+      "audio": true,
+      "transcription": "ˈbɪljən"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "квартира",
+      "audio": false
+    },
+    "en": {
+      "text": "flat",
+      "audio": true,
+      "transcription": "flæt"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "однако",
+      "audio": false
+    },
+    "en": {
+      "text": "however",
+      "audio": true,
+      "transcription": "haʊˈevə"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "регион",
+      "audio": false
+    },
+    "en": {
+      "text": "region",
+      "audio": true,
+      "transcription": "ˈri:ʤən"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "заниматься серфингом",
+      "audio": false
+    },
+    "en": {
+      "text": "surf",
+      "audio": true,
+      "transcription": "sɜ:f"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "веб",
+      "audio": false
+    },
+    "en": {
+      "text": "web",
+      "audio": true,
+      "transcription": "web"
+    }
+  }
+]

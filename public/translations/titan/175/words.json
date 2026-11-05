@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "Европейский Союз",
+      "audio": false
+    },
+    "en": {
+      "text": "the European Union",
+      "audio": true,
+      "transcription": "ðə ˌjʊərəˈpi:ən ˈju:njən"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "нравится, хотеть",
+      "audio": false
+    },
+    "en": {
+      "text": "fancy",
+      "audio": true,
+      "transcription": "ˈfænsi"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "член, участник",
+      "audio": false
+    },
+    "en": {
+      "text": "member",
+      "audio": true,
+      "transcription": "ˈmembə"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "откладывать",
+      "audio": false
+    },
+    "en": {
+      "text": "postpone",
+      "audio": true,
+      "transcription": "pəʊstˈpəʊn"
+    }
+  }
+]

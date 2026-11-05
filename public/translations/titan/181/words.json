@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "приблизительно",
+      "audio": false
+    },
+    "en": {
+      "text": "approximately",
+      "audio": true,
+      "transcription": "əˈprɒksɪmɪtli"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "сложный",
+      "audio": false
+    },
+    "en": {
+      "text": "complicated",
+      "audio": true,
+      "transcription": "ˈkɒmplɪkeɪtɪd"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "галерея",
+      "audio": false
+    },
+    "en": {
+      "text": "gallery",
+      "audio": true,
+      "transcription": "ˈgæləri"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "неизбежный",
+      "audio": false
+    },
+    "en": {
+      "text": "inevitable",
+      "audio": true,
+      "transcription": "ɪnˈevɪtəbl"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "игрок",
+      "audio": false
+    },
+    "en": {
+      "text": "player",
+      "audio": true,
+      "transcription": "ˈpleɪə"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "кроссовки",
+      "audio": false
+    },
+    "en": {
+      "text": "sneakers",
+      "audio": true,
+      "transcription": "ˈsni:kəz"
+    }
+  }
+]

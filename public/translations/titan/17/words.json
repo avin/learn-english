@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "сумка",
+      "audio": false
+    },
+    "en": {
+      "text": "bag",
+      "audio": true,
+      "transcription": "bæg"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "коробка",
+      "audio": false
+    },
+    "en": {
+      "text": "box",
+      "audio": true,
+      "transcription": "bɒks"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "платье",
+      "audio": false
+    },
+    "en": {
+      "text": "dress",
+      "audio": true,
+      "transcription": "dres"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "джинсы",
+      "audio": false
+    },
+    "en": {
+      "text": "jeans",
+      "audio": true,
+      "transcription": "ʤi:nz"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "пара",
+      "audio": false
+    },
+    "en": {
+      "text": "pair",
+      "audio": true,
+      "transcription": "peə"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "брюки",
+      "audio": false
+    },
+    "en": {
+      "text": "trousers",
+      "audio": true,
+      "transcription": "ˈtraʊzəz"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "расстроен",
+      "audio": false
+    },
+    "en": {
+      "text": "upset",
+      "audio": true,
+      "transcription": "ʌpˈset"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "хуже",
+      "audio": false
+    },
+    "en": {
+      "text": "worse",
+      "audio": true,
+      "transcription": "wɜ:s"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "неправильный",
+      "audio": false
+    },
+    "en": {
+      "text": "wrong",
+      "audio": true,
+      "transcription": "rɒŋ"
+    }
+  }
+]

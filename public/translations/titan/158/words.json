@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "проводить",
+      "audio": false
+    },
+    "en": {
+      "text": "conduct",
+      "audio": true,
+      "transcription": "ˈkɒndʌkt"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "постоянно",
+      "audio": false
+    },
+    "en": {
+      "text": "constantly",
+      "audio": true,
+      "transcription": "ˈkɒnstəntli"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "длина",
+      "audio": false
+    },
+    "en": {
+      "text": "length",
+      "audio": true,
+      "transcription": "leŋθ"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "полностью",
+      "audio": false
+    },
+    "en": {
+      "text": "totally",
+      "audio": true,
+      "transcription": "ˈtəʊtli"
+    }
+  }
+]

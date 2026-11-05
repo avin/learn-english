@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "автор",
+      "audio": false
+    },
+    "en": {
+      "text": "author",
+      "audio": true,
+      "transcription": "ˈɔ:θə"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "отправляться",
+      "audio": false
+    },
+    "en": {
+      "text": "depart",
+      "audio": true,
+      "transcription": "dɪˈpɑ:t"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "косвенный",
+      "audio": false
+    },
+    "en": {
+      "text": "indirect",
+      "audio": true,
+      "transcription": "ˌɪndɪˈrekt"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "великолепный",
+      "audio": false
+    },
+    "en": {
+      "text": "magnificent",
+      "audio": true,
+      "transcription": "mægˈnɪfɪsnt"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "ужин",
+      "audio": false
+    },
+    "en": {
+      "text": "supper",
+      "audio": true,
+      "transcription": "ˈsʌpə"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "интересно, интересоваться",
+      "audio": false
+    },
+    "en": {
+      "text": "wonder",
+      "audio": true,
+      "transcription": "ˈwʌndə"
+    }
+  }
+]

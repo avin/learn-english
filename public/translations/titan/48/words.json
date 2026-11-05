@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "авария",
+      "audio": false
+    },
+    "en": {
+      "text": "accident",
+      "audio": true,
+      "transcription": "ˈæksɪdənt"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "алкоголь",
+      "audio": false
+    },
+    "en": {
+      "text": "alcohol",
+      "audio": true,
+      "transcription": "ˈælkəhɒl"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "счет",
+      "audio": false
+    },
+    "en": {
+      "text": "bill",
+      "audio": true,
+      "transcription": "bɪl"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "кафе",
+      "audio": false
+    },
+    "en": {
+      "text": "café",
+      "audio": true,
+      "transcription": "ˈkæfeɪ"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "шанс",
+      "audio": false
+    },
+    "en": {
+      "text": "chance",
+      "audio": true,
+      "transcription": "ʧɑ:ns"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "преступник",
+      "audio": false
+    },
+    "en": {
+      "text": "criminal",
+      "audio": true,
+      "transcription": "ˈkrɪmɪnl"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "здоровье",
+      "audio": false
+    },
+    "en": {
+      "text": "health",
+      "audio": true,
+      "transcription": "helθ"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "если",
+      "audio": false
+    },
+    "en": {
+      "text": "if",
+      "audio": true,
+      "transcription": "ɪf"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "точка",
+      "audio": false
+    },
+    "en": {
+      "text": "point",
+      "audio": true,
+      "transcription": "pɔɪnt"
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "экран",
+      "audio": false
+    },
+    "en": {
+      "text": "screen",
+      "audio": true,
+      "transcription": "skri:n"
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "вид, зрение",
+      "audio": false
+    },
+    "en": {
+      "text": "view",
+      "audio": true,
+      "transcription": "vju:"
+    }
+  }
+]

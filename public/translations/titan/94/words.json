@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "жалоба",
+      "audio": false
+    },
+    "en": {
+      "text": "complaint",
+      "audio": true,
+      "transcription": "kəmˈpleɪnt"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "дизлайк, не нравится",
+      "audio": false
+    },
+    "en": {
+      "text": "dislike",
+      "audio": true,
+      "transcription": "dɪsˈlaɪk"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "формат",
+      "audio": false
+    },
+    "en": {
+      "text": "format",
+      "audio": true,
+      "transcription": "ˈfɔ:mæt"
+    }
+  }
+]

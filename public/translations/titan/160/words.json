@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "еда",
+      "audio": false
+    },
+    "en": {
+      "text": "meal",
+      "audio": true,
+      "transcription": "mi:l"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "гонка",
+      "audio": false
+    },
+    "en": {
+      "text": "race",
+      "audio": true,
+      "transcription": "reɪs"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "побережье",
+      "audio": false
+    },
+    "en": {
+      "text": "seaside",
+      "audio": true,
+      "transcription": "ˈsi:saɪd"
+    }
+  }
+]

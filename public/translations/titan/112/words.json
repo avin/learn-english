@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "самолет",
+      "audio": false
+    },
+    "en": {
+      "text": "airplane",
+      "audio": true,
+      "transcription": "ˈeəpleɪn"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "алгебра",
+      "audio": false
+    },
+    "en": {
+      "text": "algebra",
+      "audio": true,
+      "transcription": "ˈælʤɪbrə"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "ванна",
+      "audio": false
+    },
+    "en": {
+      "text": "bath",
+      "audio": true,
+      "transcription": "bɑ:θ"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "печенье",
+      "audio": false
+    },
+    "en": {
+      "text": "cookie",
+      "audio": true,
+      "transcription": "ˈkʊki"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "кукла",
+      "audio": false
+    },
+    "en": {
+      "text": "doll",
+      "audio": true,
+      "transcription": "dɒl"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "чинить",
+      "audio": false
+    },
+    "en": {
+      "text": "fix",
+      "audio": true,
+      "transcription": "fɪks"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "геометрия",
+      "audio": false
+    },
+    "en": {
+      "text": "geometry",
+      "audio": true,
+      "transcription": "ʤɪˈɒmɪtri"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "земля",
+      "audio": false
+    },
+    "en": {
+      "text": "land",
+      "audio": true,
+      "transcription": "lænd"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "незнакомец",
+      "audio": false
+    },
+    "en": {
+      "text": "stranger",
+      "audio": true,
+      "transcription": "ˈstreɪnʤə"
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "взлетать",
+      "audio": false
+    },
+    "en": {
+      "text": "take off",
+      "audio": true,
+      "transcription": "teɪk ɒf"
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "часы",
+      "audio": false
+    },
+    "en": {
+      "text": "watch",
+      "audio": true,
+      "transcription": "wɒʧ"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "армия",
+      "audio": false
+    },
+    "en": {
+      "text": "army",
+      "audio": true,
+      "transcription": "ˈɑ:mi"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "правительство",
+      "audio": false
+    },
+    "en": {
+      "text": "government",
+      "audio": true,
+      "transcription": "ˈgʌvnmənt"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "ближайший",
+      "audio": false
+    },
+    "en": {
+      "text": "nearest",
+      "audio": true,
+      "transcription": "ˈnɪərɪst"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "территория",
+      "audio": false
+    },
+    "en": {
+      "text": "territory",
+      "audio": true,
+      "transcription": "ˈterɪtəri"
+    }
+  }
+]

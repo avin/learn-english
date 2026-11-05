@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "зубной врач, стоматолог",
+      "audio": false
+    },
+    "en": {
+      "text": "dentist",
+      "audio": true,
+      "transcription": "ˈdentɪst"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "инженер",
+      "audio": false
+    },
+    "en": {
+      "text": "engineer",
+      "audio": true,
+      "transcription": "ˌenʤɪˈnɪə"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "невозможно",
+      "audio": false
+    },
+    "en": {
+      "text": "impossible",
+      "audio": true,
+      "transcription": "ɪmˈpɒsəbl"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "одинокий",
+      "audio": false
+    },
+    "en": {
+      "text": "lonely",
+      "audio": true,
+      "transcription": "ˈləʊnli"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "мотивирующий",
+      "audio": false
+    },
+    "en": {
+      "text": "motivating",
+      "audio": true,
+      "transcription": "ˈməʊtɪveɪtɪŋ"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "вовсе, совсем",
+      "audio": false
+    },
+    "en": {
+      "text": "at all",
+      "audio": true,
+      "transcription": "æt ɔ:l"
+    }
+  }
+]

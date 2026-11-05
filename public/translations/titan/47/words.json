@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "художник",
+      "audio": false
+    },
+    "en": {
+      "text": "artist",
+      "audio": true,
+      "transcription": "ˈɑ:tɪst"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "немного",
+      "audio": false
+    },
+    "en": {
+      "text": "a bit",
+      "audio": true,
+      "transcription": "ə bɪt"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "компания",
+      "audio": false
+    },
+    "en": {
+      "text": "company",
+      "audio": true,
+      "transcription": "ˈkʌmpəni"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "земля",
+      "audio": false
+    },
+    "en": {
+      "text": "ground",
+      "audio": true,
+      "transcription": "graʊnd"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "счастье",
+      "audio": false
+    },
+    "en": {
+      "text": "happiness",
+      "audio": true,
+      "transcription": "ˈhæpɪnɪs"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "доброта",
+      "audio": false
+    },
+    "en": {
+      "text": "kindness",
+      "audio": true,
+      "transcription": "ˈkaɪndnɪs"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "посылка",
+      "audio": false
+    },
+    "en": {
+      "text": "parcel",
+      "audio": true,
+      "transcription": "ˈpɑ:sl"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "пирог",
+      "audio": false
+    },
+    "en": {
+      "text": "pie",
+      "audio": true,
+      "transcription": "paɪ"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "процесс",
+      "audio": false
+    },
+    "en": {
+      "text": "process",
+      "audio": true,
+      "transcription": "ˈprəʊses"
+    }
+  }
+]

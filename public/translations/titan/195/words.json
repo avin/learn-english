@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "прибытие",
+      "audio": false
+    },
+    "en": {
+      "text": "arrival",
+      "audio": true,
+      "transcription": "əˈraɪvəl"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "закладка, добавлять в закладки",
+      "audio": false
+    },
+    "en": {
+      "text": "bookmark",
+      "audio": true,
+      "transcription": "ˈbʊkˌmɑ:k"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "отдаленно",
+      "audio": false
+    },
+    "en": {
+      "text": "distantly",
+      "audio": true,
+      "transcription": "ˈdɪstəntli"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "увеличить",
+      "audio": false
+    },
+    "en": {
+      "text": "enlarge",
+      "audio": true,
+      "transcription": "ɪnˈlɑ:ʤ"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "проспать",
+      "audio": false
+    },
+    "en": {
+      "text": "oversleep",
+      "audio": true,
+      "transcription": "ˌəʊvəˈsli:p"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "публично",
+      "audio": false
+    },
+    "en": {
+      "text": "publicly",
+      "audio": true,
+      "transcription": "ˈpʌblɪkli"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "отдельный",
+      "audio": false
+    },
+    "en": {
+      "text": "separate",
+      "audio": true,
+      "transcription": "ˈseprɪt"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "ходить на цыпочках",
+      "audio": false
+    },
+    "en": {
+      "text": "tiptoe",
+      "audio": true,
+      "transcription": "ˈtɪptəʊ"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "расширять",
+      "audio": false
+    },
+    "en": {
+      "text": "widen",
+      "audio": true,
+      "transcription": "ˈwaɪdn"
+    }
+  }
+]

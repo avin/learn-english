@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "облачный",
+      "audio": false
+    },
+    "en": {
+      "text": "cloudy",
+      "audio": true,
+      "transcription": "ˈklaʊdi"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "экономный",
+      "audio": false
+    },
+    "en": {
+      "text": "economical",
+      "audio": true,
+      "transcription": "ˌi:kəˈnɒmɪkəl"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "хотя",
+      "audio": false
+    },
+    "en": {
+      "text": "though",
+      "audio": true,
+      "transcription": "ðəʊ"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "башня",
+      "audio": false
+    },
+    "en": {
+      "text": "tower",
+      "audio": true,
+      "transcription": "ˈtaʊə"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "оружие",
+      "audio": false
+    },
+    "en": {
+      "text": "weapon",
+      "audio": true,
+      "transcription": "ˈwepən"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "используемый, привык",
+      "audio": false
+    },
+    "en": {
+      "text": "used",
+      "audio": true,
+      "transcription": "ju:zd"
+    }
+  }
+]

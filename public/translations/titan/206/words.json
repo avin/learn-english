@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "раздражать",
+      "audio": false
+    },
+    "en": {
+      "text": "annoy",
+      "audio": true,
+      "transcription": "əˈnɔɪ"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "конкурент",
+      "audio": false
+    },
+    "en": {
+      "text": "competitor",
+      "audio": true,
+      "transcription": "kəmˈpetɪtə"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "корпорация",
+      "audio": false
+    },
+    "en": {
+      "text": "corporation",
+      "audio": true,
+      "transcription": "ˌkɔ:pəˈreɪʃən"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "объективно",
+      "audio": false
+    },
+    "en": {
+      "text": "objectively",
+      "audio": true,
+      "transcription": "əbˈʤektɪvli"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "одеваться неформально",
+      "audio": false
+    },
+    "en": {
+      "text": "dress down",
+      "audio": true,
+      "transcription": "dres daʊn"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "успокоиться",
+      "audio": false
+    },
+    "en": {
+      "text": "calm down",
+      "audio": true,
+      "transcription": "kɑ:m daʊn"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "остыть",
+      "audio": false
+    },
+    "en": {
+      "text": "cool down",
+      "audio": true,
+      "transcription": "ku:l daʊn"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "зарегистрироваться",
+      "audio": false
+    },
+    "en": {
+      "text": "check in",
+      "audio": true,
+      "transcription": "ʧek ɪn"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "выселяться",
+      "audio": false
+    },
+    "en": {
+      "text": "check out",
+      "audio": true,
+      "transcription": "ʧek aʊt"
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "наряжаться, одеваться формально",
+      "audio": false
+    },
+    "en": {
+      "text": "dress up",
+      "audio": true,
+      "transcription": "dres ʌp"
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "записывать, критиковать",
+      "audio": false
+    },
+    "en": {
+      "text": "put down",
+      "audio": true,
+      "transcription": "pʊt daʊn"
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "поддержать, сохранять",
+      "audio": false
+    },
+    "en": {
+      "text": "back up",
+      "audio": true,
+      "transcription": "bæk ʌp"
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "иметь дело с",
+      "audio": false
+    },
+    "en": {
+      "text": "deal with",
+      "audio": true,
+      "transcription": "di:l wɪð"
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "поглотить",
+      "audio": false
+    },
+    "en": {
+      "text": "take over",
+      "audio": true,
+      "transcription": "teɪk ˈəʊvə"
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "откладывать",
+      "audio": false
+    },
+    "en": {
+      "text": "put aside",
+      "audio": true,
+      "transcription": "pʊt əˈsaɪd"
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "убирать",
+      "audio": false
+    },
+    "en": {
+      "text": "put away",
+      "audio": true,
+      "transcription": "pʊt əˈweɪ"
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "вернуть",
+      "audio": false
+    },
+    "en": {
+      "text": "give back",
+      "audio": true,
+      "transcription": "gɪv bæk"
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "двигаться вперед",
+      "audio": false
+    },
+    "en": {
+      "text": "move forward",
+      "audio": true,
+      "transcription": "mu:v ˈfɔ:wəd"
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "требовать",
+      "audio": false
+    },
+    "en": {
+      "text": "call for",
+      "audio": true,
+      "transcription": "kɔ:l fɔ:"
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "закрыть",
+      "audio": false
+    },
+    "en": {
+      "text": "close down",
+      "audio": true,
+      "transcription": "kləʊs daʊn"
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "идти вместе",
+      "audio": false
+    },
+    "en": {
+      "text": "come along",
+      "audio": true,
+      "transcription": "kʌm əˈlɒŋ"
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "разразиться",
+      "audio": false
+    },
+    "en": {
+      "text": "break out",
+      "audio": true,
+      "transcription": "breɪk aʊt"
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "снизить",
+      "audio": false
+    },
+    "en": {
+      "text": "bring down",
+      "audio": true,
+      "transcription": "brɪŋ daʊn"
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "вызывать",
+      "audio": false
+    },
+    "en": {
+      "text": "bring about",
+      "audio": true,
+      "transcription": "brɪŋ əˈbaʊt"
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "забрать",
+      "audio": false
+    },
+    "en": {
+      "text": "take back",
+      "audio": true,
+      "transcription": "teɪk bæk"
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "просветлеть, скрашивать",
+      "audio": false
+    },
+    "en": {
+      "text": "brighten up",
+      "audio": true,
+      "transcription": "ˈbraɪtn ʌp"
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "ну же",
+      "audio": false
+    },
+    "en": {
+      "text": "come on",
+      "audio": true,
+      "transcription": "kʌm ɒn"
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "застегивать, ремонтировать",
+      "audio": false
+    },
+    "en": {
+      "text": "do up",
+      "audio": true,
+      "transcription": "du: ʌp"
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "возвращаться",
+      "audio": false
+    },
+    "en": {
+      "text": "go back",
+      "audio": true,
+      "transcription": "gəʊ bæk"
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "проходить",
+      "audio": false
+    },
+    "en": {
+      "text": "come through",
+      "audio": true,
+      "transcription": "kʌm θru:"
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "выделять, издавать",
+      "audio": false
+    },
+    "en": {
+      "text": "give off",
+      "audio": true,
+      "transcription": "gɪv ɒf"
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "питаться вне дома",
+      "audio": false
+    },
+    "en": {
+      "text": "eat out",
+      "audio": true,
+      "transcription": "i:t aʊt"
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "выдвинуть",
+      "audio": false
+    },
+    "en": {
+      "text": "bring forward",
+      "audio": true,
+      "transcription": "brɪŋ ˈfɔ:wəd"
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "идти против",
+      "audio": false
+    },
+    "en": {
+      "text": "go against",
+      "audio": true,
+      "transcription": "gəʊ əˈgenst"
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "двигаться дальше",
+      "audio": false
+    },
+    "en": {
+      "text": "move on",
+      "audio": true,
+      "transcription": "mu:v ɒn"
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "обмануть",
+      "audio": false
+    },
+    "en": {
+      "text": "take in",
+      "audio": true,
+      "transcription": "teɪk ɪn"
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "раскрывать",
+      "audio": false
+    },
+    "en": {
+      "text": "open up",
+      "audio": true,
+      "transcription": "ˈəʊpən ʌp"
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "встать на защиту",
+      "audio": false
+    },
+    "en": {
+      "text": "stand up for",
+      "audio": true,
+      "transcription": "stænd ʌp fɔ:"
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "прийти к",
+      "audio": false
+    },
+    "en": {
+      "text": "come to",
+      "audio": true,
+      "transcription": "kʌm tu:"
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "разориться",
+      "audio": false
+    },
+    "en": {
+      "text": "go under",
+      "audio": true,
+      "transcription": "gəʊ ˈʌndə"
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "раздавать",
+      "audio": false
+    },
+    "en": {
+      "text": "give out",
+      "audio": true,
+      "transcription": "gɪv aʊt"
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "не ложиться спать",
+      "audio": false
+    },
+    "en": {
+      "text": "stay up",
+      "audio": true,
+      "transcription": "steɪ ʌp"
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "закрывать",
+      "audio": false
+    },
+    "en": {
+      "text": "shut down",
+      "audio": true,
+      "transcription": "ʃʌt daʊn"
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "натолкнуться",
+      "audio": false
+    },
+    "en": {
+      "text": "come up against",
+      "audio": true,
+      "transcription": "kʌm ʌp əˈgenst"
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "оканчиваться",
+      "audio": false
+    },
+    "en": {
+      "text": "end up",
+      "audio": true,
+      "transcription": "end ʌp"
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "создавать, начинать",
+      "audio": false
+    },
+    "en": {
+      "text": "start up",
+      "audio": true,
+      "transcription": "stɑ:t ʌp"
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "идти вперед",
+      "audio": false
+    },
+    "en": {
+      "text": "go ahead",
+      "audio": true,
+      "transcription": "gəʊ əˈhed"
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "уступить",
+      "audio": false
+    },
+    "en": {
+      "text": "give in",
+      "audio": true,
+      "transcription": "gɪv ɪn"
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "видеть насквозь",
+      "audio": false
+    },
+    "en": {
+      "text": "see through",
+      "audio": true,
+      "transcription": "si: θru:"
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "следовать",
+      "audio": false
+    },
+    "en": {
+      "text": "go after",
+      "audio": true,
+      "transcription": "gəʊ ˈɑ:ftə"
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "вернуть, напоминать",
+      "audio": false
+    },
+    "en": {
+      "text": "bring back",
+      "audio": true,
+      "transcription": "brɪŋ bæk"
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "выходить",
+      "audio": false
+    },
+    "en": {
+      "text": "come out",
+      "audio": true,
+      "transcription": "kʌm aʊt"
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "закончиться",
+      "audio": false
+    },
+    "en": {
+      "text": "end in",
+      "audio": true,
+      "transcription": "end ɪn"
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "взрывать, надувать",
+      "audio": false
+    },
+    "en": {
+      "text": "blow up",
+      "audio": true,
+      "transcription": "bləʊ ʌp"
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "пройти через",
+      "audio": false
+    },
+    "en": {
+      "text": "get through",
+      "audio": true,
+      "transcription": "get θru:"
+    }
+  }
+]

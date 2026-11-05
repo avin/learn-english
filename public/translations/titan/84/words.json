@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "исчезать",
+      "audio": false
+    },
+    "en": {
+      "text": "disappear",
+      "audio": true,
+      "transcription": "ˌdɪsəˈpɪə"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "войти, поступить",
+      "audio": false
+    },
+    "en": {
+      "text": "enter",
+      "audio": true,
+      "transcription": "ˈentə"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "Новый год",
+      "audio": false
+    },
+    "en": {
+      "text": "New Year",
+      "audio": true,
+      "transcription": "nju: jɪə"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "операция",
+      "audio": false
+    },
+    "en": {
+      "text": "operation",
+      "audio": true,
+      "transcription": "ˌɒpəˈreɪʃən"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "отпуск",
+      "audio": false
+    },
+    "en": {
+      "text": "vacation",
+      "audio": true,
+      "transcription": "vəˈkeɪʃən"
+    }
+  }
+]

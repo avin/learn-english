@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "выпекать",
+      "audio": false
+    },
+    "en": {
+      "text": "bake",
+      "audio": true,
+      "transcription": "beɪk"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "лаять",
+      "audio": false
+    },
+    "en": {
+      "text": "bark",
+      "audio": true,
+      "transcription": "bɑ:k"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "хлеб",
+      "audio": false
+    },
+    "en": {
+      "text": "bread",
+      "audio": true,
+      "transcription": "bred"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "прямо, напрямую",
+      "audio": false
+    },
+    "en": {
+      "text": "directly",
+      "audio": true,
+      "transcription": "dɪˈrektli"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "сосиска",
+      "audio": false
+    },
+    "en": {
+      "text": "sausage",
+      "audio": true,
+      "transcription": "ˈsɒsɪʤ"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "стул",
+      "audio": false
+    },
+    "en": {
+      "text": "stool",
+      "audio": true,
+      "transcription": "stu:l"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "галстук",
+      "audio": false
+    },
+    "en": {
+      "text": "tie",
+      "audio": true,
+      "transcription": "taɪ"
+    }
+  }
+]

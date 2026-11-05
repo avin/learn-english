@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "чек",
+      "audio": false
+    },
+    "en": {
+      "text": "cheque",
+      "audio": true,
+      "transcription": "ʧek"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "контекст",
+      "audio": false
+    },
+    "en": {
+      "text": "context",
+      "audio": true,
+      "transcription": "ˈkɒntekst"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "направление",
+      "audio": false
+    },
+    "en": {
+      "text": "direction",
+      "audio": true,
+      "transcription": "dɪˈrekʃən"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "поклонник",
+      "audio": false
+    },
+    "en": {
+      "text": "fan",
+      "audio": true,
+      "transcription": "fæn"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "намереваться",
+      "audio": false
+    },
+    "en": {
+      "text": "intend",
+      "audio": true,
+      "transcription": "ɪnˈtend"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "оставаться",
+      "audio": false
+    },
+    "en": {
+      "text": "remain",
+      "audio": true,
+      "transcription": "rɪˈmeɪn"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "сами",
+      "audio": false
+    },
+    "en": {
+      "text": "themselves",
+      "audio": true,
+      "transcription": "ðəmˈselvz"
+    }
+  }
+]

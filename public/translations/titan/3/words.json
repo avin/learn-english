@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "яблоко",
+      "audio": false
+    },
+    "en": {
+      "text": "apple",
+      "audio": true,
+      "transcription": "ˈæpl"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "мальчик",
+      "audio": false
+    },
+    "en": {
+      "text": "boy",
+      "audio": true,
+      "transcription": "bɔɪ"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "брат",
+      "audio": false
+    },
+    "en": {
+      "text": "brother",
+      "audio": true,
+      "transcription": "ˈbrʌðə"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "автобус",
+      "audio": false
+    },
+    "en": {
+      "text": "bus",
+      "audio": true,
+      "transcription": "bʌs"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "машина",
+      "audio": false
+    },
+    "en": {
+      "text": "car",
+      "audio": true,
+      "transcription": "kɑ:"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "бесплатный, свободный",
+      "audio": false
+    },
+    "en": {
+      "text": "free",
+      "audio": true,
+      "transcription": "fri:"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "девочка, девушка",
+      "audio": false
+    },
+    "en": {
+      "text": "girl",
+      "audio": true,
+      "transcription": "gɜ:l"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "иметь",
+      "audio": false
+    },
+    "en": {
+      "text": "have",
+      "audio": true,
+      "transcription": "hæv"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "отель",
+      "audio": false
+    },
+    "en": {
+      "text": "hotel",
+      "audio": true,
+      "transcription": "həʊˈtel"
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "дом",
+      "audio": false
+    },
+    "en": {
+      "text": "house",
+      "audio": true,
+      "transcription": "haʊs"
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "работа",
+      "audio": false
+    },
+    "en": {
+      "text": "job",
+      "audio": true,
+      "transcription": "ʤɒb"
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "мужчина",
+      "audio": false
+    },
+    "en": {
+      "text": "man",
+      "audio": true,
+      "transcription": "mæn"
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "деньги",
+      "audio": false
+    },
+    "en": {
+      "text": "money",
+      "audio": true,
+      "transcription": "ˈmʌni"
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "один",
+      "audio": false
+    },
+    "en": {
+      "text": "one",
+      "audio": true,
+      "transcription": "wʌn"
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "апельсин",
+      "audio": false
+    },
+    "en": {
+      "text": "orange",
+      "audio": true,
+      "transcription": "ˈɒrɪnʤ"
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "вопрос",
+      "audio": false
+    },
+    "en": {
+      "text": "question",
+      "audio": true,
+      "transcription": "ˈkwesʧən"
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "сестра",
+      "audio": false
+    },
+    "en": {
+      "text": "sister",
+      "audio": true,
+      "transcription": "ˈsɪstə"
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "некоторые, немного",
+      "audio": false
+    },
+    "en": {
+      "text": "some",
+      "audio": true,
+      "transcription": "sʌm"
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "учитель",
+      "audio": false
+    },
+    "en": {
+      "text": "teacher",
+      "audio": true,
+      "transcription": "ˈti:ʧə"
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "время",
+      "audio": false
+    },
+    "en": {
+      "text": "time",
+      "audio": true,
+      "transcription": "taɪm"
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "два",
+      "audio": false
+    },
+    "en": {
+      "text": "two",
+      "audio": true,
+      "transcription": "tu:"
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "университет",
+      "audio": false
+    },
+    "en": {
+      "text": "university",
+      "audio": true,
+      "transcription": "ˌju:nɪˈvɜ:sɪti"
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "женщина",
+      "audio": false
+    },
+    "en": {
+      "text": "woman",
+      "audio": true,
+      "transcription": "ˈwʊmən"
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "твой, ваш",
+      "audio": false
+    },
+    "en": {
+      "text": "your",
+      "audio": true,
+      "transcription": "jɔ:"
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "банк",
+      "audio": false
+    },
+    "en": {
+      "text": "bank",
+      "audio": true,
+      "transcription": "bæŋk"
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "кофе",
+      "audio": false
+    },
+    "en": {
+      "text": "coffee",
+      "audio": true,
+      "transcription": "ˈkɒfi"
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "компьютер",
+      "audio": false
+    },
+    "en": {
+      "text": "computer",
+      "audio": true,
+      "transcription": "kəmˈpju:tə"
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "разные",
+      "audio": false
+    },
+    "en": {
+      "text": "different",
+      "audio": true,
+      "transcription": "ˈdɪfrənt"
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "пить",
+      "audio": false
+    },
+    "en": {
+      "text": "drink",
+      "audio": true,
+      "transcription": "drɪŋk"
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "есть",
+      "audio": false
+    },
+    "en": {
+      "text": "eat",
+      "audio": true,
+      "transcription": "i:t"
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "упражнение",
+      "audio": false
+    },
+    "en": {
+      "text": "exercise",
+      "audio": true,
+      "transcription": "ˈeksəsaɪz"
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "семья",
+      "audio": false
+    },
+    "en": {
+      "text": "family",
+      "audio": true,
+      "transcription": "ˈfæmɪli"
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "рыба",
+      "audio": false
+    },
+    "en": {
+      "text": "fish",
+      "audio": true,
+      "transcription": "fɪʃ"
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "сок",
+      "audio": false
+    },
+    "en": {
+      "text": "juice",
+      "audio": true,
+      "transcription": "ʤu:s"
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "молоко",
+      "audio": false
+    },
+    "en": {
+      "text": "milk",
+      "audio": true,
+      "transcription": "mɪlk"
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "мотивация",
+      "audio": false
+    },
+    "en": {
+      "text": "motivation",
+      "audio": true,
+      "transcription": "ˌməʊtɪˈveɪʃən"
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "прогресс",
+      "audio": false
+    },
+    "en": {
+      "text": "progress",
+      "audio": true,
+      "transcription": "ˈprəʊgrəs"
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "спорт",
+      "audio": false
+    },
+    "en": {
+      "text": "sport",
+      "audio": true,
+      "transcription": "spɔ:t"
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "студент",
+      "audio": false
+    },
+    "en": {
+      "text": "student",
+      "audio": true,
+      "transcription": "ˈstju:dənt"
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "такси",
+      "audio": false
+    },
+    "en": {
+      "text": "taxi",
+      "audio": true,
+      "transcription": "ˈtæksi"
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "чай",
+      "audio": false
+    },
+    "en": {
+      "text": "tea",
+      "audio": true,
+      "transcription": "ti:"
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "вода",
+      "audio": false
+    },
+    "en": {
+      "text": "water",
+      "audio": true,
+      "transcription": "ˈwɔ:tə"
+    }
+  }
+]

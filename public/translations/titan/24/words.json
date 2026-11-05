@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "почти",
+      "audio": false
+    },
+    "en": {
+      "text": "almost",
+      "audio": true,
+      "transcription": "ˈɔ:lməʊst"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "начинать",
+      "audio": false
+    },
+    "en": {
+      "text": "begin",
+      "audio": true,
+      "transcription": "bɪˈgɪn"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "строить",
+      "audio": false
+    },
+    "en": {
+      "text": "build",
+      "audio": true,
+      "transcription": "bɪld"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "дешево",
+      "audio": false
+    },
+    "en": {
+      "text": "cheaply",
+      "audio": true,
+      "transcription": "ˈʧi:pli"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "чашка",
+      "audio": false
+    },
+    "en": {
+      "text": "cup",
+      "audio": true,
+      "transcription": "kʌp"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "легко",
+      "audio": false
+    },
+    "en": {
+      "text": "easily",
+      "audio": true,
+      "transcription": "ˈi:zɪli"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "дорого",
+      "audio": false
+    },
+    "en": {
+      "text": "expensively",
+      "audio": true,
+      "transcription": "ɪksˈpensɪvli"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "быстрее",
+      "audio": false
+    },
+    "en": {
+      "text": "faster",
+      "audio": true,
+      "transcription": "ˈfɑ:stə"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "стакан",
+      "audio": false
+    },
+    "en": {
+      "text": "glass",
+      "audio": true,
+      "transcription": "glɑ:s"
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "товар",
+      "audio": false
+    },
+    "en": {
+      "text": "goods",
+      "audio": true,
+      "transcription": "gʊdz"
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "грамматика",
+      "audio": false
+    },
+    "en": {
+      "text": "grammar",
+      "audio": true,
+      "transcription": "ˈgræmə"
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "ненавидеть",
+      "audio": false
+    },
+    "en": {
+      "text": "hate",
+      "audio": true,
+      "transcription": "heɪt"
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "улучшать",
+      "audio": false
+    },
+    "en": {
+      "text": "improve",
+      "audio": true,
+      "transcription": "ɪmˈpru:v"
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "добрый",
+      "audio": false
+    },
+    "en": {
+      "text": "kind",
+      "audio": true,
+      "transcription": "kaɪnd"
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "аудирование",
+      "audio": false
+    },
+    "en": {
+      "text": "listening",
+      "audio": true,
+      "transcription": "ˈlɪsnɪŋ"
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "утро",
+      "audio": false
+    },
+    "en": {
+      "text": "morning",
+      "audio": true,
+      "transcription": "ˈmɔ:nɪŋ"
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "предложение",
+      "audio": false
+    },
+    "en": {
+      "text": "offer",
+      "audio": true,
+      "transcription": "ˈɒfə"
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "продукт",
+      "audio": false
+    },
+    "en": {
+      "text": "product",
+      "audio": true,
+      "transcription": "ˈprɒdʌkt"
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "редко",
+      "audio": false
+    },
+    "en": {
+      "text": "rarely",
+      "audio": true,
+      "transcription": "ˈreəli"
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "правило",
+      "audio": false
+    },
+    "en": {
+      "text": "rule",
+      "audio": true,
+      "transcription": "ru:l"
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "бегать",
+      "audio": false
+    },
+    "en": {
+      "text": "run",
+      "audio": true,
+      "transcription": "rʌn"
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "слайд",
+      "audio": false
+    },
+    "en": {
+      "text": "slide",
+      "audio": true,
+      "transcription": "slaɪd"
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "скоро",
+      "audio": false
+    },
+    "en": {
+      "text": "soon",
+      "audio": true,
+      "transcription": "su:n"
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "речь",
+      "audio": false
+    },
+    "en": {
+      "text": "speaking",
+      "audio": true,
+      "transcription": "ˈspi:kɪŋ"
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "встать",
+      "audio": false
+    },
+    "en": {
+      "text": "stand up",
+      "audio": true,
+      "transcription": "stænd ʌp"
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "стоять",
+      "audio": false
+    },
+    "en": {
+      "text": "stand",
+      "audio": true,
+      "transcription": "stænd"
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "ждать",
+      "audio": false
+    },
+    "en": {
+      "text": "wait",
+      "audio": true,
+      "transcription": "weɪt"
+    }
+  }
+]

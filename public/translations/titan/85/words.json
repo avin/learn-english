@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "плохо",
+      "audio": false
+    },
+    "en": {
+      "text": "badly",
+      "audio": true,
+      "transcription": "ˈbædli"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "к счастью",
+      "audio": false
+    },
+    "en": {
+      "text": "luckily",
+      "audio": true,
+      "transcription": "ˈlʌkɪli"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "девяносто",
+      "audio": false
+    },
+    "en": {
+      "text": "ninety",
+      "audio": true,
+      "transcription": "ˈnaɪnti"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "ремонтировать",
+      "audio": false
+    },
+    "en": {
+      "text": "repair",
+      "audio": true,
+      "transcription": "rɪˈpeə"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "смехотворный",
+      "audio": false
+    },
+    "en": {
+      "text": "ridiculous",
+      "audio": true,
+      "transcription": "rɪˈdɪkjʊləs"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "великолепный, роскошный",
+      "audio": false
+    },
+    "en": {
+      "text": "splendid",
+      "audio": true,
+      "transcription": "ˈsplendɪd"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "копить",
+      "audio": false
+    },
+    "en": {
+      "text": "save up",
+      "audio": true,
+      "transcription": "seɪv ʌp"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "подходить",
+      "audio": false
+    },
+    "en": {
+      "text": "suit",
+      "audio": true,
+      "transcription": "su:t"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "бронировать",
+      "audio": false
+    },
+    "en": {
+      "text": "book",
+      "audio": true,
+      "transcription": "bʊk"
+    }
+  }
+]

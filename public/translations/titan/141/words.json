@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "дорогой",
+      "audio": false
+    },
+    "en": {
+      "text": "dear",
+      "audio": true,
+      "transcription": "dɪə"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "глобальный",
+      "audio": false
+    },
+    "en": {
+      "text": "global",
+      "audio": true,
+      "transcription": "ˈgləʊbəl"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "противоположный",
+      "audio": false
+    },
+    "en": {
+      "text": "opposite",
+      "audio": true,
+      "transcription": "ˈɒpəzɪt"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "пластик",
+      "audio": false
+    },
+    "en": {
+      "text": "plastic",
+      "audio": true,
+      "transcription": "ˈplæstɪk"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "Советский Союз",
+      "audio": false
+    },
+    "en": {
+      "text": "the Soviet Union",
+      "audio": true,
+      "transcription": "ðə ˈsəʊvɪət ˈju:njən"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "хирургия",
+      "audio": false
+    },
+    "en": {
+      "text": "surgery",
+      "audio": true,
+      "transcription": "ˈsɜ:ʤəri"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "уродливый",
+      "audio": false
+    },
+    "en": {
+      "text": "ugly",
+      "audio": true,
+      "transcription": "ˈʌgli"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "различный",
+      "audio": false
+    },
+    "en": {
+      "text": "various",
+      "audio": true,
+      "transcription": "ˈveərɪəs"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "смысл",
+      "audio": false
+    },
+    "en": {
+      "text": "meaning",
+      "audio": true,
+      "transcription": "ˈmi:nɪŋ"
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "одинокий, один",
+      "audio": false
+    },
+    "en": {
+      "text": "alone",
+      "audio": true,
+      "transcription": "əˈləʊn"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "осень",
+      "audio": false
+    },
+    "en": {
+      "text": "autumn",
+      "audio": true,
+      "transcription": "ˈɔ:təm"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "сад",
+      "audio": false
+    },
+    "en": {
+      "text": "garden",
+      "audio": true,
+      "transcription": "ˈgɑ:dn"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "здоровый",
+      "audio": false
+    },
+    "en": {
+      "text": "healthy",
+      "audio": true,
+      "transcription": "ˈhelθi"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "неэффективный",
+      "audio": false
+    },
+    "en": {
+      "text": "ineffective",
+      "audio": true,
+      "transcription": "ˌɪnɪˈfektɪv"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "карман",
+      "audio": false
+    },
+    "en": {
+      "text": "pocket",
+      "audio": true,
+      "transcription": "ˈpɒkɪt"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "весна",
+      "audio": false
+    },
+    "en": {
+      "text": "spring",
+      "audio": true,
+      "transcription": "sprɪŋ"
+    }
+  }
+]

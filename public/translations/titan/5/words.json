@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "быть",
+      "audio": false
+    },
+    "en": {
+      "text": "be",
+      "audio": true,
+      "transcription": "bi:"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "становиться",
+      "audio": false
+    },
+    "en": {
+      "text": "become",
+      "audio": true,
+      "transcription": "bɪˈkʌm"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "бизнесмен",
+      "audio": false
+    },
+    "en": {
+      "text": "businessman",
+      "audio": true,
+      "transcription": "ˈbɪznɪsmən"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "правильно",
+      "audio": false
+    },
+    "en": {
+      "text": "correctly",
+      "audio": true,
+      "transcription": "kəˈrektli"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "дизайнер",
+      "audio": false
+    },
+    "en": {
+      "text": "designer",
+      "audio": true,
+      "transcription": "dɪˈzaɪnə"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "доктор",
+      "audio": false
+    },
+    "en": {
+      "text": "doctor",
+      "audio": true,
+      "transcription": "ˈdɒktə"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "свободно, бегло",
+      "audio": false
+    },
+    "en": {
+      "text": "fluently",
+      "audio": true,
+      "transcription": "ˈflu:əntli"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "счастливый",
+      "audio": false
+    },
+    "en": {
+      "text": "happy",
+      "audio": true,
+      "transcription": "ˈhæpi"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "ей",
+      "audio": false
+    },
+    "en": {
+      "text": "her",
+      "audio": true,
+      "transcription": "hɜ:"
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "ему",
+      "audio": false
+    },
+    "en": {
+      "text": "him",
+      "audio": true,
+      "transcription": "hɪm"
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "менеджер",
+      "audio": false
+    },
+    "en": {
+      "text": "manager",
+      "audio": true,
+      "transcription": "ˈmænɪʤə"
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "новый",
+      "audio": false
+    },
+    "en": {
+      "text": "new",
+      "audio": true,
+      "transcription": "nju:"
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "сейчас",
+      "audio": false
+    },
+    "en": {
+      "text": "now",
+      "audio": true,
+      "transcription": "naʊ"
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "программист",
+      "audio": false
+    },
+    "en": {
+      "text": "programmer",
+      "audio": true,
+      "transcription": "ˈprəʊgræmə"
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "их, им",
+      "audio": false
+    },
+    "en": {
+      "text": "them",
+      "audio": true,
+      "transcription": "ðem"
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "посещать",
+      "audio": false
+    },
+    "en": {
+      "text": "visit",
+      "audio": true,
+      "transcription": "ˈvɪzɪt"
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "без",
+      "audio": false
+    },
+    "en": {
+      "text": "without",
+      "audio": true,
+      "transcription": "wɪˈðaʊt"
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "бы",
+      "audio": false
+    },
+    "en": {
+      "text": "would",
+      "audio": true,
+      "transcription": "wʊd"
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "за границей",
+      "audio": false
+    },
+    "en": {
+      "text": "abroad",
+      "audio": true,
+      "transcription": "əˈbrɔ:d"
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "Китай",
+      "audio": false
+    },
+    "en": {
+      "text": "China",
+      "audio": true,
+      "transcription": "ˈʧaɪnə"
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Англия",
+      "audio": false
+    },
+    "en": {
+      "text": "England",
+      "audio": true,
+      "transcription": "ˈɪŋglənd"
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "отец",
+      "audio": false
+    },
+    "en": {
+      "text": "father",
+      "audio": true,
+      "transcription": "ˈfɑ:ðə"
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "Германия",
+      "audio": false
+    },
+    "en": {
+      "text": "Germany",
+      "audio": true,
+      "transcription": "ˈʤɜ:məni"
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "его",
+      "audio": false
+    },
+    "en": {
+      "text": "his",
+      "audio": true,
+      "transcription": "hɪz"
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "Италия",
+      "audio": false
+    },
+    "en": {
+      "text": "Italy",
+      "audio": true,
+      "transcription": "ˈɪtəli"
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "Япония",
+      "audio": false
+    },
+    "en": {
+      "text": "Japan",
+      "audio": true,
+      "transcription": "ʤəˈpæn"
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "месяц",
+      "audio": false
+    },
+    "en": {
+      "text": "month",
+      "audio": true,
+      "transcription": "mʌnθ"
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "мама",
+      "audio": false
+    },
+    "en": {
+      "text": "mother",
+      "audio": true,
+      "transcription": "ˈmʌðə"
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "следующий",
+      "audio": false
+    },
+    "en": {
+      "text": "next",
+      "audio": true,
+      "transcription": "nekst"
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "Соединенные Штаты",
+      "audio": false
+    },
+    "en": {
+      "text": "the United States",
+      "audio": true,
+      "transcription": "ðə jʊˈnaɪtɪd steɪts"
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "их",
+      "audio": false
+    },
+    "en": {
+      "text": "their",
+      "audio": true,
+      "transcription": "ðeə"
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "неделя",
+      "audio": false
+    },
+    "en": {
+      "text": "week",
+      "audio": true,
+      "transcription": "wi:k"
+    }
+  }
+]

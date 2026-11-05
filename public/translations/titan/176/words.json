@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "двойной",
+      "audio": false
+    },
+    "en": {
+      "text": "double",
+      "audio": true,
+      "transcription": "ˈdʌbl"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "родной город",
+      "audio": false
+    },
+    "en": {
+      "text": "hometown",
+      "audio": true,
+      "transcription": "ˈhəʊmˈtaʊn"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "стирка",
+      "audio": false
+    },
+    "en": {
+      "text": "laundry",
+      "audio": true,
+      "transcription": "ˈlɔ:ndri"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "времяпровождение",
+      "audio": false
+    },
+    "en": {
+      "text": "pastime",
+      "audio": true,
+      "transcription": "ˈpɑ:staɪm"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "очередь",
+      "audio": false
+    },
+    "en": {
+      "text": "queue",
+      "audio": true,
+      "transcription": "kju:"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "перекус",
+      "audio": false
+    },
+    "en": {
+      "text": "snack",
+      "audio": true,
+      "transcription": "snæk"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "когда-нибудь",
+      "audio": false
+    },
+    "en": {
+      "text": "someday",
+      "audio": true,
+      "transcription": "ˈsʌmˌdeɪ"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "склоняться",
+      "audio": false
+    },
+    "en": {
+      "text": "tend",
+      "audio": true,
+      "transcription": "tend"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "планировать",
+      "audio": false
+    },
+    "en": {
+      "text": "plan",
+      "audio": true,
+      "transcription": "plæn"
+    }
+  }
+]

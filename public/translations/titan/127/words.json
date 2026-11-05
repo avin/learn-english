@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "основа",
+      "audio": false
+    },
+    "en": {
+      "text": "basis",
+      "audio": true,
+      "transcription": "ˈbeɪsɪs"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "взобраться",
+      "audio": false
+    },
+    "en": {
+      "text": "climb",
+      "audio": true,
+      "transcription": "klaɪm"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "снижение, снижаться",
+      "audio": false
+    },
+    "en": {
+      "text": "decrease",
+      "audio": true,
+      "transcription": "ˈdi:kri:s"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "удалить",
+      "audio": false
+    },
+    "en": {
+      "text": "delete",
+      "audio": true,
+      "transcription": "dɪˈli:t"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "удар, ударить ногой",
+      "audio": false
+    },
+    "en": {
+      "text": "kick",
+      "audio": true,
+      "transcription": "kɪk"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "лестница",
+      "audio": false
+    },
+    "en": {
+      "text": "ladder",
+      "audio": true,
+      "transcription": "ˈlædə"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "умножить",
+      "audio": false
+    },
+    "en": {
+      "text": "multiply",
+      "audio": true,
+      "transcription": "ˈmʌltɪplaɪ"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "ненужный",
+      "audio": false
+    },
+    "en": {
+      "text": "unnecessary",
+      "audio": true,
+      "transcription": "ʌnˈnesɪsəri"
+    }
+  }
+]

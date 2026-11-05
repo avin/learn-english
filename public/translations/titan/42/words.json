@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "ванная",
+      "audio": false
+    },
+    "en": {
+      "text": "bathroom",
+      "audio": true,
+      "transcription": "ˈbɑ:θru:m"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "век",
+      "audio": false
+    },
+    "en": {
+      "text": "century",
+      "audio": true,
+      "transcription": "ˈsenʧʊri"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "гостиная",
+      "audio": false
+    },
+    "en": {
+      "text": "living room",
+      "audio": true,
+      "transcription": "ˈlɪvɪŋ ru:m"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "оптимистичный",
+      "audio": false
+    },
+    "en": {
+      "text": "optimistic",
+      "audio": true,
+      "transcription": "ˌɒptɪˈmɪstɪk"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "пессимистический",
+      "audio": false
+    },
+    "en": {
+      "text": "pessimistic",
+      "audio": true,
+      "transcription": "ˌpesɪˈmɪstɪk"
+    }
+  }
+]

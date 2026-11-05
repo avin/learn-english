@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "старший",
+      "audio": false
+    },
+    "en": {
+      "text": "eldest",
+      "audio": true,
+      "transcription": "ˈeldɪst"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "мой",
+      "audio": false
+    },
+    "en": {
+      "text": "mine",
+      "audio": true,
+      "transcription": "maɪn"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "предыдущий",
+      "audio": false
+    },
+    "en": {
+      "text": "previous",
+      "audio": true,
+      "transcription": "ˈpri:viəs"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "сценарий",
+      "audio": false
+    },
+    "en": {
+      "text": "scenario",
+      "audio": true,
+      "transcription": "sɪˈnɑ:rɪəʊ"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "сезон",
+      "audio": false
+    },
+    "en": {
+      "text": "season",
+      "audio": true,
+      "transcription": "ˈsi:zn"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "твой, ваш",
+      "audio": false
+    },
+    "en": {
+      "text": "yours",
+      "audio": true,
+      "transcription": "jɔ:z"
+    }
+  }
+]

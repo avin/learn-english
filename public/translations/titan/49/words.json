@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "велосипед",
+      "audio": false
+    },
+    "en": {
+      "text": "bicycle",
+      "audio": true,
+      "transcription": "ˈbaɪsɪkl"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "масло",
+      "audio": false
+    },
+    "en": {
+      "text": "butter",
+      "audio": true,
+      "transcription": "ˈbʌtə"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "сыр",
+      "audio": false
+    },
+    "en": {
+      "text": "cheese",
+      "audio": true,
+      "transcription": "ʧi:z"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "пустыня",
+      "audio": false
+    },
+    "en": {
+      "text": "desert",
+      "audio": true,
+      "transcription": "ˈdezət"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "осел",
+      "audio": false
+    },
+    "en": {
+      "text": "donkey",
+      "audio": true,
+      "transcription": "ˈdɒŋki"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "яйцо",
+      "audio": false
+    },
+    "en": {
+      "text": "egg",
+      "audio": true,
+      "transcription": "eg"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "рука",
+      "audio": false
+    },
+    "en": {
+      "text": "hand",
+      "audio": true,
+      "transcription": "hænd"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "голова",
+      "audio": false
+    },
+    "en": {
+      "text": "head",
+      "audio": true,
+      "transcription": "hed"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "знания",
+      "audio": false
+    },
+    "en": {
+      "text": "knowledge",
+      "audio": true,
+      "transcription": "ˈnɒlɪʤ"
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "материал",
+      "audio": false
+    },
+    "en": {
+      "text": "material",
+      "audio": true,
+      "transcription": "məˈtɪərɪəl"
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "несколько",
+      "audio": false
+    },
+    "en": {
+      "text": "several",
+      "audio": true,
+      "transcription": "ˈsevrəl"
+    }
+  }
+]

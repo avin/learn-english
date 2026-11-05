@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "в порядке",
+      "audio": false
+    },
+    "en": {
+      "text": "alright",
+      "audio": true,
+      "transcription": "ɔ:lˈraɪt"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "американец, американский",
+      "audio": false
+    },
+    "en": {
+      "text": "American",
+      "audio": true,
+      "transcription": "əˈmerɪkən"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "красивый",
+      "audio": false
+    },
+    "en": {
+      "text": "beautiful",
+      "audio": true,
+      "transcription": "ˈbju:təfʊl"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "опасный",
+      "audio": false
+    },
+    "en": {
+      "text": "dangerous",
+      "audio": true,
+      "transcription": "ˈdeɪnʤrəs"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "сложный, трудный",
+      "audio": false
+    },
+    "en": {
+      "text": "difficult",
+      "audio": true,
+      "transcription": "ˈdɪfɪkəlt"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "легкий",
+      "audio": false
+    },
+    "en": {
+      "text": "easy",
+      "audio": true,
+      "transcription": "ˈi:zi"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "эффективный",
+      "audio": false
+    },
+    "en": {
+      "text": "effective",
+      "audio": true,
+      "transcription": "ɪˈfektɪv"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "восемь",
+      "audio": false
+    },
+    "en": {
+      "text": "eight",
+      "audio": true,
+      "transcription": "eɪt"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "восемнадцать",
+      "audio": false
+    },
+    "en": {
+      "text": "eighteen",
+      "audio": true,
+      "transcription": "ˌeɪˈti:n"
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "хорошо, в порядке",
+      "audio": false
+    },
+    "en": {
+      "text": "fine",
+      "audio": true,
+      "transcription": "faɪn"
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "трудолюбивый",
+      "audio": false
+    },
+    "en": {
+      "text": "hard-working",
+      "audio": true,
+      "transcription": "ˈhɑ:dˌwɜ:kɪŋ"
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "ленивый",
+      "audio": false
+    },
+    "en": {
+      "text": "lazy",
+      "audio": true,
+      "transcription": "ˈleɪzi"
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "женат, замужем",
+      "audio": false
+    },
+    "en": {
+      "text": "married",
+      "audio": true,
+      "transcription": "ˈmærɪd"
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "окей, в порядке",
+      "audio": false
+    },
+    "en": {
+      "text": "OK",
+      "audio": true,
+      "transcription": "ˈəʊˈkeɪ"
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "родители",
+      "audio": false
+    },
+    "en": {
+      "text": "parents",
+      "audio": true,
+      "transcription": "ˈpeərənts"
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "бедный",
+      "audio": false
+    },
+    "en": {
+      "text": "poor",
+      "audio": true,
+      "transcription": "pʊə"
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "возможный",
+      "audio": false
+    },
+    "en": {
+      "text": "possible",
+      "audio": true,
+      "transcription": "ˈpɒsəbl"
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "готов",
+      "audio": false
+    },
+    "en": {
+      "text": "ready",
+      "audio": true,
+      "transcription": "ˈredi"
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "богатый",
+      "audio": false
+    },
+    "en": {
+      "text": "rich",
+      "audio": true,
+      "transcription": "rɪʧ"
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "семьдесят",
+      "audio": false
+    },
+    "en": {
+      "text": "seventy",
+      "audio": true,
+      "transcription": "ˈsevnti"
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "холост",
+      "audio": false
+    },
+    "en": {
+      "text": "single",
+      "audio": true,
+      "transcription": "ˈsɪŋgl"
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "умный",
+      "audio": false
+    },
+    "en": {
+      "text": "smart",
+      "audio": true,
+      "transcription": "smɑ:t"
+    }
+  }
+]

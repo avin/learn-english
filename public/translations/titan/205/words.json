@@ -1,0 +1,398 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "банкнота",
+      "audio": false
+    },
+    "en": {
+      "text": "banknote",
+      "audio": true,
+      "transcription": "ˈbæŋknəʊt"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "бригада",
+      "audio": false
+    },
+    "en": {
+      "text": "brigade",
+      "audio": true,
+      "transcription": "brɪˈgeɪd"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "толпа",
+      "audio": false
+    },
+    "en": {
+      "text": "crowd",
+      "audio": true,
+      "transcription": "kraʊd"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "установка",
+      "audio": false
+    },
+    "en": {
+      "text": "facility",
+      "audio": true,
+      "transcription": "fəˈsɪlɪti"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "провал",
+      "audio": false
+    },
+    "en": {
+      "text": "failure",
+      "audio": true,
+      "transcription": "ˈfeɪljə"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "пожарный",
+      "audio": false
+    },
+    "en": {
+      "text": "firefighter",
+      "audio": true,
+      "transcription": "ˈfaɪəˌfaɪtə"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "грипп",
+      "audio": false
+    },
+    "en": {
+      "text": "flu",
+      "audio": true,
+      "transcription": "flu:"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "невнимательный",
+      "audio": false
+    },
+    "en": {
+      "text": "inattentive",
+      "audio": true,
+      "transcription": "ˌɪnəˈtentɪv"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "неопытность",
+      "audio": false
+    },
+    "en": {
+      "text": "inexperience",
+      "audio": true,
+      "transcription": "ˌɪnɪksˈpɪərɪəns"
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "расследование",
+      "audio": false
+    },
+    "en": {
+      "text": "investigation",
+      "audio": true,
+      "transcription": "ɪnˌvestɪˈgeɪʃən"
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "лень",
+      "audio": false
+    },
+    "en": {
+      "text": "laziness",
+      "audio": true,
+      "transcription": "ˈleɪzɪnɪs"
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "оператор",
+      "audio": false
+    },
+    "en": {
+      "text": "operator",
+      "audio": true,
+      "transcription": "ˈɒpəreɪtə"
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "сбережения",
+      "audio": false
+    },
+    "en": {
+      "text": "savings",
+      "audio": true,
+      "transcription": "ˈseɪvɪŋz"
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "усталость",
+      "audio": false
+    },
+    "en": {
+      "text": "tiredness",
+      "audio": true,
+      "transcription": "ˈtaɪədnəs"
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "непрофессионализм",
+      "audio": false
+    },
+    "en": {
+      "text": "unprofessionalism",
+      "audio": true,
+      "transcription": "ˌʌnprəˈfeʃənlɪzm"
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "проникать в, попасть в",
+      "audio": false
+    },
+    "en": {
+      "text": "get into",
+      "audio": true,
+      "transcription": "get ˈɪntu:"
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "взбодриться",
+      "audio": false
+    },
+    "en": {
+      "text": "cheer up",
+      "audio": true,
+      "transcription": "ʧɪər ʌp"
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "обходиться",
+      "audio": false
+    },
+    "en": {
+      "text": "get by",
+      "audio": true,
+      "transcription": "get baɪ"
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "справиться, выздороветь",
+      "audio": false
+    },
+    "en": {
+      "text": "get over",
+      "audio": true,
+      "transcription": "get ˈəʊvə"
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "убежать, скрыться",
+      "audio": false
+    },
+    "en": {
+      "text": "get away",
+      "audio": true,
+      "transcription": "get əˈweɪ"
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "вырубать",
+      "audio": false
+    },
+    "en": {
+      "text": "cut down",
+      "audio": true,
+      "transcription": "kʌt daʊn"
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "врываться, вломиться",
+      "audio": false
+    },
+    "en": {
+      "text": "break in",
+      "audio": true,
+      "transcription": "breɪk ɪn"
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "вломиться в, вломиться в",
+      "audio": false
+    },
+    "en": {
+      "text": "break into",
+      "audio": true,
+      "transcription": "breɪk ˈɪntu:"
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "проводить",
+      "audio": false
+    },
+    "en": {
+      "text": "carry out",
+      "audio": true,
+      "transcription": "ˈkæri aʊt"
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "выдумать, решить",
+      "audio": false
+    },
+    "en": {
+      "text": "make up",
+      "audio": true,
+      "transcription": "meɪk ʌp"
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "понимать",
+      "audio": false
+    },
+    "en": {
+      "text": "make out",
+      "audio": true,
+      "transcription": "meɪk aʊt"
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "списывать на",
+      "audio": false
+    },
+    "en": {
+      "text": "put down to",
+      "audio": true,
+      "transcription": "pʊt daʊn tu:"
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "выдвигать",
+      "audio": false
+    },
+    "en": {
+      "text": "put forward",
+      "audio": true,
+      "transcription": "pʊt ˈfɔ:wəd"
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "тушить",
+      "audio": false
+    },
+    "en": {
+      "text": "put out",
+      "audio": true,
+      "transcription": "pʊt aʊt"
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "соединять, связаться",
+      "audio": false
+    },
+    "en": {
+      "text": "put through",
+      "audio": true,
+      "transcription": "pʊt θru:"
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "отдавать",
+      "audio": false
+    },
+    "en": {
+      "text": "give away",
+      "audio": true,
+      "transcription": "gɪv əˈweɪ"
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "сократить",
+      "audio": false
+    },
+    "en": {
+      "text": "cut down on",
+      "audio": true,
+      "transcription": "kʌt daʊn ɒn"
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "встать",
+      "audio": false
+    },
+    "en": {
+      "text": "stand up",
+      "audio": true,
+      "transcription": "stænd ʌp"
+    }
+  }
+]

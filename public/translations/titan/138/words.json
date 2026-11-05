@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "аудио",
+      "audio": false
+    },
+    "en": {
+      "text": "audio",
+      "audio": true,
+      "transcription": "ˈɔ:dɪˌəʊ"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "храбрый",
+      "audio": false
+    },
+    "en": {
+      "text": "brave",
+      "audio": true,
+      "transcription": "breɪv"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "жестокий",
+      "audio": false
+    },
+    "en": {
+      "text": "cruel",
+      "audio": true,
+      "transcription": "krʊəl"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "бесстрашный",
+      "audio": false
+    },
+    "en": {
+      "text": "fearless",
+      "audio": true,
+      "transcription": "ˈfɪəlɪs"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "дурак",
+      "audio": false
+    },
+    "en": {
+      "text": "fool",
+      "audio": true,
+      "transcription": "fu:l"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "лжец",
+      "audio": false
+    },
+    "en": {
+      "text": "liar",
+      "audio": true,
+      "transcription": "ˈlaɪə"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "теория",
+      "audio": false
+    },
+    "en": {
+      "text": "theory",
+      "audio": true,
+      "transcription": "ˈθɪəri"
+    }
+  }
+]

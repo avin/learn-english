@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "попытка",
+      "audio": false
+    },
+    "en": {
+      "text": "attempt",
+      "audio": true,
+      "transcription": "əˈtempt"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "загрязнять",
+      "audio": false
+    },
+    "en": {
+      "text": "pollute",
+      "audio": true,
+      "transcription": "pəˈlu:t"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "доказательство",
+      "audio": false
+    },
+    "en": {
+      "text": "proof",
+      "audio": true,
+      "transcription": "pru:f"
+    }
+  }
+]

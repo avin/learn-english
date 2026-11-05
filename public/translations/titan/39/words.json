@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "банан",
+      "audio": false
+    },
+    "en": {
+      "text": "banana",
+      "audio": true,
+      "transcription": "bəˈnɑ:nə"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "пиво",
+      "audio": false
+    },
+    "en": {
+      "text": "beer",
+      "audio": true,
+      "transcription": "bɪə"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "копия",
+      "audio": false
+    },
+    "en": {
+      "text": "copy",
+      "audio": true,
+      "transcription": "ˈkɒpi"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "письменный стол",
+      "audio": false
+    },
+    "en": {
+      "text": "desk",
+      "audio": true,
+      "transcription": "desk"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "падать",
+      "audio": false
+    },
+    "en": {
+      "text": "fall",
+      "audio": true,
+      "transcription": "fɔ:l"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "кило",
+      "audio": false
+    },
+    "en": {
+      "text": "kilo",
+      "audio": true,
+      "transcription": "ˈki:ləʊ"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "бумага",
+      "audio": false
+    },
+    "en": {
+      "text": "paper",
+      "audio": true,
+      "transcription": "ˈpeɪpə"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "картошка",
+      "audio": false
+    },
+    "en": {
+      "text": "potatoes",
+      "audio": true,
+      "transcription": "pəˈteɪtəʊz"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "затем",
+      "audio": false
+    },
+    "en": {
+      "text": "then",
+      "audio": true,
+      "transcription": "ðen"
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "дерево",
+      "audio": false
+    },
+    "en": {
+      "text": "tree",
+      "audio": true,
+      "transcription": "tri:"
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "вино",
+      "audio": false
+    },
+    "en": {
+      "text": "wine",
+      "audio": true,
+      "transcription": "waɪn"
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "слишком",
+      "audio": false
+    },
+    "en": {
+      "text": "too",
+      "audio": true,
+      "transcription": "tu:"
+    }
+  }
+]

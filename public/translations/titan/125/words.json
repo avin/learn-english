@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "блог",
+      "audio": false
+    },
+    "en": {
+      "text": "blog",
+      "audio": true,
+      "transcription": "blɒg"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "жечь",
+      "audio": false
+    },
+    "en": {
+      "text": "burn",
+      "audio": true,
+      "transcription": "bɜ:n"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "совершить",
+      "audio": false
+    },
+    "en": {
+      "text": "commit",
+      "audio": true,
+      "transcription": "kəˈmɪt"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "десерт",
+      "audio": false
+    },
+    "en": {
+      "text": "dessert",
+      "audio": true,
+      "transcription": "dɪˈzɜ:t"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "пожар, огонь",
+      "audio": false
+    },
+    "en": {
+      "text": "fire",
+      "audio": true,
+      "transcription": "ˈfaɪə"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "хозяин",
+      "audio": false
+    },
+    "en": {
+      "text": "host",
+      "audio": true,
+      "transcription": "həʊst"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "меню",
+      "audio": false
+    },
+    "en": {
+      "text": "menu",
+      "audio": true,
+      "transcription": "ˈmenju:"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "нет",
+      "audio": false
+    },
+    "en": {
+      "text": "No",
+      "audio": true,
+      "transcription": "nəʊ"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "салат",
+      "audio": false
+    },
+    "en": {
+      "text": "salad",
+      "audio": true,
+      "transcription": "ˈsæləd"
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "соленый",
+      "audio": false
+    },
+    "en": {
+      "text": "salty",
+      "audio": true,
+      "transcription": "ˈsɔ:lti"
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "да",
+      "audio": false
+    },
+    "en": {
+      "text": "Yes",
+      "audio": true,
+      "transcription": "jes"
+    }
+  }
+]

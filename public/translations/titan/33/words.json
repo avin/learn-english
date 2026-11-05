@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "решать",
+      "audio": false
+    },
+    "en": {
+      "text": "decide",
+      "audio": true,
+      "transcription": "dɪˈsaɪd"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "раньше",
+      "audio": false
+    },
+    "en": {
+      "text": "earlier",
+      "audio": true,
+      "transcription": "ˈɜ:lɪə"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "свитер",
+      "audio": false
+    },
+    "en": {
+      "text": "sweater",
+      "audio": true,
+      "transcription": "ˈswetə"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "зима",
+      "audio": false
+    },
+    "en": {
+      "text": "winter",
+      "audio": true,
+      "transcription": "ˈwɪntə"
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "одиннадцать",
+      "audio": false
+    },
+    "en": {
+      "text": "eleven",
+      "audio": true,
+      "transcription": "ɪˈlevn"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "шляпа",
+      "audio": false
+    },
+    "en": {
+      "text": "hat",
+      "audio": true,
+      "transcription": "hæt"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "держать",
+      "audio": false
+    },
+    "en": {
+      "text": "hold",
+      "audio": true,
+      "transcription": "həʊld"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "войти в систему",
+      "audio": false
+    },
+    "en": {
+      "text": "log in",
+      "audio": true,
+      "transcription": "lɒg ɪn"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "выйти из системы",
+      "audio": false
+    },
+    "en": {
+      "text": "log out",
+      "audio": true,
+      "transcription": "lɒg aʊt"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "брак",
+      "audio": false
+    },
+    "en": {
+      "text": "marriage",
+      "audio": true,
+      "transcription": "ˈmærɪʤ"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "футболка",
+      "audio": false
+    },
+    "en": {
+      "text": "T-shirt",
+      "audio": true,
+      "transcription": "ˈti:ʃɜ:t"
+    }
+  }
+]

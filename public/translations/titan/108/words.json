@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "рынок",
+      "audio": false
+    },
+    "en": {
+      "text": "market",
+      "audio": true,
+      "transcription": "ˈmɑ:kɪt"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "пульт дистанционного управления",
+      "audio": false
+    },
+    "en": {
+      "text": "remote control",
+      "audio": true,
+      "transcription": "rɪˈməʊt kənˈtrəʊl"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "шесть",
+      "audio": false
+    },
+    "en": {
+      "text": "six",
+      "audio": true,
+      "transcription": "sɪks"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "где-то",
+      "audio": false
+    },
+    "en": {
+      "text": "somewhere",
+      "audio": true,
+      "transcription": "ˈsʌmweə"
+    }
+  }
+]

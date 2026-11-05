@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "отсутствие",
+      "audio": false
+    },
+    "en": {
+      "text": "absence",
+      "audio": true,
+      "transcription": "ˈæbsəns"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "фестиваль",
+      "audio": false
+    },
+    "en": {
+      "text": "festival",
+      "audio": true,
+      "transcription": "ˈfestəvəl"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "потенциальный",
+      "audio": false
+    },
+    "en": {
+      "text": "potential",
+      "audio": true,
+      "transcription": "pəʊˈtenʃəl"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "угроза",
+      "audio": false
+    },
+    "en": {
+      "text": "threat",
+      "audio": true,
+      "transcription": "θret"
+    }
+  }
+]

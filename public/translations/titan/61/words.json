@@ -1,0 +1,374 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "агентство",
+      "audio": false
+    },
+    "en": {
+      "text": "agency",
+      "audio": true,
+      "transcription": "ˈeɪʤənsi"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "поведение",
+      "audio": false
+    },
+    "en": {
+      "text": "behaviour",
+      "audio": true,
+      "transcription": "bɪˈheɪvjə"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "одноклассник",
+      "audio": false
+    },
+    "en": {
+      "text": "classmate",
+      "audio": true,
+      "transcription": "ˈklɑ:smeɪt"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "клиент",
+      "audio": false
+    },
+    "en": {
+      "text": "client",
+      "audio": true,
+      "transcription": "ˈklaɪənt"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "удобный",
+      "audio": false
+    },
+    "en": {
+      "text": "comfortable",
+      "audio": true,
+      "transcription": "ˈkʌmftəbl"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "жаловаться",
+      "audio": false
+    },
+    "en": {
+      "text": "complain",
+      "audio": true,
+      "transcription": "kəmˈpleɪn"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "состояние",
+      "audio": false
+    },
+    "en": {
+      "text": "condition",
+      "audio": true,
+      "transcription": "kənˈdɪʃən"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "рассматривать",
+      "audio": false
+    },
+    "en": {
+      "text": "consider",
+      "audio": true,
+      "transcription": "kənˈsɪdə"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "дизайн",
+      "audio": false
+    },
+    "en": {
+      "text": "design",
+      "audio": true,
+      "transcription": "dɪˈzaɪn"
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "работник",
+      "audio": false
+    },
+    "en": {
+      "text": "employee",
+      "audio": true,
+      "transcription": "ˌemplɔɪˈi:"
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "существовать",
+      "audio": false
+    },
+    "en": {
+      "text": "exist",
+      "audio": true,
+      "transcription": "ɪgˈzɪst"
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "одногруппник",
+      "audio": false
+    },
+    "en": {
+      "text": "groupmate",
+      "audio": true,
+      "transcription": "gru:pmeɪt"
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "инвестировать",
+      "audio": false
+    },
+    "en": {
+      "text": "invest",
+      "audio": true,
+      "transcription": "ɪnˈvest"
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "инвестор",
+      "audio": false
+    },
+    "en": {
+      "text": "investor",
+      "audio": true,
+      "transcription": "ɪnˈvestə"
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "иметь значение",
+      "audio": false
+    },
+    "en": {
+      "text": "matter",
+      "audio": true,
+      "transcription": "ˈmætə"
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "переплачивать",
+      "audio": false
+    },
+    "en": {
+      "text": "overpay",
+      "audio": true,
+      "transcription": "ˌəʊvəˈpeɪ"
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "идеальный",
+      "audio": false
+    },
+    "en": {
+      "text": "perfect",
+      "audio": true,
+      "transcription": "ˈpɜ:fɪkt"
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "прибыль",
+      "audio": false
+    },
+    "en": {
+      "text": "profit",
+      "audio": true,
+      "transcription": "ˈprɒfɪt"
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "качество",
+      "audio": false
+    },
+    "en": {
+      "text": "quality",
+      "audio": true,
+      "transcription": "ˈkwɒlɪti"
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "надежный",
+      "audio": false
+    },
+    "en": {
+      "text": "reliable",
+      "audio": true,
+      "transcription": "rɪˈlaɪəbl"
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "робот",
+      "audio": false
+    },
+    "en": {
+      "text": "robot",
+      "audio": true,
+      "transcription": "ˈrəʊbɒt"
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "продажи",
+      "audio": false
+    },
+    "en": {
+      "text": "sales",
+      "audio": true,
+      "transcription": "seɪlz"
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "удовлетворение",
+      "audio": false
+    },
+    "en": {
+      "text": "satisfaction",
+      "audio": true,
+      "transcription": "ˌsætɪsˈfækʃən"
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "наука",
+      "audio": false
+    },
+    "en": {
+      "text": "science",
+      "audio": true,
+      "transcription": "ˈsaɪəns"
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "серьезно",
+      "audio": false
+    },
+    "en": {
+      "text": "seriously",
+      "audio": true,
+      "transcription": "ˈsɪərɪəsli"
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "рубашка",
+      "audio": false
+    },
+    "en": {
+      "text": "shirt",
+      "audio": true,
+      "transcription": "ʃɜ:t"
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "размер",
+      "audio": false
+    },
+    "en": {
+      "text": "size",
+      "audio": true,
+      "transcription": "saɪz"
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "юбка",
+      "audio": false
+    },
+    "en": {
+      "text": "skirt",
+      "audio": true,
+      "transcription": "skɜ:t"
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "удивительный",
+      "audio": false
+    },
+    "en": {
+      "text": "surprising",
+      "audio": true,
+      "transcription": "səˈpraɪzɪŋ"
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "турист",
+      "audio": false
+    },
+    "en": {
+      "text": "tourist",
+      "audio": true,
+      "transcription": "ˈtʊərɪst"
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "взвешивать",
+      "audio": false
+    },
+    "en": {
+      "text": "weigh",
+      "audio": true,
+      "transcription": "weɪ"
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "бить",
+      "audio": false
+    },
+    "en": {
+      "text": "beat",
+      "audio": true,
+      "transcription": "bi:t"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "звонок",
+      "audio": false
+    },
+    "en": {
+      "text": "bell",
+      "audio": true,
+      "transcription": "bel"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "концентрация",
+      "audio": false
+    },
+    "en": {
+      "text": "concentration",
+      "audio": true,
+      "transcription": "ˌkɒnsənˈtreɪʃən"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "невероятно",
+      "audio": false
+    },
+    "en": {
+      "text": "incredibly",
+      "audio": true,
+      "transcription": "ɪnˈkredəbli"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "дворец",
+      "audio": false
+    },
+    "en": {
+      "text": "palace",
+      "audio": true,
+      "transcription": "ˈpælɪs"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "терпение",
+      "audio": false
+    },
+    "en": {
+      "text": "patience",
+      "audio": true,
+      "transcription": "ˈpeɪʃəns"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "кошелек",
+      "audio": false
+    },
+    "en": {
+      "text": "purse",
+      "audio": true,
+      "transcription": "pɜ:s"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "телевидение",
+      "audio": false
+    },
+    "en": {
+      "text": "television",
+      "audio": true,
+      "transcription": "ˈtelɪˌvɪʒən"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "форма",
+      "audio": false
+    },
+    "en": {
+      "text": "uniform",
+      "audio": true,
+      "transcription": "ˈju:nɪfɔ:m"
+    }
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "бухгалтер",
+      "audio": false
+    },
+    "en": {
+      "text": "accountant",
+      "audio": true,
+      "transcription": "əˈkaʊntənt"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "спальня",
+      "audio": false
+    },
+    "en": {
+      "text": "bedroom",
+      "audio": true,
+      "transcription": "ˈbedru:m"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "яркий",
+      "audio": false
+    },
+    "en": {
+      "text": "bright",
+      "audio": true,
+      "transcription": "braɪt"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "шахматы",
+      "audio": false
+    },
+    "en": {
+      "text": "chess",
+      "audio": true,
+      "transcription": "ʧes"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "колледж",
+      "audio": false
+    },
+    "en": {
+      "text": "college",
+      "audio": true,
+      "transcription": "ˈkɒlɪʤ"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "комментарий",
+      "audio": false
+    },
+    "en": {
+      "text": "comment",
+      "audio": true,
+      "transcription": "ˈkɒment"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "разочарованный",
+      "audio": false
+    },
+    "en": {
+      "text": "disappointed",
+      "audio": true,
+      "transcription": "ˌdɪsəˈpɔɪntɪd"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "дайвинг",
+      "audio": false
+    },
+    "en": {
+      "text": "diving",
+      "audio": true,
+      "transcription": "ˈdaɪvɪŋ"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "рисование",
+      "audio": false
+    },
+    "en": {
+      "text": "drawing",
+      "audio": true,
+      "transcription": "ˈdrɔ:ɪŋ"
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "эпизод",
+      "audio": false
+    },
+    "en": {
+      "text": "episode",
+      "audio": true,
+      "transcription": "ˈepɪsəʊd"
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "выражение",
+      "audio": false
+    },
+    "en": {
+      "text": "expression",
+      "audio": true,
+      "transcription": "ɪksˈpreʃən"
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "пятнадцать",
+      "audio": false
+    },
+    "en": {
+      "text": "fifteen",
+      "audio": true,
+      "transcription": "ˈfɪfˈti:n"
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "садоводство",
+      "audio": false
+    },
+    "en": {
+      "text": "gardening",
+      "audio": true,
+      "transcription": "ˈgɑ:dnɪŋ"
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "гениальный",
+      "audio": false
+    },
+    "en": {
+      "text": "genius",
+      "audio": true,
+      "transcription": "ˈʤi:niəs"
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "тяжелый",
+      "audio": false
+    },
+    "en": {
+      "text": "heavy",
+      "audio": true,
+      "transcription": "ˈhevi"
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "хобби",
+      "audio": false
+    },
+    "en": {
+      "text": "hobby",
+      "audio": true,
+      "transcription": "ˈhɒbi"
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "юмор",
+      "audio": false
+    },
+    "en": {
+      "text": "humour",
+      "audio": true,
+      "transcription": "ˈhju:mə"
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "куртка",
+      "audio": false
+    },
+    "en": {
+      "text": "jacket",
+      "audio": true,
+      "transcription": "ˈʤækɪt"
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "лампа",
+      "audio": false
+    },
+    "en": {
+      "text": "lamp",
+      "audio": true,
+      "transcription": "læmp"
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "обучение",
+      "audio": false
+    },
+    "en": {
+      "text": "learning",
+      "audio": true,
+      "transcription": "ˈlɜ:nɪŋ"
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "лекция",
+      "audio": false
+    },
+    "en": {
+      "text": "lecture",
+      "audio": true,
+      "transcription": "ˈlekʧə"
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "главный",
+      "audio": false
+    },
+    "en": {
+      "text": "main",
+      "audio": true,
+      "transcription": "meɪn"
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "медсестра",
+      "audio": false
+    },
+    "en": {
+      "text": "nurse",
+      "audio": true,
+      "transcription": "nɜ:s"
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "тюрьма",
+      "audio": false
+    },
+    "en": {
+      "text": "prison",
+      "audio": true,
+      "transcription": "ˈprɪzn"
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "ресурс",
+      "audio": false
+    },
+    "en": {
+      "text": "resource",
+      "audio": true,
+      "transcription": "rɪˈsɔ:s"
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "чувство",
+      "audio": false
+    },
+    "en": {
+      "text": "sense",
+      "audio": true,
+      "transcription": "sens"
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "шокированный",
+      "audio": false
+    },
+    "en": {
+      "text": "shocked",
+      "audio": true,
+      "transcription": "ʃɒkt"
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "катание на лыжах",
+      "audio": false
+    },
+    "en": {
+      "text": "skiing",
+      "audio": true,
+      "transcription": "ˈski:ɪŋ"
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "костюм",
+      "audio": false
+    },
+    "en": {
+      "text": "suit",
+      "audio": true,
+      "transcription": "sju:t"
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "удивленный",
+      "audio": false
+    },
+    "en": {
+      "text": "surprised",
+      "audio": true,
+      "transcription": "səˈpraɪzd"
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "вкус",
+      "audio": false
+    },
+    "en": {
+      "text": "taste",
+      "audio": true,
+      "transcription": "teɪst"
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "вор",
+      "audio": false
+    },
+    "en": {
+      "text": "thief",
+      "audio": true,
+      "transcription": "θi:f"
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "полотенце",
+      "audio": false
+    },
+    "en": {
+      "text": "towel",
+      "audio": true,
+      "transcription": "ˈtaʊəl"
+    }
+  }
+]

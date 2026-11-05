@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "приглашать",
+      "audio": false
+    },
+    "en": {
+      "text": "invite",
+      "audio": true,
+      "transcription": "ɪnˈvaɪt"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "одалживать",
+      "audio": false
+    },
+    "en": {
+      "text": "lend",
+      "audio": true,
+      "transcription": "lend"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "возможность",
+      "audio": false
+    },
+    "en": {
+      "text": "opportunity",
+      "audio": true,
+      "transcription": "ˌɒpəˈtju:nɪti"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "пикник",
+      "audio": false
+    },
+    "en": {
+      "text": "picnic",
+      "audio": true,
+      "transcription": "ˈpɪknɪk"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "подготовить",
+      "audio": false
+    },
+    "en": {
+      "text": "prepare",
+      "audio": true,
+      "transcription": "prɪˈpeə"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "возвращаться",
+      "audio": false
+    },
+    "en": {
+      "text": "return",
+      "audio": true,
+      "transcription": "rɪˈtɜ:n"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "выходные",
+      "audio": false
+    },
+    "en": {
+      "text": "weekend",
+      "audio": true,
+      "transcription": "ˈwi:kˈend"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "зоопарк",
+      "audio": false
+    },
+    "en": {
+      "text": "zoo",
+      "audio": true,
+      "transcription": "zu:"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "прогулка",
+      "audio": false
+    },
+    "en": {
+      "text": "walk",
+      "audio": true,
+      "transcription": "wɔ:k"
+    }
+  }
+]

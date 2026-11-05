@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "босс",
+      "audio": false
+    },
+    "en": {
+      "text": "boss",
+      "audio": true,
+      "transcription": "bɒs"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "осторожно",
+      "audio": false
+    },
+    "en": {
+      "text": "carefully",
+      "audio": true,
+      "transcription": "ˈkeəfli"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "кредитная карта",
+      "audio": false
+    },
+    "en": {
+      "text": "credit card",
+      "audio": true,
+      "transcription": "ˈkredɪt kɑ:d"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "старшая сестра",
+      "audio": false
+    },
+    "en": {
+      "text": "elder sister",
+      "audio": true,
+      "transcription": "ˈeldə ˈsɪstə"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "следующий",
+      "audio": false
+    },
+    "en": {
+      "text": "following",
+      "audio": true,
+      "transcription": "ˈfɒləʊɪŋ"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "фрилансер",
+      "audio": false
+    },
+    "en": {
+      "text": "freelancer",
+      "audio": true,
+      "transcription": "ˈfri:ˌlɑ:nsə"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "значительно, очень сильно",
+      "audio": false
+    },
+    "en": {
+      "text": "greatly",
+      "audio": true,
+      "transcription": "ˈgreɪtli"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "вешать",
+      "audio": false
+    },
+    "en": {
+      "text": "hang",
+      "audio": true,
+      "transcription": "hæŋ"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "вдохновлять",
+      "audio": false
+    },
+    "en": {
+      "text": "inspire",
+      "audio": true,
+      "transcription": "ɪnˈspaɪə"
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "прерывать",
+      "audio": false
+    },
+    "en": {
+      "text": "interrupt",
+      "audio": true,
+      "transcription": "ˌɪntəˈrʌpt"
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "много",
+      "audio": false
+    },
+    "en": {
+      "text": "lots of",
+      "audio": true,
+      "transcription": "lɒts ɒv"
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "мнение",
+      "audio": false
+    },
+    "en": {
+      "text": "opinion",
+      "audio": true,
+      "transcription": "əˈpɪnjən"
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "другие",
+      "audio": false
+    },
+    "en": {
+      "text": "others",
+      "audio": true,
+      "transcription": "ˈʌðəz"
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "пациент",
+      "audio": false
+    },
+    "en": {
+      "text": "patient",
+      "audio": true,
+      "transcription": "ˈpeɪʃənt"
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "картина",
+      "audio": false
+    },
+    "en": {
+      "text": "picture",
+      "audio": true,
+      "transcription": "ˈpɪkʧə"
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "плакат",
+      "audio": false
+    },
+    "en": {
+      "text": "poster",
+      "audio": true,
+      "transcription": "ˈpəʊstə"
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "продажа, распродажа",
+      "audio": false
+    },
+    "en": {
+      "text": "sale",
+      "audio": true,
+      "transcription": "seɪl"
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "обувь",
+      "audio": false
+    },
+    "en": {
+      "text": "shoes",
+      "audio": true,
+      "transcription": "ʃu:z"
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "магазин",
+      "audio": false
+    },
+    "en": {
+      "text": "store",
+      "audio": true,
+      "transcription": "stɔ:"
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "интернет-магазин",
+      "audio": false
+    },
+    "en": {
+      "text": "online store",
+      "audio": true,
+      "transcription": "ˈɒnˌlaɪn stɔ:"
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "такой",
+      "audio": false
+    },
+    "en": {
+      "text": "such",
+      "audio": true,
+      "transcription": "sʌʧ"
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "подросток",
+      "audio": false
+    },
+    "en": {
+      "text": "teenager",
+      "audio": true,
+      "transcription": "ˈti:nˌeɪʤə"
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "ветеринар",
+      "audio": false
+    },
+    "en": {
+      "text": "vet",
+      "audio": true,
+      "transcription": "vet"
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "стена",
+      "audio": false
+    },
+    "en": {
+      "text": "wall",
+      "audio": true,
+      "transcription": "wɔ:l"
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "путь",
+      "audio": false
+    },
+    "en": {
+      "text": "way",
+      "audio": true,
+      "transcription": "weɪ"
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "слабый",
+      "audio": false
+    },
+    "en": {
+      "text": "weak",
+      "audio": true,
+      "transcription": "wi:k"
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "младший брат",
+      "audio": false
+    },
+    "en": {
+      "text": "younger brother",
+      "audio": true,
+      "transcription": "ˈjʌŋə ˈbrʌðə"
+    }
+  }
+]

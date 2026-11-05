@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "средний",
+      "audio": false
+    },
+    "en": {
+      "text": "average",
+      "audio": true,
+      "transcription": "ˈævərɪʤ"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "либо",
+      "audio": false
+    },
+    "en": {
+      "text": "either",
+      "audio": true,
+      "transcription": "ˈaɪðə"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "никто",
+      "audio": false
+    },
+    "en": {
+      "text": "neither",
+      "audio": true,
+      "transcription": "ˈnaɪðə"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "ни один",
+      "audio": false
+    },
+    "en": {
+      "text": "none",
+      "audio": true,
+      "transcription": "nʌn"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "ни",
+      "audio": false
+    },
+    "en": {
+      "text": "nor",
+      "audio": true,
+      "transcription": "nɔ:"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "просто",
+      "audio": false
+    },
+    "en": {
+      "text": "simply",
+      "audio": true,
+      "transcription": "ˈsɪmpli"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "кто-то",
+      "audio": false
+    },
+    "en": {
+      "text": "somebody",
+      "audio": true,
+      "transcription": "ˈsʌmbədi"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "только что",
+      "audio": false
+    },
+    "en": {
+      "text": "just",
+      "audio": true,
+      "transcription": "ʤʌst"
+    }
+  }
+]

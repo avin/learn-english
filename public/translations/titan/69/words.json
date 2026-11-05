@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "полностью",
+      "audio": false
+    },
+    "en": {
+      "text": "completely",
+      "audio": true,
+      "transcription": "kəmˈpli:tli"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "рискованный",
+      "audio": false
+    },
+    "en": {
+      "text": "risky",
+      "audio": true,
+      "transcription": "ˈrɪski"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "интерес",
+      "audio": false
+    },
+    "en": {
+      "text": "interest",
+      "audio": true,
+      "transcription": "ˈɪntrɪst"
+    }
+  }
+]

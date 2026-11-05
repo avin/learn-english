@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "боль",
+      "audio": false
+    },
+    "en": {
+      "text": "ache",
+      "audio": true,
+      "transcription": "eɪk"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "лодыжка",
+      "audio": false
+    },
+    "en": {
+      "text": "ankle",
+      "audio": true,
+      "transcription": "ˈæŋkl"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "спорить",
+      "audio": false
+    },
+    "en": {
+      "text": "argue",
+      "audio": true,
+      "transcription": "ˈɑ:gju:"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "спящий",
+      "audio": false
+    },
+    "en": {
+      "text": "asleep",
+      "audio": true,
+      "transcription": "əˈsli:p"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "птица",
+      "audio": false
+    },
+    "en": {
+      "text": "bird",
+      "audio": true,
+      "transcription": "bɜ:d"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "пересказывать",
+      "audio": false
+    },
+    "en": {
+      "text": "retell",
+      "audio": true,
+      "transcription": "ˌri:ˈtel"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "кататься на роликах",
+      "audio": false
+    },
+    "en": {
+      "text": "rollerblading",
+      "audio": true,
+      "transcription": "ˈrəʊləˌbleɪdɪŋ"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "скейтбординг",
+      "audio": false
+    },
+    "en": {
+      "text": "skateboarding",
+      "audio": true,
+      "transcription": "ˈskeɪtbɔ:dɪŋ"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "резюме, краткое сложение",
+      "audio": false
+    },
+    "en": {
+      "text": "summary",
+      "audio": true,
+      "transcription": "ˈsʌməri"
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "в то время как",
+      "audio": false
+    },
+    "en": {
+      "text": "while",
+      "audio": true,
+      "transcription": "waɪl"
+    }
+  }
+]

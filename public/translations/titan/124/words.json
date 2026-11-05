@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "одобрение",
+      "audio": false
+    },
+    "en": {
+      "text": "approval",
+      "audio": true,
+      "transcription": "əˈpru:vəl"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "пока",
+      "audio": false
+    },
+    "en": {
+      "text": "Bye",
+      "audio": true,
+      "transcription": "baɪ"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "до свидания",
+      "audio": false
+    },
+    "en": {
+      "text": "Goodbye",
+      "audio": true,
+      "transcription": "gʊdˈbaɪ"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "привет",
+      "audio": false
+    },
+    "en": {
+      "text": "Hello",
+      "audio": true,
+      "transcription": "heˈləʊ"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "привет",
+      "audio": false
+    },
+    "en": {
+      "text": "Hi",
+      "audio": true,
+      "transcription": "haɪ"
+    }
+  }
+]

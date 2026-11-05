@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "фильм",
+      "audio": false
+    },
+    "en": {
+      "text": "film",
+      "audio": true,
+      "transcription": "fɪlm"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "лотерея",
+      "audio": false
+    },
+    "en": {
+      "text": "lottery",
+      "audio": true,
+      "transcription": "ˈlɒtəri"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "секретарь",
+      "audio": false
+    },
+    "en": {
+      "text": "receptionist",
+      "audio": true,
+      "transcription": "rɪˈsepʃənɪst"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "персонал",
+      "audio": false
+    },
+    "en": {
+      "text": "staff",
+      "audio": true,
+      "transcription": "stɑ:f"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "суши",
+      "audio": false
+    },
+    "en": {
+      "text": "sushi",
+      "audio": true,
+      "transcription": "ˈsʊʃi"
+    }
+  }
+]

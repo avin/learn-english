@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "случай",
+      "audio": false
+    },
+    "en": {
+      "text": "case",
+      "audio": true,
+      "transcription": "keɪs"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "подтверждать",
+      "audio": false
+    },
+    "en": {
+      "text": "confirm",
+      "audio": true,
+      "transcription": "kənˈfɜ:m"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "дата",
+      "audio": false
+    },
+    "en": {
+      "text": "date",
+      "audio": true,
+      "transcription": "deɪt"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "разведенный",
+      "audio": false
+    },
+    "en": {
+      "text": "divorced",
+      "audio": true,
+      "transcription": "dɪˈvɔ:st"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "увеличение, увеличить",
+      "audio": false
+    },
+    "en": {
+      "text": "increase",
+      "audio": true,
+      "transcription": "ˈɪnkri:s"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "неудобный",
+      "audio": false
+    },
+    "en": {
+      "text": "uncomfortable",
+      "audio": true,
+      "transcription": "ʌnˈkʌmfətəbl"
+    }
+  }
+]

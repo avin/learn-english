@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "за",
+      "audio": false
+    },
+    "en": {
+      "text": "behind",
+      "audio": true,
+      "transcription": "bɪˈhaɪnd"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "классная комната",
+      "audio": false
+    },
+    "en": {
+      "text": "classroom",
+      "audio": true,
+      "transcription": "ˈklɑ:srʊm"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "угол",
+      "audio": false
+    },
+    "en": {
+      "text": "corner",
+      "audio": true,
+      "transcription": "ˈkɔ:nə"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "неправильный",
+      "audio": false
+    },
+    "en": {
+      "text": "incorrect",
+      "audio": true,
+      "transcription": "ˌɪnkəˈrekt"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "необычный",
+      "audio": false
+    },
+    "en": {
+      "text": "unusual",
+      "audio": true,
+      "transcription": "ʌnˈju:ʒʊəl"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "двор",
+      "audio": false
+    },
+    "en": {
+      "text": "yard",
+      "audio": true,
+      "transcription": "jɑ:d"
+    }
+  }
+]

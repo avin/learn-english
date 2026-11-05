@@ -9,7 +9,7 @@
     "audio:generate": "node --env-file=.env.soniox.local scripts/generate-audio.mjs",
     "audio:test": "node --test scripts/generate-audio.test.mjs",
     "test:navigation": "node --test scripts/lesson-navigation.test.mjs",
-    "test:lesson": "node --test scripts/lesson-navigation.test.mjs scripts/lesson-direction.test.mjs",
+    "test:lesson": "node --test scripts/lesson-navigation.test.mjs scripts/lesson-direction.test.mjs scripts/audio-preload.test.mjs",
     "test:settings": "node --test scripts/settings.test.mjs",
     "test:gamepad": "node --test scripts/gamepad.test.mjs",
     "test:progress": "node --test scripts/progress.test.mjs",

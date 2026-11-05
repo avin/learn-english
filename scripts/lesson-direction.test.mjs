@@ -9,6 +9,7 @@ import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import test, { afterEach } from 'node:test';
 import ts from 'typescript';
+import { mockClock } from './helpers/clock.mjs';
 
 const { act, create } = TestRenderer;
 const { usePrevious } = reactUse;
@@ -35,10 +36,13 @@ const loadModule = async (path, dependencies = {}) => {
 };
 
 const played = [];
-globalThis.Audio = class {
+const created = [];
+globalThis.Audio = class extends EventTarget {
   constructor(url) {
-    this.url = url;
+    super();
+    this.url = this.src = url;
     this.paused = false;
+    created.push(this);
   }
   play() {
     played.push(this);
@@ -47,10 +51,24 @@ globalThis.Audio = class {
   pause() {
     this.paused = true;
   }
+  removeAttribute(name) {
+    if (name === 'src') this.src = '';
+  }
+  load() {}
 };
+Object.defineProperty(globalThis, 'navigator', {
+  configurable: true,
+  value: { connection: { saveData: false } },
+});
+const documentListeners = new Map();
 globalThis.document = {
-  addEventListener() {},
-  removeEventListener() {},
+  addEventListener(name, listener) {
+    if (!documentListeners.has(name)) documentListeners.set(name, new Set());
+    documentListeners.get(name).add(listener);
+  },
+  removeEventListener(name, listener) {
+    documentListeners.get(name)?.delete(listener);
+  },
   querySelector: () => null,
 };
 globalThis.fetch = async () => ({
@@ -71,6 +89,10 @@ const Button = await loadModule('../src/components/common/Button/Button.tsx', {
   clsx: cn,
 });
 const navigation = await loadModule('../src/components/pages/MainPage/Lesson/navigation.ts');
+const audioCache = await loadModule('../src/components/pages/MainPage/Lesson/audioCache.ts');
+const audioPrediction = await loadModule(
+  '../src/components/pages/MainPage/Lesson/audioPrediction.ts',
+);
 const { default: Lesson } = await loadModule('../src/components/pages/MainPage/Lesson/Lesson.tsx', {
   react: React,
   'react-icons/hi': hiIcons,
@@ -82,12 +104,17 @@ const { default: Lesson } = await loadModule('../src/components/pages/MainPage/L
   '@/components/common/FullPageSpinner/FullPageSpinner.tsx': () => null,
   '@/utils/ProgressContext.ts': { useProgressStorage: () => storage },
   './navigation.ts': navigation,
+  './audioCache.ts': audioCache,
+  './audioPrediction.ts': audioPrediction,
 });
 let renderer;
 let controls;
 afterEach(() => {
   act(() => renderer?.unmount());
   played.length = 0;
+  created.length = 0;
+  navigator.connection.saveData = false;
+  document.hidden = false;
 });
 
 const renderLesson = async (sourceLanguage = 'ru', resetOnLessonEnd = false) => {
@@ -162,4 +189,96 @@ test('English-first controls reveal and replay Russian, then restart with Englis
   assert.ok(reveals().every((item) => item.props['aria-hidden'] === false));
   await act(async () => played.at(-1).onended());
   assert.match(played.at(-1).url, /_en\.m4a$/);
+});
+
+test('vertical navigation preloads one language and plays the same cached element from its beginning', async (t) => {
+  const tick = mockClock(t);
+  await renderLesson();
+  tick();
+  assert.equal(created.length, 0);
+  await act(async () => controls.current.navigate('ArrowDown'));
+  tick();
+  assert.equal(created.length, 2);
+  assert.ok(created.every((audio) => audio.url.endsWith('_ru.m4a')));
+  const next = created.find((audio) => audio.url.endsWith('002_ru.m4a'));
+  await act(async () => controls.current.navigate('ArrowDown'));
+  assert.equal(played.at(-1), next);
+  next.currentTime = 1.5;
+  await act(async () => controls.current.replay());
+  assert.equal(played.at(-1), next);
+  assert.equal(next.currentTime, 0);
+  assert.equal(created.length, 2);
+});
+
+test('horizontal navigation warms both languages immediately; changing columns cancels old requests', async (t) => {
+  const tick = mockClock(t);
+  await renderLesson();
+  await act(async () => controls.current.navigate('ArrowRight'));
+  tick();
+  const answer = created.find((audio) => audio.url.endsWith('001_en.m4a'));
+  assert.ok(answer);
+  await act(async () => controls.current.navigate('ArrowRight'));
+  assert.equal(played.at(-1), answer);
+  act(() => button('Поменять').props.onClick());
+  assert.equal(answer.paused, true);
+  assert.ok(created.every((audio) => audio.src === ''));
+  const count = created.length;
+  tick(20_000);
+  assert.equal(created.length, count);
+  await act(async () => controls.current.navigate('ArrowDown'));
+  tick();
+  assert.ok(created.slice(count).every((audio) => audio.url.endsWith('_en.m4a')));
+});
+
+test('pointer selection learns the language pattern, including revealing a translation', async (t) => {
+  const tick = mockClock(t);
+  await renderLesson();
+  await act(async () => {
+    sentences()[0].findByType('button').props.onClick();
+    sentences()[0].props.onClick();
+  });
+  tick();
+  assert.ok(created.every((audio) => audio.url.endsWith('_ru.m4a')));
+  await act(async () => {
+    reveals()[0].props.onClick();
+    sentences()[1].props.onClick();
+  });
+  tick();
+  assert.ok(created.some((audio) => audio.url.endsWith('002_en.m4a')));
+});
+
+test('shuffling cancels the old lookahead and waits for a new selection', async (t) => {
+  const tick = mockClock(t);
+  await renderLesson();
+  await act(async () => controls.current.navigate('ArrowRight'));
+  tick();
+  act(() => button('Перемешать').props.onClick());
+  assert.equal(played[0].src.endsWith('001_ru.m4a'), true);
+  assert.ok(created.slice(1).every((audio) => audio.src === ''));
+  const count = created.length;
+  tick(20_000);
+  assert.equal(created.length, count);
+});
+
+test('data saver and background tabs suspend speculative loading while explicit playback still works', async (t) => {
+  const tick = mockClock(t);
+  navigator.connection.saveData = true;
+  await renderLesson();
+  await act(async () => controls.current.navigate('ArrowRight'));
+  tick();
+  assert.equal(created.length, 1);
+  assert.equal(played.length, 1);
+  navigator.connection.saveData = false;
+  document.hidden = true;
+  for (const listener of documentListeners.get('visibilitychange')) listener();
+  tick();
+  assert.equal(created.length, 1);
+  document.hidden = false;
+  for (const listener of documentListeners.get('visibilitychange')) listener();
+  tick();
+  assert.equal(created.length, 3);
+  document.hidden = true;
+  for (const listener of documentListeners.get('visibilitychange')) listener();
+  assert.ok(created.slice(1).every((audio) => audio.src === ''));
+  assert.notEqual(played[0].src, '');
 });

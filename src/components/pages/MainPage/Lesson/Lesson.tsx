@@ -16,6 +16,8 @@ import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner
 import { Course, Translation, TranslationTask } from '@/types';
 import { useProgressStorage } from '@/utils/ProgressContext.ts';
 import { AppSettings } from '@/utils/settings.ts';
+import { AudioCache } from './audioCache.ts';
+import { AudioPrediction } from './audioPrediction.ts';
 import { ArrowKey, SentenceSelection, getNextSentence } from './navigation.ts';
 
 interface Props {
@@ -30,6 +32,9 @@ export interface LessonControls {
   replay: () => void;
   restart: () => void;
 }
+
+const audioUrl = (path: string) =>
+  `${import.meta.env.BASE_URL}${path.replace(/^\/src\/assets\//, '')}`;
 
 const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   const { course, lesson, settings, onSwapDirection } = props;
@@ -47,6 +52,8 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   const prevOpenSentences = usePrevious(openSentences);
   const [favoriteTranslations, setFavoriteTranslations] = useState<Translation[] | null>(null);
   const audioRef = useRef<HTMLAudioElement | null>(null);
+  const audioCache = useRef(new AudioCache());
+  const audioPrediction = useRef(new AudioPrediction());
   const [selected, setSelected] = useState<SentenceSelection | null>(null);
   const [cursorVisible, setCursorVisible] = useState(false);
   const [audioBlocked, setAudioBlocked] = useState(false);
@@ -54,11 +61,36 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   const selectedSentenceRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
+    audioPrediction.current.reset();
+    setSelected(null);
+    setAudioBlocked(false);
+    const cache = audioCache.current;
     return () => {
-      audioRef.current?.pause();
       audioRef.current = null;
+      cache.clear();
     };
-  }, [course, lesson]);
+  }, [course, lesson, sourceLanguage]);
+
+  useEffect(() => {
+    const preload = () => {
+      const connection = (navigator as Navigator & { connection?: { saveData?: boolean } })
+        .connection;
+      const paths =
+        translations && !document.hidden && !connection?.saveData
+          ? audioPrediction.current.upcoming(
+              translations,
+              order,
+              selected,
+              sourceLanguage,
+              settings.resetOnLessonEnd,
+            )
+          : [];
+      audioCache.current.preload(paths.map(audioUrl));
+    };
+    preload();
+    document.addEventListener('visibilitychange', preload);
+    return () => document.removeEventListener('visibilitychange', preload);
+  }, [order, selected, settings.resetOnLessonEnd, sourceLanguage, translations]);
 
   const startAudio = useCallback((audio: HTMLAudioElement) => {
     void audio.play().then(
@@ -79,12 +111,12 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
 
   const playAudio = useCallback(
     (path: string, onFinished?: () => void) => {
-      const relativePath = path.replace(/^\/src\/assets\//, '');
-      const url = `${import.meta.env.BASE_URL}${relativePath}`;
-
       audioRef.current?.pause();
-      const audio = new Audio(url);
+      const audio = audioCache.current.get(audioUrl(path));
       audioRef.current = audio;
+      audio.onended = null;
+      audio.onerror = null;
+      audio.currentTime = 0;
       if (onFinished) {
         const finish = () => {
           if (audioRef.current === audio) onFinished();
@@ -103,10 +135,18 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     return () => document.removeEventListener('pointerdown', handlePointerDown, true);
   }, []);
 
-  const selectSentence = useCallback(
-    (next: SentenceSelection, announceCompletion = false) => {
-      if (!translations) return;
+  const rememberSelection = useCallback(
+    (next: SentenceSelection, key?: ArrowKey) => {
+      audioPrediction.current.observe(next, order, key, sourceLanguage);
       setSelected(next);
+    },
+    [order, sourceLanguage],
+  );
+
+  const selectSentence = useCallback(
+    (next: SentenceSelection, announceCompletion = false, key?: ArrowKey) => {
+      if (!translations) return;
+      rememberSelection(next, key);
       setCursorVisible(true);
       if (next.column === targetLanguage) {
         setOpenSentences((current) =>
@@ -125,12 +165,13 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
         setAudioBlocked(false);
       }
     },
-    [playAudio, targetLanguage, translations],
+    [playAudio, rememberSelection, targetLanguage, translations],
   );
 
   const restart = useCallback(() => {
     if (!translations || !openSentences || !favoriteTranslations || !order.length) return;
     const newOrder = shuffle(order);
+    audioPrediction.current.reset();
     setOrder(newOrder);
     setOpenSentences([]);
     selectSentence({ idx: newOrder[0], column: sourceLanguage }, true);
@@ -150,7 +191,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
         restart();
         return;
       }
-      selectSentence(next);
+      selectSentence(next, false, key);
     },
     [
       favoriteTranslations,
@@ -307,6 +348,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
         const row = order.indexOf(removedIdx);
         const remaining = order.filter((idx) => idx !== removedIdx);
         setOrder(remaining);
+        audioPrediction.current.reset();
         if (selected?.idx === removedIdx) {
           setSelected(
             remaining.length
@@ -409,6 +451,8 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   };
 
   const handleClickShuffle = () => {
+    audioPrediction.current.reset();
+    audioCache.current.preload([]);
     setOrder((v) => shuffle(v));
     setSelected(null);
     setCursorVisible(false);
@@ -555,7 +599,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
                           selected?.idx === idx &&
                           selected.column === sourceLanguage,
                       })}
-                      onClick={() => setSelected({ idx, column: sourceLanguage })}
+                      onClick={() => rememberSelection({ idx, column: sourceLanguage })}
                     >
                       {sourceAudio ? (
                         <button
@@ -587,7 +631,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
                           selected?.idx === idx &&
                           selected.column === targetLanguage,
                       })}
-                      onClick={() => setSelected({ idx, column: targetLanguage })}
+                      onClick={() => rememberSelection({ idx, column: targetLanguage })}
                     >
                       <div aria-hidden={!isOpen}>
                         {targetAudio ? (

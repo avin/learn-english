@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 .soniox-cache/
+.lesson-audio-cache/
 
 # Editor directories and files
 .vscode/*

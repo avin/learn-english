@@ -73,6 +73,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   const [wordOrder, setWordOrder] = useState<number[]>([]);
   const [openWords, setOpenWords] = useState<number[]>([]);
   const [dictionaryExpanded, setDictionaryExpanded] = useState(false);
+  const [dictionaryMounted, setDictionaryMounted] = useState(false);
   const [section, setSection] = useState<Section>('sentences');
   const prevOpenSentences = usePrevious(openSentences);
   const [favoriteTranslations, setFavoriteTranslations] = useState<Translation[] | null>(null);
@@ -88,6 +89,15 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   const activeOrder = inDictionary ? wordOrder : order;
   const activeTranslations = inDictionary ? words : translations;
   const resetOnLessonEnd = !inDictionary && settings.resetOnLessonEnd;
+
+  useEffect(() => {
+    if (dictionaryExpanded) {
+      setDictionaryMounted(true);
+      return;
+    }
+    const timer = setTimeout(() => setDictionaryMounted(false), 250);
+    return () => clearTimeout(timer);
+  }, [dictionaryExpanded]);
 
   useEffect(() => {
     audioPrediction.current.reset();
@@ -787,16 +797,26 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
           >
             Словарь ({words.length})
             <HiChevronDown
-              className={cn({ 'rotate-180': dictionaryExpanded })}
+              className={cn('transition-transform duration-200 motion-reduce:transition-none', {
+                'rotate-180': dictionaryExpanded,
+              })}
               aria-hidden="true"
             />
           </button>
           <div
             id="lesson-dictionary"
-            hidden={!dictionaryExpanded}
-            className="border-t border-gray3"
+            aria-hidden={!dictionaryExpanded}
+            ref={(element) => element?.toggleAttribute('inert', !dictionaryExpanded)}
+            className={cn(
+              'grid transition-[grid-template-rows] duration-200 ease-in-out motion-reduce:transition-none',
+              dictionaryExpanded ? 'grid-rows-[1fr]' : 'grid-rows-[0fr]',
+            )}
           >
-            {dictionaryExpanded && renderRows('dictionary')}
+            <div className="min-h-0 overflow-hidden">
+              {(dictionaryExpanded || dictionaryMounted) && (
+                <div className="border-t border-gray3">{renderRows('dictionary')}</div>
+              )}
+            </div>
           </div>
         </div>
       )}

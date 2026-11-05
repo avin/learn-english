@@ -64,6 +64,8 @@ def main():
     failed = []
     for path, wanted, current in rows:
         dest = ROOT / path
+        if dest.parent.name == 'audio' and not dest.name.startswith('tasks_'):
+            dest = dest.with_name('tasks_' + dest.name)
         try:
             actual = sha(dest.read_bytes())
             if actual == wanted:

@@ -82,7 +82,7 @@ def plan(lesson, target, ceiling):
                 state['gain_db'] = 0.0
             report(state_path, state)
         return state
-    paths = sorted((lesson / 'audio').glob('*_en.m4a'))
+    paths = sorted((lesson / 'audio').glob('tasks_*_en.m4a'))
     if not paths:
         return None
     files = []

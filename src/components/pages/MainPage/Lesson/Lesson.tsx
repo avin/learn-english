@@ -394,7 +394,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
           const tasks: TranslationTask[] = await response.json();
           return tasks.map(({ id, ru, en }) => {
             const audio: Translation['audio'] = {};
-            const audioPath = `${lessonPath}/audio/${String(id).padStart(3, '0')}`;
+            const audioPath = `${lessonPath}/audio/tasks_${String(id).padStart(3, '0')}`;
             if (ru.audio) {
               audio.ru = `${audioPath}_ru.m4a`;
             }

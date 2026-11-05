@@ -47,7 +47,7 @@ for (const blockedOperation of [
       const operation = blockedOperation.endsWith('write') ? 'writeFile' : 'rename';
       const original = fs[operation];
       const blockedPath = blockedOperation.startsWith('audio')
-        ? join(directory, 'audio/001_en.m4a.tmp')
+        ? join(directory, 'audio/tasks_001_en.m4a.tmp')
         : `${tasksFile}.tmp`;
       const codes = ['EPERM', 'EACCES', 'EBUSY'];
       let failures = 0;
@@ -127,7 +127,7 @@ test('reports a disk error, preserves the original JSON, and resumes from saved 
     assert.equal(attempts, 1);
     assert.equal(await readFile(tasksFile, 'utf8'), originalJSON);
     assert.equal(JSON.parse(await readFile(`${tasksFile}.tmp`, 'utf8'))[0].en.audio, true);
-    assert.deepEqual(await readFile(join(directory, 'audio/001_en.m4a')), audio);
+    assert.deepEqual(await readFile(join(directory, 'audio/tasks_001_en.m4a')), audio);
     t.mock.restoreAll();
     syncBuiltinESMExports();
     assert.deepEqual(
@@ -155,14 +155,14 @@ test('names audio files with padded ids in the audio subdirectory', () => {
   assert.deepEqual(
     planAudio(tasks, ['en', 'ru'], voices).map((job) => job.filename),
     [
-      'audio/001_en.m4a',
-      'audio/001_ru.m4a',
-      'audio/012_en.m4a',
-      'audio/012_ru.m4a',
-      'audio/123_en.m4a',
-      'audio/123_ru.m4a',
-      'audio/1234_en.m4a',
-      'audio/1234_ru.m4a',
+      'audio/tasks_001_en.m4a',
+      'audio/tasks_001_ru.m4a',
+      'audio/tasks_012_en.m4a',
+      'audio/tasks_012_ru.m4a',
+      'audio/tasks_123_en.m4a',
+      'audio/tasks_123_ru.m4a',
+      'audio/tasks_1234_en.m4a',
+      'audio/tasks_1234_ru.m4a',
     ],
   );
 });
@@ -180,8 +180,8 @@ test('runs sequentially by default and persists progress before the next request
     const audio = await readFile(fixtureFile);
     await writeFile(tasksFile, original);
     await mkdir(join(directory, 'audio'));
-    await writeFile(join(directory, 'audio/001_en.m4a'), audio);
-    await writeFile(join(directory, 'audio/001_ru.m4a'), audio);
+    await writeFile(join(directory, 'audio/tasks_001_en.m4a'), audio);
+    await writeFile(join(directory, 'audio/tasks_001_ru.m4a'), audio);
     const readTasks = async () => JSON.parse(await readFile(tasksFile, 'utf8'));
     const jobs = await loadAudioJobs(tasksFile, ['en'], voices);
     await generateAudio({ jobs, dryRun: true, limit: 1 });
@@ -223,7 +223,7 @@ test('runs sequentially by default and persists progress before the next request
       (await readTasks()).map((task) => task.en.audio),
       [true, true, true],
     );
-    await rm(join(directory, 'audio/003_en.m4a'));
+    await rm(join(directory, 'audio/tasks_003_en.m4a'));
     await assert.rejects(
       generateAudio({
         jobs: await loadAudioJobs(tasksFile, ['en'], voices),
@@ -286,7 +286,10 @@ test(
       for (const gate of gates) gate.resolve();
       assert.deepEqual(await running, { created: 8, skipped: 0, requests: 8 });
       assert.equal(maximum, 4);
-      assert.deepEqual([...requested].sort((a, b) => a - b), [1, 2, 3, 4, 5, 6, 7, 8]);
+      assert.deepEqual(
+        [...requested].sort((a, b) => a - b),
+        [1, 2, 3, 4, 5, 6, 7, 8],
+      );
       const saved = JSON.parse(await readFile(tasksFile, 'utf8'));
       assert.ok(saved.every((task) => task.en.audio && !task.ru.audio));
       assert.deepEqual(await readdir(directory), ['audio', 'tasks.json']);
@@ -356,10 +359,16 @@ test(
       fail.resolve();
       await setImmediate();
       assert.equal(settled, false);
-      assert.deepEqual([...requested].sort((a, b) => a - b), [1, 2]);
+      assert.deepEqual(
+        [...requested].sort((a, b) => a - b),
+        [1, 2],
+      );
       finish.resolve();
       await rejected;
-      assert.deepEqual([...requested].sort((a, b) => a - b), [1, 2]);
+      assert.deepEqual(
+        [...requested].sort((a, b) => a - b),
+        [1, 2],
+      );
       assert.deepEqual(
         JSON.parse(await readFile(tasksFile, 'utf8')).map((task) => task.en.audio),
         [false, true, false, false, false, false],
@@ -416,11 +425,11 @@ test('accepts Soniox AAC in MP4 with application/octet-stream and creates M4A', 
       apiKey: 'fake-test-key',
     });
     assert.equal(mock.mock.callCount(), 1);
-    const result = await readFile(join(directory, 'audio/001_en.m4a'));
+    const result = await readFile(join(directory, 'audio/tasks_001_en.m4a'));
     assert.equal(result.subarray(4, 8).toString(), 'ftyp');
     assert.deepEqual(result, audio);
     assert.deepEqual(await readdir(directory), ['audio']);
-    assert.deepEqual(await readdir(join(directory, 'audio')), ['001_en.m4a']);
+    assert.deepEqual(await readdir(join(directory, 'audio')), ['tasks_001_en.m4a']);
   } finally {
     await rm(directory, { recursive: true, force: true });
   }
@@ -466,7 +475,7 @@ test('requests each missing file, resumes after failure, and regenerates deleted
       /simulated interruption/,
     );
     assert.equal(calls, 2);
-    assert.deepEqual(await readdir(join(outputDirectory, 'audio')), ['001_en.m4a']);
+    assert.deepEqual(await readdir(join(outputDirectory, 'audio')), ['tasks_001_en.m4a']);
     calls = 0;
     await generateAudio({
       ...options,
@@ -482,9 +491,9 @@ test('requests each missing file, resumes after failure, and regenerates deleted
         throw new Error('Existing file must be skipped');
       },
     });
-    const first = await readFile(join(outputDirectory, 'audio/001_en.m4a'));
+    const first = await readFile(join(outputDirectory, 'audio/tasks_001_en.m4a'));
     assert.equal(first.subarray(4, 8).toString(), 'ftyp');
-    assert.deepEqual(first, await readFile(join(outputDirectory, 'audio/002_en.m4a')));
+    assert.deepEqual(first, await readFile(join(outputDirectory, 'audio/tasks_002_en.m4a')));
     tasks[0].en.text = 'Changed sentence';
     calls = 0;
     await generateAudio({
@@ -496,7 +505,7 @@ test('requests each missing file, resumes after failure, and regenerates deleted
       },
     });
     assert.equal(calls, 0);
-    await rm(join(outputDirectory, 'audio/001_en.m4a'));
+    await rm(join(outputDirectory, 'audio/tasks_001_en.m4a'));
     await generateAudio({
       ...options,
       jobs: planAudio(tasks, ['en'], voices),
@@ -507,7 +516,7 @@ test('requests each missing file, resumes after failure, and regenerates deleted
     });
     assert.equal(calls, 1);
     // Deleting a file triggers a fresh request even with unchanged text and settings.
-    await rm(join(outputDirectory, 'audio/001_en.m4a'));
+    await rm(join(outputDirectory, 'audio/tasks_001_en.m4a'));
     await generateAudio({
       ...options,
       jobs: planAudio(tasks, ['en'], voices),
@@ -594,7 +603,9 @@ test('shares the limit across lessons and only requests missing or empty output 
     assert.deepEqual(await generateAudio(options), { created: 2, skipped: 1, requests: 2 });
     assert.equal(calls, 2);
     assert.equal(await readFile(existing, 'utf8'), 'existing-audio');
-    assert.deepEqual((await readdir(join(directory, 'second', 'audio'))).sort(), ['001_en.m4a']);
+    assert.deepEqual((await readdir(join(directory, 'second', 'audio'))).sort(), [
+      'tasks_001_en.m4a',
+    ]);
     assert.deepEqual(await generateAudio(options), { created: 1, skipped: 3, requests: 1 });
     assert.equal(calls, 3);
     assert.deepEqual(await generateAudio(options), { created: 0, skipped: 4, requests: 0 });

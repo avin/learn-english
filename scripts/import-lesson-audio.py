@@ -461,7 +461,7 @@ def install_clips(lesson, folder, report):
         content = (folder / name).read_bytes()
         if hashlib.sha256(content).hexdigest() != row["sha256"]:
             raise ValueError(f"Staged clip changed: {name}")
-        destination = lesson / "audio" / name
+        destination = lesson / "audio" / f"tasks_{name}"
         old = destination.read_bytes() if destination.is_file() else b""
         if old != content:
             write_atomic(destination, content)

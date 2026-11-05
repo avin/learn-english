@@ -149,7 +149,7 @@ test('both toolbars have icons; swapping exchanges languages, closes answers and
   );
   await act(async () => reveals()[0].props.onClick());
   const audio = played.at(-1);
-  assert.match(audio.url, /001_en\.m4a$/);
+  assert.match(audio.url, /tasks_001_en\.m4a$/);
   assert.equal(reveals()[0].props['aria-hidden'], true);
 
   act(() => button('Поменять').props.onClick());
@@ -162,7 +162,7 @@ test('both toolbars have icons; swapping exchanges languages, closes answers and
   assert.equal(sentences()[1].findByType('span').children.join(''), 'Привет');
   assert.ok(reveals().every((item) => item.props['aria-hidden'] === false));
   await act(async () => reveals()[0].props.onClick());
-  assert.match(played.at(-1).url, /001_ru\.m4a$/);
+  assert.match(played.at(-1).url, /tasks_001_ru\.m4a$/);
 
   act(() => button('Открыть все').props.onClick());
   assert.ok(reveals().every((item) => item.props['aria-hidden'] === true));
@@ -175,13 +175,13 @@ test('both toolbars have icons; swapping exchanges languages, closes answers and
 test('English-first controls reveal and replay Russian, then restart with English and hide answers', async () => {
   await renderLesson('en', true);
   await act(async () => controls.current.navigate('ArrowRight'));
-  assert.match(played.at(-1).url, /001_en\.m4a$/);
+  assert.match(played.at(-1).url, /tasks_001_en\.m4a$/);
   assert.equal(reveals()[0].props['aria-hidden'], false);
   await act(async () => controls.current.navigate('ArrowRight'));
-  assert.match(played.at(-1).url, /001_ru\.m4a$/);
+  assert.match(played.at(-1).url, /tasks_001_ru\.m4a$/);
   assert.equal(reveals()[0].props['aria-hidden'], true);
   await act(async () => controls.current.replay());
-  assert.match(played.at(-1).url, /001_ru\.m4a$/);
+  assert.match(played.at(-1).url, /tasks_001_ru\.m4a$/);
   await act(async () => controls.current.navigate('ArrowRight'));
   await act(async () => controls.current.navigate('ArrowRight'));
   await act(async () => controls.current.navigate('ArrowRight'));
@@ -200,7 +200,7 @@ test('vertical navigation preloads one language and plays the same cached elemen
   tick();
   assert.equal(created.length, 2);
   assert.ok(created.every((audio) => audio.url.endsWith('_ru.m4a')));
-  const next = created.find((audio) => audio.url.endsWith('002_ru.m4a'));
+  const next = created.find((audio) => audio.url.endsWith('tasks_002_ru.m4a'));
   await act(async () => controls.current.navigate('ArrowDown'));
   assert.equal(played.at(-1), next);
   next.currentTime = 1.5;
@@ -215,7 +215,7 @@ test('horizontal navigation warms both languages immediately; changing columns c
   await renderLesson();
   await act(async () => controls.current.navigate('ArrowRight'));
   tick();
-  const answer = created.find((audio) => audio.url.endsWith('001_en.m4a'));
+  const answer = created.find((audio) => audio.url.endsWith('tasks_001_en.m4a'));
   assert.ok(answer);
   await act(async () => controls.current.navigate('ArrowRight'));
   assert.equal(played.at(-1), answer);
@@ -244,7 +244,7 @@ test('pointer selection learns the language pattern, including revealing a trans
     sentences()[1].props.onClick();
   });
   tick();
-  assert.ok(created.some((audio) => audio.url.endsWith('002_en.m4a')));
+  assert.ok(created.some((audio) => audio.url.endsWith('tasks_002_en.m4a')));
 });
 
 test('shuffling cancels the old lookahead and waits for a new selection', async (t) => {
@@ -253,7 +253,7 @@ test('shuffling cancels the old lookahead and waits for a new selection', async 
   await act(async () => controls.current.navigate('ArrowRight'));
   tick();
   act(() => button('Перемешать').props.onClick());
-  assert.equal(played[0].src.endsWith('001_ru.m4a'), true);
+  assert.equal(played[0].src.endsWith('tasks_001_ru.m4a'), true);
   assert.ok(created.slice(1).every((audio) => audio.src === ''));
   const count = created.length;
   tick(20_000);

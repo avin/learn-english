@@ -71,13 +71,30 @@ globalThis.document = {
   },
   querySelector: () => null,
 };
-globalThis.fetch = async () => ({
+const taskResponse = () => ({
   ok: true,
   json: async () => [
     { id: 1, ru: { text: 'Привет', audio: true }, en: { text: 'Hello', audio: true } },
     { id: 2, ru: { text: 'Пока', audio: true }, en: { text: 'Bye', audio: true } },
   ],
 });
+const withoutDictionary = async (url) =>
+  url.endsWith('/words.json') ? { ok: false, status: 404 } : taskResponse();
+globalThis.fetch = withoutDictionary;
+const withDictionary = async (url) =>
+  url.endsWith('/words.json')
+    ? {
+        ok: true,
+        json: async () => [
+          {
+            id: 1,
+            ru: { text: 'кот', audio: true },
+            en: { text: 'cat', audio: true, transcription: 'kæt' },
+          },
+          { id: 2, ru: { text: 'собака', audio: true }, en: { text: 'dog', audio: true } },
+        ],
+      }
+    : taskResponse();
 const storage = {
   loadFavoriteTranslations: async () => [],
   loadLastOpenSentences: async () => [],
@@ -115,6 +132,7 @@ afterEach(() => {
   created.length = 0;
   navigator.connection.saveData = false;
   document.hidden = false;
+  globalThis.fetch = withoutDictionary;
 });
 
 const renderLesson = async (sourceLanguage = 'ru', resetOnLessonEnd = false) => {
@@ -137,9 +155,12 @@ const button = (label, index = 0) =>
   renderer.root.findAllByType('button').filter((item) => item.children.includes(label))[index];
 const reveals = () => renderer.root.findAllByProps({ 'aria-label': 'Открыть перевод' });
 const sentences = () => renderer.root.findAll((item) => item.props['data-sentence']);
+const clickCell = (idx, detail = 1) => sentences()[idx].parent.props.onClick({ detail });
+const dictionary = () => renderer.root.findAllByProps({ 'aria-controls': 'lesson-dictionary' });
 
 test('both toolbars have icons; swapping exchanges languages, closes answers and stops audio', async () => {
   await renderLesson();
+  assert.equal(dictionary().length, 0);
   for (const label of ['Поменять', 'Перемешать', 'Открыть все', 'Закрыть все']) {
     for (const index of [0, 1]) assert.equal(button(label, index).findAllByType('svg').length, 1);
   }
@@ -235,16 +256,102 @@ test('pointer selection learns the language pattern, including revealing a trans
   await renderLesson();
   await act(async () => {
     sentences()[0].findByType('button').props.onClick();
-    sentences()[0].props.onClick();
+    clickCell(0);
   });
   tick();
   assert.ok(created.every((audio) => audio.url.endsWith('_ru.m4a')));
   await act(async () => {
     reveals()[0].props.onClick();
-    sentences()[1].props.onClick();
+    clickCell(1);
   });
   tick();
   assert.ok(created.some((audio) => audio.url.endsWith('tasks_002_en.m4a')));
+});
+
+test('the collapsed dictionary shares the toolbars, audio and favorites', async (t) => {
+  globalThis.fetch = withDictionary;
+  const saveFavorite = t.mock.method(storage, 'saveFavoriteTranslations', async () => {});
+  const saveOpen = t.mock.method(storage, 'saveLastOpenSentences', async () => {});
+  await renderLesson();
+  assert.match(
+    dictionary()[0]
+      .children.filter((child) => typeof child === 'string')
+      .join(''),
+    /Словарь \(2\)/,
+  );
+  assert.equal(dictionary()[0].props['aria-expanded'], false);
+  assert.equal(sentences().length, 4);
+
+  act(() => button('Открыть все').props.onClick());
+  assert.equal(dictionary()[0].props['aria-expanded'], false);
+  assert.deepEqual(saveOpen.mock.calls.at(-1).arguments, ['titan', '1', [0, 1]]);
+  act(() => dictionary()[0].props.onClick());
+  assert.equal(sentences()[0].findByType('span').children.join(''), 'кот');
+  assert.equal(sentences()[1].findByType('span').children.join(''), 'cat');
+  assert.ok(reveals().every((item) => item.props['aria-hidden']));
+
+  act(() =>
+    renderer.root
+      .findAllByProps({ 'aria-label': 'Добавить в избранное' })[0]
+      .props.onClick({ detail: 1 }),
+  );
+  const [favorites] = saveFavorite.mock.calls.at(-1).arguments;
+  assert.deepEqual(favorites, [
+    {
+      ru: 'кот',
+      en: 'cat',
+      audio: {
+        ru: 'translations/titan/1/audio/words_001_ru.m4a',
+        en: 'translations/titan/1/audio/words_001_en.m4a',
+      },
+    },
+  ]);
+  act(() => dictionary()[0].props.onClick());
+  act(() => button('Закрыть все').props.onClick());
+  act(() => dictionary()[0].props.onClick());
+  assert.ok(reveals().every((item) => !item.props['aria-hidden']));
+  await act(async () => reveals()[0].props.onClick());
+  assert.match(played.at(-1).url, /words_001_en\.m4a$/);
+
+  act(() => dictionary()[0].props.onClick());
+  act(() => button('Поменять').props.onClick());
+  act(() => dictionary()[0].props.onClick());
+  assert.equal(sentences()[0].props.lang, 'en');
+  assert.equal(reveals()[0].props['aria-hidden'], false);
+});
+
+test('dictionary arrows wrap, V only enters, and Select or a pointer can return to sentences', async (t) => {
+  globalThis.fetch = withDictionary;
+  globalThis.HTMLElement = class {};
+  t.after(() => delete globalThis.HTMLElement);
+  await renderLesson('ru', true);
+  const keyV = () => {
+    for (const listener of documentListeners.get('keydown')) {
+      listener({ key: 'м', code: 'KeyV', preventDefault() {} });
+    }
+  };
+  await act(async () => keyV());
+  assert.equal(dictionary()[0].props['aria-expanded'], true);
+  assert.match(played.at(-1).url, /words_001_ru\.m4a$/);
+  await act(async () => keyV());
+  assert.equal(dictionary()[0].props['aria-expanded'], true);
+  await act(async () => controls.current.navigate('ArrowUp'));
+  assert.match(played.at(-1).url, /words_002_ru\.m4a$/);
+  await act(async () => controls.current.navigate('ArrowRight'));
+  assert.match(played.at(-1).url, /words_002_en\.m4a$/);
+  await act(async () => controls.current.navigate('ArrowRight'));
+  assert.match(played.at(-1).url, /words_001_ru\.m4a$/);
+  await act(async () => controls.current.toggleDictionary());
+  assert.equal(dictionary()[0].props['aria-expanded'], false);
+  assert.match(played.at(-1).url, /tasks_001_ru\.m4a$/);
+  await act(async () => controls.current.toggleDictionary());
+  assert.equal(dictionary()[0].props['aria-expanded'], true);
+  act(() => clickCell(4, 0));
+  await act(async () => controls.current.replay());
+  assert.match(played.at(-1).url, /words_001_ru\.m4a$/);
+  act(() => clickCell(4));
+  await act(async () => controls.current.navigate('ArrowRight'));
+  assert.match(played.at(-1).url, /tasks_001_en\.m4a$/);
 });
 
 test('shuffling cancels the old lookahead and waits for a new selection', async (t) => {

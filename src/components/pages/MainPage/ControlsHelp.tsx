@@ -8,11 +8,13 @@ interface Props {
 }
 
 const actions = [
-  { label: 'Предложение выше', keyboard: [['↑']], gamepad: ['↑'] },
-  { label: 'Предложение ниже', keyboard: [['↓']], gamepad: ['↓'] },
-  { label: 'Предыдущее предложение', keyboard: [['←']], gamepad: ['←'] },
-  { label: 'Следующее предложение', keyboard: [['→']], gamepad: ['→'] },
+  { label: 'Строка выше', keyboard: [['↑']], gamepad: ['↑'] },
+  { label: 'Строка ниже', keyboard: [['↓']], gamepad: ['↓'] },
+  { label: 'Предыдущая ячейка', keyboard: [['←']], gamepad: ['←'] },
+  { label: 'Следующая ячейка', keyboard: [['→']], gamepad: ['→'] },
   { label: 'Повторить озвучку', keyboard: [['Пробел'], ['Enter']], gamepad: ['A', '✕'] },
+  { label: 'Перейти в словарь', keyboard: [['V']], gamepad: ['Select', 'Share'] },
+  { label: 'Вернуться к предложениям', keyboard: [], gamepad: ['Select', 'Share'] },
   { label: 'Предыдущий урок', keyboard: [['Shift', '←']], gamepad: ['LB', 'L1'] },
   { label: 'Следующий урок', keyboard: [['Shift', '→']], gamepad: ['RB', 'R1'] },
   {
@@ -125,6 +127,10 @@ const ControlsHelp = ({ onClose }: Props) => {
         <p className="mt-4 text-xs leading-relaxed text-gray1">
           Направления на геймпаде — крестовина или левый стик. Первое нажатие стрелки или
           направления на геймпаде выбирает первую фразу урока.
+        </p>
+        <p className="mt-2 text-xs leading-relaxed text-gray1">
+          Стрелки перемещают курсор внутри выбранного блока. Чтобы выйти из словаря мышью, нажмите
+          на любое предложение.
         </p>
       </div>
     </dialog>

@@ -138,6 +138,8 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
         lessonRef.current?.replay();
       } else if (action === 'restart') {
         lessonRef.current?.restart();
+      } else if (action === 'toggleDictionary') {
+        lessonRef.current?.toggleDictionary();
       } else {
         lessonRef.current?.navigate(action);
       }

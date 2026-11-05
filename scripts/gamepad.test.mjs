@@ -60,11 +60,12 @@ test('holding a direction repeats after a delay without catching up missed frame
   assert.equal(read([down], 5030), 'ArrowDown');
 });
 
-test('replay, restart and lesson changes fire once per press, even across long holds', () => {
+test('replay, restart, Select and lesson changes fire once per press, even across long holds', () => {
   for (const [button, action] of [
     [0, 'replay'],
     [4, 'previousLesson'],
     [5, 'nextLesson'],
+    [8, 'toggleDictionary'],
     [9, 'restart'],
   ]) {
     const read = createGamepadReader();

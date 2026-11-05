@@ -10,6 +10,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parent.parent
+HEADING = re.compile(r"^слова\s+к\s+уроку\s*[:№\d.\-–—]*$", re.I)
 ENTRY = re.compile(r"^(?:(\d+)\.?\s+)?(.+?)\s*\[([^\[\]]+)\]\s*[-–—]\s*(.+)$")
 
 
@@ -42,39 +43,64 @@ def main():
     parser.add_argument("--dry-run", action="store_true", help="Validate without writing files")
     args = parser.parse_args()
 
-    source = args.source / "Титановый"
-    if not source.is_dir():
-        parser.error(f"Source directory not found: {source}")
-    if not (args.translations / "titan").is_dir():
-        parser.error(f"Titan course not found in {args.translations}")
-    pdfs = sorted(p for p in source.glob("*/*/*.pdf") if "словар" in p.stem.casefold())
-    if not pdfs:
-        parser.error(f"No dictionary PDFs found in {source}")
-
-    destinations = {}
-    for pdf in pdfs:
-        lesson = pdf.parent.name
-        target_dir = args.translations / "titan" / lesson
-        if not (target_dir / "tasks.json").is_file():
-            print(f"Skipping {pdf}: no matching lesson", file=sys.stderr)
-            continue
-        if lesson in destinations:
-            raise ValueError(f"Multiple dictionaries for lesson {lesson}: {destinations[lesson]} and {pdf}")
-        destinations[lesson] = pdf
-
-    # Validate every PDF before writing any files.
-    results = []
-    for lesson, pdf in destinations.items():
+    sources = [("titan", args.source / "Титановый"), ("express", args.source / "Экспресс")]
+    if not all(folder.is_dir() for _, folder in sources):
+        parser.error(f"Course directories not found in {args.source}")
+    pdfs = [(course, p) for course, folder in sources for p in folder.rglob("*.pdf")]
+    candidates = {}
+    scanned = 0
+    skipped = []
+    for course, pdf in sorted(pdfs, key=lambda item: str(item[1])):
         result = subprocess.run([args.pdftotext, "-enc", "UTF-8", "-layout", str(pdf), "-"],
-                                check=True, stdout=subprocess.PIPE)
-        words = parse_words(result.stdout.decode("utf-8-sig"), pdf)
-        results.append((args.translations / "titan" / lesson / "words.json", words))
-    for target, words in results:
+                                check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        lines = result.stdout.decode("utf-8-sig").splitlines()
+        scanned += 1
+        headings = [i for i, line in enumerate(lines) if HEADING.fullmatch(line.strip())]
+        standalone = course == "titan" and "словар" in pdf.stem.casefold()
+        if not headings and not standalone:
+            continue
+        if len(headings) > 1:
+            raise ValueError(f"Multiple vocabulary headings in {pdf}")
+        text = "\n".join(lines[headings[0] + 1:]) if headings else "\n".join(lines)
+        if course == "titan":
+            if not pdf.parent.name.isdecimal():
+                raise ValueError(f"Cannot identify lesson for {pdf}")
+            lesson = pdf.parent.name
+        else:
+            pair = re.match(r"^(\d+\s*-\s*\d+)\.", pdf.stem)
+            if not pair:
+                raise ValueError(f"Cannot identify Express lesson for {pdf}")
+            lesson = f"{pdf.parent.name} {re.sub(r'\s+', '', pair.group(1))}"
+        target = args.translations / course / lesson / "words.json"
+        if not (target.parent / "tasks.json").is_file():
+            skipped.append(str(pdf))
+            continue
+        words = parse_words(text, pdf)
+        if target in candidates and candidates[target][0] != words:
+            raise ValueError(f"Conflicting dictionaries for {target}: {candidates[target][1]} and {pdf}")
+        candidates[target] = (words, pdf)
+
+    created = []
+    existing = []
+    for target, (words, pdf) in candidates.items():
+        if target.exists():
+            old = json.loads(target.read_text(encoding="utf-8"))
+            def content(row):
+                return row["id"], row["en"]["text"], row["en"].get("transcription"), row["ru"]["text"]
+            if list(map(content, old)) != list(map(content, words)):
+                raise ValueError(f"Existing dictionary differs from {pdf}: {target}; left unchanged")
+            existing.append(target)
+        else:
+            created.append((target, words))
+    for target, words in created:
         if not args.dry_run:
             target.write_text(json.dumps(words, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"{'Validated' if args.dry_run else 'Written'} {len(results)} dictionaries, "
-          f"{sum(len(words) for _, words in results)} entries; "
-          f"skipped {len(pdfs) - len(results)} PDFs without matching lessons.")
+        print(f"{'Would create' if args.dry_run else 'Created'} {target} ({len(words)} entries)")
+    for pdf in skipped:
+        print(f"Skipping {pdf}: no matching lesson", file=sys.stderr)
+    print(f"Scanned {scanned} PDFs; {'would create' if args.dry_run else 'created'} {len(created)} "
+          f"dictionaries; preserved {len(existing)} existing dictionaries; "
+          f"skipped {len(skipped)} PDFs without matching lessons.")
 
 
 if __name__ == "__main__":

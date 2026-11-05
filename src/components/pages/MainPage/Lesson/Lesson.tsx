@@ -6,7 +6,7 @@ import React, {
   useRef,
   useState,
 } from 'react';
-import { HiOutlineStar, HiStar } from 'react-icons/hi';
+import { HiChevronDown, HiOutlineStar, HiStar } from 'react-icons/hi';
 import { TbArrowsExchange, TbArrowsShuffle, TbEye, TbEyeOff } from 'react-icons/tb';
 import { usePrevious } from 'react-use';
 import cn from 'clsx';
@@ -31,10 +31,30 @@ export interface LessonControls {
   navigate: (key: ArrowKey) => void;
   replay: () => void;
   restart: () => void;
+  toggleDictionary: () => void;
 }
+
+type Section = 'sentences' | 'dictionary';
 
 const audioUrl = (path: string) =>
   `${import.meta.env.BASE_URL}${path.replace(/^\/src\/assets\//, '')}`;
+
+const loadTranslations = async (lessonPath: string, file: 'tasks' | 'words') => {
+  const response = await fetch(`${import.meta.env.BASE_URL}${lessonPath}/${file}.json`, {
+    headers: { Accept: 'application/json' },
+  });
+  if (file === 'words' && response.status === 404) return [];
+  if (!response.ok) throw new Error(`Failed to load ${file}: ${response.status}`);
+
+  const tasks: TranslationTask[] = await response.json();
+  return tasks.map(({ id, ru, en }) => {
+    const audio: Translation['audio'] = {};
+    const audioPath = `${lessonPath}/audio/${file}_${String(id).padStart(3, '0')}`;
+    if (ru.audio) audio.ru = `${audioPath}_ru.m4a`;
+    if (en.audio) audio.en = `${audioPath}_en.m4a`;
+    return { ru: ru.text, en: en.text, audio };
+  });
+};
 
 const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   const { course, lesson, settings, onSwapDirection } = props;
@@ -49,6 +69,11 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   const [translations, setTranslations] = useState<Translation[] | null>(null);
   const [order, setOrder] = useState<number[]>([]);
   const [openSentences, setOpenSentences] = useState<number[] | null>(null);
+  const [words, setWords] = useState<Translation[]>([]);
+  const [wordOrder, setWordOrder] = useState<number[]>([]);
+  const [openWords, setOpenWords] = useState<number[]>([]);
+  const [dictionaryExpanded, setDictionaryExpanded] = useState(false);
+  const [section, setSection] = useState<Section>('sentences');
   const prevOpenSentences = usePrevious(openSentences);
   const [favoriteTranslations, setFavoriteTranslations] = useState<Translation[] | null>(null);
   const audioRef = useRef<HTMLAudioElement | null>(null);
@@ -59,6 +84,10 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   const [audioBlocked, setAudioBlocked] = useState(false);
   const [loadError, setLoadError] = useState(false);
   const selectedSentenceRef = useRef<HTMLDivElement | null>(null);
+  const inDictionary = section === 'dictionary';
+  const activeOrder = inDictionary ? wordOrder : order;
+  const activeTranslations = inDictionary ? words : translations;
+  const resetOnLessonEnd = !inDictionary && settings.resetOnLessonEnd;
 
   useEffect(() => {
     audioPrediction.current.reset();
@@ -76,13 +105,13 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
       const connection = (navigator as Navigator & { connection?: { saveData?: boolean } })
         .connection;
       const paths =
-        translations && !document.hidden && !connection?.saveData
+        activeTranslations && !document.hidden && !connection?.saveData
           ? audioPrediction.current.upcoming(
-              translations,
-              order,
+              activeTranslations,
+              activeOrder,
               selected,
               sourceLanguage,
-              settings.resetOnLessonEnd,
+              resetOnLessonEnd,
             )
           : [];
       audioCache.current.preload(paths.map(audioUrl));
@@ -90,7 +119,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     preload();
     document.addEventListener('visibilitychange', preload);
     return () => document.removeEventListener('visibilitychange', preload);
-  }, [order, selected, settings.resetOnLessonEnd, sourceLanguage, translations]);
+  }, [activeOrder, activeTranslations, resetOnLessonEnd, selected, sourceLanguage]);
 
   const startAudio = useCallback((audio: HTMLAudioElement) => {
     void audio.play().then(
@@ -136,24 +165,37 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   }, []);
 
   const rememberSelection = useCallback(
-    (next: SentenceSelection, key?: ArrowKey) => {
-      audioPrediction.current.observe(next, order, key, sourceLanguage);
+    (nextSection: Section, next: SentenceSelection, key?: ArrowKey) => {
+      if (nextSection !== section) audioPrediction.current.reset();
+      audioPrediction.current.observe(
+        next,
+        nextSection === 'dictionary' ? wordOrder : order,
+        key,
+        sourceLanguage,
+      );
+      setSection(nextSection);
       setSelected(next);
     },
-    [order, sourceLanguage],
+    [order, section, sourceLanguage, wordOrder],
   );
 
+  const revealTranslation = useCallback((rowSection: Section, idx: number) => {
+    const setOpen = rowSection === 'dictionary' ? setOpenWords : setOpenSentences;
+    setOpen((current: number[] | null) =>
+      current?.includes(idx) ? current : [...(current || []), idx],
+    );
+  }, []);
+
   const selectSentence = useCallback(
-    (next: SentenceSelection, announceCompletion = false, key?: ArrowKey) => {
-      if (!translations) return;
-      rememberSelection(next, key);
+    (nextSection: Section, next: SentenceSelection, announceCompletion = false, key?: ArrowKey) => {
+      const dictionary = nextSection === 'dictionary';
+      const translation = (dictionary ? words : translations)?.[next.idx];
+      if (!translation) return;
+      rememberSelection(nextSection, next, key);
+      if (dictionary) setDictionaryExpanded(true);
       setCursorVisible(true);
-      if (next.column === targetLanguage) {
-        setOpenSentences((current) =>
-          current?.includes(next.idx) ? current : [...(current || []), next.idx],
-        );
-      }
-      const audio = translations[next.idx].audio?.[next.column];
+      if (next.column === targetLanguage) revealTranslation(nextSection, next.idx);
+      const audio = translation.audio?.[next.column];
       if (announceCompletion) {
         playAudio('sounds/lesson-complete.wav', () => {
           if (audio) playAudio(audio);
@@ -165,42 +207,57 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
         setAudioBlocked(false);
       }
     },
-    [playAudio, rememberSelection, targetLanguage, translations],
+    [playAudio, rememberSelection, revealTranslation, targetLanguage, translations, words],
   );
 
   const restart = useCallback(() => {
-    if (!translations || !openSentences || !favoriteTranslations || !order.length) return;
-    const newOrder = shuffle(order);
+    if (!translations || !openSentences || !favoriteTranslations || !activeOrder.length) return;
+    const newOrder = shuffle(activeOrder);
     audioPrediction.current.reset();
-    setOrder(newOrder);
-    setOpenSentences([]);
-    selectSentence({ idx: newOrder[0], column: sourceLanguage }, true);
-  }, [favoriteTranslations, openSentences, order, selectSentence, sourceLanguage, translations]);
+    if (inDictionary) {
+      setWordOrder(newOrder);
+      setOpenWords([]);
+    } else {
+      setOrder(newOrder);
+      setOpenSentences([]);
+    }
+    selectSentence(section, { idx: newOrder[0], column: sourceLanguage }, !inDictionary);
+  }, [
+    activeOrder,
+    favoriteTranslations,
+    inDictionary,
+    openSentences,
+    section,
+    selectSentence,
+    sourceLanguage,
+    translations,
+  ]);
 
   const navigate = useCallback(
     (key: ArrowKey) => {
       if (!translations || !openSentences || !favoriteTranslations) return;
-      const next = getNextSentence(order, selected, key, sourceLanguage);
+      const next = getNextSentence(activeOrder, selected, key, sourceLanguage);
       if (!next) return;
       if (
-        settings.resetOnLessonEnd &&
+        resetOnLessonEnd &&
         key === 'ArrowRight' &&
-        selected?.idx === order[order.length - 1] &&
+        selected?.idx === activeOrder[activeOrder.length - 1] &&
         selected?.column === targetLanguage
       ) {
         restart();
         return;
       }
-      selectSentence(next, false, key);
+      selectSentence(section, next, false, key);
     },
     [
+      activeOrder,
       favoriteTranslations,
       openSentences,
-      order,
+      resetOnLessonEnd,
       restart,
+      section,
       selectSentence,
       selected,
-      settings.resetOnLessonEnd,
       sourceLanguage,
       targetLanguage,
       translations,
@@ -208,21 +265,49 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   );
 
   const replay = useCallback(() => {
-    if (!selected || !translations) return;
+    if (!selected || !activeTranslations) return;
+    if (inDictionary) setDictionaryExpanded(true);
     setCursorVisible(true);
-    const audio = translations[selected.idx].audio?.[selected.column];
+    const audio = activeTranslations[selected.idx].audio?.[selected.column];
     if (audio) playAudio(audio);
-  }, [playAudio, selected, translations]);
+  }, [activeTranslations, inDictionary, playAudio, selected]);
 
-  useImperativeHandle(ref, () => ({ navigate, replay, restart }), [navigate, replay, restart]);
+  const enterDictionary = useCallback(() => {
+    if (!wordOrder.length) return;
+    if (inDictionary && selected) {
+      setDictionaryExpanded(true);
+      setCursorVisible(true);
+    } else {
+      selectSentence('dictionary', { idx: wordOrder[0], column: sourceLanguage });
+    }
+  }, [inDictionary, selectSentence, selected, sourceLanguage, wordOrder]);
+
+  const toggleDictionary = useCallback(() => {
+    if (!inDictionary) {
+      enterDictionary();
+      return;
+    }
+    if (!order.length) return;
+    setDictionaryExpanded(false);
+    selectSentence('sentences', { idx: order[0], column: sourceLanguage });
+  }, [enterDictionary, inDictionary, order, selectSentence, sourceLanguage]);
+
+  useImperativeHandle(ref, () => ({ navigate, replay, restart, toggleDictionary }), [
+    navigate,
+    replay,
+    restart,
+    toggleDictionary,
+  ]);
 
   useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {
       const isReplay = event.key === ' ' || event.key === 'Enter';
       const isRestart = event.key === 'Escape';
+      const isDictionary = event.code === 'KeyV';
       if (
         (!isReplay &&
           !isRestart &&
+          !isDictionary &&
           !['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].includes(event.key)) ||
         event.altKey ||
         event.ctrlKey ||
@@ -245,8 +330,15 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
       )
         return;
 
+      if (isDictionary) {
+        if (!wordOrder.length) return;
+        event.preventDefault();
+        if (!event.repeat) enterDictionary();
+        return;
+      }
+
       if (isRestart) {
-        if (!order.length) return;
+        if (!activeOrder.length) return;
         event.preventDefault();
         if (!event.repeat) restart();
         return;
@@ -267,21 +359,23 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
         return;
       }
 
-      if (!order.length) return;
+      if (!activeOrder.length) return;
       event.preventDefault();
       navigate(event.key as ArrowKey);
     };
     document.addEventListener('keydown', handleKeyDown);
     return () => document.removeEventListener('keydown', handleKeyDown);
   }, [
+    activeOrder,
+    enterDictionary,
     favoriteTranslations,
     openSentences,
-    order,
     navigate,
     replay,
     restart,
     selected,
     translations,
+    wordOrder,
   ]);
 
   useEffect(() => {
@@ -318,7 +412,13 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
         window.removeEventListener('touchstart', cancel);
       };
     }
-  }, [cursorVisible, selected, settings.cursorZonePercent, settings.cursorScrollDurationMs]);
+  }, [
+    cursorVisible,
+    dictionaryExpanded,
+    selected,
+    settings.cursorZonePercent,
+    settings.cursorScrollDurationMs,
+  ]);
 
   useEffect(() => {
     let active = true;
@@ -382,32 +482,22 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
       setTranslations(null);
       setLoadError(false);
 
-      const newTranslations = await (async () => {
-        if (course === 'favorites') {
-          return loadFavoriteTranslations();
-        } else {
-          const lessonPath = `translations/${encodeURIComponent(course)}/${encodeURIComponent(lesson)}`;
-          const response = await fetch(`${import.meta.env.BASE_URL}${lessonPath}/tasks.json`);
-          if (!response.ok) {
-            throw new Error(`Failed to load translations: ${response.status}`);
-          }
-          const tasks: TranslationTask[] = await response.json();
-          return tasks.map(({ id, ru, en }) => {
-            const audio: Translation['audio'] = {};
-            const audioPath = `${lessonPath}/audio/tasks_${String(id).padStart(3, '0')}`;
-            if (ru.audio) {
-              audio.ru = `${audioPath}_ru.m4a`;
-            }
-            if (en.audio) {
-              audio.en = `${audioPath}_en.m4a`;
-            }
-            return { ru: ru.text, en: en.text, audio };
-          });
-        }
-      })();
+      const lessonPath = `translations/${encodeURIComponent(course)}/${encodeURIComponent(lesson)}`;
+      const [newTranslations, newWords] =
+        course === 'favorites'
+          ? [await loadFavoriteTranslations(), []]
+          : await Promise.all([
+              loadTranslations(lessonPath, 'tasks'),
+              loadTranslations(lessonPath, 'words'),
+            ]);
       if (active) {
         setTranslations(newTranslations);
-        setOrder(new Array(newTranslations.length).fill(0).map((_, idx) => idx));
+        setOrder(newTranslations.map((_, idx) => idx));
+        setWords(newWords);
+        setWordOrder(newWords.map((_, idx) => idx));
+        setOpenWords([]);
+        setDictionaryExpanded(false);
+        setSection(!newTranslations.length && newWords.length ? 'dictionary' : 'sentences');
       }
     })().catch((error: unknown) => {
       console.error('Error loading lesson:', error);
@@ -418,17 +508,14 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     };
   }, [course, lesson, loadFavoriteTranslations]);
 
-  const handleClickTargetSentence = (idx: number) => {
-    const audio = translations?.[idx]?.audio?.[targetLanguage];
-    if (settings.autoPlayOnReveal && audio && !openSentences?.includes(idx)) {
+  const handleClickTargetSentence = (rowSection: Section, idx: number) => {
+    const dictionary = rowSection === 'dictionary';
+    const audio = (dictionary ? words : translations)?.[idx]?.audio?.[targetLanguage];
+    const open = dictionary ? openWords : openSentences;
+    if (settings.autoPlayOnReveal && audio && !open?.includes(idx)) {
       playAudio(audio);
     }
-    setOpenSentences((v) => {
-      if (!v) {
-        return v;
-      }
-      return v.includes(idx) ? v : [...v, idx];
-    });
+    revealTranslation(rowSection, idx);
   };
 
   useEffect(() => {
@@ -444,16 +531,19 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
 
   const handleClickCloseAll = () => {
     setOpenSentences([]);
+    setOpenWords([]);
   };
 
   const handleClickOpenAll = () => {
-    setOpenSentences(new Array(translations?.length).fill(0).map((_, idx) => idx));
+    setOpenSentences([...order]);
+    setOpenWords([...wordOrder]);
   };
 
   const handleClickShuffle = () => {
     audioPrediction.current.reset();
     audioCache.current.preload([]);
     setOrder((v) => shuffle(v));
+    setWordOrder((v) => shuffle(v));
     setSelected(null);
     setCursorVisible(false);
   };
@@ -463,6 +553,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     audioRef.current = null;
     setAudioBlocked(false);
     setOpenSentences([]);
+    setOpenWords([]);
     setSelected(null);
     setCursorVisible(false);
     onSwapDirection();
@@ -489,7 +580,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     return <FullPageSpinner />;
   }
 
-  if (!order.length) {
+  if (!order.length && !wordOrder.length) {
     return (
       <div className="mx-auto max-w-xl rounded-lg border border-gray5 bg-white p-8 text-center">
         <HiOutlineStar size={32} className="mx-auto mb-3 text-orange2" aria-hidden="true" />
@@ -542,6 +633,131 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     </div>
   );
 
+  const renderRows = (rowSection: Section) => {
+    const dictionary = rowSection === 'dictionary';
+    const rows = dictionary ? words : translations;
+    const rowOrder = dictionary ? wordOrder : order;
+    const openRows = dictionary ? openWords : openSentences;
+    const selectRow = (
+      event: React.MouseEvent,
+      idx: number,
+      column: SentenceSelection['column'],
+    ) => {
+      if (inDictionary && !dictionary && event.detail === 0) return;
+      rememberSelection(rowSection, { idx, column });
+    };
+    return (
+      <table className="w-full">
+        <tbody className="divide-y divide-gray5 bg-white">
+          {rowOrder.map((idx) => {
+            const translation = rows[idx];
+            const { ru, en, audio } = translation;
+            const sourceAudio = audio?.[sourceLanguage];
+            const targetAudio = audio?.[targetLanguage];
+
+            const isOpen = openRows.includes(idx);
+            const isFavorite = favoriteTranslations.find((i) => i.ru === ru && i.en === en);
+            const selectedColumn =
+              section === rowSection && selected?.idx === idx ? selected.column : null;
+            return (
+              <tr
+                key={`${course}_${lesson}_${idx}`}
+                className="w-[50%] bg-white hover:bg-light-gray5"
+              >
+                <td className="w-[1px] px-2">
+                  <button
+                    type="button"
+                    className="flex min-h-10 min-w-8 items-center justify-center rounded focus-visible:outline-blue2"
+                    onClick={(event) => {
+                      if (section !== rowSection) selectRow(event, idx, sourceLanguage);
+                      addRemoveFromFavoriteTranslations(translation);
+                    }}
+                    aria-label={isFavorite ? 'Убрать из избранного' : 'Добавить в избранное'}
+                    aria-pressed={!!isFavorite}
+                  >
+                    {isFavorite ? (
+                      <HiStar size={24} className="text-orange5 opacity-50" aria-hidden="true" />
+                    ) : (
+                      <HiOutlineStar size={24} className="text-gray4" aria-hidden="true" />
+                    )}
+                  </button>
+                </td>
+                <td
+                  className="p-4 text-right align-top"
+                  onClick={(event) => selectRow(event, idx, sourceLanguage)}
+                >
+                  <div
+                    data-sentence={sourceLanguage}
+                    lang={sourceLanguage}
+                    ref={selectedColumn === sourceLanguage ? selectedSentenceRef : null}
+                    className={cn('sentence', {
+                      'sentence-selected': cursorVisible && selectedColumn === sourceLanguage,
+                    })}
+                  >
+                    {sourceAudio ? (
+                      <button
+                        type="button"
+                        className="text-right"
+                        onClick={() => playAudio(sourceAudio)}
+                      >
+                        <span className={cn({ 'audio-phrase': settings.showAudioUnderline })}>
+                          {translation[sourceLanguage]}
+                        </span>
+                      </button>
+                    ) : (
+                      translation[sourceLanguage]
+                    )}
+                  </div>
+                </td>
+                <td
+                  className="w-[50%] p-4 align-top"
+                  onClick={(event) => selectRow(event, idx, targetLanguage)}
+                >
+                  <div
+                    data-sentence={targetLanguage}
+                    lang={targetLanguage}
+                    ref={selectedColumn === targetLanguage ? selectedSentenceRef : null}
+                    className={cn('sentence relative text-blue1', {
+                      'sentence-selected': cursorVisible && selectedColumn === targetLanguage,
+                    })}
+                  >
+                    <div aria-hidden={!isOpen}>
+                      {targetAudio ? (
+                        <button
+                          type="button"
+                          className="text-left"
+                          tabIndex={isOpen ? 0 : -1}
+                          onClick={() => playAudio(targetAudio)}
+                        >
+                          <span className={cn({ 'audio-phrase': settings.showAudioUnderline })}>
+                            {translation[targetLanguage]}
+                          </span>
+                        </button>
+                      ) : (
+                        translation[targetLanguage]
+                      )}
+                    </div>
+                    <button
+                      type="button"
+                      className={cn(
+                        'absolute -bottom-1 left-0 right-0 top-0 w-full cursor-pointer bg-gray5 transition-opacity',
+                        { 'pointer-events-none opacity-0': isOpen },
+                      )}
+                      aria-label="Открыть перевод"
+                      aria-hidden={isOpen}
+                      tabIndex={isOpen ? -1 : 0}
+                      onClick={() => handleClickTargetSentence(rowSection, idx)}
+                    />
+                  </div>
+                </td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    );
+  };
+
   return (
     <div className="fade-in">
       {controls}
@@ -553,121 +769,42 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
           </Button>
         </div>
       )}
-      <div className="mx-auto my-8 max-w-[800px] overflow-hidden rounded-lg border border-gray3">
-        <table className="w-full">
-          <tbody className="divide-y divide-gray5 bg-white">
-            {order.map((idx) => {
-              const translation = translations[idx];
-              const { ru, en, audio } = translation;
-              const sourceAudio = audio?.[sourceLanguage];
-              const targetAudio = audio?.[targetLanguage];
-
-              const isOpen = openSentences.includes(idx);
-              const isFavorite = favoriteTranslations.find((i) => i.ru === ru && i.en === en);
-              return (
-                <tr
-                  key={`${course}_${lesson}_${idx}`}
-                  className="w-[50%] bg-white hover:bg-light-gray5"
-                >
-                  <td className="w-[1px] px-2">
-                    <button
-                      type="button"
-                      className="flex min-h-10 min-w-8 items-center justify-center rounded focus-visible:outline-blue2"
-                      onClick={() => addRemoveFromFavoriteTranslations(translation)}
-                      aria-label={isFavorite ? 'Убрать из избранного' : 'Добавить в избранное'}
-                      aria-pressed={!!isFavorite}
-                    >
-                      {isFavorite ? (
-                        <HiStar size={24} className="text-orange5 opacity-50" aria-hidden="true" />
-                      ) : (
-                        <HiOutlineStar size={24} className="text-gray4" aria-hidden="true" />
-                      )}
-                    </button>
-                  </td>
-                  <td className="p-4 text-right align-top">
-                    <div
-                      data-sentence={sourceLanguage}
-                      lang={sourceLanguage}
-                      ref={
-                        selected?.idx === idx && selected.column === sourceLanguage
-                          ? selectedSentenceRef
-                          : null
-                      }
-                      className={cn('sentence', {
-                        'sentence-selected':
-                          cursorVisible &&
-                          selected?.idx === idx &&
-                          selected.column === sourceLanguage,
-                      })}
-                      onClick={() => rememberSelection({ idx, column: sourceLanguage })}
-                    >
-                      {sourceAudio ? (
-                        <button
-                          type="button"
-                          className="text-right"
-                          onClick={() => playAudio(sourceAudio)}
-                        >
-                          <span className={cn({ 'audio-phrase': settings.showAudioUnderline })}>
-                            {translation[sourceLanguage]}
-                          </span>
-                        </button>
-                      ) : (
-                        translation[sourceLanguage]
-                      )}
-                    </div>
-                  </td>
-                  <td className="w-[50%] p-4 align-top">
-                    <div
-                      data-sentence={targetLanguage}
-                      lang={targetLanguage}
-                      ref={
-                        selected?.idx === idx && selected.column === targetLanguage
-                          ? selectedSentenceRef
-                          : null
-                      }
-                      className={cn('sentence relative text-blue1', {
-                        'sentence-selected':
-                          cursorVisible &&
-                          selected?.idx === idx &&
-                          selected.column === targetLanguage,
-                      })}
-                      onClick={() => rememberSelection({ idx, column: targetLanguage })}
-                    >
-                      <div aria-hidden={!isOpen}>
-                        {targetAudio ? (
-                          <button
-                            type="button"
-                            className="text-left"
-                            tabIndex={isOpen ? 0 : -1}
-                            onClick={() => playAudio(targetAudio)}
-                          >
-                            <span className={cn({ 'audio-phrase': settings.showAudioUnderline })}>
-                              {translation[targetLanguage]}
-                            </span>
-                          </button>
-                        ) : (
-                          translation[targetLanguage]
-                        )}
-                      </div>
-                      <button
-                        type="button"
-                        className={cn(
-                          'absolute -bottom-1 left-0 right-0 top-0 w-full cursor-pointer bg-gray5 transition-opacity',
-                          { 'pointer-events-none opacity-0': isOpen },
-                        )}
-                        aria-label="Открыть перевод"
-                        aria-hidden={isOpen}
-                        tabIndex={isOpen ? -1 : 0}
-                        onClick={() => handleClickTargetSentence(idx)}
-                      />
-                    </div>
-                  </td>
-                </tr>
-              );
-            })}
-          </tbody>
-        </table>
-      </div>
+      {!!wordOrder.length && (
+        <div className="mx-auto my-8 max-w-[800px] overflow-hidden rounded-lg border border-gray3">
+          <button
+            type="button"
+            aria-expanded={dictionaryExpanded}
+            aria-controls="lesson-dictionary"
+            className="flex w-full items-center justify-between bg-white p-4 text-left font-semibold hover:bg-light-gray5 focus-visible:outline focus-visible:-outline-offset-2 focus-visible:outline-blue2"
+            onClick={() => {
+              setDictionaryExpanded(!dictionaryExpanded);
+              if (!dictionaryExpanded && !inDictionary) {
+                audioPrediction.current.reset();
+                setSection('dictionary');
+                setSelected(null);
+              }
+            }}
+          >
+            Словарь ({words.length})
+            <HiChevronDown
+              className={cn({ 'rotate-180': dictionaryExpanded })}
+              aria-hidden="true"
+            />
+          </button>
+          <div
+            id="lesson-dictionary"
+            hidden={!dictionaryExpanded}
+            className="border-t border-gray3"
+          >
+            {dictionaryExpanded && renderRows('dictionary')}
+          </div>
+        </div>
+      )}
+      {!!order.length && (
+        <div className="mx-auto my-8 max-w-[800px] overflow-hidden rounded-lg border border-gray3">
+          {renderRows('sentences')}
+        </div>
+      )}
       {controls}
     </div>
   );

@@ -1,0 +1,830 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "я",
+      "audio": false
+    },
+    "en": {
+      "text": "I",
+      "audio": true,
+      "transcription": "aɪ"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "говорить",
+      "audio": false
+    },
+    "en": {
+      "text": "speak",
+      "audio": true,
+      "transcription": "spi:k"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "английский",
+      "audio": false
+    },
+    "en": {
+      "text": "English",
+      "audio": true,
+      "transcription": "ˈɪŋglɪʃ"
+    }
+  },
+  {
+    "id": 4,
+    "ru": {
+      "text": "мочь, уметь",
+      "audio": false
+    },
+    "en": {
+      "text": "can",
+      "audio": true,
+      "transcription": "kæn"
+    }
+  },
+  {
+    "id": 5,
+    "ru": {
+      "text": "понимать",
+      "audio": false
+    },
+    "en": {
+      "text": "understand",
+      "audio": true,
+      "transcription": "ˌʌndəˈstænd"
+    }
+  },
+  {
+    "id": 6,
+    "ru": {
+      "text": "ты, тебе",
+      "audio": false
+    },
+    "en": {
+      "text": "you",
+      "audio": true,
+      "transcription": "ju:"
+    }
+  },
+  {
+    "id": 7,
+    "ru": {
+      "text": "это",
+      "audio": false
+    },
+    "en": {
+      "text": "it",
+      "audio": true,
+      "transcription": "ɪt"
+    }
+  },
+  {
+    "id": 8,
+    "ru": {
+      "text": "очень",
+      "audio": false
+    },
+    "en": {
+      "text": "very",
+      "audio": true,
+      "transcription": "ˈveri"
+    }
+  },
+  {
+    "id": 9,
+    "ru": {
+      "text": "хорошо",
+      "audio": false
+    },
+    "en": {
+      "text": "well",
+      "audio": true,
+      "transcription": "wel"
+    }
+  },
+  {
+    "id": 10,
+    "ru": {
+      "text": "работа, работать",
+      "audio": false
+    },
+    "en": {
+      "text": "work",
+      "audio": true,
+      "transcription": "wɜ:k"
+    }
+  },
+  {
+    "id": 11,
+    "ru": {
+      "text": "учиться",
+      "audio": false
+    },
+    "en": {
+      "text": "study",
+      "audio": true,
+      "transcription": "ˈstʌdi"
+    }
+  },
+  {
+    "id": 12,
+    "ru": {
+      "text": "и",
+      "audio": false
+    },
+    "en": {
+      "text": "and",
+      "audio": true,
+      "transcription": "ænd"
+    }
+  },
+  {
+    "id": 13,
+    "ru": {
+      "text": "учиться, изучать",
+      "audio": false
+    },
+    "en": {
+      "text": "learn",
+      "audio": true,
+      "transcription": "lɜ:n"
+    }
+  },
+  {
+    "id": 14,
+    "ru": {
+      "text": "нравиться",
+      "audio": false
+    },
+    "en": {
+      "text": "like",
+      "audio": true,
+      "transcription": "laɪk"
+    }
+  },
+  {
+    "id": 15,
+    "ru": {
+      "text": "этот",
+      "audio": false
+    },
+    "en": {
+      "text": "this",
+      "audio": true,
+      "transcription": "ðɪs"
+    }
+  },
+  {
+    "id": 16,
+    "ru": {
+      "text": "онлайн",
+      "audio": false
+    },
+    "en": {
+      "text": "online",
+      "audio": true,
+      "transcription": "ˈɒnˌlaɪn"
+    }
+  },
+  {
+    "id": 17,
+    "ru": {
+      "text": "место",
+      "audio": false
+    },
+    "en": {
+      "text": "place",
+      "audio": true,
+      "transcription": "pleɪs"
+    }
+  },
+  {
+    "id": 18,
+    "ru": {
+      "text": "город",
+      "audio": false
+    },
+    "en": {
+      "text": "city",
+      "audio": true,
+      "transcription": "ˈsɪti"
+    }
+  },
+  {
+    "id": 19,
+    "ru": {
+      "text": "жить",
+      "audio": false
+    },
+    "en": {
+      "text": "live",
+      "audio": true,
+      "transcription": "lɪv"
+    }
+  },
+  {
+    "id": 20,
+    "ru": {
+      "text": "в",
+      "audio": false
+    },
+    "en": {
+      "text": "in",
+      "audio": true,
+      "transcription": "ɪn"
+    }
+  },
+  {
+    "id": 21,
+    "ru": {
+      "text": "Россия",
+      "audio": false
+    },
+    "en": {
+      "text": "Russia",
+      "audio": true,
+      "transcription": "ˈrʌʃə"
+    }
+  },
+  {
+    "id": 22,
+    "ru": {
+      "text": "Нью-Йорк",
+      "audio": false
+    },
+    "en": {
+      "text": "New York",
+      "audio": true,
+      "transcription": "nju: jɔ:k"
+    }
+  },
+  {
+    "id": 23,
+    "ru": {
+      "text": "страна",
+      "audio": false
+    },
+    "en": {
+      "text": "country",
+      "audio": true,
+      "transcription": "ˈkʌntri"
+    }
+  },
+  {
+    "id": 24,
+    "ru": {
+      "text": "мы",
+      "audio": false
+    },
+    "en": {
+      "text": "we",
+      "audio": true,
+      "transcription": "wi:"
+    }
+  },
+  {
+    "id": 25,
+    "ru": {
+      "text": "они",
+      "audio": false
+    },
+    "en": {
+      "text": "they",
+      "audio": true,
+      "transcription": "ðeɪ"
+    }
+  },
+  {
+    "id": 26,
+    "ru": {
+      "text": "помогать, помощь",
+      "audio": false
+    },
+    "en": {
+      "text": "help",
+      "audio": true,
+      "transcription": "help"
+    }
+  },
+  {
+    "id": 27,
+    "ru": {
+      "text": "меня, мне",
+      "audio": false
+    },
+    "en": {
+      "text": "me",
+      "audio": true,
+      "transcription": "mi:"
+    }
+  },
+  {
+    "id": 28,
+    "ru": {
+      "text": "очень, действительно",
+      "audio": false
+    },
+    "en": {
+      "text": "really",
+      "audio": true,
+      "transcription": "ˈrɪəli"
+    }
+  },
+  {
+    "id": 29,
+    "ru": {
+      "text": "хотеть",
+      "audio": false
+    },
+    "en": {
+      "text": "want",
+      "audio": true,
+      "transcription": "wɒnt"
+    }
+  },
+  {
+    "id": 30,
+    "ru": {
+      "text": "урок",
+      "audio": false
+    },
+    "en": {
+      "text": "lesson",
+      "audio": true,
+      "transcription": "ˈlesn"
+    }
+  },
+  {
+    "id": 31,
+    "ru": {
+      "text": "видео",
+      "audio": false
+    },
+    "en": {
+      "text": "video",
+      "audio": true,
+      "transcription": "ˈvɪdɪəʊ"
+    }
+  },
+  {
+    "id": 32,
+    "ru": {
+      "text": "программа",
+      "audio": false
+    },
+    "en": {
+      "text": "program",
+      "audio": true,
+      "transcription": "ˈprəʊgræm"
+    }
+  },
+  {
+    "id": 33,
+    "ru": {
+      "text": "видеть",
+      "audio": false
+    },
+    "en": {
+      "text": "see",
+      "audio": true,
+      "transcription": "si:"
+    }
+  },
+  {
+    "id": 34,
+    "ru": {
+      "text": "мой",
+      "audio": false
+    },
+    "en": {
+      "text": "my",
+      "audio": true,
+      "transcription": "maɪ"
+    }
+  },
+  {
+    "id": 35,
+    "ru": {
+      "text": "результат",
+      "audio": false
+    },
+    "en": {
+      "text": "result",
+      "audio": true,
+      "transcription": "rɪˈzʌlt"
+    }
+  },
+  {
+    "id": 36,
+    "ru": {
+      "text": "русский",
+      "audio": false
+    },
+    "en": {
+      "text": "Russian",
+      "audio": true,
+      "transcription": "ˈrʌʃn"
+    }
+  },
+  {
+    "id": 37,
+    "ru": {
+      "text": "знать",
+      "audio": false
+    },
+    "en": {
+      "text": "know",
+      "audio": true,
+      "transcription": "nəʊ"
+    }
+  },
+  {
+    "id": 38,
+    "ru": {
+      "text": "идти, ехать",
+      "audio": false
+    },
+    "en": {
+      "text": "go",
+      "audio": true,
+      "transcription": "gəʊ"
+    }
+  },
+  {
+    "id": 39,
+    "ru": {
+      "text": "в, к",
+      "audio": false
+    },
+    "en": {
+      "text": "to",
+      "audio": true,
+      "transcription": "tu:"
+    }
+  },
+  {
+    "id": 40,
+    "ru": {
+      "text": "школа",
+      "audio": false
+    },
+    "en": {
+      "text": "school",
+      "audio": true,
+      "transcription": "sku:l"
+    }
+  },
+  {
+    "id": 41,
+    "ru": {
+      "text": "часто",
+      "audio": false
+    },
+    "en": {
+      "text": "often",
+      "audio": true,
+      "transcription": "ˈɒfn"
+    }
+  },
+  {
+    "id": 42,
+    "ru": {
+      "text": "здесь, сюда",
+      "audio": false
+    },
+    "en": {
+      "text": "here",
+      "audio": true,
+      "transcription": "hɪə"
+    }
+  },
+  {
+    "id": 43,
+    "ru": {
+      "text": "там, туда",
+      "audio": false
+    },
+    "en": {
+      "text": "there",
+      "audio": true,
+      "transcription": "ðeə"
+    }
+  },
+  {
+    "id": 44,
+    "ru": {
+      "text": "язык",
+      "audio": false
+    },
+    "en": {
+      "text": "language",
+      "audio": true,
+      "transcription": "ˈlæŋgwɪʤ"
+    }
+  },
+  {
+    "id": 45,
+    "ru": {
+      "text": "каждый",
+      "audio": false
+    },
+    "en": {
+      "text": "every",
+      "audio": true,
+      "transcription": "ˈevri"
+    }
+  },
+  {
+    "id": 46,
+    "ru": {
+      "text": "день",
+      "audio": false
+    },
+    "en": {
+      "text": "day",
+      "audio": true,
+      "transcription": "deɪ"
+    }
+  },
+  {
+    "id": 47,
+    "ru": {
+      "text": "делать",
+      "audio": false
+    },
+    "en": {
+      "text": "do",
+      "audio": true,
+      "transcription": "du:"
+    }
+  },
+  {
+    "id": 48,
+    "ru": {
+      "text": "путешествовать",
+      "audio": false
+    },
+    "en": {
+      "text": "travel",
+      "audio": true,
+      "transcription": "ˈtrævl"
+    }
+  },
+  {
+    "id": 49,
+    "ru": {
+      "text": "год",
+      "audio": false
+    },
+    "en": {
+      "text": "year",
+      "audio": true,
+      "transcription": "jɪə"
+    }
+  },
+  {
+    "id": 50,
+    "ru": {
+      "text": "путешествие",
+      "audio": false
+    },
+    "en": {
+      "text": "travelling",
+      "audio": true,
+      "transcription": "ˈtrævlɪŋ"
+    }
+  },
+  {
+    "id": 51,
+    "ru": {
+      "text": "игра",
+      "audio": false
+    },
+    "en": {
+      "text": "game",
+      "audio": true,
+      "transcription": "geɪm"
+    }
+  },
+  {
+    "id": 52,
+    "ru": {
+      "text": "играть",
+      "audio": false
+    },
+    "en": {
+      "text": "play",
+      "audio": true,
+      "transcription": "pleɪ"
+    }
+  },
+  {
+    "id": 53,
+    "ru": {
+      "text": "футбол",
+      "audio": false
+    },
+    "en": {
+      "text": "football",
+      "audio": true,
+      "transcription": "ˈfʊtbɔ:l"
+    }
+  },
+  {
+    "id": 54,
+    "ru": {
+      "text": "так, такой",
+      "audio": false
+    },
+    "en": {
+      "text": "so",
+      "audio": true,
+      "transcription": "səʊ"
+    }
+  },
+  {
+    "id": 55,
+    "ru": {
+      "text": "также, тоже",
+      "audio": false
+    },
+    "en": {
+      "text": "also",
+      "audio": true,
+      "transcription": "ˈɔ:lsəʊ"
+    }
+  },
+  {
+    "id": 56,
+    "ru": {
+      "text": "думать",
+      "audio": false
+    },
+    "en": {
+      "text": "think",
+      "audio": true,
+      "transcription": "θɪŋk"
+    }
+  },
+  {
+    "id": 57,
+    "ru": {
+      "text": "о, об",
+      "audio": false
+    },
+    "en": {
+      "text": "about",
+      "audio": true,
+      "transcription": "əˈbaʊt"
+    }
+  },
+  {
+    "id": 58,
+    "ru": {
+      "text": "иногда",
+      "audio": false
+    },
+    "en": {
+      "text": "sometimes",
+      "audio": true,
+      "transcription": "ˈsʌmtaɪmz"
+    }
+  },
+  {
+    "id": 59,
+    "ru": {
+      "text": "любить, любовь",
+      "audio": false
+    },
+    "en": {
+      "text": "love",
+      "audio": true,
+      "transcription": "lʌv"
+    }
+  },
+  {
+    "id": 60,
+    "ru": {
+      "text": "песня",
+      "audio": false
+    },
+    "en": {
+      "text": "song",
+      "audio": true,
+      "transcription": "sɒŋ"
+    }
+  },
+  {
+    "id": 61,
+    "ru": {
+      "text": "музыка",
+      "audio": false
+    },
+    "en": {
+      "text": "music",
+      "audio": true,
+      "transcription": "ˈmju:zɪk"
+    }
+  },
+  {
+    "id": 62,
+    "ru": {
+      "text": "читать",
+      "audio": false
+    },
+    "en": {
+      "text": "read",
+      "audio": true,
+      "transcription": "ri:d"
+    }
+  },
+  {
+    "id": 63,
+    "ru": {
+      "text": "книга",
+      "audio": false
+    },
+    "en": {
+      "text": "book",
+      "audio": true,
+      "transcription": "bʊk"
+    }
+  },
+  {
+    "id": 64,
+    "ru": {
+      "text": "больше, более",
+      "audio": false
+    },
+    "en": {
+      "text": "more",
+      "audio": true,
+      "transcription": "mɔ:"
+    }
+  },
+  {
+    "id": 65,
+    "ru": {
+      "text": "практика",
+      "audio": false
+    },
+    "en": {
+      "text": "practice",
+      "audio": true,
+      "transcription": "ˈpræktɪs"
+    }
+  },
+  {
+    "id": 66,
+    "ru": {
+      "text": "эти",
+      "audio": false
+    },
+    "en": {
+      "text": "these",
+      "audio": true,
+      "transcription": "ði:z"
+    }
+  },
+  {
+    "id": 67,
+    "ru": {
+      "text": "обычно",
+      "audio": false
+    },
+    "en": {
+      "text": "usually",
+      "audio": true,
+      "transcription": "ˈju:ʒʊəli"
+    }
+  },
+  {
+    "id": 68,
+    "ru": {
+      "text": "купить",
+      "audio": false
+    },
+    "en": {
+      "text": "buy",
+      "audio": true,
+      "transcription": "baɪ"
+    }
+  },
+  {
+    "id": 69,
+    "ru": {
+      "text": "вещь",
+      "audio": false
+    },
+    "en": {
+      "text": "thing",
+      "audio": true,
+      "transcription": "θɪŋ"
+    }
+  }
+]

@@ -5,12 +5,14 @@ export type GamepadAction =
   | 'ArrowRight'
   | 'replay'
   | 'restart'
+  | 'toggleDictionary'
   | 'previousLesson'
   | 'nextLesson';
 
 const getAction = (gamepad: Gamepad): GamepadAction | null => {
   const pressed = (index: number) => gamepad.buttons[index]?.pressed;
   if (pressed(9)) return 'restart';
+  if (pressed(8)) return 'toggleDictionary';
   if (pressed(4) && !pressed(5)) return 'previousLesson';
   if (pressed(5) && !pressed(4)) return 'nextLesson';
   if (pressed(0)) return 'replay';
@@ -25,6 +27,15 @@ const getAction = (gamepad: Gamepad): GamepadAction | null => {
   if (Math.abs(stickX) > Math.abs(stickY)) return stickX > 0 ? 'ArrowRight' : 'ArrowLeft';
   return stickY > 0 ? 'ArrowDown' : 'ArrowUp';
 };
+
+const actionButtons: Partial<Record<GamepadAction, number>> = {
+  replay: 0,
+  previousLesson: 4,
+  nextLesson: 5,
+  toggleDictionary: 8,
+  restart: 9,
+};
+const buttonIndices = Object.values(actionButtons);
 
 // Keep this reader alive across lesson changes so a held bumper switches only one lesson.
 export const createGamepadReader = () => {
@@ -44,18 +55,9 @@ export const createGamepadReader = () => {
       previousButtons = new Set();
     }
     const action = gamepad ? getAction(gamepad) : null;
-    const button =
-      action === 'restart'
-        ? 9
-        : action === 'replay'
-          ? 0
-          : action === 'previousLesson'
-            ? 4
-            : action === 'nextLesson'
-              ? 5
-              : null;
-    const alreadyPressed = button !== null && previousButtons.has(button);
-    previousButtons = new Set([0, 4, 5, 9].filter((index) => gamepad?.buttons[index]?.pressed));
+    const button = action ? actionButtons[action] : undefined;
+    const alreadyPressed = button !== undefined && previousButtons.has(button);
+    previousButtons = new Set(buttonIndices.filter((index) => gamepad?.buttons[index]?.pressed));
     if (!enabled || waitingForRelease) {
       previous = null;
       if (enabled && !action) waitingForRelease = false;

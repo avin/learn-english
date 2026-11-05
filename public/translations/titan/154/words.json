@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "ru": {
+      "text": "винить",
+      "audio": false
+    },
+    "en": {
+      "text": "blame",
+      "audio": true,
+      "transcription": "bleɪm"
+    }
+  },
+  {
+    "id": 2,
+    "ru": {
+      "text": "уделять, посвящать",
+      "audio": false
+    },
+    "en": {
+      "text": "devote",
+      "audio": true,
+      "transcription": "dɪˈvəʊt"
+    }
+  },
+  {
+    "id": 3,
+    "ru": {
+      "text": "турнир",
+      "audio": false
+    },
+    "en": {
+      "text": "tournament",
+      "audio": true,
+      "transcription": "ˈtʊənəmənt"
+    }
+  }
+]

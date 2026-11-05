@@ -158,6 +158,17 @@ const sentences = () => renderer.root.findAll((item) => item.props['data-sentenc
 const clickCell = (idx, detail = 1) => sentences()[idx].parent.props.onClick({ detail });
 const dictionary = () => renderer.root.findAllByProps({ 'aria-controls': 'lesson-dictionary' });
 
+test('a lesson without tasks loads its dictionary collapsed', async () => {
+  globalThis.fetch = async (url) =>
+    url.endsWith('/tasks.json') ? { ok: false, status: 404 } : withDictionary(url);
+  await renderLesson();
+  assert.equal(renderer.root.findAllByProps({ role: 'alert' }).length, 0);
+  assert.equal(dictionary()[0].props['aria-expanded'], false);
+  assert.equal(sentences().length, 0);
+  act(() => dictionary()[0].props.onClick());
+  assert.equal(sentences()[0].findByType('span').children.join(''), 'кот');
+});
+
 test('both toolbars have icons; swapping exchanges languages, closes answers and stops audio', async () => {
   await renderLesson();
   assert.equal(dictionary().length, 0);

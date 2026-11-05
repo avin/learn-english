@@ -49,7 +49,6 @@ def main():
     pdfs = [(course, p) for course, folder in sources for p in folder.rglob("*.pdf")]
     candidates = {}
     scanned = 0
-    skipped = []
     for course, pdf in sorted(pdfs, key=lambda item: str(item[1])):
         result = subprocess.run([args.pdftotext, "-enc", "UTF-8", "-layout", str(pdf), "-"],
                                 check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
@@ -72,9 +71,6 @@ def main():
                 raise ValueError(f"Cannot identify Express lesson for {pdf}")
             lesson = f"{pdf.parent.name} {re.sub(r'\s+', '', pair.group(1))}"
         target = args.translations / course / lesson / "words.json"
-        if not (target.parent / "tasks.json").is_file():
-            skipped.append(str(pdf))
-            continue
         words = parse_words(text, pdf)
         if target in candidates and candidates[target][0] != words:
             raise ValueError(f"Conflicting dictionaries for {target}: {candidates[target][1]} and {pdf}")
@@ -94,13 +90,11 @@ def main():
             created.append((target, words))
     for target, words in created:
         if not args.dry_run:
+            target.parent.mkdir(parents=True, exist_ok=True)
             target.write_text(json.dumps(words, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         print(f"{'Would create' if args.dry_run else 'Created'} {target} ({len(words)} entries)")
-    for pdf in skipped:
-        print(f"Skipping {pdf}: no matching lesson", file=sys.stderr)
     print(f"Scanned {scanned} PDFs; {'would create' if args.dry_run else 'created'} {len(created)} "
-          f"dictionaries; preserved {len(existing)} existing dictionaries; "
-          f"skipped {len(skipped)} PDFs without matching lessons.")
+          f"dictionaries; preserved {len(existing)} existing dictionaries.")
 
 
 if __name__ == "__main__":

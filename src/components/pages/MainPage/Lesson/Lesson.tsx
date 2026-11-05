@@ -43,7 +43,7 @@ const loadTranslations = async (lessonPath: string, file: 'tasks' | 'words') => 
   const response = await fetch(`${import.meta.env.BASE_URL}${lessonPath}/${file}.json`, {
     headers: { Accept: 'application/json' },
   });
-  if (file === 'words' && response.status === 404) return [];
+  if (response.status === 404) return file === 'words' ? [] : null;
   if (!response.ok) throw new Error(`Failed to load ${file}: ${response.status}`);
 
   const tasks: TranslationTask[] = await response.json();
@@ -493,21 +493,26 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
       setLoadError(false);
 
       const lessonPath = `translations/${encodeURIComponent(course)}/${encodeURIComponent(lesson)}`;
-      const [newTranslations, newWords] =
+      const [loadedTranslations, newWords] =
         course === 'favorites'
           ? [await loadFavoriteTranslations(), []]
           : await Promise.all([
               loadTranslations(lessonPath, 'tasks'),
               loadTranslations(lessonPath, 'words'),
             ]);
+      if (loadedTranslations === null && !newWords?.length) {
+        throw new Error('Lesson tasks and dictionary are missing');
+      }
+      const newTranslations = loadedTranslations ?? [];
+      const lessonWords = newWords ?? [];
       if (active) {
         setTranslations(newTranslations);
         setOrder(newTranslations.map((_, idx) => idx));
-        setWords(newWords);
-        setWordOrder(newWords.map((_, idx) => idx));
+        setWords(lessonWords);
+        setWordOrder(lessonWords.map((_, idx) => idx));
         setOpenWords([]);
         setDictionaryExpanded(false);
-        setSection(!newTranslations.length && newWords.length ? 'dictionary' : 'sentences');
+        setSection(!newTranslations.length && lessonWords.length ? 'dictionary' : 'sentences');
       }
     })().catch((error: unknown) => {
       console.error('Error loading lesson:', error);

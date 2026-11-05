@@ -662,9 +662,9 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
             return (
               <tr
                 key={`${course}_${lesson}_${idx}`}
-                className="w-[50%] bg-white hover:bg-light-gray5"
+                className="grid grid-cols-[40px_minmax(0,1fr)] bg-white hover:bg-light-gray5 sm:table-row sm:w-[50%]"
               >
-                <td className="w-[1px] px-2">
+                <td className="row-span-2 pt-3 sm:w-[1px] sm:px-2 sm:pt-0">
                   <button
                     type="button"
                     className="flex min-h-10 min-w-8 items-center justify-center rounded focus-visible:outline-blue2"
@@ -683,21 +683,21 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
                   </button>
                 </td>
                 <td
-                  className="p-4 text-right align-top"
+                  className="min-w-0 px-3 pb-1 pt-3 text-left align-top sm:p-4 sm:text-right"
                   onClick={(event) => selectRow(event, idx, sourceLanguage)}
                 >
                   <div
                     data-sentence={sourceLanguage}
                     lang={sourceLanguage}
                     ref={selectedColumn === sourceLanguage ? selectedSentenceRef : null}
-                    className={cn('sentence', {
+                    className={cn('sentence break-words', {
                       'sentence-selected': cursorVisible && selectedColumn === sourceLanguage,
                     })}
                   >
                     {sourceAudio ? (
                       <button
                         type="button"
-                        className="text-right"
+                        className="text-left sm:text-right"
                         onClick={() => playAudio(sourceAudio)}
                       >
                         <span className={cn({ 'audio-phrase': settings.showAudioUnderline })}>
@@ -710,14 +710,14 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
                   </div>
                 </td>
                 <td
-                  className="w-[50%] p-4 align-top"
+                  className="min-w-0 px-3 pb-3 pt-1 align-top sm:w-[50%] sm:p-4"
                   onClick={(event) => selectRow(event, idx, targetLanguage)}
                 >
                   <div
                     data-sentence={targetLanguage}
                     lang={targetLanguage}
                     ref={selectedColumn === targetLanguage ? selectedSentenceRef : null}
-                    className={cn('sentence relative text-blue1', {
+                    className={cn('sentence relative min-h-6 break-words text-blue1', {
                       'sentence-selected': cursorVisible && selectedColumn === targetLanguage,
                     })}
                   >

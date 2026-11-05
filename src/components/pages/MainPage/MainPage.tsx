@@ -194,7 +194,7 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
 
   return (
     <div>
-      <header className="flex flex-wrap items-center justify-between gap-4 border-b border-gray3 bg-light-gray3 px-4 py-2">
+      <header className="flex flex-wrap items-center justify-between gap-3 border-b border-gray3 bg-light-gray3 px-3 py-2 sm:gap-4 sm:px-4">
         <div className="flex items-center gap-3">
           <h1 className="text-gray-500 text-lg font-bold">Тренажёр перевода</h1>
           <Button
@@ -212,7 +212,7 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
             <TbDeviceGamepad2 size={20} aria-hidden="true" />
           </Button>
         </div>
-        <div className="flex flex-wrap items-center justify-end gap-4">
+        <div className="flex w-full flex-wrap items-center justify-start gap-3 sm:w-auto sm:justify-end sm:gap-4">
           <Select
             label="Курс"
             value={course}
@@ -279,7 +279,7 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
           onClose={() => setSettingsOpen(false)}
         />
       )}
-      <div className="p-8">
+      <div className="px-3 py-5 sm:p-8">
         {course && lesson !== null ? (
           <Lesson
             ref={lessonRef}

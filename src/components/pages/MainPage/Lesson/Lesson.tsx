@@ -343,7 +343,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
       if (isDictionary) {
         if (!wordOrder.length) return;
         event.preventDefault();
-        if (!event.repeat) enterDictionary();
+        if (!event.repeat) toggleDictionary();
         return;
       }
 
@@ -377,7 +377,6 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     return () => document.removeEventListener('keydown', handleKeyDown);
   }, [
     activeOrder,
-    enterDictionary,
     favoriteTranslations,
     openSentences,
     navigate,
@@ -385,6 +384,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     restart,
     selected,
     translations,
+    toggleDictionary,
     wordOrder,
   ]);
 

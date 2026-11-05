@@ -13,8 +13,11 @@ const actions = [
   { label: 'Предыдущая ячейка', keyboard: [['←']], gamepad: ['←'] },
   { label: 'Следующая ячейка', keyboard: [['→']], gamepad: ['→'] },
   { label: 'Повторить озвучку', keyboard: [['Пробел'], ['Enter']], gamepad: ['A', '✕'] },
-  { label: 'Перейти в словарь', keyboard: [['V']], gamepad: ['Select', 'Share'] },
-  { label: 'Вернуться к предложениям', keyboard: [], gamepad: ['Select', 'Share'] },
+  {
+    label: 'Переключиться между словарём и предложениями',
+    keyboard: [['V']],
+    gamepad: ['Select', 'Share'],
+  },
   { label: 'Предыдущий урок', keyboard: [['Shift', '←']], gamepad: ['LB', 'L1'] },
   { label: 'Следующий урок', keyboard: [['Shift', '→']], gamepad: ['RB', 'R1'] },
   {

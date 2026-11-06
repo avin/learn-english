@@ -127,14 +127,6 @@ const ControlsHelp = ({ onClose }: Props) => {
             ))}
           </tbody>
         </table>
-        <p className="mt-4 text-xs leading-relaxed text-gray1">
-          Направления на геймпаде — крестовина или левый стик. Первое нажатие стрелки или
-          направления на геймпаде выбирает первую фразу урока.
-        </p>
-        <p className="mt-2 text-xs leading-relaxed text-gray1">
-          Стрелки перемещают курсор внутри выбранного блока. Чтобы выйти из словаря мышью, нажмите
-          на любое предложение.
-        </p>
       </div>
     </dialog>
   );

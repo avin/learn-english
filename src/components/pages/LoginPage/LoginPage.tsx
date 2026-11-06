@@ -84,7 +84,7 @@ const LoginPage = ({ onLocal, initialError }: Props) => {
       <section className="welcome-card" aria-labelledby="welcome-title">
         <h1 id="welcome-title">Тренажёр перевода</h1>
         <p className="welcome-description">
-          Переводите фразы с русского на английский по курсам{' '}
+          по курсам{' '}
           <a
             href="https://www.youtube.com/@englishplaylists/playlists"
             target="_blank"
@@ -92,7 +92,6 @@ const LoginPage = ({ onLocal, initialError }: Props) => {
           >
             «Английский по плейлистам»
           </a>
-          .
         </p>
 
         <div className="welcome-option">

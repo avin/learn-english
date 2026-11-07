@@ -164,6 +164,8 @@ const reveals = () => renderer.root.findAllByProps({ 'aria-label': 'Открыт
 const sentences = () => renderer.root.findAll((item) => item.props['data-sentence']);
 const clickCell = (idx, detail = 1) => sentences()[idx].parent.props.onClick({ detail });
 const dictionary = () => renderer.root.findAllByProps({ 'aria-controls': 'lesson-dictionary' });
+const pressTvKey = (key) =>
+  renderer.root.findByType('dialog').props.onKeyDown({ key, nativeEvent: {}, preventDefault() {} });
 
 test('mobile exit requires a continuous hold', (t) => {
   const tick = mockClock(t);
@@ -172,6 +174,7 @@ test('mobile exit requires a continuous hold', (t) => {
     renderer = create(
       React.createElement(MobileLesson.default, {
         dialogRef: { current: null },
+        controlsRef: { current: null },
         phrase: null,
         sourceLanguage: 'en',
         revealed: false,
@@ -251,6 +254,119 @@ test('TV mode enters fullscreen and exits it when closed', async (t) => {
   assert.equal(topLayer.at(-1), 'dialog', 'TV dialog must appear above the fullscreen page');
   await act(async () => renderer.root.findByType('dialog').props.onClose());
   assert.equal(exits, 1);
+});
+
+test('TV mode receives gamepad input and focuses the phrase for keyboard input', async (t) => {
+  const gamepad = await loadModule('../src/utils/gamepad.ts');
+  const useGamepad = await loadModule('../src/utils/useGamepad.ts', {
+    react: React,
+    './gamepad.ts': gamepad,
+  });
+  const settings = { sourceLanguage: 'ru', gamepadEnabled: true, autoPlayOnReveal: true };
+  const { default: MainPage } = await loadModule('../src/components/pages/MainPage/MainPage.tsx', {
+    react: React,
+    'react-icons/hi': hiIcons,
+    'react-icons/tb': tbIcons,
+    '@/components/common/Button/Button.tsx': Button,
+    '@/components/common/FullPageSpinner/FullPageSpinner.tsx': () => null,
+    '@/components/common/Select/Select.tsx': () => null,
+    '@/components/common/UserButton/UserButton.tsx': () => null,
+    '@/components/pages/MainPage/ControlsHelp.tsx': () => null,
+    '@/components/pages/MainPage/Lesson/Lesson.tsx': { default: Lesson, __esModule: true },
+    '@/components/pages/MainPage/Settings.tsx': () => null,
+    '@/utils/ProgressContext.ts': {
+      useProgressStorage: () => progress,
+    },
+    '@/utils/settings.ts': { loadSettings: () => settings },
+    '@/utils/useGamepad.ts': useGamepad,
+  });
+  const progress = {
+    loadLastCourse: async () => 'titan',
+    loadLastLesson: async () => '1',
+  };
+  let frame;
+  let focused;
+  let dialogProps;
+  let otherDialogOpen = false;
+  const dialog = {
+    open: false,
+    showModal() {
+      this.open = true;
+    },
+    close() {
+      this.open = false;
+      dialogProps.onClose();
+    },
+  };
+  const globals = {
+    window: new EventTarget(),
+    HTMLElement: class {},
+    requestAnimationFrame: (callback) => (frame = callback),
+    cancelAnimationFrame: () => {},
+  };
+  Object.assign(globalThis, globals);
+  Object.assign(document, { visibilityState: 'visible', hasFocus: () => true });
+  t.mock.method(document, 'querySelector', (selector) => {
+    if (otherDialogOpen) return {};
+    if (dialog.open && (!selector.includes(':not') || !('data-gamepad' in dialogProps)))
+      return dialog;
+    return null;
+  });
+  const pad = { connected: true, mapping: 'standard', buttons: [], axes: [0, 0] };
+  navigator.getGamepads = () => [pad];
+  t.after(() => {
+    for (const name of Object.keys(globals)) delete globalThis[name];
+    delete document.hasFocus;
+    delete document.visibilityState;
+    delete navigator.getGamepads;
+  });
+  await act(async () => {
+    renderer = create(React.createElement(MainPage, { isLocal: true }), {
+      createNodeMock(element) {
+        if (element.type === 'dialog') {
+          dialogProps = element.props;
+          return dialog;
+        }
+        if (element.props['aria-describedby'] === 'mobile-lesson-help') {
+          return { focus: () => (focused = true) };
+        }
+        return null;
+      },
+    });
+  });
+  const poll = async (button) => {
+    pad.buttons = [];
+    if (button !== undefined) pad.buttons[button] = { pressed: true };
+    await act(async () => frame(0));
+  };
+  const surface = () => renderer.root.findByProps({ 'aria-describedby': 'mobile-lesson-help' });
+  const source = () => surface().findAllByProps({ lang: 'ru' }).at(-1).children.join('');
+  const hidden = () => surface().findAllByProps({ lang: 'en' }).at(-1).props['aria-hidden'];
+
+  await act(async () => button('TV-режим').props.onClick());
+  assert.equal(source(), 'Привет');
+  await poll(15);
+  assert.equal(source(), 'Пока', 'gamepad Right must advance the TV phrase');
+  await poll(0);
+  assert.equal(hidden(), false, 'gamepad A must reveal the translation');
+  assert.equal(focused, true, 'the phrase must receive focus when TV mode opens');
+  await act(async () => pressTvKey('ArrowLeft'));
+  assert.equal(source(), 'Привет');
+  assert.equal(hidden(), true);
+  await act(async () => surface().props.onClick({ detail: 0 }));
+  assert.equal(hidden(), false);
+
+  otherDialogOpen = true;
+  await poll(15);
+  assert.equal(source(), 'Привет');
+  otherDialogOpen = false;
+  await poll(15);
+  assert.equal(source(), 'Привет', 'held controls must wait for release after a modal');
+  await poll();
+  await poll(15);
+  assert.equal(source(), 'Пока');
+  await poll(9);
+  assert.equal(dialog.open, false);
 });
 
 test('TV mode opens if fullscreen is rejected and leaves existing fullscreen alone', async (t) => {
@@ -380,7 +496,7 @@ test('mobile gestures share the lesson position and progress while masking each 
     0,
   );
   incomingLeft = 143;
-  await act(async () => surface().props.onKeyDown({ key: 'ArrowLeft', preventDefault() {} }));
+  await act(async () => pressTvKey('ArrowLeft'));
   assert.equal(source(), 'Hello');
   assert.equal(slideStart(), '123px');
   assert.equal(
@@ -388,7 +504,7 @@ test('mobile gestures share the lesson position and progress while masking each 
     1,
   );
   incomingLeft = 20;
-  await act(async () => surface().props.onKeyDown({ key: 'ArrowRight', preventDefault() {} }));
+  await act(async () => pressTvKey('ArrowRight'));
   assert.equal(source(), 'Bye');
   assert.equal(slideStart(), '0px');
   assert.equal(
@@ -460,7 +576,7 @@ test('mobile mode uses browser speech when a phrase has no recording', async (t)
   await act(async () => button('TV-режим').props.onClick());
   const surface = renderer.root.findByProps({ 'aria-describedby': 'mobile-lesson-help' });
   await act(async () => surface.props.onClick({ detail: 0 }));
-  await act(async () => surface.props.onKeyDown({ key: 'ArrowRight', preventDefault() {} }));
+  await act(async () => pressTvKey('ArrowRight'));
   assert.match(played.at(-1).url, /lesson-complete\.wav$/);
   assert.equal(spoken.length, 2);
   await act(async () => played.at(-1).onended());

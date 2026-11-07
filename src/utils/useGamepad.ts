@@ -35,7 +35,7 @@ export const useGamepad = (
         !handler.current.suspended &&
           document.visibilityState === 'visible' &&
           document.hasFocus() &&
-          !document.querySelector('dialog[open]') &&
+          !document.querySelector('dialog[open]:not([data-gamepad])') &&
           !editing,
       );
       if (action) handler.current.onAction(action);

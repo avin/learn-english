@@ -1,11 +1,25 @@
-import React, { CSSProperties, PointerEvent, RefObject, useEffect, useRef, useState } from 'react';
+import React, {
+  CSSProperties,
+  PointerEvent,
+  RefObject,
+  useEffect,
+  useImperativeHandle,
+  useRef,
+  useState,
+} from 'react';
 import cn from 'clsx';
 import Button from '@/components/common/Button/Button.tsx';
 import { Translation } from '@/types';
+import { GamepadAction } from '@/utils/gamepad.ts';
 import { ArrowKey, SentenceSelection } from './navigation.ts';
+
+export interface MobileLessonControls {
+  handleGamepad: (action: GamepadAction) => boolean;
+}
 
 interface Props {
   dialogRef: RefObject<HTMLDialogElement>;
+  controlsRef: RefObject<MobileLessonControls>;
   phrase: Translation | null;
   sourceLanguage: SentenceSelection['column'];
   revealed: boolean;
@@ -20,6 +34,7 @@ const getScreenAngle = () =>
 
 const MobileLesson = ({
   dialogRef,
+  controlsRef,
   phrase,
   sourceLanguage,
   revealed,
@@ -33,6 +48,11 @@ const MobileLesson = ({
   );
   const exitTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const [holdingExit, setHoldingExit] = useState(false);
+  const phraseButton = useRef<HTMLButtonElement>(null);
+  const hasPhrase = phrase !== null;
+  useEffect(() => {
+    if (hasPhrase) phraseButton.current?.focus();
+  }, [hasPhrase]);
   useEffect(
     () => () => {
       if (exitTimer.current !== null) clearTimeout(exitTimer.current);
@@ -105,6 +125,28 @@ const MobileLesson = ({
     onArrow(key);
   };
 
+  useImperativeHandle(controlsRef, () => ({
+    handleGamepad(action) {
+      const dialog = dialogRef.current;
+      if (!dialog?.open) return false;
+      switch (action) {
+        case 'ArrowLeft':
+        case 'ArrowRight':
+        case 'ArrowUp':
+        case 'ArrowDown':
+          handleArrow(action);
+          break;
+        case 'replay':
+          onReveal();
+          break;
+        case 'restart':
+          dialog.close();
+          break;
+      }
+      return true;
+    },
+  }));
+
   const onPointerUp = (event: PointerEvent<HTMLButtonElement>) => {
     const gesture = start.current;
     if (gesture?.id !== event.pointerId) return;
@@ -139,7 +181,23 @@ const MobileLesson = ({
   return (
     <dialog
       ref={dialogRef}
+      data-gamepad=""
       aria-label="TV-режим"
+      onKeyDown={(event) => {
+        const { key } = event;
+        if (
+          event.defaultPrevented ||
+          event.altKey ||
+          event.ctrlKey ||
+          event.metaKey ||
+          event.shiftKey ||
+          event.nativeEvent.isComposing ||
+          (key !== 'ArrowLeft' && key !== 'ArrowRight' && key !== 'ArrowUp' && key !== 'ArrowDown')
+        )
+          return;
+        event.preventDefault();
+        if (!event.repeat) handleArrow(key);
+      }}
       onClose={() => {
         cancelExit();
         onClose();
@@ -198,6 +256,7 @@ const MobileLesson = ({
       </div>
       {phrase && (
         <button
+          ref={phraseButton}
           type="button"
           className="flex h-full w-full touch-none select-none items-center justify-center px-5 py-16 text-center focus-visible:outline focus-visible:-outline-offset-4 focus-visible:outline-blue2"
           aria-describedby="mobile-lesson-help"
@@ -208,18 +267,6 @@ const MobileLesson = ({
           }}
           onClick={(event) => {
             if (event.detail === 0) onReveal();
-          }}
-          onKeyDown={(event) => {
-            const key = event.key;
-            if (
-              key !== 'ArrowLeft' &&
-              key !== 'ArrowRight' &&
-              key !== 'ArrowUp' &&
-              key !== 'ArrowDown'
-            )
-              return;
-            event.preventDefault();
-            if (!event.repeat) handleArrow(key);
           }}
         >
           <span

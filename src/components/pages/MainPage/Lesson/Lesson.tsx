@@ -15,8 +15,9 @@ import Button from '@/components/common/Button/Button.tsx';
 import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner.tsx';
 import { Course, Translation, TranslationTask } from '@/types';
 import { useProgressStorage } from '@/utils/ProgressContext.ts';
+import { GamepadAction } from '@/utils/gamepad.ts';
 import { AppSettings } from '@/utils/settings.ts';
-import MobileLesson from './MobileLesson.tsx';
+import MobileLesson, { MobileLessonControls } from './MobileLesson.tsx';
 import { AudioCache } from './audioCache.ts';
 import { AudioPrediction } from './audioPrediction.ts';
 import { ArrowKey, SentenceSelection, getNextSentence } from './navigation.ts';
@@ -33,6 +34,7 @@ export interface LessonControls {
   replay: () => void;
   restart: () => void;
   toggleDictionary: () => void;
+  handleTvGamepad: (action: GamepadAction) => boolean;
 }
 
 type Section = 'sentences' | 'dictionary';
@@ -86,6 +88,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   const [mobileMode, setMobileMode] = useState(false);
   const [mobileRevealed, setMobileRevealed] = useState(false);
   const mobileDialogRef = useRef<HTMLDialogElement>(null);
+  const mobileControlsRef = useRef<MobileLessonControls>(null);
   const mobileFullscreen = useRef(false);
   const [audioBlocked, setAudioBlocked] = useState(false);
   const [loadError, setLoadError] = useState(false);
@@ -343,12 +346,17 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     selectSentence('sentences', { idx: order[0], column: sourceLanguage });
   }, [enterDictionary, inDictionary, order, selectSentence, sourceLanguage]);
 
-  useImperativeHandle(ref, () => ({ navigate, replay, restart, toggleDictionary }), [
-    navigate,
-    replay,
-    restart,
-    toggleDictionary,
-  ]);
+  useImperativeHandle(
+    ref,
+    () => ({
+      navigate,
+      replay,
+      restart,
+      toggleDictionary,
+      handleTvGamepad: (action) => mobileControlsRef.current?.handleGamepad(action) ?? false,
+    }),
+    [navigate, replay, restart, toggleDictionary],
+  );
 
   useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {
@@ -942,6 +950,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
       {!!order.length && (
         <MobileLesson
           dialogRef={mobileDialogRef}
+          controlsRef={mobileControlsRef}
           phrase={mobileMode && selected ? translations[selected.idx] : null}
           sourceLanguage={sourceLanguage}
           revealed={mobileRevealed}

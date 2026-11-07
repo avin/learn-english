@@ -132,7 +132,7 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
 
   useGamepad(
     (action) => {
-      if (document.querySelector('dialog[open]')) return;
+      if (lessonRef.current?.handleTvGamepad(action)) return;
       if (action === 'previousLesson' || action === 'nextLesson') {
         changeAdjacentLesson(action === 'nextLesson' ? 1 : -1);
       } else if (action === 'replay') {

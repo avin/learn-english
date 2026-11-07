@@ -199,7 +199,7 @@ test('mobile exit requires a continuous hold', (t) => {
   assert.equal(closed, 0);
   act(() => {
     press();
-    tick(499);
+    tick(299);
   });
   assert.equal(closed, 0);
   assert.equal(
@@ -310,12 +310,20 @@ test('TV mode discards a swipe interrupted by rotation and follows the rotated s
     start();
     end(40, 100);
   });
-  assert.match(played.at(-1).url, /tasks_002_en\.m4a$/);
+  assert.equal(played.length, count + 1);
+  assert.match(played.at(-1).url, /tasks_001_ru\.m4a$/);
 });
 
 test('mobile gestures share the lesson position and progress while masking each new phrase', async (t) => {
   const saveOpen = t.mock.method(storage, 'saveLastOpenSentences', async () => {});
-  await renderLesson('en');
+  let incomingLeft = 20;
+  await renderLesson('en', false, (element) => {
+    if (!element.props.className?.includes('mobile-phrase-in')) return null;
+    return {
+      getBoundingClientRect: () => ({ left: incomingLeft }),
+      parentElement: { getBoundingClientRect: () => ({ left: 20 }) },
+    };
+  });
   act(() => clickCell(2));
 
   const dialog = () => renderer.root.findByType('dialog');
@@ -340,12 +348,12 @@ test('mobile gestures share the lesson position and progress while masking each 
   assert.equal(hidden(), true);
   assert.match(played.at(-1).url, /tasks_002_en\.m4a$/);
 
-  await act(async () => swipe(0, -60));
-  assert.equal(hidden(), false);
-  assert.match(played.at(-1).url, /tasks_002_ru\.m4a$/);
+  const beforeBack = played.length;
   await act(async () => swipe(60, 0));
   assert.equal(source(), 'Hello');
   assert.equal(hidden(), true);
+  assert.equal(played.length, beforeBack + 1);
+  assert.match(played.at(-1).url, /tasks_001_en\.m4a$/);
   assert.equal(
     surface().findAll((node) => node.props.className?.includes('mobile-phrase-reverse')).length,
     1,
@@ -356,20 +364,33 @@ test('mobile gestures share the lesson position and progress while masking each 
   act(() => outgoing[0].props.onAnimationEnd());
   assert.equal(surface().findAllByProps({ lang: 'en' }).length, 1);
   await act(async () => swipe(-60, 0));
+  assert.equal(source(), 'Hello');
+  assert.equal(hidden(), false);
+  assert.match(played.at(-1).url, /tasks_001_ru\.m4a$/);
+  assert.equal(surface().findAllByProps({ lang: 'en' }).length, 1);
+  await act(async () => swipe(-60, 0));
   assert.equal(source(), 'Bye');
   assert.equal(hidden(), true);
+  assert.match(played.at(-1).url, /tasks_002_en\.m4a$/);
+  const slideStart = () =>
+    surface().find((node) => node.props.style?.['--phrase-start']).props.style['--phrase-start'];
+  assert.equal(slideStart(), '0px');
   assert.equal(
     surface().findAll((node) => node.props.className?.includes('mobile-phrase-reverse')).length,
     0,
   );
+  incomingLeft = 143;
   await act(async () => surface().props.onKeyDown({ key: 'ArrowLeft', preventDefault() {} }));
   assert.equal(source(), 'Hello');
+  assert.equal(slideStart(), '123px');
   assert.equal(
     surface().findAll((node) => node.props.className?.includes('mobile-phrase-reverse')).length,
     1,
   );
+  incomingLeft = 20;
   await act(async () => surface().props.onKeyDown({ key: 'ArrowRight', preventDefault() {} }));
   assert.equal(source(), 'Bye');
+  assert.equal(slideStart(), '0px');
   assert.equal(
     surface().findAll((node) => node.props.className?.includes('mobile-phrase-reverse')).length,
     0,
@@ -403,6 +424,10 @@ test('mobile gestures share the lesson position and progress while masking each 
   assert.match(played.at(-1).url, /lesson-complete\.wav$/);
   await act(async () => played.at(-1).onended());
   assert.match(played.at(-1).url, /tasks_002_en\.m4a$/);
+  await act(async () => swipe(-60, 0));
+  assert.equal(source(), 'Bye');
+  assert.equal(hidden(), false);
+  assert.match(played.at(-1).url, /tasks_002_ru\.m4a$/);
   await act(async () => swipe(-60, 0));
   assert.equal(source(), 'Hello');
   assert.equal(hidden(), true);

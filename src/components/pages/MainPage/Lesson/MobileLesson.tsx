@@ -1,4 +1,4 @@
-import React, { PointerEvent, RefObject, useEffect, useRef, useState } from 'react';
+import React, { CSSProperties, PointerEvent, RefObject, useEffect, useRef, useState } from 'react';
 import cn from 'clsx';
 import Button from '@/components/common/Button/Button.tsx';
 import { Translation } from '@/types';
@@ -41,12 +41,14 @@ const MobileLesson = ({
   );
   const targetLanguage = sourceLanguage === 'ru' ? 'en' : 'ru';
   const previous = useRef({ phrase, revealed });
-  const direction = useRef<'forward' | 'backward'>('forward');
+  const incoming = useRef<HTMLSpanElement>(null);
+  const motion = useRef({ direction: 'forward' as 'forward' | 'backward', offset: 0 });
   const [transition, setTransition] = useState<{
     id: number;
     direction: 'forward' | 'backward';
+    offset: number;
     outgoing: { phrase: Translation; revealed: boolean } | null;
-  }>({ id: 0, direction: 'forward', outgoing: null });
+  }>({ id: 0, ...motion.current, outgoing: null });
 
   if (previous.current.phrase !== phrase) {
     const outgoing = previous.current.phrase
@@ -55,7 +57,7 @@ const MobileLesson = ({
     previous.current = { phrase, revealed };
     setTransition({
       id: transition.id + 1,
-      direction: direction.current,
+      ...motion.current,
       outgoing: phrase ? outgoing : null,
     });
   } else {
@@ -92,8 +94,14 @@ const MobileLesson = ({
   };
 
   const handleArrow = (key: ArrowKey) => {
-    if (key === 'ArrowRight') direction.current = 'forward';
-    if (key === 'ArrowLeft') direction.current = 'backward';
+    if (key === 'ArrowRight' || key === 'ArrowLeft') {
+      const item = incoming.current;
+      const offset =
+        transition.outgoing && item?.parentElement
+          ? item.getBoundingClientRect().left - item.parentElement.getBoundingClientRect().left
+          : 0;
+      motion.current = { direction: key === 'ArrowRight' ? 'forward' : 'backward', offset };
+    }
     onArrow(key);
   };
 
@@ -107,6 +115,7 @@ const MobileLesson = ({
     const dy = event.clientY - gesture.y;
     const horizontal = Math.abs(dx) > Math.abs(dy);
     if (Math.abs(horizontal ? dx : dy) < 24) onReveal();
+    else if (horizontal && dx < 0 && !revealed) onReveal();
     else if (horizontal) handleArrow(dx < 0 ? 'ArrowRight' : 'ArrowLeft');
     else handleArrow(dy < 0 ? 'ArrowDown' : 'ArrowUp');
   };
@@ -124,7 +133,7 @@ const MobileLesson = ({
       exitTimer.current = null;
       setHoldingExit(false);
       dialogRef.current?.close();
-    }, 500);
+    }, 300);
   };
 
   return (
@@ -214,6 +223,7 @@ const MobileLesson = ({
           }}
         >
           <span
+            style={{ '--phrase-start': `${transition.offset}px` } as CSSProperties}
             className={cn(
               'relative block w-full max-w-2xl text-xl leading-snug sm:text-3xl',
               transition.direction === 'backward' && 'mobile-phrase-reverse',
@@ -231,6 +241,7 @@ const MobileLesson = ({
             )}
             <span
               key={transition.id}
+              ref={incoming}
               className={cn(
                 'flex flex-col gap-6 break-words',
                 transition.outgoing && 'mobile-phrase-in',

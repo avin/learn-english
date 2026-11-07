@@ -28,7 +28,7 @@ body,
 
 @keyframes mobile-phrase-in {
   from {
-    transform: translateX(var(--phrase-in, 100vw));
+    transform: translateX(var(--phrase-in));
   }
   to {
     transform: translateX(0);
@@ -37,24 +37,28 @@ body,
 
 @keyframes mobile-phrase-out {
   from {
-    transform: translateX(0);
+    transform: translateX(var(--phrase-start));
   }
   to {
     transform: translateX(var(--phrase-out, -100vw));
   }
 }
 
-.mobile-phrase-reverse {
-  --phrase-in: -100vw;
-  --phrase-out: 100vw;
-}
-
 .mobile-phrase-in {
+  --phrase-in: max(100vw, calc(100vw + var(--phrase-start)));
   animation: mobile-phrase-in 120ms ease-out;
 }
 
+.mobile-phrase-reverse .mobile-phrase-in {
+  --phrase-in: min(-100vw, calc(-100vw + var(--phrase-start)));
+}
+
+.mobile-phrase-reverse {
+  --phrase-out: 100vw;
+}
+
 .mobile-phrase-out {
-  animation: mobile-phrase-out 120ms ease-out;
+  animation: mobile-phrase-out 120ms ease-out forwards;
 }
 
 @keyframes mobile-exit-progress {
@@ -67,7 +71,7 @@ body,
 }
 
 .mobile-exit-progress {
-  animation: mobile-exit-progress 500ms linear forwards;
+  animation: mobile-exit-progress 300ms linear forwards;
 }
 
 @media (prefers-reduced-motion: reduce) {

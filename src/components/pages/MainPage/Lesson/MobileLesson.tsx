@@ -47,6 +47,7 @@ const MobileLesson = ({
     null,
   );
   const exitTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const readyExitPointer = useRef<number | null>(null);
   const [holdingExit, setHoldingExit] = useState(false);
   const phraseButton = useRef<HTMLButtonElement>(null);
   const hasPhrase = phrase !== null;
@@ -168,14 +169,20 @@ const MobileLesson = ({
   const cancelExit = () => {
     if (exitTimer.current !== null) clearTimeout(exitTimer.current);
     exitTimer.current = null;
+    readyExitPointer.current = null;
     setHoldingExit(false);
   };
 
-  const holdExit = () => {
-    if (exitTimer.current !== null) return;
+  const holdExit = (touchPointerId?: number) => {
+    if (exitTimer.current !== null || readyExitPointer.current !== null) return;
     setHoldingExit(true);
     exitTimer.current = setTimeout(() => {
       exitTimer.current = null;
+      // Keep the lesson covered until the touch ends so the browser cannot select its text.
+      if (touchPointerId !== undefined) {
+        readyExitPointer.current = touchPointerId;
+        return;
+      }
       setHoldingExit(false);
       dialogRef.current?.close();
     }, 300);
@@ -215,7 +222,7 @@ const MobileLesson = ({
           onPointerDown={(event) => {
             if (!event.isPrimary || event.button !== 0) return;
             event.currentTarget.setPointerCapture(event.pointerId);
-            holdExit();
+            holdExit(event.pointerType === 'touch' ? event.pointerId : undefined);
           }}
           onPointerMove={(event) => {
             if (!holdingExit) return;
@@ -228,7 +235,11 @@ const MobileLesson = ({
             )
               cancelExit();
           }}
-          onPointerUp={cancelExit}
+          onPointerUp={(event) => {
+            const shouldClose = readyExitPointer.current === event.pointerId;
+            cancelExit();
+            if (shouldClose) dialogRef.current?.close();
+          }}
           onPointerCancel={cancelExit}
           onLostPointerCapture={cancelExit}
           onBlur={cancelExit}

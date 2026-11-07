@@ -186,17 +186,18 @@ test('mobile exit requires a continuous hold', (t) => {
     );
   });
   const exit = () => renderer.root.findByProps({ 'aria-label': 'Удерживайте, чтобы выйти' });
-  const press = () =>
+  const press = (pointerType = 'mouse') =>
     exit().props.onPointerDown({
       isPrimary: true,
       button: 0,
+      pointerType,
       pointerId: 1,
       currentTarget: { setPointerCapture() {} },
     });
   act(() => {
-    press();
+    press('touch');
     tick(250);
-    exit().props.onPointerUp();
+    exit().props.onPointerUp({ pointerId: 1 });
     tick(1000);
   });
   assert.equal(closed, 0);
@@ -225,6 +226,22 @@ test('mobile exit requires a continuous hold', (t) => {
     tick(1000);
   });
   assert.equal(closed, 2);
+  act(() => {
+    press('touch');
+    tick(600);
+  });
+  assert.equal(closed, 2, 'the lesson stays covered while the finger is down');
+  act(() => {
+    exit().props.onPointerCancel();
+    exit().props.onPointerUp({ pointerId: 1 });
+  });
+  assert.equal(closed, 2, 'a canceled touch must not close the lesson');
+  act(() => {
+    press('touch');
+    tick(300);
+  });
+  act(() => exit().props.onPointerUp({ pointerId: 1 }));
+  assert.equal(closed, 3);
 });
 
 test('TV mode enters fullscreen and exits it when closed', async (t) => {

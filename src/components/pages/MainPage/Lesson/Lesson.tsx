@@ -664,24 +664,24 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     speakMobile(idx, sourceLanguage, announceCompletion);
   };
 
-  const openMobileMode = () => {
-    mobileDialogRef.current?.showModal();
+  const openMobileMode = async () => {
+    if (mobileFullscreen.current || mobileDialogRef.current?.open) return;
     if (!document.fullscreenElement && document.documentElement?.requestFullscreen) {
       mobileFullscreen.current = true;
-      document.documentElement
-        .requestFullscreen()
-        .then(() => {
-          if (
-            !mobileFullscreen.current &&
-            document.fullscreenElement === document.documentElement
-          ) {
-            void document.exitFullscreen().catch(() => {});
-          }
-        })
-        .catch(() => {
-          mobileFullscreen.current = false;
-        });
+      try {
+        await document.documentElement.requestFullscreen();
+      } catch {
+        mobileFullscreen.current = false;
+      }
+      if (!mobileDialogRef.current) {
+        if (mobileFullscreen.current && document.fullscreenElement === document.documentElement) {
+          void document.exitFullscreen().catch(() => {});
+        }
+        mobileFullscreen.current = false;
+        return;
+      }
     }
+    mobileDialogRef.current?.showModal();
     setMobileMode(true);
     showMobileSentence(!inDictionary && selected ? selected.idx : order[0]);
   };

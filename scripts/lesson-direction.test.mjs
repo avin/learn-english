@@ -142,7 +142,7 @@ afterEach(() => {
   globalThis.fetch = withoutDictionary;
 });
 
-const renderLesson = async (sourceLanguage = 'ru', resetOnLessonEnd = false) => {
+const renderLesson = async (sourceLanguage = 'ru', resetOnLessonEnd = false, createNodeMock) => {
   controls = React.createRef();
   const Session = () => {
     const [language, setLanguage] = React.useState(sourceLanguage);
@@ -155,7 +155,7 @@ const renderLesson = async (sourceLanguage = 'ru', resetOnLessonEnd = false) => 
     });
   };
   await act(async () => {
-    renderer = create(React.createElement(Session));
+    renderer = create(React.createElement(Session), { createNodeMock });
   });
 };
 const button = (label, index = 0) =>
@@ -227,10 +227,13 @@ test('mobile exit requires a continuous hold', (t) => {
 test('TV mode enters fullscreen and exits it when closed', async (t) => {
   let requests = 0;
   let exits = 0;
+  const topLayer = [];
+  const dialog = { showModal: () => topLayer.push('dialog') };
   document.documentElement = {
     requestFullscreen: async () => {
       requests++;
       document.fullscreenElement = document.documentElement;
+      topLayer.push('fullscreen');
     },
   };
   document.exitFullscreen = async () => {
@@ -242,11 +245,38 @@ test('TV mode enters fullscreen and exits it when closed', async (t) => {
     delete document.fullscreenElement;
     delete document.exitFullscreen;
   });
-  await renderLesson('en');
+  await renderLesson('en', false, (element) => (element.type === 'dialog' ? dialog : null));
   await act(async () => button('TV-режим').props.onClick());
   assert.equal(requests, 1);
+  assert.equal(topLayer.at(-1), 'dialog', 'TV dialog must appear above the fullscreen page');
   await act(async () => renderer.root.findByType('dialog').props.onClose());
   assert.equal(exits, 1);
+});
+
+test('TV mode opens if fullscreen is rejected and leaves existing fullscreen alone', async (t) => {
+  let opened = 0;
+  let exits = 0;
+  const dialog = { showModal: () => opened++ };
+  document.documentElement = {
+    requestFullscreen: async () => {
+      throw new Error('denied');
+    },
+  };
+  document.exitFullscreen = async () => exits++;
+  t.after(() => {
+    delete document.documentElement;
+    delete document.fullscreenElement;
+    delete document.exitFullscreen;
+  });
+  await renderLesson('en', false, (element) => (element.type === 'dialog' ? dialog : null));
+  await act(async () => button('TV-режим').props.onClick());
+  assert.equal(opened, 1);
+  await act(async () => renderer.root.findByType('dialog').props.onClose());
+  document.fullscreenElement = document.documentElement;
+  await act(async () => button('TV-режим').props.onClick());
+  assert.equal(opened, 2);
+  await act(async () => renderer.root.findByType('dialog').props.onClose());
+  assert.equal(exits, 0);
 });
 
 test('mobile gestures share the lesson position and progress while masking each new phrase', async (t) => {

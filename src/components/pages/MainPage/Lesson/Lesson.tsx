@@ -16,6 +16,7 @@ import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner
 import { Course, Translation, TranslationTask } from '@/types';
 import { useProgressStorage } from '@/utils/ProgressContext.ts';
 import { AppSettings } from '@/utils/settings.ts';
+import MobileLesson from './MobileLesson.tsx';
 import { AudioCache } from './audioCache.ts';
 import { AudioPrediction } from './audioPrediction.ts';
 import { ArrowKey, SentenceSelection, getNextSentence } from './navigation.ts';
@@ -82,6 +83,10 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   const audioPrediction = useRef(new AudioPrediction());
   const [selected, setSelected] = useState<SentenceSelection | null>(null);
   const [cursorVisible, setCursorVisible] = useState(false);
+  const [mobileMode, setMobileMode] = useState(false);
+  const [mobileRevealed, setMobileRevealed] = useState(false);
+  const mobileDialogRef = useRef<HTMLDialogElement>(null);
+  const mobileFullscreen = useRef(false);
   const [audioBlocked, setAudioBlocked] = useState(false);
   const [loadError, setLoadError] = useState(false);
   const selectedSentenceRef = useRef<HTMLDivElement | null>(null);
@@ -109,6 +114,10 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
       cache.clear();
     };
   }, [course, lesson, sourceLanguage]);
+
+  useEffect(() => {
+    if (mobileMode) return () => globalThis.speechSynthesis?.cancel();
+  }, [mobileMode]);
 
   useEffect(() => {
     const preload = () => {
@@ -168,6 +177,12 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     [startAudio],
   );
 
+  const stopAudio = useCallback(() => {
+    audioRef.current?.pause();
+    audioRef.current = null;
+    setAudioBlocked(false);
+  }, []);
+
   useEffect(() => {
     const handlePointerDown = () => setCursorVisible(false);
     document.addEventListener('pointerdown', handlePointerDown, true);
@@ -197,7 +212,15 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   }, []);
 
   const selectSentence = useCallback(
-    (nextSection: Section, next: SentenceSelection, announceCompletion = false, key?: ArrowKey) => {
+    (
+      nextSection: Section,
+      next: SentenceSelection,
+      {
+        announceCompletion,
+        key,
+        speech,
+      }: { announceCompletion?: boolean; key?: ArrowKey; speech?: SpeechSynthesis } = {},
+    ) => {
       const dictionary = nextSection === 'dictionary';
       const translation = (dictionary ? words : translations)?.[next.idx];
       if (!translation) return;
@@ -206,18 +229,30 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
       setCursorVisible(true);
       if (next.column === targetLanguage) revealTranslation(nextSection, next.idx);
       const audio = translation.audio?.[next.column];
+      const playPhrase = () => {
+        if (audio) playAudio(audio);
+        else if (speech) {
+          const utterance = new SpeechSynthesisUtterance(translation[next.column]);
+          utterance.lang = next.column;
+          speech.speak(utterance);
+        }
+      };
       if (announceCompletion) {
-        playAudio('sounds/lesson-complete.wav', () => {
-          if (audio) playAudio(audio);
-        });
-      } else if (audio) playAudio(audio);
-      else {
-        audioRef.current?.pause();
-        audioRef.current = null;
-        setAudioBlocked(false);
+        playAudio('sounds/lesson-complete.wav', playPhrase);
+      } else {
+        if (!audio) stopAudio();
+        playPhrase();
       }
     },
-    [playAudio, rememberSelection, revealTranslation, targetLanguage, translations, words],
+    [
+      playAudio,
+      rememberSelection,
+      revealTranslation,
+      stopAudio,
+      targetLanguage,
+      translations,
+      words,
+    ],
   );
 
   const restart = useCallback(() => {
@@ -231,7 +266,13 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
       setOrder(newOrder);
       setOpenSentences([]);
     }
-    selectSentence(section, { idx: newOrder[0], column: sourceLanguage }, !inDictionary);
+    selectSentence(
+      section,
+      { idx: newOrder[0], column: sourceLanguage },
+      {
+        announceCompletion: !inDictionary,
+      },
+    );
   }, [
     activeOrder,
     favoriteTranslations,
@@ -257,7 +298,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
         restart();
         return;
       }
-      selectSentence(section, next, false, key);
+      selectSentence(section, next, { key });
     },
     [
       activeOrder,
@@ -390,7 +431,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
 
   useEffect(() => {
     const sentence = selectedSentenceRef.current;
-    if (cursorVisible && sentence && !document.querySelector('dialog[open]')) {
+    if (!mobileMode && cursorVisible && sentence && !document.querySelector('dialog[open]')) {
       const { top, height } = sentence.getBoundingClientRect();
       const center = top + height / 2;
       const viewportHeight = window.innerHeight;
@@ -425,6 +466,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   }, [
     cursorVisible,
     dictionaryExpanded,
+    mobileMode,
     selected,
     settings.cursorZonePercent,
     settings.cursorScrollDurationMs,
@@ -607,6 +649,67 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     );
   }
 
+  const speakMobile = (
+    idx: number,
+    column: SentenceSelection['column'],
+    announceCompletion = false,
+  ) => {
+    const speech = globalThis.speechSynthesis;
+    speech?.cancel();
+    selectSentence('sentences', { idx, column }, { announceCompletion, speech });
+  };
+
+  const showMobileSentence = (idx: number, announceCompletion = false) => {
+    setMobileRevealed(false);
+    speakMobile(idx, sourceLanguage, announceCompletion);
+  };
+
+  const openMobileMode = () => {
+    mobileDialogRef.current?.showModal();
+    if (!document.fullscreenElement && document.documentElement?.requestFullscreen) {
+      mobileFullscreen.current = true;
+      document.documentElement
+        .requestFullscreen()
+        .then(() => {
+          if (
+            !mobileFullscreen.current &&
+            document.fullscreenElement === document.documentElement
+          ) {
+            void document.exitFullscreen().catch(() => {});
+          }
+        })
+        .catch(() => {
+          mobileFullscreen.current = false;
+        });
+    }
+    setMobileMode(true);
+    showMobileSentence(!inDictionary && selected ? selected.idx : order[0]);
+  };
+
+  const revealMobileTranslation = () => {
+    if (!selected) return;
+    setMobileRevealed(true);
+    speakMobile(selected.idx, targetLanguage);
+  };
+
+  const handleMobileArrow = (key: ArrowKey) => {
+    if (key === 'ArrowDown') return revealMobileTranslation();
+    if (!selected) return;
+    if (key === 'ArrowUp') return speakMobile(selected.idx, sourceLanguage);
+
+    const row = order.indexOf(selected.idx) + (key === 'ArrowRight' ? 1 : -1);
+    if (row < 0) return;
+    if (row < order.length) {
+      showMobileSentence(order[row]);
+      return;
+    }
+
+    const nextOrder = shuffle(order);
+    setOrder(nextOrder);
+    audioPrediction.current.reset();
+    showMobileSentence(nextOrder[0], true);
+  };
+
   const controls = (
     <div className="flex flex-wrap justify-center gap-2">
       <Button
@@ -645,6 +748,11 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
         <TbEyeOff size={16} className="text-red2" aria-hidden="true" />
         Закрыть все
       </Button>
+      {!!order.length && (
+        <Button intent="outline" aria-haspopup="dialog" onClick={openMobileMode}>
+          TV-режим
+        </Button>
+      )}
     </div>
   );
 
@@ -831,6 +939,31 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
         </div>
       )}
       {controls}
+      {!!order.length && (
+        <MobileLesson
+          dialogRef={mobileDialogRef}
+          phrase={mobileMode && selected ? translations[selected.idx] : null}
+          sourceLanguage={sourceLanguage}
+          revealed={mobileRevealed}
+          onArrow={handleMobileArrow}
+          onReveal={revealMobileTranslation}
+          onClose={() => {
+            if (
+              mobileFullscreen.current &&
+              document.fullscreenElement === document.documentElement
+            ) {
+              void document.exitFullscreen().catch(() => {});
+            }
+            mobileFullscreen.current = false;
+            stopAudio();
+            setMobileMode(false);
+            setCursorVisible(true);
+          }}
+          onRetryAudio={
+            audioBlocked ? () => audioRef.current && startAudio(audioRef.current) : undefined
+          }
+        />
+      )}
     </div>
   );
 });

@@ -132,6 +132,7 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
 
   useGamepad(
     (action) => {
+      if (document.querySelector('dialog[open]')) return;
       if (action === 'previousLesson' || action === 'nextLesson') {
         changeAdjacentLesson(action === 'nextLesson' ? 1 : -1);
       } else if (action === 'replay') {
@@ -160,6 +161,7 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
         event.defaultPrevented ||
         settingsOpen ||
         helpOpen ||
+        document.querySelector('dialog[open]') ||
         !course ||
         lesson === null
       )

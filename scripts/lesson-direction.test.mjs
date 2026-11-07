@@ -110,16 +110,23 @@ const audioCache = await loadModule('../src/components/pages/MainPage/Lesson/aud
 const audioPrediction = await loadModule(
   '../src/components/pages/MainPage/Lesson/audioPrediction.ts',
 );
+const MobileLesson = await loadModule('../src/components/pages/MainPage/Lesson/MobileLesson.tsx', {
+  react: React,
+  clsx: cn,
+  '@/components/common/Button/Button.tsx': Button,
+});
+const lodash = { shuffle };
 const { default: Lesson } = await loadModule('../src/components/pages/MainPage/Lesson/Lesson.tsx', {
   react: React,
   'react-icons/hi': hiIcons,
   'react-icons/tb': tbIcons,
   'react-use': { usePrevious },
   clsx: cn,
-  'lodash-es': { shuffle },
+  'lodash-es': lodash,
   '@/components/common/Button/Button.tsx': Button,
   '@/components/common/FullPageSpinner/FullPageSpinner.tsx': () => null,
   '@/utils/ProgressContext.ts': { useProgressStorage: () => storage },
+  './MobileLesson.tsx': MobileLesson,
   './navigation.ts': navigation,
   './audioCache.ts': audioCache,
   './audioPrediction.ts': audioPrediction,
@@ -157,6 +164,226 @@ const reveals = () => renderer.root.findAllByProps({ 'aria-label': 'Открыт
 const sentences = () => renderer.root.findAll((item) => item.props['data-sentence']);
 const clickCell = (idx, detail = 1) => sentences()[idx].parent.props.onClick({ detail });
 const dictionary = () => renderer.root.findAllByProps({ 'aria-controls': 'lesson-dictionary' });
+
+test('mobile exit requires a continuous hold', (t) => {
+  const tick = mockClock(t);
+  let closed = 0;
+  act(() => {
+    renderer = create(
+      React.createElement(MobileLesson.default, {
+        dialogRef: { current: null },
+        phrase: null,
+        sourceLanguage: 'en',
+        revealed: false,
+        onArrow() {},
+        onReveal() {},
+        onClose() {},
+      }),
+      { createNodeMock: () => ({ close: () => closed++ }) },
+    );
+  });
+  const exit = () => renderer.root.findByProps({ 'aria-label': 'Удерживайте, чтобы выйти' });
+  const press = () =>
+    exit().props.onPointerDown({
+      isPrimary: true,
+      button: 0,
+      pointerId: 1,
+      currentTarget: { setPointerCapture() {} },
+    });
+  act(() => {
+    press();
+    tick(250);
+    exit().props.onPointerUp();
+    tick(1000);
+  });
+  assert.equal(closed, 0);
+  act(() => {
+    press();
+    tick(499);
+  });
+  assert.equal(closed, 0);
+  assert.equal(
+    renderer.root.findAllByProps({
+      className: 'mobile-exit-progress absolute inset-0 origin-left bg-blue2/25',
+    }).length,
+    1,
+  );
+  act(() => tick(1));
+  assert.equal(closed, 1);
+  act(() => {
+    exit().props.onKeyDown({ key: 'Enter', preventDefault() {} });
+    tick(250);
+    exit().props.onKeyUp({ key: 'Enter' });
+    tick(500);
+  });
+  assert.equal(closed, 1);
+  act(() => {
+    exit().props.onKeyDown({ key: ' ', preventDefault() {} });
+    tick(1000);
+  });
+  assert.equal(closed, 2);
+});
+
+test('TV mode enters fullscreen and exits it when closed', async (t) => {
+  let requests = 0;
+  let exits = 0;
+  document.documentElement = {
+    requestFullscreen: async () => {
+      requests++;
+      document.fullscreenElement = document.documentElement;
+    },
+  };
+  document.exitFullscreen = async () => {
+    exits++;
+    document.fullscreenElement = null;
+  };
+  t.after(() => {
+    delete document.documentElement;
+    delete document.fullscreenElement;
+    delete document.exitFullscreen;
+  });
+  await renderLesson('en');
+  await act(async () => button('TV-режим').props.onClick());
+  assert.equal(requests, 1);
+  await act(async () => renderer.root.findByType('dialog').props.onClose());
+  assert.equal(exits, 1);
+});
+
+test('mobile gestures share the lesson position and progress while masking each new phrase', async (t) => {
+  const saveOpen = t.mock.method(storage, 'saveLastOpenSentences', async () => {});
+  await renderLesson('en');
+  act(() => clickCell(2));
+
+  const dialog = () => renderer.root.findByType('dialog');
+  const surface = () => dialog().findByProps({ 'aria-describedby': 'mobile-lesson-help' });
+  const source = () => surface().findAllByProps({ lang: 'en' }).at(-1).children.join('');
+  const hidden = () => surface().findAllByProps({ lang: 'ru' }).at(-1).props['aria-hidden'];
+  const swipe = (x, y) => {
+    const pointer = {
+      pointerId: 1,
+      isPrimary: true,
+      button: 0,
+      currentTarget: { setPointerCapture() {} },
+    };
+    surface().props.onPointerDown({ ...pointer, clientX: 0, clientY: 0 });
+    surface().props.onPointerUp({ ...pointer, clientX: x, clientY: y });
+    surface().props.onClick({ detail: 1 });
+  };
+
+  act(() => button('Открыть все').props.onClick());
+  await act(async () => button('TV-режим').props.onClick());
+  assert.equal(source(), 'Bye');
+  assert.equal(hidden(), true);
+  assert.match(played.at(-1).url, /tasks_002_en\.m4a$/);
+
+  await act(async () => swipe(0, 60));
+  assert.equal(hidden(), false);
+  assert.match(played.at(-1).url, /tasks_002_ru\.m4a$/);
+  await act(async () => swipe(60, 0));
+  assert.equal(source(), 'Hello');
+  assert.equal(hidden(), true);
+  assert.equal(
+    surface().findAll((node) => node.props.className?.includes('mobile-phrase-reverse')).length,
+    1,
+  );
+  const outgoing = surface().findAll((node) => node.props.className?.includes('mobile-phrase-out'));
+  assert.equal(outgoing.length, 1);
+  assert.equal(outgoing[0].findByProps({ lang: 'en' }).children.join(''), 'Bye');
+  act(() => outgoing[0].props.onAnimationEnd());
+  assert.equal(surface().findAllByProps({ lang: 'en' }).length, 1);
+  await act(async () => swipe(-60, 0));
+  assert.equal(source(), 'Bye');
+  assert.equal(hidden(), true);
+  assert.equal(
+    surface().findAll((node) => node.props.className?.includes('mobile-phrase-reverse')).length,
+    0,
+  );
+  await act(async () => surface().props.onKeyDown({ key: 'ArrowLeft', preventDefault() {} }));
+  assert.equal(source(), 'Hello');
+  assert.equal(
+    surface().findAll((node) => node.props.className?.includes('mobile-phrase-reverse')).length,
+    1,
+  );
+  await act(async () => surface().props.onKeyDown({ key: 'ArrowRight', preventDefault() {} }));
+  assert.equal(source(), 'Bye');
+  assert.equal(
+    surface().findAll((node) => node.props.className?.includes('mobile-phrase-reverse')).length,
+    0,
+  );
+
+  await act(async () => dialog().props.onClose());
+  act(() => button('Закрыть все').props.onClick());
+  await act(async () => button('TV-режим').props.onClick());
+  await act(async () => swipe(0, 60));
+  assert.equal(hidden(), false);
+  assert.match(played.at(-1).url, /tasks_002_ru\.m4a$/);
+  assert.deepEqual(saveOpen.mock.calls.at(-1).arguments, ['titan', '1', [1]]);
+  const count = played.length;
+  await act(async () => swipe(0, 0));
+  assert.equal(played.length, count + 1);
+  assert.match(played.at(-1).url, /tasks_002_ru\.m4a$/);
+  await act(async () => swipe(0, 60));
+  assert.equal(played.length, count + 2);
+  assert.match(played.at(-1).url, /tasks_002_ru\.m4a$/);
+  await act(async () => swipe(0, -60));
+  assert.equal(hidden(), false);
+  assert.match(played.at(-1).url, /tasks_002_en\.m4a$/);
+
+  const shuffleOrder = t.mock.method(lodash, 'shuffle', (order) => [...order].reverse());
+  const beforeRestart = played.length;
+  await act(async () => swipe(-60, 0));
+  assert.deepEqual(shuffleOrder.mock.calls.at(-1).arguments, [[0, 1]]);
+  assert.equal(source(), 'Bye');
+  assert.equal(hidden(), true);
+  assert.equal(played.length, beforeRestart + 1);
+  assert.match(played.at(-1).url, /lesson-complete\.wav$/);
+  await act(async () => played.at(-1).onended());
+  assert.match(played.at(-1).url, /tasks_002_en\.m4a$/);
+  await act(async () => swipe(-60, 0));
+  assert.equal(source(), 'Hello');
+  assert.equal(hidden(), true);
+  await act(async () => dialog().props.onClose());
+  assert.match(sentences()[2].props.className, /sentence-selected/);
+  assert.equal(reveals()[0].props['aria-hidden'], true);
+});
+
+test('mobile mode uses browser speech when a phrase has no recording', async (t) => {
+  const spoken = [];
+  globalThis.speechSynthesis = { cancel() {}, speak: (utterance) => spoken.push(utterance) };
+  globalThis.SpeechSynthesisUtterance = class {
+    constructor(text) {
+      this.text = text;
+    }
+  };
+  t.after(() => {
+    delete globalThis.speechSynthesis;
+    delete globalThis.SpeechSynthesisUtterance;
+  });
+  globalThis.fetch = async (url) =>
+    url.endsWith('/words.json')
+      ? withoutDictionary(url)
+      : {
+          ok: true,
+          json: async () => [{ id: 1, ru: { text: 'Привет' }, en: { text: 'Hello' } }],
+        };
+
+  await renderLesson();
+  await act(async () => button('TV-режим').props.onClick());
+  const surface = renderer.root.findByProps({ 'aria-describedby': 'mobile-lesson-help' });
+  await act(async () => surface.props.onClick({ detail: 0 }));
+  await act(async () => surface.props.onKeyDown({ key: 'ArrowRight', preventDefault() {} }));
+  assert.match(played.at(-1).url, /lesson-complete\.wav$/);
+  assert.equal(spoken.length, 2);
+  await act(async () => played.at(-1).onended());
+  assert.deepEqual(
+    spoken.map(({ text, lang }) => [text, lang]),
+    [
+      ['Привет', 'ru'],
+      ['Hello', 'en'],
+      ['Привет', 'ru'],
+    ],
+  );
+});
 
 test('a lesson without tasks loads its dictionary collapsed', async () => {
   globalThis.fetch = async (url) =>

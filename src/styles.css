@@ -7,7 +7,9 @@ body {
   overflow-y: scroll;
 }
 
-html, body, #root{
+html,
+body,
+#root {
   height: 100%;
 }
 
@@ -22,6 +24,57 @@ html, body, #root{
 
 .fade-in {
   animation: fadeIn 0.15s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+@keyframes mobile-phrase-in {
+  from {
+    transform: translateX(var(--phrase-in, 100vw));
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes mobile-phrase-out {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(var(--phrase-out, -100vw));
+  }
+}
+
+.mobile-phrase-reverse {
+  --phrase-in: -100vw;
+  --phrase-out: 100vw;
+}
+
+.mobile-phrase-in {
+  animation: mobile-phrase-in 120ms ease-out;
+}
+
+.mobile-phrase-out {
+  animation: mobile-phrase-out 120ms ease-out;
+}
+
+@keyframes mobile-exit-progress {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
+.mobile-exit-progress {
+  animation: mobile-exit-progress 500ms linear forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .mobile-phrase-in,
+  .mobile-phrase-out {
+    animation-duration: 1ms;
+  }
 }
 
 .audio-phrase {

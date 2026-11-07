@@ -108,7 +108,7 @@ const MobileLesson = ({
     const horizontal = Math.abs(dx) > Math.abs(dy);
     if (Math.abs(horizontal ? dx : dy) < 24) onReveal();
     else if (horizontal) handleArrow(dx < 0 ? 'ArrowRight' : 'ArrowLeft');
-    else handleArrow(dy < 0 ? 'ArrowUp' : 'ArrowDown');
+    else handleArrow(dy < 0 ? 'ArrowDown' : 'ArrowUp');
   };
 
   const cancelExit = () => {

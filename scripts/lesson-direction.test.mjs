@@ -340,7 +340,7 @@ test('mobile gestures share the lesson position and progress while masking each 
   assert.equal(hidden(), true);
   assert.match(played.at(-1).url, /tasks_002_en\.m4a$/);
 
-  await act(async () => swipe(0, 60));
+  await act(async () => swipe(0, -60));
   assert.equal(hidden(), false);
   assert.match(played.at(-1).url, /tasks_002_ru\.m4a$/);
   await act(async () => swipe(60, 0));
@@ -378,7 +378,7 @@ test('mobile gestures share the lesson position and progress while masking each 
   await act(async () => dialog().props.onClose());
   act(() => button('Закрыть все').props.onClick());
   await act(async () => button('TV-режим').props.onClick());
-  await act(async () => swipe(0, 60));
+  await act(async () => swipe(0, -60));
   assert.equal(hidden(), false);
   assert.match(played.at(-1).url, /tasks_002_ru\.m4a$/);
   assert.deepEqual(saveOpen.mock.calls.at(-1).arguments, ['titan', '1', [1]]);
@@ -386,10 +386,10 @@ test('mobile gestures share the lesson position and progress while masking each 
   await act(async () => swipe(0, 0));
   assert.equal(played.length, count + 1);
   assert.match(played.at(-1).url, /tasks_002_ru\.m4a$/);
-  await act(async () => swipe(0, 60));
+  await act(async () => swipe(0, -60));
   assert.equal(played.length, count + 2);
   assert.match(played.at(-1).url, /tasks_002_ru\.m4a$/);
-  await act(async () => swipe(0, -60));
+  await act(async () => swipe(0, 60));
   assert.equal(hidden(), false);
   assert.match(played.at(-1).url, /tasks_002_en\.m4a$/);
 

@@ -279,6 +279,40 @@ test('TV mode opens if fullscreen is rejected and leaves existing fullscreen alo
   assert.equal(exits, 0);
 });
 
+test('TV mode discards a swipe interrupted by rotation and follows the rotated screen', async (t) => {
+  const orientation = { angle: 0 };
+  globalThis.screen = { orientation };
+  t.after(() => delete globalThis.screen);
+  await renderLesson('en');
+  await act(async () => button('TV-режим').props.onClick());
+
+  const { onPointerDown, onPointerUp } = renderer.root.findByProps({
+    'aria-describedby': 'mobile-lesson-help',
+  }).props;
+  const pointer = {
+    pointerId: 1,
+    isPrimary: true,
+    button: 0,
+    currentTarget: { setPointerCapture() {} },
+  };
+  const start = () => onPointerDown({ ...pointer, clientX: 100, clientY: 100 });
+  const end = (x, y) => onPointerUp({ ...pointer, clientX: x, clientY: y });
+  const count = played.length;
+
+  await act(async () => {
+    start();
+    orientation.angle = 90;
+    end(40, 100);
+  });
+  assert.equal(played.length, count);
+
+  await act(async () => {
+    start();
+    end(40, 100);
+  });
+  assert.match(played.at(-1).url, /tasks_002_en\.m4a$/);
+});
+
 test('mobile gestures share the lesson position and progress while masking each new phrase', async (t) => {
   const saveOpen = t.mock.method(storage, 'saveLastOpenSentences', async () => {});
   await renderLesson('en');

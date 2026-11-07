@@ -15,6 +15,9 @@ interface Props {
   onRetryAudio?: () => void;
 }
 
+const getScreenAngle = () =>
+  globalThis.screen?.orientation?.angle ?? globalThis.window?.orientation;
+
 const MobileLesson = ({
   dialogRef,
   phrase,
@@ -25,7 +28,9 @@ const MobileLesson = ({
   onClose,
   onRetryAudio,
 }: Props) => {
-  const start = useRef<{ id: number; x: number; y: number } | null>(null);
+  const start = useRef<{ id: number; x: number; y: number; angle: number | undefined } | null>(
+    null,
+  );
   const exitTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const [holdingExit, setHoldingExit] = useState(false);
   useEffect(
@@ -77,7 +82,12 @@ const MobileLesson = ({
 
   const onPointerDown = (event: PointerEvent<HTMLButtonElement>) => {
     if (!event.isPrimary || event.button !== 0) return;
-    start.current = { id: event.pointerId, x: event.clientX, y: event.clientY };
+    start.current = {
+      id: event.pointerId,
+      x: event.clientX,
+      y: event.clientY,
+      angle: getScreenAngle(),
+    };
     event.currentTarget.setPointerCapture(event.pointerId);
   };
 
@@ -88,10 +98,13 @@ const MobileLesson = ({
   };
 
   const onPointerUp = (event: PointerEvent<HTMLButtonElement>) => {
-    if (start.current?.id !== event.pointerId) return;
-    const dx = event.clientX - start.current.x;
-    const dy = event.clientY - start.current.y;
+    const gesture = start.current;
+    if (gesture?.id !== event.pointerId) return;
     start.current = null;
+    // Pointer coordinates follow the viewport, so a rotation invalidates the starting point.
+    if (gesture.angle !== getScreenAngle()) return;
+    const dx = event.clientX - gesture.x;
+    const dy = event.clientY - gesture.y;
     const horizontal = Math.abs(dx) > Math.abs(dy);
     if (Math.abs(horizontal ? dx : dy) < 24) onReveal();
     else if (horizontal) handleArrow(dx < 0 ? 'ArrowRight' : 'ArrowLeft');

@@ -245,14 +245,6 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
             >
               <HiOutlineCog size={18} aria-hidden="true" />
             </Button>
-            {isLocal && (
-              <span
-                className="text-xs text-gray1"
-                title="Прогресс сохраняется только в этом браузере"
-              >
-                Локально
-              </span>
-            )}
             <UserButton isLocal={isLocal} onLogin={onLogin} />
           </div>
         </div>

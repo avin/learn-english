@@ -114,6 +114,10 @@ const MobileLesson = ({
   };
 
   const handleArrow = (key: ArrowKey) => {
+    if (key === 'ArrowRight' && !revealed) {
+      onReveal();
+      return;
+    }
     if (key === 'ArrowRight' || key === 'ArrowLeft') {
       const item = incoming.current;
       const offset =
@@ -157,7 +161,6 @@ const MobileLesson = ({
     const dy = event.clientY - gesture.y;
     const horizontal = Math.abs(dx) > Math.abs(dy);
     if (Math.abs(horizontal ? dx : dy) < 24) onReveal();
-    else if (horizontal && dx < 0 && !revealed) onReveal();
     else if (horizontal) handleArrow(dx < 0 ? 'ArrowRight' : 'ArrowLeft');
     else handleArrow(dy < 0 ? 'ArrowDown' : 'ArrowUp');
   };
@@ -301,8 +304,9 @@ const MobileLesson = ({
         </button>
       )}
       <p id="mobile-lesson-help" className="sr-only">
-        Стрелки влево и вправо переключают предложения. Стрелка вверх повторяет исходную фразу,
-        стрелка вниз повторяет перевод.
+        Стрелка вправо сначала показывает перевод, затем переключает на следующую фразу. Стрелка
+        влево возвращает к предыдущей фразе. Стрелка вверх повторяет исходную фразу, стрелка вниз
+        показывает и озвучивает перевод.
       </p>
     </dialog>
   );

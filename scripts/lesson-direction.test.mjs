@@ -307,9 +307,10 @@ test('TV mode receives gamepad input and focuses the phrase for keyboard input',
   Object.assign(globalThis, globals);
   Object.assign(document, { visibilityState: 'visible', hasFocus: () => true });
   t.mock.method(document, 'querySelector', (selector) => {
+    const gamepadDialog = dialog.open && 'data-gamepad' in dialogProps;
+    if (selector === 'dialog[open][data-gamepad]') return gamepadDialog ? dialog : null;
     if (otherDialogOpen) return {};
-    if (dialog.open && (!selector.includes(':not') || !('data-gamepad' in dialogProps)))
-      return dialog;
+    if (dialog.open && (!selector.includes(':not') || !gamepadDialog)) return dialog;
     return null;
   });
   const pad = { connected: true, mapping: 'standard', buttons: [], axes: [0, 0] };
@@ -334,10 +335,10 @@ test('TV mode receives gamepad input and focuses the phrase for keyboard input',
       },
     });
   });
-  const poll = async (button) => {
+  const poll = async (button, now = 0) => {
     pad.buttons = [];
     if (button !== undefined) pad.buttons[button] = { pressed: true };
-    await act(async () => frame(0));
+    await act(async () => frame(now));
   };
   const surface = () => renderer.root.findByProps({ 'aria-describedby': 'mobile-lesson-help' });
   const source = () => surface().findAllByProps({ lang: 'ru' }).at(-1).children.join('');
@@ -346,7 +347,14 @@ test('TV mode receives gamepad input and focuses the phrase for keyboard input',
   await act(async () => button('TV-режим').props.onClick());
   assert.equal(source(), 'Привет');
   await poll(15);
-  assert.equal(source(), 'Пока', 'gamepad Right must advance the TV phrase');
+  assert.equal(source(), 'Привет', 'first gamepad Right must stay on the current phrase');
+  assert.equal(hidden(), false);
+  assert.match(played.at(-1).url, /tasks_001_en\.m4a$/);
+  await poll(15, 500);
+  assert.equal(source(), 'Привет', 'holding Right must wait for a new press');
+  await poll(undefined, 510);
+  await poll(15, 520);
+  assert.equal(source(), 'Пока', 'second gamepad Right must advance the TV phrase');
   await poll(0);
   assert.equal(hidden(), false, 'gamepad A must reveal the translation');
   assert.equal(focused, true, 'the phrase must receive focus when TV mode opens');
@@ -505,6 +513,10 @@ test('mobile gestures share the lesson position and progress while masking each 
   );
   incomingLeft = 20;
   await act(async () => pressTvKey('ArrowRight'));
+  assert.equal(source(), 'Hello', 'first keyboard Right must stay on the current phrase');
+  assert.equal(hidden(), false);
+  assert.match(played.at(-1).url, /tasks_001_ru\.m4a$/);
+  await act(async () => pressTvKey('ArrowRight'));
   assert.equal(source(), 'Bye');
   assert.equal(slideStart(), '0px');
   assert.equal(
@@ -574,8 +586,7 @@ test('mobile mode uses browser speech when a phrase has no recording', async (t)
 
   await renderLesson();
   await act(async () => button('TV-режим').props.onClick());
-  const surface = renderer.root.findByProps({ 'aria-describedby': 'mobile-lesson-help' });
-  await act(async () => surface.props.onClick({ detail: 0 }));
+  await act(async () => pressTvKey('ArrowRight'));
   await act(async () => pressTvKey('ArrowRight'));
   assert.match(played.at(-1).url, /lesson-complete\.wav$/);
   assert.equal(spoken.length, 2);

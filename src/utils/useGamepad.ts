@@ -29,6 +29,7 @@ export const useGamepad = (
         // A browser or an embedding page can deny access to the Gamepad API.
         return;
       }
+      const repeatDirections = !document.querySelector('dialog[open][data-gamepad]');
       const action = read(
         gamepads,
         now,
@@ -37,6 +38,7 @@ export const useGamepad = (
           document.hasFocus() &&
           !document.querySelector('dialog[open]:not([data-gamepad])') &&
           !editing,
+        repeatDirections,
       );
       if (action) handler.current.onAction(action);
       frame = requestAnimationFrame(poll);

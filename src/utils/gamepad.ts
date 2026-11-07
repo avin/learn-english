@@ -45,7 +45,12 @@ export const createGamepadReader = () => {
   let repeatAt = 0;
   let waitingForRelease = false;
 
-  return (gamepads: (Gamepad | null)[], now: number, enabled = true): GamepadAction | null => {
+  return (
+    gamepads: (Gamepad | null)[],
+    now: number,
+    enabled = true,
+    repeatDirections = true,
+  ): GamepadAction | null => {
     if (!enabled) waitingForRelease = true;
     const gamepad = gamepads.find((pad) => pad?.connected && pad.mapping === 'standard');
     const nextDevice = gamepad ? `${gamepad.index}:${gamepad.id}` : null;
@@ -68,7 +73,7 @@ export const createGamepadReader = () => {
       repeatAt = now + 400;
       return alreadyPressed ? null : action;
     }
-    if (action?.startsWith('Arrow') && now >= repeatAt) {
+    if (repeatDirections && action?.startsWith('Arrow') && now >= repeatAt) {
       repeatAt = now + 150;
       return action;
     }

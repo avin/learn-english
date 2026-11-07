@@ -18,7 +18,7 @@ import { Course, Translation, TranslationTask } from '@/types';
 import { useProgressStorage } from '@/utils/ProgressContext.ts';
 import { GamepadAction } from '@/utils/gamepad.ts';
 import { AppSettings } from '@/utils/settings.ts';
-import MobileLesson, { MobileLessonControls } from './MobileLesson.tsx';
+import MobileLesson, { MobileLessonControls, SlideDirection } from './MobileLesson.tsx';
 import { AudioCache } from './audioCache.ts';
 import { AudioPrediction } from './audioPrediction.ts';
 import { ArrowKey, SentenceSelection, getNextSentence } from './navigation.ts';
@@ -41,7 +41,13 @@ export interface LessonControls {
 type Section = 'sentences' | 'dictionary';
 type TvAudioState = { id: number } & (
   | { closed: true }
-  | { idx: number; column: SentenceSelection['column']; revealed: boolean; order: number[] }
+  | {
+      idx: number;
+      column: SentenceSelection['column'];
+      revealed: boolean;
+      order: number[];
+      direction?: SlideDirection;
+    }
 );
 
 let nextTvAudioId = 0;
@@ -99,7 +105,6 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   const mobileControlsRef = useRef<MobileLessonControls>(null);
   const mobileFullscreen = useRef(false);
   const tvAudio = useRef<{ id: number; tail: Promise<void> } | null>(null);
-  const [tvAudioFailed, setTvAudioFailed] = useState(false);
   const [audioBlocked, setAudioBlocked] = useState(false);
   const [loadError, setLoadError] = useState(false);
   const selectedSentenceRef = useRef<HTMLDivElement | null>(null);
@@ -243,9 +248,9 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
       if (tvAudio.current?.id !== state.id) return;
       if ('closed' in state) {
         tvAudio.current = null;
-        setTvAudioFailed(true);
         return;
       }
+      if (state.direction) mobileControlsRef.current?.prepareTransition(state.direction);
       setSelected({ idx: state.idx, column: state.column });
       setOrder((current) =>
         current.every((idx, position) => idx === state.order[position]) ? current : state.order,
@@ -741,7 +746,6 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     }
 
     stopAudio();
-    setTvAudioFailed(false);
     setMobileRevealed(false);
     rememberSelection('sentences', { idx, column: sourceLanguage });
     const id = ++nextTvAudioId;
@@ -759,13 +763,12 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
         console.error('Error starting TV audio:', error);
         if (tvAudio.current?.id !== id) return;
         tvAudio.current = null;
-        setTvAudioFailed(true);
         showMobileSentence(idx);
       }),
     };
   };
 
-  const controlTvAudio = (action: 'next' | 'previous' | 'source' | 'reveal') => {
+  const controlTvAudio = (action: 'right' | 'left' | 'source' | 'reveal') => {
     const playback = tvAudio.current;
     if (!playback) return false;
     playback.tail = playback.tail
@@ -778,7 +781,6 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
         console.error('Error controlling TV audio:', error);
         if (tvAudio.current !== playback) return;
         stopTvAudio();
-        setTvAudioFailed(true);
       });
     return true;
   };
@@ -792,13 +794,15 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
 
   const handleMobileArrow = (key: ArrowKey) => {
     if (key === 'ArrowDown') return revealMobileTranslation();
-    const actions = { ArrowUp: 'source', ArrowLeft: 'previous', ArrowRight: 'next' } as const;
+    const actions = { ArrowUp: 'source', ArrowLeft: 'left', ArrowRight: 'right' } as const;
     if (controlTvAudio(actions[key])) return;
+    if (key === 'ArrowRight' && !mobileRevealed) return revealMobileTranslation();
     if (!selected) return;
     if (key === 'ArrowUp') return speakMobile(selected.idx, sourceLanguage);
 
     const row = order.indexOf(selected.idx) + (key === 'ArrowRight' ? 1 : -1);
     if (row < 0) return;
+    mobileControlsRef.current?.prepareTransition(key === 'ArrowRight' ? 'forward' : 'backward');
     if (row < order.length) {
       showMobileSentence(order[row]);
       return;
@@ -1046,7 +1050,6 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
           phrase={mobileMode && selected ? translations[selected.idx] : null}
           sourceLanguage={sourceLanguage}
           revealed={mobileRevealed}
-          mediaRemote={androidTvAudio ? (tvAudioFailed ? 'unavailable' : 'available') : undefined}
           onArrow={handleMobileArrow}
           onReveal={revealMobileTranslation}
           onClose={() => {

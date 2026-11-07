@@ -116,7 +116,7 @@ const MobileLesson = await loadModule('../src/components/pages/MainPage/Lesson/M
   '@/components/common/Button/Button.tsx': Button,
 });
 const lodash = { shuffle };
-const { default: Lesson } = await loadModule('../src/components/pages/MainPage/Lesson/Lesson.tsx', {
+const lessonDependencies = {
   react: React,
   '@tauri-apps/api/core': { isTauri: () => false },
   'react-icons/hi': hiIcons,
@@ -131,7 +131,9 @@ const { default: Lesson } = await loadModule('../src/components/pages/MainPage/L
   './navigation.ts': navigation,
   './audioCache.ts': audioCache,
   './audioPrediction.ts': audioPrediction,
-});
+};
+const lessonModule = '../src/components/pages/MainPage/Lesson/Lesson.tsx';
+const { default: Lesson } = await loadModule(lessonModule, lessonDependencies);
 let renderer;
 let controls;
 afterEach(() => {
@@ -143,11 +145,16 @@ afterEach(() => {
   globalThis.fetch = withoutDictionary;
 });
 
-const renderLesson = async (sourceLanguage = 'ru', resetOnLessonEnd = false, createNodeMock) => {
+const renderLesson = async (
+  sourceLanguage = 'ru',
+  resetOnLessonEnd = false,
+  createNodeMock,
+  LessonComponent = Lesson,
+) => {
   controls = React.createRef();
   const Session = () => {
     const [language, setLanguage] = React.useState(sourceLanguage);
-    return React.createElement(Lesson, {
+    return React.createElement(LessonComponent, {
       ref: controls,
       course: 'titan',
       lesson: '1',
@@ -272,6 +279,43 @@ test('TV mode enters fullscreen and exits it when closed', async (t) => {
   assert.equal(topLayer.at(-1), 'dialog', 'TV dialog must appear above the fullscreen page');
   await act(async () => renderer.root.findByType('dialog').props.onClose());
   assert.equal(exits, 1);
+});
+
+test('Android media navigation slides in the direction reported by the lesson', async (t) => {
+  navigator.userAgent = 'Android';
+  globalThis.window = new EventTarget();
+  t.after(() => {
+    act(() => renderer.unmount());
+    delete globalThis.window;
+    delete navigator.userAgent;
+  });
+  let id;
+  const { default: AndroidLesson } = await loadModule(lessonModule, {
+    ...lessonDependencies,
+    '@tauri-apps/api/core': {
+      isTauri: () => true,
+      invoke: async (_, { request }) => {
+        if (request.action === 'start') id = request.id;
+      },
+    },
+  });
+  await renderLesson('ru', false, undefined, AndroidLesson);
+  await act(async () => button('TV-режим').props.onClick());
+
+  const move = (idx, direction) => {
+    const event = new Event('android-tv-audio');
+    event.detail = { id, idx, direction, column: 'ru', revealed: false, order: [0, 1] };
+    act(() => window.dispatchEvent(event));
+  };
+  const hasReverseSlide = () =>
+    renderer.root.findAll((node) => node.props.className?.includes('mobile-phrase-reverse'))
+      .length > 0;
+  move(1, 'forward');
+  assert.equal(hasReverseSlide(), false);
+  move(0, 'backward');
+  assert.equal(hasReverseSlide(), true);
+  move(1, 'forward');
+  assert.equal(hasReverseSlide(), false);
 });
 
 test('TV mode receives gamepad input and focuses the phrase for keyboard input', async (t) => {

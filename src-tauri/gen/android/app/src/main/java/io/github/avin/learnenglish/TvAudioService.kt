@@ -83,8 +83,8 @@ class TvAudioService : Service() {
     session = MediaSession(this, "TV lesson")
     session.setFlags(MediaSession.FLAG_HANDLES_MEDIA_BUTTONS or MediaSession.FLAG_HANDLES_TRANSPORT_CONTROLS)
     session.setCallback(object : MediaSession.Callback() {
-      override fun onSkipToNext() = control("next")
-      override fun onSkipToPrevious() = control("previous")
+      override fun onSkipToNext() = control("right")
+      override fun onSkipToPrevious() = control("left")
       override fun onPlay() = control("reveal")
       override fun onPause() = finishClip()
       override fun onStop() = stopSelf()
@@ -93,8 +93,8 @@ class TvAudioService : Service() {
       override fun onMediaButtonEvent(intent: Intent): Boolean {
         val event = intent.getParcelableExtra<KeyEvent>(Intent.EXTRA_KEY_EVENT) ?: return false
         val action = when (event.keyCode) {
-          KeyEvent.KEYCODE_MEDIA_NEXT -> "next"
-          KeyEvent.KEYCODE_MEDIA_PREVIOUS -> "previous"
+          KeyEvent.KEYCODE_MEDIA_NEXT -> "right"
+          KeyEvent.KEYCODE_MEDIA_PREVIOUS -> "left"
           KeyEvent.KEYCODE_MEDIA_PLAY, KeyEvent.KEYCODE_MEDIA_PAUSE,
           KeyEvent.KEYCODE_MEDIA_PLAY_PAUSE, KeyEvent.KEYCODE_HEADSETHOOK -> "reveal"
           else -> return super.onMediaButtonEvent(intent)
@@ -131,32 +131,38 @@ class TvAudioService : Service() {
     return START_NOT_STICKY
   }
 
-  internal fun control(action: String) {
+  internal fun control(command: String) {
     if (lesson == null) return
+    val action = if (command == "right" && !revealed) "reveal" else command
     var completed = false
     when (action) {
-      "next" -> {
+      "right" -> {
         if (position == phrases.lastIndex) {
           phrases = phrases.shuffled()
           position = 0
           completed = true
         } else position++
       }
-      "previous" -> {
+      "left" -> {
         if (position == 0) return
         position--
       }
       "source", "reveal" -> Unit
       else -> error("Unknown TV audio action")
     }
-    if (action == "next" || action == "previous") revealed = false
+    val direction = when (action) {
+      "right" -> "forward"
+      "left" -> "backward"
+      else -> null
+    }
+    if (direction != null) revealed = false
     val target = action == "reveal"
     if (target) revealed = true
-    playCurrent(target, completed)
+    playCurrent(target, completed, direction)
   }
 
   @Suppress("DEPRECATION")
-  private fun playCurrent(target: Boolean = false, completed: Boolean = false) {
+  private fun playCurrent(target: Boolean = false, completed: Boolean = false, direction: String? = null) {
     val active = lesson ?: return
     val phrase = phrases[position]
     val language = if (!target) active.source else if (active.source == "ru") "en" else "ru"
@@ -164,7 +170,8 @@ class TvAudioService : Service() {
     finishClip()
     session.setMetadata(MediaMetadata.Builder().putString(MediaMetadata.METADATA_KEY_TITLE, clip.text).build())
     active.update(JSONObject().put("id", active.id).put("idx", phrase.idx)
-      .put("column", language).put("revealed", revealed).put("order", JSONArray(phrases.map { it.idx })))
+      .put("column", language).put("revealed", revealed).put("order", JSONArray(phrases.map { it.idx }))
+      .put("direction", direction))
     hasFocus = (if (Build.VERSION.SDK_INT >= 26) audioManager.requestAudioFocus(focusRequest)
       else audioManager.requestAudioFocus(focusListener, AudioManager.STREAM_MUSIC, AudioManager.AUDIOFOCUS_GAIN)) ==
       AudioManager.AUDIOFOCUS_REQUEST_GRANTED

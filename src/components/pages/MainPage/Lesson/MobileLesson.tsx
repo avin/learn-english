@@ -13,8 +13,11 @@ import { Translation } from '@/types';
 import { GamepadAction } from '@/utils/gamepad.ts';
 import { ArrowKey, SentenceSelection } from './navigation.ts';
 
+export type SlideDirection = 'forward' | 'backward';
+
 export interface MobileLessonControls {
   handleGamepad: (action: GamepadAction) => boolean;
+  prepareTransition: (direction: SlideDirection) => void;
 }
 
 interface Props {
@@ -23,7 +26,6 @@ interface Props {
   phrase: Translation | null;
   sourceLanguage: SentenceSelection['column'];
   revealed: boolean;
-  mediaRemote?: 'available' | 'unavailable';
   onArrow: (key: ArrowKey) => void;
   onReveal: () => void;
   onClose: () => void;
@@ -39,7 +41,6 @@ const MobileLesson = ({
   phrase,
   sourceLanguage,
   revealed,
-  mediaRemote,
   onArrow,
   onReveal,
   onClose,
@@ -65,10 +66,10 @@ const MobileLesson = ({
   const targetLanguage = sourceLanguage === 'ru' ? 'en' : 'ru';
   const previous = useRef({ phrase, revealed });
   const incoming = useRef<HTMLSpanElement>(null);
-  const motion = useRef({ direction: 'forward' as 'forward' | 'backward', offset: 0 });
+  const motion = useRef({ direction: 'forward' as SlideDirection, offset: 0 });
   const [transition, setTransition] = useState<{
     id: number;
-    direction: 'forward' | 'backward';
+    direction: SlideDirection;
     offset: number;
     outgoing: { phrase: Translation; revealed: boolean } | null;
   }>({ id: 0, ...motion.current, outgoing: null });
@@ -116,23 +117,15 @@ const MobileLesson = ({
     event.currentTarget.setPointerCapture(event.pointerId);
   };
 
-  const handleArrow = (key: ArrowKey) => {
-    if (key === 'ArrowRight' && !revealed) {
-      onReveal();
-      return;
-    }
-    if (key === 'ArrowRight' || key === 'ArrowLeft') {
+  useImperativeHandle(controlsRef, () => ({
+    prepareTransition(direction) {
       const item = incoming.current;
       const offset =
         transition.outgoing && item?.parentElement
           ? item.getBoundingClientRect().left - item.parentElement.getBoundingClientRect().left
           : 0;
-      motion.current = { direction: key === 'ArrowRight' ? 'forward' : 'backward', offset };
-    }
-    onArrow(key);
-  };
-
-  useImperativeHandle(controlsRef, () => ({
+      motion.current = { direction, offset };
+    },
     handleGamepad(action) {
       const dialog = dialogRef.current;
       if (!dialog?.open) return false;
@@ -141,7 +134,7 @@ const MobileLesson = ({
         case 'ArrowRight':
         case 'ArrowUp':
         case 'ArrowDown':
-          handleArrow(action);
+          onArrow(action);
           break;
         case 'replay':
           onReveal();
@@ -164,8 +157,8 @@ const MobileLesson = ({
     const dy = event.clientY - gesture.y;
     const horizontal = Math.abs(dx) > Math.abs(dy);
     if (Math.abs(horizontal ? dx : dy) < 24) onReveal();
-    else if (horizontal) handleArrow(dx < 0 ? 'ArrowRight' : 'ArrowLeft');
-    else handleArrow(dy < 0 ? 'ArrowDown' : 'ArrowUp');
+    else if (horizontal) onArrow(dx < 0 ? 'ArrowRight' : 'ArrowLeft');
+    else onArrow(dy < 0 ? 'ArrowDown' : 'ArrowUp');
   };
 
   const cancelExit = () => {
@@ -208,7 +201,7 @@ const MobileLesson = ({
         )
           return;
         event.preventDefault();
-        if (!event.repeat) handleArrow(key);
+        if (!event.repeat) onArrow(key);
       }}
       onClose={() => {
         cancelExit();
@@ -270,16 +263,6 @@ const MobileLesson = ({
           </Button>
         )}
       </div>
-      {mediaRemote && (
-        <p
-          role="status"
-          className="pointer-events-none absolute inset-x-4 bottom-4 z-10 text-center text-sm text-gray1"
-        >
-          {mediaRemote === 'available'
-            ? 'Медиапульт: ⏮ и ⏭ листают фразы, ▶/⏸ озвучивает перевод. Экран можно выключить.'
-            : 'Медиапульт недоступен. Откройте ТВ-режим заново, чтобы повторить попытку.'}
-        </p>
-      )}
       {phrase && (
         <button
           ref={phraseButton}

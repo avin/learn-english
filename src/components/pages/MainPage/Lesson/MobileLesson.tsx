@@ -23,6 +23,7 @@ interface Props {
   phrase: Translation | null;
   sourceLanguage: SentenceSelection['column'];
   revealed: boolean;
+  mediaRemote?: 'available' | 'unavailable';
   onArrow: (key: ArrowKey) => void;
   onReveal: () => void;
   onClose: () => void;
@@ -38,6 +39,7 @@ const MobileLesson = ({
   phrase,
   sourceLanguage,
   revealed,
+  mediaRemote,
   onArrow,
   onReveal,
   onClose,
@@ -268,6 +270,16 @@ const MobileLesson = ({
           </Button>
         )}
       </div>
+      {mediaRemote && (
+        <p
+          role="status"
+          className="pointer-events-none absolute inset-x-4 bottom-4 z-10 text-center text-sm text-gray1"
+        >
+          {mediaRemote === 'available'
+            ? 'Медиапульт: ⏮ и ⏭ листают фразы, ▶/⏸ озвучивает перевод. Экран можно выключить.'
+            : 'Медиапульт недоступен. Откройте ТВ-режим заново, чтобы повторить попытку.'}
+        </p>
+      )}
       {phrase && (
         <button
           ref={phraseButton}

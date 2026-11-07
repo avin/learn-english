@@ -7,6 +7,18 @@ use tauri::{
 };
 use tauri_plugin_fs::FsExt;
 
+#[cfg(target_os = "android")]
+#[tauri::command]
+async fn android_tv_audio(
+    request: serde_json::Value,
+    plugin: tauri::State<'_, tauri::plugin::PluginHandle<tauri::Wry>>,
+) -> Result<(), String> {
+    plugin
+        .run_mobile_plugin_async("request", request)
+        .await
+        .map_err(|err| err.to_string())
+}
+
 fn public_asset(path: &str) -> Option<(&Path, &'static str)> {
     let relative = path.strip_prefix('/')?;
     let path = Path::new(relative);
@@ -30,7 +42,24 @@ fn public_asset(path: &str) -> Option<(&Path, &'static str)> {
 
 #[cfg_attr(mobile, tauri::mobile_entry_point)]
 pub fn run() {
-    tauri::Builder::default()
+    let builder = tauri::Builder::default();
+    #[cfg(target_os = "android")]
+    let builder =
+        builder
+            .plugin(
+                tauri::plugin::Builder::<_, ()>::new("tv-audio")
+                    .setup(|app, api| {
+                        app.manage(api.register_android_plugin(
+                            "io.github.avin.learnenglish",
+                            "TvAudioPlugin",
+                        )?);
+                        Ok(())
+                    })
+                    .build(),
+            )
+            .invoke_handler(tauri::generate_handler![android_tv_audio]);
+
+    builder
         .plugin(tauri_plugin_fs::init())
         .setup(|app| {
             let handle = app.handle().clone();

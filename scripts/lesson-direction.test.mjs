@@ -118,6 +118,7 @@ const MobileLesson = await loadModule('../src/components/pages/MainPage/Lesson/M
 const lodash = { shuffle };
 const { default: Lesson } = await loadModule('../src/components/pages/MainPage/Lesson/Lesson.tsx', {
   react: React,
+  '@tauri-apps/api/core': { isTauri: () => false },
   'react-icons/hi': hiIcons,
   'react-icons/tb': tbIcons,
   'react-use': { usePrevious },

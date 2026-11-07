@@ -9,6 +9,7 @@ import React, {
 import { HiChevronDown, HiOutlineStar, HiStar } from 'react-icons/hi';
 import { TbArrowsExchange, TbArrowsShuffle, TbEye, TbEyeOff } from 'react-icons/tb';
 import { usePrevious } from 'react-use';
+import { invoke, isTauri } from '@tauri-apps/api/core';
 import cn from 'clsx';
 import { shuffle } from 'lodash-es';
 import Button from '@/components/common/Button/Button.tsx';
@@ -38,6 +39,13 @@ export interface LessonControls {
 }
 
 type Section = 'sentences' | 'dictionary';
+type TvAudioState = { id: number } & (
+  | { closed: true }
+  | { idx: number; column: SentenceSelection['column']; revealed: boolean; order: number[] }
+);
+
+let nextTvAudioId = 0;
+const androidTvAudio = isTauri() && /Android/.test(navigator.userAgent);
 
 const audioUrl = (path: string) =>
   `${import.meta.env.BASE_URL}${path.replace(/^\/src\/assets\//, '')}`;
@@ -90,6 +98,8 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   const mobileDialogRef = useRef<HTMLDialogElement>(null);
   const mobileControlsRef = useRef<MobileLessonControls>(null);
   const mobileFullscreen = useRef(false);
+  const tvAudio = useRef<{ id: number; tail: Promise<void> } | null>(null);
+  const [tvAudioFailed, setTvAudioFailed] = useState(false);
   const [audioBlocked, setAudioBlocked] = useState(false);
   const [loadError, setLoadError] = useState(false);
   const selectedSentenceRef = useRef<HTMLDivElement | null>(null);
@@ -121,6 +131,18 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   useEffect(() => {
     if (mobileMode) return () => globalThis.speechSynthesis?.cancel();
   }, [mobileMode]);
+
+  const stopTvAudio = useCallback(() => {
+    const playback = tvAudio.current;
+    tvAudio.current = null;
+    if (playback) {
+      void playback.tail
+        .then(() => invoke('android_tv_audio', { request: { action: 'stop', id: playback.id } }))
+        .catch(console.error);
+    }
+  }, []);
+
+  useEffect(() => stopTvAudio, [course, lesson, sourceLanguage, stopTvAudio]);
 
   useEffect(() => {
     const preload = () => {
@@ -213,6 +235,27 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
       current?.includes(idx) ? current : [...(current || []), idx],
     );
   }, []);
+
+  useEffect(() => {
+    if (!androidTvAudio) return;
+    const update = (event: Event) => {
+      const state = (event as CustomEvent<TvAudioState>).detail;
+      if (tvAudio.current?.id !== state.id) return;
+      if ('closed' in state) {
+        tvAudio.current = null;
+        setTvAudioFailed(true);
+        return;
+      }
+      setSelected({ idx: state.idx, column: state.column });
+      setOrder((current) =>
+        current.every((idx, position) => idx === state.order[position]) ? current : state.order,
+      );
+      setMobileRevealed(state.revealed);
+      if (state.revealed) revealTranslation('sentences', state.idx);
+    };
+    window.addEventListener('android-tv-audio', update);
+    return () => window.removeEventListener('android-tv-audio', update);
+  }, [revealTranslation]);
 
   const selectSentence = useCallback(
     (
@@ -691,10 +734,57 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     }
     mobileDialogRef.current?.showModal();
     setMobileMode(true);
-    showMobileSentence(!inDictionary && selected ? selected.idx : order[0]);
+    const idx = !inDictionary && selected ? selected.idx : order[0];
+    if (!androidTvAudio) {
+      showMobileSentence(idx);
+      return;
+    }
+
+    stopAudio();
+    setTvAudioFailed(false);
+    setMobileRevealed(false);
+    rememberSelection('sentences', { idx, column: sourceLanguage });
+    const id = ++nextTvAudioId;
+    tvAudio.current = {
+      id,
+      tail: invoke<void>('android_tv_audio', {
+        request: {
+          action: 'start',
+          id,
+          selected: idx,
+          sourceLanguage,
+          rows: order.map((idx) => ({ ...translations[idx], idx })),
+        },
+      }).catch((error: unknown) => {
+        console.error('Error starting TV audio:', error);
+        if (tvAudio.current?.id !== id) return;
+        tvAudio.current = null;
+        setTvAudioFailed(true);
+        showMobileSentence(idx);
+      }),
+    };
+  };
+
+  const controlTvAudio = (action: 'next' | 'previous' | 'source' | 'reveal') => {
+    const playback = tvAudio.current;
+    if (!playback) return false;
+    playback.tail = playback.tail
+      .then(() => {
+        if (tvAudio.current === playback) {
+          return invoke<void>('android_tv_audio', { request: { action, id: playback.id } });
+        }
+      })
+      .catch((error: unknown) => {
+        console.error('Error controlling TV audio:', error);
+        if (tvAudio.current !== playback) return;
+        stopTvAudio();
+        setTvAudioFailed(true);
+      });
+    return true;
   };
 
   const revealMobileTranslation = () => {
+    if (controlTvAudio('reveal')) return;
     if (!selected) return;
     setMobileRevealed(true);
     speakMobile(selected.idx, targetLanguage);
@@ -702,6 +792,8 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
 
   const handleMobileArrow = (key: ArrowKey) => {
     if (key === 'ArrowDown') return revealMobileTranslation();
+    const actions = { ArrowUp: 'source', ArrowLeft: 'previous', ArrowRight: 'next' } as const;
+    if (controlTvAudio(actions[key])) return;
     if (!selected) return;
     if (key === 'ArrowUp') return speakMobile(selected.idx, sourceLanguage);
 
@@ -954,6 +1046,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
           phrase={mobileMode && selected ? translations[selected.idx] : null}
           sourceLanguage={sourceLanguage}
           revealed={mobileRevealed}
+          mediaRemote={androidTvAudio ? (tvAudioFailed ? 'unavailable' : 'available') : undefined}
           onArrow={handleMobileArrow}
           onReveal={revealMobileTranslation}
           onClose={() => {
@@ -964,6 +1057,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
               void document.exitFullscreen().catch(() => {});
             }
             mobileFullscreen.current = false;
+            stopTvAudio();
             stopAudio();
             setMobileMode(false);
             setCursorVisible(true);

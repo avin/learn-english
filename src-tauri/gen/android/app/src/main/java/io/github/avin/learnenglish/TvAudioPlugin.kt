@@ -1,0 +1,85 @@
+package io.github.avin.learnenglish
+
+import android.app.Activity
+import android.content.Intent
+import android.net.Uri
+import android.webkit.WebView
+import androidx.appcompat.app.AppCompatActivity
+import app.tauri.annotation.Command
+import app.tauri.annotation.TauriPlugin
+import app.tauri.plugin.Invoke
+import app.tauri.plugin.Plugin
+import org.json.JSONObject
+
+@TauriPlugin
+class TvAudioPlugin(private val activity: Activity) : Plugin(activity) {
+  private var webView: WebView? = null
+
+  override fun load(webView: WebView) {
+    this.webView = webView
+  }
+
+  @Command
+  fun request(invoke: Invoke) = activity.runOnUiThread {
+    try {
+      val args = invoke.getArgs()
+      val action = args.getString("action")
+      val id = args.getLong("id")
+      val service = Intent(activity, TvAudioService::class.java)
+      when (action) {
+        "start" -> {
+          val language = args.getString("sourceLanguage")
+          require(language == "ru" || language == "en")
+          val rows = args.getJSONArray("rows")
+          val phrases = List(rows.length()) { index ->
+            val row = rows.getJSONObject(index)
+            TvAudioService.Phrase(row.getInt("idx"), clip(row, "ru"), clip(row, "en"))
+          }
+          val selected = args.getInt("selected")
+          val position = phrases.indexOfFirst { it.idx == selected }
+          require(position >= 0)
+          val lesson = TvAudioService.Lesson(id, language, phrases, position) { state ->
+            webView?.evaluateJavascript(
+              "window.dispatchEvent(new CustomEvent('android-tv-audio', {detail: $state}))",
+              null,
+            )
+          }
+          activity.startService(service)
+          TvAudioService.pending?.invoke?.reject("TV audio session was replaced")
+          TvAudioService.pending = TvAudioService.Start(lesson, invoke)
+        }
+        "stop" -> {
+          if (TvAudioService.pending == null && TvAudioService.current?.lessonId == id) {
+            activity.stopService(service)
+          }
+          invoke.resolve()
+        }
+        else -> {
+          val playback = checkNotNull(TvAudioService.current?.takeIf { it.lessonId == id }) {
+            "TV audio session has ended"
+          }
+          playback.control(action)
+          invoke.resolve()
+        }
+      }
+    } catch (error: Exception) {
+      invoke.reject("TV audio: ${error.message}", error)
+    }
+  }
+
+  override fun onDestroy(activity: AppCompatActivity) {
+    webView = null
+    TvAudioService.pending?.invoke?.reject("TV audio session has ended")
+    TvAudioService.pending = null
+    activity.stopService(Intent(activity, TvAudioService::class.java))
+  }
+
+  private fun clip(row: JSONObject, language: String): TvAudioService.Clip {
+    val path = row.optJSONObject("audio")?.optString(language)?.takeIf { it.isNotEmpty() }
+    val asset = path?.let(Uri::decode)?.takeIf {
+      it.startsWith("translations/") && it.endsWith(".m4a") &&
+        '\\' !in it && ':' !in it && it.split('/').none { part -> part.isEmpty() || part.endsWith('.') || part.endsWith(' ') }
+    }
+    return TvAudioService.Clip(row.getString(language), language, asset)
+  }
+}

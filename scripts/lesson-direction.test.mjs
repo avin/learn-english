@@ -647,7 +647,7 @@ test('the collapsed dictionary shares the toolbars, audio and favorites', async 
   assert.equal(reveals()[0].props['aria-hidden'], false);
 });
 
-test('dictionary arrows wrap, V only enters, and Select or a pointer can return to sentences', async (t) => {
+test('dictionary arrows wrap, and V, Select or a pointer can return to sentences', async (t) => {
   globalThis.fetch = withDictionary;
   globalThis.HTMLElement = class {};
   t.after(() => delete globalThis.HTMLElement);
@@ -660,6 +660,9 @@ test('dictionary arrows wrap, V only enters, and Select or a pointer can return 
   await act(async () => keyV());
   assert.equal(dictionary()[0].props['aria-expanded'], true);
   assert.match(played.at(-1).url, /words_001_ru\.m4a$/);
+  await act(async () => keyV());
+  assert.equal(dictionary()[0].props['aria-expanded'], false);
+  assert.match(played.at(-1).url, /tasks_001_ru\.m4a$/);
   await act(async () => keyV());
   assert.equal(dictionary()[0].props['aria-expanded'], true);
   await act(async () => controls.current.navigate('ArrowUp'));

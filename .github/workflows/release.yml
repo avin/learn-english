@@ -1,0 +1,113 @@
+name: Release Android and Windows apps
+
+on:
+  push:
+    tags: ['v[0-9]+.[0-9]+.[0-9]+']
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    if: ${{ !github.event.deleted }}
+    strategy:
+      matrix:
+        include:
+          - platform: android-arm64
+            runner: ubuntu-24.04
+          - platform: windows-x64
+            runner: windows-2025
+    runs-on: ${{ matrix.runner }}
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Check tag and set app version
+        run: |
+          git merge-base --is-ancestor HEAD origin/master || {
+            echo 'The release tag must point to a commit on master.' >&2
+            exit 1
+          }
+          printf '{"version":"%s"}\n' "${GITHUB_REF_NAME#v}" > release.config.json
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version-file: package.json
+          cache: npm
+
+      - run: npm ci
+
+      - name: Build Windows installer
+        if: matrix.platform == 'windows-x64'
+        run: |
+          npm run tauri -- build --config release.config.json
+          mkdir release-assets
+          cp src-tauri/target/release/bundle/nsis/*-setup.exe \
+            "release-assets/learn-english-${GITHUB_REF_NAME}-windows-x64-setup.exe"
+
+      - name: Build Android APK
+        if: matrix.platform == 'android-arm64'
+        run: |
+          export JAVA_HOME="$JAVA_HOME_17_X64"
+          export NDK_HOME="$ANDROID_NDK_HOME"
+          rustup target add aarch64-linux-android
+          chmod +x src-tauri/gen/android/gradlew
+          npm run tauri -- android build --apk --target aarch64 --config release.config.json
+
+      - name: Sign and verify Android APK
+        if: matrix.platform == 'android-arm64'
+        env:
+          ANDROID_SIGNING_KEY_BASE64: ${{ secrets.ANDROID_SIGNING_KEY_BASE64 }}
+          ANDROID_SIGNING_PASSWORD: ${{ secrets.ANDROID_SIGNING_PASSWORD }}
+        run: |
+          : "${ANDROID_SIGNING_KEY_BASE64:?Configure ANDROID_SIGNING_KEY_BASE64}"
+          : "${ANDROID_SIGNING_PASSWORD:?Configure ANDROID_SIGNING_PASSWORD}"
+          umask 077
+          keystore=$(mktemp)
+          trap 'rm -f "$keystore"' EXIT
+          printf '%s' "$ANDROID_SIGNING_KEY_BASE64" | base64 --decode > "$keystore"
+          unset ANDROID_SIGNING_KEY_BASE64
+          build_tools="$ANDROID_HOME/build-tools/36.0.0"
+          mkdir release-assets
+          apk="release-assets/learn-english-${GITHUB_REF_NAME}-android-arm64.apk"
+          "$build_tools/apksigner" sign --ks "$keystore" --ks-key-alias learn-english \
+            --ks-pass env:ANDROID_SIGNING_PASSWORD --out "$apk" \
+            src-tauri/gen/android/app/build/outputs/apk/universal/release/*-unsigned.apk
+          "$build_tools/apksigner" verify "$apk"
+          "$build_tools/zipalign" -c -P 16 4 "$apk"
+
+      - uses: actions/upload-artifact@v6
+        with:
+          name: ${{ matrix.platform }}
+          path: release-assets/
+          if-no-files-found: error
+          compression-level: 0
+          retention-days: 1
+
+  publish:
+    needs: build
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v7
+        with:
+          path: release-assets
+          merge-multiple: true
+
+      - name: Publish GitHub release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          assets=(release-assets/*.apk release-assets/*-setup.exe)
+          if [[ $(gh release view "$GITHUB_REF_NAME" --json isDraft --jq .isDraft 2>/dev/null) == true ]]; then
+            gh release upload "$GITHUB_REF_NAME" --clobber "${assets[@]}"
+            gh release edit "$GITHUB_REF_NAME" --draft=false
+          else
+            gh release create "$GITHUB_REF_NAME" --verify-tag --generate-notes "${assets[@]}"
+          fi

@@ -16,7 +16,8 @@
     "test:login": "node --test scripts/login.test.mjs",
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "prettier": "prettier --ignore-unknown --write **"
+    "prettier": "prettier --ignore-unknown --write **",
+    "tauri": "tauri"
   },
   "dependencies": {
     "@types/lodash-es": "^4.17.12",
@@ -31,6 +32,7 @@
     "react-use": "^17.5.0"
   },
   "devDependencies": {
+    "@tauri-apps/cli": "^2.12.4",
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
     "@types/react": "^18.2.66",
     "@types/react-dom": "^18.2.22",

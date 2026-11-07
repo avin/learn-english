@@ -13,7 +13,7 @@ import {
 } from '@/utils/progress.ts';
 import { createStorage } from '@/utils/storage.ts';
 
-const LearningSession = ({ userId, onLogin }: { userId: string | null; onLogin: () => void }) => {
+const LearningSession = ({ userId, onLogin }: { userId: string | null; onLogin?: () => void }) => {
   const [storageError, setStorageError] = useState<ProgressError | null>(null);
   const storage = useMemo(() => createStorage(userId, setStorageError), [userId]);
 
@@ -34,7 +34,7 @@ const LearningSession = ({ userId, onLogin }: { userId: string | null; onLogin: 
   );
 };
 
-const App = () => {
+const OnlineApp = () => {
   const [user, setUser] = useState<User | null>(null);
   const [loading, setLoading] = useState(true);
   const [localMode, setLocalMode] = useState(hasLocalSession);
@@ -84,5 +84,8 @@ const App = () => {
 
   return <LoginPage onLocal={handleLocal} initialError={authError} />;
 };
+
+const App = () =>
+  import.meta.env.MODE === 'tauri' ? <LearningSession userId={null} /> : <OnlineApp />;
 
 export default App;

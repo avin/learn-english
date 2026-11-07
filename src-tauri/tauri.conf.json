@@ -1,0 +1,25 @@
+{
+  "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
+  "productName": "Learn English",
+  "version": "0.1.0",
+  "identifier": "io.github.avin.learnenglish",
+  "build": {
+    "beforeDevCommand": "npm run dev -- --mode tauri",
+    "beforeBuildCommand": "npm run build -- --mode tauri",
+    "devUrl": "http://localhost:8888",
+    "frontendDist": "../dist-tauri"
+  },
+  "app": {
+    "windows": [{ "title": "Тренажёр перевода", "width": 1100, "height": 800, "create": false }]
+  },
+  "bundle": {
+    "active": true,
+    "targets": ["nsis"],
+    "icon": ["icons/icon.ico", "icons/icon.png"],
+    "resources": { "../public/": "public/" },
+    "windows": {
+      "nsis": { "compression": "zlib" },
+      "webviewInstallMode": { "type": "offlineInstaller" }
+    }
+  }
+}

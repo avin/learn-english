@@ -55,7 +55,7 @@ const expressLessonOptions = ((): Options => {
 
 interface Props {
   isLocal: boolean;
-  onLogin: () => void;
+  onLogin?: () => void;
   storageError: ProgressError | null;
 }
 
@@ -245,7 +245,7 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
             >
               <HiOutlineCog size={18} aria-hidden="true" />
             </Button>
-            <UserButton isLocal={isLocal} onLogin={onLogin} />
+            {onLogin && <UserButton isLocal={isLocal} onLogin={onLogin} />}
           </div>
         </div>
       </header>

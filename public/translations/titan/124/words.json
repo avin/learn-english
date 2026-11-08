@@ -3,7 +3,7 @@
     "id": 1,
     "ru": {
       "text": "одобрение",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "approval",
@@ -15,7 +15,7 @@
     "id": 2,
     "ru": {
       "text": "пока",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "Bye",
@@ -27,7 +27,7 @@
     "id": 3,
     "ru": {
       "text": "до свидания",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "Goodbye",
@@ -39,7 +39,7 @@
     "id": 4,
     "ru": {
       "text": "привет",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "Hello",
@@ -51,7 +51,7 @@
     "id": 5,
     "ru": {
       "text": "привет",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "Hi",

@@ -3,7 +3,7 @@
     "id": 1,
     "ru": {
       "text": "банкнота",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "banknote",
@@ -15,7 +15,7 @@
     "id": 2,
     "ru": {
       "text": "бригада",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "brigade",
@@ -27,7 +27,7 @@
     "id": 3,
     "ru": {
       "text": "толпа",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "crowd",
@@ -39,7 +39,7 @@
     "id": 4,
     "ru": {
       "text": "установка",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "facility",
@@ -51,7 +51,7 @@
     "id": 5,
     "ru": {
       "text": "провал",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "failure",
@@ -63,7 +63,7 @@
     "id": 6,
     "ru": {
       "text": "пожарный",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "firefighter",
@@ -75,7 +75,7 @@
     "id": 7,
     "ru": {
       "text": "грипп",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "flu",
@@ -87,7 +87,7 @@
     "id": 8,
     "ru": {
       "text": "невнимательный",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "inattentive",
@@ -99,7 +99,7 @@
     "id": 9,
     "ru": {
       "text": "неопытность",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "inexperience",
@@ -111,7 +111,7 @@
     "id": 10,
     "ru": {
       "text": "расследование",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "investigation",
@@ -123,7 +123,7 @@
     "id": 11,
     "ru": {
       "text": "лень",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "laziness",
@@ -135,7 +135,7 @@
     "id": 12,
     "ru": {
       "text": "оператор",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "operator",
@@ -147,7 +147,7 @@
     "id": 13,
     "ru": {
       "text": "сбережения",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "savings",
@@ -159,7 +159,7 @@
     "id": 14,
     "ru": {
       "text": "усталость",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "tiredness",
@@ -171,7 +171,7 @@
     "id": 15,
     "ru": {
       "text": "непрофессионализм",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "unprofessionalism",
@@ -183,7 +183,7 @@
     "id": 16,
     "ru": {
       "text": "проникать в, попасть в",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "get into",
@@ -195,7 +195,7 @@
     "id": 17,
     "ru": {
       "text": "взбодриться",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "cheer up",
@@ -207,7 +207,7 @@
     "id": 18,
     "ru": {
       "text": "обходиться",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "get by",
@@ -219,7 +219,7 @@
     "id": 19,
     "ru": {
       "text": "справиться, выздороветь",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "get over",
@@ -231,7 +231,7 @@
     "id": 20,
     "ru": {
       "text": "убежать, скрыться",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "get away",
@@ -243,7 +243,7 @@
     "id": 21,
     "ru": {
       "text": "вырубать",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "cut down",
@@ -255,7 +255,7 @@
     "id": 22,
     "ru": {
       "text": "врываться, вломиться",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "break in",
@@ -267,7 +267,7 @@
     "id": 23,
     "ru": {
       "text": "вломиться в, вломиться в",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "break into",
@@ -279,7 +279,7 @@
     "id": 24,
     "ru": {
       "text": "проводить",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "carry out",
@@ -291,7 +291,7 @@
     "id": 25,
     "ru": {
       "text": "выдумать, решить",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "make up",
@@ -303,7 +303,7 @@
     "id": 26,
     "ru": {
       "text": "понимать",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "make out",
@@ -315,7 +315,7 @@
     "id": 27,
     "ru": {
       "text": "списывать на",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "put down to",
@@ -327,7 +327,7 @@
     "id": 28,
     "ru": {
       "text": "выдвигать",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "put forward",
@@ -339,7 +339,7 @@
     "id": 29,
     "ru": {
       "text": "тушить",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "put out",
@@ -351,7 +351,7 @@
     "id": 30,
     "ru": {
       "text": "соединять, связаться",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "put through",
@@ -363,7 +363,7 @@
     "id": 31,
     "ru": {
       "text": "отдавать",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "give away",
@@ -375,7 +375,7 @@
     "id": 32,
     "ru": {
       "text": "сократить",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "cut down on",
@@ -387,7 +387,7 @@
     "id": 33,
     "ru": {
       "text": "встать",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "stand up",

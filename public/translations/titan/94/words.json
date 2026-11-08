@@ -3,7 +3,7 @@
     "id": 1,
     "ru": {
       "text": "жалоба",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "complaint",
@@ -15,7 +15,7 @@
     "id": 2,
     "ru": {
       "text": "дизлайк, не нравится",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "dislike",
@@ -27,7 +27,7 @@
     "id": 3,
     "ru": {
       "text": "формат",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "format",

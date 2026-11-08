@@ -3,7 +3,7 @@
     "id": 1,
     "ru": {
       "text": "ванная",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "bathroom",
@@ -15,7 +15,7 @@
     "id": 2,
     "ru": {
       "text": "век",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "century",
@@ -27,7 +27,7 @@
     "id": 3,
     "ru": {
       "text": "гостиная",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "living room",
@@ -39,7 +39,7 @@
     "id": 4,
     "ru": {
       "text": "оптимистичный",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "optimistic",
@@ -51,7 +51,7 @@
     "id": 5,
     "ru": {
       "text": "пессимистический",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "pessimistic",

@@ -3,7 +3,7 @@
     "id": 1,
     "ru": {
       "text": "средний",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "average",
@@ -15,7 +15,7 @@
     "id": 2,
     "ru": {
       "text": "либо",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "either",
@@ -27,7 +27,7 @@
     "id": 3,
     "ru": {
       "text": "никто",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "neither",
@@ -39,7 +39,7 @@
     "id": 4,
     "ru": {
       "text": "ни один",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "none",
@@ -51,7 +51,7 @@
     "id": 5,
     "ru": {
       "text": "ни",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "nor",
@@ -63,7 +63,7 @@
     "id": 6,
     "ru": {
       "text": "просто",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "simply",
@@ -75,7 +75,7 @@
     "id": 7,
     "ru": {
       "text": "кто-то",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "somebody",
@@ -87,7 +87,7 @@
     "id": 8,
     "ru": {
       "text": "только что",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "just",

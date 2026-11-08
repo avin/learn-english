@@ -3,7 +3,7 @@
     "id": 1,
     "ru": {
       "text": "Этот путь длиннее",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This way is longer",
@@ -14,7 +14,7 @@
     "id": 2,
     "ru": {
       "text": "Эта ошибка больше",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This mistake is bigger",
@@ -25,7 +25,7 @@
     "id": 3,
     "ru": {
       "text": "Это самый длинный путь",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It’s the longest way",
@@ -36,7 +36,7 @@
     "id": 4,
     "ru": {
       "text": "Это самая большая ошибка",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It is the biggest mistake",
@@ -47,7 +47,7 @@
     "id": 5,
     "ru": {
       "text": "Этот метод более эффективный",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This method is more effective",
@@ -58,7 +58,7 @@
     "id": 6,
     "ru": {
       "text": "Это самый эффективный метод",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It’s the most effective method",
@@ -69,7 +69,7 @@
     "id": 7,
     "ru": {
       "text": "Это наименее интересная вещь для нас",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It is the least interesting thing for us",
@@ -80,7 +80,7 @@
     "id": 8,
     "ru": {
       "text": "Этот хлеб дешевле",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This bread is cheaper",
@@ -91,7 +91,7 @@
     "id": 9,
     "ru": {
       "text": "Это самые дорогие часы в этом магазине",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It is the most expensive watch in this store",
@@ -102,7 +102,7 @@
     "id": 10,
     "ru": {
       "text": "Он знает меньше",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "He knows less",
@@ -113,7 +113,7 @@
     "id": 11,
     "ru": {
       "text": "Мой компьютер более мощный",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "My computer is more powerful",
@@ -124,7 +124,7 @@
     "id": 12,
     "ru": {
       "text": "Этот курс более эффективен",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This course is more effective",
@@ -135,7 +135,7 @@
     "id": 13,
     "ru": {
       "text": "Мы можем обсуждать это дальше",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "We can discuss it further",
@@ -146,7 +146,7 @@
     "id": 14,
     "ru": {
       "text": "Эти цифры являются более точными",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "These figures are more exact",
@@ -157,7 +157,7 @@
     "id": 15,
     "ru": {
       "text": "Это место намного тише",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This place is much quieter",
@@ -168,7 +168,7 @@
     "id": 16,
     "ru": {
       "text": "Он более трудолюбивый",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "He is more hardworking",
@@ -179,7 +179,7 @@
     "id": 17,
     "ru": {
       "text": "Ты можешь связаться с нами для дальнейшей информации",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "You can contact us for further information",
@@ -190,7 +190,7 @@
     "id": 18,
     "ru": {
       "text": "Эта вещь важнее",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This thing is more important",
@@ -201,7 +201,7 @@
     "id": 19,
     "ru": {
       "text": "Это предложение является более привлекательным",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This offer is more attractive",
@@ -212,7 +212,7 @@
     "id": 20,
     "ru": {
       "text": "Это наименее важная вещь",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It's the least important thing",
@@ -223,7 +223,7 @@
     "id": 21,
     "ru": {
       "text": "Это место намного дальше",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This place is much further",
@@ -234,7 +234,7 @@
     "id": 22,
     "ru": {
       "text": "Этот отель дешевле",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This hotel is cheaper",
@@ -245,7 +245,7 @@
     "id": 23,
     "ru": {
       "text": "Это приложение лучше",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This application is better",
@@ -256,7 +256,7 @@
     "id": 24,
     "ru": {
       "text": "Этот отель лучше",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This hotel is better",
@@ -267,7 +267,7 @@
     "id": 25,
     "ru": {
       "text": "Этот хлеб намного дешевле",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "That bread is much cheaper",
@@ -278,7 +278,7 @@
     "id": 26,
     "ru": {
       "text": "Эти билеты гораздо дешевле",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "These tickets are much cheaper",
@@ -289,7 +289,7 @@
     "id": 27,
     "ru": {
       "text": "Это была лучшая цена",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It was the best price",
@@ -300,7 +300,7 @@
     "id": 28,
     "ru": {
       "text": "Тот фильм менее интересный",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "That movie is less interesting",
@@ -311,7 +311,7 @@
     "id": 29,
     "ru": {
       "text": "Это самая информативная статья",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It is the most informative article",
@@ -322,7 +322,7 @@
     "id": 30,
     "ru": {
       "text": "Эта организация более мощная",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This organization is more powerful",
@@ -333,7 +333,7 @@
     "id": 31,
     "ru": {
       "text": "Эта музыка намного громче",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This music is much louder",
@@ -344,7 +344,7 @@
     "id": 32,
     "ru": {
       "text": "Это самая важная вещь",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It's the most important thing",
@@ -355,7 +355,7 @@
     "id": 33,
     "ru": {
       "text": "Это самая длинная река в мире",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It is the longest river in the world",
@@ -366,7 +366,7 @@
     "id": 34,
     "ru": {
       "text": "Это лучшая цена",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It's the best price",
@@ -377,7 +377,7 @@
     "id": 35,
     "ru": {
       "text": "Это самый высокий небоскреб в мире",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It's the highest skyscraper in the world",
@@ -388,7 +388,7 @@
     "id": 36,
     "ru": {
       "text": "То здание дальше",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "That building is further",
@@ -399,7 +399,7 @@
     "id": 37,
     "ru": {
       "text": "Те цифры менее точные",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "Those figures are less exact",
@@ -410,7 +410,7 @@
     "id": 38,
     "ru": {
       "text": "Кейт моложе, чем Том",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "Kate is younger than Tom",
@@ -421,7 +421,7 @@
     "id": 39,
     "ru": {
       "text": "Эта цена ниже",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "That price is lower",
@@ -432,7 +432,7 @@
     "id": 40,
     "ru": {
       "text": "Эта мебель более модная",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This furniture is more fashionable",
@@ -443,7 +443,7 @@
     "id": 41,
     "ru": {
       "text": "Это действительно лучше",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It is really better",
@@ -454,7 +454,7 @@
     "id": 42,
     "ru": {
       "text": "Этот уровень выше",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This level is higher",
@@ -465,7 +465,7 @@
     "id": 43,
     "ru": {
       "text": "Этот тест намного сложнее",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "That test is much more difficult",
@@ -476,7 +476,7 @@
     "id": 44,
     "ru": {
       "text": "Этот мужчина сильнее",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "That man is stronger",
@@ -487,7 +487,7 @@
     "id": 45,
     "ru": {
       "text": "Этот путь намного короче",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This way is much shorter",
@@ -498,7 +498,7 @@
     "id": 46,
     "ru": {
       "text": "Это самая высокая гора в мире",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It's the highest mountain in the world",
@@ -509,7 +509,7 @@
     "id": 47,
     "ru": {
       "text": "Уроки становятся более и более интересными",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "The lessons are getting more and more interesting",
@@ -520,7 +520,7 @@
     "id": 48,
     "ru": {
       "text": "Я думаю, это самое красивое место в мире",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "I think it's the most beautiful place in the world",
@@ -531,7 +531,7 @@
     "id": 49,
     "ru": {
       "text": "Он знает это лучше, чем я",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "He knows it better than me",
@@ -542,7 +542,7 @@
     "id": 50,
     "ru": {
       "text": "Определенно, эта вещь намного важнее",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "Definitely, this thing is much more important",
@@ -553,7 +553,7 @@
     "id": 51,
     "ru": {
       "text": "Он самый талантливый мальчик в нашей группе",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "He is the most talented boy in our group",
@@ -564,7 +564,7 @@
     "id": 52,
     "ru": {
       "text": "Риски становятся выше и выше",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "The risks are getting higher and higher",
@@ -575,7 +575,7 @@
     "id": 53,
     "ru": {
       "text": "Он мой старший брат",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "He is my elder brother",
@@ -586,7 +586,7 @@
     "id": 54,
     "ru": {
       "text": "Я не думаю, что это сложнее",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "I don't think that it's more difficult",
@@ -597,7 +597,7 @@
     "id": 55,
     "ru": {
       "text": "Качество этого продукта хуже",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "The quality of this product is worse",
@@ -608,7 +608,7 @@
     "id": 56,
     "ru": {
       "text": "Он не думает, что это намного проще",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "He doesn't think that it's much easier",
@@ -619,7 +619,7 @@
     "id": 57,
     "ru": {
       "text": "Она его младшая сестра",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "She is his younger sister",
@@ -630,7 +630,7 @@
     "id": 58,
     "ru": {
       "text": "Это был лучший день в моей жизни",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It was the best day in my life",
@@ -641,7 +641,7 @@
     "id": 59,
     "ru": {
       "text": "Он сделал музыку тише",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "He made the music quieter",
@@ -652,7 +652,7 @@
     "id": 60,
     "ru": {
       "text": "Определенно, это намного лучше",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "Definitely, it's much better",
@@ -663,7 +663,7 @@
     "id": 61,
     "ru": {
       "text": "У него больше времени, чем у меня",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "He has more time than me",
@@ -674,7 +674,7 @@
     "id": 62,
     "ru": {
       "text": "У него меньше времени, чем у нее",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "He has less time than her",
@@ -685,7 +685,7 @@
     "id": 63,
     "ru": {
       "text": "У него много времени",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "He has much time",
@@ -696,7 +696,7 @@
     "id": 64,
     "ru": {
       "text": "Его компьютер мощнее, чем их",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "His computer is more powerful than theirs",
@@ -707,7 +707,7 @@
     "id": 65,
     "ru": {
       "text": "Эти устройства более мощные, чем их",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "These devices are more powerful than theirs",
@@ -718,7 +718,7 @@
     "id": 66,
     "ru": {
       "text": "Этот компьютер менее мощный, чем твой",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This computer is less powerful than yours",
@@ -729,7 +729,7 @@
     "id": 67,
     "ru": {
       "text": "Та вещь дороже, чем эта",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "That thing is more expensive than this one",
@@ -740,7 +740,7 @@
     "id": 68,
     "ru": {
       "text": "Та вещь менее дорогая, чем другая",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "That thing is less expensive than another one",
@@ -751,7 +751,7 @@
     "id": 69,
     "ru": {
       "text": "Эта вещь дороже?",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "Is this thing more expensive?",
@@ -762,7 +762,7 @@
     "id": 70,
     "ru": {
       "text": "То оборудование хуже",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "That equipment is worse",
@@ -773,7 +773,7 @@
     "id": 71,
     "ru": {
       "text": "Это оборудование хуже, чем твое",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This equipment is worse than yours",
@@ -784,7 +784,7 @@
     "id": 72,
     "ru": {
       "text": "То оборудование самое лучшее",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "That equipment is the best",
@@ -795,7 +795,7 @@
     "id": 73,
     "ru": {
       "text": "Их дом меньше нашего",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "Their house is smaller than ours",
@@ -806,7 +806,7 @@
     "id": 74,
     "ru": {
       "text": "Мой дом больше твоего",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "My house is bigger than yours",
@@ -817,7 +817,7 @@
     "id": 75,
     "ru": {
       "text": "Твой дом меньше, чем его?",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "Is your house smaller than his?",
@@ -828,7 +828,7 @@
     "id": 76,
     "ru": {
       "text": "Она знает это лучше нас",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "She knows it better than us",
@@ -839,7 +839,7 @@
     "id": 77,
     "ru": {
       "text": "Я знаю это лучше",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "I know it better",
@@ -850,7 +850,7 @@
     "id": 78,
     "ru": {
       "text": "Она делает это лучше меня",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "She does it better than me",
@@ -861,7 +861,7 @@
     "id": 79,
     "ru": {
       "text": "Где твой старший брат?",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "Where is your elder brother?",
@@ -872,7 +872,7 @@
     "id": 80,
     "ru": {
       "text": "Он старше меня",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "He is older than me",
@@ -883,7 +883,7 @@
     "id": 81,
     "ru": {
       "text": "Его английский очень хорош, но ее английский лучше",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "His English is very good but her English is better",
@@ -894,7 +894,7 @@
     "id": 82,
     "ru": {
       "text": "Мой английский лучше твоего",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "My English is better than yours",
@@ -905,7 +905,7 @@
     "id": 83,
     "ru": {
       "text": "Мой друг на два года моложе меня",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "My friend is two years younger than me",
@@ -916,7 +916,7 @@
     "id": 84,
     "ru": {
       "text": "Мой друг старше меня",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "My friend is older than me",
@@ -927,7 +927,7 @@
     "id": 85,
     "ru": {
       "text": "Он ее младший сын",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "He is her youngest son",
@@ -938,7 +938,7 @@
     "id": 86,
     "ru": {
       "text": "Моя машина очень надежная, но эта машина лучше",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "My car is very reliable but this car is better",
@@ -949,7 +949,7 @@
     "id": 87,
     "ru": {
       "text": "Моя машина лучше, чем эта",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "My car is better than this one",
@@ -960,7 +960,7 @@
     "id": 88,
     "ru": {
       "text": "Она знает английский лучше, чем он",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "She knows English better than him",
@@ -971,7 +971,7 @@
     "id": 89,
     "ru": {
       "text": "Этот автомобиль дешевле, чем тот",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This car is cheaper than that one",
@@ -982,7 +982,7 @@
     "id": 90,
     "ru": {
       "text": "Она на год старше меня",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "She is one year older than me",
@@ -993,7 +993,7 @@
     "id": 91,
     "ru": {
       "text": "Она трудолюбивее его",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "She is more hardworking than him",
@@ -1004,7 +1004,7 @@
     "id": 92,
     "ru": {
       "text": "Я знаю его лучше, чем она",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "I know him better than her",
@@ -1015,7 +1015,7 @@
     "id": 93,
     "ru": {
       "text": "Этот отель дороже, чем тот",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This hotel is more expensive than that one",
@@ -1026,7 +1026,7 @@
     "id": 94,
     "ru": {
       "text": "Этот ресурс менее популярен, чем тот",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This resource is less popular than that one",
@@ -1037,7 +1037,7 @@
     "id": 95,
     "ru": {
       "text": "Моя сестра на три года старше меня",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "My sister is three years older than me",
@@ -1048,7 +1048,7 @@
     "id": 96,
     "ru": {
       "text": "Это оборудование лучше",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "This equipment is better",
@@ -1059,7 +1059,7 @@
     "id": 97,
     "ru": {
       "text": "Он живет дальше ее",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "He lives further than her",
@@ -1070,7 +1070,7 @@
     "id": 98,
     "ru": {
       "text": "В этом месте намного жарче",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It is much hotter in this place",
@@ -1081,7 +1081,7 @@
     "id": 99,
     "ru": {
       "text": "Он выше нее",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "He is taller than her",
@@ -1092,7 +1092,7 @@
     "id": 100,
     "ru": {
       "text": "Здесь теплее",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It is warmer here",
@@ -1103,7 +1103,7 @@
     "id": 101,
     "ru": {
       "text": "Определенно, это лучше",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "Definitely, it is better",
@@ -1114,7 +1114,7 @@
     "id": 102,
     "ru": {
       "text": "Там холоднее",
-      "audio": false
+      "audio": true
     },
     "en": {
       "text": "It is colder there",

@@ -5,6 +5,7 @@ import Button from '@/components/common/Button/Button.tsx';
 import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner.tsx';
 import Select from '@/components/common/Select/Select.tsx';
 import UserButton from '@/components/common/UserButton/UserButton.tsx';
+import About from '@/components/pages/MainPage/About.tsx';
 import ControlsHelp from '@/components/pages/MainPage/ControlsHelp.tsx';
 import Lesson, { LessonControls } from '@/components/pages/MainPage/Lesson/Lesson.tsx';
 import Settings from '@/components/pages/MainPage/Settings.tsx';
@@ -67,6 +68,7 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
   const [settings, setSettings] = useState(loadSettings);
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [helpOpen, setHelpOpen] = useState(false);
+  const [aboutOpen, setAboutOpen] = useState(false);
   const lessonRef = useRef<LessonControls>(null);
 
   const lessonOptions = useMemo(() => {
@@ -146,7 +148,7 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
       }
     },
     settings.gamepadEnabled,
-    !course || lesson === null || settingsOpen || helpOpen,
+    !course || lesson === null || settingsOpen || helpOpen || aboutOpen,
   );
 
   useEffect(() => {
@@ -198,7 +200,11 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
     <div>
       <header className="flex flex-wrap items-center justify-between gap-3 border-b border-gray3 bg-light-gray3 px-3 py-2 sm:gap-4 sm:px-4">
         <div className="flex items-center gap-3">
-          <h1 className="text-gray-500 text-lg font-bold">Тренажёр перевода</h1>
+          <h1 className="text-gray-500 text-lg font-bold">
+            <button type="button" onClick={() => setAboutOpen(true)} aria-haspopup="dialog">
+              Тренажёр перевода
+            </button>
+          </h1>
           <Button
             onClick={() => setHelpOpen(true)}
             intent="outline"
@@ -266,6 +272,7 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
         </div>
       )}
       {helpOpen && <ControlsHelp onClose={() => setHelpOpen(false)} />}
+      {aboutOpen && <About onClose={() => setAboutOpen(false)} />}
       {settingsOpen && (
         <Settings
           settings={settings}

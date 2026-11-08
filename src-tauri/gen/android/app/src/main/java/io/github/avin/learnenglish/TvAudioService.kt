@@ -36,9 +36,11 @@ class TvAudioService : Service() {
     val source: String,
     val phrases: List<Phrase>,
     val position: Int,
+    val resetOnLessonEnd: Boolean,
+    val announceRestart: Boolean,
     val update: (JSONObject) -> Unit,
   )
-  internal data class Start(val lesson: Lesson, val invoke: Invoke)
+  internal data class Start(val lesson: Lesson, val invoke: Invoke, val cue: String?)
 
   companion object {
     internal var pending: Start? = null
@@ -68,6 +70,9 @@ class TvAudioService : Service() {
   private var phrases = emptyList<Phrase>()
   private var position = 0
   private var revealed = false
+  private var target = false
+  private var playHold: Runnable? = null
+  private var playHeld = false
   private var player: MediaPlayer? = null
   private var speech: TextToSpeech? = null
   private var speechStatus: Int? = null
@@ -85,7 +90,7 @@ class TvAudioService : Service() {
     session.setCallback(object : MediaSession.Callback() {
       override fun onSkipToNext() = control("right")
       override fun onSkipToPrevious() = control("left")
-      override fun onPlay() = control("reveal")
+      override fun onPlay() = control("replay")
       override fun onPause() = finishClip()
       override fun onStop() = stopSelf()
 
@@ -95,11 +100,32 @@ class TvAudioService : Service() {
         val action = when (event.keyCode) {
           KeyEvent.KEYCODE_MEDIA_NEXT -> "right"
           KeyEvent.KEYCODE_MEDIA_PREVIOUS -> "left"
-          KeyEvent.KEYCODE_MEDIA_PLAY, KeyEvent.KEYCODE_MEDIA_PAUSE,
-          KeyEvent.KEYCODE_MEDIA_PLAY_PAUSE, KeyEvent.KEYCODE_HEADSETHOOK -> "reveal"
+          KeyEvent.KEYCODE_MEDIA_PLAY, KeyEvent.KEYCODE_MEDIA_PLAY_PAUSE,
+          KeyEvent.KEYCODE_HEADSETHOOK -> "replay"
+          KeyEvent.KEYCODE_MEDIA_PAUSE -> "pause"
           else -> return super.onMediaButtonEvent(intent)
         }
-        if (event.action == KeyEvent.ACTION_DOWN && event.repeatCount == 0) control(action)
+        if (action == "replay") {
+          if (event.action == KeyEvent.ACTION_DOWN && event.repeatCount == 0) {
+            playHold?.let(main::removeCallbacks)
+            playHeld = false
+            playHold = Runnable {
+              playHeld = true
+              control("restart")
+            }.also { main.postAtTime(it, event.downTime + 1501L) }
+          } else if (event.action == KeyEvent.ACTION_UP) {
+            val hold = playHold
+            playHold = null
+            if (hold != null) {
+              main.removeCallbacks(hold)
+              if (!playHeld && !event.isCanceled) {
+                control(if (event.eventTime - event.downTime > 1500L) "restart" else "replay")
+              }
+            }
+          }
+        } else if (event.action == KeyEvent.ACTION_DOWN && event.repeatCount == 0) {
+          if (action == "pause") finishClip() else control(action)
+        }
         return true
       }
     }, main)
@@ -115,9 +141,10 @@ class TvAudioService : Service() {
         phrases = start.lesson.phrases
         position = start.lesson.position
         revealed = false
+        target = false
         session.isActive = true
         startForeground(NOTIFICATION_ID, notification())
-        playCurrent()
+        playCurrent(cue = start.cue)
         start.invoke.resolve()
       } catch (error: Exception) {
         start.invoke.reject("TV audio: ${error.message}", error)
@@ -132,37 +159,96 @@ class TvAudioService : Service() {
   }
 
   internal fun control(command: String) {
-    if (lesson == null) return
-    val action = if (command == "right" && !revealed) "reveal" else command
+    val active = lesson ?: return
+    val oldPosition = position
     var completed = false
-    when (action) {
+    var reset = false
+    var direction: String? = null
+    when (command) {
+      "boundary" -> {
+        finishClip()
+        if (beginPlayback()) playAsset("sounds/lesson-unavailable.wav") { finishClip() }
+        return
+      }
       "right" -> {
-        if (position == phrases.lastIndex) {
+        if (!target) {
+          target = true
+        } else if (position == phrases.lastIndex && active.resetOnLessonEnd) {
           phrases = phrases.shuffled()
           position = 0
+          target = false
           completed = true
-        } else position++
+          reset = true
+        } else {
+          position = (position + 1) % phrases.size
+          target = false
+        }
+        if (!target) direction = "forward"
+        revealed = target
       }
       "left" -> {
+        if (!target) {
+          position = (position + phrases.lastIndex) % phrases.size
+          target = true
+        } else target = false
+        revealed = target
+        if (position != oldPosition) direction = "backward"
+      }
+      "up", "down" -> {
+        val offset = if (command == "up") phrases.lastIndex else 1
+        position = (position + offset) % phrases.size
+        revealed = target
+        if (position != oldPosition) direction = if (command == "up") "backward" else "forward"
+      }
+      "swipeRight" -> {
+        if (!revealed) {
+          target = true
+          revealed = true
+        } else {
+          if (position == phrases.lastIndex) {
+            phrases = phrases.shuffled()
+            position = 0
+            completed = true
+          } else position++
+          target = false
+          revealed = false
+          direction = "forward"
+        }
+      }
+      "swipeLeft" -> {
         if (position == 0) return
         position--
+        target = false
+        revealed = false
+        direction = "backward"
       }
-      "source", "reveal" -> Unit
+      "source" -> target = false
+      "reveal" -> {
+        target = true
+        revealed = true
+      }
+      "replay" -> Unit
+      "restart" -> {
+        phrases = phrases.shuffled()
+        position = 0
+        target = false
+        revealed = false
+        completed = active.announceRestart
+        reset = true
+        direction = "forward"
+      }
       else -> error("Unknown TV audio action")
     }
-    val direction = when (action) {
-      "right" -> "forward"
-      "left" -> "backward"
-      else -> null
-    }
-    if (direction != null) revealed = false
-    val target = action == "reveal"
-    if (target) revealed = true
-    playCurrent(target, completed, direction)
+    playCurrent(target, completed, direction, reset)
   }
 
-  @Suppress("DEPRECATION")
-  private fun playCurrent(target: Boolean = false, completed: Boolean = false, direction: String? = null) {
+  private fun playCurrent(
+    target: Boolean = false,
+    completed: Boolean = false,
+    direction: String? = null,
+    reset: Boolean = false,
+    cue: String? = null,
+  ) {
     val active = lesson ?: return
     val phrase = phrases[position]
     val language = if (!target) active.source else if (active.source == "ru") "en" else "ru"
@@ -171,14 +257,20 @@ class TvAudioService : Service() {
     session.setMetadata(MediaMetadata.Builder().putString(MediaMetadata.METADATA_KEY_TITLE, clip.text).build())
     active.update(JSONObject().put("id", active.id).put("idx", phrase.idx)
       .put("column", language).put("revealed", revealed).put("order", JSONArray(phrases.map { it.idx }))
-      .put("direction", direction))
+      .put("direction", direction).put("reset", reset))
+    if (!beginPlayback()) return
+    val intro = cue ?: if (completed) "sounds/lesson-complete.wav" else null
+    if (intro != null) playAsset(intro) { playClip(clip) }
+    else playClip(clip)
+  }
+
+  @Suppress("DEPRECATION")
+  private fun beginPlayback(): Boolean {
     hasFocus = (if (Build.VERSION.SDK_INT >= 26) audioManager.requestAudioFocus(focusRequest)
       else audioManager.requestAudioFocus(focusListener, AudioManager.STREAM_MUSIC, AudioManager.AUDIOFOCUS_GAIN)) ==
       AudioManager.AUDIOFOCUS_REQUEST_GRANTED
-    if (!hasFocus) return
-    setPlaybackState(PlaybackState.STATE_PLAYING)
-    if (completed) playAsset("sounds/lesson-complete.wav") { playClip(clip) }
-    else playClip(clip)
+    if (hasFocus) setPlaybackState(PlaybackState.STATE_PLAYING)
+    return hasFocus
   }
 
   private fun playClip(clip: Clip) {
@@ -290,6 +382,7 @@ class TvAudioService : Service() {
 
   override fun onDestroy() {
     current = null
+    playHold?.let(main::removeCallbacks)
     finishClip()
     speech?.shutdown()
     speech = null

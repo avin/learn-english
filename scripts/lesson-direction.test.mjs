@@ -172,8 +172,13 @@ const reveals = () => renderer.root.findAllByProps({ 'aria-label': 'Открыт
 const sentences = () => renderer.root.findAll((item) => item.props['data-sentence']);
 const clickCell = (idx, detail = 1) => sentences()[idx].parent.props.onClick({ detail });
 const dictionary = () => renderer.root.findAllByProps({ 'aria-controls': 'lesson-dictionary' });
-const pressTvKey = (key) =>
-  renderer.root.findByType('dialog').props.onKeyDown({ key, nativeEvent: {}, preventDefault() {} });
+const pressTvKey = (key, options = {}) =>
+  renderer.root.findByType('dialog').props.onKeyDown({
+    key,
+    nativeEvent: {},
+    preventDefault() {},
+    ...options,
+  });
 
 test('mobile exit requires a continuous hold', (t) => {
   const tick = mockClock(t);
@@ -333,6 +338,7 @@ test('TV mode receives gamepad input and focuses the phrase for keyboard input',
     '@/components/common/FullPageSpinner/FullPageSpinner.tsx': () => null,
     '@/components/common/Select/Select.tsx': () => null,
     '@/components/common/UserButton/UserButton.tsx': () => null,
+    '@/components/pages/MainPage/About.tsx': () => null,
     '@/components/pages/MainPage/ControlsHelp.tsx': () => null,
     '@/components/pages/MainPage/Lesson/Lesson.tsx': { default: Lesson, __esModule: true },
     '@/components/pages/MainPage/Settings.tsx': () => null,
@@ -345,12 +351,17 @@ test('TV mode receives gamepad input and focuses the phrase for keyboard input',
   const progress = {
     loadLastCourse: async () => 'titan',
     loadLastLesson: async () => '1',
+    saveLastLesson: async () => {},
   };
+  const saveLesson = t.mock.method(progress, 'saveLastLesson');
+  globalThis.fetch = withDictionary;
   let frame;
   let focused;
+  let phraseNode;
   let dialogProps;
   let otherDialogOpen = false;
-  const dialog = {
+  let dialog;
+  const makeDialog = () => ({
     open: false,
     showModal() {
       this.open = true;
@@ -359,7 +370,7 @@ test('TV mode receives gamepad input and focuses the phrase for keyboard input',
       this.open = false;
       dialogProps.onClose();
     },
-  };
+  });
   const globals = {
     window: new EventTarget(),
     HTMLElement: class {},
@@ -370,7 +381,6 @@ test('TV mode receives gamepad input and focuses the phrase for keyboard input',
   Object.assign(document, { visibilityState: 'visible', hasFocus: () => true });
   t.mock.method(document, 'querySelector', (selector) => {
     const gamepadDialog = dialog.open && 'data-gamepad' in dialogProps;
-    if (selector === 'dialog[open][data-gamepad]') return gamepadDialog ? dialog : null;
     if (otherDialogOpen) return {};
     if (dialog.open && (!selector.includes(':not') || !gamepadDialog)) return dialog;
     return null;
@@ -388,10 +398,10 @@ test('TV mode receives gamepad input and focuses the phrase for keyboard input',
       createNodeMock(element) {
         if (element.type === 'dialog') {
           dialogProps = element.props;
-          return dialog;
+          return (dialog = makeDialog());
         }
         if (element.props['aria-describedby'] === 'mobile-lesson-help') {
-          return { focus: () => (focused = true) };
+          return (phraseNode = { focus: () => (focused = true) });
         }
         return null;
       },
@@ -413,16 +423,26 @@ test('TV mode receives gamepad input and focuses the phrase for keyboard input',
   assert.equal(hidden(), false);
   assert.match(played.at(-1).url, /tasks_001_en\.m4a$/);
   await poll(15, 500);
-  assert.equal(source(), 'Привет', 'holding Right must wait for a new press');
-  await poll(undefined, 510);
-  await poll(15, 520);
-  assert.equal(source(), 'Пока', 'second gamepad Right must advance the TV phrase');
+  assert.equal(source(), 'Пока', 'holding Right repeats navigation in TV mode');
+  await act(async () => pressTvKey('ArrowUp'));
+  assert.match(played.at(-1).url, /tasks_001_ru\.m4a$/);
+  await act(async () => pressTvKey('ArrowDown'));
+  assert.match(played.at(-1).url, /tasks_002_ru\.m4a$/);
+  await act(async () => pressTvKey('Enter', { target: phraseNode }));
+  assert.match(played.at(-1).url, /tasks_002_ru\.m4a$/);
   await poll(0);
-  assert.equal(hidden(), false, 'gamepad A must reveal the translation');
+  assert.equal(hidden(), true, 'gamepad A must replay the source without revealing translation');
+  assert.match(played.at(-1).url, /tasks_002_ru\.m4a$/);
+  await act(async () => pressTvKey('ArrowRight'));
   assert.equal(focused, true, 'the phrase must receive focus when TV mode opens');
   await act(async () => pressTvKey('ArrowLeft'));
-  assert.equal(source(), 'Привет');
+  assert.equal(source(), 'Пока');
   assert.equal(hidden(), true);
+  assert.match(played.at(-1).url, /tasks_002_ru\.m4a$/);
+  await act(async () => pressTvKey('ArrowLeft'));
+  assert.equal(source(), 'Привет');
+  assert.equal(hidden(), false);
+  assert.match(played.at(-1).url, /tasks_001_en\.m4a$/);
   await act(async () => surface().props.onClick({ detail: 0 }));
   assert.equal(hidden(), false);
 
@@ -435,8 +455,52 @@ test('TV mode receives gamepad input and focuses the phrase for keyboard input',
   await poll();
   await poll(15);
   assert.equal(source(), 'Пока');
+  await poll(8);
+  assert.match(played.at(-1).url, /words_001_ru\.m4a$/);
+  await act(async () => pressTvKey('v', { code: 'KeyV' }));
+  assert.match(played.at(-1).url, /tasks_001_ru\.m4a$/);
+  let finishLoading;
+  globalThis.fetch = (url) =>
+    url.endsWith('/titan/2/tasks.json')
+      ? new Promise((resolve) => {
+          finishLoading = () => resolve(taskResponse());
+        })
+      : withDictionary(url);
+  await poll(5);
+  assert.deepEqual(saveLesson.mock.calls.at(-1).arguments, ['titan', '2']);
+  assert.equal(renderer.root.findAllByProps({ 'data-tv-loading': '' }).length, 1);
+  await act(async () => finishLoading());
+  assert.equal(dialog.open, true);
+  assert.equal(renderer.root.findAllByProps({ 'data-tv-loading': '' }).length, 0);
+  assert.match(played.at(-1).url, /lesson-next\.wav$/);
+  await act(async () => played.at(-1).onended());
+  assert.match(played.at(-1).url, /titan\/2\/audio\/tasks_001_ru\.m4a$/);
+  await act(async () => pressTvKey('ArrowLeft', { shiftKey: true }));
+  assert.deepEqual(saveLesson.mock.calls.at(-1).arguments, ['titan', '1']);
+  assert.equal(dialog.open, true);
+  assert.match(played.at(-1).url, /lesson-previous\.wav$/);
+  await act(async () => played.at(-1).onended());
+  assert.match(played.at(-1).url, /titan\/1\/audio\/tasks_001_ru\.m4a$/);
+  const saved = saveLesson.mock.calls.length;
+  await poll(4);
+  assert.equal(saveLesson.mock.calls.length, saved);
+  assert.match(played.at(-1).url, /lesson-unavailable\.wav$/);
   await poll(9);
-  assert.equal(dialog.open, false);
+  assert.equal(dialog.open, true);
+  assert.match(played.at(-1).url, /lesson-complete\.wav$/);
+  await act(async () => pressTvKey('Escape'));
+  assert.equal(dialog.open, true);
+  assert.match(played.at(-1).url, /lesson-complete\.wav$/);
+
+  dialog.open = false;
+  await act(async () => renderer.root.findByType('dialog').props.onClose());
+  const selectLesson = (id) => renderer.root.findByProps({ label: 'Урок' }).props.onChange(id);
+  await act(async () => selectLesson('3'));
+  assert.match(played.at(-1).url, /lesson-next\.wav$/);
+  await act(async () => selectLesson('1'));
+  assert.match(played.at(-1).url, /lesson-previous\.wav$/);
+  await poll(4);
+  assert.match(played.at(-1).url, /lesson-unavailable\.wav$/);
 });
 
 test('TV mode opens if fullscreen is rejected and leaves existing fullscreen alone', async (t) => {
@@ -568,16 +632,14 @@ test('mobile gestures share the lesson position and progress while masking each 
   incomingLeft = 143;
   await act(async () => pressTvKey('ArrowLeft'));
   assert.equal(source(), 'Hello');
+  assert.equal(hidden(), false);
+  assert.match(played.at(-1).url, /tasks_001_ru\.m4a$/);
   assert.equal(slideStart(), '123px');
   assert.equal(
     surface().findAll((node) => node.props.className?.includes('mobile-phrase-reverse')).length,
     1,
   );
   incomingLeft = 20;
-  await act(async () => pressTvKey('ArrowRight'));
-  assert.equal(source(), 'Hello', 'first keyboard Right must stay on the current phrase');
-  assert.equal(hidden(), false);
-  assert.match(played.at(-1).url, /tasks_001_ru\.m4a$/);
   await act(async () => pressTvKey('ArrowRight'));
   assert.equal(source(), 'Bye');
   assert.equal(slideStart(), '0px');
@@ -646,7 +708,7 @@ test('mobile mode uses browser speech when a phrase has no recording', async (t)
           json: async () => [{ id: 1, ru: { text: 'Привет' }, en: { text: 'Hello' } }],
         };
 
-  await renderLesson();
+  await renderLesson('ru', true);
   await act(async () => button('TV-режим').props.onClick());
   await act(async () => pressTvKey('ArrowRight'));
   await act(async () => pressTvKey('ArrowRight'));

@@ -38,7 +38,10 @@ class TvAudioPlugin(private val activity: Activity) : Plugin(activity) {
           val selected = args.getInt("selected")
           val position = phrases.indexOfFirst { it.idx == selected }
           require(position >= 0)
-          val lesson = TvAudioService.Lesson(id, language, phrases, position) { state ->
+          val lesson = TvAudioService.Lesson(
+            id, language, phrases, position,
+            args.getBoolean("resetOnLessonEnd"), args.getBoolean("announceRestart"),
+          ) { state ->
             webView?.evaluateJavascript(
               "window.dispatchEvent(new CustomEvent('android-tv-audio', {detail: $state}))",
               null,
@@ -46,7 +49,10 @@ class TvAudioPlugin(private val activity: Activity) : Plugin(activity) {
           }
           activity.startService(service)
           TvAudioService.pending?.invoke?.reject("TV audio session was replaced")
-          TvAudioService.pending = TvAudioService.Start(lesson, invoke)
+          val cue = args.optString("cue").takeIf {
+            it == "sounds/lesson-next.wav" || it == "sounds/lesson-previous.wav"
+          }
+          TvAudioService.pending = TvAudioService.Start(lesson, invoke, cue)
         }
         "stop" -> {
           if (TvAudioService.pending == null && TvAudioService.current?.lessonId == id) {

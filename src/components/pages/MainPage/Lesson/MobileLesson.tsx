@@ -4,6 +4,7 @@ import React, {
   RefObject,
   useEffect,
   useImperativeHandle,
+  useLayoutEffect,
   useRef,
   useState,
 } from 'react';
@@ -21,12 +22,19 @@ export interface MobileLessonControls {
 }
 
 interface Props {
+  lessonTitle: string;
   dialogRef: RefObject<HTMLDialogElement>;
   controlsRef: RefObject<MobileLessonControls>;
   phrase: Translation | null;
   sourceLanguage: SentenceSelection['column'];
   revealed: boolean;
   onArrow: (key: ArrowKey) => void;
+  onSwipe: (key: ArrowKey) => void;
+  onReplay: () => void;
+  onRestart: () => void;
+  onToggleDictionary: () => void;
+  onAdjacentLesson?: (direction: number) => void;
+  onReady?: () => void;
   onReveal: () => void;
   onClose: () => void;
   onRetryAudio?: () => void;
@@ -36,12 +44,19 @@ const getScreenAngle = () =>
   globalThis.screen?.orientation?.angle ?? globalThis.window?.orientation;
 
 const MobileLesson = ({
+  lessonTitle,
   dialogRef,
   controlsRef,
   phrase,
   sourceLanguage,
   revealed,
   onArrow,
+  onSwipe,
+  onReplay,
+  onRestart,
+  onToggleDictionary,
+  onAdjacentLesson,
+  onReady,
   onReveal,
   onClose,
   onRetryAudio,
@@ -137,10 +152,17 @@ const MobileLesson = ({
           onArrow(action);
           break;
         case 'replay':
-          onReveal();
+          onReplay();
           break;
         case 'restart':
-          dialog.close();
+          onRestart();
+          break;
+        case 'toggleDictionary':
+          onToggleDictionary();
+          break;
+        case 'previousLesson':
+        case 'nextLesson':
+          onAdjacentLesson?.(action === 'nextLesson' ? 1 : -1);
           break;
       }
       return true;
@@ -157,8 +179,8 @@ const MobileLesson = ({
     const dy = event.clientY - gesture.y;
     const horizontal = Math.abs(dx) > Math.abs(dy);
     if (Math.abs(horizontal ? dx : dy) < 24) onReveal();
-    else if (horizontal) onArrow(dx < 0 ? 'ArrowRight' : 'ArrowLeft');
-    else onArrow(dy < 0 ? 'ArrowDown' : 'ArrowUp');
+    else if (horizontal) onSwipe(dx < 0 ? 'ArrowRight' : 'ArrowLeft');
+    else onSwipe(dy < 0 ? 'ArrowDown' : 'ArrowUp');
   };
 
   const cancelExit = () => {
@@ -183,6 +205,10 @@ const MobileLesson = ({
     }, 300);
   };
 
+  useLayoutEffect(() => {
+    onReady?.();
+  }, [onReady]);
+
   return (
     <dialog
       ref={dialogRef}
@@ -195,13 +221,33 @@ const MobileLesson = ({
           event.altKey ||
           event.ctrlKey ||
           event.metaKey ||
-          event.shiftKey ||
-          event.nativeEvent.isComposing ||
-          (key !== 'ArrowLeft' && key !== 'ArrowRight' && key !== 'ArrowUp' && key !== 'ArrowDown')
+          event.nativeEvent?.isComposing
         )
           return;
+        if (event.shiftKey) {
+          if (key === 'ArrowLeft' || key === 'ArrowRight') {
+            event.preventDefault();
+            if (!event.repeat) onAdjacentLesson?.(key === 'ArrowRight' ? 1 : -1);
+          }
+          return;
+        }
+        const action =
+          event.code === 'KeyV'
+            ? onToggleDictionary
+            : key === 'Escape'
+              ? onRestart
+              : (key === ' ' || key === 'Enter') && event.target === phraseButton.current
+                ? onReplay
+                : null;
+        if (action) {
+          event.preventDefault();
+          if (!event.repeat) action();
+          return;
+        }
+        if (key !== 'ArrowLeft' && key !== 'ArrowRight' && key !== 'ArrowUp' && key !== 'ArrowDown')
+          return;
         event.preventDefault();
-        if (!event.repeat) onArrow(key);
+        onArrow(key);
       }}
       onClose={() => {
         cancelExit();
@@ -263,6 +309,9 @@ const MobileLesson = ({
           </Button>
         )}
       </div>
+      <p className="pointer-events-none absolute right-5 top-4 m-0 text-sm text-gray3">
+        {lessonTitle}
+      </p>
       {phrase && (
         <button
           ref={phraseButton}
@@ -311,8 +360,8 @@ const MobileLesson = ({
       )}
       <p id="mobile-lesson-help" className="sr-only">
         Стрелка вправо сначала показывает перевод, затем переключает на следующую фразу. Стрелка
-        влево возвращает к предыдущей фразе. Стрелка вверх повторяет исходную фразу, стрелка вниз
-        показывает и озвучивает перевод.
+        влево идёт в обратном порядке, включая переводы. Стрелки вверх и вниз переходят между
+        строками на том же языке.
       </p>
     </dialog>
   );

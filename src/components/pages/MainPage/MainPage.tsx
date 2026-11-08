@@ -7,7 +7,10 @@ import Select from '@/components/common/Select/Select.tsx';
 import UserButton from '@/components/common/UserButton/UserButton.tsx';
 import About from '@/components/pages/MainPage/About.tsx';
 import ControlsHelp from '@/components/pages/MainPage/ControlsHelp.tsx';
-import Lesson, { LessonControls } from '@/components/pages/MainPage/Lesson/Lesson.tsx';
+import Lesson, {
+  LessonChangeCue,
+  LessonControls,
+} from '@/components/pages/MainPage/Lesson/Lesson.tsx';
 import Settings from '@/components/pages/MainPage/Settings.tsx';
 import { Course } from '@/types';
 import { useProgressStorage } from '@/utils/ProgressContext.ts';
@@ -70,6 +73,18 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
   const [helpOpen, setHelpOpen] = useState(false);
   const [aboutOpen, setAboutOpen] = useState(false);
   const lessonRef = useRef<LessonControls>(null);
+  const [resumeTv, setResumeTv] = useState<{ fullscreen: boolean; cue: LessonChangeCue } | null>(
+    null,
+  );
+  const lessonCue = useRef<HTMLAudioElement | null>(null);
+  useEffect(() => () => lessonCue.current?.pause(), []);
+
+  const playLessonCue = useCallback((cue: LessonChangeCue) => {
+    lessonCue.current?.pause();
+    const audio = new Audio(`${import.meta.env.BASE_URL}${cue}`);
+    lessonCue.current = audio;
+    void audio.play().catch(console.error);
+  }, []);
 
   const lessonOptions = useMemo(() => {
     if (course === 'titan') {
@@ -114,12 +129,19 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
 
   const handleChangeLesson = useCallback(
     (val: string) => {
-      if (!course) return;
+      if (!course || val === lesson) return;
+      const currentIndex = lessonOptions.findIndex((option) => option.value === lesson);
+      const nextIndex = lessonOptions.findIndex((option) => option.value === val);
+      const cue =
+        nextIndex > currentIndex ? 'sounds/lesson-next.wav' : 'sounds/lesson-previous.wav';
+      const tv = lessonRef.current?.getTvResume();
+      if (tv) setResumeTv({ ...tv, cue });
+      else playLessonCue(cue);
       setLesson(val);
 
       void saveLastLesson(course, val);
     },
-    [course, saveLastLesson],
+    [course, lesson, lessonOptions, playLessonCue, saveLastLesson],
   );
 
   const changeAdjacentLesson = useCallback(
@@ -128,8 +150,10 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
       if (index === -1) return;
       const next = lessonOptions[index + direction];
       if (next) handleChangeLesson(next.value);
+      else if (!lessonRef.current?.playTvBoundaryCue())
+        playLessonCue('sounds/lesson-unavailable.wav');
     },
-    [handleChangeLesson, lesson, lessonOptions],
+    [handleChangeLesson, lesson, lessonOptions, playLessonCue],
   );
 
   useGamepad(
@@ -148,7 +172,7 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
       }
     },
     settings.gamepadEnabled,
-    !course || lesson === null || settingsOpen || helpOpen || aboutOpen,
+    !course || lesson === null || settingsOpen || helpOpen || aboutOpen || !!resumeTv,
   );
 
   useEffect(() => {
@@ -161,6 +185,7 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
         event.metaKey ||
         event.isComposing ||
         event.defaultPrevented ||
+        resumeTv ||
         settingsOpen ||
         helpOpen ||
         document.querySelector('dialog[open]') ||
@@ -185,7 +210,7 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
     };
     document.addEventListener('keydown', handleKeyDown);
     return () => document.removeEventListener('keydown', handleKeyDown);
-  }, [changeAdjacentLesson, course, helpOpen, lesson, lessonOptions, settingsOpen]);
+  }, [changeAdjacentLesson, course, helpOpen, lesson, lessonOptions, resumeTv, settingsOpen]);
 
   const handleSettingsChange = (newSettings: AppSettings) => {
     setSettings(newSettings);
@@ -198,6 +223,9 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
 
   return (
     <div>
+      {resumeTv && (
+        <div data-tv-loading="" aria-hidden="true" className="fixed inset-0 z-50 bg-white" />
+      )}
       <header className="flex flex-wrap items-center justify-between gap-3 border-b border-gray3 bg-light-gray3 px-3 py-2 sm:gap-4 sm:px-4">
         <div className="flex items-center gap-3">
           <h1 className="text-gray-500 text-lg font-bold">
@@ -287,6 +315,10 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
             key={`${course}_${lesson}`}
             course={course}
             lesson={lesson}
+            lessonTitle={lessonOptions.find((option) => option.value === lesson)?.label ?? lesson}
+            resumeTv={resumeTv}
+            onTvResumed={() => setResumeTv(null)}
+            onAdjacentLesson={changeAdjacentLesson}
             settings={settings}
             onSwapDirection={() =>
               handleSettingsChange({

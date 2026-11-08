@@ -107,13 +107,17 @@ const MobileLesson = ({
     <>
       <span lang={sourceLanguage}>{item[sourceLanguage]}</span>
       <span className="relative block text-blue1">
-        <span lang={targetLanguage} aria-hidden={!isRevealed}>
+        <span
+          lang={targetLanguage}
+          aria-hidden={!isRevealed}
+          className={cn(!isRevealed && 'opacity-0')}
+        >
           {item[targetLanguage]}
         </span>
         <span
           aria-hidden="true"
           className={cn(
-            'absolute inset-0 rounded-sm bg-gray5',
+            'absolute -inset-0.5 rounded-sm bg-gray5',
             isRevealed && 'opacity-0 transition-opacity',
           )}
         />

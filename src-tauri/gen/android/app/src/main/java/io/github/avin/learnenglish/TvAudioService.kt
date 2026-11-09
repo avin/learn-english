@@ -47,6 +47,7 @@ class TvAudioService : Service() {
     internal var current: TvAudioService? = null
     private const val CHANNEL = "tv-audio"
     private const val NOTIFICATION_ID = 1
+    private const val MEDIA_HOLD_MS = 1501L
   }
 
   private val main = Handler(Looper.getMainLooper())
@@ -71,8 +72,7 @@ class TvAudioService : Service() {
   private var position = 0
   private var revealed = false
   private var target = false
-  private var playHold: Runnable? = null
-  private var playHeld = false
+  private val mediaHolds = mutableMapOf<Int, Runnable>()
   private var player: MediaPlayer? = null
   private var speech: TextToSpeech? = null
   private var speechStatus: Int? = null
@@ -105,26 +105,26 @@ class TvAudioService : Service() {
           KeyEvent.KEYCODE_MEDIA_PAUSE -> "pause"
           else -> return super.onMediaButtonEvent(intent)
         }
-        if (action == "replay") {
-          if (event.action == KeyEvent.ACTION_DOWN && event.repeatCount == 0) {
-            playHold?.let(main::removeCallbacks)
-            playHeld = false
-            playHold = Runnable {
-              playHeld = true
-              control("restart")
-            }.also { main.postAtTime(it, event.downTime + 1501L) }
-          } else if (event.action == KeyEvent.ACTION_UP) {
-            val hold = playHold
-            playHold = null
-            if (hold != null) {
-              main.removeCallbacks(hold)
-              if (!playHeld && !event.isCanceled) {
-                control(if (event.eventTime - event.downTime > 1500L) "restart" else "replay")
-              }
-            }
-          }
+        if (event.action == KeyEvent.ACTION_UP) {
+          mediaHolds.remove(event.keyCode)?.let(main::removeCallbacks)
         } else if (event.action == KeyEvent.ACTION_DOWN && event.repeatCount == 0) {
-          if (action == "pause") finishClip() else control(action)
+          if (action == "pause") {
+            finishClip()
+            return true
+          }
+          val holdAction = when (action) {
+            "right" -> "nextLesson"
+            "left" -> "previousLesson"
+            else -> "restart"
+          }
+          mediaHolds.remove(event.keyCode)?.let(main::removeCallbacks)
+          val hold = Runnable {
+            mediaHolds.remove(event.keyCode)
+            control(holdAction)
+          }
+          mediaHolds[event.keyCode] = hold
+          main.postAtTime(hold, event.downTime + MEDIA_HOLD_MS)
+          control(action)
         }
         return true
       }
@@ -132,11 +132,17 @@ class TvAudioService : Service() {
     current = this
   }
 
+  private fun clearMediaHolds() {
+    mediaHolds.values.forEach(main::removeCallbacks)
+    mediaHolds.clear()
+  }
+
   override fun onStartCommand(intent: Intent?, flags: Int, startId: Int): Int {
     val start = pending
     pending = null
     if (start != null) {
       try {
+        clearMediaHolds()
         lesson = start.lesson
         phrases = start.lesson.phrases
         position = start.lesson.position
@@ -165,6 +171,11 @@ class TvAudioService : Service() {
     var reset = false
     var direction: String? = null
     when (command) {
+      "nextLesson", "previousLesson" -> {
+        active.update(JSONObject().put("id", active.id)
+          .put("adjacentLesson", if (command == "nextLesson") 1 else -1))
+        return
+      }
       "boundary" -> {
         finishClip()
         if (beginPlayback()) playAsset("sounds/lesson-unavailable.wav") { finishClip() }
@@ -382,7 +393,7 @@ class TvAudioService : Service() {
 
   override fun onDestroy() {
     current = null
-    playHold?.let(main::removeCallbacks)
+    clearMediaHolds()
     finishClip()
     speech?.shutdown()
     speech = null

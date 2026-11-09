@@ -53,6 +53,7 @@ export interface LessonControls {
 type Section = 'sentences' | 'dictionary';
 type TvAudioState = { id: number } & (
   | { closed: true }
+  | { adjacentLesson: -1 | 1 }
   | {
       idx: number;
       column: SentenceSelection['column'];
@@ -87,7 +88,7 @@ const loadTranslations = async (lessonPath: string, file: 'tasks' | 'words') => 
 };
 
 const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
-  const { course, lesson, settings, onSwapDirection } = props;
+  const { course, lesson, settings, onAdjacentLesson, onSwapDirection } = props;
   const sourceLanguage = settings.sourceLanguage;
   const targetLanguage = sourceLanguage === 'ru' ? 'en' : 'ru';
   const {
@@ -263,6 +264,10 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
         tvAudio.current = null;
         return;
       }
+      if ('adjacentLesson' in state) {
+        onAdjacentLesson?.(state.adjacentLesson);
+        return;
+      }
       if (state.direction) mobileControlsRef.current?.prepareTransition(state.direction);
       setSelected({ idx: state.idx, column: state.column });
       const setActiveOrder = inDictionary ? setWordOrder : setOrder;
@@ -279,7 +284,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     };
     window.addEventListener('android-tv-audio', update);
     return () => window.removeEventListener('android-tv-audio', update);
-  }, [inDictionary, revealTranslation, section]);
+  }, [inDictionary, onAdjacentLesson, revealTranslation, section]);
 
   const selectSentence = useCallback(
     (
@@ -1178,7 +1183,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
             setDictionaryExpanded(!inDictionary);
             startMobileSection(inDictionary ? 'sentences' : 'dictionary', next[0]);
           }}
-          onAdjacentLesson={props.onAdjacentLesson}
+          onAdjacentLesson={onAdjacentLesson}
           onReady={props.resumeTv ? openMobileMode : undefined}
           onReveal={revealMobileTranslation}
           onClose={() => {

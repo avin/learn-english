@@ -3,31 +3,32 @@ package io.github.avin.learnenglish
 import android.app.Activity
 import android.content.Intent
 import android.net.Uri
-import android.webkit.WebView
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContextCompat
 import app.tauri.annotation.Command
 import app.tauri.annotation.TauriPlugin
 import app.tauri.plugin.Invoke
 import app.tauri.plugin.Plugin
+import app.tauri.plugin.PluginManager
 import org.json.JSONObject
 
 @TauriPlugin
-class TvAudioPlugin(private val activity: Activity) : Plugin(activity) {
-  private var webView: WebView? = null
-
-  override fun load(webView: WebView) {
-    this.webView = webView
-  }
+class TvAudioPlugin(activity: Activity) : Plugin(activity) {
+  private val mainExecutor = ContextCompat.getMainExecutor(activity.applicationContext)
 
   @Command
-  fun request(invoke: Invoke) = activity.runOnUiThread {
+  fun request(invoke: Invoke) = mainExecutor.execute {
     try {
+      val activity = checkNotNull(PluginManager.activity as? MainActivity) {
+        "TV audio activity is unavailable"
+      }
       val args = invoke.getArgs()
       val action = args.getString("action")
       val id = args.getLong("id")
       val service = Intent(activity, TvAudioService::class.java)
       when (action) {
         "start" -> {
+          val webView = activity.tvWebView
           val language = args.getString("sourceLanguage")
           require(language == "ru" || language == "en")
           val rows = args.getJSONArray("rows")
@@ -42,10 +43,12 @@ class TvAudioPlugin(private val activity: Activity) : Plugin(activity) {
             id, language, phrases, position,
             args.getBoolean("resetOnLessonEnd"), args.getBoolean("announceRestart"),
           ) { state ->
-            webView?.evaluateJavascript(
-              "window.dispatchEvent(new CustomEvent('android-tv-audio', {detail: $state}))",
-              null,
-            )
+            if (PluginManager.activity === activity) {
+              webView.evaluateJavascript(
+                "window.dispatchEvent(new CustomEvent('android-tv-audio', {detail: $state}))",
+                null,
+              )
+            }
           }
           activity.startService(service)
           TvAudioService.pending?.invoke?.reject("TV audio session was replaced")
@@ -74,7 +77,6 @@ class TvAudioPlugin(private val activity: Activity) : Plugin(activity) {
   }
 
   override fun onDestroy(activity: AppCompatActivity) {
-    webView = null
     TvAudioService.pending?.invoke?.reject("TV audio session has ended")
     TvAudioService.pending = null
     activity.stopService(Intent(activity, TvAudioService::class.java))

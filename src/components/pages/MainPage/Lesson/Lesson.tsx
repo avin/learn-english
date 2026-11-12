@@ -36,6 +36,8 @@ interface Props {
   resumeTv?: { fullscreen: boolean; cue: LessonChangeCue } | null;
   onTvResumed?: () => void;
   onAdjacentLesson?: (direction: number) => void;
+  lessonIds: string[];
+  onServiceLesson: (lessonId: string) => void;
   settings: AppSettings;
   onSwapDirection: () => void;
 }
@@ -45,24 +47,31 @@ export interface LessonControls {
   replay: () => void;
   restart: () => void;
   toggleDictionary: () => void;
+  stepLesson: (direction: number) => boolean;
   handleTvGamepad: (action: GamepadAction) => boolean;
   getTvResume: () => { fullscreen: boolean } | null;
   playTvBoundaryCue: () => boolean;
 }
 
 type Section = 'sentences' | 'dictionary';
-type TvAudioState = { id: number } & (
-  | { closed: true }
-  | { adjacentLesson: -1 | 1 }
-  | {
-      idx: number;
-      column: SentenceSelection['column'];
-      revealed: boolean;
-      order: number[];
-      direction?: SlideDirection;
-      reset?: boolean;
-    }
-);
+type TvPlaybackState = {
+  id: number;
+  lesson?: string;
+  section?: Section;
+  idx: number;
+  column: SentenceSelection['column'];
+  revealed: boolean;
+  order: number[];
+  direction?: SlideDirection;
+  reset?: boolean;
+};
+type TvAudioState =
+  | ({ id: number; lesson?: string; section?: Section } & { closed: true })
+  | ({ id: number; lesson?: string; section?: Section } & { adjacentLesson: -1 | 1 })
+  | ({ id: number; lesson?: string; section?: Section } & { boundary: true })
+  | TvPlaybackState;
+
+let androidHandoff: { lesson: string; state: TvPlaybackState } | null = null;
 
 let nextTvAudioId = 0;
 const androidTvAudio = isTauri() && /Android/.test(navigator.userAgent);
@@ -88,7 +97,15 @@ const loadTranslations = async (lessonPath: string, file: 'tasks' | 'words') => 
 };
 
 const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
-  const { course, lesson, settings, onAdjacentLesson, onSwapDirection } = props;
+  const {
+    course,
+    lesson,
+    settings,
+    onAdjacentLesson,
+    onServiceLesson,
+    onSwapDirection,
+    lessonIds,
+  } = props;
   const sourceLanguage = settings.sourceLanguage;
   const targetLanguage = sourceLanguage === 'ru' ? 'en' : 'ru';
   const {
@@ -161,7 +178,12 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     }
   }, []);
 
-  useEffect(() => stopTvAudio, [course, lesson, sourceLanguage, stopTvAudio]);
+  useEffect(() => {
+    return () => {
+      if (androidHandoff) return;
+      stopTvAudio();
+    };
+  }, [course, lesson, sourceLanguage, stopTvAudio]);
 
   useEffect(() => {
     const preload = () => {
@@ -268,23 +290,35 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
         onAdjacentLesson?.(state.adjacentLesson);
         return;
       }
+      if ('boundary' in state || !('idx' in state)) return;
+      if (state.lesson && state.lesson !== lesson && 'idx' in state) {
+        androidHandoff = { lesson: state.lesson, state };
+        onServiceLesson(state.lesson);
+        return;
+      }
+      const rowSection = state.section ?? (inDictionary ? 'dictionary' : 'sentences');
+      if (state.section) {
+        setSection(state.section);
+        setDictionaryExpanded(state.section === 'dictionary');
+      }
       if (state.direction) mobileControlsRef.current?.prepareTransition(state.direction);
+      setCursorVisible(true);
       setSelected({ idx: state.idx, column: state.column });
-      const setActiveOrder = inDictionary ? setWordOrder : setOrder;
+      const setActiveOrder = rowSection === 'dictionary' ? setWordOrder : setOrder;
       setActiveOrder((current) =>
         current.every((idx, position) => idx === state.order[position]) ? current : state.order,
       );
       setMobileRevealed(state.revealed);
       if (state.reset) {
         audioPrediction.current.reset();
-        if (inDictionary) setOpenWords([]);
+        if (rowSection === 'dictionary') setOpenWords([]);
         else setOpenSentences([]);
       }
-      if (state.revealed) revealTranslation(section, state.idx);
+      if (state.revealed) revealTranslation(rowSection, state.idx);
     };
     window.addEventListener('android-tv-audio', update);
     return () => window.removeEventListener('android-tv-audio', update);
-  }, [inDictionary, onAdjacentLesson, revealTranslation, section]);
+  }, [inDictionary, lesson, onAdjacentLesson, onServiceLesson, revealTranslation, section]);
 
   const selectSentence = useCallback(
     (
@@ -336,7 +370,30 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     ],
   );
 
+  const controlTvAudio = useCallback(
+    (action: string, extra?: { idx: number; column: SentenceSelection['column'] }) => {
+      const playback = tvAudio.current;
+      if (!playback) return false;
+      playback.tail = playback.tail
+        .then(() => {
+          if (tvAudio.current === playback) {
+            return invoke<void>('android_tv_audio', {
+              request: { action, id: playback.id, ...extra },
+            });
+          }
+        })
+        .catch((error: unknown) => {
+          console.error('Error controlling lesson audio:', error);
+          if (tvAudio.current !== playback) return;
+          stopTvAudio();
+        });
+      return true;
+    },
+    [stopTvAudio],
+  );
+
   const restart = useCallback(() => {
+    if (controlTvAudio('restart')) return;
     if (!translations || !openSentences || !favoriteTranslations || !activeOrder.length) return;
     const newOrder = shuffle(activeOrder);
     audioPrediction.current.reset();
@@ -356,6 +413,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     );
   }, [
     activeOrder,
+    controlTvAudio,
     favoriteTranslations,
     inDictionary,
     openSentences,
@@ -365,8 +423,68 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     translations,
   ]);
 
+  const startAndroidPlayback = useCallback(
+    (
+      rowSection: Section,
+      idx: number,
+      play: boolean,
+      rowOrderOverride?: number[],
+      cue?: LessonChangeCue,
+    ) => {
+      if (!androidTvAudio) return;
+      const dictionary = rowSection === 'dictionary';
+      const rows = dictionary ? words : translations;
+      const rowOrder = rowOrderOverride ?? (dictionary ? wordOrder : order);
+      if (!rows || !rowOrder.length) return;
+      const id = ++nextTvAudioId;
+      const selectedIdx = rowOrder.includes(idx) ? idx : rowOrder[0];
+      tvAudio.current = {
+        id,
+        tail: invoke<void>('android_tv_audio', {
+          request: {
+            action: 'start',
+            id,
+            selected: selectedIdx,
+            sourceLanguage,
+            play,
+            cue,
+            course,
+            lesson,
+            lessons: lessonIds,
+            file: dictionary ? 'words' : 'tasks',
+            resetOnLessonEnd: !dictionary && settings.resetOnLessonEnd,
+            announceRestart: !dictionary,
+            rows: rowOrder.map((rowIdx) => ({ ...rows[rowIdx], idx: rowIdx })),
+          },
+        }).catch((error: unknown) => {
+          console.error('Error starting lesson audio:', error);
+          if (tvAudio.current?.id !== id) return;
+          tvAudio.current = null;
+        }),
+      };
+    },
+    [
+      course,
+      lesson,
+      lessonIds,
+      order,
+      settings.resetOnLessonEnd,
+      sourceLanguage,
+      translations,
+      wordOrder,
+      words,
+    ],
+  );
+
   const navigate = useCallback(
     (key: ArrowKey) => {
+      const command = {
+        ArrowUp: 'up',
+        ArrowDown: 'down',
+        ArrowLeft: 'left',
+        ArrowRight: 'right',
+      }[key];
+      if (controlTvAudio(command)) return;
       if (!translations || !openSentences || !favoriteTranslations) return;
       const next = getNextSentence(activeOrder, selected, key, sourceLanguage);
       if (!next) return;
@@ -383,6 +501,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     },
     [
       activeOrder,
+      controlTvAudio,
       favoriteTranslations,
       openSentences,
       resetOnLessonEnd,
@@ -397,12 +516,13 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   );
 
   const replay = useCallback(() => {
+    if (controlTvAudio('replay')) return;
     if (!selected || !activeTranslations) return;
     if (inDictionary) setDictionaryExpanded(true);
     setCursorVisible(true);
     const audio = activeTranslations[selected.idx].audio?.[selected.column];
     if (audio) playAudio(audio);
-  }, [activeTranslations, inDictionary, playAudio, selected]);
+  }, [activeTranslations, controlTvAudio, inDictionary, playAudio, selected]);
 
   const enterDictionary = useCallback(() => {
     if (!wordOrder.length) return;
@@ -415,20 +535,39 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   }, [inDictionary, selectSentence, selected, sourceLanguage, wordOrder]);
 
   const toggleDictionary = useCallback(() => {
+    const nextSection: Section = inDictionary ? 'sentences' : 'dictionary';
+    const nextOrder = inDictionary ? order : wordOrder;
+    if (!nextOrder.length) return;
+    setDictionaryExpanded(nextSection === 'dictionary');
+    if (androidTvAudio) {
+      rememberSelection(nextSection, { idx: nextOrder[0], column: sourceLanguage });
+      setCursorVisible(true);
+      startAndroidPlayback(nextSection, nextOrder[0], true);
+      return;
+    }
     if (!inDictionary) {
       enterDictionary();
       return;
     }
-    if (!order.length) return;
     setDictionaryExpanded(false);
     selectSentence('sentences', { idx: order[0], column: sourceLanguage });
-  }, [enterDictionary, inDictionary, order, selectSentence, sourceLanguage]);
+  }, [
+    enterDictionary,
+    inDictionary,
+    order,
+    rememberSelection,
+    selectSentence,
+    sourceLanguage,
+    startAndroidPlayback,
+    wordOrder,
+  ]);
 
   useImperativeHandle(ref, () => ({
     navigate,
     replay,
     restart,
     toggleDictionary,
+    stepLesson: (direction) => controlTvAudio(direction > 0 ? 'nextLesson' : 'previousLesson'),
     handleTvGamepad: (action) => mobileControlsRef.current?.handleGamepad(action) ?? false,
     getTvResume: () =>
       mobileDialogRef.current?.open ? { fullscreen: mobileFullscreen.current } : null,
@@ -622,6 +761,8 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
 
   useEffect(() => {
     let active = true;
+    const handoff = androidHandoff?.lesson === lesson ? androidHandoff : null;
+    if (handoff) androidHandoff = null;
     void (async () => {
       setTranslations(null);
       setLoadError(false);
@@ -640,12 +781,27 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
       const newTranslations = loadedTranslations ?? [];
       const lessonWords = newWords ?? [];
       if (active) {
-        setOrder(newTranslations.map((_, idx) => idx));
+        const dictionary = handoff?.state.section === 'dictionary';
+        if (handoff) {
+          tvAudio.current = { id: handoff.state.id, tail: Promise.resolve() };
+          setSelected({ idx: handoff.state.idx, column: handoff.state.column });
+          setMobileRevealed(handoff.state.revealed);
+          setCursorVisible(true);
+        }
+        setOrder(
+          handoff && !dictionary ? handoff.state.order : newTranslations.map((_, idx) => idx),
+        );
         setWords(lessonWords);
-        setWordOrder(lessonWords.map((_, idx) => idx));
+        setWordOrder(
+          handoff && dictionary ? handoff.state.order : lessonWords.map((_, idx) => idx),
+        );
         setOpenWords([]);
-        setDictionaryExpanded(false);
-        setSection(!newTranslations.length && lessonWords.length ? 'dictionary' : 'sentences');
+        setDictionaryExpanded(dictionary);
+        setSection(
+          dictionary || (!newTranslations.length && lessonWords.length)
+            ? 'dictionary'
+            : 'sentences',
+        );
         setTranslations(newTranslations);
       }
     })().catch((error: unknown) => {
@@ -657,7 +813,37 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     };
   }, [course, lesson, loadFavoriteTranslations]);
 
+  useEffect(() => {
+    if (!androidTvAudio || !translations || !activeOrder.length || tvAudio.current) return;
+    startAndroidPlayback(section, activeOrder[0], false);
+  }, [activeOrder, section, sourceLanguage, startAndroidPlayback, translations]);
+
+  useEffect(() => {
+    if (!androidTvAudio) return;
+    const sync = () => {
+      if (document.visibilityState !== 'visible') return;
+      const playback = tvAudio.current;
+      if (!playback) return;
+      playback.tail = playback.tail
+        .then(() => {
+          if (tvAudio.current !== playback) return;
+          return invoke<void>('android_tv_audio', { request: { action: 'sync', id: playback.id } });
+        })
+        .catch((error: unknown) => {
+          console.error('Error syncing lesson audio:', error);
+        });
+    };
+    document.addEventListener('visibilitychange', sync);
+    return () => document.removeEventListener('visibilitychange', sync);
+  }, []);
+
   const handleClickTargetSentence = (rowSection: Section, idx: number) => {
+    if (controlTvAudio('select', { idx, column: targetLanguage })) {
+      rememberSelection(rowSection, { idx, column: targetLanguage });
+      setCursorVisible(true);
+      revealTranslation(rowSection, idx);
+      return;
+    }
     const dictionary = rowSection === 'dictionary';
     const audio = (dictionary ? words : translations)?.[idx]?.audio?.[targetLanguage];
     const open = dictionary ? openWords : openSentences;
@@ -691,10 +877,14 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   const handleClickShuffle = () => {
     audioPrediction.current.reset();
     audioCache.current.preload([]);
-    setOrder((v) => shuffle(v));
-    setWordOrder((v) => shuffle(v));
+    const nextSentences = shuffle(order);
+    const nextWords = shuffle(wordOrder);
+    setOrder(nextSentences);
+    setWordOrder(nextWords);
     setSelected(null);
     setCursorVisible(false);
+    const nextOrder = section === 'dictionary' ? nextWords : nextSentences;
+    if (nextOrder.length) startAndroidPlayback(section, nextOrder[0], false, nextOrder);
   };
 
   const handleClickSwap = () => {
@@ -768,9 +958,6 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   };
 
   const startMobileSection = (rowSection: Section, idx: number, cue?: LessonChangeCue) => {
-    const dictionary = rowSection === 'dictionary';
-    const rows = dictionary ? words : translations;
-    const rowOrder = dictionary ? wordOrder : order;
     setMobileRevealed(false);
     if (!androidTvAudio) {
       speakMobile(idx, sourceLanguage, false, rowSection, cue);
@@ -779,27 +966,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
 
     stopAudio();
     rememberSelection(rowSection, { idx, column: sourceLanguage });
-    const id = ++nextTvAudioId;
-    tvAudio.current = {
-      id,
-      tail: invoke<void>('android_tv_audio', {
-        request: {
-          action: 'start',
-          id,
-          selected: idx,
-          sourceLanguage,
-          cue,
-          resetOnLessonEnd: !dictionary && settings.resetOnLessonEnd,
-          announceRestart: !dictionary,
-          rows: rowOrder.map((idx) => ({ ...rows[idx], idx })),
-        },
-      }).catch((error: unknown) => {
-        console.error('Error starting TV audio:', error);
-        if (tvAudio.current?.id !== id) return;
-        tvAudio.current = null;
-        speakMobile(idx, sourceLanguage, false, rowSection, cue);
-      }),
-    };
+    startAndroidPlayback(rowSection, idx, true, undefined, cue);
   };
 
   const openMobileMode = async () => {
@@ -823,38 +990,12 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
     }
     mobileDialogRef.current?.showModal();
     setMobileMode(true);
-    startMobileSection(section, selected?.idx ?? activeOrder[0], props.resumeTv?.cue);
+    // A service lesson change is already playing; reopening the picture must not restart it.
+    if (!props.resumeTv || !tvAudio.current) {
+      if (tvAudio.current) controlTvAudio('replay');
+      else startMobileSection(section, selected?.idx ?? activeOrder[0], props.resumeTv?.cue);
+    }
     props.onTvResumed?.();
-  };
-
-  const controlTvAudio = (
-    action:
-      | 'right'
-      | 'left'
-      | 'up'
-      | 'down'
-      | 'source'
-      | 'reveal'
-      | 'swipeRight'
-      | 'swipeLeft'
-      | 'replay'
-      | 'restart'
-      | 'boundary',
-  ) => {
-    const playback = tvAudio.current;
-    if (!playback) return false;
-    playback.tail = playback.tail
-      .then(() => {
-        if (tvAudio.current === playback) {
-          return invoke<void>('android_tv_audio', { request: { action, id: playback.id } });
-        }
-      })
-      .catch((error: unknown) => {
-        console.error('Error controlling TV audio:', error);
-        if (tvAudio.current !== playback) return;
-        stopTvAudio();
-      });
-    return true;
   };
 
   const revealMobileTranslation = () => {
@@ -1033,7 +1174,14 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
                       <button
                         type="button"
                         className="text-left sm:text-right"
-                        onClick={() => playAudio(sourceAudio)}
+                        onClick={() => {
+                          if (controlTvAudio('select', { idx, column: sourceLanguage })) {
+                            rememberSelection(rowSection, { idx, column: sourceLanguage });
+                            setCursorVisible(true);
+                            return;
+                          }
+                          playAudio(sourceAudio);
+                        }}
                       >
                         <span className={cn({ 'audio-phrase': settings.showAudioUnderline })}>
                           {translation[sourceLanguage]}
@@ -1062,7 +1210,15 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
                           type="button"
                           className="text-left"
                           tabIndex={isOpen ? 0 : -1}
-                          onClick={() => playAudio(targetAudio)}
+                          onClick={() => {
+                            if (controlTvAudio('select', { idx, column: targetLanguage })) {
+                              rememberSelection(rowSection, { idx, column: targetLanguage });
+                              setCursorVisible(true);
+                              revealTranslation(rowSection, idx);
+                              return;
+                            }
+                            playAudio(targetAudio);
+                          }}
                         >
                           <span className={cn({ 'audio-phrase': settings.showAudioUnderline })}>
                             {translation[targetLanguage]}
@@ -1183,7 +1339,11 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
             setDictionaryExpanded(!inDictionary);
             startMobileSection(inDictionary ? 'sentences' : 'dictionary', next[0]);
           }}
-          onAdjacentLesson={onAdjacentLesson}
+          onAdjacentLesson={(direction) => {
+            if (!controlTvAudio(direction > 0 ? 'nextLesson' : 'previousLesson')) {
+              onAdjacentLesson?.(direction);
+            }
+          }}
           onReady={props.resumeTv ? openMobileMode : undefined}
           onReveal={revealMobileTranslation}
           onClose={() => {

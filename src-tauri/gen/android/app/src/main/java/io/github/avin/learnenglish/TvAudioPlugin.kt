@@ -55,7 +55,21 @@ class TvAudioPlugin(activity: Activity) : Plugin(activity) {
           val cue = args.optString("cue").takeIf {
             it == "sounds/lesson-next.wav" || it == "sounds/lesson-previous.wav"
           }
-          TvAudioService.pending = TvAudioService.Start(lesson, invoke, cue)
+          val course = args.optString("course")
+          val lessonKey = args.optString("lesson")
+          val file = args.optString("file")
+          val ids = args.optJSONArray("lessons")
+          val catalog = if ((course == "titan" || course == "express") && lessonKey.isNotEmpty()) {
+            TvAudioService.Catalog(
+              course,
+              if (ids == null) emptyList() else List(ids.length()) { ids.getString(it) },
+              lessonKey,
+              if (file == "words") "words" else "tasks",
+            )
+          } else null
+          TvAudioService.pending = TvAudioService.Start(
+            lesson, invoke, cue, !args.has("play") || args.getBoolean("play"), catalog,
+          )
         }
         "stop" -> {
           if (TvAudioService.pending == null && TvAudioService.current?.lessonId == id) {
@@ -67,7 +81,7 @@ class TvAudioPlugin(activity: Activity) : Plugin(activity) {
           val playback = checkNotNull(TvAudioService.current?.takeIf { it.lessonId == id }) {
             "TV audio session has ended"
           }
-          playback.control(action)
+          playback.control(action, args)
           invoke.resolve()
         }
       }

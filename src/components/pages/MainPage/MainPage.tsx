@@ -14,9 +14,11 @@ import Lesson, {
 import Settings from '@/components/pages/MainPage/Settings.tsx';
 import { Course } from '@/types';
 import { useProgressStorage } from '@/utils/ProgressContext.ts';
+import { GamepadAction } from '@/utils/gamepad.ts';
 import { ProgressError } from '@/utils/progress.ts';
 import { AppSettings, loadSettings, saveSettings } from '@/utils/settings.ts';
 import { useGamepad } from '@/utils/useGamepad.ts';
+import { useMediaKeys } from '@/utils/useMediaKeys.ts';
 
 type Options = { label: string; value: string }[];
 
@@ -144,6 +146,21 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
     [course, lesson, lessonOptions, playLessonCue, saveLastLesson],
   );
 
+  const adoptServiceLesson = useCallback(
+    (nextLesson: string) => {
+      if (!course || nextLesson === lesson) return;
+      const currentIndex = lessonOptions.findIndex((option) => option.value === lesson);
+      const nextIndex = lessonOptions.findIndex((option) => option.value === nextLesson);
+      const cue =
+        nextIndex >= currentIndex ? 'sounds/lesson-next.wav' : 'sounds/lesson-previous.wav';
+      const tv = lessonRef.current?.getTvResume();
+      if (tv) setResumeTv({ ...tv, cue });
+      setLesson(nextLesson);
+      void saveLastLesson(course, nextLesson);
+    },
+    [course, lesson, lessonOptions, saveLastLesson],
+  );
+
   const changeAdjacentLesson = useCallback(
     (direction: number) => {
       const index = lessonOptions.findIndex((option) => option.value === lesson);
@@ -156,11 +173,14 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
     [handleChangeLesson, lesson, lessonOptions, playLessonCue],
   );
 
-  useGamepad(
-    (action) => {
+  const controlsSuspended =
+    !course || lesson === null || settingsOpen || helpOpen || aboutOpen || !!resumeTv;
+  const handleControl = useCallback(
+    (action: GamepadAction) => {
       if (lessonRef.current?.handleTvGamepad(action)) return;
       if (action === 'previousLesson' || action === 'nextLesson') {
-        changeAdjacentLesson(action === 'nextLesson' ? 1 : -1);
+        const direction = action === 'nextLesson' ? 1 : -1;
+        if (!lessonRef.current?.stepLesson(direction)) changeAdjacentLesson(direction);
       } else if (action === 'replay') {
         lessonRef.current?.replay();
       } else if (action === 'restart') {
@@ -171,9 +191,10 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
         lessonRef.current?.navigate(action);
       }
     },
-    settings.gamepadEnabled,
-    !course || lesson === null || settingsOpen || helpOpen || aboutOpen || !!resumeTv,
+    [changeAdjacentLesson],
   );
+  useGamepad(handleControl, settings.gamepadEnabled, controlsSuspended);
+  useMediaKeys(handleControl, controlsSuspended);
 
   useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {
@@ -206,7 +227,8 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
       if (index === -1) return;
       event.preventDefault();
       if (event.repeat) return;
-      changeAdjacentLesson(event.key === 'ArrowRight' ? 1 : -1);
+      const direction = event.key === 'ArrowRight' ? 1 : -1;
+      if (!lessonRef.current?.stepLesson(direction)) changeAdjacentLesson(direction);
     };
     document.addEventListener('keydown', handleKeyDown);
     return () => document.removeEventListener('keydown', handleKeyDown);
@@ -319,6 +341,8 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
             resumeTv={resumeTv}
             onTvResumed={() => setResumeTv(null)}
             onAdjacentLesson={changeAdjacentLesson}
+            lessonIds={lessonOptions.map((option) => option.value)}
+            onServiceLesson={adoptServiceLesson}
             settings={settings}
             onSwapDirection={() =>
               handleSettingsChange({

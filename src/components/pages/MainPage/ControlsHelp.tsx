@@ -7,23 +7,50 @@ interface Props {
   onClose: () => void;
 }
 
-const actions = [
-  { label: 'Строка выше', keyboard: [['↑']], gamepad: ['↑'] },
-  { label: 'Строка ниже', keyboard: [['↓']], gamepad: ['↓'] },
-  { label: 'Предыдущая ячейка', keyboard: [['←']], gamepad: ['←'] },
-  { label: 'Следующая ячейка', keyboard: [['→']], gamepad: ['→'] },
-  { label: 'Повторить озвучку', keyboard: [['Пробел'], ['Enter']], gamepad: ['A', '✕'] },
+interface MediaBinding {
+  label: string;
+  hold?: boolean;
+}
+
+const actions: {
+  label: string;
+  keyboard: string[][];
+  gamepad: string[];
+  media: MediaBinding[];
+}[] = [
+  { label: 'Строка выше', keyboard: [['↑']], gamepad: ['↑'], media: [] },
+  { label: 'Строка ниже', keyboard: [['↓']], gamepad: ['↓'], media: [] },
+  { label: 'Предыдущая ячейка', keyboard: [['←']], gamepad: ['←'], media: [{ label: 'Пред.' }] },
+  { label: 'Следующая ячейка', keyboard: [['→']], gamepad: ['→'], media: [{ label: 'След.' }] },
+  {
+    label: 'Повторить озвучку',
+    keyboard: [['Пробел'], ['Enter']],
+    gamepad: ['A', '✕'],
+    media: [{ label: 'Play' }, { label: 'Pause' }],
+  },
   {
     label: 'Переключиться между словарём и предложениями',
     keyboard: [['V']],
     gamepad: ['Select', 'Share'],
+    media: [],
   },
-  { label: 'Предыдущий урок', keyboard: [['Shift', '←']], gamepad: ['LB', 'L1'] },
-  { label: 'Следующий урок', keyboard: [['Shift', '→']], gamepad: ['RB', 'R1'] },
+  {
+    label: 'Предыдущий урок',
+    keyboard: [['Shift', '←']],
+    gamepad: ['LB', 'L1'],
+    media: [{ label: 'Пред.', hold: true }],
+  },
+  {
+    label: 'Следующий урок',
+    keyboard: [['Shift', '→']],
+    gamepad: ['RB', 'R1'],
+    media: [{ label: 'След.', hold: true }],
+  },
   {
     label: 'Закрыть переводы, перемешать и начать сначала',
     keyboard: [['Esc']],
     gamepad: ['Start', 'Options'],
+    media: [{ label: 'Play', hold: true }],
   },
 ];
 
@@ -51,7 +78,7 @@ const ControlsHelp = ({ onClose }: Props) => {
       {...dialogEvents}
       onClose={onClose}
       aria-labelledby="controls-help-title"
-      className="max-h-[90dvh] w-[min(94vw,760px)] max-w-none rounded-xl p-0 shadow-xl backdrop:bg-black/50"
+      className="max-h-[90dvh] w-[min(94vw,980px)] max-w-none rounded-xl p-0 shadow-xl backdrop:bg-black/50"
     >
       <div className="sticky top-0 z-10 flex items-center justify-between gap-4 border-b border-light-gray2 bg-white px-4 py-4 sm:px-6">
         <h2 id="controls-help-title" className="text-lg font-bold">
@@ -70,19 +97,23 @@ const ControlsHelp = ({ onClose }: Props) => {
         <table className="w-full table-fixed text-left text-xs sm:text-sm">
           <thead>
             <tr className="border-b border-light-gray2 text-xs text-gray1">
-              <th scope="col" className="w-[36%] py-3 pr-2 font-semibold">
+              <th scope="col" className="w-[28%] py-3 pr-2 font-semibold">
                 Действие
               </th>
-              <th scope="col" className="w-[34%] py-3 pr-2 font-semibold">
+              <th scope="col" className="w-[26%] py-3 pr-2 font-semibold">
                 Клавиатура
               </th>
-              <th scope="col" className="w-[30%] py-3 font-semibold">
+              <th scope="col" className="w-[22%] py-3 pr-2 font-semibold">
                 Геймпад
+              </th>
+              <th scope="col" className="w-[24%] py-3 font-semibold">
+                <span className="sm:hidden">Медиа</span>
+                <span className="hidden sm:inline">Медиаклавиши</span>
               </th>
             </tr>
           </thead>
           <tbody className="divide-y divide-light-gray2">
-            {actions.map(({ label, keyboard, gamepad }) => (
+            {actions.map(({ label, keyboard, gamepad, media }) => (
               <tr key={label}>
                 <th
                   scope="row"
@@ -113,7 +144,7 @@ const ControlsHelp = ({ onClose }: Props) => {
                     )}
                   </div>
                 </td>
-                <td className="py-3">
+                <td className="py-3 pr-2">
                   <div className="flex flex-wrap items-center gap-1.5">
                     {gamepad.map((button, index) => (
                       <React.Fragment key={button}>
@@ -121,6 +152,25 @@ const ControlsHelp = ({ onClose }: Props) => {
                         <Keycap gamepad>{button}</Keycap>
                       </React.Fragment>
                     ))}
+                  </div>
+                </td>
+                <td className="py-3">
+                  <div className="flex flex-wrap items-center gap-1.5">
+                    {media.length ? (
+                      media.map((binding, index) => (
+                        <React.Fragment key={`${binding.hold ? 'hold' : 'tap'}-${binding.label}`}>
+                          {index > 0 && <span className="text-xs text-gray1">или</span>}
+                          <span className="inline-flex flex-wrap items-center gap-1">
+                            {binding.hold && <span className="text-xs text-gray1">удержание</span>}
+                            <Keycap>{binding.label}</Keycap>
+                          </span>
+                        </React.Fragment>
+                      ))
+                    ) : (
+                      <span aria-label="Нет медиаклавиши" className="text-gray2">
+                        —
+                      </span>
+                    )}
                   </div>
                 </td>
               </tr>

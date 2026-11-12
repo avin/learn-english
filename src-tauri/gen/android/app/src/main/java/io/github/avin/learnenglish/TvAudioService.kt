@@ -40,7 +40,19 @@ class TvAudioService : Service() {
     val announceRestart: Boolean,
     val update: (JSONObject) -> Unit,
   )
-  internal data class Start(val lesson: Lesson, val invoke: Invoke, val cue: String?)
+  internal data class Catalog(
+    val course: String,
+    val lessons: List<String>,
+    var lesson: String,
+    val file: String,
+  )
+  internal data class Start(
+    val lesson: Lesson,
+    val invoke: Invoke,
+    val cue: String?,
+    val play: Boolean,
+    val catalog: Catalog?,
+  )
 
   companion object {
     internal var pending: Start? = null
@@ -72,7 +84,9 @@ class TvAudioService : Service() {
   private var position = 0
   private var revealed = false
   private var target = false
-  private val mediaHolds = mutableMapOf<Int, Runnable>()
+  private var positioned = false
+  private var catalog: Catalog? = null
+  private val mediaHolds = mutableMapOf<String, Runnable>()
   private var player: MediaPlayer? = null
   private var speech: TextToSpeech? = null
   private var speechStatus: Int? = null
@@ -85,48 +99,19 @@ class TvAudioService : Service() {
   @Suppress("DEPRECATION")
   override fun onCreate() {
     super.onCreate()
-    session = MediaSession(this, "TV lesson")
+    session = MediaSession(this, "Lesson")
     session.setFlags(MediaSession.FLAG_HANDLES_MEDIA_BUTTONS or MediaSession.FLAG_HANDLES_TRANSPORT_CONTROLS)
     session.setCallback(object : MediaSession.Callback() {
       override fun onSkipToNext() = control("right")
       override fun onSkipToPrevious() = control("left")
       override fun onPlay() = control("replay")
-      override fun onPause() = finishClip()
+      override fun onPause() = control("replay")
       override fun onStop() = stopSelf()
 
       @Suppress("DEPRECATION")
       override fun onMediaButtonEvent(intent: Intent): Boolean {
         val event = intent.getParcelableExtra<KeyEvent>(Intent.EXTRA_KEY_EVENT) ?: return false
-        val action = when (event.keyCode) {
-          KeyEvent.KEYCODE_MEDIA_NEXT -> "right"
-          KeyEvent.KEYCODE_MEDIA_PREVIOUS -> "left"
-          KeyEvent.KEYCODE_MEDIA_PLAY, KeyEvent.KEYCODE_MEDIA_PLAY_PAUSE,
-          KeyEvent.KEYCODE_HEADSETHOOK -> "replay"
-          KeyEvent.KEYCODE_MEDIA_PAUSE -> "pause"
-          else -> return super.onMediaButtonEvent(intent)
-        }
-        if (event.action == KeyEvent.ACTION_UP) {
-          mediaHolds.remove(event.keyCode)?.let(main::removeCallbacks)
-        } else if (event.action == KeyEvent.ACTION_DOWN && event.repeatCount == 0) {
-          if (action == "pause") {
-            finishClip()
-            return true
-          }
-          val holdAction = when (action) {
-            "right" -> "nextLesson"
-            "left" -> "previousLesson"
-            else -> "restart"
-          }
-          mediaHolds.remove(event.keyCode)?.let(main::removeCallbacks)
-          val hold = Runnable {
-            mediaHolds.remove(event.keyCode)
-            control(holdAction)
-          }
-          mediaHolds[event.keyCode] = hold
-          main.postAtTime(hold, event.downTime + MEDIA_HOLD_MS)
-          control(action)
-        }
-        return true
+        return if (handleMediaKey(event)) true else super.onMediaButtonEvent(intent)
       }
     }, main)
     current = this
@@ -137,20 +122,58 @@ class TvAudioService : Service() {
     mediaHolds.clear()
   }
 
+  private fun handleMediaKey(event: KeyEvent): Boolean {
+    val key = when (event.keyCode) {
+      KeyEvent.KEYCODE_MEDIA_NEXT -> "next"
+      KeyEvent.KEYCODE_MEDIA_PREVIOUS -> "previous"
+      KeyEvent.KEYCODE_MEDIA_PLAY, KeyEvent.KEYCODE_MEDIA_PLAY_PAUSE,
+      KeyEvent.KEYCODE_HEADSETHOOK -> "play"
+      KeyEvent.KEYCODE_MEDIA_PAUSE -> "pause"
+      else -> return false
+    }
+    if (event.action == KeyEvent.ACTION_UP) {
+      mediaHolds.remove(key)?.let(main::removeCallbacks)
+      return true
+    }
+    if (event.action != KeyEvent.ACTION_DOWN || event.repeatCount != 0) return true
+    val hold = when (key) {
+      "next" -> "nextLesson"
+      "previous" -> "previousLesson"
+      "play" -> "restart"
+      else -> null
+    }
+    if (hold != null) {
+      mediaHolds.remove(key)?.let(main::removeCallbacks)
+      val runnable = Runnable {
+        mediaHolds.remove(key)
+        control(hold)
+      }
+      mediaHolds[key] = runnable
+      main.postAtTime(runnable, event.downTime + MEDIA_HOLD_MS)
+    }
+    control(if (key == "next") "right" else if (key == "previous") "left" else "replay")
+    return true
+  }
+
   override fun onStartCommand(intent: Intent?, flags: Int, startId: Int): Int {
     val start = pending
     pending = null
     if (start != null) {
       try {
         clearMediaHolds()
+        finishClip()
         lesson = start.lesson
         phrases = start.lesson.phrases
         position = start.lesson.position
         revealed = false
         target = false
+        positioned = start.play
+        catalog = start.catalog
+        MediaKeys.yieldToPlayback()
         session.isActive = true
         startForeground(NOTIFICATION_ID, notification())
-        playCurrent(cue = start.cue)
+        if (start.play) playCurrent(cue = start.cue)
+        else setPlaybackState(PlaybackState.STATE_PAUSED)
         start.invoke.resolve()
       } catch (error: Exception) {
         start.invoke.reject("TV audio: ${error.message}", error)
@@ -159,22 +182,42 @@ class TvAudioService : Service() {
     } else if (lesson == null) {
       stopSelf()
     } else {
-      intent?.action?.let(::control)
+      intent?.action?.let { control(it) }
     }
     return START_NOT_STICKY
   }
 
-  internal fun control(command: String) {
+  internal fun control(command: String, extra: JSONObject? = null) {
     val active = lesson ?: return
+    if (!positioned && command in setOf(
+        "right", "left", "up", "down", "replay", "swipeRight", "swipeLeft", "source", "reveal",
+      )
+    ) {
+      positioned = true
+      target = false
+      revealed = false
+      playCurrent()
+      return
+    }
     val oldPosition = position
     var completed = false
     var reset = false
     var direction: String? = null
     when (command) {
       "nextLesson", "previousLesson" -> {
-        active.update(JSONObject().put("id", active.id)
-          .put("adjacentLesson", if (command == "nextLesson") 1 else -1))
+        switchLesson(if (command == "nextLesson") 1 else -1)
         return
+      }
+      "select" -> {
+        val idx = extra?.optInt("idx", -1) ?: -1
+        val column = extra?.optString("column")
+        val next = phrases.indexOfFirst { it.idx == idx }
+        if (next < 0 || (column != "ru" && column != "en")) return
+        position = next
+        target = column != active.source
+        revealed = target
+        positioned = true
+        if (position != oldPosition) direction = if (next > oldPosition) "forward" else "backward"
       }
       "boundary" -> {
         finishClip()
@@ -238,12 +281,20 @@ class TvAudioService : Service() {
         target = true
         revealed = true
       }
+      "sync" -> {
+        if (!positioned || phrases.isEmpty()) return
+        val phrase = phrases[position]
+        val language = if (!target) active.source else if (active.source == "ru") "en" else "ru"
+        active.update(playbackState(active, phrase, language, null, false))
+        return
+      }
       "replay" -> Unit
       "restart" -> {
         phrases = phrases.shuffled()
         position = 0
         target = false
         revealed = false
+        positioned = true
         completed = active.announceRestart
         reset = true
         direction = "forward"
@@ -251,6 +302,72 @@ class TvAudioService : Service() {
       else -> error("Unknown TV audio action")
     }
     playCurrent(target, completed, direction, reset)
+  }
+
+  private fun switchLesson(direction: Int) {
+    val active = lesson ?: return
+    val current = catalog
+    val index = current?.lessons?.indexOf(current.lesson) ?: -1
+    val next = if (index >= 0) current?.lessons?.getOrNull(index + direction) else null
+    val loaded = if (current != null && next != null) loadPhrases(current.course, next, current.file) else null
+    if (current == null || next == null || loaded == null) {
+      finishClip()
+      if (beginPlayback()) playAsset("sounds/lesson-unavailable.wav") { finishClip() }
+      active.update(JSONObject().put("id", active.id).put("boundary", true))
+      return
+    }
+    current.lesson = next
+    phrases = loaded
+    position = 0
+    target = false
+    revealed = false
+    positioned = true
+    playCurrent(
+      cue = if (direction > 0) "sounds/lesson-next.wav" else "sounds/lesson-previous.wav",
+      direction = "forward",
+      reset = true,
+    )
+  }
+
+  private fun loadPhrases(course: String, lessonKey: String, file: String): List<Phrase>? {
+    if ((course != "titan" && course != "express") || (file != "tasks" && file != "words")) return null
+    if (!lessonKey.matches(Regex("[A-Za-z0-9][A-Za-z0-9 -]{0,40}"))) return null
+    return try {
+      val rows = JSONArray(assets.open("public/translations/$course/$lessonKey/$file.json")
+        .bufferedReader().use { it.readText() })
+      if (rows.length() == 0) return null
+      List(rows.length()) { index ->
+        val row = rows.getJSONObject(index)
+        val id = row.getInt("id")
+        Phrase(index, taskClip(row, "ru", course, lessonKey, file, id), taskClip(row, "en", course, lessonKey, file, id))
+      }
+    } catch (error: Exception) {
+      null
+    }
+  }
+
+  private fun taskClip(row: JSONObject, language: String, course: String, lessonKey: String, file: String, id: Int): Clip {
+    val phrase = row.getJSONObject(language)
+    val asset = if (phrase.optBoolean("audio")) {
+      "translations/$course/$lessonKey/audio/${file}_${id.toString().padStart(3, '0')}_$language.m4a"
+    } else null
+    return Clip(phrase.getString("text"), language, asset)
+  }
+
+  private fun playbackState(
+    active: Lesson,
+    phrase: Phrase,
+    language: String,
+    direction: String?,
+    reset: Boolean,
+  ): JSONObject {
+    val state = JSONObject().put("id", active.id).put("idx", phrase.idx)
+      .put("column", language).put("revealed", revealed).put("order", JSONArray(phrases.map { it.idx }))
+      .put("direction", direction).put("reset", reset)
+    catalog?.let {
+      state.put("lesson", it.lesson).put("section", if (it.file == "words") "dictionary" else "sentences")
+    }
+    return state
   }
 
   private fun playCurrent(
@@ -266,9 +383,7 @@ class TvAudioService : Service() {
     val clip = phrase.clip(language)
     finishClip()
     session.setMetadata(MediaMetadata.Builder().putString(MediaMetadata.METADATA_KEY_TITLE, clip.text).build())
-    active.update(JSONObject().put("id", active.id).put("idx", phrase.idx)
-      .put("column", language).put("revealed", revealed).put("order", JSONArray(phrases.map { it.idx }))
-      .put("direction", direction).put("reset", reset))
+    active.update(playbackState(active, phrase, language, direction, reset))
     if (!beginPlayback()) return
     val intro = cue ?: if (completed) "sounds/lesson-complete.wav" else null
     if (intro != null) playAsset(intro) { playClip(clip) }
@@ -397,7 +512,9 @@ class TvAudioService : Service() {
     finishClip()
     speech?.shutdown()
     speech = null
+    session.isActive = false
     session.release()
+    MediaKeys.resume()
     lesson?.let { it.update(JSONObject().put("id", it.id).put("closed", true)) }
     super.onDestroy()
   }

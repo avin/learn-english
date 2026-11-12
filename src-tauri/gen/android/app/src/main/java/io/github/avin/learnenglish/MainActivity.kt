@@ -21,6 +21,7 @@ class MainActivity : TauriActivity() {
   override fun onCreate(savedInstanceState: Bundle?) {
     enableEdgeToEdge()
     super.onCreate(savedInstanceState)
+    MediaKeys.attach(this)
 
     val safeArea = WindowInsetsCompat.Type.systemBars() or WindowInsetsCompat.Type.displayCutout()
     ViewCompat.setOnApplyWindowInsetsListener(findViewById<View>(android.R.id.content)) { view, insets ->
@@ -28,5 +29,10 @@ class MainActivity : TauriActivity() {
       view.setPadding(padding.left, padding.top, padding.right, padding.bottom)
       WindowInsetsCompat.Builder(insets).setInsets(safeArea, Insets.NONE).build()
     }
+  }
+
+  override fun onDestroy() {
+    MediaKeys.release()
+    super.onDestroy()
   }
 }

@@ -12,6 +12,8 @@ class MainActivity : TauriActivity() {
   internal lateinit var tvWebView: WebView
     private set
 
+  internal fun tvWebViewOrNull(): WebView? = if (::tvWebView.isInitialized) tvWebView else null
+
   override fun onWebViewCreate(webView: WebView) {
     super.onWebViewCreate(webView)
     // Android can recreate the activity and WebView while the Tauri plugin stays loaded.

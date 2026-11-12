@@ -56,11 +56,11 @@ internal object MediaKeys {
   fun dispatch(key: String, phase: String) {
     if (key !in keys || phase !in phases) return
     val activity = PluginManager.activity as? MainActivity ?: return
-    if (!activity::tvWebView.isInitialized) return
+    val webView = activity.tvWebViewOrNull() ?: return
     val detail = JSONObject().put("key", key).put("phase", phase)
-    activity.tvWebView.post {
+    webView.post {
       if (PluginManager.activity !== activity) return@post
-      activity.tvWebView.evaluateJavascript(
+      webView.evaluateJavascript(
         "window.dispatchEvent(new CustomEvent('android-media-key',{detail:$detail}))",
         null,
       )

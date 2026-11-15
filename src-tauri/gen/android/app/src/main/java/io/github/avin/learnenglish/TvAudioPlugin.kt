@@ -67,6 +67,7 @@ class TvAudioPlugin(activity: Activity) : Plugin(activity) {
               if (file == "words") "words" else "tasks",
             )
           } else null
+          MediaKeys.setContext("$course/$lessonKey")
           TvAudioService.pending = TvAudioService.Start(
             lesson, invoke, cue, !args.has("play") || args.getBoolean("play"), catalog,
           )

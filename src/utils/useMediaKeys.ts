@@ -8,6 +8,7 @@ import {
   mediaAction,
   mediaKeyFromKeyboard,
 } from './mediaKeys.ts';
+import { createPressGuard } from './pressGuard.ts';
 
 const controlsAvailable = () => {
   const target = document.activeElement;
@@ -18,9 +19,14 @@ const controlsAvailable = () => {
   return !editing && !document.querySelector('dialog[open]:not([data-gamepad])');
 };
 
-export const useMediaKeys = (onAction: (action: GamepadAction) => void, suspended: boolean) => {
+export const useMediaKeys = (
+  onAction: (action: GamepadAction) => void,
+  suspended: boolean,
+  context: string,
+) => {
   const handler = useRef({ onAction, suspended });
   const timers = useRef(new Map<MediaKey, number>());
+  const acceptPress = useRef(createPressGuard());
 
   useEffect(() => {
     handler.current = { onAction, suspended };
@@ -32,9 +38,10 @@ export const useMediaKeys = (onAction: (action: GamepadAction) => void, suspende
 
   useEffect(() => {
     const down = (key: MediaKey) => {
-      if (timers.current.has(key) || handler.current.suspended || !controlsAvailable()) return;
-      const action = mediaAction(key, false);
-      if (action) handler.current.onAction(action);
+      if (handler.current.suspended || !controlsAvailable()) return;
+      if (!acceptPress.current(key)) return;
+      // An initial keydown starts a new press even if the previous keyup was lost.
+      up(key);
       const timer = window.setTimeout(() => {
         timers.current.delete(key);
         if (handler.current.suspended || !controlsAvailable()) return;
@@ -42,6 +49,8 @@ export const useMediaKeys = (onAction: (action: GamepadAction) => void, suspende
         if (held) handler.current.onAction(held);
       }, MEDIA_HOLD_MS);
       timers.current.set(key, timer);
+      const action = mediaAction(key, false);
+      if (action) handler.current.onAction(action);
     };
     const up = (key: MediaKey) => {
       const timer = timers.current.get(key);
@@ -71,10 +80,19 @@ export const useMediaKeys = (onAction: (action: GamepadAction) => void, suspende
       if (key) up(key);
     };
     const onAndroid = (event: Event) => {
-      const detail = (event as CustomEvent<{ key?: string; phase?: string }>).detail;
-      if (!detail?.key || !isMediaKey(detail.key)) return;
-      if (detail.phase === 'down') down(detail.key);
-      else if (detail.phase === 'up') up(detail.key);
+      const detail = (event as CustomEvent<{ key?: string; held?: boolean; context?: string }>)
+        .detail;
+      if (
+        typeof detail?.key !== 'string' ||
+        !isMediaKey(detail.key) ||
+        typeof detail.held !== 'boolean' ||
+        detail.context !== context ||
+        handler.current.suspended ||
+        !controlsAvailable()
+      )
+        return;
+      const action = mediaAction(detail.key, detail.held);
+      if (action) handler.current.onAction(action);
     };
 
     const cancel = () => {
@@ -100,5 +118,5 @@ export const useMediaKeys = (onAction: (action: GamepadAction) => void, suspende
       document.removeEventListener('visibilitychange', onHide);
       window.removeEventListener('android-media-key', onAndroid);
     };
-  }, []);
+  }, [context]);
 };

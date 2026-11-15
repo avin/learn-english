@@ -12,6 +12,7 @@ import cn from 'clsx';
 import Button from '@/components/common/Button/Button.tsx';
 import { Translation } from '@/types';
 import { GamepadAction } from '@/utils/gamepad.ts';
+import { KeyboardPressGuard } from '@/utils/pressGuard.ts';
 import { ArrowKey, SentenceSelection } from './navigation.ts';
 
 export type SlideDirection = 'forward' | 'backward';
@@ -22,6 +23,7 @@ export interface MobileLessonControls {
 }
 
 interface Props {
+  acceptKeyboardPress: KeyboardPressGuard;
   lessonTitle: string;
   dialogRef: RefObject<HTMLDialogElement>;
   controlsRef: RefObject<MobileLessonControls>;
@@ -44,6 +46,7 @@ const getScreenAngle = () =>
   globalThis.screen?.orientation?.angle ?? globalThis.window?.orientation;
 
 const MobileLesson = ({
+  acceptKeyboardPress,
   lessonTitle,
   dialogRef,
   controlsRef,
@@ -231,7 +234,8 @@ const MobileLesson = ({
         if (event.shiftKey) {
           if (key === 'ArrowLeft' || key === 'ArrowRight') {
             event.preventDefault();
-            if (!event.repeat) onAdjacentLesson?.(key === 'ArrowRight' ? 1 : -1);
+            if (!event.repeat && acceptKeyboardPress(event))
+              onAdjacentLesson?.(key === 'ArrowRight' ? 1 : -1);
           }
           return;
         }
@@ -245,13 +249,13 @@ const MobileLesson = ({
                 : null;
         if (action) {
           event.preventDefault();
-          if (!event.repeat) action();
+          if (!event.repeat && acceptKeyboardPress(event)) action();
           return;
         }
         if (key !== 'ArrowLeft' && key !== 'ArrowRight' && key !== 'ArrowUp' && key !== 'ArrowDown')
           return;
         event.preventDefault();
-        onArrow(key);
+        if (acceptKeyboardPress(event)) onArrow(key);
       }}
       onClose={() => {
         cancelExit();

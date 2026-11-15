@@ -20,7 +20,6 @@ import android.os.Looper
 import android.os.PowerManager
 import android.speech.tts.TextToSpeech
 import android.speech.tts.UtteranceProgressListener
-import android.view.KeyEvent
 import app.tauri.plugin.Invoke
 import org.json.JSONArray
 import org.json.JSONObject
@@ -59,7 +58,6 @@ class TvAudioService : Service() {
     internal var current: TvAudioService? = null
     private const val CHANNEL = "tv-audio"
     private const val NOTIFICATION_ID = 1
-    private const val MEDIA_HOLD_MS = 1501L
   }
 
   private val main = Handler(Looper.getMainLooper())
@@ -86,7 +84,6 @@ class TvAudioService : Service() {
   private var target = false
   private var positioned = false
   private var catalog: Catalog? = null
-  private val mediaHolds = mutableMapOf<String, Runnable>()
   private var player: MediaPlayer? = null
   private var speech: TextToSpeech? = null
   private var speechStatus: Int? = null
@@ -101,58 +98,25 @@ class TvAudioService : Service() {
     super.onCreate()
     session = MediaSession(this, "Lesson")
     session.setFlags(MediaSession.FLAG_HANDLES_MEDIA_BUTTONS or MediaSession.FLAG_HANDLES_TRANSPORT_CONTROLS)
-    session.setCallback(object : MediaSession.Callback() {
-      override fun onSkipToNext() = control("right")
-      override fun onSkipToPrevious() = control("left")
-      override fun onPlay() = control("replay")
-      override fun onPause() = control("replay")
+    session.setCallback(object : MediaKeyCallback() {
       override fun onStop() = stopSelf()
-
-      @Suppress("DEPRECATION")
-      override fun onMediaButtonEvent(intent: Intent): Boolean {
-        val event = intent.getParcelableExtra<KeyEvent>(Intent.EXTRA_KEY_EVENT) ?: return false
-        return if (handleMediaKey(event)) true else super.onMediaButtonEvent(intent)
-      }
     }, main)
     current = this
   }
 
-  private fun clearMediaHolds() {
-    mediaHolds.values.forEach(main::removeCallbacks)
-    mediaHolds.clear()
-  }
-
-  private fun handleMediaKey(event: KeyEvent): Boolean {
-    val key = when (event.keyCode) {
-      KeyEvent.KEYCODE_MEDIA_NEXT -> "next"
-      KeyEvent.KEYCODE_MEDIA_PREVIOUS -> "previous"
-      KeyEvent.KEYCODE_MEDIA_PLAY, KeyEvent.KEYCODE_MEDIA_PLAY_PAUSE,
-      KeyEvent.KEYCODE_HEADSETHOOK -> "play"
-      KeyEvent.KEYCODE_MEDIA_PAUSE -> "pause"
-      else -> return false
-    }
-    if (event.action == KeyEvent.ACTION_UP) {
-      mediaHolds.remove(key)?.let(main::removeCallbacks)
-      return true
-    }
-    if (event.action != KeyEvent.ACTION_DOWN || event.repeatCount != 0) return true
-    val hold = when (key) {
+  internal fun handleMediaAction(key: String, held: Boolean) {
+    val command = if (held) when (key) {
       "next" -> "nextLesson"
       "previous" -> "previousLesson"
       "play" -> "restart"
       else -> null
+    } else when (key) {
+      "next" -> "right"
+      "previous" -> "left"
+      "play", "pause" -> "replay"
+      else -> null
     }
-    if (hold != null) {
-      mediaHolds.remove(key)?.let(main::removeCallbacks)
-      val runnable = Runnable {
-        mediaHolds.remove(key)
-        control(hold)
-      }
-      mediaHolds[key] = runnable
-      main.postAtTime(runnable, event.downTime + MEDIA_HOLD_MS)
-    }
-    control(if (key == "next") "right" else if (key == "previous") "left" else "replay")
-    return true
+    if (command != null) control(command)
   }
 
   override fun onStartCommand(intent: Intent?, flags: Int, startId: Int): Int {
@@ -160,7 +124,7 @@ class TvAudioService : Service() {
     pending = null
     if (start != null) {
       try {
-        clearMediaHolds()
+        MediaKeys.cancel()
         finishClip()
         lesson = start.lesson
         phrases = start.lesson.phrases
@@ -316,6 +280,7 @@ class TvAudioService : Service() {
       active.update(JSONObject().put("id", active.id).put("boundary", true))
       return
     }
+    MediaKeys.setContext("${current.course}/$next")
     current.lesson = next
     phrases = loaded
     position = 0
@@ -508,7 +473,7 @@ class TvAudioService : Service() {
 
   override fun onDestroy() {
     current = null
-    clearMediaHolds()
+    MediaKeys.cancel()
     finishClip()
     speech?.shutdown()
     speech = null

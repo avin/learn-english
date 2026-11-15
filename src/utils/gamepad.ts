@@ -1,3 +1,5 @@
+import { createPressGuard } from './pressGuard.ts';
+
 export type GamepadAction =
   | 'ArrowUp'
   | 'ArrowDown'
@@ -44,6 +46,7 @@ export const createGamepadReader = () => {
   let previousButtons = new Set<number>();
   let repeatAt = 0;
   let waitingForRelease = false;
+  let acceptPress = createPressGuard();
 
   return (
     gamepads: (Gamepad | null)[],
@@ -58,6 +61,7 @@ export const createGamepadReader = () => {
       device = nextDevice;
       previous = null;
       previousButtons = new Set();
+      acceptPress = createPressGuard();
     }
     const action = gamepad ? getAction(gamepad) : null;
     const button = action ? actionButtons[action] : undefined;
@@ -71,10 +75,11 @@ export const createGamepadReader = () => {
     if (action !== previous) {
       previous = action;
       repeatAt = now + 400;
-      return alreadyPressed ? null : action;
+      return !action || alreadyPressed || !acceptPress(action, now) ? null : action;
     }
     if (repeatDirections && action?.startsWith('Arrow') && now >= repeatAt) {
       repeatAt = now + 150;
+      acceptPress(action, now, true);
       return action;
     }
     return null;

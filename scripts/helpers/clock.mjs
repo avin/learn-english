@@ -2,6 +2,7 @@
 export const mockClock = (t) => {
   const tasks = new Map();
   let now = 0;
+  t.mock.method(performance, 'now', () => now);
   let nextId = 0;
   t.mock.method(globalThis, 'setTimeout', (callback, delay = 0) => {
     const id = ++nextId;

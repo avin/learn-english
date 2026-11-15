@@ -12,9 +12,27 @@ import org.json.JSONObject
 
 internal object MediaKeys {
   private val keys = setOf("next", "previous", "play", "pause")
-  private val phases = setOf("down", "up")
   private var session: MediaSession? = null
   private var owners = 0
+  private var generation = 0L
+  private var context: String? = null
+  private val handler by lazy { MediaKeyHandler(::dispatch) }
+
+  fun handle(event: KeyEvent): Boolean = handler.handle(event)
+
+  fun tap(key: String) {
+    if (key in keys) handler.tap(key)
+  }
+
+  fun cancel() {
+    generation++
+    handler.cancel()
+  }
+
+  fun setContext(context: String) {
+    cancel()
+    this.context = context
+  }
 
   fun attach(context: Context) {
     owners++
@@ -49,17 +67,24 @@ internal object MediaKeys {
   fun release() {
     owners = (owners - 1).coerceAtLeast(0)
     if (owners > 0) return
+    if (TvAudioService.current == null) cancel()
     session?.release()
     session = null
   }
 
-  fun dispatch(key: String, phase: String) {
-    if (key !in keys || phase !in phases) return
+  private fun dispatch(key: String, held: Boolean) {
+    val playback = TvAudioService.current
+    if (playback != null) {
+      playback.handleMediaAction(key, held)
+      return
+    }
     val activity = PluginManager.activity as? MainActivity ?: return
     val webView = activity.tvWebViewOrNull() ?: return
-    val detail = JSONObject().put("key", key).put("phase", phase)
+    val detail = JSONObject().put("key", key).put("held", held).put("context", context)
+    val dispatchedGeneration = generation
     webView.post {
-      if (PluginManager.activity !== activity) return@post
+      if (generation != dispatchedGeneration || PluginManager.activity !== activity ||
+        activity.tvWebViewOrNull() !== webView) return@post
       webView.evaluateJavascript(
         "window.dispatchEvent(new CustomEvent('android-media-key',{detail:$detail}))",
         null,
@@ -69,32 +94,14 @@ internal object MediaKeys {
 }
 
 internal open class MediaKeyCallback : MediaSession.Callback() {
-  override fun onSkipToNext() = tap("next")
-  override fun onSkipToPrevious() = tap("previous")
-  override fun onPlay() = tap("play")
-  override fun onPause() = tap("pause")
+  override fun onSkipToNext() = MediaKeys.tap("next")
+  override fun onSkipToPrevious() = MediaKeys.tap("previous")
+  override fun onPlay() = MediaKeys.tap("play")
+  override fun onPause() = MediaKeys.tap("pause")
 
   @Suppress("DEPRECATION")
   override fun onMediaButtonEvent(intent: Intent): Boolean {
     val event = intent.getParcelableExtra<KeyEvent>(Intent.EXTRA_KEY_EVENT) ?: return false
-    val key = when (event.keyCode) {
-      KeyEvent.KEYCODE_MEDIA_NEXT -> "next"
-      KeyEvent.KEYCODE_MEDIA_PREVIOUS -> "previous"
-      KeyEvent.KEYCODE_MEDIA_PLAY, KeyEvent.KEYCODE_MEDIA_PLAY_PAUSE,
-      KeyEvent.KEYCODE_HEADSETHOOK -> "play"
-      KeyEvent.KEYCODE_MEDIA_PAUSE -> "pause"
-      else -> return super.onMediaButtonEvent(intent)
-    }
-    if (event.action == KeyEvent.ACTION_DOWN) {
-      if (event.repeatCount == 0) MediaKeys.dispatch(key, "down")
-    } else if (event.action == KeyEvent.ACTION_UP) {
-      MediaKeys.dispatch(key, "up")
-    }
-    return true
-  }
-
-  private fun tap(key: String) {
-    MediaKeys.dispatch(key, "down")
-    MediaKeys.dispatch(key, "up")
+    return if (MediaKeys.handle(event)) true else super.onMediaButtonEvent(intent)
   }
 }

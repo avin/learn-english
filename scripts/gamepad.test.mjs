@@ -3,7 +3,14 @@ import { readFile } from 'node:fs/promises';
 import test from 'node:test';
 import ts from 'typescript';
 
-const source = await readFile(new URL('../src/utils/gamepad.ts', import.meta.url), 'utf8');
+const guardSource = await readFile(new URL('../src/utils/pressGuard.ts', import.meta.url), 'utf8');
+const guardCode = ts.transpileModule(guardSource, {
+  compilerOptions: { module: ts.ModuleKind.ESNext, target: ts.ScriptTarget.ES2020 },
+}).outputText;
+const guardUrl = `data:text/javascript;base64,${Buffer.from(guardCode).toString('base64')}`;
+const source = (
+  await readFile(new URL('../src/utils/gamepad.ts', import.meta.url), 'utf8')
+).replace('./pressGuard.ts', guardUrl);
 const { outputText } = ts.transpileModule(source, {
   compilerOptions: { module: ts.ModuleKind.ESNext, target: ts.ScriptTarget.ES2020 },
 });
@@ -57,7 +64,37 @@ test('holding a direction repeats after a delay without catching up missed frame
   assert.equal(read([down], 5001), null);
   assert.equal(read([pad([15])], 5010), 'ArrowRight');
   assert.equal(read([pad()], 5020), null);
-  assert.equal(read([down], 5030), 'ArrowDown');
+  assert.equal(read([down], 5030), null, 'release bounce after a repeat is ignored');
+  assert.equal(read([pad()], 5040), null);
+  assert.equal(read([down], 5100), 'ArrowDown');
+});
+
+test('every gamepad control ignores a brief release and repress but accepts normal taps', () => {
+  for (const [button, axes, action] of [
+    [12, [0, 0], 'ArrowUp'],
+    [13, [0, 0], 'ArrowDown'],
+    [14, [0, 0], 'ArrowLeft'],
+    [15, [0, 0], 'ArrowRight'],
+    [undefined, [1, 0], 'ArrowRight'],
+    [undefined, [-1, 0], 'ArrowLeft'],
+    [undefined, [0, 1], 'ArrowDown'],
+    [undefined, [0, -1], 'ArrowUp'],
+    [0, [0, 0], 'replay'],
+    [4, [0, 0], 'previousLesson'],
+    [5, [0, 0], 'nextLesson'],
+    [8, [0, 0], 'toggleDictionary'],
+    [9, [0, 0], 'restart'],
+  ]) {
+    const read = createGamepadReader();
+    const down = pad(button === undefined ? [] : [button], axes);
+    assert.equal(read([down], 0), action);
+    assert.equal(read([pad()], 10), null);
+    assert.equal(read([down], 20), null, action);
+    assert.equal(read([pad()], 30), null);
+    assert.equal(read([down], 99), null, action);
+    assert.equal(read([pad()], 99), null);
+    assert.equal(read([down], 100), action, action);
+  }
 });
 
 test('replay, restart, Select and lesson changes fire once per press, even across long holds', () => {

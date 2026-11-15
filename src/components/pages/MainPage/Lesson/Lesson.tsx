@@ -18,6 +18,7 @@ import FullPageSpinner from '@/components/common/FullPageSpinner/FullPageSpinner
 import { Course, Translation, TranslationTask } from '@/types';
 import { useProgressStorage } from '@/utils/ProgressContext.ts';
 import { GamepadAction } from '@/utils/gamepad.ts';
+import { KeyboardPressGuard } from '@/utils/pressGuard.ts';
 import { AppSettings } from '@/utils/settings.ts';
 import MobileLesson, { MobileLessonControls, SlideDirection } from './MobileLesson.tsx';
 import { AudioCache } from './audioCache.ts';
@@ -30,6 +31,7 @@ export type LessonChangeCue =
   | 'sounds/lesson-unavailable.wav';
 
 interface Props {
+  acceptKeyboardPress: KeyboardPressGuard;
   course: Course;
   lesson: string;
   lessonTitle?: string;
@@ -99,6 +101,7 @@ const loadTranslations = async (lessonPath: string, file: 'tasks' | 'words') => 
 const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
   const {
     course,
+    acceptKeyboardPress,
     lesson,
     settings,
     onAdjacentLesson,
@@ -615,14 +618,14 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
       if (isDictionary) {
         if (!wordOrder.length) return;
         event.preventDefault();
-        if (!event.repeat) toggleDictionary();
+        if (!event.repeat && acceptKeyboardPress(event)) toggleDictionary();
         return;
       }
 
       if (isRestart) {
         if (!activeOrder.length) return;
         event.preventDefault();
-        if (!event.repeat) restart();
+        if (!event.repeat && acceptKeyboardPress(event)) restart();
         return;
       }
 
@@ -637,17 +640,19 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
 
         event.preventDefault();
         if (event.repeat) return;
+        if (!acceptKeyboardPress(event)) return;
         replay();
         return;
       }
 
       if (!activeOrder.length) return;
       event.preventDefault();
-      navigate(event.key as ArrowKey);
+      if (acceptKeyboardPress(event)) navigate(event.key as ArrowKey);
     };
     document.addEventListener('keydown', handleKeyDown);
     return () => document.removeEventListener('keydown', handleKeyDown);
   }, [
+    acceptKeyboardPress,
     activeOrder,
     favoriteTranslations,
     openSentences,
@@ -1309,6 +1314,7 @@ const Lesson = forwardRef<LessonControls, Props>((props, ref) => {
       {controls}
       {!!activeOrder.length && (
         <MobileLesson
+          acceptKeyboardPress={acceptKeyboardPress}
           dialogRef={mobileDialogRef}
           controlsRef={mobileControlsRef}
           lessonTitle={props.lessonTitle ?? lesson}

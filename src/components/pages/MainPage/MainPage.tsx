@@ -15,6 +15,7 @@ import Settings from '@/components/pages/MainPage/Settings.tsx';
 import { Course } from '@/types';
 import { useProgressStorage } from '@/utils/ProgressContext.ts';
 import { GamepadAction } from '@/utils/gamepad.ts';
+import { createKeyboardPressGuard } from '@/utils/pressGuard.ts';
 import { ProgressError } from '@/utils/progress.ts';
 import { AppSettings, loadSettings, saveSettings } from '@/utils/settings.ts';
 import { useGamepad } from '@/utils/useGamepad.ts';
@@ -75,6 +76,7 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
   const [helpOpen, setHelpOpen] = useState(false);
   const [aboutOpen, setAboutOpen] = useState(false);
   const lessonRef = useRef<LessonControls>(null);
+  const acceptKeyboardPress = useRef(createKeyboardPressGuard()).current;
   const [resumeTv, setResumeTv] = useState<{ fullscreen: boolean; cue: LessonChangeCue } | null>(
     null,
   );
@@ -194,7 +196,7 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
     [changeAdjacentLesson],
   );
   useGamepad(handleControl, settings.gamepadEnabled, controlsSuspended);
-  useMediaKeys(handleControl, controlsSuspended);
+  useMediaKeys(handleControl, controlsSuspended, `${course}/${lesson}`);
 
   useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {
@@ -227,12 +229,22 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
       if (index === -1) return;
       event.preventDefault();
       if (event.repeat) return;
+      if (!acceptKeyboardPress(event)) return;
       const direction = event.key === 'ArrowRight' ? 1 : -1;
       if (!lessonRef.current?.stepLesson(direction)) changeAdjacentLesson(direction);
     };
     document.addEventListener('keydown', handleKeyDown);
     return () => document.removeEventListener('keydown', handleKeyDown);
-  }, [changeAdjacentLesson, course, helpOpen, lesson, lessonOptions, resumeTv, settingsOpen]);
+  }, [
+    acceptKeyboardPress,
+    changeAdjacentLesson,
+    course,
+    helpOpen,
+    lesson,
+    lessonOptions,
+    resumeTv,
+    settingsOpen,
+  ]);
 
   const handleSettingsChange = (newSettings: AppSettings) => {
     setSettings(newSettings);
@@ -333,6 +345,7 @@ const MainPage = ({ isLocal, onLogin, storageError }: Props) => {
       <div className="px-3 py-5 sm:p-8">
         {course && lesson !== null ? (
           <Lesson
+            acceptKeyboardPress={acceptKeyboardPress}
             ref={lessonRef}
             key={`${course}_${lesson}`}
             course={course}

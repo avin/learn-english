@@ -7,7 +7,7 @@ import cn from 'clsx';
 import { shuffle } from 'lodash-es';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
-import test, { afterEach } from 'node:test';
+import test, { afterEach, beforeEach } from 'node:test';
 import ts from 'typescript';
 import { mockClock } from './helpers/clock.mjs';
 
@@ -107,6 +107,7 @@ const Button = await loadModule('../src/components/common/Button/Button.tsx', {
 });
 const navigation = await loadModule('../src/components/pages/MainPage/Lesson/navigation.ts');
 const audioCache = await loadModule('../src/components/pages/MainPage/Lesson/audioCache.ts');
+const pressGuard = await loadModule('../src/utils/pressGuard.ts');
 const audioPrediction = await loadModule(
   '../src/components/pages/MainPage/Lesson/audioPrediction.ts',
 );
@@ -136,6 +137,12 @@ const lessonModule = '../src/components/pages/MainPage/Lesson/Lesson.tsx';
 const { default: Lesson } = await loadModule(lessonModule, lessonDependencies);
 let renderer;
 let controls;
+let inputTime;
+
+beforeEach((t) => {
+  inputTime = 0;
+  t.mock.method(performance, 'now', () => inputTime);
+});
 afterEach(() => {
   act(() => renderer?.unmount());
   played.length = 0;
@@ -152,10 +159,12 @@ const renderLesson = async (
   LessonComponent = Lesson,
 ) => {
   controls = React.createRef();
+  const acceptKeyboardPress = pressGuard.createKeyboardPressGuard();
   const Session = () => {
     const [language, setLanguage] = React.useState(sourceLanguage);
     return React.createElement(LessonComponent, {
       ref: controls,
+      acceptKeyboardPress,
       course: 'titan',
       lesson: '1',
       settings: { sourceLanguage: language, autoPlayOnReveal: true, resetOnLessonEnd },
@@ -172,13 +181,97 @@ const reveals = () => renderer.root.findAllByProps({ 'aria-label': 'Открыт
 const sentences = () => renderer.root.findAll((item) => item.props['data-sentence']);
 const clickCell = (idx, detail = 1) => sentences()[idx].parent.props.onClick({ detail });
 const dictionary = () => renderer.root.findAllByProps({ 'aria-controls': 'lesson-dictionary' });
-const pressTvKey = (key, options = {}) =>
+const pressTvKey = (key, { elapsed = 100, ...options } = {}) => {
+  inputTime += elapsed;
   renderer.root.findByType('dialog').props.onKeyDown({
     key,
     nativeEvent: {},
     preventDefault() {},
     ...options,
   });
+};
+
+const pressLessonKey = (key, { elapsed = 100, ...options } = {}) => {
+  inputTime += elapsed;
+  const event = {
+    key,
+    preventDefault() {
+      this.defaultPrevented = true;
+    },
+    ...options,
+  };
+  for (const listener of documentListeners.get('keydown') || []) listener(event);
+};
+
+test('keyboard lesson controls ignore bounce while keeping arrow autorepeat', async (t) => {
+  globalThis.fetch = withDictionary;
+  globalThis.HTMLElement = class {};
+  t.after(() => delete globalThis.HTMLElement);
+  await renderLesson();
+  await act(async () => pressLessonKey('ArrowRight'));
+  assert.match(played.at(-1).url, /tasks_001_ru\.m4a$/);
+  const before = played.length;
+  await act(async () => pressLessonKey('ArrowRight', { elapsed: 20 }));
+  assert.equal(played.length, before);
+  await act(async () => pressLessonKey('ArrowRight', { elapsed: 80 }));
+  assert.match(played.at(-1).url, /tasks_001_en\.m4a$/);
+  await act(async () => pressLessonKey('ArrowRight', { elapsed: 5, repeat: true }));
+  assert.match(played.at(-1).url, /tasks_002_ru\.m4a$/);
+  for (const [key, options] of [
+    ['Enter', {}],
+    [' ', {}],
+    ['Escape', {}],
+    ['м', { code: 'KeyV' }],
+  ]) {
+    await act(async () => pressLessonKey(key, options));
+    const count = played.length;
+    await act(async () => pressLessonKey(key, { ...options, elapsed: 20 }));
+    assert.equal(played.length, count, key);
+  }
+});
+
+test('all TV keyboard controls reject bounce and allow separate buttons and later taps', () => {
+  const calls = [];
+  const phraseNode = { focus() {} };
+  act(() => {
+    renderer = create(
+      React.createElement(MobileLesson.default, {
+        acceptKeyboardPress: pressGuard.createKeyboardPressGuard(),
+        dialogRef: { current: null },
+        controlsRef: { current: null },
+        phrase: { ru: 'Привет', en: 'Hello' },
+        sourceLanguage: 'ru',
+        revealed: false,
+        onArrow: (key) => calls.push(key),
+        onReplay: () => calls.push('replay'),
+        onRestart: () => calls.push('restart'),
+        onToggleDictionary: () => calls.push('dictionary'),
+        onAdjacentLesson: (direction) => calls.push(direction),
+      }),
+      { createNodeMock: () => phraseNode },
+    );
+  });
+  for (const [key, options, expected] of [
+    ['ArrowRight', {}, 'ArrowRight'],
+    ['ArrowLeft', {}, 'ArrowLeft'],
+    ['ArrowUp', {}, 'ArrowUp'],
+    ['ArrowDown', {}, 'ArrowDown'],
+    ['Enter', { target: phraseNode }, 'replay'],
+    [' ', { target: phraseNode }, 'replay'],
+    ['Escape', {}, 'restart'],
+    ['м', { code: 'KeyV' }, 'dictionary'],
+    ['ArrowRight', { shiftKey: true }, 1],
+    ['ArrowLeft', { shiftKey: true }, -1],
+  ]) {
+    const before = calls.length;
+    act(() => pressTvKey(key, { ...options, elapsed: 0 }));
+    act(() => pressTvKey(key, { ...options, elapsed: 20 }));
+    act(() => pressTvKey(key, { ...options, elapsed: 79 }));
+    assert.deepEqual(calls.slice(before), [expected], key);
+    act(() => pressTvKey(key, { ...options, elapsed: 1 }));
+    assert.deepEqual(calls.slice(before), [expected, expected], key);
+  }
+});
 
 test('mobile exit requires a continuous hold', (t) => {
   const tick = mockClock(t);
@@ -186,6 +279,7 @@ test('mobile exit requires a continuous hold', (t) => {
   act(() => {
     renderer = create(
       React.createElement(MobileLesson.default, {
+        acceptKeyboardPress: pressGuard.createKeyboardPressGuard(),
         dialogRef: { current: null },
         controlsRef: { current: null },
         phrase: null,
@@ -323,11 +417,17 @@ test('Android media navigation slides in the direction reported by the lesson', 
   assert.equal(hasReverseSlide(), false);
 });
 
-test('TV mode receives gamepad input and focuses the phrase for keyboard input', async (t) => {
-  const gamepad = await loadModule('../src/utils/gamepad.ts');
+test('gamepad, keyboard and media keys navigate the same lesson controls', async (t) => {
+  const gamepad = await loadModule('../src/utils/gamepad.ts', { './pressGuard.ts': pressGuard });
   const useGamepad = await loadModule('../src/utils/useGamepad.ts', {
     react: React,
     './gamepad.ts': gamepad,
+  });
+  const useMediaKeys = await loadModule('../src/utils/useMediaKeys.ts', {
+    react: React,
+    '@tauri-apps/api/core': { isTauri: () => false },
+    './mediaKeys.ts': await loadModule('../src/utils/mediaKeys.ts'),
+    './pressGuard.ts': pressGuard,
   });
   const settings = { sourceLanguage: 'ru', gamepadEnabled: true, autoPlayOnReveal: true };
   const { default: MainPage } = await loadModule('../src/components/pages/MainPage/MainPage.tsx', {
@@ -346,7 +446,9 @@ test('TV mode receives gamepad input and focuses the phrase for keyboard input',
       useProgressStorage: () => progress,
     },
     '@/utils/settings.ts': { loadSettings: () => settings },
+    '@/utils/pressGuard.ts': pressGuard,
     '@/utils/useGamepad.ts': useGamepad,
+    '@/utils/useMediaKeys.ts': useMediaKeys,
   });
   const progress = {
     loadLastCourse: async () => 'titan',
@@ -407,7 +509,9 @@ test('TV mode receives gamepad input and focuses the phrase for keyboard input',
       },
     });
   });
-  const poll = async (button, now = 0) => {
+  let pollTime = -100;
+  const poll = async (button, now = pollTime + 100) => {
+    pollTime = now;
     pad.buttons = [];
     if (button !== undefined) pad.buttons[button] = { pressed: true };
     await act(async () => frame(now));
@@ -501,6 +605,65 @@ test('TV mode receives gamepad input and focuses the phrase for keyboard input',
   assert.match(played.at(-1).url, /lesson-previous\.wav$/);
   await poll(4);
   assert.match(played.at(-1).url, /lesson-unavailable\.wav$/);
+
+  await act(async () => pressLessonKey('ArrowRight', { shiftKey: true }));
+  const afterKeyboardStep = saveLesson.mock.calls.length;
+  assert.deepEqual(saveLesson.mock.calls.at(-1).arguments, ['titan', '2']);
+  await act(async () => pressLessonKey('ArrowRight', { shiftKey: true, elapsed: 20 }));
+  assert.equal(saveLesson.mock.calls.length, afterKeyboardStep);
+  await act(async () => pressLessonKey('ArrowRight', { shiftKey: true, elapsed: 80 }));
+  assert.deepEqual(saveLesson.mock.calls.at(-1).arguments, ['titan', '3']);
+
+  const tick = mockClock(t);
+  Object.assign(window, {
+    setTimeout: (...args) => setTimeout(...args),
+    clearTimeout: (id) => clearTimeout(id),
+  });
+  const mediaKey = (type) => {
+    const event = { key: 'MediaTrackNext', preventDefault() {} };
+    for (const listener of documentListeners.get(type) || []) listener(event);
+  };
+  await act(async () => selectLesson('46'));
+  const beforeTap = saveLesson.mock.calls.length;
+  act(() => {
+    mediaKey('keydown');
+    tick(100);
+    mediaKey('keyup');
+    tick(2_000);
+  });
+  assert.equal(
+    saveLesson.mock.calls.length,
+    beforeTap,
+    'the first media tap must stay in lesson 46',
+  );
+  assert.match(played.at(-1).url, /titan\/46\/audio\/tasks_001_ru\.m4a$/);
+
+  act(() => {
+    mediaKey('keydown');
+    tick(1_500);
+  });
+  assert.equal(saveLesson.mock.calls.length, beforeTap);
+  await act(async () => tick(1));
+  assert.deepEqual(saveLesson.mock.calls.at(-1).arguments, ['titan', '47']);
+  act(() => {
+    mediaKey('keyup');
+    tick(5_000);
+  });
+  assert.equal(
+    saveLesson.mock.calls.length,
+    beforeTap + 1,
+    'one hold must change exactly one lesson',
+  );
+
+  act(() => mediaKey('keydown'));
+  await act(async () => selectLesson('50'));
+  const afterManualChange = saveLesson.mock.calls.length;
+  act(() => tick(2_000));
+  assert.equal(
+    saveLesson.mock.calls.length,
+    afterManualChange,
+    'a previous lesson hold must be canceled',
+  );
 });
 
 test('TV mode opens if fullscreen is rejected and leaves existing fullscreen alone', async (t) => {
@@ -904,6 +1067,7 @@ test('dictionary arrows wrap, and V, Select or a pointer can return to sentences
   t.after(() => delete globalThis.HTMLElement);
   await renderLesson('ru', true);
   const keyV = () => {
+    inputTime += 100;
     for (const listener of documentListeners.get('keydown')) {
       listener({ key: 'м', code: 'KeyV', preventDefault() {} });
     }

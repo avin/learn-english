@@ -17,7 +17,8 @@ const holdAction: Partial<Record<MediaKey, GamepadAction>> = {
   play: 'restart',
 };
 
-export const isMediaKey = (key: string): key is MediaKey => key in shortAction;
+export const isMediaKey = (key: string): key is MediaKey =>
+  Object.prototype.hasOwnProperty.call(shortAction, key);
 
 export const mediaKeyFromKeyboard = (key: string): MediaKey | null => {
   switch (key) {
